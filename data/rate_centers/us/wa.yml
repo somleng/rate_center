@@ -1,7 +1,7 @@
 ---
 rate_centers:
-  us:
-    wa:
+  US:
+    WA:
     - region: WA
       exchange: '206670'
       name: Aberdeen
@@ -10,6 +10,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '46.977114'
       long: "-123.823091"
+      closest_city:
+        name: Aberdeen
+        distance:
+          value: 1.05
+          units: km
     - region: WA
       exchange: '209172'
       name: Acme
@@ -18,6 +23,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '48.826813'
       long: "-122.216157"
+      closest_city:
+        name: Deming
+        distance:
+          value: 1.74
+          units: km
     - region: WA
       exchange: '344801'
       name: Addy
@@ -74,6 +84,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '48.473832'
       long: "-122.334619"
+      closest_city:
+        name: Burlington
+        distance:
+          value: 0.78
+          units: km
     - region: WA
       exchange: '344362'
       name: Algona
@@ -98,6 +113,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '47.707015'
       long: "-118.943435"
+      closest_city:
+        name: Almira
+        distance:
+          value: 0.62
+          units: km
     - region: WA
       exchange: '344364'
       name: Amanda Park
@@ -122,6 +142,11 @@ rate_centers:
       ilec_name: LEWIS RIVER TEL. CO., INC.
       lat: '45.906789'
       long: "-122.451497"
+      closest_city:
+        name: Amboy
+        distance:
+          value: 2.26
+          units: km
     - region: WA
       exchange: '344365'
       name: American Lake
@@ -138,6 +163,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '47.649042'
       long: "-121.961101"
+      closest_city:
+        name: Ames Lake
+        distance:
+          value: 1.65
+          units: km
     - region: WA
       exchange: '206710'
       name: Anacortes
@@ -146,6 +176,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '48.501411'
       long: "-122.615462"
+      closest_city:
+        name: Anacortes
+        distance:
+          value: 1.82
+          units: km
     - region: WA
       exchange: '206720'
       name: Anatone
@@ -154,6 +189,11 @@ rate_centers:
       ilec_name: ASOTIN TEL CO
       lat: '46.134946'
       long: "-117.131433"
+      closest_city:
+        name: Anatone
+        distance:
+          value: 0.08
+          units: km
     - region: WA
       exchange: '344368'
       name: Anderson Island
@@ -210,6 +250,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '47.281934'
       long: "-122.664146"
+      closest_city:
+        name: Artondale
+        distance:
+          value: 2.86
+          units: km
     - region: WA
       exchange: '206740'
       name: Arlington
@@ -218,6 +263,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '48.190023'
       long: "-122.122193"
+      closest_city:
+        name: Arlington
+        distance:
+          value: 2.75
+          units: km
     - region: WA
       exchange: '206750'
       name: Ashford
@@ -226,6 +276,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '46.756632'
       long: "-122.032762"
+      closest_city:
+        name: Ashford
+        distance:
+          value: 1.42
+          units: km
     - region: WA
       exchange: '206760'
       name: Asotin
@@ -234,6 +289,11 @@ rate_centers:
       ilec_name: ASOTIN TEL CO
       lat: '46.334374'
       long: "-117.051203"
+      closest_city:
+        name: Asotin
+        distance:
+          value: 0.79
+          units: km
     - region: WA
       exchange: '344810'
       name: Attalia
@@ -250,6 +310,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '47.308622'
       long: "-122.221809"
+      closest_city:
+        name: Auburn
+        distance:
+          value: 0.98
+          units: km
     - region: WA
       exchange: '344374'
       name: Austin
@@ -274,6 +339,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '47.624536'
       long: "-122.521833"
+      closest_city:
+        name: Bainbridge Island
+        distance:
+          value: 2.69
+          units: km
     - region: WA
       exchange: '344376'
       name: Bald Hills
@@ -306,6 +376,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '46.586781'
       long: "-119.148204"
+      closest_city:
+        name: Basin City
+        distance:
+          value: 0.69
+          units: km
     - region: WA
       exchange: '206800'
       name: Battle Ground
@@ -314,6 +389,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '45.783477'
       long: "-122.523988"
+      closest_city:
+        name: Battle Ground
+        distance:
+          value: 1.55
+          units: km
     - region: WA
       exchange: '344379'
       name: Bay Center
@@ -370,6 +450,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '47.448914'
       long: "-122.824104"
+      closest_city:
+        name: Belfair
+        distance:
+          value: 1.85
+          units: km
     - region: WA
       exchange: '206820'
       name: Bellevue
@@ -378,6 +463,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '47.60816'
       long: "-122.210537"
+      closest_city:
+        name: Clyde Hill
+        distance:
+          value: 2.54
+          units: km
     - region: WA
       exchange: '209171'
       name: Bellingham
@@ -386,6 +476,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '48.748861'
       long: "-122.474172"
+      closest_city:
+        name: Bellingham
+        distance:
+          value: 0.76
+          units: km
     - region: WA
       exchange: '206830'
       name: Benge
@@ -394,6 +489,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '46.910162'
       long: "-118.110226"
+      closest_city:
+        name: LaCrosse
+        distance:
+          value: 19.9
+          units: km
     - region: WA
       exchange: '206840'
       name: Benton City
@@ -402,6 +502,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '46.265556'
       long: "-119.480651"
+      closest_city:
+        name: Benton City
+        distance:
+          value: 0.38
+          units: km
     - region: WA
       exchange: '344387'
       name: Bethel
@@ -434,6 +539,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - WA
       lat: '45.999266'
       long: "-120.298198"
+      closest_city:
+        name: Bickleton
+        distance:
+          value: 1.04
+          units: km
     - region: WA
       exchange: '208712'
       name: Big Lake
@@ -442,6 +552,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '48.414702'
       long: "-122.333592"
+      closest_city:
+        name: Mount Vernon
+        distance:
+          value: 1.75
+          units: km
     - region: WA
       exchange: '344298'
       name: Bingen
@@ -466,6 +581,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '47.315151'
       long: "-122.011319"
+      closest_city:
+        name: Black Diamond
+        distance:
+          value: 0.56
+          units: km
     - region: WA
       exchange: '209173'
       name: Blaine
@@ -474,6 +594,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '48.993308'
       long: "-122.7441"
+      closest_city:
+        name: Blaine
+        distance:
+          value: 1.06
+          units: km
     - region: WA
       exchange: '206870'
       name: Blakely Island
@@ -514,6 +639,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '47.766788'
       long: "-122.200712"
+      closest_city:
+        name: Bothell
+        distance:
+          value: 0.8
+          units: km
     - region: WA
       exchange: '344398'
       name: Bow
@@ -538,6 +668,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '47.566747'
       long: "-122.636314"
+      closest_city:
+        name: Navy Yard City
+        distance:
+          value: 2.82
+          units: km
     - region: WA
       exchange: '206900'
       name: Brewster
@@ -546,6 +681,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '48.092236'
       long: "-119.781729"
+      closest_city:
+        name: Brewster
+        distance:
+          value: 1.11
+          units: km
     - region: WA
       exchange: '206910'
       name: Bridgeport
@@ -554,6 +694,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '48.006804'
       long: "-119.677626"
+      closest_city:
+        name: Bridgeport
+        distance:
+          value: 0.37
+          units: km
     - region: WA
       exchange: '344400'
       name: Brier
@@ -570,6 +715,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - WA
       lat: '47.751525'
       long: "-122.884282"
+      closest_city:
+        name: Quilcene
+        distance:
+          value: 9.63
+          units: km
     - region: WA
       exchange: '344402'
       name: Brownsville
@@ -610,6 +760,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '47.157253'
       long: "-122.035441"
+      closest_city:
+        name: Buckley
+        distance:
+          value: 1.26
+          units: km
     - region: WA
       exchange: '206940'
       name: Bucoda
@@ -618,6 +773,11 @@ rate_centers:
       ilec_name: TENINO TEL. CO.
       lat: '46.801831'
       long: "-122.872308"
+      closest_city:
+        name: Bucoda
+        distance:
+          value: 0.65
+          units: km
     - region: WA
       exchange: '344821'
       name: Burbank
@@ -642,6 +802,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '47.421053'
       long: "-122.630195"
+      closest_city:
+        name: Burley
+        distance:
+          value: 0.75
+          units: km
     - region: WA
       exchange: '208713'
       name: Burlington
@@ -650,6 +815,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '48.473832'
       long: "-122.334619"
+      closest_city:
+        name: Burlington
+        distance:
+          value: 0.78
+          units: km
     - region: WA
       exchange: '344410'
       name: Burton
@@ -674,6 +844,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '45.59037'
       long: "-122.406803"
+      closest_city:
+        name: Camas
+        distance:
+          value: 2.15
+          units: km
     - region: WA
       exchange: '344412'
       name: Camp Murray
@@ -714,6 +889,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '47.650523'
       long: "-121.906455"
+      closest_city:
+        name: Carnation
+        distance:
+          value: 0.72
+          units: km
     - region: WA
       exchange: '344301'
       name: Carrolls
@@ -738,6 +918,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '47.514763'
       long: "-120.466594"
+      closest_city:
+        name: Cashmere
+        distance:
+          value: 0.31
+          units: km
     - region: WA
       exchange: '206980'
       name: Castle Rock
@@ -746,6 +931,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '46.276796'
       long: "-122.909885"
+      closest_city:
+        name: Castle Rock
+        distance:
+          value: 0.77
+          units: km
     - region: WA
       exchange: '344416'
       name: Cathcart
@@ -762,6 +952,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '46.200089'
       long: "-123.381324"
+      closest_city:
+        name: Cathlamet
+        distance:
+          value: 0.64
+          units: km
     - region: WA
       exchange: '344417'
       name: Cedar Falls
@@ -794,6 +989,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '46.715419'
       long: "-122.960912"
+      closest_city:
+        name: Centralia
+        distance:
+          value: 1.01
+          units: km
     - region: WA
       exchange: '344824'
       name: Chattaroy
@@ -810,6 +1010,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '46.656657'
       long: "-122.966498"
+      closest_city:
+        name: Chehalis
+        distance:
+          value: 0.8
+          units: km
     - region: WA
       exchange: '209162'
       name: Chelan
@@ -818,6 +1023,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '47.83959'
       long: "-120.01795"
+      closest_city:
+        name: Chelan
+        distance:
+          value: 0.65
+          units: km
     - region: WA
       exchange: '344826'
       name: Chelan Falls
@@ -842,6 +1052,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '47.49101'
       long: "-117.574147"
+      closest_city:
+        name: Cheney
+        distance:
+          value: 0.38
+          units: km
     - region: WA
       exchange: '344828'
       name: Chesaw
@@ -858,6 +1073,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '48.281826'
       long: "-117.720151"
+      closest_city:
+        name: Chewelah
+        distance:
+          value: 1.59
+          units: km
     - region: WA
       exchange: '344421'
       name: Chico
@@ -882,6 +1102,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - WA
       lat: '47.951012'
       long: "-122.783854"
+      closest_city:
+        name: Port Ludlow
+        distance:
+          value: 7.69
+          units: km
     - region: WA
       exchange: '207050'
       name: Chinook
@@ -890,6 +1115,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '46.274924'
       long: "-123.938506"
+      closest_city:
+        name: Chinook
+        distance:
+          value: 0.31
+          units: km
     - region: WA
       exchange: '344425'
       name: Cinebar
@@ -906,6 +1136,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '48.257327'
       long: "-124.255261"
+      closest_city:
+        name: Clallam Bay
+        distance:
+          value: 0.48
+          units: km
     - region: WA
       exchange: '207070'
       name: Clarkston
@@ -914,6 +1149,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '46.416398'
       long: "-117.041337"
+      closest_city:
+        name: Clarkston
+        distance:
+          value: 0.7
+          units: km
     - region: WA
       exchange: '344831'
       name: Clayton
@@ -930,6 +1170,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '47.21679'
       long: "-121.062324"
+      closest_city:
+        name: Ronald
+        distance:
+          value: 2.88
+          units: km
     - region: WA
       exchange: '344427'
       name: Clear Lake
@@ -954,6 +1199,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '47.575238'
       long: "-124.292965"
+      closest_city:
+        name: Queets
+        distance:
+          value: 5.95
+          units: km
     - region: WA
       exchange: '208821'
       name: Clinton
@@ -1010,6 +1260,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '46.881831'
       long: "-117.365996"
+      closest_city:
+        name: Colfax
+        distance:
+          value: 3.06
+          units: km
     - region: WA
       exchange: '344836'
       name: College Place
@@ -1034,6 +1289,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - WA
       lat: '46.47364'
       long: "-119.333942"
+      closest_city:
+        name: Basin City
+        distance:
+          value: 18.67
+          units: km
     - region: WA
       exchange: '344434'
       name: Columbia Beach
@@ -1050,6 +1310,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '48.541514'
       long: "-117.901068"
+      closest_city:
+        name: Colville
+        distance:
+          value: 0.47
+          units: km
     - region: WA
       exchange: '344840'
       name: Conconully
@@ -1066,6 +1331,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '48.54292'
       long: "-121.753023"
+      closest_city:
+        name: Concrete
+        distance:
+          value: 0.67
+          units: km
     - region: WA
       exchange: '207130'
       name: Connell
@@ -1074,6 +1344,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '46.668133'
       long: "-118.859624"
+      closest_city:
+        name: Connell
+        distance:
+          value: 1.6
+          units: km
     - region: WA
       exchange: '208715'
       name: Conway
@@ -1082,6 +1357,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '48.414702'
       long: "-122.333592"
+      closest_city:
+        name: Mount Vernon
+        distance:
+          value: 1.75
+          units: km
     - region: WA
       exchange: '344307'
       name: Cook
@@ -1098,6 +1378,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '47.117839'
       long: "-124.169005"
+      closest_city:
+        name: Copalis Beach
+        distance:
+          value: 0.38
+          units: km
     - region: WA
       exchange: '344438'
       name: Copalis Beach
@@ -1130,6 +1415,11 @@ rate_centers:
       ilec_name: LEWIS RIVER TEL. CO., INC.
       lat: '46.007528'
       long: "-122.301897"
+      closest_city:
+        name: Cougar
+        distance:
+          value: 4.65
+          units: km
     - region: WA
       exchange: '207160'
       name: Coulee City
@@ -1138,6 +1428,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '47.606751'
       long: "-119.294515"
+      closest_city:
+        name: Coulee City
+        distance:
+          value: 0.71
+          units: km
     - region: WA
       exchange: '207170'
       name: Coulee Dam
@@ -1146,6 +1441,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '47.96744'
       long: "-118.989682"
+      closest_city:
+        name: Coulee Dam
+        distance:
+          value: 1.04
+          units: km
     - region: WA
       exchange: '208211'
       name: Coupeville
@@ -1154,6 +1454,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '48.218605'
       long: "-122.683384"
+      closest_city:
+        name: Coupeville
+        distance:
+          value: 0.46
+          units: km
     - region: WA
       exchange: '344442'
       name: Covington
@@ -1170,6 +1475,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF COWICHE, INC. DBA CENTURYLINK
       lat: '46.668496'
       long: "-120.710504"
+      closest_city:
+        name: Cowiche
+        distance:
+          value: 0.4
+          units: km
     - region: WA
       exchange: '344443'
       name: Creosote
@@ -1186,6 +1496,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '47.75937'
       long: "-118.523809"
+      closest_city:
+        name: Creston
+        distance:
+          value: 0.28
+          units: km
     - region: WA
       exchange: '206891'
       name: Crosby
@@ -1202,6 +1517,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '46.934524'
       long: "-121.501966"
+      closest_city:
+        name: Greenwater
+        distance:
+          value: 25.55
+          units: km
     - region: WA
       exchange: '207210'
       name: Curlew
@@ -1210,6 +1530,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '48.885096'
       long: "-118.600891"
+      closest_city:
+        name: Curlew
+        distance:
+          value: 0.87
+          units: km
     - region: WA
       exchange: '207220'
       name: Curtis
@@ -1218,6 +1543,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '46.581842'
       long: "-123.10709"
+      closest_city:
+        name: Chehalis
+        distance:
+          value: 14.17
+          units: km
     - region: WA
       exchange: '207230'
       name: Cusick
@@ -1226,6 +1556,11 @@ rate_centers:
       ilec_name: PEND OREILLE TELEPHONE COMPANY
       lat: '48.339957'
       long: "-117.300031"
+      closest_city:
+        name: Cusick
+        distance:
+          value: 0.85
+          units: km
     - region: WA
       exchange: '209175'
       name: Custer
@@ -1234,6 +1569,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '48.915776'
       long: "-122.639506"
+      closest_city:
+        name: Custer
+        distance:
+          value: 0.39
+          units: km
     - region: WA
       exchange: '344447'
       name: Dabob
@@ -1258,6 +1598,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - WA
       lat: '45.62832'
       long: "-121.187246"
+      closest_city:
+        name: Dallesport
+        distance:
+          value: 1.03
+          units: km
     - region: WA
       exchange: '344847'
       name: Danville
@@ -1274,6 +1619,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '48.252031'
       long: "-121.599138"
+      closest_city:
+        name: Darrington
+        distance:
+          value: 0.41
+          units: km
     - region: WA
       exchange: '344449'
       name: Dash Point
@@ -1290,6 +1640,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '47.649293'
       long: "-118.153015"
+      closest_city:
+        name: Davenport
+        distance:
+          value: 0.64
+          units: km
     - region: WA
       exchange: '207270'
       name: Dayton
@@ -1298,6 +1653,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '46.314593'
       long: "-117.984577"
+      closest_city:
+        name: Dayton
+        distance:
+          value: 0.65
+          units: km
     - region: WA
       exchange: '344310'
       name: Deep River
@@ -1330,6 +1690,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '47.960613'
       long: "-117.477245"
+      closest_city:
+        name: Deer Park
+        distance:
+          value: 2.82
+          units: km
     - region: WA
       exchange: '209176'
       name: Deming
@@ -1338,6 +1703,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '48.826813'
       long: "-122.216157"
+      closest_city:
+        name: Deming
+        distance:
+          value: 1.74
+          units: km
     - region: WA
       exchange: '344852'
       name: Denison
@@ -1354,6 +1724,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '47.400715'
       long: "-122.327265"
+      closest_city:
+        name: Des Moines
+        distance:
+          value: 1.36
+          units: km
     - region: WA
       exchange: '344853'
       name: Desert Aire
@@ -1370,6 +1745,11 @@ rate_centers:
       ilec_name: INLAND TEL CO
       lat: '47.487433'
       long: "-122.962947"
+      closest_city:
+        name: Belfair
+        distance:
+          value: 9.57
+          units: km
     - region: WA
       exchange: '344854'
       name: Diamond
@@ -1442,6 +1822,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '47.651521'
       long: "-120.072532"
+      closest_city:
+        name: Waterville
+        distance:
+          value: 0.41
+          units: km
     - region: WA
       exchange: '344457'
       name: Dryad
@@ -1490,6 +1875,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '47.766788'
       long: "-122.200712"
+      closest_city:
+        name: Bothell
+        distance:
+          value: 0.8
+          units: km
     - region: WA
       exchange: '344463'
       name: Eagle Harbor
@@ -1538,6 +1928,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '47.242193'
       long: "-121.174091"
+      closest_city:
+        name: Easton
+        distance:
+          value: 0.2
+          units: km
     - region: WA
       exchange: '207320'
       name: Eastsound
@@ -1546,6 +1941,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF INTER-ISLAND, INC. DBA CENTURYLINK
       lat: '48.692307'
       long: "-122.909897"
+      closest_city:
+        name: Roche Harbor
+        distance:
+          value: 19.0
+          units: km
     - region: WA
       exchange: '207330'
       name: Eatonville
@@ -1554,6 +1954,11 @@ rate_centers:
       ilec_name: MASHELL TELECOM, INC.
       lat: '46.865854'
       long: "-122.275664"
+      closest_city:
+        name: Eatonville
+        distance:
+          value: 0.52
+          units: km
     - region: WA
       exchange: '344467'
       name: Edgecomb
@@ -1578,6 +1983,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '48.473832'
       long: "-122.334619"
+      closest_city:
+        name: Burlington
+        distance:
+          value: 0.78
+          units: km
     - region: WA
       exchange: '344470'
       name: Edmonds
@@ -1602,6 +2012,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '47.467248'
       long: "-117.865254"
+      closest_city:
+        name: Medical Lake
+        distance:
+          value: 17.56
+          units: km
     - region: WA
       exchange: '344471'
       name: Eglon
@@ -1642,6 +2057,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '47.923502'
       long: "-117.277865"
+      closest_city:
+        name: Green Bluff
+        distance:
+          value: 11.69
+          units: km
     - region: WA
       exchange: '207360'
       name: Ellensburg
@@ -1650,6 +2070,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF WASHINGTON COMPANY
       lat: '46.999493'
       long: "-120.544313"
+      closest_city:
+        name: Ellensburg
+        distance:
+          value: 0.25
+          units: km
     - region: WA
       exchange: '207370'
       name: Elma
@@ -1658,6 +2083,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '47.009369'
       long: "-123.417243"
+      closest_city:
+        name: Elma
+        distance:
+          value: 0.63
+          units: km
     - region: WA
       exchange: '207380'
       name: Eltopia
@@ -1666,6 +2096,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '46.456518'
       long: "-119.015751"
+      closest_city:
+        name: Mesa
+        distance:
+          value: 13.05
+          units: km
     - region: WA
       exchange: '207390'
       name: Endicott
@@ -1674,6 +2109,11 @@ rate_centers:
       ilec_name: PIONEER TEL. CO.
       lat: '46.931583'
       long: "-117.694234"
+      closest_city:
+        name: Endicott
+        distance:
+          value: 0.68
+          units: km
     - region: WA
       exchange: '209163'
       name: Entiat
@@ -1682,6 +2122,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '47.657579'
       long: "-120.221788"
+      closest_city:
+        name: Entiat
+        distance:
+          value: 2.29
+          units: km
     - region: WA
       exchange: '207400'
       name: Enumclaw
@@ -1690,6 +2135,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '47.200195'
       long: "-121.990192"
+      closest_city:
+        name: Enumclaw
+        distance:
+          value: 0.18
+          units: km
     - region: WA
       exchange: '207410'
       name: Ephrata
@@ -1698,6 +2148,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '47.31586'
       long: "-119.557968"
+      closest_city:
+        name: Ephrata
+        distance:
+          value: 1.84
+          units: km
     - region: WA
       exchange: '344872'
       name: Espanola
@@ -1722,6 +2177,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '46.307216'
       long: "-118.613601"
+      closest_city:
+        name: Prescott
+        distance:
+          value: 23.14
+          units: km
     - region: WA
       exchange: '344874'
       name: Evans
@@ -1738,6 +2198,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '47.984925'
       long: "-122.198479"
+      closest_city:
+        name: Everett
+        distance:
+          value: 4.3
+          units: km
     - region: WA
       exchange: '209177'
       name: Everson
@@ -1746,6 +2211,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '48.914843'
       long: "-122.339823"
+      closest_city:
+        name: Everson
+        distance:
+          value: 0.84
+          units: km
     - region: WA
       exchange: '344875'
       name: Ewan
@@ -1770,6 +2240,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '47.383626'
       long: "-117.172047"
+      closest_city:
+        name: Fairfield
+        distance:
+          value: 0.24
+          units: km
     - region: WA
       exchange: '207440'
       name: Fall City
@@ -1778,6 +2253,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '47.567589'
       long: "-121.88843"
+      closest_city:
+        name: Fall City
+        distance:
+          value: 1.92
+          units: km
     - region: WA
       exchange: '207450'
       name: Farmington
@@ -1786,6 +2266,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '47.090218'
       long: "-117.047087"
+      closest_city:
+        name: Farmington
+        distance:
+          value: 0.18
+          units: km
     - region: WA
       exchange: '207291'
       name: Federal Way
@@ -1810,6 +2295,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '48.849844'
       long: "-122.589859"
+      closest_city:
+        name: Ferndale
+        distance:
+          value: 0.31
+          units: km
     - region: WA
       exchange: '344481'
       name: Fife
@@ -1850,6 +2340,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '47.949854'
       long: "-124.391318"
+      closest_city:
+        name: Forks
+        distance:
+          value: 0.33
+          units: km
     - region: WA
       exchange: '344494'
       name: Fort Flagler
@@ -1914,6 +2409,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '47.266655'
       long: "-122.631852"
+      closest_city:
+        name: Fox Island
+        distance:
+          value: 2.16
+          units: km
     - region: WA
       exchange: '344491'
       name: Frances
@@ -1946,6 +2446,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF INTER-ISLAND, INC. DBA CENTURYLINK
       lat: '48.534282'
       long: "-123.027524"
+      closest_city:
+        name: Friday Harbor
+        distance:
+          value: 2.82
+          units: km
     - region: WA
       exchange: '344883'
       name: Fruitland
@@ -1978,6 +2483,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - WA
       lat: '48.04824'
       long: "-122.918793"
+      closest_city:
+        name: Blyn
+        distance:
+          value: 6.56
+          units: km
     - region: WA
       exchange: '207500'
       name: Garfield
@@ -1986,6 +2496,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '47.008344'
       long: "-117.15161"
+      closest_city:
+        name: Garfield
+        distance:
+          value: 0.94
+          units: km
     - region: WA
       exchange: '207510'
       name: Garrison
@@ -1994,6 +2509,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '46.74075'
       long: "-117.056582"
+      closest_city:
+        name: Pullman
+        distance:
+          value: 8.53
+          units: km
     - region: WA
       exchange: '344497'
       name: Gate
@@ -2018,6 +2538,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '47.077355'
       long: "-119.851627"
+      closest_city:
+        name: George
+        distance:
+          value: 1.03
+          units: km
     - region: WA
       exchange: '344886'
       name: Gifford
@@ -2034,6 +2559,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '47.341787'
       long: "-122.590602"
+      closest_city:
+        name: Gig Harbor
+        distance:
+          value: 0.85
+          units: km
     - region: WA
       exchange: '344500'
       name: Gilberton
@@ -2066,6 +2596,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '46.526805'
       long: "-122.151858"
+      closest_city:
+        name: Morton
+        distance:
+          value: 10.49
+          units: km
     - region: WA
       exchange: '207550'
       name: Glenwood
@@ -2074,6 +2609,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - WA
       lat: '46.017869'
       long: "-121.282128"
+      closest_city:
+        name: Glenwood
+        distance:
+          value: 0.97
+          units: km
     - region: WA
       exchange: '344503'
       name: Gold Bar
@@ -2090,6 +2630,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - WA
       lat: '45.827069'
       long: "-120.824848"
+      closest_city:
+        name: Goldendale
+        distance:
+          value: 0.88
+          units: km
     - region: WA
       exchange: '344888'
       name: Goose Prairie
@@ -2114,6 +2659,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '47.039513'
       long: "-122.290815"
+      closest_city:
+        name: Graham
+        distance:
+          value: 1.02
+          units: km
     - region: WA
       exchange: '344889'
       name: Grand Coulee
@@ -2138,6 +2688,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - WA
       lat: '46.248429'
       long: "-119.902781"
+      closest_city:
+        name: Grandview
+        distance:
+          value: 0.67
+          units: km
     - region: WA
       exchange: '207590'
       name: Granger
@@ -2146,6 +2701,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - WA
       lat: '46.339678'
       long: "-120.202235"
+      closest_city:
+        name: Granger
+        distance:
+          value: 0.98
+          units: km
     - region: WA
       exchange: '207600'
       name: Granite Falls
@@ -2154,6 +2714,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '48.082044'
       long: "-121.975603"
+      closest_city:
+        name: Granite Falls
+        distance:
+          value: 0.7
+          units: km
     - region: WA
       exchange: '344508'
       name: Grapeview
@@ -2170,6 +2735,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '46.806528'
       long: "-124.084232"
+      closest_city:
+        name: Grayland
+        distance:
+          value: 2.69
+          units: km
     - region: WA
       exchange: '207610'
       name: Grays Harbor County
@@ -2178,6 +2748,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '46.893667'
       long: "-124.111301"
+      closest_city:
+        name: Westport
+        distance:
+          value: 0.22
+          units: km
     - region: WA
       exchange: '207620'
       name: Grays River
@@ -2186,6 +2761,11 @@ rate_centers:
       ilec_name: WESTERN WAHKIAKUM COUNTY TEL. CO.
       lat: '46.360174'
       long: "-123.606219"
+      closest_city:
+        name: Grays River
+        distance:
+          value: 1.32
+          units: km
     - region: WA
       exchange: '344893'
       name: Green Bluff
@@ -2242,6 +2822,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '47.800764'
       long: "-122.32688"
+      closest_city:
+        name: Esperance
+        distance:
+          value: 1.69
+          units: km
     - region: WA
       exchange: '344516'
       name: Hamilton
@@ -2290,6 +2875,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - WA
       lat: '46.409835'
       long: "-120.53889"
+      closest_city:
+        name: Harrah
+        distance:
+          value: 0.45
+          units: km
     - region: WA
       exchange: '207660'
       name: Harrington
@@ -2298,6 +2888,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '47.483928'
       long: "-118.257807"
+      closest_city:
+        name: Harrington
+        distance:
+          value: 0.44
+          units: km
     - region: WA
       exchange: '344520'
       name: Harstine Island
@@ -2330,6 +2925,11 @@ rate_centers:
       ilec_name: HAT ISLAND TEL. CO.
       lat: '48.018154'
       long: "-122.311567"
+      closest_city:
+        name: Hat Island
+        distance:
+          value: 0.86
+          units: km
     - region: WA
       exchange: '344898'
       name: Hatton
@@ -2370,6 +2970,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - WA
       lat: '47.751525'
       long: "-122.884282"
+      closest_city:
+        name: Quilcene
+        distance:
+          value: 9.63
+          units: km
     - region: WA
       exchange: '207680'
       name: Hoodsport
@@ -2378,6 +2983,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '47.409524'
       long: "-123.139452"
+      closest_city:
+        name: Hoodsport
+        distance:
+          value: 1.33
+          units: km
     - region: WA
       exchange: '344526'
       name: Hoquiam
@@ -2402,6 +3012,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '48.117297'
       long: "-118.199603"
+      closest_city:
+        name: Twin Lakes
+        distance:
+          value: 19.99
+          units: km
     - region: WA
       exchange: '344528'
       name: Hunts Point
@@ -2482,6 +3097,11 @@ rate_centers:
       ilec_name: PEND OREILLE TELEPHONE COMPANY
       lat: '48.741927'
       long: "-117.417056"
+      closest_city:
+        name: Ione
+        distance:
+          value: 0.39
+          units: km
     - region: WA
       exchange: '344903'
       name: Irby
@@ -2498,6 +3118,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '47.525813'
       long: "-122.035768"
+      closest_city:
+        name: Issaquah
+        distance:
+          value: 2.18
+          units: km
     - region: WA
       exchange: '362728'
       name: Jared
@@ -2538,6 +3163,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '46.641925'
       long: "-118.555267"
+      closest_city:
+        name: Kahlotus
+        distance:
+          value: 0.16
+          units: km
     - region: WA
       exchange: '207740'
       name: Kalama
@@ -2546,6 +3176,11 @@ rate_centers:
       ilec_name: KALAMA TEL. CO.
       lat: '46.009839'
       long: "-122.843557"
+      closest_city:
+        name: Kalama
+        distance:
+          value: 0.77
+          units: km
     - region: WA
       exchange: '344536'
       name: Kapowsin
@@ -2586,6 +3221,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '46.208717'
       long: "-119.123585"
+      closest_city:
+        name: Kennewick
+        distance:
+          value: 4.01
+          units: km
     - region: WA
       exchange: '344538'
       name: Kennydale
@@ -2602,6 +3242,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '47.38207'
       long: "-122.23435"
+      closest_city:
+        name: Kent
+        distance:
+          value: 1.78
+          units: km
     - region: WA
       exchange: '207770'
       name: Kettle Falls
@@ -2610,6 +3255,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '48.610084'
       long: "-118.055667"
+      closest_city:
+        name: Kettle Falls
+        distance:
+          value: 0.69
+          units: km
     - region: WA
       exchange: '344540'
       name: Key Center
@@ -2642,6 +3292,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '47.800513'
       long: "-122.497571"
+      closest_city:
+        name: Kingston
+        distance:
+          value: 1.16
+          units: km
     - region: WA
       exchange: '344909'
       name: Kiona
@@ -2658,6 +3313,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '47.675623'
       long: "-122.196639"
+      closest_city:
+        name: Kirkland
+        distance:
+          value: 2.47
+          units: km
     - region: WA
       exchange: '344544'
       name: Kitsap Lake
@@ -2674,6 +3334,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF WASHINGTON COMPANY
       lat: '46.990605'
       long: "-120.417491"
+      closest_city:
+        name: Kittitas
+        distance:
+          value: 0.78
+          units: km
     - region: WA
       exchange: '344545'
       name: Klaber
@@ -2690,6 +3355,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - WA
       lat: '45.826472'
       long: "-121.148234"
+      closest_city:
+        name: Klickitat
+        distance:
+          value: 1.46
+          units: km
     - region: WA
       exchange: '344546'
       name: Kosmos
@@ -2706,6 +3376,11 @@ rate_centers:
       ilec_name: LEWIS RIVER TEL. CO., INC.
       lat: '45.868604'
       long: "-122.666553"
+      closest_city:
+        name: La Center
+        distance:
+          value: 1.18
+          units: km
     - region: WA
       exchange: '344549'
       name: La Grande
@@ -2746,6 +3421,11 @@ rate_centers:
       ilec_name: PIONEER TEL. CO.
       lat: '46.815315'
       long: "-117.878092"
+      closest_city:
+        name: LaCrosse
+        distance:
+          value: 2.42
+          units: km
     - region: WA
       exchange: '344564'
       name: Lake Crescent
@@ -2786,6 +3466,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '47.467204'
       long: "-123.839375"
+      closest_city:
+        name: Amanda Park
+        distance:
+          value: 6.21
+          units: km
     - region: WA
       exchange: '344567'
       name: Lake Sammamish
@@ -2834,6 +3519,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '47.259563'
       long: "-122.760943"
+      closest_city:
+        name: Home
+        distance:
+          value: 2.39
+          units: km
     - region: WA
       exchange: '344912'
       name: Lakeside
@@ -2890,6 +3580,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '47.285443'
       long: "-117.157509"
+      closest_city:
+        name: Latah
+        distance:
+          value: 0.39
+          units: km
     - region: WA
       exchange: '207860'
       name: Lauderdale
@@ -2898,6 +3593,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF WASHINGTON COMPANY
       lat: '47.233557'
       long: "-120.694823"
+      closest_city:
+        name: Thorp
+        distance:
+          value: 18.76
+          units: km
     - region: WA
       exchange: '209179'
       name: Laurel
@@ -2906,6 +3606,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '48.858382'
       long: "-122.484613"
+      closest_city:
+        name: Ferndale
+        distance:
+          value: 7.69
+          units: km
     - region: WA
       exchange: '344917'
       name: Laurier
@@ -2922,6 +3627,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '47.591851'
       long: "-120.660365"
+      closest_city:
+        name: Leavenworth
+        distance:
+          value: 0.41
+          units: km
     - region: WA
       exchange: '344558'
       name: Lebam
@@ -2946,6 +3656,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '47.643862'
       long: "-117.099699"
+      closest_city:
+        name: Liberty Lake
+        distance:
+          value: 2.77
+          units: km
     - region: WA
       exchange: '344560'
       name: Lilliwaup
@@ -2970,6 +3685,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '46.973423'
       long: "-118.618912"
+      closest_city:
+        name: Lind
+        distance:
+          value: 0.37
+          units: km
     - region: WA
       exchange: '362729'
       name: Locke
@@ -2986,6 +3706,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '46.356682'
       long: "-124.051581"
+      closest_city:
+        name: Long Beach
+        distance:
+          value: 0.32
+          units: km
     - region: WA
       exchange: '344569'
       name: Longbranch
@@ -3010,6 +3735,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '46.133157'
       long: "-122.943807"
+      closest_city:
+        name: Longview
+        distance:
+          value: 2.06
+          units: km
     - region: WA
       exchange: '207910'
       name: Loomis
@@ -3018,6 +3748,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '48.697868'
       long: "-119.433893"
+      closest_city:
+        name: Tonasket
+        distance:
+          value: 1.19
+          units: km
     - region: WA
       exchange: '207920'
       name: Loon Lake
@@ -3026,6 +3761,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '48.06726'
       long: "-117.636128"
+      closest_city:
+        name: Loon Lake
+        distance:
+          value: 0.56
+          units: km
     - region: WA
       exchange: '207930'
       name: Lopez
@@ -3034,6 +3774,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF INTER-ISLAND, INC. DBA CENTURYLINK
       lat: '48.524752'
       long: "-122.917669"
+      closest_city:
+        name: Friday Harbor
+        distance:
+          value: 10.93
+          units: km
     - region: WA
       exchange: '344925'
       name: Lowden
@@ -3066,6 +3811,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - WA
       lat: '45.698204'
       long: "-121.276862"
+      closest_city:
+        name: Lyle
+        distance:
+          value: 0.4
+          units: km
     - region: WA
       exchange: '344574'
       name: Lyman
@@ -3114,6 +3864,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - WA
       lat: '46.210241'
       long: "-120.001665"
+      closest_city:
+        name: Mabton
+        distance:
+          value: 0.62
+          units: km
     - region: WA
       exchange: '344578'
       name: Machias
@@ -3202,6 +3957,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '47.816758'
       long: "-119.644689"
+      closest_city:
+        name: Mansfield
+        distance:
+          value: 0.74
+          units: km
     - region: WA
       exchange: '209165'
       name: Manson
@@ -3234,6 +3994,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '47.398816'
       long: "-122.042802"
+      closest_city:
+        name: Shadow Lake
+        distance:
+          value: 2.54
+          units: km
     - region: WA
       exchange: '208717'
       name: Marblemount
@@ -3242,6 +4007,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '48.524106'
       long: "-121.422703"
+      closest_city:
+        name: Marblemount
+        distance:
+          value: 2.33
+          units: km
     - region: WA
       exchange: '344934'
       name: Marcus
@@ -3282,6 +4052,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '48.052027'
       long: "-122.177793"
+      closest_city:
+        name: Marysville
+        distance:
+          value: 3.59
+          units: km
     - region: WA
       exchange: '344937'
       name: Mason City
@@ -3298,6 +4073,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '46.453408'
       long: "-119.14332"
+      closest_city:
+        name: Basin City
+        distance:
+          value: 15.11
+          units: km
     - region: WA
       exchange: '344588'
       name: Matlock
@@ -3314,6 +4094,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - WA
       lat: '46.643547'
       long: "-119.923429"
+      closest_city:
+        name: Desert Aire
+        distance:
+          value: 4.9
+          units: km
     - region: WA
       exchange: '344589'
       name: Maxwelton
@@ -3394,6 +4179,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '47.573955'
       long: "-117.674521"
+      closest_city:
+        name: Medical Lake
+        distance:
+          value: 1.15
+          units: km
     - region: WA
       exchange: '344595'
       name: Medina
@@ -3426,6 +4216,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '46.584286'
       long: "-119.007863"
+      closest_city:
+        name: Mesa
+        distance:
+          value: 1.3
+          units: km
     - region: WA
       exchange: '208030'
       name: Metaline Falls
@@ -3434,6 +4229,11 @@ rate_centers:
       ilec_name: PEND OREILLE TELEPHONE COMPANY
       lat: '48.856974'
       long: "-117.366861"
+      closest_city:
+        name: Metaline Falls
+        distance:
+          value: 0.62
+          units: km
     - region: WA
       exchange: '344945'
       name: Methow
@@ -3538,6 +4338,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '48.982465'
       long: "-119.200963"
+      closest_city:
+        name: Oroville
+        distance:
+          value: 17.35
+          units: km
     - region: WA
       exchange: '344951'
       name: Monitor
@@ -3554,6 +4359,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '47.858954'
       long: "-121.972322"
+      closest_city:
+        name: Monroe
+        distance:
+          value: 0.96
+          units: km
     - region: WA
       exchange: '344952'
       name: Monse
@@ -3570,6 +4380,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '46.98124'
       long: "-123.601066"
+      closest_city:
+        name: Montesano
+        distance:
+          value: 3.42
+          units: km
     - region: WA
       exchange: '208070'
       name: Morton
@@ -3578,6 +4393,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '46.556527'
       long: "-122.275407"
+      closest_city:
+        name: Morton
+        distance:
+          value: 0.48
+          units: km
     - region: WA
       exchange: '208080'
       name: Moses Lake
@@ -3586,6 +4406,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '47.133344'
       long: "-119.275025"
+      closest_city:
+        name: Moses Lake
+        distance:
+          value: 0.61
+          units: km
     - region: WA
       exchange: '208090'
       name: Mossyrock
@@ -3594,6 +4419,11 @@ rate_centers:
       ilec_name: MCDANIEL TEL. CO.
       lat: '46.531667'
       long: "-122.484896"
+      closest_city:
+        name: Mossyrock
+        distance:
+          value: 0.32
+          units: km
     - region: WA
       exchange: '208110'
       name: Mount Hull
@@ -3602,6 +4432,11 @@ rate_centers:
       ilec_name: SKYLINE TELECOM COMPANY - WA
       lat: '48.832451'
       long: "-119.336359"
+      closest_city:
+        name: Oroville
+        distance:
+          value: 13.98
+          units: km
     - region: WA
       exchange: '208100'
       name: Mount Vernon
@@ -3610,6 +4445,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '48.414702'
       long: "-122.333592"
+      closest_city:
+        name: Mount Vernon
+        distance:
+          value: 1.75
+          units: km
     - region: WA
       exchange: '344607'
       name: Mountlake Terrace
@@ -3642,6 +4482,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '46.731373'
       long: "-120.695268"
+      closest_city:
+        name: Naches
+        distance:
+          value: 0.7
+          units: km
     - region: WA
       exchange: '344327'
       name: Nahcotta
@@ -3666,6 +4511,11 @@ rate_centers:
       ilec_name: WESTERN WAHKIAKUM COUNTY TEL. CO.
       lat: '46.359896'
       long: "-123.805553"
+      closest_city:
+        name: Naselle
+        distance:
+          value: 0.65
+          units: km
     - region: WA
       exchange: '344612'
       name: National
@@ -3682,6 +4532,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '48.364416'
       long: "-124.613611"
+      closest_city:
+        name: Neah Bay
+        distance:
+          value: 0.39
+          units: km
     - region: WA
       exchange: '208150'
       name: Nespelem
@@ -3690,6 +4545,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '48.168115'
       long: "-118.977447"
+      closest_city:
+        name: Nespelem
+        distance:
+          value: 0.41
+          units: km
     - region: WA
       exchange: '344614'
       name: Newcastle
@@ -3706,6 +4566,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '47.724576'
       long: "-117.076704"
+      closest_city:
+        name: Otis Orchards-East Farms
+        distance:
+          value: 2.49
+          units: km
     - region: WA
       exchange: '208170'
       name: Newport
@@ -3714,6 +4579,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '48.18248'
       long: "-117.047067"
+      closest_city:
+        name: Newport
+        distance:
+          value: 0.74
+          units: km
     - region: WA
       exchange: '208180'
       name: Nile
@@ -3722,6 +4592,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '46.806868'
       long: "-120.933458"
+      closest_city:
+        name: Nile
+        distance:
+          value: 3.21
+          units: km
     - region: WA
       exchange: '344960'
       name: Nine Mile Falls
@@ -3762,6 +4637,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '47.498477'
       long: "-121.794239"
+      closest_city:
+        name: North Bend
+        distance:
+          value: 1.78
+          units: km
     - region: WA
       exchange: '344329'
       name: North Bonneville
@@ -3794,6 +4674,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '48.91717'
       long: "-117.782896"
+      closest_city:
+        name: Northport
+        distance:
+          value: 0.28
+          units: km
     - region: WA
       exchange: '208210'
       name: Oak Harbor
@@ -3802,6 +4687,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '48.29379'
       long: "-122.641896"
+      closest_city:
+        name: Oak Harbor
+        distance:
+          value: 0.7
+          units: km
     - region: WA
       exchange: '208220'
       name: Oakesdale
@@ -3810,6 +4700,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '47.123377'
       long: "-117.244022"
+      closest_city:
+        name: Oakesdale
+        distance:
+          value: 0.81
+          units: km
     - region: WA
       exchange: '344620'
       name: Oakville
@@ -3834,6 +4729,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '46.492458'
       long: "-124.047813"
+      closest_city:
+        name: Ocean Park
+        distance:
+          value: 0.49
+          units: km
     - region: WA
       exchange: '207141'
       name: Ocean Shores
@@ -3850,6 +4750,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '46.890473'
       long: "-124.031068"
+      closest_city:
+        name: Ocosta
+        distance:
+          value: 0.57
+          units: km
     - region: WA
       exchange: '208250'
       name: Odessa
@@ -3858,6 +4763,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '47.332526'
       long: "-118.685931"
+      closest_city:
+        name: Odessa
+        distance:
+          value: 0.26
+          units: km
     - region: WA
       exchange: '344964'
       name: Okanogan
@@ -3890,6 +4800,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '47.0347'
       long: "-122.897066"
+      closest_city:
+        name: Olympia
+        distance:
+          value: 0.78
+          units: km
     - region: WA
       exchange: '208270'
       name: Omak
@@ -3898,6 +4813,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '48.40789'
       long: "-119.533923"
+      closest_city:
+        name: Omak
+        distance:
+          value: 2.13
+          units: km
     - region: WA
       exchange: '208691'
       name: Onalaska
@@ -3962,6 +4882,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '48.940205'
       long: "-119.431542"
+      closest_city:
+        name: Oroville
+        distance:
+          value: 0.2
+          units: km
     - region: WA
       exchange: '208290'
       name: Orting
@@ -3970,6 +4895,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '47.089732'
       long: "-122.211372"
+      closest_city:
+        name: Orting
+        distance:
+          value: 0.77
+          units: km
     - region: WA
       exchange: '344631'
       name: Oso
@@ -3986,6 +4916,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '46.822931'
       long: "-119.176765"
+      closest_city:
+        name: Othello
+        distance:
+          value: 0.88
+          units: km
     - region: WA
       exchange: '344971'
       name: Otis Orchards
@@ -4026,6 +4961,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '47.209703'
       long: "-124.202942"
+      closest_city:
+        name: Pacific Beach
+        distance:
+          value: 0.76
+          units: km
     - region: WA
       exchange: '208320'
       name: Packwood
@@ -4050,6 +4990,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '46.908753'
       long: "-117.076802"
+      closest_city:
+        name: Palouse
+        distance:
+          value: 0.22
+          units: km
     - region: WA
       exchange: '344635'
       name: Parkland
@@ -4074,6 +5019,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '46.234207'
       long: "-119.099392"
+      closest_city:
+        name: Pasco
+        distance:
+          value: 3.01
+          units: km
     - region: WA
       exchange: '208350'
       name: Pateros
@@ -4082,6 +5032,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '48.06042'
       long: "-119.910263"
+      closest_city:
+        name: Pateros
+        distance:
+          value: 1.1
+          units: km
     - region: WA
       exchange: '208360'
       name: Paterson
@@ -4090,6 +5045,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - WA
       lat: '45.931015'
       long: "-119.59331"
+      closest_city:
+        name: Prosser
+        distance:
+          value: 33.44
+          units: km
     - region: WA
       exchange: '208370'
       name: Pe Ell
@@ -4098,6 +5058,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '46.572992'
       long: "-123.301385"
+      closest_city:
+        name: Pe Ell
+        distance:
+          value: 0.31
+          units: km
     - region: WA
       exchange: '344978'
       name: Peshastin
@@ -4146,6 +5111,11 @@ rate_centers:
       ilec_name: WHIDBEY TEL. CO.
       lat: '48.993523'
       long: "-123.051193"
+      closest_city:
+        name: Point Roberts
+        distance:
+          value: 0.76
+          units: km
     - region: WA
       exchange: '208390'
       name: Pomeroy
@@ -4154,6 +5124,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '46.47603'
       long: "-117.599416"
+      closest_city:
+        name: Pomeroy
+        distance:
+          value: 0.34
+          units: km
     - region: WA
       exchange: '208400'
       name: Port Angeles
@@ -4162,6 +5137,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '48.100536'
       long: "-123.270874"
+      closest_city:
+        name: Port Angeles East
+        distance:
+          value: 7.33
+          units: km
     - region: WA
       exchange: '344646'
       name: Port Blakely
@@ -4202,6 +5182,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '47.932467'
       long: "-122.682956"
+      closest_city:
+        name: Port Ludlow
+        distance:
+          value: 2.81
+          units: km
     - region: WA
       exchange: '344648'
       name: Port Madison
@@ -4218,6 +5203,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '47.543802'
       long: "-122.631756"
+      closest_city:
+        name: Navy Yard City
+        distance:
+          value: 2.65
+          units: km
     - region: WA
       exchange: '344650'
       name: Port Stanley
@@ -4234,6 +5224,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '48.118268'
       long: "-122.768328"
+      closest_city:
+        name: Port Townsend
+        distance:
+          value: 1.5
+          units: km
     - region: WA
       exchange: '344639'
       name: Portage
@@ -4258,6 +5253,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - WA
       lat: '47.718311'
       long: "-122.669284"
+      closest_city:
+        name: Poulsbo
+        distance:
+          value: 3.37
+          units: km
     - region: WA
       exchange: '208450'
       name: Prescott
@@ -4266,6 +5266,11 @@ rate_centers:
       ilec_name: INLAND TEL CO
       lat: '46.298937'
       long: "-118.314686"
+      closest_city:
+        name: Prescott
+        distance:
+          value: 0.16
+          units: km
     - region: WA
       exchange: '344644'
       name: Preston
@@ -4290,6 +5295,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - WA
       lat: '46.206046'
       long: "-119.769517"
+      closest_city:
+        name: Prosser
+        distance:
+          value: 0.26
+          units: km
     - region: WA
       exchange: '208470'
       name: Puget Island
@@ -4298,6 +5308,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '46.158792'
       long: "-123.371785"
+      closest_city:
+        name: Puget Island
+        distance:
+          value: 1.93
+          units: km
     - region: WA
       exchange: '208480'
       name: Pullman
@@ -4306,6 +5321,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '46.733849'
       long: "-117.172557"
+      closest_city:
+        name: Pullman
+        distance:
+          value: 0.35
+          units: km
     - region: WA
       exchange: '344653'
       name: Purdy
@@ -4322,6 +5342,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '47.190187'
       long: "-122.301897"
+      closest_city:
+        name: Puyallup
+        distance:
+          value: 1.5
+          units: km
     - region: WA
       exchange: '208500'
       name: Quilcene
@@ -4330,6 +5355,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - WA
       lat: '47.823848'
       long: "-122.877633"
+      closest_city:
+        name: Quilcene
+        distance:
+          value: 2.55
+          units: km
     - region: WA
       exchange: '344656'
       name: Quinault
@@ -4346,6 +5376,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '47.23268'
       long: "-119.84863"
+      closest_city:
+        name: Quincy
+        distance:
+          value: 0.38
+          units: km
     - region: WA
       exchange: '208520'
       name: Rainier
@@ -4354,6 +5389,11 @@ rate_centers:
       ilec_name: YCOM NETWORKS, INC.
       lat: '46.883414'
       long: "-122.689978"
+      closest_city:
+        name: Rainier
+        distance:
+          value: 0.96
+          units: km
     - region: WA
       exchange: '344666'
       name: Rainier National Park
@@ -4394,6 +5434,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '46.692202'
       long: "-123.731898"
+      closest_city:
+        name: Raymond
+        distance:
+          value: 1.03
+          units: km
     - region: WA
       exchange: '208550'
       name: Reardan
@@ -4402,6 +5447,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '47.665966'
       long: "-117.87622"
+      closest_city:
+        name: Reardan
+        distance:
+          value: 0.45
+          units: km
     - region: WA
       exchange: '207792'
       name: Redmond
@@ -4418,6 +5468,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '47.50196'
       long: "-122.180969"
+      closest_city:
+        name: Renton
+        distance:
+          value: 2.74
+          units: km
     - region: WA
       exchange: '208570'
       name: Republic
@@ -4426,6 +5481,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '48.642972'
       long: "-118.725476"
+      closest_city:
+        name: Republic
+        distance:
+          value: 0.83
+          units: km
     - region: WA
       exchange: '344663'
       name: Retsil
@@ -4458,6 +5518,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '46.276098'
       long: "-119.272413"
+      closest_city:
+        name: Richland
+        distance:
+          value: 1.79
+          units: km
     - region: WA
       exchange: '208590'
       name: Richmond Beach
@@ -4466,6 +5531,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '47.776828'
       long: "-122.390742"
+      closest_city:
+        name: Woodway
+        distance:
+          value: 1.57
+          units: km
     - region: WA
       exchange: '208600'
       name: Ridgefield
@@ -4474,6 +5544,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '45.818237'
       long: "-122.744219"
+      closest_city:
+        name: Ridgefield
+        distance:
+          value: 3.13
+          units: km
     - region: WA
       exchange: '208610'
       name: Rimrock
@@ -4482,6 +5557,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF COWICHE, INC. DBA CENTURYLINK
       lat: '46.659091'
       long: "-121.113545"
+      closest_city:
+        name: Tampico
+        distance:
+          value: 23.03
+          units: km
     - region: WA
       exchange: '208620'
       name: Ritzville
@@ -4490,6 +5570,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '47.122853'
       long: "-118.383122"
+      closest_city:
+        name: Ritzville
+        distance:
+          value: 0.32
+          units: km
     - region: WA
       exchange: '344993'
       name: Riverside
@@ -4514,6 +5599,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '46.826233'
       long: "-123.09116"
+      closest_city:
+        name: Rochester
+        distance:
+          value: 2.22
+          units: km
     - region: WA
       exchange: '344995'
       name: Rock Island
@@ -4530,6 +5620,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '47.515391'
       long: "-117.200525"
+      closest_city:
+        name: Rockford
+        distance:
+          value: 8.83
+          units: km
     - region: WA
       exchange: '344669'
       name: Rockport
@@ -4562,6 +5657,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - WA
       lat: '45.740152'
       long: "-120.197276"
+      closest_city:
+        name: Roosevelt
+        distance:
+          value: 1.68
+          units: km
     - region: WA
       exchange: '208660'
       name: Rosalia
@@ -4570,6 +5670,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '47.231837'
       long: "-117.365343"
+      closest_city:
+        name: Rosalia
+        distance:
+          value: 0.97
+          units: km
     - region: WA
       exchange: '344337'
       name: Rosburg
@@ -4586,6 +5691,11 @@ rate_centers:
       ilec_name: INLAND TEL CO
       lat: '47.226447'
       long: "-121.000216"
+      closest_city:
+        name: Ronald
+        distance:
+          value: 2.65
+          units: km
     - region: WA
       exchange: '208680'
       name: Roy
@@ -4594,6 +5704,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '46.998521'
       long: "-122.544056"
+      closest_city:
+        name: Roy
+        distance:
+          value: 0.22
+          units: km
     - region: WA
       exchange: '208301'
       name: Royal City
@@ -4634,6 +5749,11 @@ rate_centers:
       ilec_name: MCDANIEL TEL. CO.
       lat: '46.534606'
       long: "-122.624668"
+      closest_city:
+        name: Onalaska
+        distance:
+          value: 8.21
+          units: km
     - region: WA
       exchange: '207793'
       name: Sammamish
@@ -4650,6 +5770,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF INTER-ISLAND, INC. DBA CENTURYLINK
       lat: '48.534282'
       long: "-123.027524"
+      closest_city:
+        name: Friday Harbor
+        distance:
+          value: 2.82
+          units: km
     - region: WA
       exchange: '344677'
       name: Sappho
@@ -4722,6 +5847,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '47.610144'
       long: "-122.332791"
+      closest_city:
+        name: Seattle
+        distance:
+          value: 1.37
+          units: km
     - region: WA
       exchange: '344685'
       name: Seattle Heights
@@ -4754,6 +5884,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '48.500545'
       long: "-122.23512"
+      closest_city:
+        name: Sedro-Woolley
+        distance:
+          value: 1.21
+          units: km
     - region: WA
       exchange: '344688'
       name: Sekiu
@@ -4770,6 +5905,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF WASHINGTON COMPANY
       lat: '46.660059'
       long: "-120.524093"
+      closest_city:
+        name: Selah
+        distance:
+          value: 1.75
+          units: km
     - region: WA
       exchange: '208401'
       name: Sequim
@@ -4778,6 +5918,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '48.083872'
       long: "-123.100794"
+      closest_city:
+        name: Sequim
+        distance:
+          value: 1.13
+          units: km
     - region: WA
       exchange: '345001'
       name: Seven Bays
@@ -4794,6 +5939,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '47.207814'
       long: "-123.096674"
+      closest_city:
+        name: Shelton
+        distance:
+          value: 1.67
+          units: km
     - region: WA
       exchange: '344691'
       name: Shoreline
@@ -4826,6 +5976,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '47.880197'
       long: "-122.195691"
+      closest_city:
+        name: Mill Creek
+        distance:
+          value: 1.99
+          units: km
     - region: WA
       exchange: '208740'
       name: Silverdale
@@ -4834,6 +5989,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '47.64247'
       long: "-122.696999"
+      closest_city:
+        name: Chico
+        distance:
+          value: 2.77
+          units: km
     - region: WA
       exchange: '207601'
       name: Silverton
@@ -4874,6 +6034,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '47.718673'
       long: "-121.360057"
+      closest_city:
+        name: Skykomish
+        distance:
+          value: 0.93
+          units: km
     - region: WA
       exchange: '208770'
       name: Snohomish
@@ -4882,6 +6047,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '47.915403'
       long: "-122.089378"
+      closest_city:
+        name: Snohomish
+        distance:
+          value: 1.47
+          units: km
     - region: WA
       exchange: '344699'
       name: Snoqualmie
@@ -4906,6 +6076,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '47.4259'
       long: "-121.415738"
+      closest_city:
+        name: Snoqualmie Pass
+        distance:
+          value: 2.75
+          units: km
     - region: WA
       exchange: '208790'
       name: Soap Lake
@@ -4914,6 +6089,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '47.384097'
       long: "-119.493033"
+      closest_city:
+        name: Soap Lake
+        distance:
+          value: 0.86
+          units: km
     - region: WA
       exchange: '344708'
       name: South Beach
@@ -4938,6 +6118,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '46.667667'
       long: "-123.794012"
+      closest_city:
+        name: South Bend
+        distance:
+          value: 0.5
+          units: km
     - region: WA
       exchange: '344709'
       name: South Colby
@@ -4970,6 +6155,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '47.133514'
       long: "-122.098764"
+      closest_city:
+        name: South Prairie
+        distance:
+          value: 0.56
+          units: km
     - region: WA
       exchange: '344703'
       name: South Tacoma
@@ -4986,6 +6176,11 @@ rate_centers:
       ilec_name: WHIDBEY TEL. CO.
       lat: '48.007794'
       long: "-122.46339"
+      closest_city:
+        name: Langley
+        distance:
+          value: 5.0
+          units: km
     - region: WA
       exchange: '344710'
       name: Southworth
@@ -5010,6 +6205,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '47.426831'
       long: "-117.381792"
+      closest_city:
+        name: Spangle
+        distance:
+          value: 0.34
+          units: km
     - region: WA
       exchange: '208840'
       name: Spokane
@@ -5018,6 +6218,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '47.657898'
       long: "-117.439478"
+      closest_city:
+        name: Spokane
+        distance:
+          value: 1.13
+          units: km
     - region: WA
       exchange: '345006'
       name: Spokane Valley
@@ -5034,6 +6239,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '47.298178'
       long: "-117.978234"
+      closest_city:
+        name: Sprague
+        distance:
+          value: 0.9
+          units: km
     - region: WA
       exchange: '208860'
       name: Springdale
@@ -5042,6 +6252,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '48.058411'
       long: "-117.741269"
+      closest_city:
+        name: Springdale
+        distance:
+          value: 0.42
+          units: km
     - region: WA
       exchange: '208870'
       name: St John
@@ -5050,6 +6265,11 @@ rate_centers:
       ilec_name: ST. JOHN TEL. CO.
       lat: '47.091362'
       long: "-117.582572"
+      closest_city:
+        name: St. John
+        distance:
+          value: 0.46
+          units: km
     - region: WA
       exchange: '207971'
       name: Stanwood
@@ -5058,6 +6278,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '48.239768'
       long: "-122.378582"
+      closest_city:
+        name: Stanwood
+        distance:
+          value: 2.73
+          units: km
     - region: WA
       exchange: '208880'
       name: Starbuck
@@ -5066,6 +6291,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '46.525461'
       long: "-118.126521"
+      closest_city:
+        name: Starbuck
+        distance:
+          value: 0.77
+          units: km
     - region: WA
       exchange: '344713'
       name: Startup
@@ -5106,6 +6336,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '47.747118'
       long: "-121.083535"
+      closest_city:
+        name: Skykomish
+        distance:
+          value: 20.96
+          units: km
     - region: WA
       exchange: '208900'
       name: Stevenson
@@ -5114,6 +6349,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - WA
       lat: '45.700423'
       long: "-121.881883"
+      closest_city:
+        name: Stevenson
+        distance:
+          value: 1.33
+          units: km
     - region: WA
       exchange: '208772'
       name: Sultan
@@ -5122,6 +6362,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '47.86829'
       long: "-121.814027"
+      closest_city:
+        name: Sultan
+        distance:
+          value: 0.79
+          units: km
     - region: WA
       exchange: '209168'
       name: Sumas
@@ -5130,6 +6375,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '48.993103'
       long: "-122.269358"
+      closest_city:
+        name: Sumas
+        distance:
+          value: 0.27
+          units: km
     - region: WA
       exchange: '208910'
       name: Sumner
@@ -5138,6 +6388,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '47.200098'
       long: "-122.23333"
+      closest_city:
+        name: Sumner
+        distance:
+          value: 2.09
+          units: km
     - region: WA
       exchange: '208920'
       name: Sunnyside
@@ -5146,6 +6401,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - WA
       lat: '46.325344'
       long: "-120.011101"
+      closest_city:
+        name: Sunnyside
+        distance:
+          value: 1.15
+          units: km
     - region: WA
       exchange: '206892'
       name: Sunnyslope
@@ -5186,6 +6446,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '47.256514'
       long: "-122.436871"
+      closest_city:
+        name: Tacoma
+        distance:
+          value: 1.93
+          units: km
     - region: WA
       exchange: '208940'
       name: Tacoma-Waverly
@@ -5194,6 +6459,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '47.264707'
       long: "-122.334636"
+      closest_city:
+        name: Fife Heights
+        distance:
+          value: 1.03
+          units: km
     - region: WA
       exchange: '344723'
       name: Tahuya
@@ -5218,6 +6488,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '47.226565'
       long: "-117.074026"
+      closest_city:
+        name: Tekoa
+        distance:
+          value: 0.21
+          units: km
     - region: WA
       exchange: '208960'
       name: Tenino
@@ -5226,6 +6501,11 @@ rate_centers:
       ilec_name: TENINO TEL. CO.
       lat: '46.859591'
       long: "-122.84663"
+      closest_city:
+        name: Tenino
+        distance:
+          value: 1.24
+          units: km
     - region: WA
       exchange: '208662'
       name: Thornton
@@ -5242,6 +6522,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF WASHINGTON COMPANY
       lat: '47.021816'
       long: "-120.669339"
+      closest_city:
+        name: Thorp
+        distance:
+          value: 4.87
+          units: km
     - region: WA
       exchange: '208980'
       name: Tieton
@@ -5250,6 +6535,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF COWICHE, INC. DBA CENTURYLINK
       lat: '46.708336'
       long: "-120.758725"
+      closest_city:
+        name: Tieton
+        distance:
+          value: 0.66
+          units: km
     - region: WA
       exchange: '344726'
       name: Tillicum
@@ -5274,6 +6564,11 @@ rate_centers:
       ilec_name: TOLEDO TEL. CO., INC.
       lat: '46.441682'
       long: "-122.847202"
+      closest_city:
+        name: Toledo
+        distance:
+          value: 0.19
+          units: km
     - region: WA
       exchange: '209000'
       name: Tonasket
@@ -5282,6 +6577,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '48.697868'
       long: "-119.433893"
+      closest_city:
+        name: Tonasket
+        distance:
+          value: 1.19
+          units: km
     - region: WA
       exchange: '209010'
       name: Toppenish
@@ -5290,6 +6590,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - WA
       lat: '46.375079'
       long: "-120.310425"
+      closest_city:
+        name: Toppenish
+        distance:
+          value: 0.63
+          units: km
     - region: WA
       exchange: '209020'
       name: Touchet
@@ -5298,6 +6603,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '46.040929'
       long: "-118.666548"
+      closest_city:
+        name: Touchet
+        distance:
+          value: 0.45
+          units: km
     - region: WA
       exchange: '344344'
       name: Toutle
@@ -5330,6 +6640,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - WA
       lat: '45.992446'
       long: "-121.523479"
+      closest_city:
+        name: Trout Lake
+        distance:
+          value: 0.71
+          units: km
     - region: WA
       exchange: '344729'
       name: Tukwila
@@ -5370,6 +6685,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '48.368343'
       long: "-120.127948"
+      closest_city:
+        name: Twisp
+        distance:
+          value: 1.07
+          units: km
     - region: WA
       exchange: '345025'
       name: Tyler
@@ -5394,6 +6714,11 @@ rate_centers:
       ilec_name: HOOD CANAL TEL. CO.
       lat: '47.3576'
       long: "-123.096693"
+      closest_city:
+        name: Union
+        distance:
+          value: 1.13
+          units: km
     - region: WA
       exchange: '345026'
       name: Union Gap
@@ -5410,6 +6735,11 @@ rate_centers:
       ilec_name: INLAND TEL CO
       lat: '46.541204'
       long: "-117.090004"
+      closest_city:
+        name: Uniontown
+        distance:
+          value: 0.38
+          units: km
     - region: WA
       exchange: '344733'
       name: University Place
@@ -5442,6 +6772,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '46.401865'
       long: "-122.957555"
+      closest_city:
+        name: Vader
+        distance:
+          value: 0.31
+          units: km
     - region: WA
       exchange: '344735'
       name: Vail
@@ -5482,6 +6817,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '45.623401'
       long: "-122.672339"
+      closest_city:
+        name: Minnehaha
+        distance:
+          value: 5.55
+          units: km
     - region: WA
       exchange: '209090'
       name: Vantage
@@ -5490,6 +6830,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF WASHINGTON COMPANY
       lat: '46.959167'
       long: "-119.983946"
+      closest_city:
+        name: Vantage
+        distance:
+          value: 1.66
+          units: km
     - region: WA
       exchange: '209100'
       name: Vashon
@@ -5498,6 +6843,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '47.43949'
       long: "-122.458872"
+      closest_city:
+        name: Vashon
+        distance:
+          value: 3.21
+          units: km
     - region: WA
       exchange: '344738'
       name: Vaughn
@@ -5546,6 +6896,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '46.26527'
       long: "-118.147228"
+      closest_city:
+        name: Waitsburg
+        distance:
+          value: 0.58
+          units: km
     - region: WA
       exchange: '209120'
       name: Walla Walla
@@ -5554,6 +6909,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '46.066497'
       long: "-118.336398"
+      closest_city:
+        name: Walla Walla
+        distance:
+          value: 0.07
+          units: km
     - region: WA
       exchange: '345035'
       name: Wallula
@@ -5570,6 +6930,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - WA
       lat: '46.451564'
       long: "-120.419599"
+      closest_city:
+        name: Wapato
+        distance:
+          value: 0.89
+          units: km
     - region: WA
       exchange: '209140'
       name: Warden
@@ -5578,6 +6943,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '46.967463'
       long: "-119.038485"
+      closest_city:
+        name: Warden
+        distance:
+          value: 1.05
+          units: km
     - region: WA
       exchange: '344741'
       name: Warm Beach
@@ -5594,6 +6964,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '45.59037'
       long: "-122.406803"
+      closest_city:
+        name: Camas
+        distance:
+          value: 2.15
+          units: km
     - region: WA
       exchange: '206962'
       name: Washougal River
@@ -5602,6 +6977,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '45.59037'
       long: "-122.406803"
+      closest_city:
+        name: Camas
+        distance:
+          value: 2.15
+          units: km
     - region: WA
       exchange: '209150'
       name: Washtucna
@@ -5610,6 +6990,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '46.757729'
       long: "-118.306249"
+      closest_city:
+        name: Washtucna
+        distance:
+          value: 0.54
+          units: km
     - region: WA
       exchange: '344742'
       name: Waterman
@@ -5626,6 +7011,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '47.651521'
       long: "-120.072532"
+      closest_city:
+        name: Waterville
+        distance:
+          value: 0.41
+          units: km
     - region: WA
       exchange: '345040'
       name: Wauconda
@@ -5666,6 +7056,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '47.426603'
       long: "-120.315691"
+      closest_city:
+        name: Wenatchee
+        distance:
+          value: 1.47
+          units: km
     - region: WA
       exchange: '208582'
       name: West Richland
@@ -5682,6 +7077,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '46.893667'
       long: "-124.111301"
+      closest_city:
+        name: Westport
+        distance:
+          value: 0.22
+          units: km
     - region: WA
       exchange: '344745'
       name: Westwood
@@ -5698,6 +7098,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '48.887996'
       long: "-122.439996"
+      closest_city:
+        name: Lynden
+        distance:
+          value: 7.0
+          units: km
     - region: WA
       exchange: '345044'
       name: Wheeler
@@ -5722,6 +7127,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - WA
       lat: '45.73453'
       long: "-121.482902"
+      closest_city:
+        name: White Salmon
+        distance:
+          value: 0.72
+          units: km
     - region: WA
       exchange: '209190'
       name: White Swan
@@ -5730,6 +7140,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - WA
       lat: '46.382578'
       long: "-120.735988"
+      closest_city:
+        name: White Swan
+        distance:
+          value: 0.64
+          units: km
     - region: WA
       exchange: '209200'
       name: Whitstran
@@ -5738,6 +7153,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - WA
       lat: '46.242637'
       long: "-119.710642"
+      closest_city:
+        name: Prosser
+        distance:
+          value: 5.85
+          units: km
     - region: WA
       exchange: '344748'
       name: Wickersham
@@ -5754,6 +7174,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '47.756565'
       long: "-118.709248"
+      closest_city:
+        name: Wilbur
+        distance:
+          value: 0.25
+          units: km
     - region: WA
       exchange: '345048'
       name: Wiley City
@@ -5786,6 +7211,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - WA
       lat: '45.757719'
       long: "-121.631487"
+      closest_city:
+        name: White Salmon
+        distance:
+          value: 11.81
+          units: km
     - region: WA
       exchange: '209230'
       name: Wilson Creek
@@ -5794,6 +7224,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '47.423317'
       long: "-119.1196"
+      closest_city:
+        name: Wilson Creek
+        distance:
+          value: 0.15
+          units: km
     - region: WA
       exchange: '209240'
       name: Winlock
@@ -5802,6 +7237,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '46.491935'
       long: "-122.942224"
+      closest_city:
+        name: Winlock
+        distance:
+          value: 0.64
+          units: km
     - region: WA
       exchange: '345050'
       name: Winona
@@ -5826,6 +7266,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '48.476668'
       long: "-120.17497"
+      closest_city:
+        name: Winthrop
+        distance:
+          value: 0.65
+          units: km
     - region: WA
       exchange: '209260'
       name: Wishram
@@ -5834,6 +7279,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - WA
       lat: '45.667886'
       long: "-120.964972"
+      closest_city:
+        name: Wishram
+        distance:
+          value: 0.89
+          units: km
     - region: WA
       exchange: '345052'
       name: Withrow
@@ -5858,6 +7308,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '45.909354'
       long: "-122.748083"
+      closest_city:
+        name: Woodland
+        distance:
+          value: 0.6
+          units: km
     - region: WA
       exchange: '344754'
       name: Woodway
@@ -5874,6 +7329,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
       lat: '45.86804'
       long: "-122.409504"
+      closest_city:
+        name: Yacolt
+        distance:
+          value: 0.41
+          units: km
     - region: WA
       exchange: '209290'
       name: Yakima
@@ -5882,6 +7342,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '46.599371'
       long: "-120.505765"
+      closest_city:
+        name: Yakima
+        distance:
+          value: 3.44
+          units: km
     - region: WA
       exchange: '209300'
       name: Yale
@@ -5890,6 +7355,11 @@ rate_centers:
       ilec_name: LEWIS RIVER TEL. CO., INC.
       lat: '46.001467'
       long: "-122.355435"
+      closest_city:
+        name: Cougar
+        distance:
+          value: 6.67
+          units: km
     - region: WA
       exchange: '344755'
       name: Yarrow Point
@@ -5906,6 +7376,11 @@ rate_centers:
       ilec_name: YCOM NETWORKS, INC.
       lat: '46.942897'
       long: "-122.610173"
+      closest_city:
+        name: Yelm
+        distance:
+          value: 1.26
+          units: km
     - region: WA
       exchange: '344757'
       name: Yeomalt
@@ -5930,3 +7405,8 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - WA
       lat: '46.398836'
       long: "-120.260321"
+      closest_city:
+        name: Zillah
+        distance:
+          value: 1.43
+          units: km

@@ -1,7 +1,7 @@
 ---
 rate_centers:
-  us:
-    ar:
+  US:
+    AR:
     - region: AR
       exchange: '331337'
       name: Abbott
@@ -154,6 +154,11 @@ rate_centers:
       ilec_name: MOUNTAIN VIEW TELEPHONE COMPANY
       lat: '35.951532'
       long: "-92.108112"
+      closest_city:
+        name: Mount Olive
+        distance:
+          value: 6.0
+          units: km
     - region: AR
       exchange: '331530'
       name: Allport
@@ -170,6 +175,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW AR-RUSSELVL DBA CENTURYLINK-RUSSELLV
       lat: '35.475964'
       long: "-94.225435"
+      closest_city:
+        name: Alma
+        distance:
+          value: 1.95
+          units: km
     - region: AR
       exchange: '331531'
       name: Almond
@@ -186,6 +196,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL ARKANSAS, LLC DBA CENTURYLINK
       lat: '34.409265'
       long: "-91.413726"
+      closest_city:
+        name: Almyra
+        distance:
+          value: 0.48
+          units: km
     - region: AR
       exchange: '009400'
       name: Alpena
@@ -194,6 +209,11 @@ rate_centers:
       ilec_name: TRI-COUNTY TEL. CO., INC.
       lat: '36.292642'
       long: "-93.293954"
+      closest_city:
+        name: Alpena
+        distance:
+          value: 0.93
+          units: km
     - region: AR
       exchange: '331534'
       name: Alpine
@@ -218,6 +238,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '34.315905'
       long: "-91.839984"
+      closest_city:
+        name: Altheimer
+        distance:
+          value: 1.18
+          units: km
     - region: AR
       exchange: '331536'
       name: Alto
@@ -242,6 +267,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW AR-RUSSELVL DBA CENTURYLINK-RUSSELLV
       lat: '35.449127'
       long: "-93.7609"
+      closest_city:
+        name: Altus
+        distance:
+          value: 0.41
+          units: km
     - region: AR
       exchange: '331539'
       name: Aly
@@ -274,6 +304,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '34.266299'
       long: "-93.468372"
+      closest_city:
+        name: Amity
+        distance:
+          value: 0.46
+          units: km
     - region: AR
       exchange: '332644'
       name: Amy
@@ -338,6 +373,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '34.119168'
       long: "-93.050286"
+      closest_city:
+        name: Arkadelphia
+        distance:
+          value: 2.19
+          units: km
     - region: AR
       exchange: '331550'
       name: Arkana
@@ -354,6 +394,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '33.609753'
       long: "-91.206385"
+      closest_city:
+        name: Arkansas City
+        distance:
+          value: 0.17
+          units: km
     - region: AR
       exchange: '331551'
       name: Arkinda
@@ -394,6 +439,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF ARKANSAS, INC. DBA CENTURYLINK
       lat: '36.224873'
       long: "-91.606945"
+      closest_city:
+        name: Ash Flat
+        distance:
+          value: 1.29
+          units: km
     - region: AR
       exchange: '009470'
       name: Ashdown
@@ -402,6 +452,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '33.674282'
       long: "-94.124537"
+      closest_city:
+        name: Ashdown
+        distance:
+          value: 0.19
+          units: km
     - region: AR
       exchange: '331555'
       name: Athelstan
@@ -426,6 +481,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW AR-RUSSELVL DBA CENTURYLINK-RUSSELLV
       lat: '35.239543'
       long: "-92.934203"
+      closest_city:
+        name: Atkins
+        distance:
+          value: 1.14
+          units: km
     - region: AR
       exchange: '332647'
       name: Atlanta
@@ -466,6 +526,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL ARKANSAS, LLC DBA CENTURYLINK
       lat: '35.283602'
       long: "-91.358283"
+      closest_city:
+        name: Augusta
+        distance:
+          value: 0.43
+          units: km
     - region: AR
       exchange: '009500'
       name: Aurora
@@ -474,6 +539,11 @@ rate_centers:
       ilec_name: MADISON COUNTY TEL. CO., INC.
       lat: '35.998152'
       long: "-93.710169"
+      closest_city:
+        name: Huntsville
+        distance:
+          value: 11.4
+          units: km
     - region: AR
       exchange: '331562'
       name: Austin
@@ -530,6 +600,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW AR-RUSSELVL DBA CENTURYLINK-RUSSELLV
       lat: '35.30884'
       long: "-91.567133"
+      closest_city:
+        name: Bald Knob
+        distance:
+          value: 0.51
+          units: km
     - region: AR
       exchange: '331343'
       name: Baldwin
@@ -546,6 +621,11 @@ rate_centers:
       ilec_name: SOUTH ARKANSAS TEL. CO., INC.
       lat: '33.583027'
       long: "-92.264137"
+      closest_city:
+        name: Banks
+        distance:
+          value: 0.85
+          units: km
     - region: AR
       exchange: '331567'
       name: Banner
@@ -658,6 +738,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '35.766903'
       long: "-91.64003"
+      closest_city:
+        name: Batesville
+        distance:
+          value: 1.58
+          units: km
     - region: AR
       exchange: '009540'
       name: Bauxite
@@ -666,14 +751,24 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '34.54983'
       long: "-92.510851"
+      closest_city:
+        name: Bauxite
+        distance:
+          value: 1.59
+          units: km
     - region: AR
       exchange: '009541'
       name: Bauxite Metro
-      short_name:
+      short_name: Bauxite Metro
       lata: '528'
       ilec_name: SOUTHWESTERN BELL
       lat: '34.54983'
       long: "-92.510851"
+      closest_city:
+        name: Bauxite
+        distance:
+          value: 1.59
+          units: km
     - region: AR
       exchange: '332650'
       name: Baxter
@@ -690,6 +785,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW AR DBA CENTURYLINK - SILOAM SPRINGS
       lat: '35.745147'
       long: "-90.564717"
+      closest_city:
+        name: Bay
+        distance:
+          value: 0.91
+          units: km
     - region: AR
       exchange: '331583'
       name: Bay Village
@@ -730,6 +830,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '33.73484'
       long: "-92.616664"
+      closest_city:
+        name: Bearden
+        distance:
+          value: 0.83
+          units: km
     - region: AR
       exchange: '331346'
       name: Beaver
@@ -770,6 +875,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '35.068527'
       long: "-91.883314"
+      closest_city:
+        name: Beebe
+        distance:
+          value: 1.53
+          units: km
     - region: AR
       exchange: '332652'
       name: Beech Creek
@@ -826,6 +936,11 @@ rate_centers:
       ilec_name: ARKWEST COMMUNICATIONS, INC.
       lat: '35.091741'
       long: "-93.450839"
+      closest_city:
+        name: Belleville
+        distance:
+          value: 0.46
+          units: km
     - region: AR
       exchange: '332653'
       name: Bellfast
@@ -858,6 +973,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '34.558083'
       long: "-92.585755"
+      closest_city:
+        name: Benton
+        distance:
+          value: 2.54
+          units: km
     - region: AR
       exchange: '009591'
       name: Benton Metro
@@ -866,6 +986,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '34.558083'
       long: "-92.585755"
+      closest_city:
+        name: Benton
+        distance:
+          value: 2.54
+          units: km
     - region: AR
       exchange: '009600'
       name: Bentonville
@@ -874,6 +999,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '36.365867'
       long: "-94.211395"
+      closest_city:
+        name: Bentonville
+        distance:
+          value: 2.11
+          units: km
     - region: AR
       exchange: '331597'
       name: Bergman
@@ -898,6 +1028,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '36.366094'
       long: "-93.564795"
+      closest_city:
+        name: Berryville
+        distance:
+          value: 0.74
+          units: km
     - region: AR
       exchange: '331599'
       name: Beryl
@@ -978,6 +1113,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '34.999882'
       long: "-92.636052"
+      closest_city:
+        name: Bigelow
+        distance:
+          value: 0.49
+          units: km
     - region: AR
       exchange: '009630'
       name: Biggers
@@ -986,6 +1126,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL ARKANSAS, LLC DBA CENTURYLINK
       lat: '36.333994'
       long: "-90.819225"
+      closest_city:
+        name: Biggers
+        distance:
+          value: 1.28
+          units: km
     - region: AR
       exchange: '331609'
       name: Billstown
@@ -1050,6 +1195,11 @@ rate_centers:
       ilec_name: CENTRAL ARKANSAS TEL. COOP., INC.
       lat: '34.31622'
       long: "-93.168462"
+      closest_city:
+        name: Bismarck
+        distance:
+          value: 0.89
+          units: km
     - region: AR
       exchange: '331350'
       name: Black Fork
@@ -1074,6 +1224,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '36.10909'
       long: "-91.096857"
+      closest_city:
+        name: Black Rock
+        distance:
+          value: 0.98
+          units: km
     - region: AR
       exchange: '331619'
       name: Black Springs
@@ -1090,6 +1245,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '35.133969'
       long: "-90.451047"
+      closest_city:
+        name: Jennette
+        distance:
+          value: 5.05
+          units: km
     - region: AR
       exchange: '331621'
       name: Blackton
@@ -1122,6 +1282,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL ARKANSAS, LLC DBA CENTURYLINK
       lat: '33.86443'
       long: "-93.573558"
+      closest_city:
+        name: Blevins
+        distance:
+          value: 0.89
+          units: km
     - region: AR
       exchange: '331351'
       name: Bloomer
@@ -1138,6 +1303,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL ARKANSAS, LLC DBA CENTURYLINK
       lat: '36.299576'
       long: "-90.290158"
+      closest_city:
+        name: Rector
+        distance:
+          value: 3.95
+          units: km
     - region: AR
       exchange: '331352'
       name: Blue Ball
@@ -1178,6 +1348,11 @@ rate_centers:
       ilec_name: MAGAZINE TEL. CO.
       lat: '35.133745'
       long: "-93.716025"
+      closest_city:
+        name: Blue Mountain
+        distance:
+          value: 0.29
+          units: km
     - region: AR
       exchange: '332655'
       name: Bluff City
@@ -1194,6 +1369,11 @@ rate_centers:
       ilec_name: ARKWEST COMMUNICATIONS, INC.
       lat: '34.897771'
       long: "-93.598296"
+      closest_city:
+        name: Rover
+        distance:
+          value: 18.27
+          units: km
     - region: AR
       exchange: '009710'
       name: Blytheville
@@ -1202,6 +1382,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '35.931509'
       long: "-89.899709"
+      closest_city:
+        name: Blytheville
+        distance:
+          value: 0.49
+          units: km
     - region: AR
       exchange: '331633'
       name: Board Camp
@@ -1218,6 +1403,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '33.559574'
       long: "-93.410162"
+      closest_city:
+        name: Bodcaw
+        distance:
+          value: 0.83
+          units: km
     - region: AR
       exchange: '331635'
       name: Bogg Springs
@@ -1242,6 +1432,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW AR-RUSSELVL DBA CENTURYLINK-RUSSELLV
       lat: '34.774365'
       long: "-94.048189"
+      closest_city:
+        name: Boles
+        distance:
+          value: 1.32
+          units: km
     - region: AR
       exchange: '331636'
       name: Bonair
@@ -1298,6 +1493,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW AR-RUSSELVL DBA CENTURYLINK-RUSSELLV
       lat: '35.133909'
       long: "-93.923986"
+      closest_city:
+        name: Booneville
+        distance:
+          value: 0.81
+          units: km
     - region: AR
       exchange: '331641'
       name: Boswell
@@ -1378,6 +1578,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL ARKANSAS, LLC DBA CENTURYLINK
       lat: '35.426877'
       long: "-91.449707"
+      closest_city:
+        name: Bradford
+        distance:
+          value: 0.74
+          units: km
     - region: AR
       exchange: '009760'
       name: Bradley
@@ -1386,6 +1591,11 @@ rate_centers:
       ilec_name: WALNUT HILL TEL. CO.
       lat: '33.102713'
       long: "-93.65095"
+      closest_city:
+        name: Bradley
+        distance:
+          value: 0.67
+          units: km
     - region: AR
       exchange: '332659'
       name: Bragg City
@@ -1474,6 +1684,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '34.882684'
       long: "-91.198775"
+      closest_city:
+        name: Brinkley
+        distance:
+          value: 1.13
+          units: km
     - region: AR
       exchange: '332660'
       name: Brister
@@ -1586,6 +1801,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '34.633951'
       long: "-92.464393"
+      closest_city:
+        name: Alexander
+        distance:
+          value: 2.1
+          units: km
     - region: AR
       exchange: '331669'
       name: Buckeye
@@ -1658,6 +1878,11 @@ rate_centers:
       ilec_name: NORTHERN ARKANSAS TEL. CO.
       lat: '36.400853'
       long: "-92.596613"
+      closest_city:
+        name: Bull Shoals
+        distance:
+          value: 2.95
+          units: km
     - region: AR
       exchange: '331625'
       name: Bull Shoals Dam
@@ -1746,6 +1971,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL ARKANSAS, LLC DBA CENTURYLINK
       lat: '34.966205'
       long: "-92.015032"
+      closest_city:
+        name: Cabot
+        distance:
+          value: 1.61
+          units: km
     - region: AR
       exchange: '331683'
       name: Caddo Gap
@@ -1810,6 +2040,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF ARKANSAS, INC. DBA CENTURYLINK
       lat: '36.114464'
       long: "-92.133866"
+      closest_city:
+        name: Calico Rock
+        distance:
+          value: 2.85
+          units: km
     - region: AR
       exchange: '009820'
       name: Calion
@@ -1818,6 +2053,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '33.324705'
       long: "-92.543589"
+      closest_city:
+        name: Calion
+        distance:
+          value: 0.54
+          units: km
     - region: AR
       exchange: '332668'
       name: Calmer
@@ -1842,6 +2082,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '33.581403'
       long: "-92.826553"
+      closest_city:
+        name: Camden
+        distance:
+          value: 2.45
+          units: km
     - region: AR
       exchange: '331690'
       name: Cammack Village
@@ -1914,6 +2159,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW AR DBA CENTURYLINK - SILOAM SPRINGS
       lat: '35.759657'
       long: "-90.317661"
+      closest_city:
+        name: Caraway
+        distance:
+          value: 0.41
+          units: km
     - region: AR
       exchange: '331695'
       name: Carbon City
@@ -1930,6 +2180,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL ARKANSAS, LLC DBA CENTURYLINK
       lat: '34.781556'
       long: "-91.749745"
+      closest_city:
+        name: Carlisle
+        distance:
+          value: 1.92
+          units: km
     - region: AR
       exchange: '331697'
       name: Carmi
@@ -1954,6 +2209,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL ARKANSAS, LLC DBA CENTURYLINK
       lat: '36.350028'
       long: "-90.158429"
+      closest_city:
+        name: Piggott
+        distance:
+          value: 5.55
+          units: km
     - region: AR
       exchange: '009870'
       name: Carthage
@@ -1962,6 +2222,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '34.066095'
       long: "-92.551151"
+      closest_city:
+        name: Carthage
+        distance:
+          value: 0.82
+          units: km
     - region: AR
       exchange: '331700'
       name: Cartney
@@ -1978,6 +2243,11 @@ rate_centers:
       ilec_name: ARKWEST COMMUNICATIONS, INC.
       lat: '35.024506'
       long: "-93.052202"
+      closest_city:
+        name: Casa
+        distance:
+          value: 0.68
+          units: km
     - region: AR
       exchange: '009890'
       name: Cash
@@ -1986,6 +2256,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '35.798913'
       long: "-90.934015"
+      closest_city:
+        name: Cash
+        distance:
+          value: 0.35
+          units: km
     - region: AR
       exchange: '331703'
       name: Cass
@@ -2058,6 +2333,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '35.942401'
       long: "-91.55128"
+      closest_city:
+        name: Cave City
+        distance:
+          value: 0.75
+          units: km
     - region: AR
       exchange: '331362'
       name: Cave Springs
@@ -2114,6 +2394,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '35.366291'
       long: "-92.568111"
+      closest_city:
+        name: Center Ridge
+        distance:
+          value: 1.48
+          units: km
     - region: AR
       exchange: '009920'
       name: Centerton
@@ -2122,14 +2407,24 @@ rate_centers:
       ilec_name: CENTURYTEL NW AR-RUSSELVL DBA CENTURYLINK-RUSSELLV
       lat: '36.35657'
       long: "-94.284658"
+      closest_city:
+        name: Centerton
+        distance:
+          value: 1.11
+          units: km
     - region: AR
       exchange: '009921'
       name: Centerton (SBC)
-      short_name:
+      short_name: Centerton (SBC)
       lata: '526'
       ilec_name: SOUTHWESTERN BELL TELEPHONE COMPANY - AR
       lat: '36.35657'
       long: "-94.284658"
+      closest_city:
+        name: Centerton
+        distance:
+          value: 1.11
+          units: km
     - region: AR
       exchange: '009930'
       name: Centerville
@@ -2138,6 +2433,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW AR-RUSSELVL DBA CENTURYLINK-RUSSELLV
       lat: '35.118127'
       long: "-93.166692"
+      closest_city:
+        name: Centerville
+        distance:
+          value: 0.51
+          units: km
     - region: AR
       exchange: '331365'
       name: Central City
@@ -2178,6 +2478,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW AR-RUSSELVL DBA CENTURYLINK-RUSSELLV
       lat: '35.299033'
       long: "-94.043903"
+      closest_city:
+        name: Charleston
+        distance:
+          value: 0.62
+          units: km
     - region: AR
       exchange: '331717'
       name: Charlotte
@@ -2218,6 +2523,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF ARKANSAS, INC. DBA CENTURYLINK
       lat: '36.298881'
       long: "-91.519987"
+      closest_city:
+        name: Highland
+        distance:
+          value: 3.69
+          units: km
     - region: AR
       exchange: '331722'
       name: Cherry Hill
@@ -2234,6 +2544,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '35.397753'
       long: "-90.75076"
+      closest_city:
+        name: Cherry Valley
+        distance:
+          value: 0.62
+          units: km
     - region: AR
       exchange: '331368'
       name: Chester
@@ -2274,6 +2589,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '33.699652'
       long: "-93.016207"
+      closest_city:
+        name: Chidester
+        distance:
+          value: 0.75
+          units: km
     - region: AR
       exchange: '331724'
       name: Chimes
@@ -2314,6 +2634,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW AR DBA CENTURYLINK - SILOAM SPRINGS
       lat: '34.690497'
       long: "-91.308919"
+      closest_city:
+        name: Clarendon
+        distance:
+          value: 0.43
+          units: km
     - region: AR
       exchange: '331728'
       name: Clarkedale
@@ -2338,6 +2663,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW AR-RUSSELVL DBA CENTURYLINK-RUSSELLV
       lat: '35.468272'
       long: "-93.467594"
+      closest_city:
+        name: Clarksville
+        distance:
+          value: 1.7
+          units: km
     - region: AR
       exchange: '331731'
       name: Clay
@@ -2370,6 +2700,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '35.417941'
       long: "-92.718446"
+      closest_city:
+        name: Jerusalem
+        distance:
+          value: 9.05
+          units: km
     - region: AR
       exchange: '331370'
       name: Clifty
@@ -2386,6 +2721,11 @@ rate_centers:
       ilec_name: ARKANSAS TEL. CO., INC.
       lat: '35.590769'
       long: "-92.461178"
+      closest_city:
+        name: Clinton
+        distance:
+          value: 1.37
+          units: km
     - region: AR
       exchange: '331736'
       name: Clover Bend
@@ -2506,6 +2846,11 @@ rate_centers:
       ilec_name: TRI-COUNTY TEL. CO., INC.
       lat: '36.089196'
       long: "-93.306823"
+      closest_city:
+        name: Ponca
+        distance:
+          value: 8.47
+          units: km
     - region: AR
       exchange: '010030'
       name: Concord
@@ -2514,6 +2859,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '35.66754'
       long: "-91.846495"
+      closest_city:
+        name: Concord
+        distance:
+          value: 0.7
+          units: km
     - region: AR
       exchange: '331748'
       name: Congo
@@ -2530,6 +2880,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '35.081685'
       long: "-92.449201"
+      closest_city:
+        name: Conway
+        distance:
+          value: 1.95
+          units: km
     - region: AR
       exchange: '331750'
       name: Cord
@@ -2554,6 +2909,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL ARKANSAS, LLC DBA CENTURYLINK
       lat: '36.410919'
       long: "-90.583837"
+      closest_city:
+        name: Corning
+        distance:
+          value: 0.28
+          units: km
     - region: AR
       exchange: '331752'
       name: Cotter
@@ -2570,6 +2930,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL ARKANSAS, LLC DBA CENTURYLINK
       lat: '35.006003'
       long: "-91.251544"
+      closest_city:
+        name: Cotton Plant
+        distance:
+          value: 0.04
+          units: km
     - region: AR
       exchange: '331754'
       name: Cotton Wood Corner
@@ -2594,6 +2959,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '34.435358'
       long: "-94.408439"
+      closest_city:
+        name: Cove
+        distance:
+          value: 0.72
+          units: km
     - region: AR
       exchange: '331757'
       name: Cove Creek
@@ -2634,6 +3004,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL ARKANSAS, LLC DBA CENTURYLINK
       lat: '34.534558'
       long: "-91.876587"
+      closest_city:
+        name: Coy
+        distance:
+          value: 0.82
+          units: km
     - region: AR
       exchange: '331761'
       name: Cozahome
@@ -2658,6 +3033,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '35.226049'
       long: "-90.321932"
+      closest_city:
+        name: Crawfordsville
+        distance:
+          value: 0.21
+          units: km
     - region: AR
       exchange: '331764'
       name: Creigh
@@ -2706,6 +3086,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '33.130892'
       long: "-91.956909"
+      closest_city:
+        name: Crossett
+        distance:
+          value: 0.66
+          units: km
     - region: AR
       exchange: '331767'
       name: Crumrod
@@ -2722,6 +3107,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '34.525985'
       long: "-93.335048"
+      closest_city:
+        name: Crystal Springs
+        distance:
+          value: 0.19
+          units: km
     - region: AR
       exchange: '332685'
       name: Cullendale
@@ -2818,6 +3208,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '34.233466'
       long: "-93.734209"
+      closest_city:
+        name: Daisy
+        distance:
+          value: 0.6
+          units: km
     - region: AR
       exchange: '010130'
       name: Dalark
@@ -2826,6 +3221,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '34.03544'
       long: "-92.883385"
+      closest_city:
+        name: Sparkman
+        distance:
+          value: 13.5
+          units: km
     - region: AR
       exchange: '331779'
       name: Dallas
@@ -2850,6 +3250,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '35.36649'
       long: "-92.407385"
+      closest_city:
+        name: Damascus
+        distance:
+          value: 0.32
+          units: km
     - region: AR
       exchange: '331782'
       name: Dansby
@@ -2866,6 +3271,11 @@ rate_centers:
       ilec_name: ARKWEST COMMUNICATIONS, INC.
       lat: '35.047925'
       long: "-93.40106"
+      closest_city:
+        name: Danville
+        distance:
+          value: 1.13
+          units: km
     - region: AR
       exchange: '010160'
       name: Dardanelle
@@ -2874,6 +3284,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW AR-RUSSELVL DBA CENTURYLINK-RUSSELLV
       lat: '35.224285'
       long: "-93.151671"
+      closest_city:
+        name: Dardanelle
+        distance:
+          value: 1.22
+          units: km
     - region: AR
       exchange: '331785'
       name: Datto
@@ -2898,6 +3313,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '34.031886'
       long: "-94.341077"
+      closest_city:
+        name: De Queen
+        distance:
+          value: 1.19
+          units: km
     - region: AR
       exchange: '010180'
       name: De Valls Bluff
@@ -2906,6 +3326,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL ARKANSAS, LLC DBA CENTURYLINK
       lat: '34.785156'
       long: "-91.458246"
+      closest_city:
+        name: De Valls Bluff
+        distance:
+          value: 0.26
+          units: km
     - region: AR
       exchange: '331787'
       name: De View
@@ -2922,6 +3347,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL ARKANSAS, LLC DBA CENTURYLINK
       lat: '34.290627'
       long: "-91.333893"
+      closest_city:
+        name: DeWitt
+        distance:
+          value: 0.54
+          units: km
     - region: AR
       exchange: '331376'
       name: Deans Market
@@ -2946,6 +3376,11 @@ rate_centers:
       ilec_name: DECATUR TEL. CO.
       lat: '36.332476'
       long: "-94.458786"
+      closest_city:
+        name: Decatur
+        distance:
+          value: 0.86
+          units: km
     - region: AR
       exchange: '331790'
       name: Deckerville
@@ -2962,6 +3397,11 @@ rate_centers:
       ilec_name: TRI-COUNTY TEL. CO., INC.
       lat: '35.83363'
       long: "-93.205821"
+      closest_city:
+        name: Deer
+        distance:
+          value: 1.9
+          units: km
     - region: AR
       exchange: '331792'
       name: Degray
@@ -2986,6 +3426,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL ARKANSAS, LLC DBA CENTURYLINK
       lat: '36.235754'
       long: "-90.726209"
+      closest_city:
+        name: Delaplaine
+        distance:
+          value: 0.6
+          units: km
     - region: AR
       exchange: '331794'
       name: Delaware
@@ -3002,6 +3447,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '34.035037'
       long: "-93.501001"
+      closest_city:
+        name: Delight
+        distance:
+          value: 0.79
+          units: km
     - region: AR
       exchange: '010240'
       name: Dell
@@ -3010,6 +3460,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '35.860601'
       long: "-90.043355"
+      closest_city:
+        name: Dell
+        distance:
+          value: 0.92
+          units: km
     - region: AR
       exchange: '331797'
       name: Delpro
@@ -3074,6 +3529,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '33.527061'
       long: "-91.435069"
+      closest_city:
+        name: Dermott
+        distance:
+          value: 0.26
+          units: km
     - region: AR
       exchange: '010260'
       name: Des Arc
@@ -3082,6 +3542,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL ARKANSAS, LLC DBA CENTURYLINK
       lat: '34.974839'
       long: "-91.498141"
+      closest_city:
+        name: Des Arc
+        distance:
+          value: 0.84
+          units: km
     - region: AR
       exchange: '331805'
       name: Desha
@@ -3122,6 +3587,11 @@ rate_centers:
       ilec_name: NORTHERN ARKANSAS TEL. CO.
       lat: '36.468324'
       long: "-92.915236"
+      closest_city:
+        name: Diamond City
+        distance:
+          value: 1.23
+          units: km
     - region: AR
       exchange: '331809'
       name: Diamondhead
@@ -3146,6 +3616,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '34.116234'
       long: "-94.019722"
+      closest_city:
+        name: Dierks
+        distance:
+          value: 0.47
+          units: km
     - region: AR
       exchange: '331812'
       name: Dixie
@@ -3162,6 +3637,11 @@ rate_centers:
       ilec_name: SOUTHWEST ARKANSAS TEL. COOP., INC.
       lat: '33.092435'
       long: "-93.90692"
+      closest_city:
+        name: Fouke
+        distance:
+          value: 18.98
+          units: km
     - region: AR
       exchange: '010300'
       name: Dodge City
@@ -3170,6 +3650,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF SOUTH ARKANSAS, INC. DBA CENTURYLINK
       lat: '33.015321'
       long: "-92.967882"
+      closest_city:
+        name: Junction City
+        distance:
+          value: 22.79
+          units: km
     - region: AR
       exchange: '331813'
       name: Dolph
@@ -3186,6 +3671,11 @@ rate_centers:
       ilec_name: CENTRAL ARKANSAS TEL. COOP., INC.
       lat: '34.231211'
       long: "-92.916784"
+      closest_city:
+        name: Donaldson
+        distance:
+          value: 0.49
+          units: km
     - region: AR
       exchange: '331815'
       name: Dongola
@@ -3218,6 +3708,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW AR-RUSSELVL DBA CENTURYLINK-RUSSELLV
       lat: '35.399436'
       long: "-93.11723"
+      closest_city:
+        name: Dover
+        distance:
+          value: 0.97
+          units: km
     - region: AR
       exchange: '010330'
       name: Drakes Creek
@@ -3226,6 +3721,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '36.014914'
       long: "-93.868185"
+      closest_city:
+        name: Wesley
+        distance:
+          value: 4.62
+          units: km
     - region: AR
       exchange: '331818'
       name: Drasco
@@ -3266,6 +3766,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW AR-RUSSELVL DBA CENTURYLINK-RUSSELLV
       lat: '33.886016'
       long: "-91.501275"
+      closest_city:
+        name: Dumas
+        distance:
+          value: 1.47
+          units: km
     - region: AR
       exchange: '331382'
       name: Durham
@@ -3306,6 +3811,11 @@ rate_centers:
       ilec_name: E. RITTER TEL. CO.
       lat: '35.590781'
       long: "-90.21769"
+      closest_city:
+        name: Dyess
+        distance:
+          value: 0.43
+          units: km
     - region: AR
       exchange: '332693'
       name: Eagle Mills
@@ -3330,6 +3840,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '35.266263'
       long: "-90.460269"
+      closest_city:
+        name: Earle
+        distance:
+          value: 0.87
+          units: km
     - region: AR
       exchange: '332692'
       name: East Camden
@@ -3418,6 +3933,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '33.21536'
       long: "-92.668809"
+      closest_city:
+        name: El Dorado
+        distance:
+          value: 0.56
+          units: km
     - region: AR
       exchange: '331834'
       name: El Paso
@@ -3434,6 +3954,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '34.308283'
       long: "-90.851264"
+      closest_city:
+        name: Elaine
+        distance:
+          value: 0.19
+          units: km
     - region: AR
       exchange: '331836'
       name: Elba
@@ -3466,6 +3991,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '35.999081'
       long: "-94.006638"
+      closest_city:
+        name: Elkins
+        distance:
+          value: 2.63
+          units: km
     - region: AR
       exchange: '332695'
       name: Elliott
@@ -3498,14 +4028,24 @@ rate_centers:
       ilec_name: CENTURYTEL NW AR-RUSSELVL DBA CENTURYLINK-RUSSELLV
       lat: '36.201256'
       long: "-94.231847"
+      closest_city:
+        name: Elm Springs
+        distance:
+          value: 0.84
+          units: km
     - region: AR
       exchange: '010401'
       name: Elm Springs (SBC)
-      short_name:
+      short_name: Elm Springs (SBC)
       lata: '526'
       ilec_name: SOUTHWESTERN BELL TELEPHONE COMPANY - AR
       lat: '36.201256'
       long: "-94.231847"
+      closest_city:
+        name: Elm Springs
+        distance:
+          value: 0.84
+          units: km
     - region: AR
       exchange: '010410'
       name: Emerson
@@ -3514,6 +4054,11 @@ rate_centers:
       ilec_name: SOUTHWEST ARKANSAS TEL. COOP., INC.
       lat: '33.101011'
       long: "-93.191595"
+      closest_city:
+        name: Emerson
+        distance:
+          value: 0.58
+          units: km
     - region: AR
       exchange: '331839'
       name: Emmet
@@ -3546,6 +4091,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL ARKANSAS, LLC DBA CENTURYLINK
       lat: '34.542952'
       long: "-91.963825"
+      closest_city:
+        name: England
+        distance:
+          value: 0.43
+          units: km
     - region: AR
       exchange: '331843'
       name: Engleburg
@@ -3562,6 +4112,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '35.193496'
       long: "-92.207921"
+      closest_city:
+        name: Enola
+        distance:
+          value: 0.29
+          units: km
     - region: AR
       exchange: '332698'
       name: Enon
@@ -3618,6 +4173,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '33.107943'
       long: "-91.25788"
+      closest_city:
+        name: Eudora
+        distance:
+          value: 1.36
+          units: km
     - region: AR
       exchange: '010450'
       name: Eureka Springs
@@ -3626,6 +4186,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '36.401396'
       long: "-93.732179"
+      closest_city:
+        name: Eureka Springs
+        distance:
+          value: 1.53
+          units: km
     - region: AR
       exchange: '331850'
       name: Evadale
@@ -3650,6 +4215,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF ARKANSAS, INC. DBA CENTURYLINK
       lat: '36.065328'
       long: "-91.617854"
+      closest_city:
+        name: Evening Shade
+        distance:
+          value: 0.63
+          units: km
     - region: AR
       exchange: '331851'
       name: Evening Start
@@ -3706,6 +4276,11 @@ rate_centers:
       ilec_name: ARKANSAS TEL. CO., INC.
       lat: '35.588544'
       long: "-92.307463"
+      closest_city:
+        name: Fairfield Bay
+        distance:
+          value: 4.18
+          units: km
     - region: AR
       exchange: '331857'
       name: Fairview
@@ -3762,6 +4337,11 @@ rate_centers:
       ilec_name: PRAIRIE GROVE TELEPHONE COMPANY
       lat: '36.034782'
       long: "-94.247012"
+      closest_city:
+        name: Farmington
+        distance:
+          value: 0.65
+          units: km
     - region: AR
       exchange: '010490'
       name: Fayetteville
@@ -3770,6 +4350,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '36.059163'
       long: "-94.159753"
+      closest_city:
+        name: Fayetteville
+        distance:
+          value: 1.48
+          units: km
     - region: AR
       exchange: '332703'
       name: Felsenthal
@@ -3826,6 +4411,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '34.748989'
       long: "-92.498748"
+      closest_city:
+        name: Avilla
+        distance:
+          value: 9.15
+          units: km
     - region: AR
       exchange: '010510'
       name: Fiftysix
@@ -3834,6 +4424,11 @@ rate_centers:
       ilec_name: MOUNTAIN VIEW TELEPHONE COMPANY
       lat: '35.959477'
       long: "-92.209597"
+      closest_city:
+        name: Fifty-Six
+        distance:
+          value: 1.87
+          units: km
     - region: AR
       exchange: '331394'
       name: Figure Five
@@ -3858,6 +4453,11 @@ rate_centers:
       ilec_name: RICE BELT TEL. CO.
       lat: '35.492181'
       long: "-90.9761"
+      closest_city:
+        name: Fisher
+        distance:
+          value: 0.33
+          units: km
     - region: AR
       exchange: '331870'
       name: Fitzhugh
@@ -3874,6 +4474,11 @@ rate_centers:
       ilec_name: NORTHERN ARKANSAS TEL. CO.
       lat: '36.282892'
       long: "-92.594463"
+      closest_city:
+        name: Flippin
+        distance:
+          value: 0.63
+          units: km
     - region: AR
       exchange: '331872'
       name: Floral
@@ -3922,6 +4527,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '33.810897'
       long: "-92.417801"
+      closest_city:
+        name: Fordyce
+        distance:
+          value: 0.81
+          units: km
     - region: AR
       exchange: '010550'
       name: Foreman
@@ -3930,6 +4540,11 @@ rate_centers:
       ilec_name: WALNUT HILL TEL. CO.
       lat: '33.72683'
       long: "-94.391143"
+      closest_city:
+        name: Foreman
+        distance:
+          value: 1.0
+          units: km
     - region: AR
       exchange: '331395'
       name: Forester
@@ -3954,6 +4569,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '35.010508'
       long: "-90.784308"
+      closest_city:
+        name: Forrest City
+        distance:
+          value: 0.87
+          units: km
     - region: AR
       exchange: '331398'
       name: Fort Chaffee
@@ -3986,6 +4606,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '35.382703'
       long: "-94.415847"
+      closest_city:
+        name: Fort Smith
+        distance:
+          value: 5.59
+          units: km
     - region: AR
       exchange: '331879'
       name: Forty Four
@@ -4002,6 +4627,11 @@ rate_centers:
       ilec_name: MADISON COUNTY TEL. CO., INC.
       lat: '36.173929'
       long: "-93.719747"
+      closest_city:
+        name: Huntsville
+        distance:
+          value: 8.52
+          units: km
     - region: AR
       exchange: '010590'
       name: Fouke
@@ -4010,6 +4640,11 @@ rate_centers:
       ilec_name: SOUTHWEST ARKANSAS TEL. COOP., INC.
       lat: '33.261314'
       long: "-93.884664"
+      closest_city:
+        name: Fouke
+        distance:
+          value: 0.11
+          units: km
     - region: AR
       exchange: '332706'
       name: Fountain Hill
@@ -4042,6 +4677,11 @@ rate_centers:
       ilec_name: MOUNTAIN VIEW TELEPHONE COMPANY
       lat: '35.781486'
       long: "-92.29175"
+      closest_city:
+        name: Fox
+        distance:
+          value: 0.78
+          units: km
     - region: AR
       exchange: '010610'
       name: Franklin
@@ -4050,6 +4690,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF ARKANSAS, INC. DBA CENTURYLINK
       lat: '36.165529'
       long: "-91.785472"
+      closest_city:
+        name: Franklin
+        distance:
+          value: 1.62
+          units: km
     - region: AR
       exchange: '331884'
       name: Freeman Springs
@@ -4106,6 +4751,11 @@ rate_centers:
       ilec_name: SOUTHWEST ARKANSAS TEL. COOP., INC.
       lat: '33.616968'
       long: "-93.806409"
+      closest_city:
+        name: Fulton
+        distance:
+          value: 0.84
+          units: km
     - region: AR
       exchange: '331891'
       name: Furlow
@@ -4146,6 +4796,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF MOUNTAIN HOME, INC. DBA CENTURYLINK
       lat: '36.399054'
       long: "-92.265657"
+      closest_city:
+        name: Henderson
+        distance:
+          value: 5.09
+          units: km
     - region: AR
       exchange: '010640'
       name: Garden Point
@@ -4154,6 +4809,11 @@ rate_centers:
       ilec_name: E. RITTER TEL. CO.
       lat: '35.700276'
       long: "-90.233841"
+      closest_city:
+        name: Etowah
+        distance:
+          value: 2.48
+          units: km
     - region: AR
       exchange: '010650'
       name: Garfield
@@ -4162,6 +4822,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW AR-RUSSELVL DBA CENTURYLINK-RUSSELLV
       lat: '36.450404'
       long: "-93.966777"
+      closest_city:
+        name: Garfield
+        distance:
+          value: 0.98
+          units: km
     - region: AR
       exchange: '010660'
       name: Garland
@@ -4170,6 +4835,11 @@ rate_centers:
       ilec_name: SOUTHWEST ARKANSAS TEL. COOP., INC.
       lat: '33.372115'
       long: "-93.707064"
+      closest_city:
+        name: Garland
+        distance:
+          value: 1.41
+          units: km
     - region: AR
       exchange: '335503'
       name: Garland City
@@ -4218,6 +4888,11 @@ rate_centers:
       ilec_name: YELCOT TEL. CO.
       lat: '36.292099'
       long: "-92.482991"
+      closest_city:
+        name: Gassville
+        distance:
+          value: 0.87
+          units: km
     - region: AR
       exchange: '010680'
       name: Gateway
@@ -4226,6 +4901,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW AR-RUSSELVL DBA CENTURYLINK-RUSSELLV
       lat: '36.484787'
       long: "-93.935619"
+      closest_city:
+        name: Gateway
+        distance:
+          value: 0.1
+          units: km
     - region: AR
       exchange: '331901'
       name: Geneva
@@ -4250,6 +4930,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW AR-RUSSELVL DBA CENTURYLINK-RUSSELLV
       lat: '36.265092'
       long: "-94.48243"
+      closest_city:
+        name: Gentry
+        distance:
+          value: 1.16
+          units: km
     - region: AR
       exchange: '331902'
       name: Georges Creek
@@ -4330,6 +5015,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL ARKANSAS, LLC DBA CENTURYLINK
       lat: '34.115882'
       long: "-91.383928"
+      closest_city:
+        name: Gillett
+        distance:
+          value: 0.6
+          units: km
     - region: AR
       exchange: '010710'
       name: Gillham
@@ -4338,6 +5028,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '34.165565'
       long: "-94.319673"
+      closest_city:
+        name: Gillham
+        distance:
+          value: 0.58
+          units: km
     - region: AR
       exchange: '331912'
       name: Gilmore
@@ -4394,6 +5089,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '34.327507'
       long: "-93.550868"
+      closest_city:
+        name: Glenwood
+        distance:
+          value: 1.84
+          units: km
     - region: AR
       exchange: '331917'
       name: Gold Creek
@@ -4442,6 +5142,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW AR-RUSSELVL DBA CENTURYLINK-RUSSELLV
       lat: '33.98409'
       long: "-91.568093"
+      closest_city:
+        name: Gould
+        distance:
+          value: 0.51
+          units: km
     - region: AR
       exchange: '010740'
       name: Grady
@@ -4450,6 +5155,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '34.082832'
       long: "-91.701791"
+      closest_city:
+        name: Grady
+        distance:
+          value: 0.6
+          units: km
     - region: AR
       exchange: '331921'
       name: Grand Glaise
@@ -4546,6 +5256,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '36.417571'
       long: "-94.456617"
+      closest_city:
+        name: Gravette
+        distance:
+          value: 7.75
+          units: km
     - region: AR
       exchange: '331930'
       name: Grays
@@ -4570,6 +5285,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '36.333452'
       long: "-93.433329"
+      closest_city:
+        name: Green Forest
+        distance:
+          value: 0.25
+          units: km
     - region: AR
       exchange: '010770'
       name: Greenbrier
@@ -4578,6 +5298,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '35.232357'
       long: "-92.389794"
+      closest_city:
+        name: Greenbrier
+        distance:
+          value: 0.68
+          units: km
     - region: AR
       exchange: '331934'
       name: Greenfield
@@ -4618,6 +5343,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW AR-RUSSELVL DBA CENTURYLINK-RUSSELLV
       lat: '35.217732'
       long: "-94.252364"
+      closest_city:
+        name: Greenwood
+        distance:
+          value: 1.16
+          units: km
     - region: AR
       exchange: '010790'
       name: Greers Ferry
@@ -4626,6 +5356,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '35.569018'
       long: "-92.175829"
+      closest_city:
+        name: Greers Ferry
+        distance:
+          value: 0.66
+          units: km
     - region: AR
       exchange: '331937'
       name: Gregory
@@ -4658,6 +5393,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL ARKANSAS, LLC DBA CENTURYLINK
       lat: '35.125164'
       long: "-91.647276"
+      closest_city:
+        name: Griffithville
+        distance:
+          value: 0.32
+          units: km
     - region: AR
       exchange: '010810'
       name: Grubbs
@@ -4666,6 +5406,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '35.650084'
       long: "-91.077401"
+      closest_city:
+        name: Grubbs
+        distance:
+          value: 0.47
+          units: km
     - region: AR
       exchange: '331941'
       name: Guernsey
@@ -4698,6 +5443,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '33.917013'
       long: "-93.147043"
+      closest_city:
+        name: Gurdon
+        distance:
+          value: 0.71
+          units: km
     - region: AR
       exchange: '331945'
       name: Guy
@@ -4714,6 +5464,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW AR-RUSSELVL DBA CENTURYLINK-RUSSELLV
       lat: '35.181467'
       long: "-94.418154"
+      closest_city:
+        name: Hackett
+        distance:
+          value: 0.98
+          units: km
     - region: AR
       exchange: '331946'
       name: Hagarville
@@ -4754,6 +5509,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '33.231841'
       long: "-91.798863"
+      closest_city:
+        name: Hamburg
+        distance:
+          value: 0.8
+          units: km
     - region: AR
       exchange: '331949'
       name: Hamlet
@@ -4778,6 +5538,11 @@ rate_centers:
       ilec_name: SOUTH ARKANSAS TEL. CO., INC.
       lat: '33.534065'
       long: "-92.466079"
+      closest_city:
+        name: Hampton
+        distance:
+          value: 0.09
+          units: km
     - region: AR
       exchange: '331951'
       name: Hanover
@@ -4802,6 +5567,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF ARKANSAS, INC. DBA CENTURYLINK
       lat: '36.316054'
       long: "-91.484843"
+      closest_city:
+        name: Hardy
+        distance:
+          value: 0.58
+          units: km
     - region: AR
       exchange: '331953'
       name: Hargrave Corner
@@ -4874,6 +5644,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '35.567659'
       long: "-90.725862"
+      closest_city:
+        name: Harrisburg
+        distance:
+          value: 0.59
+          units: km
     - region: AR
       exchange: '010880'
       name: Harrison
@@ -4882,6 +5657,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '36.234517'
       long: "-93.108191"
+      closest_city:
+        name: Harrison
+        distance:
+          value: 1.47
+          units: km
     - region: AR
       exchange: '331408'
       name: Hartford
@@ -4898,6 +5678,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW AR-RUSSELVL DBA CENTURYLINK-RUSSELLV
       lat: '35.434116'
       long: "-93.609181"
+      closest_city:
+        name: Hartman
+        distance:
+          value: 1.3
+          units: km
     - region: AR
       exchange: '331961'
       name: Harvey
@@ -4938,6 +5723,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '34.484474'
       long: "-94.376735"
+      closest_city:
+        name: Hatfield
+        distance:
+          value: 0.29
+          units: km
     - region: AR
       exchange: '331966'
       name: Hattieville
@@ -4962,6 +5752,11 @@ rate_centers:
       ilec_name: ARKWEST COMMUNICATIONS, INC.
       lat: '35.117715'
       long: "-93.534815"
+      closest_city:
+        name: Havana
+        distance:
+          value: 1.19
+          units: km
     - region: AR
       exchange: '331969'
       name: Haynes
@@ -4986,6 +5781,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL ARKANSAS, LLC DBA CENTURYLINK
       lat: '34.782827'
       long: "-91.582797"
+      closest_city:
+        name: Hazen
+        distance:
+          value: 1.83
+          units: km
     - region: AR
       exchange: '331410'
       name: Healing Springs
@@ -5010,6 +5810,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '35.493717'
       long: "-92.032367"
+      closest_city:
+        name: Heber Springs
+        distance:
+          value: 0.7
+          units: km
     - region: AR
       exchange: '010940'
       name: Hector
@@ -5018,6 +5823,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW AR-RUSSELVL DBA CENTURYLINK-RUSSELLV
       lat: '35.457474'
       long: "-92.986654"
+      closest_city:
+        name: Hector
+        distance:
+          value: 1.26
+          units: km
     - region: AR
       exchange: '010950'
       name: Helena
@@ -5026,6 +5836,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '34.52451'
       long: "-90.584576"
+      closest_city:
+        name: Helena-West Helena
+        distance:
+          value: 3.34
+          units: km
     - region: AR
       exchange: '331975'
       name: Helena Crossing
@@ -5050,6 +5865,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF MOUNTAIN HOME, INC. DBA CENTURYLINK
       lat: '36.377042'
       long: "-92.234345"
+      closest_city:
+        name: Henderson
+        distance:
+          value: 1.69
+          units: km
     - region: AR
       exchange: '331978'
       name: Hensley
@@ -5066,6 +5886,11 @@ rate_centers:
       ilec_name: SOUTH ARKANSAS TEL. CO., INC.
       lat: '33.450738'
       long: "-92.173467"
+      closest_city:
+        name: Hermitage
+        distance:
+          value: 0.42
+          units: km
     - region: AR
       exchange: '331979'
       name: Heth
@@ -5082,6 +5907,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL ARKANSAS, LLC DBA CENTURYLINK
       lat: '34.984757'
       long: "-91.733276"
+      closest_city:
+        name: McRae
+        distance:
+          value: 16.43
+          units: km
     - region: AR
       exchange: '010990'
       name: Hickory Ridge
@@ -5090,6 +5920,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '35.398765'
       long: "-90.999412"
+      closest_city:
+        name: Hickory Ridge
+        distance:
+          value: 0.63
+          units: km
     - region: AR
       exchange: '331411'
       name: Hicks
@@ -5186,6 +6021,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '36.141349'
       long: "-93.867719"
+      closest_city:
+        name: Hindsville
+        distance:
+          value: 0.67
+          units: km
     - region: AR
       exchange: '331991'
       name: Hiram
@@ -5250,6 +6090,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW AR DBA CENTURYLINK - SILOAM SPRINGS
       lat: '34.601227'
       long: "-91.199844"
+      closest_city:
+        name: Holly Grove
+        distance:
+          value: 0.35
+          units: km
     - region: AR
       exchange: '331995'
       name: Holly Island
@@ -5306,6 +6151,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '33.668845'
       long: "-93.592802"
+      closest_city:
+        name: Hope
+        distance:
+          value: 0.31
+          units: km
     - region: AR
       exchange: '332726'
       name: Hopeville
@@ -5338,6 +6188,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '33.944361'
       long: "-94.350463"
+      closest_city:
+        name: Horatio
+        distance:
+          value: 0.59
+          units: km
     - region: AR
       exchange: '011040'
       name: Horseshoe Bend
@@ -5346,6 +6201,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF ARKANSAS, INC. DBA CENTURYLINK
       lat: '36.226122'
       long: "-91.756776"
+      closest_city:
+        name: Horseshoe Bend
+        distance:
+          value: 1.61
+          units: km
     - region: AR
       exchange: '332010'
       name: Horseshoe Lake
@@ -5362,6 +6222,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '34.500401'
       long: "-93.050509"
+      closest_city:
+        name: Hot Springs
+        distance:
+          value: 1.25
+          units: km
     - region: AR
       exchange: '332004'
       name: Hot Springs Village
@@ -5418,6 +6283,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '34.949741'
       long: "-90.46613"
+      closest_city:
+        name: Hughes
+        distance:
+          value: 0.45
+          units: km
     - region: AR
       exchange: '332013'
       name: Hulbert
@@ -5442,6 +6312,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL ARKANSAS, LLC DBA CENTURYLINK
       lat: '34.422244'
       long: "-91.706821"
+      closest_city:
+        name: Humphrey
+        distance:
+          value: 0.4
+          units: km
     - region: AR
       exchange: '332016'
       name: Hunt
@@ -5474,6 +6349,11 @@ rate_centers:
       ilec_name: MADISON COUNTY TEL. CO., INC.
       lat: '36.082274'
       long: "-93.732502"
+      closest_city:
+        name: Huntsville
+        distance:
+          value: 1.84
+          units: km
     - region: AR
       exchange: '332018'
       name: Hurricane Grove
@@ -5498,6 +6378,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '33.032046'
       long: "-92.185393"
+      closest_city:
+        name: Huttig
+        distance:
+          value: 1.14
+          units: km
     - region: AR
       exchange: '332020'
       name: Ida
@@ -5514,6 +6399,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL ARKANSAS, LLC DBA CENTURYLINK
       lat: '36.201056'
       long: "-91.174855"
+      closest_city:
+        name: Imboden
+        distance:
+          value: 0.27
+          units: km
     - region: AR
       exchange: '332022'
       name: Index
@@ -5602,6 +6492,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL ARKANSAS, LLC DBA CENTURYLINK
       lat: '34.868518'
       long: "-92.119116"
+      closest_city:
+        name: Jacksonville
+        distance:
+          value: 1.7
+          units: km
     - region: AR
       exchange: '332029'
       name: James Mill
@@ -5634,6 +6529,11 @@ rate_centers:
       ilec_name: TRI-COUNTY TEL. CO., INC.
       lat: '36.008362'
       long: "-93.183796"
+      closest_city:
+        name: Jasper
+        distance:
+          value: 0.55
+          units: km
     - region: AR
       exchange: '332032'
       name: Jefferson
@@ -5698,6 +6598,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '34.698838'
       long: "-93.064641"
+      closest_city:
+        name: Hot Springs Village
+        distance:
+          value: 10.31
+          units: km
     - region: AR
       exchange: '011140'
       name: Jesup
@@ -5706,6 +6611,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL ARKANSAS, LLC DBA CENTURYLINK
       lat: '36.016531'
       long: "-91.33296"
+      closest_city:
+        name: Strawberry
+        distance:
+          value: 5.66
+          units: km
     - region: AR
       exchange: '332037'
       name: Joan
@@ -5738,6 +6648,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '35.506428'
       long: "-90.148994"
+      closest_city:
+        name: Joiner
+        distance:
+          value: 0.15
+          units: km
     - region: AR
       exchange: '332039'
       name: Jolly Ellis
@@ -5754,6 +6669,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '34.441565'
       long: "-92.881454"
+      closest_city:
+        name: Jones Mills
+        distance:
+          value: 1.0
+          units: km
     - region: AR
       exchange: '011170'
       name: Jonesboro
@@ -5762,6 +6682,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '35.832628'
       long: "-90.70734"
+      closest_city:
+        name: Jonesboro
+        distance:
+          value: 2.85
+          units: km
     - region: AR
       exchange: '332042'
       name: Jonquill
@@ -5802,6 +6727,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL ARKANSAS, LLC DBA CENTURYLINK
       lat: '35.276371'
       long: "-91.641494"
+      closest_city:
+        name: Judsonia
+        distance:
+          value: 0.08
+          units: km
     - region: AR
       exchange: '332046'
       name: Julius
@@ -5818,6 +6748,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF SOUTH ARKANSAS, INC. DBA CENTURYLINK
       lat: '33.018846'
       long: "-92.726494"
+      closest_city:
+        name: Junction City
+        distance:
+          value: 0.44
+          units: km
     - region: AR
       exchange: '332738'
       name: Kedron
@@ -5842,6 +6777,11 @@ rate_centers:
       ilec_name: E. RITTER TEL. CO.
       lat: '35.67629'
       long: "-90.09752"
+      closest_city:
+        name: Keiser
+        distance:
+          value: 0.3
+          units: km
     - region: AR
       exchange: '332739'
       name: Kelso
@@ -5866,6 +6806,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL ARKANSAS, LLC DBA CENTURYLINK
       lat: '35.23229'
       long: "-91.672846"
+      closest_city:
+        name: Kensett
+        distance:
+          value: 0.39
+          units: km
     - region: AR
       exchange: '332050'
       name: Kenwood
@@ -5922,6 +6867,11 @@ rate_centers:
       ilec_name: CLEVELAND COUNTY TEL. CO., INC.
       lat: '33.857518'
       long: "-92.301304"
+      closest_city:
+        name: Kingsland
+        distance:
+          value: 1.33
+          units: km
     - region: AR
       exchange: '011230'
       name: Kingston
@@ -5930,6 +6880,11 @@ rate_centers:
       ilec_name: MADISON COUNTY TEL. CO., INC.
       lat: '36.048802'
       long: "-93.515209"
+      closest_city:
+        name: Kingston
+        distance:
+          value: 0.33
+          units: km
     - region: AR
       exchange: '332055'
       name: Kirby
@@ -5962,6 +6917,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL ARKANSAS, LLC DBA CENTURYLINK
       lat: '36.390935'
       long: "-90.507254"
+      closest_city:
+        name: Corning
+        distance:
+          value: 7.3
+          units: km
     - region: AR
       exchange: '332058'
       name: Knoxville
@@ -6034,6 +6994,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW AR DBA CENTURYLINK - SILOAM SPRINGS
       lat: '35.81664'
       long: "-90.434402"
+      closest_city:
+        name: Lake City
+        distance:
+          value: 1.87
+          units: km
     - region: AR
       exchange: '332747'
       name: Lake Dick
@@ -6066,6 +7031,11 @@ rate_centers:
       ilec_name: SCOTT COUNTY TELEPHONE CO.
       lat: '34.855582'
       long: "-94.187789"
+      closest_city:
+        name: Waldron
+        distance:
+          value: 9.9
+          units: km
     - region: AR
       exchange: '332093'
       name: Lake Ouachita
@@ -6090,6 +7060,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '33.333146'
       long: "-91.283027"
+      closest_city:
+        name: Lake Village
+        distance:
+          value: 0.52
+          units: km
     - region: AR
       exchange: '331430'
       name: Lake Wedington
@@ -6114,6 +7089,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF MOUNTAIN HOME, INC. DBA CENTURYLINK
       lat: '36.366315'
       long: "-92.57234"
+      closest_city:
+        name: Bull Shoals
+        distance:
+          value: 1.86
+          units: km
     - region: AR
       exchange: '332064'
       name: Lakeway
@@ -6130,6 +7110,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW AR-RUSSELVL DBA CENTURYLINK-RUSSELLV
       lat: '35.442242'
       long: "-93.38327"
+      closest_city:
+        name: Lamar
+        distance:
+          value: 1.08
+          units: km
     - region: AR
       exchange: '332750'
       name: Lamartine
@@ -6218,6 +7203,11 @@ rate_centers:
       ilec_name: LAVACA TEL CO
       lat: '35.330949'
       long: "-94.173892"
+      closest_city:
+        name: Lavaca
+        distance:
+          value: 0.65
+          units: km
     - region: AR
       exchange: '332752'
       name: Lawson
@@ -6234,6 +7224,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW AR DBA CENTURYLINK - SILOAM SPRINGS
       lat: '35.931715'
       long: "-90.258768"
+      closest_city:
+        name: Leachville
+        distance:
+          value: 3.11
+          units: km
     - region: AR
       exchange: '011320'
       name: Lead Hill
@@ -6242,6 +7237,11 @@ rate_centers:
       ilec_name: NORTHERN ARKANSAS TEL. CO.
       lat: '36.40666'
       long: "-92.899795"
+      closest_city:
+        name: Lead Hill
+        distance:
+          value: 1.0
+          units: km
     - region: AR
       exchange: '332075'
       name: Lehi
@@ -6266,6 +7266,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '34.168488'
       long: "-92.592355"
+      closest_city:
+        name: Leola
+        distance:
+          value: 0.19
+          units: km
     - region: AR
       exchange: '011340'
       name: Leonard
@@ -6274,6 +7279,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL ARKANSAS, LLC DBA CENTURYLINK
       lat: '36.217126'
       long: "-90.251298"
+      closest_city:
+        name: Rector
+        distance:
+          value: 6.46
+          units: km
     - region: AR
       exchange: '011350'
       name: Lepanto
@@ -6282,6 +7292,11 @@ rate_centers:
       ilec_name: E. RITTER TEL. CO.
       lat: '35.606501'
       long: "-90.333665"
+      closest_city:
+        name: Lepanto
+        distance:
+          value: 0.23
+          units: km
     - region: AR
       exchange: '011360'
       name: Leslie
@@ -6290,6 +7305,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '35.826266'
       long: "-92.558626"
+      closest_city:
+        name: Leslie
+        distance:
+          value: 0.41
+          units: km
     - region: AR
       exchange: '332080'
       name: Lesterville
@@ -6330,6 +7350,11 @@ rate_centers:
       ilec_name: WALNUT HILL TEL. CO.
       lat: '33.37309'
       long: "-93.574754"
+      closest_city:
+        name: Lewisville
+        distance:
+          value: 0.98
+          units: km
     - region: AR
       exchange: '332084'
       name: Lexa
@@ -6370,6 +7395,11 @@ rate_centers:
       ilec_name: PRAIRIE GROVE TELEPHONE COMPANY
       lat: '35.948711'
       long: "-94.416469"
+      closest_city:
+        name: Lincoln
+        distance:
+          value: 0.09
+          units: km
     - region: AR
       exchange: '332755'
       name: Linwood
@@ -6426,6 +7456,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '34.748463'
       long: "-92.284434"
+      closest_city:
+        name: North Little Rock
+        distance:
+          value: 5.62
+          units: km
     - region: AR
       exchange: '332109'
       name: Little Rock AFB
@@ -6450,6 +7485,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '33.967048'
       long: "-94.164172"
+      closest_city:
+        name: Lockesburg
+        distance:
+          value: 1.21
+          units: km
     - region: AR
       exchange: '332758'
       name: Locust Bayou
@@ -6498,6 +7538,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW AR-RUSSELVL DBA CENTURYLINK-RUSSELLV
       lat: '35.332798'
       long: "-93.252221"
+      closest_city:
+        name: London
+        distance:
+          value: 1.1
+          units: km
     - region: AR
       exchange: '331431'
       name: Lone Elm
@@ -6530,6 +7575,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '34.784504'
       long: "-91.901874"
+      closest_city:
+        name: Lonoke
+        distance:
+          value: 0.83
+          units: km
     - region: AR
       exchange: '011430'
       name: Lonsdale
@@ -6538,6 +7588,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '34.541167'
       long: "-92.808778"
+      closest_city:
+        name: Lonsdale
+        distance:
+          value: 0.46
+          units: km
     - region: AR
       exchange: '332104'
       name: Lorado
@@ -6570,6 +7625,11 @@ rate_centers:
       ilec_name: SOUTH ARKANSAS TEL. CO., INC.
       lat: '33.389808'
       long: "-92.791266"
+      closest_city:
+        name: Louann
+        distance:
+          value: 0.21
+          units: km
     - region: AR
       exchange: '332107'
       name: Louise
@@ -6642,6 +7702,11 @@ rate_centers:
       ilec_name: TRI-COUNTY TEL. CO., INC.
       lat: '35.765344'
       long: "-93.076303"
+      closest_city:
+        name: Deer
+        distance:
+          value: 14.74
+          units: km
     - region: AR
       exchange: '332118'
       name: Lutherville
@@ -6658,6 +7723,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '35.749433'
       long: "-89.934117"
+      closest_city:
+        name: Luxora
+        distance:
+          value: 0.98
+          units: km
     - region: AR
       exchange: '332120'
       name: Lynn
@@ -6682,6 +7752,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '33.184561'
       long: "-93.290968"
+      closest_city:
+        name: Magnolia
+        distance:
+          value: 11.97
+          units: km
     - region: AR
       exchange: '332122'
       name: Macon
@@ -6706,6 +7781,11 @@ rate_centers:
       ilec_name: MAGAZINE TEL. CO.
       lat: '35.149181'
       long: "-93.799559"
+      closest_city:
+        name: Magazine
+        distance:
+          value: 0.88
+          units: km
     - region: AR
       exchange: '332125'
       name: Magness
@@ -6730,6 +7810,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '33.267159'
       long: "-93.241185"
+      closest_city:
+        name: Magnolia
+        distance:
+          value: 1.81
+          units: km
     - region: AR
       exchange: '011500'
       name: Mallard Point
@@ -6738,6 +7823,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF MOUNTAIN HOME, INC. DBA CENTURYLINK
       lat: '36.374173'
       long: "-92.26732"
+      closest_city:
+        name: Henderson
+        distance:
+          value: 4.65
+          units: km
     - region: AR
       exchange: '011510'
       name: Malvern
@@ -6746,6 +7836,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '34.358805'
       long: "-92.810854"
+      closest_city:
+        name: Malvern
+        distance:
+          value: 1.85
+          units: km
     - region: AR
       exchange: '011520'
       name: Mammoth Spring
@@ -6754,6 +7849,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL ARKANSAS, LLC DBA CENTURYLINK
       lat: '36.490952'
       long: "-91.540199"
+      closest_city:
+        name: Mammoth Spring
+        distance:
+          value: 0.2
+          units: km
     - region: AR
       exchange: '332762'
       name: Manchester
@@ -6786,6 +7886,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW AR DBA CENTURYLINK - SILOAM SPRINGS
       lat: '35.884739'
       long: "-90.167344"
+      closest_city:
+        name: Manila
+        distance:
+          value: 0.19
+          units: km
     - region: AR
       exchange: '332763'
       name: Manning
@@ -6802,6 +7907,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW AR-RUSSELVL DBA CENTURYLINK-RUSSELLV
       lat: '35.060248'
       long: "-94.250238"
+      closest_city:
+        name: Mansfield
+        distance:
+          value: 1.23
+          units: km
     - region: AR
       exchange: '332132'
       name: Manson
@@ -6858,6 +7968,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '34.774945'
       long: "-90.760286"
+      closest_city:
+        name: Marianna
+        distance:
+          value: 0.67
+          units: km
     - region: AR
       exchange: '332138'
       name: Marie
@@ -6874,6 +7989,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '35.218641'
       long: "-90.201586"
+      closest_city:
+        name: Sunset
+        distance:
+          value: 0.7
+          units: km
     - region: AR
       exchange: '011570'
       name: Marked Tree
@@ -6882,6 +8002,11 @@ rate_centers:
       ilec_name: E. RITTER TEL. CO.
       lat: '35.531389'
       long: "-90.415858"
+      closest_city:
+        name: Marked Tree
+        distance:
+          value: 1.1
+          units: km
     - region: AR
       exchange: '011580'
       name: Marmaduke
@@ -6890,6 +8015,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL ARKANSAS, LLC DBA CENTURYLINK
       lat: '36.191388'
       long: "-90.38046"
+      closest_city:
+        name: Marmaduke
+        distance:
+          value: 0.44
+          units: km
     - region: AR
       exchange: '332142'
       name: Marsena
@@ -6906,6 +8036,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '35.909188'
       long: "-92.630188"
+      closest_city:
+        name: Marshall
+        distance:
+          value: 1.42
+          units: km
     - region: AR
       exchange: '332144'
       name: Martinville
@@ -6922,6 +8057,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL ARKANSAS, LLC DBA CENTURYLINK
       lat: '34.55787'
       long: "-90.910596"
+      closest_city:
+        name: Marvell
+        distance:
+          value: 0.46
+          units: km
     - region: AR
       exchange: '332764'
       name: Marysville
@@ -6954,6 +8094,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '34.874783'
       long: "-92.735789"
+      closest_city:
+        name: Perryville
+        distance:
+          value: 16.44
+          units: km
     - region: AR
       exchange: '331436'
       name: Mayfield
@@ -6978,6 +8123,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL ARKANSAS, LLC DBA CENTURYLINK
       lat: '36.417812'
       long: "-90.902039"
+      closest_city:
+        name: Maynard
+        distance:
+          value: 0.4
+          units: km
     - region: AR
       exchange: '011630'
       name: Maysville
@@ -6986,6 +8136,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW AR-RUSSELVL DBA CENTURYLINK-RUSSELLV
       lat: '36.408948'
       long: "-94.603849"
+      closest_city:
+        name: Maysville
+        distance:
+          value: 1.54
+          units: km
     - region: AR
       exchange: '332149'
       name: Mayview
@@ -7034,6 +8189,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL ARKANSAS, LLC DBA CENTURYLINK
       lat: '35.25721'
       long: "-91.199692"
+      closest_city:
+        name: McCrory
+        distance:
+          value: 0.23
+          units: km
     - region: AR
       exchange: '332154'
       name: McDougal
@@ -7050,6 +8210,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '33.631198'
       long: "-91.400983"
+      closest_city:
+        name: McGehee
+        distance:
+          value: 0.65
+          units: km
     - region: AR
       exchange: '332155'
       name: McGintytown
@@ -7098,6 +8263,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '33.351206'
       long: "-93.208519"
+      closest_city:
+        name: McNeil
+        distance:
+          value: 0.37
+          units: km
     - region: AR
       exchange: '011670'
       name: McRae
@@ -7106,6 +8276,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL ARKANSAS, LLC DBA CENTURYLINK
       lat: '35.115435'
       long: "-91.8197"
+      closest_city:
+        name: McRae
+        distance:
+          value: 0.64
+          units: km
     - region: AR
       exchange: '011680'
       name: Melbourne
@@ -7114,6 +8289,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF ARKANSAS, INC. DBA CENTURYLINK
       lat: '36.059472'
       long: "-91.909044"
+      closest_city:
+        name: Melbourne
+        distance:
+          value: 2.48
+          units: km
     - region: AR
       exchange: '332159'
       name: Mellwood
@@ -7130,6 +8310,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '34.581676'
       long: "-94.240972"
+      closest_city:
+        name: Mena
+        distance:
+          value: 0.38
+          units: km
     - region: AR
       exchange: '332161'
       name: Menifee
@@ -7162,6 +8347,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW AR-RUSSELVL DBA CENTURYLINK-RUSSELLV
       lat: '35.091173'
       long: "-94.349815"
+      closest_city:
+        name: Midland
+        distance:
+          value: 0.34
+          units: km
     - region: AR
       exchange: '011710'
       name: Midway (Baxter)
@@ -7170,6 +8360,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF MOUNTAIN HOME, INC. DBA CENTURYLINK
       lat: '36.383903'
       long: "-92.455973"
+      closest_city:
+        name: Midway
+        distance:
+          value: 1.74
+          units: km
     - region: AR
       exchange: '332164'
       name: Miller
@@ -7210,6 +8405,11 @@ rate_centers:
       ilec_name: WALNUT HILL TEL. CO.
       lat: '33.87581'
       long: "-93.916977"
+      closest_city:
+        name: Mineral Springs
+        distance:
+          value: 0.46
+          units: km
     - region: AR
       exchange: '332167'
       name: Minturn
@@ -7290,6 +8490,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW AR DBA CENTURYLINK - SILOAM SPRINGS
       lat: '35.891848'
       long: "-90.33926"
+      closest_city:
+        name: Monette
+        distance:
+          value: 0.47
+          units: km
     - region: AR
       exchange: '332174'
       name: Monnie Springs
@@ -7330,6 +8535,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '33.633919'
       long: "-91.7819"
+      closest_city:
+        name: Monticello
+        distance:
+          value: 1.4
+          units: km
     - region: AR
       exchange: '332777'
       name: Montongo
@@ -7378,6 +8588,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '35.467349'
       long: "-92.350837"
+      closest_city:
+        name: Bee Branch
+        distance:
+          value: 4.19
+          units: km
     - region: AR
       exchange: '011760'
       name: Moro
@@ -7386,6 +8601,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '34.790566'
       long: "-90.992324"
+      closest_city:
+        name: Moro
+        distance:
+          value: 0.43
+          units: km
     - region: AR
       exchange: '011770'
       name: Morrilton
@@ -7394,6 +8614,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '35.149845'
       long: "-92.749866"
+      closest_city:
+        name: Morrilton
+        distance:
+          value: 1.21
+          units: km
     - region: AR
       exchange: '332184'
       name: Morris
@@ -7426,6 +8651,11 @@ rate_centers:
       ilec_name: PRAIRIE GROVE TELEPHONE COMPANY
       lat: '35.848472'
       long: "-94.432862"
+      closest_city:
+        name: Morrow
+        distance:
+          value: 0.85
+          units: km
     - region: AR
       exchange: '332186'
       name: Morton
@@ -7482,6 +8712,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '33.297774'
       long: "-92.948874"
+      closest_city:
+        name: Mount Holly
+        distance:
+          value: 0.75
+          units: km
     - region: AR
       exchange: '011800'
       name: Mount Ida
@@ -7490,6 +8725,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '34.556489'
       long: "-93.634989"
+      closest_city:
+        name: Mount Ida
+        distance:
+          value: 0.73
+          units: km
     - region: AR
       exchange: '011810'
       name: Mount Judea
@@ -7498,6 +8738,11 @@ rate_centers:
       ilec_name: TRI-COUNTY TEL. CO., INC.
       lat: '35.917456'
       long: "-93.047917"
+      closest_city:
+        name: Mount Judea
+        distance:
+          value: 0.98
+          units: km
     - region: AR
       exchange: '332202'
       name: Mount Magazine
@@ -7530,6 +8775,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF ARKANSAS, INC. DBA CENTURYLINK
       lat: '35.961169'
       long: "-91.759247"
+      closest_city:
+        name: Mount Pleasant
+        distance:
+          value: 2.81
+          units: km
     - region: AR
       exchange: '332199'
       name: Mount Sherman
@@ -7570,6 +8820,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF MOUNTAIN HOME, INC. DBA CENTURYLINK
       lat: '36.331896'
       long: "-92.385338"
+      closest_city:
+        name: Mountain Home
+        distance:
+          value: 0.38
+          units: km
     - region: AR
       exchange: '332198'
       name: Mountain Pine
@@ -7594,6 +8849,11 @@ rate_centers:
       ilec_name: MOUNTAIN VIEW TELEPHONE COMPANY
       lat: '35.868499'
       long: "-92.11796"
+      closest_city:
+        name: Mountain View
+        distance:
+          value: 1.37
+          units: km
     - region: AR
       exchange: '011850'
       name: Mountainburg
@@ -7602,6 +8862,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW AR-RUSSELVL DBA CENTURYLINK-RUSSELLV
       lat: '35.631842'
       long: "-94.166864"
+      closest_city:
+        name: Mountainburg
+        distance:
+          value: 0.48
+          units: km
     - region: AR
       exchange: '011860'
       name: Mulberry
@@ -7610,6 +8875,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '35.499729'
       long: "-94.053172"
+      closest_city:
+        name: Mulberry
+        distance:
+          value: 2.2
+          units: km
     - region: AR
       exchange: '011870'
       name: Murfreesboro
@@ -7618,6 +8888,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '34.06095'
       long: "-93.692667"
+      closest_city:
+        name: Murfreesboro
+        distance:
+          value: 1.13
+          units: km
     - region: AR
       exchange: '332205'
       name: Myron
@@ -7658,6 +8933,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '33.932386'
       long: "-93.851083"
+      closest_city:
+        name: Nashville
+        distance:
+          value: 1.05
+          units: km
     - region: AR
       exchange: '011890'
       name: Natural Dam
@@ -7666,6 +8946,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '35.649465'
       long: "-94.384871"
+      closest_city:
+        name: Cedarville
+        distance:
+          value: 7.69
+          units: km
     - region: AR
       exchange: '332209'
       name: Natural Steps
@@ -7810,6 +9095,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '35.70018'
       long: "-91.441506"
+      closest_city:
+        name: Newark
+        distance:
+          value: 0.84
+          units: km
     - region: AR
       exchange: '332222'
       name: Newburg
@@ -7850,6 +9140,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '35.607653'
       long: "-91.283038"
+      closest_city:
+        name: Jacksonport
+        distance:
+          value: 4.46
+          units: km
     - region: AR
       exchange: '332226'
       name: Newport Airbase
@@ -7874,6 +9169,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '34.968169'
       long: "-93.064607"
+      closest_city:
+        name: Casa
+        distance:
+          value: 6.6
+          units: km
     - region: AR
       exchange: '332229'
       name: Nimrod Dam
@@ -7930,6 +9230,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF MOUNTAIN HOME, INC. DBA CENTURYLINK
       lat: '36.20614'
       long: "-92.281671"
+      closest_city:
+        name: Norfork
+        distance:
+          value: 0.44
+          units: km
     - region: AR
       exchange: '011940'
       name: Norman
@@ -7938,6 +9243,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '34.459639'
       long: "-93.674536"
+      closest_city:
+        name: Norman
+        distance:
+          value: 0.44
+          units: km
     - region: AR
       exchange: '011950'
       name: Norphlet
@@ -7946,6 +9256,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '33.316901'
       long: "-92.668145"
+      closest_city:
+        name: Norphlet
+        distance:
+          value: 0.66
+          units: km
     - region: AR
       exchange: '332236'
       name: Norristown
@@ -7970,6 +9285,11 @@ rate_centers:
       ilec_name: CENTURYTEL NORTHWEST LOUISIANA INC DBA CENTURYLINK
       lat: '32.997778'
       long: "-93.467215"
+      closest_city:
+        name: Taylor
+        distance:
+          value: 11.36
+          units: km
     - region: AR
       exchange: '332237'
       name: Norvell
@@ -8034,6 +9354,11 @@ rate_centers:
       ilec_name: E. RITTER TEL. CO.
       lat: '35.450799'
       long: "-90.407346"
+      closest_city:
+        name: Tyronza
+        distance:
+          value: 6.14
+          units: km
     - region: AR
       exchange: '332243'
       name: Oak Forest
@@ -8050,6 +9375,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '36.457532'
       long: "-93.439638"
+      closest_city:
+        name: Oak Grove
+        distance:
+          value: 1.12
+          units: km
     - region: AR
       exchange: '332245'
       name: Oakhaven
@@ -8082,6 +9412,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '34.623636'
       long: "-93.775483"
+      closest_city:
+        name: Oden
+        distance:
+          value: 1.01
+          units: km
     - region: AR
       exchange: '332249'
       name: Ogden
@@ -8106,6 +9441,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '35.635705'
       long: "-91.460042"
+      closest_city:
+        name: Oil Trough
+        distance:
+          value: 0.73
+          units: km
     - region: AR
       exchange: '332251'
       name: Okay
@@ -8122,6 +9462,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '33.991461'
       long: "-93.330826"
+      closest_city:
+        name: Okolona
+        distance:
+          value: 1.19
+          units: km
     - region: AR
       exchange: '012020'
       name: Ola
@@ -8130,6 +9475,11 @@ rate_centers:
       ilec_name: ARKWEST COMMUNICATIONS, INC.
       lat: '35.033291'
       long: "-93.225207"
+      closest_city:
+        name: Ola
+        distance:
+          value: 0.27
+          units: km
     - region: AR
       exchange: '331447'
       name: Old Alabam
@@ -8202,6 +9552,11 @@ rate_centers:
       ilec_name: NORTHERN ARKANSAS TEL. CO.
       lat: '36.449211'
       long: "-93.194624"
+      closest_city:
+        name: Omaha
+        distance:
+          value: 1.06
+          units: km
     - region: AR
       exchange: '332261'
       name: Oneida
@@ -8250,6 +9605,11 @@ rate_centers:
       ilec_name: TRI-COUNTY TEL. CO., INC.
       lat: '36.190006'
       long: "-93.387958"
+      closest_city:
+        name: Alpena
+        distance:
+          value: 13.42
+          units: km
     - region: AR
       exchange: '012050'
       name: Osceola
@@ -8258,6 +9618,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '35.699686'
       long: "-89.96409"
+      closest_city:
+        name: Osceola
+        distance:
+          value: 2.72
+          units: km
     - region: AR
       exchange: '332268'
       name: Ott
@@ -8306,6 +9671,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF ARKANSAS, INC. DBA CENTURYLINK
       lat: '36.216287'
       long: "-91.931664"
+      closest_city:
+        name: Oxford
+        distance:
+          value: 1.45
+          units: km
     - region: AR
       exchange: '332273'
       name: Ozan
@@ -8322,6 +9692,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW AR-RUSSELVL DBA CENTURYLINK-RUSSELLV
       lat: '35.493683'
       long: "-93.841378"
+      closest_city:
+        name: Ozark
+        distance:
+          value: 0.64
+          units: km
     - region: AR
       exchange: '012080'
       name: Ozark Acres
@@ -8330,6 +9705,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF ARKANSAS, INC. DBA CENTURYLINK
       lat: '36.251979'
       long: "-91.358784"
+      closest_city:
+        name: Williford
+        distance:
+          value: 0.16
+          units: km
     - region: AR
       exchange: '332276'
       name: Ozone
@@ -8346,6 +9726,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '34.884218'
       long: "-92.399199"
+      closest_city:
+        name: Maumelle
+        distance:
+          value: 3.56
+          units: km
     - region: AR
       exchange: '332278'
       name: Palatka
@@ -8386,6 +9771,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '35.427694'
       long: "-91.834186"
+      closest_city:
+        name: Pangburn
+        distance:
+          value: 0.5
+          units: km
     - region: AR
       exchange: '332282'
       name: Panther Bay
@@ -8402,6 +9792,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '36.049856'
       long: "-90.490348"
+      closest_city:
+        name: Paragould
+        distance:
+          value: 2.29
+          units: km
     - region: AR
       exchange: '332284'
       name: Paraloma
@@ -8418,6 +9813,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW AR-RUSSELVL DBA CENTURYLINK-RUSSELLV
       lat: '35.292617'
       long: "-93.734724"
+      closest_city:
+        name: Paris
+        distance:
+          value: 0.94
+          units: km
     - region: AR
       exchange: '332795'
       name: Parkdale
@@ -8450,6 +9850,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '35.265322'
       long: "-90.560539"
+      closest_city:
+        name: Parkin
+        distance:
+          value: 0.74
+          units: km
     - region: AR
       exchange: '331449'
       name: Parks
@@ -8474,6 +9879,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '34.776738'
       long: "-92.759092"
+      closest_city:
+        name: Avilla
+        distance:
+          value: 18.49
+          units: km
     - region: AR
       exchange: '332290'
       name: Parthenon
@@ -8522,6 +9932,11 @@ rate_centers:
       ilec_name: E. RITTER TEL. CO.
       lat: '35.549273'
       long: "-90.499107"
+      closest_city:
+        name: Payneway
+        distance:
+          value: 1.26
+          units: km
     - region: AR
       exchange: '012160'
       name: Pea Ridge
@@ -8530,6 +9945,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW AR-RUSSELVL DBA CENTURYLINK-RUSSELLV
       lat: '36.448521'
       long: "-94.11704"
+      closest_city:
+        name: Pea Ridge
+        distance:
+          value: 0.44
+          units: km
     - region: AR
       exchange: '332294'
       name: Peach Orchard
@@ -8618,6 +10038,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '35.051057'
       long: "-92.798239"
+      closest_city:
+        name: Perry
+        distance:
+          value: 0.65
+          units: km
     - region: AR
       exchange: '332305'
       name: Perrytown
@@ -8634,6 +10059,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '35.001259'
       long: "-92.80111"
+      closest_city:
+        name: Perryville
+        distance:
+          value: 1.21
+          units: km
     - region: AR
       exchange: '331452'
       name: Peter Pender
@@ -8714,6 +10144,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL ARKANSAS, LLC DBA CENTURYLINK
       lat: '36.382932'
       long: "-90.189205"
+      closest_city:
+        name: Piggott
+        distance:
+          value: 1.15
+          units: km
     - region: AR
       exchange: '332314'
       name: Pike
@@ -8754,6 +10189,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '34.223073'
       long: "-92.007885"
+      closest_city:
+        name: Pine Bluff
+        distance:
+          value: 1.54
+          units: km
     - region: AR
       exchange: '332318'
       name: Pine City
@@ -8818,6 +10258,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '34.817533'
       long: "-92.491451"
+      closest_city:
+        name: Natural Steps
+        distance:
+          value: 5.49
+          units: km
     - region: AR
       exchange: '332324'
       name: Pisgah
@@ -8842,6 +10287,11 @@ rate_centers:
       ilec_name: ARKWEST COMMUNICATIONS, INC.
       lat: '34.991257'
       long: "-93.30319"
+      closest_city:
+        name: Plainview
+        distance:
+          value: 0.5
+          units: km
     - region: AR
       exchange: '332327'
       name: Plant
@@ -8858,6 +10308,11 @@ rate_centers:
       ilec_name: MOUNTAIN VIEW TELEPHONE COMPANY
       lat: '35.819371'
       long: "-91.909191"
+      closest_city:
+        name: Pleasant Grove
+        distance:
+          value: 0.23
+          units: km
     - region: AR
       exchange: '332328'
       name: Pleasant Hill
@@ -8874,6 +10329,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW AR-RUSSELVL DBA CENTURYLINK-RUSSELLV
       lat: '35.551927'
       long: "-91.626536"
+      closest_city:
+        name: Pleasant Plains
+        distance:
+          value: 0.29
+          units: km
     - region: AR
       exchange: '332331'
       name: Pleasant Ridge
@@ -8906,6 +10366,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL ARKANSAS, LLC DBA CENTURYLINK
       lat: '36.257744'
       long: "-90.965265"
+      closest_city:
+        name: Pocahontas
+        distance:
+          value: 0.8
+          units: km
     - region: AR
       exchange: '332335'
       name: Point Cedar
@@ -8922,6 +10387,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL ARKANSAS, LLC DBA CENTURYLINK
       lat: '36.434143'
       long: "-90.265977"
+      closest_city:
+        name: Pollard
+        distance:
+          value: 0.51
+          units: km
     - region: AR
       exchange: '012270'
       name: Ponca
@@ -8930,6 +10400,11 @@ rate_centers:
       ilec_name: TRI-COUNTY TEL. CO., INC.
       lat: '36.023099'
       long: "-93.361849"
+      closest_city:
+        name: Ponca
+        distance:
+          value: 0.65
+          units: km
     - region: AR
       exchange: '332338'
       name: Pontoon
@@ -8970,6 +10445,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '33.244107'
       long: "-91.508228"
+      closest_city:
+        name: Portland
+        distance:
+          value: 0.73
+          units: km
     - region: AR
       exchange: '332344'
       name: Possum Grape
@@ -9058,6 +10538,11 @@ rate_centers:
       ilec_name: PRAIRIE GROVE TELEPHONE COMPANY
       lat: '35.967674'
       long: "-94.313817"
+      closest_city:
+        name: Prairie Grove
+        distance:
+          value: 2.17
+          units: km
     - region: AR
       exchange: '332350'
       name: Prairie View
@@ -9074,6 +10559,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '34.310516'
       long: "-92.551014"
+      closest_city:
+        name: Prattsville
+        distance:
+          value: 1.05
+          units: km
     - region: AR
       exchange: '012310'
       name: Prescott
@@ -9082,6 +10572,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL ARKANSAS, LLC DBA CENTURYLINK
       lat: '33.798835'
       long: "-93.385332"
+      closest_city:
+        name: Prescott
+        distance:
+          value: 0.91
+          units: km
     - region: AR
       exchange: '332352'
       name: Preston Ferry
@@ -9098,6 +10593,11 @@ rate_centers:
       ilec_name: MOUNTAIN VIEW TELEPHONE COMPANY
       lat: '35.701069'
       long: "-92.107265"
+      closest_city:
+        name: Edgemont
+        distance:
+          value: 13.67
+          units: km
     - region: AR
       exchange: '332805'
       name: Princeton
@@ -9170,6 +10670,11 @@ rate_centers:
       ilec_name: NORTHERN ARKANSAS TEL. CO.
       lat: '36.248846'
       long: "-92.844618"
+      closest_city:
+        name: Pyatt
+        distance:
+          value: 0.23
+          units: km
     - region: AR
       exchange: '332807'
       name: Quinn
@@ -9186,6 +10691,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '35.38582'
       long: "-92.217207"
+      closest_city:
+        name: Quitman
+        distance:
+          value: 0.51
+          units: km
     - region: AR
       exchange: '332362'
       name: Rag Town
@@ -9234,6 +10744,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW AR-RUSSELVL DBA CENTURYLINK-RUSSELLV
       lat: '35.307455'
       long: "-93.886193"
+      closest_city:
+        name: Ratcliff
+        distance:
+          value: 0.25
+          units: km
     - region: AR
       exchange: '332366'
       name: Ratio
@@ -9298,6 +10813,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL ARKANSAS, LLC DBA CENTURYLINK
       lat: '36.258223'
       long: "-90.289763"
+      closest_city:
+        name: Rector
+        distance:
+          value: 0.74
+          units: km
     - region: AR
       exchange: '332372'
       name: Red Oak
@@ -9322,6 +10842,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF REDFIELD, INC. DBA CENTURYLINK
       lat: '34.440325'
       long: "-92.186349"
+      closest_city:
+        name: Redfield
+        distance:
+          value: 0.34
+          units: km
     - region: AR
       exchange: '332811'
       name: Reed
@@ -9450,6 +10975,11 @@ rate_centers:
       ilec_name: CLEVELAND COUNTY TEL. CO., INC.
       lat: '33.959942'
       long: "-92.184191"
+      closest_city:
+        name: Rison
+        distance:
+          value: 0.87
+          units: km
     - region: AR
       exchange: '332382'
       name: Rivervale
@@ -9530,6 +11060,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL ARKANSAS, LLC DBA CENTURYLINK
       lat: '34.631113'
       long: "-91.392054"
+      closest_city:
+        name: Roe
+        distance:
+          value: 0.54
+          units: km
     - region: AR
       exchange: '012400'
       name: Rogers
@@ -9538,6 +11073,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '36.332424'
       long: "-94.117735"
+      closest_city:
+        name: Rogers
+        distance:
+          value: 3.6
+          units: km
     - region: AR
       exchange: '332819'
       name: Rohwer
@@ -9602,6 +11142,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '35.335166'
       long: "-92.084892"
+      closest_city:
+        name: Rose Bud
+        distance:
+          value: 1.19
+          units: km
     - region: AR
       exchange: '332395'
       name: Rose City
@@ -9650,6 +11195,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL ARKANSAS, LLC DBA CENTURYLINK
       lat: '33.540361'
       long: "-93.25202"
+      closest_city:
+        name: Willisville
+        distance:
+          value: 4.61
+          units: km
     - region: AR
       exchange: '332400'
       name: Rotan
@@ -9682,6 +11232,11 @@ rate_centers:
       ilec_name: CLEVELAND COUNTY TEL. CO., INC.
       lat: '33.88334'
       long: "-92.013857"
+      closest_city:
+        name: Woodlawn
+        distance:
+          value: 9.72
+          units: km
     - region: AR
       exchange: '332403'
       name: Royal
@@ -9698,6 +11253,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '36.215596'
       long: "-93.485769"
+      closest_city:
+        name: Green Forest
+        distance:
+          value: 14.12
+          units: km
     - region: AR
       exchange: '331462'
       name: Rudy
@@ -9754,6 +11314,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW AR-RUSSELVL DBA CENTURYLINK-RUSSELLV
       lat: '35.282945'
       long: "-93.131859"
+      closest_city:
+        name: Russellville
+        distance:
+          value: 0.95
+          units: km
     - region: AR
       exchange: '332822'
       name: Rye
@@ -9842,6 +11407,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF ARKANSAS, INC. DBA CENTURYLINK
       lat: '36.375772'
       long: "-91.827232"
+      closest_city:
+        name: Viola
+        distance:
+          value: 14.43
+          units: km
     - region: AR
       exchange: '332416'
       name: Salesville
@@ -9874,6 +11444,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW AR-RUSSELVL DBA CENTURYLINK-RUSSELLV
       lat: '35.718688'
       long: "-93.417357"
+      closest_city:
+        name: Ozone
+        distance:
+          value: 9.61
+          units: km
     - region: AR
       exchange: '332824'
       name: Samples
@@ -9898,6 +11473,11 @@ rate_centers:
       ilec_name: WALNUT HILL TEL. CO.
       lat: '33.747959'
       long: "-93.899869"
+      closest_city:
+        name: Saratoga
+        distance:
+          value: 0.55
+          units: km
     - region: AR
       exchange: '332421'
       name: Sardis
@@ -9930,6 +11510,11 @@ rate_centers:
       ilec_name: ARKANSAS TEL. CO., INC.
       lat: '35.528799'
       long: "-92.607292"
+      closest_city:
+        name: Clinton
+        distance:
+          value: 14.96
+          units: km
     - region: AR
       exchange: '012500'
       name: Scott
@@ -9938,6 +11523,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '34.699114'
       long: "-92.103352"
+      closest_city:
+        name: Scott
+        distance:
+          value: 0.92
+          units: km
     - region: AR
       exchange: '332425'
       name: Scottsville
@@ -9954,6 +11544,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW AR-RUSSELVL DBA CENTURYLINK-RUSSELLV
       lat: '35.360258'
       long: "-93.532404"
+      closest_city:
+        name: Scranton
+        distance:
+          value: 0.64
+          units: km
     - region: AR
       exchange: '012520'
       name: Searcy
@@ -9962,6 +11557,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '35.249752'
       long: "-91.731006"
+      closest_city:
+        name: Searcy
+        distance:
+          value: 0.96
+          units: km
     - region: AR
       exchange: '332428'
       name: Seaton Dump
@@ -10082,6 +11682,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '34.298128'
       long: "-92.399369"
+      closest_city:
+        name: Sheridan
+        distance:
+          value: 2.11
+          units: km
     - region: AR
       exchange: '332827'
       name: Sherrill
@@ -10114,6 +11719,11 @@ rate_centers:
       ilec_name: ARKANSAS TEL. CO., INC.
       lat: '35.64414'
       long: "-92.319564"
+      closest_city:
+        name: Shirley
+        distance:
+          value: 0.53
+          units: km
     - region: AR
       exchange: '332829'
       name: Shives
@@ -10170,6 +11780,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW AR DBA CENTURYLINK - SILOAM SPRINGS
       lat: '36.18567'
       long: "-94.543359"
+      closest_city:
+        name: Siloam Springs
+        distance:
+          value: 1.07
+          units: km
     - region: AR
       exchange: '332446'
       name: Silver Hill
@@ -10234,6 +11849,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '33.366784'
       long: "-92.731473"
+      closest_city:
+        name: Smackover
+        distance:
+          value: 0.35
+          units: km
     - region: AR
       exchange: '332452'
       name: Smale
@@ -10370,6 +11990,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '34.875591'
       long: "-93.292511"
+      closest_city:
+        name: Plainview
+        distance:
+          value: 12.72
+          units: km
     - region: AR
       exchange: '332460'
       name: South Lead Hill
@@ -10386,6 +12011,11 @@ rate_centers:
       ilec_name: WINDSTREAM MISSOURI, INC.
       lat: '36.49163'
       long: "-91.249784"
+      closest_city:
+        name: Warm Springs
+        distance:
+          value: 17.98
+          units: km
     - region: AR
       exchange: '012590'
       name: South West City
@@ -10394,6 +12024,11 @@ rate_centers:
       ilec_name: OZARK TELEPHONE COMPANY
       lat: '36.501972'
       long: "-94.610017"
+      closest_city:
+        name: Maysville
+        distance:
+          value: 11.28
+          units: km
     - region: AR
       exchange: '332464'
       name: Spadra
@@ -10410,6 +12045,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '33.916287'
       long: "-92.851002"
+      closest_city:
+        name: Sparkman
+        distance:
+          value: 0.13
+          units: km
     - region: AR
       exchange: '332465'
       name: Spear Lake
@@ -10426,6 +12066,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '34.596217'
       long: "-92.326146"
+      closest_city:
+        name: Landmark
+        distance:
+          value: 1.44
+          units: km
     - region: AR
       exchange: '331469'
       name: Spring Valley
@@ -10442,6 +12087,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '36.18241'
       long: "-94.136713"
+      closest_city:
+        name: Springdale
+        distance:
+          value: 2.04
+          units: km
     - region: AR
       exchange: '332466'
       name: Springfield
@@ -10466,6 +12116,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL ARKANSAS, LLC DBA CENTURYLINK
       lat: '34.384984'
       long: "-91.132895"
+      closest_city:
+        name: St. Charles
+        distance:
+          value: 1.4
+          units: km
     - region: AR
       exchange: '012640'
       name: St Joe
@@ -10474,6 +12129,11 @@ rate_centers:
       ilec_name: TRI-COUNTY TEL. CO., INC.
       lat: '36.032423'
       long: "-92.809966"
+      closest_city:
+        name: St. Joe
+        distance:
+          value: 0.43
+          units: km
     - region: AR
       exchange: '012650'
       name: St Paul
@@ -10482,6 +12142,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '35.824218'
       long: "-93.761377"
+      closest_city:
+        name: St. Paul
+        distance:
+          value: 0.25
+          units: km
     - region: AR
       exchange: '012660'
       name: Stamps
@@ -10490,6 +12155,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '33.357516'
       long: "-93.493066"
+      closest_city:
+        name: Stamps
+        distance:
+          value: 0.24
+          units: km
     - region: AR
       exchange: '332841'
       name: Standard-Umpstead
@@ -10514,6 +12184,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW AR-RUSSELVL DBA CENTURYLINK-RUSSELLV
       lat: '33.940977'
       long: "-91.848059"
+      closest_city:
+        name: Star City
+        distance:
+          value: 0.75
+          units: km
     - region: AR
       exchange: '332473'
       name: State University
@@ -10546,6 +12221,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '33.418292'
       long: "-93.064636"
+      closest_city:
+        name: Stephens
+        distance:
+          value: 0.48
+          units: km
     - region: AR
       exchange: '332477'
       name: Steprock
@@ -10626,6 +12306,11 @@ rate_centers:
       ilec_name: PRAIRIE GROVE TELEPHONE COMPANY
       lat: '35.833279'
       long: "-94.305456"
+      closest_city:
+        name: Morrow
+        distance:
+          value: 11.96
+          units: km
     - region: AR
       exchange: '012700'
       name: Strong
@@ -10634,6 +12319,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '33.110292'
       long: "-92.359149"
+      closest_city:
+        name: Strong
+        distance:
+          value: 0.42
+          units: km
     - region: AR
       exchange: '332486'
       name: Stuart
@@ -10658,6 +12348,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL ARKANSAS, LLC DBA CENTURYLINK
       lat: '34.49983'
       long: "-91.552638"
+      closest_city:
+        name: Stuttgart
+        distance:
+          value: 0.63
+          units: km
     - region: AR
       exchange: '012720'
       name: Subiaco
@@ -10666,6 +12361,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW AR-RUSSELVL DBA CENTURYLINK-RUSSELLV
       lat: '35.29029'
       long: "-93.631676"
+      closest_city:
+        name: Subiaco
+        distance:
+          value: 1.08
+          units: km
     - region: AR
       exchange: '012730'
       name: Success
@@ -10674,6 +12374,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL ARKANSAS, LLC DBA CENTURYLINK
       lat: '36.450871'
       long: "-90.724394"
+      closest_city:
+        name: Success
+        distance:
+          value: 0.43
+          units: km
     - region: AR
       exchange: '332492'
       name: Sugar Grove
@@ -10714,6 +12419,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW AR-RUSSELVL DBA CENTURYLINK-RUSSELLV
       lat: '36.465565'
       long: "-94.449506"
+      closest_city:
+        name: Gravette
+        distance:
+          value: 8.09
+          units: km
     - region: AR
       exchange: '331476'
       name: Summers
@@ -10754,6 +12464,11 @@ rate_centers:
       ilec_name: MOUNTAIN VIEW TELEPHONE COMPANY
       lat: '35.806289'
       long: "-92.209302"
+      closest_city:
+        name: Fox
+        distance:
+          value: 8.5
+          units: km
     - region: AR
       exchange: '332497'
       name: Sunset
@@ -10810,6 +12525,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '35.823167'
       long: "-91.126385"
+      closest_city:
+        name: Swifton
+        distance:
+          value: 0.31
+          units: km
     - region: AR
       exchange: '332502'
       name: Sylamore
@@ -10826,6 +12546,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '34.843135'
       long: "-92.225513"
+      closest_city:
+        name: Sherwood
+        distance:
+          value: 2.23
+          units: km
     - region: AR
       exchange: '332847'
       name: Tamo
@@ -10850,6 +12575,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL ARKANSAS, LLC DBA CENTURYLINK
       lat: '33.101687'
       long: "-93.460336"
+      closest_city:
+        name: Taylor
+        distance:
+          value: 0.25
+          units: km
     - region: AR
       exchange: '332504'
       name: Teal Point
@@ -10882,6 +12612,11 @@ rate_centers:
       ilec_name: 'VALOR TELECOMM TX, LP-TX #1 DBA WINDSTREAM COMM SW'
       lat: '33.423081'
       long: "-94.033614"
+      closest_city:
+        name: Texarkana
+        distance:
+          value: 3.78
+          units: km
     - region: AR
       exchange: '332851'
       name: Thebes
@@ -10986,6 +12721,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW AR-RUSSELVL DBA CENTURYLINK-RUSSELLV
       lat: '33.717236'
       long: "-91.449957"
+      closest_city:
+        name: Tillar
+        distance:
+          value: 0.72
+          units: km
     - region: AR
       exchange: '332513'
       name: Tilly
@@ -11010,6 +12750,11 @@ rate_centers:
       ilec_name: MOUNTAIN VIEW TELEPHONE COMPANY
       lat: '35.867793'
       long: "-92.317609"
+      closest_city:
+        name: Fox
+        distance:
+          value: 9.41
+          units: km
     - region: AR
       exchange: '332857'
       name: Tinsman
@@ -11090,6 +12835,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF MOUNTAIN HOME, INC. DBA CENTURYLINK
       lat: '36.317955'
       long: "-92.280581"
+      closest_city:
+        name: Briarcliff
+        distance:
+          value: 5.11
+          units: km
     - region: AR
       exchange: '332524'
       name: Traskwood
@@ -11122,6 +12872,11 @@ rate_centers:
       ilec_name: SOUTHWEST ARKANSAS TEL. COOP., INC.
       lat: '33.477662'
       long: "-93.86742"
+      closest_city:
+        name: Genoa
+        distance:
+          value: 11.23
+          units: km
     - region: AR
       exchange: '332526'
       name: Trinity
@@ -11138,6 +12893,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW AR DBA CENTURYLINK - SILOAM SPRINGS
       lat: '35.675377'
       long: "-90.505791"
+      closest_city:
+        name: Trumann
+        distance:
+          value: 1.83
+          units: km
     - region: AR
       exchange: '332528'
       name: Tucker
@@ -11162,6 +12922,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '35.733138'
       long: "-91.19765"
+      closest_city:
+        name: Tuckerman
+        distance:
+          value: 0.88
+          units: km
     - region: AR
       exchange: '332858'
       name: Tulip
@@ -11202,6 +12967,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '35.393258'
       long: "-91.232863"
+      closest_city:
+        name: Tupelo
+        distance:
+          value: 0.42
+          units: km
     - region: AR
       exchange: '332535'
       name: Turkey Scratch
@@ -11226,6 +12996,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '35.375427'
       long: "-90.258317"
+      closest_city:
+        name: Turrell
+        distance:
+          value: 1.1
+          units: km
     - region: AR
       exchange: '332538'
       name: Turtle Creek
@@ -11266,6 +13041,11 @@ rate_centers:
       ilec_name: E. RITTER TEL. CO.
       lat: '35.492568'
       long: "-90.357561"
+      closest_city:
+        name: Tyronza
+        distance:
+          value: 0.66
+          units: km
     - region: AR
       exchange: '332543'
       name: Ulm
@@ -11282,6 +13062,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '34.284915'
       long: "-94.051851"
+      closest_city:
+        name: Newhope
+        distance:
+          value: 17.43
+          units: km
     - region: AR
       exchange: '332545'
       name: Union
@@ -11322,6 +13107,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '33.15773'
       long: "-92.441588"
+      closest_city:
+        name: Urbana
+        distance:
+          value: 0.36
+          units: km
     - region: AR
       exchange: '332547'
       name: Urbanette
@@ -11386,6 +13176,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '35.435303'
       long: "-94.351256"
+      closest_city:
+        name: Van Buren
+        distance:
+          value: 1.45
+          units: km
     - region: AR
       exchange: '332552'
       name: Vandervoort
@@ -11466,6 +13261,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '33.259295'
       long: "-93.047471"
+      closest_city:
+        name: Mount Holly
+        distance:
+          value: 9.96
+          units: km
     - region: AR
       exchange: '012920'
       name: Vilonia
@@ -11474,6 +13274,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '35.083916'
       long: "-92.201558"
+      closest_city:
+        name: Vilonia
+        distance:
+          value: 0.75
+          units: km
     - region: AR
       exchange: '332558'
       name: Vimy Ridge
@@ -11514,6 +13319,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF ARKANSAS, INC. DBA CENTURYLINK
       lat: '36.384841'
       long: "-91.985253"
+      closest_city:
+        name: Viola
+        distance:
+          value: 1.33
+          units: km
     - region: AR
       exchange: '332562'
       name: Violet Hill
@@ -11554,6 +13364,11 @@ rate_centers:
       ilec_name: RICE BELT TEL. CO.
       lat: '35.567237'
       long: "-90.93224"
+      closest_city:
+        name: Waldenburg
+        distance:
+          value: 0.31
+          units: km
     - region: AR
       exchange: '012950'
       name: Waldo
@@ -11562,6 +13377,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL ARKANSAS, LLC DBA CENTURYLINK
       lat: '33.352418'
       long: "-93.291881"
+      closest_city:
+        name: Waldo
+        distance:
+          value: 0.35
+          units: km
     - region: AR
       exchange: '012960'
       name: Waldron
@@ -11570,6 +13390,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW AR-RUSSELVL DBA CENTURYLINK-RUSSELLV
       lat: '34.890802'
       long: "-94.08999"
+      closest_city:
+        name: Waldron
+        distance:
+          value: 1.36
+          units: km
     - region: AR
       exchange: '332567'
       name: Walker
@@ -11634,6 +13459,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '36.065444'
       long: "-90.959174"
+      closest_city:
+        name: Walnut Ridge
+        distance:
+          value: 2.43
+          units: km
     - region: AR
       exchange: '332572'
       name: Walnut Springs
@@ -11698,6 +13528,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '33.617072'
       long: "-92.063913"
+      closest_city:
+        name: Warren
+        distance:
+          value: 0.74
+          units: km
     - region: AR
       exchange: '331489'
       name: Washburn
@@ -11714,6 +13549,11 @@ rate_centers:
       ilec_name: SOUTHWEST ARKANSAS TEL. COOP., INC.
       lat: '33.773211'
       long: "-93.682065"
+      closest_city:
+        name: Washington
+        distance:
+          value: 0.12
+          units: km
     - region: AR
       exchange: '332579'
       name: Washita
@@ -11746,6 +13586,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '33.892632'
       long: "-91.247587"
+      closest_city:
+        name: Watson
+        distance:
+          value: 0.85
+          units: km
     - region: AR
       exchange: '332871'
       name: Watson Chapel
@@ -11802,6 +13647,11 @@ rate_centers:
       ilec_name: RICE BELT TEL. CO.
       lat: '35.615259'
       long: "-90.897875"
+      closest_city:
+        name: Weiner
+        distance:
+          value: 0.84
+          units: km
     - region: AR
       exchange: '332872'
       name: Welcome
@@ -11850,6 +13700,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '35.923185'
       long: "-94.189534"
+      closest_city:
+        name: West Fork
+        distance:
+          value: 1.62
+          units: km
     - region: AR
       exchange: '331486'
       name: West Hartford
@@ -11874,6 +13729,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '35.148542'
       long: "-90.168365"
+      closest_city:
+        name: West Memphis
+        distance:
+          value: 2.88
+          units: km
     - region: AR
       exchange: '332589'
       name: West Point
@@ -11898,6 +13758,11 @@ rate_centers:
       ilec_name: TRI-COUNTY TEL. CO., INC.
       lat: '36.098327'
       long: "-92.95985"
+      closest_city:
+        name: Western Grove
+        distance:
+          value: 0.56
+          units: km
     - region: AR
       exchange: '332593'
       name: Westover
@@ -11914,6 +13779,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL ARKANSAS, LLC DBA CENTURYLINK
       lat: '34.917048'
       long: "-91.117176"
+      closest_city:
+        name: Wheatley
+        distance:
+          value: 1.09
+          units: km
     - region: AR
       exchange: '331493'
       name: Wheeler
@@ -11986,6 +13856,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF MOUNTAIN HOME, INC. DBA CENTURYLINK
       lat: '36.315051'
       long: "-92.476243"
+      closest_city:
+        name: Gassville
+        distance:
+          value: 3.49
+          units: km
     - region: AR
       exchange: '332601'
       name: Whitmore
@@ -12010,6 +13885,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '34.301845'
       long: "-94.333071"
+      closest_city:
+        name: Wickes
+        distance:
+          value: 0.34
+          units: km
     - region: AR
       exchange: '332604'
       name: Wideman
@@ -12090,6 +13970,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '33.634812'
       long: "-91.926906"
+      closest_city:
+        name: Wilmar
+        distance:
+          value: 0.96
+          units: km
     - region: AR
       exchange: '013090'
       name: Wilmot
@@ -12098,6 +13983,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '33.048286'
       long: "-91.568674"
+      closest_city:
+        name: Wilmot
+        distance:
+          value: 1.31
+          units: km
     - region: AR
       exchange: '013100'
       name: Wilson
@@ -12106,6 +13996,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '35.566979'
       long: "-90.043815"
+      closest_city:
+        name: Wilson
+        distance:
+          value: 0.12
+          units: km
     - region: AR
       exchange: '332613'
       name: Wilton
@@ -12146,6 +14041,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW AR-RUSSELVL DBA CENTURYLINK-RUSSELLV
       lat: '35.80122'
       long: "-94.131597"
+      closest_city:
+        name: Winslow
+        distance:
+          value: 0.12
+          units: km
     - region: AR
       exchange: '013120'
       name: Winthrop
@@ -12154,6 +14054,11 @@ rate_centers:
       ilec_name: WALNUT HILL TEL. CO.
       lat: '33.832455'
       long: "-94.348445"
+      closest_city:
+        name: Winthrop
+        distance:
+          value: 0.56
+          units: km
     - region: AR
       exchange: '332617'
       name: Wirth
@@ -12194,6 +14099,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '35.767784'
       long: "-92.864324"
+      closest_city:
+        name: Witts Springs
+        distance:
+          value: 1.15
+          units: km
     - region: AR
       exchange: '332620'
       name: Wiville
@@ -12282,6 +14192,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '34.617194'
       long: "-92.234881"
+      closest_city:
+        name: Wrightsville
+        distance:
+          value: 2.07
+          units: km
     - region: AR
       exchange: '013150'
       name: Wye
@@ -12290,6 +14205,11 @@ rate_centers:
       ilec_name: WINDSTREAM ARKANSAS, INC.
       lat: '34.933254'
       long: "-92.648325"
+      closest_city:
+        name: Fourche
+        distance:
+          value: 7.2
+          units: km
     - region: AR
       exchange: '332630'
       name: Wye Mountain
@@ -12306,6 +14226,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '35.225676'
       long: "-90.782996"
+      closest_city:
+        name: Wynne
+        distance:
+          value: 0.95
+          units: km
     - region: AR
       exchange: '331499'
       name: Y City
@@ -12346,6 +14271,11 @@ rate_centers:
       ilec_name: YELCOT TEL. CO.
       lat: '36.22451'
       long: "-92.683566"
+      closest_city:
+        name: Yellville
+        distance:
+          value: 0.53
+          units: km
     - region: AR
       exchange: '332635'
       name: Yocana

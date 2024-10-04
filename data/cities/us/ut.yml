@@ -1,1328 +1,5979 @@
 ---
 cities:
-  us:
+  US:
     UT:
     - name: Alpine
       region: UT
       lat: '40.4629'
       long: "-111.7724"
+      closest_rate_centers:
+      - name: American Fork
+        distance:
+          value: 9.8
+          units: km
+      - name: Cedar Valley
+        distance:
+          value: 10.72
+          units: km
+      - name: Lehi
+        distance:
+          value: 10.72
+          units: km
+      - name: Eagle Mountain
+        distance:
+          value: 10.72
+          units: km
+      - name: Pleasant Grove
+        distance:
+          value: 10.92
+          units: km
     - name: Alta
       region: UT
       lat: '40.5818'
       long: "-111.6229"
+      closest_rate_centers:
+      - name: Alta
+        distance:
+          value: 1.76
+          units: km
+      - name: Park City
+        distance:
+          value: 13.03
+          units: km
+      - name: Holladay
+        distance:
+          value: 17.44
+          units: km
     - name: Altamont
       region: UT
       lat: '40.3589'
       long: "-110.2881"
+      closest_rate_centers:
+      - name: Altamont
+        distance:
+          value: 1.04
+          units: km
+      - name: Flattop
+        distance:
+          value: 21.88
+          units: km
+      - name: Duchesne
+        distance:
+          value: 23.42
+          units: km
     - name: Alton
       region: UT
       lat: '37.4303'
       long: "-112.5061"
+      closest_rate_centers:
+      - name: Duck Creek
+        distance:
+          value: 16.55
+          units: km
+      - name: Orderville
+        distance:
+          value: 20.87
+          units: km
+      - name: Bryce Canyon
+        distance:
+          value: 36.65
+          units: km
     - name: Amalga
       region: UT
       lat: '41.8564'
       long: "-111.8974"
+      closest_rate_centers:
+      - name: Smithfield
+        distance:
+          value: 5.78
+          units: km
+      - name: Richmond
+        distance:
+          value: 10.75
+          units: km
+      - name: Logan
+        distance:
+          value: 14.72
+          units: km
     - name: American Fork
       region: UT
       lat: '40.3783'
       long: "-111.7953"
+      closest_rate_centers:
+      - name: American Fork
+        distance:
+          value: 0.44
+          units: km
+      - name: Cedar Valley
+        distance:
+          value: 4.47
+          units: km
+      - name: Lehi
+        distance:
+          value: 4.47
+          units: km
+      - name: Eagle Mountain
+        distance:
+          value: 4.47
+          units: km
+      - name: Pleasant Grove
+        distance:
+          value: 4.7
+          units: km
     - name: Aneth
       region: UT
       lat: '37.2050'
       long: "-109.1623"
+      closest_rate_centers:
+      - name: Montezuma Creek-Aneth
+        distance:
+          value: 14.07
+          units: km
+      - name: Bluff
+        distance:
+          value: 35.63
+          units: km
+      - name: Blanding
+        distance:
+          value: 54.82
+          units: km
     - name: Annabella
       region: UT
       lat: '38.7059'
       long: "-112.0587"
+      closest_rate_centers:
+      - name: Richfield
+        distance:
+          value: 7.14
+          units: km
+      - name: Monroe
+        distance:
+          value: 9.69
+          units: km
+      - name: Koosharem
+        distance:
+          value: 26.71
+          units: km
     - name: Antimony
       region: UT
       lat: '38.1030'
       long: "-111.9823"
+      closest_rate_centers:
+      - name: Antimony
+        distance:
+          value: 2.34
+          units: km
+      - name: Circleville
+        distance:
+          value: 25.37
+          units: km
+      - name: Marysvale
+        distance:
+          value: 43.86
+          units: km
     - name: Apple Valley
       region: UT
       lat: '37.0810'
       long: "-113.1034"
+      closest_rate_centers:
+      - name: Apple Valley
+        distance:
+          value: 4.61
+          units: km
+      - name: Springdale
+        distance:
+          value: 15.33
+          units: km
+      - name: Hurricane
+        distance:
+          value: 18.76
+          units: km
     - name: Aurora
       region: UT
       lat: '38.9202'
       long: "-111.9335"
+      closest_rate_centers:
+      - name: Salina
+        distance:
+          value: 7.54
+          units: km
+      - name: Richfield
+        distance:
+          value: 21.27
+          units: km
+      - name: Gunnison
+        distance:
+          value: 27.57
+          units: km
     - name: Avon
       region: UT
       lat: '41.5354'
       long: "-111.8125"
+      closest_rate_centers:
+      - name: Hyrum
+        distance:
+          value: 12.35
+          units: km
+      - name: Brigham City
+        distance:
+          value: 17.68
+          units: km
+      - name: Logan
+        distance:
+          value: 22.05
+          units: km
     - name: Ballard
       region: UT
       lat: '40.2949'
       long: "-109.9493"
+      closest_rate_centers:
+      - name: Roosevelt
+        distance:
+          value: 3.74
+          units: km
+      - name: Flattop
+        distance:
+          value: 15.49
+          units: km
+      - name: Neola
+        distance:
+          value: 16.14
+          units: km
     - name: Bear River City
       region: UT
       lat: '41.6124'
       long: "-112.1250"
+      closest_rate_centers:
+      - name: Bear River City
+        distance:
+          value: 1.03
+          units: km
+      - name: Tremonton
+        distance:
+          value: 12.47
+          units: km
+      - name: Brigham City
+        distance:
+          value: 14.26
+          units: km
     - name: Beaver
       region: UT
       lat: '38.2759'
       long: "-112.6383"
+      closest_rate_centers:
+      - name: Beaver
+        distance:
+          value: 0.46
+          units: km
+      - name: Minersville
+        distance:
+          value: 25.98
+          units: km
+      - name: Milford
+        distance:
+          value: 34.95
+          units: km
     - name: Benjamin
       region: UT
       lat: '40.0968'
       long: "-111.7290"
+      closest_rate_centers:
+      - name: Payson
+        distance:
+          value: 6.12
+          units: km
+      - name: Spanish Fork
+        distance:
+          value: 6.27
+          units: km
+      - name: Springville
+        distance:
+          value: 12.44
+          units: km
     - name: Benson
       region: UT
       lat: '41.7492'
       long: "-111.9173"
+      closest_rate_centers:
+      - name: Logan
+        distance:
+          value: 7.24
+          units: km
+      - name: Smithfield
+        distance:
+          value: 11.46
+          units: km
+      - name: Hyrum
+        distance:
+          value: 13.04
+          units: km
     - name: Beryl Junction
       region: UT
       lat: '37.7010'
       long: "-113.6535"
+      closest_rate_centers:
+      - name: Beryl
+        distance:
+          value: 2.32
+          units: km
+      - name: Enterprise (Washington)
+        distance:
+          value: 15.97
+          units: km
+      - name: Cedar City
+        distance:
+          value: 51.41
+          units: km
     - name: Bicknell
       region: UT
       lat: '38.3406'
       long: "-111.5442"
+      closest_rate_centers:
+      - name: Bicknell
+        distance:
+          value: 0.48
+          units: km
+      - name: Loa
+        distance:
+          value: 10.62
+          units: km
+      - name: Koosharem
+        distance:
+          value: 35.02
+          units: km
     - name: Big Water
       region: UT
       lat: '37.0729'
       long: "-111.6608"
+      closest_rate_centers:
+      - name: Glen Canyon City
+        distance:
+          value: 2.12
+          units: km
+      - name: Dangling Rope
+        distance:
+          value: 52.38
+          units: km
+      - name: Cannonville
+        distance:
+          value: 71.53
+          units: km
     - name: Blanding
       region: UT
       lat: '37.6213'
       long: "-109.5073"
+      closest_rate_centers:
+      - name: Blanding
+        distance:
+          value: 1.95
+          units: km
+      - name: Monticello
+        distance:
+          value: 31.03
+          units: km
+      - name: Bluff
+        distance:
+          value: 37.88
+          units: km
     - name: Bluebell
       region: UT
       lat: '40.3576'
       long: "-110.2232"
+      closest_rate_centers:
+      - name: Altamont
+        distance:
+          value: 5.9
+          units: km
+      - name: Flattop
+        distance:
+          value: 18.24
+          units: km
+      - name: Neola
+        distance:
+          value: 19.59
+          units: km
     - name: Bluff
       region: UT
       lat: '37.2871'
       long: "-109.5730"
+      closest_rate_centers:
+      - name: Bluff
+        distance:
+          value: 1.85
+          units: km
+      - name: Montezuma Creek-Aneth
+        distance:
+          value: 23.92
+          units: km
+      - name: Mexican Hat
+        distance:
+          value: 30.15
+          units: km
     - name: Bluffdale
       region: UT
       lat: '40.4744'
       long: "-111.9381"
+      closest_rate_centers:
+      - name: Lehi
+        distance:
+          value: 12.54
+          units: km
+      - name: Eagle Mountain
+        distance:
+          value: 12.54
+          units: km
+      - name: Cedar Valley
+        distance:
+          value: 12.54
+          units: km
+      - name: American Fork
+        distance:
+          value: 15.88
+          units: km
+      - name: Midvale
+        distance:
+          value: 16.02
+          units: km
     - name: Bonanza
       region: UT
       lat: '40.0304'
       long: "-109.1884"
+      closest_rate_centers:
+      - name: Randlett
+        distance:
+          value: 54.54
+          units: km
+      - name: Vernal
+        distance:
+          value: 55.02
+          units: km
+      - name: Lapoint
+        distance:
+          value: 67.94
+          units: km
     - name: Boulder
       region: UT
       lat: '37.9228'
       long: "-111.4319"
+      closest_rate_centers:
+      - name: Boulder
+        distance:
+          value: 2.15
+          units: km
+      - name: Escalante
+        distance:
+          value: 22.17
+          units: km
+      - name: Bicknell
+        distance:
+          value: 47.58
+          units: km
     - name: Bountiful
       region: UT
       lat: '40.8721'
       long: "-111.8647"
+      closest_rate_centers:
+      - name: Bountiful
+        distance:
+          value: 2.44
+          units: km
+      - name: Farmington
+        distance:
+          value: 12.64
+          units: km
+      - name: Salt Lake City
+        distance:
+          value: 12.76
+          units: km
     - name: Brian Head
       region: UT
       lat: '37.6977'
       long: "-112.8416"
+      closest_rate_centers:
+      - name: Brian Head
+        distance:
+          value: 0.49
+          units: km
+      - name: Parowan
+        distance:
+          value: 15.89
+          units: km
+      - name: Cedar City
+        distance:
+          value: 20.14
+          units: km
     - name: Brigham City
       region: UT
       lat: '41.5035'
       long: "-112.0453"
+      closest_rate_centers:
+      - name: Brigham City
+        distance:
+          value: 2.06
+          units: km
+      - name: Bear River City
+        distance:
+          value: 14.72
+          units: km
+      - name: Hyrum
+        distance:
+          value: 22.25
+          units: km
     - name: Brighton
       region: UT
       lat: '40.6196'
       long: "-111.6005"
+      closest_rate_centers:
+      - name: Alta
+        distance:
+          value: 4.65
+          units: km
+      - name: Park City
+        distance:
+          value: 9.28
+          units: km
+      - name: Jordanelle
+        distance:
+          value: 16.47
+          units: km
     - name: Bryce Canyon City
       region: UT
       lat: '37.6814'
       long: "-112.1588"
+      closest_rate_centers:
+      - name: Bryce Canyon
+        distance:
+          value: 7.0
+          units: km
+      - name: Cannonville
+        distance:
+          value: 9.21
+          units: km
+      - name: Panguitch
+        distance:
+          value: 29.42
+          units: km
+      - name: Hatch
+        distance:
+          value: 29.42
+          units: km
     - name: Cache
       region: UT
       lat: '41.8309'
       long: "-112.0053"
+      closest_rate_centers:
+      - name: Fielding
+        distance:
+          value: 9.83
+          units: km
+      - name: Smithfield
+        distance:
+          value: 14.07
+          units: km
+      - name: Logan
+        distance:
+          value: 17.97
+          units: km
     - name: Cannonville
       region: UT
       lat: '37.5689'
       long: "-112.0531"
+      closest_rate_centers:
+      - name: Cannonville
+        distance:
+          value: 6.38
+          units: km
+      - name: Bryce Canyon
+        distance:
+          value: 11.3
+          units: km
+      - name: Panguitch
+        distance:
+          value: 44.39
+          units: km
+      - name: Hatch
+        distance:
+          value: 44.39
+          units: km
     - name: Carbonville
       region: UT
       lat: '39.6268'
       long: "-110.8332"
+      closest_rate_centers:
+      - name: Price
+        distance:
+          value: 3.46
+          units: km
+      - name: Helper
+        distance:
+          value: 6.64
+          units: km
+      - name: Scofield
+        distance:
+          value: 29.79
+          units: km
     - name: Castle Dale
       region: UT
       lat: '39.2218'
       long: "-111.0230"
+      closest_rate_centers:
+      - name: Castle Dale
+        distance:
+          value: 0.34
+          units: km
+      - name: Huntington
+        distance:
+          value: 12.23
+          units: km
+      - name: Ferron
+        distance:
+          value: 17.35
+          units: km
     - name: Castle Valley
       region: UT
       lat: '38.6326'
       long: "-109.3966"
+      closest_rate_centers:
+      - name: Moab
+        distance:
+          value: 14.44
+          units: km
+      - name: La Sal
+        distance:
+          value: 38.3
+          units: km
+      - name: Thompson
+        distance:
+          value: 46.0
+          units: km
     - name: Cedar City
       region: UT
       lat: '37.6834'
       long: "-113.0956"
+      closest_rate_centers:
+      - name: Cedar City
+        distance:
+          value: 2.28
+          units: km
+      - name: Brian Head
+        distance:
+          value: 21.92
+          units: km
+      - name: Parowan
+        distance:
+          value: 29.0
+          units: km
     - name: Cedar Fort
       region: UT
       lat: '40.3414'
       long: "-112.1086"
+      closest_rate_centers:
+      - name: Lehi
+        distance:
+          value: 22.67
+          units: km
+      - name: Eagle Mountain
+        distance:
+          value: 22.67
+          units: km
+      - name: Cedar Valley
+        distance:
+          value: 22.67
+          units: km
+      - name: American Fork
+        distance:
+          value: 26.42
+          units: km
+      - name: Tooele
+        distance:
+          value: 26.79
+          units: km
     - name: Cedar Highlands
       region: UT
       lat: '37.6295'
       long: "-113.0667"
+      closest_rate_centers:
+      - name: Cedar City
+        distance:
+          value: 5.89
+          units: km
+      - name: Brian Head
+        distance:
+          value: 20.74
+          units: km
+      - name: Parowan
+        distance:
+          value: 31.23
+          units: km
     - name: Cedar Hills
       region: UT
       lat: '40.4135'
       long: "-111.7531"
+      closest_rate_centers:
+      - name: Pleasant Grove
+        distance:
+          value: 5.2
+          units: km
+      - name: American Fork
+        distance:
+          value: 5.67
+          units: km
+      - name: Eagle Mountain
+        distance:
+          value: 8.58
+          units: km
+      - name: Cedar Valley
+        distance:
+          value: 8.58
+          units: km
+      - name: Lehi
+        distance:
+          value: 8.58
+          units: km
     - name: Centerfield
       region: UT
       lat: '39.1274'
       long: "-111.8184"
+      closest_rate_centers:
+      - name: Gunnison
+        distance:
+          value: 2.61
+          units: km
+      - name: Salina
+        distance:
+          value: 19.96
+          units: km
+      - name: Manti
+        distance:
+          value: 22.19
+          units: km
     - name: Centerville
       region: UT
       lat: '40.9284'
       long: "-111.8848"
+      closest_rate_centers:
+      - name: Bountiful
+        distance:
+          value: 4.3
+          units: km
+      - name: Farmington
+        distance:
+          value: 6.26
+          units: km
+      - name: Kaysville
+        distance:
+          value: 12.57
+          units: km
     - name: Central
       region: UT
       lat: '37.4150'
       long: "-113.6262"
+      closest_rate_centers:
+      - name: Enterprise (Washington)
+        distance:
+          value: 18.79
+          units: km
+      - name: Beryl
+        distance:
+          value: 33.75
+          units: km
+      - name: Veyo
+        distance:
+          value: 34.18
+          units: km
+      - name: Leeds
+        distance:
+          value: 34.18
+          units: km
+      - name: St George
+        distance:
+          value: 34.18
+          units: km
     - name: Central Valley
       region: UT
       lat: '38.6991'
       long: "-112.0967"
+      closest_rate_centers:
+      - name: Monroe
+        distance:
+          value: 7.63
+          units: km
+      - name: Richfield
+        distance:
+          value: 7.73
+          units: km
+      - name: Koosharem
+        distance:
+          value: 28.13
+          units: km
     - name: Charleston
       region: UT
       lat: '40.4661'
       long: "-111.4600"
+      closest_rate_centers:
+      - name: Heber City
+        distance:
+          value: 6.13
+          units: km
+      - name: Timber Lakes
+        distance:
+          value: 15.0
+          units: km
+      - name: Alta
+        distance:
+          value: 20.58
+          units: km
     - name: Circleville
       region: UT
       lat: '38.1684'
       long: "-112.2716"
+      closest_rate_centers:
+      - name: Circleville
+        distance:
+          value: 8.77
+          units: km
+      - name: Antimony
+        distance:
+          value: 24.3
+          units: km
+      - name: Marysvale
+        distance:
+          value: 31.39
+          units: km
     - name: Clarkston
       region: UT
       lat: '41.9205'
       long: "-112.0503"
+      closest_rate_centers:
+      - name: Fielding
+        distance:
+          value: 12.93
+          units: km
+      - name: Portage
+        distance:
+          value: 16.47
+          units: km
+      - name: Richmond
+        distance:
+          value: 20.04
+          units: km
     - name: Clawson
       region: UT
       lat: '39.1391'
       long: "-111.0934"
+      closest_rate_centers:
+      - name: Ferron
+        distance:
+          value: 6.34
+          units: km
+      - name: Castle Dale
+        distance:
+          value: 10.85
+          units: km
+      - name: Huntington
+        distance:
+          value: 23.16
+          units: km
     - name: Clear Creek
       region: UT
       lat: '39.6433'
       long: "-111.1548"
+      closest_rate_centers:
+      - name: Scofield
+        distance:
+          value: 9.07
+          units: km
+      - name: Fairview
+        distance:
+          value: 23.65
+          units: km
+      - name: Helper
+        distance:
+          value: 26.37
+          units: km
     - name: Clearfield
       region: UT
       lat: '41.1030'
       long: "-112.0238"
+      closest_rate_centers:
+      - name: Clearfield
+        distance:
+          value: 0.82
+          units: km
+      - name: Kaysville
+        distance:
+          value: 10.68
+          units: km
+      - name: Ogden
+        distance:
+          value: 14.23
+          units: km
+      - name: Huntsville
+        distance:
+          value: 14.23
+          units: km
     - name: Cleveland
       region: UT
       lat: '39.3494'
       long: "-110.8556"
+      closest_rate_centers:
+      - name: Cleveland
+        distance:
+          value: 1.12
+          units: km
+      - name: Huntington
+        distance:
+          value: 9.96
+          units: km
+      - name: Castle Dale
+        distance:
+          value: 20.33
+          units: km
     - name: Clinton
       region: UT
       lat: '41.1395'
       long: "-112.0656"
+      closest_rate_centers:
+      - name: Clearfield
+        distance:
+          value: 4.78
+          units: km
+      - name: Ogden
+        distance:
+          value: 12.49
+          units: km
+      - name: Huntsville
+        distance:
+          value: 12.49
+          units: km
+      - name: Kaysville
+        distance:
+          value: 16.02
+          units: km
     - name: Coalville
       region: UT
       lat: '40.9120'
       long: "-111.4130"
+      closest_rate_centers:
+      - name: Coalville
+        distance:
+          value: 1.95
+          units: km
+      - name: Morgan
+        distance:
+          value: 26.85
+          units: km
+      - name: Jordanelle
+        distance:
+          value: 28.52
+          units: km
     - name: Copperton
       region: UT
       lat: '40.5662'
       long: "-112.0977"
+      closest_rate_centers:
+      - name: Kearns
+        distance:
+          value: 13.44
+          units: km
+      - name: Magna
+        distance:
+          value: 16.04
+          units: km
+      - name: Midvale
+        distance:
+          value: 16.79
+          units: km
     - name: Corinne
       region: UT
       lat: '41.5497'
       long: "-112.1227"
+      closest_rate_centers:
+      - name: Bear River City
+        distance:
+          value: 7.6
+          units: km
+      - name: Brigham City
+        distance:
+          value: 9.47
+          units: km
+      - name: Tremonton
+        distance:
+          value: 19.21
+          units: km
     - name: Cornish
       region: UT
       lat: '41.9717'
       long: "-111.9565"
+      closest_rate_centers:
+      - name: Richmond
+        distance:
+          value: 13.24
+          units: km
+      - name: Smithfield
+        distance:
+          value: 18.45
+          units: km
+      - name: Fielding
+        distance:
+          value: 21.99
+          units: km
     - name: Cottonwood Heights
       region: UT
       lat: '40.6137'
       long: "-111.8144"
+      closest_rate_centers:
+      - name: Holladay
+        distance:
+          value: 4.26
+          units: km
+      - name: Midvale
+        distance:
+          value: 8.12
+          units: km
+      - name: Murray
+        distance:
+          value: 8.45
+          units: km
     - name: Cove
       region: UT
       lat: '41.9683'
       long: "-111.7794"
+      closest_rate_centers:
+      - name: Richmond
+        distance:
+          value: 5.21
+          units: km
+      - name: Smithfield
+        distance:
+          value: 15.82
+          units: km
+      - name: Logan
+        distance:
+          value: 26.52
+          units: km
     - name: Dammeron Valley
       region: UT
       lat: '37.3042'
       long: "-113.6658"
+      closest_rate_centers:
+      - name: Veyo
+        distance:
+          value: 22.82
+          units: km
+      - name: Leeds
+        distance:
+          value: 22.82
+          units: km
+      - name: St George
+        distance:
+          value: 22.82
+          units: km
+      - name: Enterprise (Washington)
+        distance:
+          value: 29.61
+          units: km
+      - name: Hurricane
+        distance:
+          value: 37.06
+          units: km
     - name: Daniel
       region: UT
       lat: '40.4668'
       long: "-111.4096"
+      closest_rate_centers:
+      - name: Heber City
+        distance:
+          value: 4.88
+          units: km
+      - name: Timber Lakes
+        distance:
+          value: 10.84
+          units: km
+      - name: Jordanelle
+        distance:
+          value: 20.99
+          units: km
     - name: Delta
       region: UT
       lat: '39.3623'
       long: "-112.5471"
+      closest_rate_centers:
+      - name: Delta
+        distance:
+          value: 2.98
+          units: km
+      - name: Oak City
+        distance:
+          value: 17.88
+          units: km
+      - name: Lynndyl
+        distance:
+          value: 22.83
+          units: km
     - name: Deseret
       region: UT
       lat: '39.2876'
       long: "-112.6511"
+      closest_rate_centers:
+      - name: Delta
+        distance:
+          value: 9.33
+          units: km
+      - name: Oak City
+        distance:
+          value: 28.51
+          units: km
+      - name: Lynndyl
+        distance:
+          value: 34.99
+          units: km
     - name: Deweyville
       region: UT
       lat: '41.6930'
       long: "-112.0883"
+      closest_rate_centers:
+      - name: Tremonton
+        distance:
+          value: 7.78
+          units: km
+      - name: Bear River City
+        distance:
+          value: 9.27
+          units: km
+      - name: Fielding
+        distance:
+          value: 14.12
+          units: km
     - name: Draper
       region: UT
       lat: '40.4957'
       long: "-111.8605"
+      closest_rate_centers:
+      - name: Eagle Mountain
+        distance:
+          value: 12.33
+          units: km
+      - name: Cedar Valley
+        distance:
+          value: 12.33
+          units: km
+      - name: Lehi
+        distance:
+          value: 12.33
+          units: km
+      - name: American Fork
+        distance:
+          value: 14.11
+          units: km
+      - name: Midvale
+        distance:
+          value: 14.13
+          units: km
     - name: Duchesne
       region: UT
       lat: '40.1753'
       long: "-110.3940"
+      closest_rate_centers:
+      - name: Duchesne
+        distance:
+          value: 1.11
+          units: km
+      - name: Altamont
+        distance:
+          value: 21.27
+          units: km
+      - name: Flattop
+        distance:
+          value: 25.14
+          units: km
     - name: Dugway
       region: UT
       lat: '40.2307'
       long: "-112.7541"
+      closest_rate_centers:
+      - name: Dugway
+        distance:
+          value: 1.92
+          units: km
+      - name: Rush Valley
+        distance:
+          value: 27.39
+          units: km
+      - name: Vernon
+        distance:
+          value: 29.74
+          units: km
     - name: Dutch John
       region: UT
       lat: '40.9301'
       long: "-109.4042"
+      closest_rate_centers:
+      - name: Dutch John
+        distance:
+          value: 0.99
+          units: km
+      - name: Greendale
+        distance:
+          value: 7.89
+          units: km
+      - name: Manila
+        distance:
+          value: 27.17
+          units: km
     - name: Eagle Mountain
       region: UT
       lat: '40.3137'
       long: "-112.0114"
+      closest_rate_centers:
+      - name: Cedar Valley
+        distance:
+          value: 16.02
+          units: km
+      - name: Lehi
+        distance:
+          value: 16.02
+          units: km
+      - name: Eagle Mountain
+        distance:
+          value: 16.02
+          units: km
+      - name: American Fork
+        distance:
+          value: 19.23
+          units: km
+      - name: Pleasant Grove
+        distance:
+          value: 23.63
+          units: km
     - name: East Basin
       region: UT
       lat: '40.7359'
       long: "-111.4708"
+      closest_rate_centers:
+      - name: Park City
+        distance:
+          value: 9.67
+          units: km
+      - name: Jordanelle
+        distance:
+          value: 10.26
+          units: km
+      - name: Kamas
+        distance:
+          value: 19.71
+          units: km
     - name: Echo
       region: UT
       lat: '40.9803'
       long: "-111.4393"
+      closest_rate_centers:
+      - name: Coalville
+        distance:
+          value: 8.25
+          units: km
+      - name: Morgan
+        distance:
+          value: 21.56
+          units: km
+      - name: Jordanelle
+        distance:
+          value: 36.19
+          units: km
     - name: Eden
       region: UT
       lat: '41.3022'
       long: "-111.8085"
+      closest_rate_centers:
+      - name: Ogden
+        distance:
+          value: 15.85
+          units: km
+      - name: Huntsville
+        distance:
+          value: 15.85
+          units: km
+      - name: Clearfield
+        distance:
+          value: 27.91
+          units: km
+      - name: Brigham City
+        distance:
+          value: 29.16
+          units: km
     - name: Elberta
       region: UT
       lat: '39.9559'
       long: "-111.9569"
+      closest_rate_centers:
+      - name: Goshen
+        distance:
+          value: 4.01
+          units: km
+      - name: Eureka
+        distance:
+          value: 14.13
+          units: km
+      - name: Payson
+        distance:
+          value: 20.62
+          units: km
     - name: Elk Ridge
       region: UT
       lat: '40.0099'
       long: "-111.6775"
+      closest_rate_centers:
+      - name: Payson
+        distance:
+          value: 6.68
+          units: km
+      - name: Spanish Fork
+        distance:
+          value: 11.08
+          units: km
+      - name: Spanish Fork Canyon
+        distance:
+          value: 15.61
+          units: km
     - name: Elmo
       region: UT
       lat: '39.3877'
       long: "-110.8156"
+      closest_rate_centers:
+      - name: Cleveland
+        distance:
+          value: 6.16
+          units: km
+      - name: Huntington
+        distance:
+          value: 14.83
+          units: km
+      - name: Price
+        distance:
+          value: 23.8
+          units: km
     - name: Elsinore
       region: UT
       lat: '38.6834'
       long: "-112.1488"
+      closest_rate_centers:
+      - name: Monroe
+        distance:
+          value: 6.18
+          units: km
+      - name: Richfield
+        distance:
+          value: 11.03
+          units: km
+      - name: Marysvale
+        distance:
+          value: 26.96
+          units: km
     - name: Elwood
       region: UT
       lat: '41.6759'
       long: "-112.1376"
+      closest_rate_centers:
+      - name: Tremonton
+        distance:
+          value: 5.65
+          units: km
+      - name: Bear River City
+        distance:
+          value: 6.51
+          units: km
+      - name: Thatcher
+        distance:
+          value: 13.8
+          units: km
     - name: Emery
       region: UT
       lat: '38.9252'
       long: "-111.2522"
+      closest_rate_centers:
+      - name: Emery
+        distance:
+          value: 1.07
+          units: km
+      - name: Ferron
+        distance:
+          value: 21.17
+          units: km
+      - name: Castle Dale
+        distance:
+          value: 38.28
+          units: km
     - name: Emigration Canyon
       region: UT
       lat: '40.7886'
       long: "-111.7414"
+      closest_rate_centers:
+      - name: Salt Lake City
+        distance:
+          value: 12.35
+          units: km
+      - name: Holladay
+        distance:
+          value: 16.23
+          units: km
+      - name: Bountiful
+        distance:
+          value: 16.32
+          units: km
     - name: Enoch
       region: UT
       lat: '37.7669'
       long: "-113.0449"
+      closest_rate_centers:
+      - name: Cedar City
+        distance:
+          value: 9.65
+          units: km
+      - name: Brian Head
+        distance:
+          value: 19.05
+          units: km
+      - name: Parowan
+        distance:
+          value: 20.4
+          units: km
     - name: Enterprise
       region: UT
       lat: '37.5717'
       long: "-113.7431"
+      closest_rate_centers:
+      - name: Enterprise (Washington)
+        distance:
+          value: 2.17
+          units: km
+      - name: Beryl
+        distance:
+          value: 18.71
+          units: km
+      - name: Veyo
+        distance:
+          value: 53.27
+          units: km
+      - name: St George
+        distance:
+          value: 53.27
+          units: km
+      - name: Leeds
+        distance:
+          value: 53.27
+          units: km
     - name: Ephraim
       region: UT
       lat: '39.3563'
       long: "-111.5845"
+      closest_rate_centers:
+      - name: Ephraim
+        distance:
+          value: 0.54
+          units: km
+      - name: Manti
+        distance:
+          value: 10.93
+          units: km
+      - name: Moroni
+        distance:
+          value: 18.77
+          units: km
     - name: Erda
       region: UT
       lat: '40.6028'
       long: "-112.3214"
+      closest_rate_centers:
+      - name: Tooele
+        distance:
+          value: 7.84
+          units: km
+      - name: Magna
+        distance:
+          value: 21.73
+          units: km
+      - name: Kearns
+        distance:
+          value: 27.39
+          units: km
     - name: Escalante
       region: UT
       lat: '37.7650'
       long: "-111.6001"
+      closest_rate_centers:
+      - name: Escalante
+        distance:
+          value: 0.97
+          units: km
+      - name: Boulder
+        distance:
+          value: 22.39
+          units: km
+      - name: Cannonville
+        distance:
+          value: 46.58
+          units: km
     - name: Eureka
       region: UT
       lat: '39.9588'
       long: "-112.1149"
+      closest_rate_centers:
+      - name: Eureka
+        distance:
+          value: 0.74
+          units: km
+      - name: Goshen
+        distance:
+          value: 17.44
+          units: km
+      - name: Vernon
+        distance:
+          value: 32.47
+          units: km
     - name: Fairfield
       region: UT
       lat: '40.2462'
       long: "-112.0842"
+      closest_rate_centers:
+      - name: Lehi
+        distance:
+          value: 25.34
+          units: km
+      - name: Eagle Mountain
+        distance:
+          value: 25.34
+          units: km
+      - name: Cedar Valley
+        distance:
+          value: 25.34
+          units: km
+      - name: American Fork
+        distance:
+          value: 28.14
+          units: km
+      - name: Pleasant Grove
+        distance:
+          value: 32.03
+          units: km
     - name: Fairview
       region: UT
       lat: '39.6299'
       long: "-111.4368"
+      closest_rate_centers:
+      - name: Fairview
+        distance:
+          value: 0.7
+          units: km
+      - name: Mount Pleasant
+        distance:
+          value: 8.99
+          units: km
+      - name: Fountain Green
+        distance:
+          value: 16.73
+          units: km
     - name: Farmington
       region: UT
       lat: '40.9845'
       long: "-111.9065"
+      closest_rate_centers:
+      - name: Farmington
+        distance:
+          value: 1.75
+          units: km
+      - name: Kaysville
+        distance:
+          value: 6.09
+          units: km
+      - name: Bountiful
+        distance:
+          value: 10.73
+          units: km
     - name: Farr West
       region: UT
       lat: '41.3015'
       long: "-112.0318"
+      closest_rate_centers:
+      - name: Huntsville
+        distance:
+          value: 10.25
+          units: km
+      - name: Ogden
+        distance:
+          value: 10.25
+          units: km
+      - name: Clearfield
+        distance:
+          value: 21.26
+          units: km
+      - name: Brigham City
+        distance:
+          value: 23.19
+          units: km
     - name: Fayette
       region: UT
       lat: '39.2244'
       long: "-111.8539"
+      closest_rate_centers:
+      - name: Gunnison
+        distance:
+          value: 8.8
+          units: km
+      - name: Manti
+        distance:
+          value: 19.63
+          units: km
+      - name: Scipio
+        distance:
+          value: 21.19
+          units: km
     - name: Ferron
       region: UT
       lat: '39.0914'
       long: "-111.1337"
+      closest_rate_centers:
+      - name: Ferron
+        distance:
+          value: 0.38
+          units: km
+      - name: Castle Dale
+        distance:
+          value: 17.19
+          units: km
+      - name: Emery
+        distance:
+          value: 21.41
+          units: km
     - name: Fielding
       region: UT
       lat: '41.8127'
       long: "-112.1173"
+      closest_rate_centers:
+      - name: Fielding
+        distance:
+          value: 0.68
+          units: km
+      - name: Tremonton
+        distance:
+          value: 11.61
+          units: km
+      - name: Thatcher
+        distance:
+          value: 20.48
+          units: km
     - name: Fillmore
       region: UT
       lat: '38.9642'
       long: "-112.3386"
+      closest_rate_centers:
+      - name: Fillmore
+        distance:
+          value: 1.2
+          units: km
+      - name: Meadow
+        distance:
+          value: 10.82
+          units: km
+      - name: Holden
+        distance:
+          value: 16.2
+          units: km
     - name: Flaming Gorge
       region: UT
       lat: '40.8889'
       long: "-109.4751"
+      closest_rate_centers:
+      - name: Greendale
+        distance:
+          value: 0.91
+          units: km
+      - name: Dutch John
+        distance:
+          value: 8.45
+          units: km
+      - name: Manila
+        distance:
+          value: 23.38
+          units: km
     - name: Fort Duchesne
       region: UT
       lat: '40.2809'
       long: "-109.8774"
+      closest_rate_centers:
+      - name: Roosevelt
+        distance:
+          value: 10.02
+          units: km
+      - name: Randlett
+        distance:
+          value: 10.39
+          units: km
+      - name: Lapoint
+        distance:
+          value: 15.2
+          units: km
     - name: Fountain Green
       region: UT
       lat: '39.6281'
       long: "-111.6413"
+      closest_rate_centers:
+      - name: Fountain Green
+        distance:
+          value: 0.96
+          units: km
+      - name: Moroni
+        distance:
+          value: 12.55
+          units: km
+      - name: Fairview
+        distance:
+          value: 18.09
+          units: km
     - name: Francis
       region: UT
       lat: '40.6102'
       long: "-111.2729"
+      closest_rate_centers:
+      - name: Kamas
+        distance:
+          value: 3.47
+          units: km
+      - name: Jordanelle
+        distance:
+          value: 12.71
+          units: km
+      - name: Timber Lakes
+        distance:
+          value: 13.11
+          units: km
     - name: Fremont
       region: UT
       lat: '38.4556'
       long: "-111.6148"
+      closest_rate_centers:
+      - name: Loa
+        distance:
+          value: 6.68
+          units: km
+      - name: Bicknell
+        distance:
+          value: 13.99
+          units: km
+      - name: Koosharem
+        distance:
+          value: 24.22
+          units: km
     - name: Fruit Heights
       region: UT
       lat: '41.0277'
       long: "-111.9082"
+      closest_rate_centers:
+      - name: Kaysville
+        distance:
+          value: 2.28
+          units: km
+      - name: Farmington
+        distance:
+          value: 5.14
+          units: km
+      - name: Clearfield
+        distance:
+          value: 13.35
+          units: km
     - name: Garden
       region: UT
       lat: '41.8866'
       long: "-111.4326"
+      closest_rate_centers:
+      - name: Garden City
+        distance:
+          value: 7.58
+          units: km
+      - name: Richmond
+        distance:
+          value: 31.41
+          units: km
+      - name: Randolph
+        distance:
+          value: 32.14
+          units: km
     - name: Garden City
       region: UT
       lat: '41.9371'
       long: "-111.4121"
+      closest_rate_centers:
+      - name: Garden City
+        distance:
+          value: 2.02
+          units: km
+      - name: Richmond
+        distance:
+          value: 32.79
+          units: km
+      - name: Randolph
+        distance:
+          value: 35.63
+          units: km
     - name: Garland
       region: UT
       lat: '41.7362'
       long: "-112.1627"
+      closest_rate_centers:
+      - name: Tremonton
+        distance:
+          value: 2.32
+          units: km
+      - name: Fielding
+        distance:
+          value: 9.62
+          units: km
+      - name: Thatcher
+        distance:
+          value: 12.65
+          units: km
     - name: Genola
       region: UT
       lat: '40.0118'
       long: "-111.8465"
+      closest_rate_centers:
+      - name: Goshen
+        distance:
+          value: 8.9
+          units: km
+      - name: Payson
+        distance:
+          value: 9.46
+          units: km
+      - name: Spanish Fork
+        distance:
+          value: 19.38
+          units: km
     - name: Glendale
       region: UT
       lat: '37.3342'
       long: "-112.6035"
+      closest_rate_centers:
+      - name: Orderville
+        distance:
+          value: 7.23
+          units: km
+      - name: Duck Creek
+        distance:
+          value: 20.75
+          units: km
+      - name: Kanab
+        distance:
+          value: 32.05
+          units: km
     - name: Glenwood
       region: UT
       lat: '38.7625'
       long: "-111.9876"
+      closest_rate_centers:
+      - name: Richfield
+        distance:
+          value: 8.17
+          units: km
+      - name: Monroe
+        distance:
+          value: 18.41
+          units: km
+      - name: Salina
+        distance:
+          value: 23.81
+          units: km
     - name: Goshen
       region: UT
       lat: '39.9511'
       long: "-111.9008"
+      closest_rate_centers:
+      - name: Goshen
+        distance:
+          value: 0.89
+          units: km
+      - name: Payson
+        distance:
+          value: 16.87
+          units: km
+      - name: Eureka
+        distance:
+          value: 18.92
+          units: km
     - name: Granite
       region: UT
       lat: '40.5686'
       long: "-111.8011"
+      closest_rate_centers:
+      - name: Holladay
+        distance:
+          value: 9.25
+          units: km
+      - name: Midvale
+        distance:
+          value: 10.68
+          units: km
+      - name: Murray
+        distance:
+          value: 13.13
+          units: km
     - name: Grantsville
       region: UT
       lat: '40.6148'
       long: "-112.4777"
+      closest_rate_centers:
+      - name: Tooele
+        distance:
+          value: 17.63
+          units: km
+      - name: Rush Valley
+        distance:
+          value: 31.65
+          units: km
+      - name: Magna
+        distance:
+          value: 33.08
+          units: km
     - name: Green River
       region: UT
       lat: '38.9935'
       long: "-110.1723"
+      closest_rate_centers:
+      - name: Green River
+        distance:
+          value: 1.35
+          units: km
+      - name: Thompson
+        distance:
+          value: 40.06
+          units: km
+      - name: East Carbon
+        distance:
+          value: 64.92
+          units: km
     - name: Gunnison
       region: UT
       lat: '39.1569'
       long: "-111.8135"
+      closest_rate_centers:
+      - name: Gunnison
+        distance:
+          value: 0.71
+          units: km
+      - name: Manti
+        distance:
+          value: 19.73
+          units: km
+      - name: Salina
+        distance:
+          value: 23.26
+          units: km
     - name: Halchita
       region: UT
       lat: '37.1314'
       long: "-109.9131"
+      closest_rate_centers:
+      - name: Halchita
+        distance:
+          value: 1.52
+          units: km
+      - name: Mexican Hat
+        distance:
+          value: 4.6
+          units: km
+      - name: Monument Valley
+        distance:
+          value: 29.41
+          units: km
     - name: Halls Crossing
       region: UT
       lat: '37.4578'
       long: "-110.6829"
+      closest_rate_centers:
+      - name: Lake Powell
+        distance:
+          value: 10.01
+          units: km
+      - name: Ticaboo
+        distance:
+          value: 33.71
+          units: km
+      - name: Dangling Rope
+        distance:
+          value: 48.32
+          units: km
     - name: Hanksville
       region: UT
       lat: '38.3724'
       long: "-110.7138"
+      closest_rate_centers:
+      - name: Hanksville
+        distance:
+          value: 1.34
+          units: km
+      - name: Cainville
+        distance:
+          value: 27.09
+          units: km
+      - name: Ticaboo
+        distance:
+          value: 68.04
+          units: km
     - name: Harrisville
       region: UT
       lat: '41.2852'
       long: "-111.9859"
+      closest_rate_centers:
+      - name: Ogden
+        distance:
+          value: 7.06
+          units: km
+      - name: Huntsville
+        distance:
+          value: 7.06
+          units: km
+      - name: Clearfield
+        distance:
+          value: 19.69
+          units: km
+      - name: Brigham City
+        distance:
+          value: 25.17
+          units: km
     - name: Hatch
       region: UT
       lat: '37.6493'
       long: "-112.4348"
+      closest_rate_centers:
+      - name: Panguitch
+        distance:
+          value: 19.64
+          units: km
+      - name: Hatch
+        distance:
+          value: 19.64
+          units: km
+      - name: Bryce Canyon
+        distance:
+          value: 24.0
+          units: km
+      - name: Duck Creek
+        distance:
+          value: 24.83
+          units: km
     - name: Heber
       region: UT
       lat: '40.5070'
       long: "-111.3986"
+      closest_rate_centers:
+      - name: Heber City
+        distance:
+          value: 1.57
+          units: km
+      - name: Timber Lakes
+        distance:
+          value: 9.64
+          units: km
+      - name: Jordanelle
+        distance:
+          value: 16.55
+          units: km
     - name: Helper
       region: UT
       lat: '39.6898'
       long: "-110.8596"
+      closest_rate_centers:
+      - name: Helper
+        distance:
+          value: 0.88
+          units: km
+      - name: Price
+        distance:
+          value: 10.7
+          units: km
+      - name: Scofield
+        distance:
+          value: 25.75
+          units: km
     - name: Henefer
       region: UT
       lat: '41.0137'
       long: "-111.4931"
+      closest_rate_centers:
+      - name: Coalville
+        distance:
+          value: 13.87
+          units: km
+      - name: Morgan
+        distance:
+          value: 16.24
+          units: km
+      - name: Farmington
+        distance:
+          value: 33.11
+          units: km
     - name: Henrieville
       region: UT
       lat: '37.5638'
       long: "-112.0020"
+      closest_rate_centers:
+      - name: Cannonville
+        distance:
+          value: 10.02
+          units: km
+      - name: Bryce Canyon
+        distance:
+          value: 15.6
+          units: km
+      - name: Escalante
+        distance:
+          value: 42.41
+          units: km
     - name: Herriman
       region: UT
       lat: '40.4899'
       long: "-112.0170"
+      closest_rate_centers:
+      - name: Midvale
+        distance:
+          value: 16.75
+          units: km
+      - name: Lehi
+        distance:
+          value: 18.48
+          units: km
+      - name: Cedar Valley
+        distance:
+          value: 18.48
+          units: km
+      - name: Eagle Mountain
+        distance:
+          value: 18.48
+          units: km
+      - name: Kearns
+        distance:
+          value: 19.59
+          units: km
     - name: Hideout
       region: UT
       lat: '40.6437'
       long: "-111.4014"
+      closest_rate_centers:
+      - name: Jordanelle
+        distance:
+          value: 1.55
+          units: km
+      - name: Park City
+        distance:
+          value: 8.27
+          units: km
+      - name: Kamas
+        distance:
+          value: 10.83
+          units: km
     - name: Highland
       region: UT
       lat: '40.4276'
       long: "-111.7957"
+      closest_rate_centers:
+      - name: American Fork
+        distance:
+          value: 5.6
+          units: km
+      - name: Eagle Mountain
+        distance:
+          value: 6.43
+          units: km
+      - name: Cedar Valley
+        distance:
+          value: 6.43
+          units: km
+      - name: Lehi
+        distance:
+          value: 6.43
+          units: km
+      - name: Pleasant Grove
+        distance:
+          value: 8.1
+          units: km
     - name: Hildale
       region: UT
       lat: '37.0170'
       long: "-112.9787"
+      closest_rate_centers:
+      - name: Apple Valley
+        distance:
+          value: 17.23
+          units: km
+      - name: Hildale
+        distance:
+          value: 17.3
+          units: km
+      - name: Springdale
+        distance:
+          value: 19.52
+          units: km
     - name: Hinckley
       region: UT
       lat: '39.3336'
       long: "-112.6736"
+      closest_rate_centers:
+      - name: Delta
+        distance:
+          value: 8.46
+          units: km
+      - name: Oak City
+        distance:
+          value: 29.08
+          units: km
+      - name: Lynndyl
+        distance:
+          value: 32.93
+          units: km
     - name: Hobble Creek
       region: UT
       lat: '40.2084'
       long: "-111.4859"
+      closest_rate_centers:
+      - name: Springville
+        distance:
+          value: 11.9
+          units: km
+      - name: Provo
+        distance:
+          value: 15.85
+          units: km
+      - name: Spanish Fork
+        distance:
+          value: 18.3
+          units: km
     - name: Holden
       region: UT
       lat: '39.1003'
       long: "-112.2705"
+      closest_rate_centers:
+      - name: Holden
+        distance:
+          value: 0.59
+          units: km
+      - name: Fillmore
+        distance:
+          value: 15.38
+          units: km
+      - name: Scipio
+        distance:
+          value: 21.55
+          units: km
     - name: Holladay
       region: UT
       lat: '40.6600'
       long: "-111.8226"
+      closest_rate_centers:
+      - name: Holladay
+        distance:
+          value: 1.55
+          units: km
+      - name: Murray
+        distance:
+          value: 5.21
+          units: km
+      - name: Midvale
+        distance:
+          value: 8.83
+          units: km
     - name: Honeyville
       region: UT
       lat: '41.6361'
       long: "-112.0857"
+      closest_rate_centers:
+      - name: Bear River City
+        distance:
+          value: 4.63
+          units: km
+      - name: Tremonton
+        distance:
+          value: 11.78
+          units: km
+      - name: Brigham City
+        distance:
+          value: 15.0
+          units: km
     - name: Hooper
       region: UT
       lat: '41.1599'
       long: "-112.2871"
+      closest_rate_centers:
+      - name: Clearfield
+        distance:
+          value: 22.74
+          units: km
+      - name: Ogden
+        distance:
+          value: 27.74
+          units: km
+      - name: Huntsville
+        distance:
+          value: 27.74
+          units: km
+      - name: Kaysville
+        distance:
+          value: 32.71
+          units: km
     - name: Howell
       region: UT
       lat: '41.7733'
       long: "-112.4450"
+      closest_rate_centers:
+      - name: Howell
+        distance:
+          value: 2.7
+          units: km
+      - name: Thatcher
+        distance:
+          value: 14.95
+          units: km
+      - name: Tremonton
+        distance:
+          value: 23.16
+          units: km
     - name: Hoytsville
       region: UT
       lat: '40.8757'
       long: "-111.3847"
+      closest_rate_centers:
+      - name: Coalville
+        distance:
+          value: 4.5
+          units: km
+      - name: Jordanelle
+        distance:
+          value: 24.58
+          units: km
+      - name: Park City
+        distance:
+          value: 26.71
+          units: km
     - name: Huntington
       region: UT
       lat: '39.3302'
       long: "-110.9628"
+      closest_rate_centers:
+      - name: Huntington
+        distance:
+          value: 0.89
+          units: km
+      - name: Cleveland
+        distance:
+          value: 9.62
+          units: km
+      - name: Castle Dale
+        distance:
+          value: 13.34
+          units: km
     - name: Huntsville
       region: UT
       lat: '41.2602'
       long: "-111.7740"
+      closest_rate_centers:
+      - name: Ogden
+        distance:
+          value: 16.61
+          units: km
+      - name: Huntsville
+        distance:
+          value: 16.61
+          units: km
+      - name: Morgan
+        distance:
+          value: 25.51
+          units: km
+      - name: Clearfield
+        distance:
+          value: 26.72
+          units: km
     - name: Hurricane
       region: UT
       lat: '37.1487'
       long: "-113.3517"
+      closest_rate_centers:
+      - name: Hurricane
+        distance:
+          value: 6.79
+          units: km
+      - name: Apple Valley
+        distance:
+          value: 20.34
+          units: km
+      - name: Veyo
+        distance:
+          value: 21.12
+          units: km
+      - name: St George
+        distance:
+          value: 21.12
+          units: km
+      - name: Leeds
+        distance:
+          value: 21.12
+          units: km
     - name: Hyde Park
       region: UT
       lat: '41.8008'
       long: "-111.8121"
+      closest_rate_centers:
+      - name: Smithfield
+        distance:
+          value: 4.01
+          units: km
+      - name: Logan
+        distance:
+          value: 7.72
+          units: km
+      - name: Richmond
+        distance:
+          value: 14.0
+          units: km
     - name: Hyrum
       region: UT
       lat: '41.6325'
       long: "-111.8445"
+      closest_rate_centers:
+      - name: Hyrum
+        distance:
+          value: 1.28
+          units: km
+      - name: Logan
+        distance:
+          value: 11.23
+          units: km
+      - name: Brigham City
+        distance:
+          value: 20.1
+          units: km
     - name: Independence
       region: UT
       lat: '40.4108'
       long: "-111.2958"
+      closest_rate_centers:
+      - name: Timber Lakes
+        distance:
+          value: 9.14
+          units: km
+      - name: Heber City
+        distance:
+          value: 15.07
+          units: km
+      - name: Kamas
+        distance:
+          value: 25.71
+          units: km
     - name: Interlaken
       region: UT
       lat: '40.5413'
       long: "-111.4749"
+      closest_rate_centers:
+      - name: Heber City
+        distance:
+          value: 6.0
+          units: km
+      - name: Park City
+        distance:
+          value: 12.43
+          units: km
+      - name: Jordanelle
+        distance:
+          value: 13.79
+          units: km
     - name: Ivins
       region: UT
       lat: '37.1742'
       long: "-113.6809"
+      closest_rate_centers:
+      - name: Veyo
+        distance:
+          value: 11.16
+          units: km
+      - name: St George
+        distance:
+          value: 11.16
+          units: km
+      - name: Leeds
+        distance:
+          value: 11.16
+          units: km
+      - name: Hurricane
+        distance:
+          value: 35.42
+          units: km
+      - name: Enterprise (Washington)
+        distance:
+          value: 43.82
+          units: km
     - name: Jensen
       region: UT
       lat: '40.3695'
       long: "-109.3555"
+      closest_rate_centers:
+      - name: Vernal
+        distance:
+          value: 17.34
+          units: km
+      - name: Randlett
+        distance:
+          value: 38.69
+          units: km
+      - name: Lapoint
+        distance:
+          value: 39.26
+          units: km
     - name: Joseph
       region: UT
       lat: '38.6249'
       long: "-112.2198"
+      closest_rate_centers:
+      - name: Monroe
+        distance:
+          value: 8.76
+          units: km
+      - name: Marysvale
+        distance:
+          value: 19.64
+          units: km
+      - name: Richfield
+        distance:
+          value: 19.89
+          units: km
     - name: Junction
       region: UT
       lat: '38.2358'
       long: "-112.2238"
+      closest_rate_centers:
+      - name: Circleville
+        distance:
+          value: 0.45
+          units: km
+      - name: Antimony
+        distance:
+          value: 23.46
+          units: km
+      - name: Marysvale
+        distance:
+          value: 23.63
+          units: km
     - name: Kamas
       region: UT
       lat: '40.6499'
       long: "-111.2723"
+      closest_rate_centers:
+      - name: Kamas
+        distance:
+          value: 0.95
+          units: km
+      - name: Jordanelle
+        distance:
+          value: 11.73
+          units: km
+      - name: Timber Lakes
+        distance:
+          value: 17.52
+          units: km
     - name: Kanab
       region: UT
       lat: '37.0262'
       long: "-112.5219"
+      closest_rate_centers:
+      - name: Kanab
+        distance:
+          value: 2.99
+          units: km
+      - name: Orderville
+        distance:
+          value: 29.87
+          units: km
+      - name: Hildale
+        distance:
+          value: 37.48
+          units: km
     - name: Kanarraville
       region: UT
       lat: '37.5378'
       long: "-113.1810"
+      closest_rate_centers:
+      - name: Cedar City
+        distance:
+          value: 18.83
+          units: km
+      - name: Brian Head
+        distance:
+          value: 34.33
+          units: km
+      - name: Hurricane
+        distance:
+          value: 41.57
+          units: km
     - name: Kanosh
       region: UT
       lat: '38.8014'
       long: "-112.4374"
+      closest_rate_centers:
+      - name: Kanosh
+        distance:
+          value: 0.24
+          units: km
+      - name: Meadow
+        distance:
+          value: 9.51
+          units: km
+      - name: Fillmore
+        distance:
+          value: 20.97
+          units: km
     - name: Kaysville
       region: UT
       lat: '41.0290'
       long: "-111.9456"
+      closest_rate_centers:
+      - name: Kaysville
+        distance:
+          value: 1.24
+          units: km
+      - name: Farmington
+        distance:
+          value: 7.04
+          units: km
+      - name: Clearfield
+        distance:
+          value: 11.17
+          units: km
     - name: Kearns
       region: UT
       lat: '40.6519'
       long: "-112.0095"
+      closest_rate_centers:
+      - name: Kearns
+        distance:
+          value: 1.57
+          units: km
+      - name: Midvale
+        distance:
+          value: 9.22
+          units: km
+      - name: Magna
+        distance:
+          value: 10.43
+          units: km
     - name: Kenilworth
       region: UT
       lat: '39.6803'
       long: "-110.8146"
+      closest_rate_centers:
+      - name: Helper
+        distance:
+          value: 3.2
+          units: km
+      - name: Price
+        distance:
+          value: 8.75
+          units: km
+      - name: Scofield
+        distance:
+          value: 29.72
+          units: km
     - name: Kingston
       region: UT
       lat: '38.2067'
       long: "-112.1793"
+      closest_rate_centers:
+      - name: Circleville
+        distance:
+          value: 4.69
+          units: km
+      - name: Antimony
+        distance:
+          value: 18.44
+          units: km
+      - name: Marysvale
+        distance:
+          value: 27.16
+          units: km
     - name: Koosharem
       region: UT
       lat: '38.5134'
       long: "-111.8819"
+      closest_rate_centers:
+      - name: Koosharem
+        distance:
+          value: 0.69
+          units: km
+      - name: Monroe
+        distance:
+          value: 24.55
+          units: km
+      - name: Loa
+        distance:
+          value: 24.56
+          units: km
     - name: La Sal
       region: UT
       lat: '38.3026'
       long: "-109.2646"
+      closest_rate_centers:
+      - name: La Sal
+        distance:
+          value: 2.02
+          units: km
+      - name: Moab
+        distance:
+          value: 38.75
+          units: km
+      - name: Monticello
+        distance:
+          value: 48.78
+          units: km
     - name: La Verkin
       region: UT
       lat: '37.2309'
       long: "-113.2523"
+      closest_rate_centers:
+      - name: Hurricane
+        distance:
+          value: 6.98
+          units: km
+      - name: Apple Valley
+        distance:
+          value: 16.81
+          units: km
+      - name: Springdale
+        distance:
+          value: 22.73
+          units: km
     - name: Lake Shore
       region: UT
       lat: '40.1294'
       long: "-111.7362"
+      closest_rate_centers:
+      - name: Spanish Fork
+        distance:
+          value: 7.15
+          units: km
+      - name: Payson
+        distance:
+          value: 9.65
+          units: km
+      - name: Springville
+        distance:
+          value: 11.11
+          units: km
     - name: Laketown
       region: UT
       lat: '41.8275'
       long: "-111.3242"
+      closest_rate_centers:
+      - name: Garden City
+        distance:
+          value: 14.53
+          units: km
+      - name: Randolph
+        distance:
+          value: 21.45
+          units: km
+      - name: Richmond
+        distance:
+          value: 41.57
+          units: km
     - name: Lapoint
       region: UT
       lat: '40.4043'
       long: "-109.7969"
+      closest_rate_centers:
+      - name: Lapoint
+        distance:
+          value: 1.72
+          units: km
+      - name: Neola
+        distance:
+          value: 18.57
+          units: km
+      - name: Randlett
+        distance:
+          value: 19.38
+          units: km
     - name: Layton
       region: UT
       lat: '41.0770'
       long: "-111.9620"
+      closest_rate_centers:
+      - name: Kaysville
+        distance:
+          value: 5.21
+          units: km
+      - name: Clearfield
+        distance:
+          value: 6.36
+          units: km
+      - name: Farmington
+        distance:
+          value: 12.1
+          units: km
     - name: Leamington
       region: UT
       lat: '39.5313'
       long: "-112.2855"
+      closest_rate_centers:
+      - name: Lynndyl
+        distance:
+          value: 7.67
+          units: km
+      - name: Oak City
+        distance:
+          value: 17.92
+          units: km
+      - name: Delta
+        distance:
+          value: 32.22
+          units: km
     - name: Leeds
       region: UT
       lat: '37.2373'
       long: "-113.3471"
+      closest_rate_centers:
+      - name: Hurricane
+        distance:
+          value: 9.27
+          units: km
+      - name: Apple Valley
+        distance:
+          value: 23.67
+          units: km
+      - name: Veyo
+        distance:
+          value: 25.41
+          units: km
+      - name: St George
+        distance:
+          value: 25.41
+          units: km
+      - name: Leeds
+        distance:
+          value: 25.41
+          units: km
     - name: Lehi
       region: UT
       lat: '40.4136'
       long: "-111.8725"
+      closest_rate_centers:
+      - name: Eagle Mountain
+        distance:
+          value: 3.81
+          units: km
+      - name: Lehi
+        distance:
+          value: 3.81
+          units: km
+      - name: Cedar Valley
+        distance:
+          value: 3.81
+          units: km
+      - name: American Fork
+        distance:
+          value: 7.32
+          units: km
+      - name: Pleasant Grove
+        distance:
+          value: 12.21
+          units: km
     - name: Levan
       region: UT
       lat: '39.5561'
       long: "-111.8607"
+      closest_rate_centers:
+      - name: Nephi
+        distance:
+          value: 17.22
+          units: km
+      - name: Fountain Green
+        distance:
+          value: 20.98
+          units: km
+      - name: Moroni
+        distance:
+          value: 24.21
+          units: km
     - name: Lewiston
       region: UT
       lat: '41.9619'
       long: "-111.8799"
+      closest_rate_centers:
+      - name: Richmond
+        distance:
+          value: 7.1
+          units: km
+      - name: Smithfield
+        distance:
+          value: 14.87
+          units: km
+      - name: Fielding
+        distance:
+          value: 25.72
+          units: km
     - name: Liberty
       region: UT
       lat: '41.3426'
       long: "-111.8649"
+      closest_rate_centers:
+      - name: Ogden
+        distance:
+          value: 15.74
+          units: km
+      - name: Huntsville
+        distance:
+          value: 15.74
+          units: km
+      - name: Brigham City
+        distance:
+          value: 22.75
+          units: km
+      - name: Clearfield
+        distance:
+          value: 29.03
+          units: km
     - name: Lindon
       region: UT
       lat: '40.3414'
       long: "-111.7187"
+      closest_rate_centers:
+      - name: Pleasant Grove
+        distance:
+          value: 3.5
+          units: km
+      - name: American Fork
+        distance:
+          value: 7.99
+          units: km
+      - name: Eagle Mountain
+        distance:
+          value: 11.94
+          units: km
+      - name: Cedar Valley
+        distance:
+          value: 11.94
+          units: km
+      - name: Lehi
+        distance:
+          value: 11.94
+          units: km
     - name: Loa
       region: UT
       lat: '38.4037'
       long: "-111.6454"
+      closest_rate_centers:
+      - name: Loa
+        distance:
+          value: 0.67
+          units: km
+      - name: Bicknell
+        distance:
+          value: 10.91
+          units: km
+      - name: Koosharem
+        distance:
+          value: 23.85
+          units: km
     - name: Logan
       region: UT
       lat: '41.7399'
       long: "-111.8422"
+      closest_rate_centers:
+      - name: Logan
+        distance:
+          value: 1.09
+          units: km
+      - name: Smithfield
+        distance:
+          value: 10.29
+          units: km
+      - name: Hyrum
+        distance:
+          value: 10.89
+          units: km
     - name: Lyman
       region: UT
       lat: '38.3966'
       long: "-111.5893"
+      closest_rate_centers:
+      - name: Loa
+        distance:
+          value: 4.47
+          units: km
+      - name: Bicknell
+        distance:
+          value: 7.13
+          units: km
+      - name: Koosharem
+        distance:
+          value: 28.56
+          units: km
     - name: Lynndyl
       region: UT
       lat: '39.5085'
       long: "-112.3933"
+      closest_rate_centers:
+      - name: Lynndyl
+        distance:
+          value: 2.0
+          units: km
+      - name: Oak City
+        distance:
+          value: 15.46
+          units: km
+      - name: Delta
+        distance:
+          value: 23.75
+          units: km
     - name: Maeser
       region: UT
       lat: '40.4718'
       long: "-109.5786"
+      closest_rate_centers:
+      - name: Vernal
+        distance:
+          value: 4.7
+          units: km
+      - name: Lapoint
+        distance:
+          value: 21.26
+          units: km
+      - name: Randlett
+        distance:
+          value: 31.49
+          units: km
     - name: Magna
       region: UT
       lat: '40.7634'
       long: "-112.1599"
+      closest_rate_centers:
+      - name: Magna
+        distance:
+          value: 7.44
+          units: km
+      - name: Kearns
+        distance:
+          value: 16.8
+          units: km
+      - name: Salt Lake City
+        distance:
+          value: 23.38
+          units: km
     - name: Manila
       region: UT
       lat: '40.9922'
       long: "-109.7209"
+      closest_rate_centers:
+      - name: Manila
+        distance:
+          value: 0.36
+          units: km
+      - name: Greendale
+        distance:
+          value: 24.28
+          units: km
+      - name: Dutch John
+        distance:
+          value: 28.32
+          units: km
     - name: Manti
       region: UT
       lat: '39.2668'
       long: "-111.6351"
+      closest_rate_centers:
+      - name: Manti
+        distance:
+          value: 0.32
+          units: km
+      - name: Ephraim
+        distance:
+          value: 11.38
+          units: km
+      - name: Gunnison
+        distance:
+          value: 20.24
+          units: km
     - name: Mantua
       region: UT
       lat: '41.5006'
       long: "-111.9344"
+      closest_rate_centers:
+      - name: Brigham City
+        distance:
+          value: 7.37
+          units: km
+      - name: Hyrum
+        distance:
+          value: 17.16
+          units: km
+      - name: Bear River City
+        distance:
+          value: 21.18
+          units: km
     - name: Mapleton
       region: UT
       lat: '40.1188'
       long: "-111.5742"
+      closest_rate_centers:
+      - name: Springville
+        distance:
+          value: 6.41
+          units: km
+      - name: Spanish Fork
+        distance:
+          value: 7.12
+          units: km
+      - name: Spanish Fork Canyon
+        distance:
+          value: 12.01
+          units: km
     - name: Marion
       region: UT
       lat: '40.6810'
       long: "-111.2773"
+      closest_rate_centers:
+      - name: Kamas
+        distance:
+          value: 4.42
+          units: km
+      - name: Jordanelle
+        distance:
+          value: 11.64
+          units: km
+      - name: Park City
+        distance:
+          value: 18.97
+          units: km
     - name: Marriott-Slaterville
       region: UT
       lat: '41.2624'
       long: "-112.0366"
+      closest_rate_centers:
+      - name: Ogden
+        distance:
+          value: 7.29
+          units: km
+      - name: Huntsville
+        distance:
+          value: 7.29
+          units: km
+      - name: Clearfield
+        distance:
+          value: 16.94
+          units: km
+      - name: Kaysville
+        distance:
+          value: 26.68
+          units: km
     - name: Marysvale
       region: UT
       lat: '38.4384'
       long: "-112.2544"
+      closest_rate_centers:
+      - name: Marysvale
+        distance:
+          value: 2.79
+          units: km
+      - name: Circleville
+        distance:
+          value: 22.78
+          units: km
+      - name: Monroe
+        distance:
+          value: 24.6
+          units: km
     - name: Mayfield
       region: UT
       lat: '39.1193'
       long: "-111.7079"
+      closest_rate_centers:
+      - name: Gunnison
+        distance:
+          value: 9.98
+          units: km
+      - name: Manti
+        distance:
+          value: 17.49
+          units: km
+      - name: Salina
+        distance:
+          value: 22.7
+          units: km
     - name: Meadow
       region: UT
       lat: '38.8863'
       long: "-112.4073"
+      closest_rate_centers:
+      - name: Meadow
+        distance:
+          value: 0.32
+          units: km
+      - name: Kanosh
+        distance:
+          value: 10.02
+          units: km
+      - name: Fillmore
+        distance:
+          value: 11.57
+          units: km
     - name: Mendon
       region: UT
       lat: '41.7102'
       long: "-111.9776"
+      closest_rate_centers:
+      - name: Logan
+        distance:
+          value: 12.29
+          units: km
+      - name: Hyrum
+        distance:
+          value: 12.84
+          units: km
+      - name: Tremonton
+        distance:
+          value: 16.48
+          units: km
     - name: Mexican Hat
       region: UT
       lat: '37.1731'
       long: "-109.8730"
+      closest_rate_centers:
+      - name: Mexican Hat
+        distance:
+          value: 2.63
+          units: km
+      - name: Halchita
+        distance:
+          value: 5.0
+          units: km
+      - name: Bluff
+        distance:
+          value: 30.84
+          units: km
     - name: Midvale
       region: UT
       lat: '40.6148'
       long: "-111.8927"
+      closest_rate_centers:
+      - name: Midvale
+        distance:
+          value: 1.52
+          units: km
+      - name: Murray
+        distance:
+          value: 6.07
+          units: km
+      - name: Holladay
+        distance:
+          value: 8.25
+          units: km
     - name: Midway
       region: UT
       lat: '40.5183'
       long: "-111.4746"
+      closest_rate_centers:
+      - name: Heber City
+        distance:
+          value: 4.98
+          units: km
+      - name: Park City
+        distance:
+          value: 14.96
+          units: km
+      - name: Alta
+        distance:
+          value: 16.14
+          units: km
     - name: Milford
       region: UT
       lat: '38.3945'
       long: "-113.0123"
+      closest_rate_centers:
+      - name: Milford
+        distance:
+          value: 0.37
+          units: km
+      - name: Minersville
+        distance:
+          value: 21.03
+          units: km
+      - name: Beaver
+        distance:
+          value: 34.86
+          units: km
     - name: Millcreek
       region: UT
       lat: '40.6892'
       long: "-111.8292"
+      closest_rate_centers:
+      - name: Holladay
+        distance:
+          value: 4.55
+          units: km
+      - name: Murray
+        distance:
+          value: 5.09
+          units: km
+      - name: Salt Lake City
+        distance:
+          value: 8.88
+          units: km
     - name: Millville
       region: UT
       lat: '41.6850'
       long: "-111.8211"
+      closest_rate_centers:
+      - name: Hyrum
+        distance:
+          value: 5.42
+          units: km
+      - name: Logan
+        distance:
+          value: 5.44
+          units: km
+      - name: Smithfield
+        distance:
+          value: 16.43
+          units: km
     - name: Minersville
       region: UT
       lat: '38.2333'
       long: "-112.9602"
+      closest_rate_centers:
+      - name: Minersville
+        distance:
+          value: 3.41
+          units: km
+      - name: Milford
+        distance:
+          value: 18.12
+          units: km
+      - name: Beaver
+        distance:
+          value: 28.05
+          units: km
     - name: Moab
       region: UT
       lat: '38.5701'
       long: "-109.5478"
+      closest_rate_centers:
+      - name: Moab
+        distance:
+          value: 0.47
+          units: km
+      - name: La Sal
+        distance:
+          value: 39.26
+          units: km
+      - name: Thompson
+        distance:
+          value: 46.26
+          units: km
     - name: Modena
       region: UT
       lat: '37.7947'
       long: "-113.9275"
+      closest_rate_centers:
+      - name: Beryl
+        distance:
+          value: 26.76
+          units: km
+      - name: Enterprise (Washington)
+        distance:
+          value: 31.25
+          units: km
+      - name: Cedar City
+        distance:
+          value: 76.46
+          units: km
     - name: Mona
       region: UT
       lat: '39.8121'
       long: "-111.8495"
+      closest_rate_centers:
+      - name: Nephi
+        distance:
+          value: 11.5
+          units: km
+      - name: Goshen
+        distance:
+          value: 16.06
+          units: km
+      - name: Payson
+        distance:
+          value: 27.21
+          units: km
     - name: Monroe
       region: UT
       lat: '38.6230'
       long: "-112.1196"
+      closest_rate_centers:
+      - name: Monroe
+        distance:
+          value: 1.09
+          units: km
+      - name: Richfield
+        distance:
+          value: 16.41
+          units: km
+      - name: Marysvale
+        distance:
+          value: 21.47
+          units: km
     - name: Montezuma Creek
       region: UT
       lat: '37.2563'
       long: "-109.3030"
+      closest_rate_centers:
+      - name: Montezuma Creek-Aneth
+        distance:
+          value: 0.56
+          units: km
+      - name: Bluff
+        distance:
+          value: 22.3
+          units: km
+      - name: Blanding
+        distance:
+          value: 44.14
+          units: km
     - name: Monticello
       region: UT
       lat: '37.8683'
       long: "-109.3380"
+      closest_rate_centers:
+      - name: Monticello
+        distance:
+          value: 0.44
+          units: km
+      - name: Blanding
+        distance:
+          value: 29.94
+          units: km
+      - name: La Sal
+        distance:
+          value: 49.78
+          units: km
     - name: Morgan
       region: UT
       lat: '41.0414'
       long: "-111.6802"
+      closest_rate_centers:
+      - name: Morgan
+        distance:
+          value: 0.26
+          units: km
+      - name: Farmington
+        distance:
+          value: 18.36
+          units: km
+      - name: Kaysville
+        distance:
+          value: 21.25
+          units: km
     - name: Moroni
       region: UT
       lat: '39.5270'
       long: "-111.5830"
+      closest_rate_centers:
+      - name: Moroni
+        distance:
+          value: 0.26
+          units: km
+      - name: Mount Pleasant
+        distance:
+          value: 11.49
+          units: km
+      - name: Fountain Green
+        distance:
+          value: 11.51
+          units: km
     - name: Mount Pleasant
       region: UT
       lat: '39.5406'
       long: "-111.4560"
+      closest_rate_centers:
+      - name: Mount Pleasant
+        distance:
+          value: 1.09
+          units: km
+      - name: Fairview
+        distance:
+          value: 9.78
+          units: km
+      - name: Moroni
+        distance:
+          value: 10.88
+          units: km
     - name: Mountain Green
       region: UT
       lat: '41.1476'
       long: "-111.7901"
+      closest_rate_centers:
+      - name: Morgan
+        distance:
+          value: 14.84
+          units: km
+      - name: Huntsville
+        distance:
+          value: 17.0
+          units: km
+      - name: Ogden
+        distance:
+          value: 17.0
+          units: km
+      - name: Kaysville
+        distance:
+          value: 17.32
+          units: km
     - name: Murray
       region: UT
       lat: '40.6498'
       long: "-111.8874"
+      closest_rate_centers:
+      - name: Murray
+        distance:
+          value: 2.15
+          units: km
+      - name: Midvale
+        distance:
+          value: 4.14
+          units: km
+      - name: Holladay
+        distance:
+          value: 6.71
+          units: km
     - name: Myton
       region: UT
       lat: '40.1933'
       long: "-110.0624"
+      closest_rate_centers:
+      - name: Flattop
+        distance:
+          value: 4.69
+          units: km
+      - name: Roosevelt
+        distance:
+          value: 13.25
+          units: km
+      - name: Randlett
+        distance:
+          value: 24.85
+          units: km
     - name: Naples
       region: UT
       lat: '40.4317'
       long: "-109.4913"
+      closest_rate_centers:
+      - name: Vernal
+        distance:
+          value: 3.93
+          units: km
+      - name: Lapoint
+        distance:
+          value: 27.61
+          units: km
+      - name: Randlett
+        distance:
+          value: 32.75
+          units: km
     - name: Navajo Mountain
       region: UT
       lat: '37.0470'
       long: "-110.7900"
+      closest_rate_centers:
+      - name: Dangling Rope
+        distance:
+          value: 28.61
+          units: km
+      - name: Monument Valley
+        distance:
+          value: 52.03
+          units: km
+      - name: Lake Powell
+        distance:
+          value: 55.8
+          units: km
     - name: Neola
       region: UT
       lat: '40.4343'
       long: "-110.0309"
+      closest_rate_centers:
+      - name: Neola
+        distance:
+          value: 1.52
+          units: km
+      - name: Roosevelt
+        distance:
+          value: 15.28
+          units: km
+      - name: Lapoint
+        distance:
+          value: 18.39
+          units: km
     - name: Nephi
       region: UT
       lat: '39.7069'
       long: "-111.8326"
+      closest_rate_centers:
+      - name: Nephi
+        distance:
+          value: 0.28
+          units: km
+      - name: Fountain Green
+        distance:
+          value: 19.53
+          units: km
+      - name: Goshen
+        distance:
+          value: 27.7
+          units: km
     - name: New Harmony
       region: UT
       lat: '37.4803'
       long: "-113.3096"
+      closest_rate_centers:
+      - name: Cedar City
+        distance:
+          value: 30.85
+          units: km
+      - name: Hurricane
+        distance:
+          value: 34.32
+          units: km
+      - name: Enterprise (Washington)
+        distance:
+          value: 37.38
+          units: km
     - name: Newcastle
       region: UT
       lat: '37.6628'
       long: "-113.5644"
+      closest_rate_centers:
+      - name: Beryl
+        distance:
+          value: 9.01
+          units: km
+      - name: Enterprise (Washington)
+        distance:
+          value: 17.29
+          units: km
+      - name: Cedar City
+        distance:
+          value: 43.59
+          units: km
     - name: Newton
       region: UT
       lat: '41.8612'
       long: "-111.9909"
+      closest_rate_centers:
+      - name: Fielding
+        distance:
+          value: 11.95
+          units: km
+      - name: Smithfield
+        distance:
+          value: 13.27
+          units: km
+      - name: Richmond
+        distance:
+          value: 16.78
+          units: km
     - name: Nibley
       region: UT
       lat: '41.6726'
       long: "-111.8461"
+      closest_rate_centers:
+      - name: Hyrum
+        distance:
+          value: 3.41
+          units: km
+      - name: Logan
+        distance:
+          value: 6.82
+          units: km
+      - name: Smithfield
+        distance:
+          value: 17.78
+          units: km
     - name: North Logan
       region: UT
       lat: '41.7759'
       long: "-111.8066"
+      closest_rate_centers:
+      - name: Logan
+        distance:
+          value: 5.23
+          units: km
+      - name: Smithfield
+        distance:
+          value: 6.72
+          units: km
+      - name: Hyrum
+        distance:
+          value: 15.34
+          units: km
     - name: North Ogden
       region: UT
       lat: '41.3123'
       long: "-111.9584"
+      closest_rate_centers:
+      - name: Huntsville
+        distance:
+          value: 9.9
+          units: km
+      - name: Ogden
+        distance:
+          value: 9.9
+          units: km
+      - name: Brigham City
+        distance:
+          value: 22.6
+          units: km
+      - name: Clearfield
+        distance:
+          value: 23.11
+          units: km
     - name: North Salt Lake
       region: UT
       lat: '40.8439'
       long: "-111.9187"
+      closest_rate_centers:
+      - name: Bountiful
+        distance:
+          value: 5.97
+          units: km
+      - name: Salt Lake City
+        distance:
+          value: 10.01
+          units: km
+      - name: Farmington
+        distance:
+          value: 15.9
+          units: km
     - name: Oak City
       region: UT
       lat: '39.3761'
       long: "-112.3390"
+      closest_rate_centers:
+      - name: Oak City
+        distance:
+          value: 0.08
+          units: km
+      - name: Lynndyl
+        distance:
+          value: 16.01
+          units: km
+      - name: Delta
+        distance:
+          value: 20.7
+          units: km
     - name: Oakley
       region: UT
       lat: '40.7257'
       long: "-111.2788"
+      closest_rate_centers:
+      - name: Kamas
+        distance:
+          value: 9.39
+          units: km
+      - name: Jordanelle
+        distance:
+          value: 13.62
+          units: km
+      - name: Park City
+        distance:
+          value: 20.3
+          units: km
     - name: Oasis
       region: UT
       lat: '39.2923'
       long: "-112.6290"
+      closest_rate_centers:
+      - name: Delta
+        distance:
+          value: 7.72
+          units: km
+      - name: Oak City
+        distance:
+          value: 26.54
+          units: km
+      - name: Lynndyl
+        distance:
+          value: 33.33
+          units: km
     - name: Ogden
       region: UT
       lat: '41.2279'
       long: "-111.9682"
+      closest_rate_centers:
+      - name: Ogden
+        distance:
+          value: 0.51
+          units: km
+      - name: Huntsville
+        distance:
+          value: 0.51
+          units: km
+      - name: Clearfield
+        distance:
+          value: 13.87
+          units: km
+      - name: Kaysville
+        distance:
+          value: 21.61
+          units: km
     - name: Oljato-Monument Valley
       region: UT
       lat: '37.0309'
       long: "-110.2512"
+      closest_rate_centers:
+      - name: Monument Valley
+        distance:
+          value: 4.78
+          units: km
+      - name: Halchita
+        distance:
+          value: 33.45
+          units: km
+      - name: Mexican Hat
+        distance:
+          value: 36.58
+          units: km
     - name: Ophir
       region: UT
       lat: '40.3716'
       long: "-112.2507"
+      closest_rate_centers:
+      - name: Rush Valley
+        distance:
+          value: 18.23
+          units: km
+      - name: Tooele
+        distance:
+          value: 18.56
+          units: km
+      - name: Eagle Mountain
+        distance:
+          value: 34.2
+          units: km
+      - name: Cedar Valley
+        distance:
+          value: 34.2
+          units: km
+      - name: Lehi
+        distance:
+          value: 34.2
+          units: km
     - name: Orangeville
       region: UT
       lat: '39.2309'
       long: "-111.0592"
+      closest_rate_centers:
+      - name: Castle Dale
+        distance:
+          value: 3.52
+          units: km
+      - name: Huntington
+        distance:
+          value: 12.97
+          units: km
+      - name: Ferron
+        distance:
+          value: 16.71
+          units: km
     - name: Orderville
       region: UT
       lat: '37.2540'
       long: "-112.6574"
+      closest_rate_centers:
+      - name: Orderville
+        distance:
+          value: 2.88
+          units: km
+      - name: Hildale
+        distance:
+          value: 24.47
+          units: km
+      - name: Kanab
+        distance:
+          value: 25.05
+          units: km
     - name: Orem
       region: UT
       lat: '40.2981'
       long: "-111.6994"
+      closest_rate_centers:
+      - name: Provo
+        distance:
+          value: 7.67
+          units: km
+      - name: Pleasant Grove
+        distance:
+          value: 8.51
+          units: km
+      - name: American Fork
+        distance:
+          value: 12.29
+          units: km
     - name: Palmyra
       region: UT
       lat: '40.1346'
       long: "-111.6925"
+      closest_rate_centers:
+      - name: Spanish Fork
+        distance:
+          value: 4.22
+          units: km
+      - name: Springville
+        distance:
+          value: 7.5
+          units: km
+      - name: Payson
+        distance:
+          value: 11.08
+          units: km
     - name: Panguitch
       region: UT
       lat: '37.8236'
       long: "-112.4342"
+      closest_rate_centers:
+      - name: Panguitch
+        distance:
+          value: 0.5
+          units: km
+      - name: Hatch
+        distance:
+          value: 0.5
+          units: km
+      - name: Bryce Canyon
+        distance:
+          value: 32.86
+          units: km
+      - name: Parowan
+        distance:
+          value: 35.0
+          units: km
     - name: Paradise
       region: UT
       lat: '41.5683'
       long: "-111.8334"
+      closest_rate_centers:
+      - name: Hyrum
+        distance:
+          value: 8.38
+          units: km
+      - name: Brigham City
+        distance:
+          value: 16.99
+          units: km
+      - name: Logan
+        distance:
+          value: 18.33
+          units: km
     - name: Paragonah
       region: UT
       lat: '37.8853'
       long: "-112.7707"
+      closest_rate_centers:
+      - name: Parowan
+        distance:
+          value: 7.35
+          units: km
+      - name: Brian Head
+        distance:
+          value: 21.97
+          units: km
+      - name: Panguitch
+        distance:
+          value: 29.85
+          units: km
+      - name: Hatch
+        distance:
+          value: 29.85
+          units: km
     - name: Park City
       region: UT
       lat: '40.6502'
       long: "-111.5013"
+      closest_rate_centers:
+      - name: Park City
+        distance:
+          value: 0.25
+          units: km
+      - name: Jordanelle
+        distance:
+          value: 7.63
+          units: km
+      - name: Alta
+        distance:
+          value: 13.46
+          units: km
     - name: Parowan
       region: UT
       lat: '37.8326'
       long: "-112.8296"
+      closest_rate_centers:
+      - name: Parowan
+        distance:
+          value: 0.89
+          units: km
+      - name: Brian Head
+        distance:
+          value: 15.14
+          units: km
+      - name: Cedar City
+        distance:
+          value: 26.92
+          units: km
     - name: Payson
       region: UT
       lat: '40.0355'
       long: "-111.7390"
+      closest_rate_centers:
+      - name: Payson
+        distance:
+          value: 0.88
+          units: km
+      - name: Spanish Fork
+        distance:
+          value: 10.7
+          units: km
+      - name: Goshen
+        distance:
+          value: 17.53
+          units: km
     - name: Peoa
       region: UT
       lat: '40.7295'
       long: "-111.3434"
+      closest_rate_centers:
+      - name: Jordanelle
+        distance:
+          value: 10.01
+          units: km
+      - name: Kamas
+        distance:
+          value: 11.46
+          units: km
+      - name: Park City
+        distance:
+          value: 15.71
+          units: km
     - name: Perry
       region: UT
       lat: '41.4648'
       long: "-112.0401"
+      closest_rate_centers:
+      - name: Brigham City
+        distance:
+          value: 5.23
+          units: km
+      - name: Bear River City
+        distance:
+          value: 18.73
+          units: km
+      - name: Hyrum
+        distance:
+          value: 25.16
+          units: km
     - name: Peter
       region: UT
       lat: '41.7716'
       long: "-111.9859"
+      closest_rate_centers:
+      - name: Fielding
+        distance:
+          value: 12.42
+          units: km
+      - name: Logan
+        distance:
+          value: 13.41
+          units: km
+      - name: Smithfield
+        distance:
+          value: 14.18
+          units: km
     - name: Pine Valley
       region: UT
       lat: '37.3904'
       long: "-113.5061"
+      closest_rate_centers:
+      - name: Enterprise (Washington)
+        distance:
+          value: 27.19
+          units: km
+      - name: Hurricane
+        distance:
+          value: 31.35
+          units: km
+      - name: Veyo
+        distance:
+          value: 32.01
+          units: km
+      - name: St George
+        distance:
+          value: 32.01
+          units: km
+      - name: Leeds
+        distance:
+          value: 32.01
+          units: km
     - name: Plain City
       region: UT
       lat: '41.3071'
       long: "-112.0877"
+      closest_rate_centers:
+      - name: Huntsville
+        distance:
+          value: 13.75
+          units: km
+      - name: Ogden
+        distance:
+          value: 13.75
+          units: km
+      - name: Clearfield
+        distance:
+          value: 22.52
+          units: km
+      - name: Brigham City
+        distance:
+          value: 23.2
+          units: km
     - name: Pleasant Grove
       region: UT
       lat: '40.3716'
       long: "-111.7412"
+      closest_rate_centers:
+      - name: Pleasant Grove
+        distance:
+          value: 0.46
+          units: km
+      - name: American Fork
+        distance:
+          value: 5.05
+          units: km
+      - name: Eagle Mountain
+        distance:
+          value: 9.12
+          units: km
+      - name: Lehi
+        distance:
+          value: 9.12
+          units: km
+      - name: Cedar Valley
+        distance:
+          value: 9.12
+          units: km
     - name: Pleasant View
       region: UT
       lat: '41.3249'
       long: "-112.0011"
+      closest_rate_centers:
+      - name: Huntsville
+        distance:
+          value: 11.65
+          units: km
+      - name: Ogden
+        distance:
+          value: 11.65
+          units: km
+      - name: Brigham City
+        distance:
+          value: 20.64
+          units: km
+      - name: Clearfield
+        distance:
+          value: 23.93
+          units: km
     - name: Plymouth
       region: UT
       lat: '41.8734'
       long: "-112.1454"
+      closest_rate_centers:
+      - name: Fielding
+        distance:
+          value: 6.51
+          units: km
+      - name: Portage
+        distance:
+          value: 13.61
+          units: km
+      - name: Tremonton
+        distance:
+          value: 17.48
+          units: km
     - name: Portage
       region: UT
       lat: '41.9756'
       long: "-112.2405"
+      closest_rate_centers:
+      - name: Portage
+        distance:
+          value: 0.47
+          units: km
+      - name: Fielding
+        distance:
+          value: 20.12
+          units: km
+      - name: Howell
+        distance:
+          value: 25.9
+          units: km
     - name: Price
       region: UT
       lat: '39.6040'
       long: "-110.8003"
+      closest_rate_centers:
+      - name: Price
+        distance:
+          value: 0.82
+          units: km
+      - name: Helper
+        distance:
+          value: 10.0
+          units: km
+      - name: Cleveland
+        distance:
+          value: 29.7
+          units: km
     - name: Providence
       region: UT
       lat: '41.7035'
       long: "-111.8123"
+      closest_rate_centers:
+      - name: Logan
+        distance:
+          value: 3.7
+          units: km
+      - name: Hyrum
+        distance:
+          value: 7.59
+          units: km
+      - name: Smithfield
+        distance:
+          value: 14.45
+          units: km
     - name: Provo
       region: UT
       lat: '40.2457'
       long: "-111.6457"
+      closest_rate_centers:
+      - name: Provo
+        distance:
+          value: 2.49
+          units: km
+      - name: Springville
+        distance:
+          value: 9.11
+          units: km
+      - name: Spanish Fork
+        distance:
+          value: 15.31
+          units: km
     - name: Randlett
       region: UT
       lat: '40.2267'
       long: "-109.8308"
+      closest_rate_centers:
+      - name: Randlett
+        distance:
+          value: 4.85
+          units: km
+      - name: Roosevelt
+        distance:
+          value: 15.99
+          units: km
+      - name: Lapoint
+        distance:
+          value: 20.35
+          units: km
     - name: Randolph
       region: UT
       lat: '41.6655'
       long: "-111.1846"
+      closest_rate_centers:
+      - name: Randolph
+        distance:
+          value: 0.43
+          units: km
+      - name: Garden City
+        distance:
+          value: 35.82
+          units: km
+      - name: Wasatch
+        distance:
+          value: 51.28
+          units: km
     - name: Redmond
       region: UT
       lat: '39.0057'
       long: "-111.8670"
+      closest_rate_centers:
+      - name: Salina
+        distance:
+          value: 6.25
+          units: km
+      - name: Gunnison
+        distance:
+          value: 16.72
+          units: km
+      - name: Richfield
+        distance:
+          value: 32.34
+          units: km
     - name: Richfield
       region: UT
       lat: '38.7613'
       long: "-112.0931"
+      closest_rate_centers:
+      - name: Richfield
+        distance:
+          value: 1.22
+          units: km
+      - name: Monroe
+        distance:
+          value: 14.47
+          units: km
+      - name: Salina
+        distance:
+          value: 29.42
+          units: km
     - name: Richmond
       region: UT
       lat: '41.9231'
       long: "-111.8076"
+      closest_rate_centers:
+      - name: Richmond
+        distance:
+          value: 0.4
+          units: km
+      - name: Smithfield
+        distance:
+          value: 10.35
+          units: km
+      - name: Logan
+        distance:
+          value: 21.23
+          units: km
     - name: River Heights
       region: UT
       lat: '41.7221'
       long: "-111.8193"
+      closest_rate_centers:
+      - name: Logan
+        distance:
+          value: 1.66
+          units: km
+      - name: Hyrum
+        distance:
+          value: 9.3
+          units: km
+      - name: Smithfield
+        distance:
+          value: 12.33
+          units: km
     - name: Riverdale
       region: UT
       lat: '41.1732'
       long: "-112.0023"
+      closest_rate_centers:
+      - name: Ogden
+        distance:
+          value: 6.34
+          units: km
+      - name: Huntsville
+        distance:
+          value: 6.34
+          units: km
+      - name: Clearfield
+        distance:
+          value: 7.21
+          units: km
+      - name: Kaysville
+        distance:
+          value: 16.38
+          units: km
     - name: Riverside
       region: UT
       lat: '41.8106'
       long: "-112.1403"
+      closest_rate_centers:
+      - name: Fielding
+        distance:
+          value: 1.65
+          units: km
+      - name: Tremonton
+        distance:
+          value: 10.73
+          units: km
+      - name: Thatcher
+        distance:
+          value: 18.92
+          units: km
     - name: Riverton
       region: UT
       lat: '40.5176'
       long: "-111.9636"
+      closest_rate_centers:
+      - name: Midvale
+        distance:
+          value: 11.92
+          units: km
+      - name: Kearns
+        distance:
+          value: 16.91
+          units: km
+      - name: Cedar Valley
+        distance:
+          value: 17.7
+          units: km
+      - name: Lehi
+        distance:
+          value: 17.7
+          units: km
+      - name: Eagle Mountain
+        distance:
+          value: 17.7
+          units: km
     - name: Rockville
       region: UT
       lat: '37.1478'
       long: "-113.0548"
+      closest_rate_centers:
+      - name: Springdale
+        distance:
+          value: 6.86
+          units: km
+      - name: Apple Valley
+        distance:
+          value: 7.05
+          units: km
+      - name: Hildale
+        distance:
+          value: 13.06
+          units: km
     - name: Rocky Ridge
       region: UT
       lat: '39.9197'
       long: "-111.8258"
+      closest_rate_centers:
+      - name: Goshen
+        distance:
+          value: 7.93
+          units: km
+      - name: Payson
+        distance:
+          value: 15.4
+          units: km
+      - name: Nephi
+        distance:
+          value: 23.38
+          units: km
     - name: Roosevelt
       region: UT
       lat: '40.2924'
       long: "-110.0093"
+      closest_rate_centers:
+      - name: Roosevelt
+        distance:
+          value: 1.63
+          units: km
+      - name: Flattop
+        distance:
+          value: 11.3
+          units: km
+      - name: Neola
+        distance:
+          value: 15.49
+          units: km
     - name: Roy
       region: UT
       lat: '41.1714'
       long: "-112.0485"
+      closest_rate_centers:
+      - name: Clearfield
+        distance:
+          value: 7.1
+          units: km
+      - name: Ogden
+        distance:
+          value: 8.97
+          units: km
+      - name: Huntsville
+        distance:
+          value: 8.97
+          units: km
+      - name: Kaysville
+        distance:
+          value: 17.94
+          units: km
     - name: Rush Valley
       region: UT
       lat: '40.3613'
       long: "-112.4506"
+      closest_rate_centers:
+      - name: Rush Valley
+        distance:
+          value: 3.49
+          units: km
+      - name: Tooele
+        distance:
+          value: 23.22
+          units: km
+      - name: Vernon
+        distance:
+          value: 29.19
+          units: km
     - name: Salem
       region: UT
       lat: '40.0539'
       long: "-111.6718"
+      closest_rate_centers:
+      - name: Spanish Fork
+        distance:
+          value: 6.18
+          units: km
+      - name: Payson
+        distance:
+          value: 6.19
+          units: km
+      - name: Springville
+        distance:
+          value: 13.48
+          units: km
     - name: Salina
       region: UT
       lat: '38.9387'
       long: "-111.8652"
+      closest_rate_centers:
+      - name: Salina
+        distance:
+          value: 1.54
+          units: km
+      - name: Gunnison
+        distance:
+          value: 23.96
+          units: km
+      - name: Richfield
+        distance:
+          value: 26.7
+          units: km
     - name: Salt Lake City
       region: UT
       lat: '40.7776'
       long: "-111.9311"
+      closest_rate_centers:
+      - name: Salt Lake City
+        distance:
+          value: 4.64
+          units: km
+      - name: Murray
+        distance:
+          value: 12.74
+          units: km
+      - name: Bountiful
+        distance:
+          value: 13.15
+          units: km
     - name: Samak
       region: UT
       lat: '40.6389'
       long: "-111.2413"
+      closest_rate_centers:
+      - name: Kamas
+        distance:
+          value: 2.69
+          units: km
+      - name: Jordanelle
+        distance:
+          value: 14.45
+          units: km
+      - name: Timber Lakes
+        distance:
+          value: 16.69
+          units: km
     - name: Sandy
       region: UT
       lat: '40.5709'
       long: "-111.8506"
+      closest_rate_centers:
+      - name: Midvale
+        distance:
+          value: 7.19
+          units: km
+      - name: Holladay
+        distance:
+          value: 9.68
+          units: km
+      - name: Murray
+        distance:
+          value: 11.24
+          units: km
     - name: Santa Clara
       region: UT
       lat: '37.1312'
       long: "-113.6560"
+      closest_rate_centers:
+      - name: Veyo
+        distance:
+          value: 6.77
+          units: km
+      - name: Leeds
+        distance:
+          value: 6.77
+          units: km
+      - name: St George
+        distance:
+          value: 6.77
+          units: km
+      - name: Hurricane
+        distance:
+          value: 33.53
+          units: km
+      - name: Apple Valley
+        distance:
+          value: 47.06
+          units: km
     - name: Santaquin
       region: UT
       lat: '39.9708'
       long: "-111.7941"
+      closest_rate_centers:
+      - name: Payson
+        distance:
+          value: 9.11
+          units: km
+      - name: Goshen
+        distance:
+          value: 10.24
+          units: km
+      - name: Spanish Fork
+        distance:
+          value: 19.24
+          units: km
     - name: Saratoga Springs
       region: UT
       lat: '40.3450'
       long: "-111.9154"
+      closest_rate_centers:
+      - name: Cedar Valley
+        distance:
+          value: 7.3
+          units: km
+      - name: Lehi
+        distance:
+          value: 7.3
+          units: km
+      - name: Eagle Mountain
+        distance:
+          value: 7.3
+          units: km
+      - name: American Fork
+        distance:
+          value: 10.39
+          units: km
+      - name: Pleasant Grove
+        distance:
+          value: 14.93
+          units: km
     - name: Scipio
       region: UT
       lat: '39.2490'
       long: "-112.1045"
+      closest_rate_centers:
+      - name: Scipio
+        distance:
+          value: 0.98
+          units: km
+      - name: Holden
+        distance:
+          value: 22.11
+          units: km
+      - name: Oak City
+        distance:
+          value: 24.67
+          units: km
     - name: Scofield
       region: UT
       lat: '39.7198'
       long: "-111.1623"
+      closest_rate_centers:
+      - name: Scofield
+        distance:
+          value: 0.71
+          units: km
+      - name: Fairview
+        distance:
+          value: 25.17
+          units: km
+      - name: Soldier Summit
+        distance:
+          value: 25.78
+          units: km
     - name: Sigurd
       region: UT
       lat: '38.8494'
       long: "-111.9680"
+      closest_rate_centers:
+      - name: Richfield
+        distance:
+          value: 13.4
+          units: km
+      - name: Salina
+        distance:
+          value: 14.86
+          units: km
+      - name: Monroe
+        distance:
+          value: 27.43
+          units: km
     - name: Silver Summit
       region: UT
       lat: '40.7489'
       long: "-111.5140"
+      closest_rate_centers:
+      - name: Park City
+        distance:
+          value: 10.9
+          units: km
+      - name: Jordanelle
+        distance:
+          value: 13.53
+          units: km
+      - name: Alta
+        distance:
+          value: 20.57
+          units: km
     - name: Smithfield
       region: UT
       lat: '41.8349'
       long: "-111.8265"
+      closest_rate_centers:
+      - name: Smithfield
+        distance:
+          value: 0.8
+          units: km
+      - name: Richmond
+        distance:
+          value: 10.32
+          units: km
+      - name: Logan
+        distance:
+          value: 11.33
+          units: km
     - name: Snowville
       region: UT
       lat: '41.9728'
       long: "-112.7164"
+      closest_rate_centers:
+      - name: Snowville
+        distance:
+          value: 0.69
+          units: km
+      - name: Howell
+        distance:
+          value: 29.93
+          units: km
+      - name: Portage
+        distance:
+          value: 39.81
+          units: km
     - name: Snyderville
       region: UT
       lat: '40.7041'
       long: "-111.5434"
+      closest_rate_centers:
+      - name: Park City
+        distance:
+          value: 6.94
+          units: km
+      - name: Jordanelle
+        distance:
+          value: 12.39
+          units: km
+      - name: Alta
+        distance:
+          value: 15.03
+          units: km
     - name: South Jordan
       region: UT
       lat: '40.5570'
       long: "-111.9784"
+      closest_rate_centers:
+      - name: Midvale
+        distance:
+          value: 8.79
+          units: km
+      - name: Kearns
+        distance:
+          value: 12.36
+          units: km
+      - name: Murray
+        distance:
+          value: 14.81
+          units: km
     - name: South Ogden
       region: UT
       lat: '41.1722'
       long: "-111.9576"
+      closest_rate_centers:
+      - name: Ogden
+        distance:
+          value: 5.75
+          units: km
+      - name: Huntsville
+        distance:
+          value: 5.75
+          units: km
+      - name: Clearfield
+        distance:
+          value: 8.82
+          units: km
+      - name: Kaysville
+        distance:
+          value: 15.35
+          units: km
     - name: South Salt Lake
       region: UT
       lat: '40.7057'
       long: "-111.8986"
+      closest_rate_centers:
+      - name: Murray
+        distance:
+          value: 4.29
+          units: km
+      - name: Salt Lake City
+        distance:
+          value: 5.99
+          units: km
+      - name: Holladay
+        distance:
+          value: 9.73
+          units: km
     - name: South Weber
       region: UT
       lat: '41.1334'
       long: "-111.9393"
+      closest_rate_centers:
+      - name: Clearfield
+        distance:
+          value: 7.51
+          units: km
+      - name: Ogden
+        distance:
+          value: 10.27
+          units: km
+      - name: Huntsville
+        distance:
+          value: 10.27
+          units: km
+      - name: Kaysville
+        distance:
+          value: 10.91
+          units: km
     - name: South Willard
       region: UT
       lat: '41.3583'
       long: "-112.0408"
+      closest_rate_centers:
+      - name: Ogden
+        distance:
+          value: 16.23
+          units: km
+      - name: Huntsville
+        distance:
+          value: 16.23
+          units: km
+      - name: Brigham City
+        distance:
+          value: 16.93
+          units: km
+      - name: Clearfield
+        distance:
+          value: 27.6
+          units: km
     - name: Spanish Fork
       region: UT
       lat: '40.1101'
       long: "-111.6405"
+      closest_rate_centers:
+      - name: Spanish Fork
+        distance:
+          value: 1.4
+          units: km
+      - name: Springville
+        distance:
+          value: 6.7
+          units: km
+      - name: Payson
+        distance:
+          value: 11.5
+          units: km
     - name: Spanish Valley
       region: UT
       lat: '38.4743'
       long: "-109.4210"
+      closest_rate_centers:
+      - name: Moab
+        distance:
+          value: 15.4
+          units: km
+      - name: La Sal
+        distance:
+          value: 23.97
+          units: km
+      - name: Thompson
+        distance:
+          value: 60.2
+          units: km
     - name: Spring City
       region: UT
       lat: '39.4799'
       long: "-111.4918"
+      closest_rate_centers:
+      - name: Mount Pleasant
+        distance:
+          value: 8.49
+          units: km
+      - name: Moroni
+        distance:
+          value: 9.17
+          units: km
+      - name: Ephraim
+        distance:
+          value: 15.36
+          units: km
     - name: Spring Glen
       region: UT
       lat: '39.6561'
       long: "-110.8461"
+      closest_rate_centers:
+      - name: Helper
+        distance:
+          value: 3.23
+          units: km
+      - name: Price
+        distance:
+          value: 6.82
+          units: km
+      - name: Scofield
+        distance:
+          value: 27.69
+          units: km
     - name: Spring Lake
       region: UT
       lat: '40.0060'
       long: "-111.7503"
+      closest_rate_centers:
+      - name: Payson
+        distance:
+          value: 4.14
+          units: km
+      - name: Spanish Fork
+        distance:
+          value: 13.88
+          units: km
+      - name: Goshen
+        distance:
+          value: 15.09
+          units: km
     - name: Springdale
       region: UT
       lat: '37.1816'
       long: "-113.0049"
+      closest_rate_centers:
+      - name: Springdale
+        distance:
+          value: 1.19
+          units: km
+      - name: Hildale
+        distance:
+          value: 8.81
+          units: km
+      - name: Apple Valley
+        distance:
+          value: 12.78
+          units: km
     - name: Springville
       region: UT
       lat: '40.1638'
       long: "-111.6205"
+      closest_rate_centers:
+      - name: Springville
+        distance:
+          value: 0.58
+          units: km
+      - name: Spanish Fork
+        distance:
+          value: 6.9
+          units: km
+      - name: Provo
+        distance:
+          value: 8.76
+          units: km
     - name: St. George
       region: UT
       lat: '37.0758'
       long: "-113.5752"
+      closest_rate_centers:
+      - name: Veyo
+        distance:
+          value: 3.83
+          units: km
+      - name: St George
+        distance:
+          value: 3.83
+          units: km
+      - name: Leeds
+        distance:
+          value: 3.83
+          units: km
+      - name: Hurricane
+        distance:
+          value: 28.2
+          units: km
+      - name: Apple Valley
+        distance:
+          value: 40.17
+          units: km
     - name: Stansbury Park
       region: UT
       lat: '40.6356'
       long: "-112.3054"
+      closest_rate_centers:
+      - name: Tooele
+        distance:
+          value: 11.25
+          units: km
+      - name: Magna
+        distance:
+          value: 18.74
+          units: km
+      - name: Kearns
+        distance:
+          value: 25.34
+          units: km
     - name: Sterling
       region: UT
       lat: '39.1934'
       long: "-111.6904"
+      closest_rate_centers:
+      - name: Manti
+        distance:
+          value: 9.43
+          units: km
+      - name: Gunnison
+        distance:
+          value: 11.83
+          units: km
+      - name: Ephraim
+        distance:
+          value: 20.8
+          units: km
     - name: Stockton
       region: UT
       lat: '40.4496'
       long: "-112.3672"
+      closest_rate_centers:
+      - name: Tooele
+        distance:
+          value: 11.14
+          units: km
+      - name: Rush Valley
+        distance:
+          value: 15.35
+          units: km
+      - name: Magna
+        distance:
+          value: 36.42
+          units: km
     - name: Summit
       region: UT
       lat: '37.8013'
       long: "-112.9350"
+      closest_rate_centers:
+      - name: Parowan
+        distance:
+          value: 10.02
+          units: km
+      - name: Brian Head
+        distance:
+          value: 13.92
+          units: km
+      - name: Cedar City
+        distance:
+          value: 17.75
+          units: km
     - name: Summit Park
       region: UT
       lat: '40.7423'
       long: "-111.5872"
+      closest_rate_centers:
+      - name: Park City
+        distance:
+          value: 12.54
+          units: km
+      - name: Alta
+        distance:
+          value: 17.45
+          units: km
+      - name: Jordanelle
+        distance:
+          value: 17.7
+          units: km
     - name: Sundance
       region: UT
       lat: '40.3937'
       long: "-111.5913"
+      closest_rate_centers:
+      - name: Pleasant Grove
+        distance:
+          value: 13.07
+          units: km
+      - name: American Fork
+        distance:
+          value: 17.8
+          units: km
+      - name: Provo
+        distance:
+          value: 19.07
+          units: km
     - name: Sunset
       region: UT
       lat: '41.1392'
       long: "-112.0285"
+      closest_rate_centers:
+      - name: Clearfield
+        distance:
+          value: 3.23
+          units: km
+      - name: Ogden
+        distance:
+          value: 10.71
+          units: km
+      - name: Huntsville
+        distance:
+          value: 10.71
+          units: km
+      - name: Kaysville
+        distance:
+          value: 14.03
+          units: km
     - name: Sutherland
       region: UT
       lat: '39.3896'
       long: "-112.6399"
+      closest_rate_centers:
+      - name: Delta
+        distance:
+          value: 7.02
+          units: km
+      - name: Oak City
+        distance:
+          value: 25.83
+          units: km
+      - name: Lynndyl
+        distance:
+          value: 26.96
+          units: km
     - name: Syracuse
       region: UT
       lat: '41.0859'
       long: "-112.0698"
+      closest_rate_centers:
+      - name: Clearfield
+        distance:
+          value: 4.73
+          units: km
+      - name: Kaysville
+        distance:
+          value: 12.74
+          units: km
+      - name: Ogden
+        distance:
+          value: 17.57
+          units: km
+      - name: Huntsville
+        distance:
+          value: 17.57
+          units: km
     - name: Tabiona
       region: UT
       lat: '40.3544'
       long: "-110.7096"
+      closest_rate_centers:
+      - name: Tabiona
+        distance:
+          value: 0.43
+          units: km
+      - name: Fruitland
+        distance:
+          value: 18.2
+          units: km
+      - name: Duchesne
+        distance:
+          value: 33.71
+          units: km
     - name: Taylorsville
       region: UT
       lat: '40.6569'
       long: "-111.9493"
+      closest_rate_centers:
+      - name: Kearns
+        distance:
+          value: 5.02
+          units: km
+      - name: Midvale
+        distance:
+          value: 5.52
+          units: km
+      - name: Murray
+        distance:
+          value: 5.73
+          units: km
     - name: Teasdale
       region: UT
       lat: '38.2851'
       long: "-111.4724"
+      closest_rate_centers:
+      - name: Bicknell
+        distance:
+          value: 9.14
+          units: km
+      - name: Loa
+        distance:
+          value: 19.38
+          units: km
+      - name: Cainville
+        distance:
+          value: 39.81
+          units: km
     - name: Thatcher
       region: UT
       lat: '41.6815'
       long: "-112.3201"
+      closest_rate_centers:
+      - name: Thatcher
+        distance:
+          value: 1.8
+          units: km
+      - name: Tremonton
+        distance:
+          value: 12.63
+          units: km
+      - name: Howell
+        distance:
+          value: 16.4
+          units: km
     - name: Thompson Springs
       region: UT
       lat: '38.9636'
       long: "-109.7037"
+      closest_rate_centers:
+      - name: Thompson
+        distance:
+          value: 0.64
+          units: km
+      - name: Green River
+        distance:
+          value: 39.33
+          units: km
+      - name: Moab
+        distance:
+          value: 45.52
+          units: km
     - name: Timber Lakes
       region: UT
       lat: '40.4733'
       long: "-111.2533"
+      closest_rate_centers:
+      - name: Timber Lakes
+        distance:
+          value: 3.51
+          units: km
+      - name: Heber City
+        distance:
+          value: 14.42
+          units: km
+      - name: Kamas
+        distance:
+          value: 18.76
+          units: km
     - name: Tooele
       region: UT
       lat: '40.5393'
       long: "-112.3082"
+      closest_rate_centers:
+      - name: Tooele
+        distance:
+          value: 1.04
+          units: km
+      - name: Magna
+        distance:
+          value: 25.54
+          units: km
+      - name: Rush Valley
+        distance:
+          value: 26.49
+          units: km
     - name: Toquerville
       region: UT
       lat: '37.2666'
       long: "-113.2951"
+      closest_rate_centers:
+      - name: Hurricane
+        distance:
+          value: 10.54
+          units: km
+      - name: Apple Valley
+        distance:
+          value: 22.29
+          units: km
+      - name: Springdale
+        distance:
+          value: 27.39
+          units: km
     - name: Torrey
       region: UT
       lat: '38.3078'
       long: "-111.4269"
+      closest_rate_centers:
+      - name: Bicknell
+        distance:
+          value: 11.31
+          units: km
+      - name: Loa
+        distance:
+          value: 21.21
+          units: km
+      - name: Cainville
+        distance:
+          value: 35.6
+          units: km
     - name: Tremonton
       region: UT
       lat: '41.7187'
       long: "-112.1890"
+      closest_rate_centers:
+      - name: Tremonton
+        distance:
+          value: 1.09
+          units: km
+      - name: Thatcher
+        distance:
+          value: 9.92
+          units: km
+      - name: Bear River City
+        distance:
+          value: 12.11
+          units: km
     - name: Trenton
       region: UT
       lat: '41.9116'
       long: "-111.9356"
+      closest_rate_centers:
+      - name: Richmond
+        distance:
+          value: 10.67
+          units: km
+      - name: Smithfield
+        distance:
+          value: 12.1
+          units: km
+      - name: Fielding
+        distance:
+          value: 18.69
+          units: km
     - name: Tropic
       region: UT
       lat: '37.6294'
       long: "-112.0913"
+      closest_rate_centers:
+      - name: Cannonville
+        distance:
+          value: 1.54
+          units: km
+      - name: Bryce Canyon
+        distance:
+          value: 6.6
+          units: km
+      - name: Panguitch
+        distance:
+          value: 37.59
+          units: km
+      - name: Hatch
+        distance:
+          value: 37.59
+          units: km
     - name: Tselakai Dezza
       region: UT
       lat: '37.2100'
       long: "-109.6090"
+      closest_rate_centers:
+      - name: Bluff
+        distance:
+          value: 9.47
+          units: km
+      - name: Mexican Hat
+        distance:
+          value: 23.79
+          units: km
+      - name: Halchita
+        distance:
+          value: 26.87
+          units: km
     - name: Uintah
       region: UT
       lat: '41.1428'
       long: "-111.9334"
+      closest_rate_centers:
+      - name: Clearfield
+        distance:
+          value: 8.37
+          units: km
+      - name: Ogden
+        distance:
+          value: 9.39
+          units: km
+      - name: Huntsville
+        distance:
+          value: 9.39
+          units: km
+      - name: Kaysville
+        distance:
+          value: 11.95
+          units: km
     - name: Vernal
       region: UT
       lat: '40.4517'
       long: "-109.5378"
+      closest_rate_centers:
+      - name: Vernal
+        distance:
+          value: 0.64
+          units: km
+      - name: Lapoint
+        distance:
+          value: 24.02
+          units: km
+      - name: Randlett
+        distance:
+          value: 31.68
+          units: km
     - name: Vernon
       region: UT
       lat: '40.0956'
       long: "-112.4458"
+      closest_rate_centers:
+      - name: Vernon
+        distance:
+          value: 0.48
+          units: km
+      - name: Rush Valley
+        distance:
+          value: 26.15
+          units: km
+      - name: Dugway
+        distance:
+          value: 28.51
+          units: km
     - name: Veyo
       region: UT
       lat: '37.3375'
       long: "-113.6931"
+      closest_rate_centers:
+      - name: Enterprise (Washington)
+        distance:
+          value: 25.63
+          units: km
+      - name: Veyo
+        distance:
+          value: 27.11
+          units: km
+      - name: Leeds
+        distance:
+          value: 27.11
+          units: km
+      - name: St George
+        distance:
+          value: 27.11
+          units: km
+      - name: Hurricane
+        distance:
+          value: 40.81
+          units: km
     - name: Vineyard
       region: UT
       lat: '40.3059'
       long: "-111.7545"
+      closest_rate_centers:
+      - name: Pleasant Grove
+        distance:
+          value: 6.94
+          units: km
+      - name: American Fork
+        distance:
+          value: 8.85
+          units: km
+      - name: Provo
+        distance:
+          value: 10.83
+          units: km
     - name: Virgin
       region: UT
       lat: '37.1979'
       long: "-113.2071"
+      closest_rate_centers:
+      - name: Hurricane
+        distance:
+          value: 7.15
+          units: km
+      - name: Apple Valley
+        distance:
+          value: 11.41
+          units: km
+      - name: Springdale
+        distance:
+          value: 18.32
+          units: km
     - name: Wales
       region: UT
       lat: '39.4851'
       long: "-111.6361"
+      closest_rate_centers:
+      - name: Moroni
+        distance:
+          value: 6.48
+          units: km
+      - name: Ephraim
+        distance:
+          value: 14.71
+          units: km
+      - name: Fountain Green
+        distance:
+          value: 15.38
+          units: km
     - name: Wallsburg
       region: UT
       lat: '40.3869'
       long: "-111.4194"
+      closest_rate_centers:
+      - name: Heber City
+        distance:
+          value: 13.73
+          units: km
+      - name: Timber Lakes
+        distance:
+          value: 16.3
+          units: km
+      - name: Provo
+        distance:
+          value: 27.28
+          units: km
     - name: Wanship
       region: UT
       lat: '40.8167'
       long: "-111.4151"
+      closest_rate_centers:
+      - name: Coalville
+        distance:
+          value: 11.23
+          units: km
+      - name: Jordanelle
+        distance:
+          value: 17.93
+          units: km
+      - name: Park City
+        distance:
+          value: 19.67
+          units: km
     - name: Washington
       region: UT
       lat: '37.1303'
       long: "-113.4878"
+      closest_rate_centers:
+      - name: Veyo
+        distance:
+          value: 8.9
+          units: km
+      - name: Leeds
+        distance:
+          value: 8.9
+          units: km
+      - name: St George
+        distance:
+          value: 8.9
+          units: km
+      - name: Hurricane
+        distance:
+          value: 18.9
+          units: km
+      - name: Apple Valley
+        distance:
+          value: 32.15
+          units: km
     - name: Washington Terrace
       region: UT
       lat: '41.1683'
       long: "-111.9783"
+      closest_rate_centers:
+      - name: Ogden
+        distance:
+          value: 6.21
+          units: km
+      - name: Huntsville
+        distance:
+          value: 6.21
+          units: km
+      - name: Clearfield
+        distance:
+          value: 7.48
+          units: km
+      - name: Kaysville
+        distance:
+          value: 15.25
+          units: km
     - name: Wellington
       region: UT
       lat: '39.5358'
       long: "-110.7344"
+      closest_rate_centers:
+      - name: Price
+        distance:
+          value: 9.75
+          units: km
+      - name: Helper
+        distance:
+          value: 19.37
+          units: km
+      - name: Cleveland
+        distance:
+          value: 24.0
+          units: km
     - name: Wellsville
       region: UT
       lat: '41.6223'
       long: "-111.9430"
+      closest_rate_centers:
+      - name: Hyrum
+        distance:
+          value: 7.83
+          units: km
+      - name: Brigham City
+        distance:
+          value: 14.12
+          units: km
+      - name: Logan
+        distance:
+          value: 15.35
+          units: km
     - name: Wendover
       region: UT
       lat: '40.7241'
       long: "-114.0250"
+      closest_rate_centers:
+      - name: Wendover
+        distance:
+          value: 1.76
+          units: km
+      - name: Ibapah
+        distance:
+          value: 81.37
+          units: km
+      - name: Grouse Creek
+        distance:
+          value: 110.68
+          units: km
     - name: West Bountiful
       region: UT
       lat: '40.8984'
       long: "-111.9082"
+      closest_rate_centers:
+      - name: Bountiful
+        distance:
+          value: 2.41
+          units: km
+      - name: Farmington
+        distance:
+          value: 9.78
+          units: km
+      - name: Kaysville
+        distance:
+          value: 15.38
+          units: km
     - name: West Haven
       region: UT
       lat: '41.2083'
       long: "-112.0541"
+      closest_rate_centers:
+      - name: Ogden
+        distance:
+          value: 7.52
+          units: km
+      - name: Huntsville
+        distance:
+          value: 7.52
+          units: km
+      - name: Clearfield
+        distance:
+          value: 11.18
+          units: km
+      - name: Kaysville
+        distance:
+          value: 21.73
+          units: km
     - name: West Jordan
       region: UT
       lat: '40.6024'
       long: "-112.0008"
+      closest_rate_centers:
+      - name: Kearns
+        distance:
+          value: 7.09
+          units: km
+      - name: Midvale
+        distance:
+          value: 7.8
+          units: km
+      - name: Murray
+        distance:
+          value: 12.37
+          units: km
     - name: West Mountain
       region: UT
       lat: '40.0510'
       long: "-111.7850"
+      closest_rate_centers:
+      - name: Payson
+        distance:
+          value: 3.68
+          units: km
+      - name: Spanish Fork
+        distance:
+          value: 12.63
+          units: km
+      - name: Goshen
+        distance:
+          value: 15.63
+          units: km
     - name: West Point
       region: UT
       lat: '41.1220'
       long: "-112.0995"
+      closest_rate_centers:
+      - name: Clearfield
+        distance:
+          value: 6.49
+          units: km
+      - name: Ogden
+        distance:
+          value: 15.85
+          units: km
+      - name: Huntsville
+        distance:
+          value: 15.85
+          units: km
+      - name: Kaysville
+        distance:
+          value: 16.93
+          units: km
     - name: West Valley City
       region: UT
       lat: '40.6886'
       long: "-112.0123"
+      closest_rate_centers:
+      - name: Kearns
+        distance:
+          value: 2.55
+          units: km
+      - name: Magna
+        distance:
+          value: 8.28
+          units: km
+      - name: Murray
+        distance:
+          value: 11.1
+          units: km
     - name: West Wood
       region: UT
       lat: '39.6051'
       long: "-110.8424"
+      closest_rate_centers:
+      - name: Price
+        distance:
+          value: 2.85
+          units: km
+      - name: Helper
+        distance:
+          value: 8.9
+          units: km
+      - name: Cleveland
+        distance:
+          value: 29.5
+          units: km
     - name: White City
       region: UT
       lat: '40.5666'
       long: "-111.8636"
+      closest_rate_centers:
+      - name: Midvale
+        distance:
+          value: 6.85
+          units: km
+      - name: Holladay
+        distance:
+          value: 10.56
+          units: km
+      - name: Murray
+        distance:
+          value: 11.49
+          units: km
     - name: White Mesa
       region: UT
       lat: '37.4596'
       long: "-109.4600"
+      closest_rate_centers:
+      - name: Blanding
+        distance:
+          value: 18.61
+          units: km
+      - name: Bluff
+        distance:
+          value: 21.33
+          units: km
+      - name: Montezuma Creek-Aneth
+        distance:
+          value: 25.99
+          units: km
     - name: Whiterocks
       region: UT
       lat: '40.4721'
       long: "-109.9412"
+      closest_rate_centers:
+      - name: Neola
+        distance:
+          value: 7.58
+          units: km
+      - name: Lapoint
+        distance:
+          value: 12.68
+          units: km
+      - name: Roosevelt
+        distance:
+          value: 19.63
+          units: km
     - name: Willard
       region: UT
       lat: '41.4148'
       long: "-112.0448"
+      closest_rate_centers:
+      - name: Brigham City
+        distance:
+          value: 10.74
+          units: km
+      - name: Ogden
+        distance:
+          value: 22.26
+          units: km
+      - name: Huntsville
+        distance:
+          value: 22.26
+          units: km
+      - name: Bear River City
+        distance:
+          value: 23.76
+          units: km
     - name: Wolf Creek
       region: UT
       lat: '41.3253'
       long: "-111.8288"
+      closest_rate_centers:
+      - name: Ogden
+        distance:
+          value: 16.15
+          units: km
+      - name: Huntsville
+        distance:
+          value: 16.15
+          units: km
+      - name: Brigham City
+        distance:
+          value: 26.1
+          units: km
+      - name: Clearfield
+        distance:
+          value: 28.92
+          units: km
     - name: Woodland
       region: UT
       lat: '40.5838'
       long: "-111.2358"
+      closest_rate_centers:
+      - name: Kamas
+        distance:
+          value: 7.13
+          units: km
+      - name: Timber Lakes
+        distance:
+          value: 10.99
+          units: km
+      - name: Jordanelle
+        distance:
+          value: 16.81
+          units: km
     - name: Woodland Hills
       region: UT
       lat: '40.0132'
       long: "-111.6558"
+      closest_rate_centers:
+      - name: Payson
+        distance:
+          value: 8.13
+          units: km
+      - name: Spanish Fork
+        distance:
+          value: 10.57
+          units: km
+      - name: Spanish Fork Canyon
+        distance:
+          value: 13.73
+          units: km
     - name: Woodruff
       region: UT
       lat: '41.5212'
       long: "-111.1639"
+      closest_rate_centers:
+      - name: Randolph
+        distance:
+          value: 16.31
+          units: km
+      - name: Wasatch
+        distance:
+          value: 35.14
+          units: km
+      - name: Garden City
+        distance:
+          value: 51.1
+          units: km
     - name: Woods Cross
       region: UT
       lat: '40.8731'
       long: "-111.9170"
+      closest_rate_centers:
+      - name: Bountiful
+        distance:
+          value: 3.49
+          units: km
+      - name: Farmington
+        distance:
+          value: 12.68
+          units: km
+      - name: Salt Lake City
+        distance:
+          value: 13.11
+          units: km

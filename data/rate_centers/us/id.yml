@@ -1,7 +1,7 @@
 ---
 rate_centers:
-  us:
-    id:
+  US:
+    ID:
     - region: ID
       exchange: '044360'
       name: Aberdeen
@@ -10,6 +10,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER IDAHO, LLC DBA ZIPLY FIBER
       lat: '42.950484'
       long: "-112.838554"
+      closest_city:
+        name: Aberdeen
+        distance:
+          value: 0.71
+          units: km
     - region: ID
       exchange: '045811'
       name: Acequia
@@ -34,6 +39,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '48.189566'
       long: "-117.024883"
+      closest_city:
+        name: Oldtown
+        distance:
+          value: 0.69
+          units: km
     - region: ID
       exchange: '044380'
       name: Albion
@@ -42,6 +52,11 @@ rate_centers:
       ilec_name: ALBION TELEPHONE CO. DBA ATC COMMUNICATIONS
       lat: '42.40898'
       long: "-113.58019"
+      closest_city:
+        name: Albion
+        distance:
+          value: 0.1
+          units: km
     - region: ID
       exchange: '044390'
       name: Almo
@@ -50,6 +65,11 @@ rate_centers:
       ilec_name: ALBION TELEPHONE CO. DBA ATC COMMUNICATIONS
       lat: '42.092927'
       long: "-113.624795"
+      closest_city:
+        name: Oakley
+        distance:
+          value: 26.91
+          units: km
     - region: ID
       exchange: '044400'
       name: Alpine
@@ -58,6 +78,11 @@ rate_centers:
       ilec_name: SILVER STAR TEL CO INC
       lat: '43.166623'
       long: "-111.014268"
+      closest_city:
+        name: Irwin
+        distance:
+          value: 33.0
+          units: km
     - region: ID
       exchange: '044410'
       name: American Falls
@@ -66,6 +91,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '42.783922'
       long: "-112.852239"
+      closest_city:
+        name: American Falls
+        distance:
+          value: 0.2
+          units: km
     - region: ID
       exchange: '341437'
       name: Ammon
@@ -98,6 +128,11 @@ rate_centers:
       ilec_name: DIRECT COMMUNICATIONS ROCKLAND, INC.
       lat: '42.459521'
       long: "-112.566889"
+      closest_city:
+        name: Rockland
+        distance:
+          value: 28.19
+          units: km
     - region: ID
       exchange: '044430'
       name: Arco
@@ -106,6 +141,11 @@ rate_centers:
       ilec_name: ALBION TELEPHONE CO. DBA ATC COMMUNICATIONS
       lat: '43.63558'
       long: "-113.301163"
+      closest_city:
+        name: Arco
+        distance:
+          value: 0.44
+          units: km
     - region: ID
       exchange: '341442'
       name: Arimo
@@ -122,6 +162,11 @@ rate_centers:
       ilec_name: FREMONT TELCOM CO.
       lat: '44.075155'
       long: "-111.452892"
+      closest_city:
+        name: Ashton
+        distance:
+          value: 0.42
+          units: km
     - region: ID
       exchange: '362622'
       name: Athol
@@ -138,6 +183,11 @@ rate_centers:
       ilec_name: RURAL TEL CO
       lat: '43.797776'
       long: "-115.134529"
+      closest_city:
+        name: Stanley
+        distance:
+          value: 49.07
+          units: km
     - region: ID
       exchange: '362623'
       name: Avery
@@ -162,6 +212,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '42.714553'
       long: "-111.884576"
+      closest_city:
+        name: Bancroft
+        distance:
+          value: 0.64
+          units: km
     - region: ID
       exchange: '341448'
       name: Banks
@@ -178,6 +233,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '47.965376'
       long: "-116.573317"
+      closest_city:
+        name: Athol
+        distance:
+          value: 10.23
+          units: km
     - region: ID
       exchange: '341449'
       name: Bear
@@ -226,6 +286,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '43.189742'
       long: "-112.343434"
+      closest_city:
+        name: Blackfoot
+        distance:
+          value: 0.5
+          units: km
     - region: ID
       exchange: '362625'
       name: Blanchard
@@ -242,6 +307,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '42.923659'
       long: "-114.952356"
+      closest_city:
+        name: Bliss
+        distance:
+          value: 0.37
+          units: km
     - region: ID
       exchange: '341455'
       name: Bloomington
@@ -258,6 +328,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '47.199361'
       long: "-117.031902"
+      closest_city:
+        name: Tensed
+        distance:
+          value: 9.29
+          units: km
     - region: ID
       exchange: '044510'
       name: Boise
@@ -266,6 +341,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '43.609412'
       long: "-116.300572"
+      closest_city:
+        name: Garden City
+        distance:
+          value: 5.25
+          units: km
     - region: ID
       exchange: '044520'
       name: Boise River
@@ -274,6 +354,11 @@ rate_centers:
       ilec_name: RURAL TEL CO
       lat: '43.474012'
       long: "-115.294011"
+      closest_city:
+        name: Fairfield
+        distance:
+          value: 42.21
+          units: km
     - region: ID
       exchange: '044530'
       name: Bonners Ferry
@@ -282,6 +367,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '48.691665'
       long: "-116.315472"
+      closest_city:
+        name: Bonners Ferry
+        distance:
+          value: 0.25
+          units: km
     - region: ID
       exchange: '044540'
       name: Bovill
@@ -290,6 +380,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '46.857721'
       long: "-116.397593"
+      closest_city:
+        name: Bovill
+        distance:
+          value: 0.32
+          units: km
     - region: ID
       exchange: '044550'
       name: Bruneau
@@ -298,6 +393,11 @@ rate_centers:
       ilec_name: CENTURYTEL GEM STATE INC-ID DBA CENTURYLINK - ID
       lat: '42.873058'
       long: "-115.801203"
+      closest_city:
+        name: Bruneau
+        distance:
+          value: 0.4
+          units: km
     - region: ID
       exchange: '044560'
       name: Buhl
@@ -306,6 +406,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '42.600219'
       long: "-114.757836"
+      closest_city:
+        name: Buhl
+        distance:
+          value: 0.25
+          units: km
     - region: ID
       exchange: '362628'
       name: Burke
@@ -322,6 +427,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '42.542101'
       long: "-113.79221"
+      closest_city:
+        name: Burley
+        distance:
+          value: 0.47
+          units: km
     - region: ID
       exchange: '341461'
       name: Butte City
@@ -346,6 +456,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '43.667224'
       long: "-116.685214"
+      closest_city:
+        name: Caldwell
+        distance:
+          value: 3.2
+          units: km
     - region: ID
       exchange: '044590'
       name: Cambridge
@@ -354,6 +469,11 @@ rate_centers:
       ilec_name: CAMBRIDGE TELEPHONE COMPANY
       lat: '44.576254'
       long: "-116.668248"
+      closest_city:
+        name: Cambridge
+        distance:
+          value: 0.9
+          units: km
     - region: ID
       exchange: '044600'
       name: Carey
@@ -362,6 +482,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER IDAHO, LLC DBA ZIPLY FIBER
       lat: '43.309472'
       long: "-113.93877"
+      closest_city:
+        name: Carey
+        distance:
+          value: 0.46
+          units: km
     - region: ID
       exchange: '362630'
       name: Careywood
@@ -386,6 +511,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER IDAHO, LLC DBA ZIPLY FIBER
       lat: '44.52499'
       long: "-116.048688"
+      closest_city:
+        name: Cascade
+        distance:
+          value: 1.88
+          units: km
     - region: ID
       exchange: '044620'
       name: Castleford
@@ -394,6 +524,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '42.517669'
       long: "-114.872491"
+      closest_city:
+        name: Castleford
+        distance:
+          value: 0.33
+          units: km
     - region: ID
       exchange: '362631'
       name: Cataldo
@@ -434,6 +569,11 @@ rate_centers:
       ilec_name: CUSTER TEL. COOP., INC.
       lat: '44.499438'
       long: "-114.2248"
+      closest_city:
+        name: Challis
+        distance:
+          value: 0.72
+          units: km
     - region: ID
       exchange: '362633'
       name: Chatcolet
@@ -466,6 +606,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '48.14189'
       long: "-116.176292"
+      closest_city:
+        name: Clark Fork
+        distance:
+          value: 0.59
+          units: km
     - region: ID
       exchange: '362635'
       name: Clarkia
@@ -482,6 +627,11 @@ rate_centers:
       ilec_name: CUSTER TEL. COOP., INC.
       lat: '44.268384'
       long: "-114.380267"
+      closest_city:
+        name: Clayton
+        distance:
+          value: 1.2
+          units: km
     - region: ID
       exchange: '344761'
       name: Clearwater
@@ -522,6 +672,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '47.681935'
       long: "-116.783464"
+      closest_city:
+        name: Coeur d'Alene
+        distance:
+          value: 2.57
+          units: km
     - region: ID
       exchange: '362638'
       name: Colburn
@@ -570,6 +725,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '47.015258'
       long: "-117.035066"
+      closest_city:
+        name: Potlatch
+        distance:
+          value: 14.59
+          units: km
     - region: ID
       exchange: '341477'
       name: Corral
@@ -586,6 +746,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '46.043244'
       long: "-116.343576"
+      closest_city:
+        name: Cottonwood
+        distance:
+          value: 0.99
+          units: km
     - region: ID
       exchange: '044690'
       name: Council
@@ -594,6 +759,11 @@ rate_centers:
       ilec_name: CAMBRIDGE TELEPHONE COMPANY
       lat: '44.735168'
       long: "-116.432741"
+      closest_city:
+        name: Council
+        distance:
+          value: 0.47
+          units: km
     - region: ID
       exchange: '044700'
       name: Craigmont
@@ -602,6 +772,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '46.242189'
       long: "-116.474747"
+      closest_city:
+        name: Craigmont
+        distance:
+          value: 0.15
+          units: km
     - region: ID
       exchange: '344764'
       name: Culdesac
@@ -650,6 +825,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '46.800656'
       long: "-116.55838"
+      closest_city:
+        name: Deary
+        distance:
+          value: 0.1
+          units: km
     - region: ID
       exchange: '044571'
       name: Declo
@@ -674,6 +854,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '42.916257'
       long: "-114.267966"
+      closest_city:
+        name: Dietrich
+        distance:
+          value: 0.41
+          units: km
     - region: ID
       exchange: '344767'
       name: Dixie
@@ -690,6 +875,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER IDAHO, LLC DBA ZIPLY FIBER
       lat: '44.732476'
       long: "-116.081134"
+      closest_city:
+        name: Donnelly
+        distance:
+          value: 0.35
+          units: km
     - region: ID
       exchange: '362645'
       name: Dover
@@ -706,6 +896,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '42.426586'
       long: "-112.113409"
+      closest_city:
+        name: Downey
+        distance:
+          value: 0.85
+          units: km
     - region: ID
       exchange: '044760'
       name: Driggs
@@ -714,6 +909,11 @@ rate_centers:
       ilec_name: COLUMBINE TELCO DBA SILVER STAR COMMUNICATIONS
       lat: '43.723887'
       long: "-111.109842"
+      closest_city:
+        name: Driggs
+        distance:
+          value: 0.8
+          units: km
     - region: ID
       exchange: '341487'
       name: Drummond
@@ -730,6 +930,11 @@ rate_centers:
       ilec_name: MUD LAKE TELEPHONE COOPERATIVE ASSOCIATION, INC.
       lat: '44.175429'
       long: "-112.225412"
+      closest_city:
+        name: Dubois
+        distance:
+          value: 0.43
+          units: km
     - region: ID
       exchange: '044511'
       name: Eagle
@@ -762,6 +967,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '42.609254'
       long: "-114.205408"
+      closest_city:
+        name: Eden
+        distance:
+          value: 0.53
+          units: km
     - region: ID
       exchange: '362647'
       name: Edgemere
@@ -778,6 +988,11 @@ rate_centers:
       ilec_name: ALBION TELEPHONE CO. DBA ATC COMMUNICATIONS
       lat: '42.251556'
       long: "-113.558234"
+      closest_city:
+        name: Malta
+        distance:
+          value: 16.73
+          units: km
     - region: ID
       exchange: '044800'
       name: Elk Bend
@@ -786,6 +1001,11 @@ rate_centers:
       ilec_name: CUSTER TEL. COOP., INC.
       lat: '44.885045'
       long: "-113.969795"
+      closest_city:
+        name: Salmon
+        distance:
+          value: 32.7
+          units: km
     - region: ID
       exchange: '044810'
       name: Elk City
@@ -794,6 +1014,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER IDAHO, LLC DBA ZIPLY FIBER
       lat: '45.825078'
       long: "-115.433023"
+      closest_city:
+        name: Elk City
+        distance:
+          value: 0.41
+          units: km
     - region: ID
       exchange: '362648'
       name: Elk River
@@ -826,6 +1051,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '43.876847'
       long: "-116.493205"
+      closest_city:
+        name: Emmett
+        distance:
+          value: 0.85
+          units: km
     - region: ID
       exchange: '362650'
       name: Enaville
@@ -842,6 +1072,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '47.08438'
       long: "-117.034695"
+      closest_city:
+        name: De Smet
+        distance:
+          value: 11.26
+          units: km
     - region: ID
       exchange: '044840'
       name: Fairfield
@@ -850,6 +1085,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER IDAHO, LLC DBA ZIPLY FIBER
       lat: '43.343351'
       long: "-114.781291"
+      closest_city:
+        name: Fairfield
+        distance:
+          value: 1.68
+          units: km
     - region: ID
       exchange: '362651'
       name: Farragut
@@ -914,6 +1154,11 @@ rate_centers:
       ilec_name: FILER MUTUAL TEL CO
       lat: '42.575248'
       long: "-114.605924"
+      closest_city:
+        name: Filer
+        distance:
+          value: 0.94
+          units: km
     - region: ID
       exchange: '045081'
       name: Firth
@@ -954,6 +1199,11 @@ rate_centers:
       ilec_name: SILVER STAR TEL CO INC
       lat: '42.980087'
       long: "-111.025977"
+      closest_city:
+        name: Irwin
+        distance:
+          value: 50.42
+          units: km
     - region: ID
       exchange: '044870'
       name: Fruitland
@@ -962,6 +1212,11 @@ rate_centers:
       ilec_name: FARMERS MUTUAL TEL. CO.
       lat: '44.007193'
       long: "-116.916099"
+      closest_city:
+        name: Fruitland
+        distance:
+          value: 1.47
+          units: km
     - region: ID
       exchange: '341505'
       name: Fruitvale
@@ -994,6 +1249,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER IDAHO, LLC DBA ZIPLY FIBER
       lat: '44.087427'
       long: "-115.951255"
+      closest_city:
+        name: Garden Valley
+        distance:
+          value: 0.93
+          units: km
     - region: ID
       exchange: '362655'
       name: Gem
@@ -1010,6 +1270,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '46.552365'
       long: "-116.926484"
+      closest_city:
+        name: Genesee
+        distance:
+          value: 0.17
+          units: km
     - region: ID
       exchange: '341509'
       name: Geneva
@@ -1050,6 +1315,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '42.949981'
       long: "-115.301658"
+      closest_city:
+        name: Glenns Ferry
+        distance:
+          value: 0.41
+          units: km
     - region: ID
       exchange: '044910'
       name: Gooding
@@ -1058,6 +1328,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '42.942562'
       long: "-114.706416"
+      closest_city:
+        name: Gooding
+        distance:
+          value: 0.82
+          units: km
     - region: ID
       exchange: '044920'
       name: Grace
@@ -1066,6 +1341,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '42.573114'
       long: "-111.7346"
+      closest_city:
+        name: Grace
+        distance:
+          value: 0.47
+          units: km
     - region: ID
       exchange: '044930'
       name: Grand View
@@ -1074,6 +1354,11 @@ rate_centers:
       ilec_name: CENTURYTEL GEM STATE INC-ID DBA CENTURYLINK - ID
       lat: '42.992491'
       long: "-116.097803"
+      closest_city:
+        name: Grand View
+        distance:
+          value: 1.08
+          units: km
     - region: ID
       exchange: '044940'
       name: Grangeville
@@ -1082,6 +1367,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '45.926564'
       long: "-116.12235"
+      closest_city:
+        name: Grangeville
+        distance:
+          value: 0.06
+          units: km
     - region: ID
       exchange: '341517'
       name: Grasmere
@@ -1098,6 +1388,11 @@ rate_centers:
       ilec_name: CENTURYTEL GEM STATE INC-ID DBA CENTURYLINK - ID
       lat: '42.182097'
       long: "-116.144097"
+      closest_city:
+        name: Bruneau
+        distance:
+          value: 82.21
+          units: km
     - region: ID
       exchange: '344773'
       name: Greencreek
@@ -1130,6 +1425,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '42.809454'
       long: "-114.897249"
+      closest_city:
+        name: Hagerman
+        distance:
+          value: 0.77
+          units: km
     - region: ID
       exchange: '044970'
       name: Hailey
@@ -1138,6 +1438,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '43.522879'
       long: "-114.307901"
+      closest_city:
+        name: Hailey
+        distance:
+          value: 1.16
+          units: km
     - region: ID
       exchange: '044980'
       name: Hamer
@@ -1146,6 +1451,11 @@ rate_centers:
       ilec_name: MUD LAKE TELEPHONE COOPERATIVE ASSOCIATION, INC.
       lat: '43.934843'
       long: "-112.215986"
+      closest_city:
+        name: Hamer
+        distance:
+          value: 1.82
+          units: km
     - region: ID
       exchange: '341522'
       name: Hammett
@@ -1170,6 +1480,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '47.451267'
       long: "-116.782993"
+      closest_city:
+        name: Harrison
+        distance:
+          value: 2.37
+          units: km
     - region: ID
       exchange: '362659'
       name: Harvard
@@ -1202,6 +1517,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '47.760105'
       long: "-116.781122"
+      closest_city:
+        name: Hayden
+        distance:
+          value: 1.92
+          units: km
     - region: ID
       exchange: '045010'
       name: Hazelton
@@ -1210,6 +1530,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '42.609254'
       long: "-114.205408"
+      closest_city:
+        name: Eden
+        distance:
+          value: 0.53
+          units: km
     - region: ID
       exchange: '362663'
       name: Headquarters
@@ -1242,6 +1567,11 @@ rate_centers:
       ilec_name: ALBION TELEPHONE CO. DBA ATC COMMUNICATIONS
       lat: '42.158158'
       long: "-112.650294"
+      closest_city:
+        name: Malad City
+        distance:
+          value: 33.2
+          units: km
     - region: ID
       exchange: '045030'
       name: Hollister
@@ -1250,6 +1580,11 @@ rate_centers:
       ilec_name: FILER MUTUAL TEL CO
       lat: '42.351764'
       long: "-114.57236"
+      closest_city:
+        name: Hollister
+        distance:
+          value: 0.96
+          units: km
     - region: ID
       exchange: '045040'
       name: Homedale
@@ -1258,6 +1593,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER IDAHO, LLC DBA ZIPLY FIBER
       lat: '43.616184'
       long: "-116.93265"
+      closest_city:
+        name: Homedale
+        distance:
+          value: 0.43
+          units: km
     - region: ID
       exchange: '045050'
       name: Hope
@@ -1266,6 +1606,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '48.242349'
       long: "-116.300199"
+      closest_city:
+        name: East Hope
+        distance:
+          value: 0.75
+          units: km
     - region: ID
       exchange: '045060'
       name: Horseshoe Bend
@@ -1274,6 +1619,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER IDAHO, LLC DBA ZIPLY FIBER
       lat: '43.915989'
       long: "-116.188887"
+      closest_city:
+        name: Horseshoe Bend
+        distance:
+          value: 0.87
+          units: km
     - region: ID
       exchange: '044431'
       name: Howe
@@ -1298,6 +1648,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '43.823491'
       long: "-115.836269"
+      closest_city:
+        name: Idaho City
+        distance:
+          value: 0.68
+          units: km
     - region: ID
       exchange: '045080'
       name: Idaho Falls
@@ -1306,6 +1661,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '43.499201'
       long: "-112.036615"
+      closest_city:
+        name: Idaho Falls
+        distance:
+          value: 1.35
+          units: km
     - region: ID
       exchange: '341534'
       name: Idaho National Engineering Laboratory
@@ -1322,6 +1682,11 @@ rate_centers:
       ilec_name: CAMBRIDGE TELEPHONE COMPANY
       lat: '44.559234'
       long: "-116.431335"
+      closest_city:
+        name: Council
+        distance:
+          value: 19.31
+          units: km
     - region: ID
       exchange: '045633'
       name: Inkom
@@ -1346,6 +1711,11 @@ rate_centers:
       ilec_name: COLUMBINE TELCO DBA SILVER STAR COMMUNICATIONS
       lat: '43.40673'
       long: "-111.302549"
+      closest_city:
+        name: Irwin
+        distance:
+          value: 2.71
+          units: km
     - region: ID
       exchange: '045110'
       name: Island Park
@@ -1354,6 +1724,11 @@ rate_centers:
       ilec_name: FREMONT TELCOM CO.
       lat: '44.498187'
       long: "-111.332626"
+      closest_city:
+        name: Island Park
+        distance:
+          value: 3.93
+          units: km
     - region: ID
       exchange: '341540'
       name: Jackson
@@ -1370,6 +1745,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '42.726481'
       long: "-114.518177"
+      closest_city:
+        name: Jerome
+        distance:
+          value: 0.97
+          units: km
     - region: ID
       exchange: '045130'
       name: Juliaetta
@@ -1378,6 +1758,11 @@ rate_centers:
       ilec_name: POTLATCH TEL. CO., INC.
       lat: '46.574582'
       long: "-116.69331"
+      closest_city:
+        name: Juliaetta
+        distance:
+          value: 1.25
+          units: km
     - region: ID
       exchange: '045140'
       name: Kamiah
@@ -1386,6 +1771,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '46.225594'
       long: "-116.023334"
+      closest_city:
+        name: Kamiah
+        distance:
+          value: 0.41
+          units: km
     - region: ID
       exchange: '045150'
       name: Kellogg
@@ -1394,6 +1784,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '47.539421'
       long: "-116.114433"
+      closest_city:
+        name: Kellogg
+        distance:
+          value: 2.09
+          units: km
     - region: ID
       exchange: '045160'
       name: Kendrick
@@ -1402,6 +1797,11 @@ rate_centers:
       ilec_name: POTLATCH TEL. CO., INC.
       lat: '46.616356'
       long: "-116.650957"
+      closest_city:
+        name: Kendrick
+        distance:
+          value: 0.37
+          units: km
     - region: ID
       exchange: '045170'
       name: Ketchum
@@ -1410,6 +1810,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '43.68412'
       long: "-114.364087"
+      closest_city:
+        name: Ketchum
+        distance:
+          value: 0.77
+          units: km
     - region: ID
       exchange: '344777'
       name: Keuterville
@@ -1426,6 +1831,11 @@ rate_centers:
       ilec_name: MUD LAKE TELEPHONE COOPERATIVE ASSOCIATION, INC.
       lat: '44.251227'
       long: "-111.890387"
+      closest_city:
+        name: Spencer
+        distance:
+          value: 27.62
+          units: km
     - region: ID
       exchange: '045190'
       name: Kimberly
@@ -1434,6 +1844,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '42.542915'
       long: "-114.367438"
+      closest_city:
+        name: Kimberly
+        distance:
+          value: 0.99
+          units: km
     - region: ID
       exchange: '341545'
       name: King Hill
@@ -1458,6 +1873,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '46.14158'
       long: "-115.974999"
+      closest_city:
+        name: Kooskia
+        distance:
+          value: 0.12
+          units: km
     - region: ID
       exchange: '362668'
       name: Kootenai
@@ -1474,6 +1894,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '43.493036'
       long: "-116.415249"
+      closest_city:
+        name: Kuna
+        distance:
+          value: 1.86
+          units: km
     - region: ID
       exchange: '362669'
       name: Laclede
@@ -1490,6 +1915,11 @@ rate_centers:
       ilec_name: MIDVALE TELEPHONE EXCHANGE, INC.
       lat: '47.977524'
       long: "-116.329225"
+      closest_city:
+        name: Clark Fork
+        distance:
+          value: 22.01
+          units: km
     - region: ID
       exchange: '341547'
       name: Lamont
@@ -1506,6 +1936,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '46.410331'
       long: "-116.801217"
+      closest_city:
+        name: Lapwai
+        distance:
+          value: 0.8
+          units: km
     - region: ID
       exchange: '045240'
       name: Lava Hot Springs
@@ -1514,6 +1949,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '42.625656'
       long: "-112.005686"
+      closest_city:
+        name: Lava Hot Springs
+        distance:
+          value: 0.73
+          units: km
     - region: ID
       exchange: '045250'
       name: Leadore
@@ -1522,6 +1962,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF IDAHO, INC. DBA CENTURYLINK
       lat: '44.681098'
       long: "-113.360384"
+      closest_city:
+        name: Leadore
+        distance:
+          value: 0.14
+          units: km
     - region: ID
       exchange: '341550'
       name: Lemhi
@@ -1538,6 +1983,11 @@ rate_centers:
       ilec_name: INLAND TEL CO
       lat: '46.440621'
       long: "-116.560103"
+      closest_city:
+        name: Peck
+        distance:
+          value: 10.93
+          units: km
     - region: ID
       exchange: '045270'
       name: Leon
@@ -1546,6 +1996,11 @@ rate_centers:
       ilec_name: INLAND TEL CO
       lat: '46.534581'
       long: "-117.024163"
+      closest_city:
+        name: Genesee
+        distance:
+          value: 7.56
+          units: km
     - region: ID
       exchange: '341551'
       name: Leslie
@@ -1562,6 +2017,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '46.418258'
       long: "-117.014146"
+      closest_city:
+        name: Lewiston
+        distance:
+          value: 3.19
+          units: km
     - region: ID
       exchange: '341552'
       name: Lewisville
@@ -1618,6 +2078,11 @@ rate_centers:
       ilec_name: CAMBRIDGE TELEPHONE COMPANY
       lat: '44.116617'
       long: "-115.421264"
+      closest_city:
+        name: Lowman
+        distance:
+          value: 16.47
+          units: km
     - region: ID
       exchange: '341558'
       name: Lucile
@@ -1642,6 +2107,11 @@ rate_centers:
       ilec_name: ALBION TELEPHONE CO. DBA ATC COMMUNICATIONS
       lat: '43.917873'
       long: "-113.614026"
+      closest_city:
+        name: Mackay
+        distance:
+          value: 0.66
+          units: km
     - region: ID
       exchange: '341561'
       name: Magic City
@@ -1658,6 +2128,11 @@ rate_centers:
       ilec_name: ALBION TELEPHONE CO. DBA ATC COMMUNICATIONS
       lat: '42.189841'
       long: "-112.250167"
+      closest_city:
+        name: Malad City
+        distance:
+          value: 0.04
+          units: km
     - region: ID
       exchange: '341563'
       name: Malad City
@@ -1674,6 +2149,11 @@ rate_centers:
       ilec_name: ALBION TELEPHONE CO. DBA ATC COMMUNICATIONS
       lat: '42.307826'
       long: "-113.366855"
+      closest_city:
+        name: Malta
+        distance:
+          value: 0.21
+          units: km
     - region: ID
       exchange: '362671'
       name: Marble Creek
@@ -1690,6 +2170,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER IDAHO, LLC DBA ZIPLY FIBER
       lat: '43.550516'
       long: "-116.799239"
+      closest_city:
+        name: Marsing
+        distance:
+          value: 0.93
+          units: km
     - region: ID
       exchange: '341566'
       name: Marysville
@@ -1706,6 +2191,11 @@ rate_centers:
       ilec_name: CUSTER TEL. COOP., INC.
       lat: '44.6076'
       long: "-113.916466"
+      closest_city:
+        name: Challis
+        distance:
+          value: 27.18
+          units: km
     - region: ID
       exchange: '045350'
       name: McCall
@@ -1714,6 +2204,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER IDAHO, LLC DBA ZIPLY FIBER
       lat: '44.910654'
       long: "-116.10078"
+      closest_city:
+        name: McCall
+        distance:
+          value: 0.98
+          units: km
     - region: ID
       exchange: '045360'
       name: McCammon
@@ -1722,6 +2217,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '42.649831'
       long: "-112.189642"
+      closest_city:
+        name: McCammon
+        distance:
+          value: 0.07
+          units: km
     - region: ID
       exchange: '362672'
       name: Medimont
@@ -1738,6 +2238,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '43.375861'
       long: "-116.523325"
+      closest_city:
+        name: Melba
+        distance:
+          value: 0.8
+          units: km
     - region: ID
       exchange: '344783'
       name: Melrose
@@ -1762,6 +2267,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '43.609412'
       long: "-116.300572"
+      closest_city:
+        name: Garden City
+        distance:
+          value: 5.25
+          units: km
     - region: ID
       exchange: '341712'
       name: Mesa
@@ -1778,6 +2288,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '43.71058'
       long: "-116.618405"
+      closest_city:
+        name: Middleton
+        distance:
+          value: 0.23
+          units: km
     - region: ID
       exchange: '045400'
       name: Midvale
@@ -1786,6 +2301,11 @@ rate_centers:
       ilec_name: MIDVALE TELEPHONE EXCHANGE, INC.
       lat: '44.467469'
       long: "-116.730012"
+      closest_city:
+        name: Midvale
+        distance:
+          value: 1.24
+          units: km
     - region: ID
       exchange: '045410'
       name: Minidoka
@@ -1794,6 +2314,11 @@ rate_centers:
       ilec_name: PROJECT MUTUAL TEL. COOP. ASSN., INC.
       lat: '42.752152'
       long: "-113.496615"
+      closest_city:
+        name: Minidoka
+        distance:
+          value: 0.58
+          units: km
     - region: ID
       exchange: '344784'
       name: Mohler
@@ -1810,6 +2335,11 @@ rate_centers:
       ilec_name: MUD LAKE TELEPHONE COOPERATIVE ASSOCIATION, INC.
       lat: '43.992379'
       long: "-112.537367"
+      closest_city:
+        name: Mud Lake
+        distance:
+          value: 17.23
+          units: km
     - region: ID
       exchange: '341577'
       name: Montour
@@ -1826,6 +2356,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '42.323495'
       long: "-111.299944"
+      closest_city:
+        name: Montpelier
+        distance:
+          value: 0.29
+          units: km
     - region: ID
       exchange: '044432'
       name: Moore
@@ -1850,6 +2385,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '46.734787'
       long: "-116.997111"
+      closest_city:
+        name: Moscow
+        distance:
+          value: 0.46
+          units: km
     - region: ID
       exchange: '045450'
       name: Mountain Home
@@ -1858,6 +2398,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '43.133361'
       long: "-115.691523"
+      closest_city:
+        name: Mountain Home
+        distance:
+          value: 0.46
+          units: km
     - region: ID
       exchange: '341582'
       name: Mountain Home Air Force Base
@@ -1882,6 +2427,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '47.468172'
       long: "-115.794643"
+      closest_city:
+        name: Mullan
+        distance:
+          value: 0.14
+          units: km
     - region: ID
       exchange: '341583'
       name: Murphy
@@ -1906,6 +2456,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '42.491779'
       long: "-114.165407"
+      closest_city:
+        name: Murtaugh
+        distance:
+          value: 0.24
+          units: km
     - region: ID
       exchange: '045480'
       name: Nampa
@@ -1914,6 +2469,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '43.583192'
       long: "-116.555788"
+      closest_city:
+        name: Nampa
+        distance:
+          value: 0.66
+          units: km
     - region: ID
       exchange: '362677'
       name: Naples
@@ -1938,6 +2498,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER IDAHO, LLC DBA ZIPLY FIBER
       lat: '44.976743'
       long: "-116.276199"
+      closest_city:
+        name: New Meadows
+        distance:
+          value: 0.97
+          units: km
     - region: ID
       exchange: '045500'
       name: New Plymouth
@@ -1946,6 +2511,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '43.96833'
       long: "-116.814754"
+      closest_city:
+        name: New Plymouth
+        distance:
+          value: 0.41
+          units: km
     - region: ID
       exchange: '341588'
       name: Newdale
@@ -1962,6 +2532,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '46.234945'
       long: "-116.235443"
+      closest_city:
+        name: Nezperce
+        distance:
+          value: 0.4
+          units: km
     - region: ID
       exchange: '362678'
       name: Nordman
@@ -1978,6 +2553,11 @@ rate_centers:
       ilec_name: PROJECT MUTUAL TEL. COOP. ASSN., INC.
       lat: '42.776682'
       long: "-113.668069"
+      closest_city:
+        name: Acequia
+        distance:
+          value: 13.33
+          units: km
     - region: ID
       exchange: '045821'
       name: North Fork
@@ -2010,6 +2590,11 @@ rate_centers:
       ilec_name: FARMERS MUTUAL TEL. CO.
       lat: '43.872996'
       long: "-116.956617"
+      closest_city:
+        name: Parma
+        distance:
+          value: 9.69
+          units: km
     - region: ID
       exchange: '045540'
       name: Oakley
@@ -2018,6 +2603,11 @@ rate_centers:
       ilec_name: PROJECT MUTUAL TEL. COOP. ASSN., INC.
       lat: '42.241099'
       long: "-113.875917"
+      closest_city:
+        name: Oakley
+        distance:
+          value: 0.54
+          units: km
     - region: ID
       exchange: '341596'
       name: Oasis
@@ -2066,6 +2656,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '46.48146'
       long: "-116.249167"
+      closest_city:
+        name: Orofino
+        distance:
+          value: 0.84
+          units: km
     - region: ID
       exchange: '362682'
       name: Osburn
@@ -2122,6 +2717,11 @@ rate_centers:
       ilec_name: DIRECT COMMUNICATIONS ROCKLAND, INC.
       lat: '42.232213'
       long: "-111.403113"
+      closest_city:
+        name: Paris
+        distance:
+          value: 0.55
+          units: km
     - region: ID
       exchange: '341603'
       name: Parker
@@ -2138,6 +2738,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER IDAHO, LLC DBA ZIPLY FIBER
       lat: '43.783694'
       long: "-116.942923"
+      closest_city:
+        name: Parma
+        distance:
+          value: 0.3
+          units: km
     - region: ID
       exchange: '341605'
       name: Patterson
@@ -2154,6 +2759,11 @@ rate_centers:
       ilec_name: PROJECT MUTUAL TEL. COOP. ASSN., INC.
       lat: '42.619557'
       long: "-113.778557"
+      closest_city:
+        name: Paul
+        distance:
+          value: 1.67
+          units: km
     - region: ID
       exchange: '045590'
       name: Payette
@@ -2162,6 +2772,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '44.073898'
       long: "-116.934545"
+      closest_city:
+        name: Payette
+        distance:
+          value: 0.91
+          units: km
     - region: ID
       exchange: '045600'
       name: Peck
@@ -2170,6 +2785,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '46.477136'
       long: "-116.424789"
+      closest_city:
+        name: Peck
+        distance:
+          value: 0.29
+          units: km
     - region: ID
       exchange: '341608'
       name: Picabo
@@ -2186,6 +2806,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '46.492684'
       long: "-115.802934"
+      closest_city:
+        name: Pierce
+        distance:
+          value: 0.27
+          units: km
     - region: ID
       exchange: '341609'
       name: Pine
@@ -2242,6 +2867,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '47.359857'
       long: "-116.883626"
+      closest_city:
+        name: Plummer
+        distance:
+          value: 3.31
+          units: km
     - region: ID
       exchange: '045630'
       name: Pocatello
@@ -2250,6 +2880,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '42.723447'
       long: "-112.27062"
+      closest_city:
+        name: Inkom
+        distance:
+          value: 8.28
+          units: km
     - region: ID
       exchange: '341614'
       name: Pollock
@@ -2282,6 +2917,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '47.706928'
       long: "-116.943022"
+      closest_city:
+        name: Post Falls
+        distance:
+          value: 1.64
+          units: km
     - region: ID
       exchange: '045650'
       name: Potlatch
@@ -2290,6 +2930,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '46.923143'
       long: "-116.898034"
+      closest_city:
+        name: Potlatch
+        distance:
+          value: 0.05
+          units: km
     - region: ID
       exchange: '045660'
       name: Powell
@@ -2298,6 +2943,11 @@ rate_centers:
       ilec_name: BLACKFOOT TEL. COOP., INC.
       lat: '46.509174'
       long: "-114.707988"
+      closest_city:
+        name: Pierce
+        distance:
+          value: 83.56
+          units: km
     - region: ID
       exchange: '045670'
       name: Prairie
@@ -2306,6 +2956,11 @@ rate_centers:
       ilec_name: RURAL TEL CO
       lat: '43.477159'
       long: "-115.58125"
+      closest_city:
+        name: Mountain Home
+        distance:
+          value: 39.46
+          units: km
     - region: ID
       exchange: '045680'
       name: Preston
@@ -2314,6 +2969,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '42.102387'
       long: "-111.877325"
+      closest_city:
+        name: Preston
+        distance:
+          value: 0.45
+          units: km
     - region: ID
       exchange: '362693'
       name: Prichard
@@ -2330,6 +2990,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '48.525314'
       long: "-116.922521"
+      closest_city:
+        name: Coolin
+        distance:
+          value: 7.97
+          units: km
     - region: ID
       exchange: '045700'
       name: Priest River
@@ -2338,6 +3003,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '48.182944'
       long: "-116.908543"
+      closest_city:
+        name: Priest River
+        distance:
+          value: 1.91
+          units: km
     - region: ID
       exchange: '362696'
       name: Princeton
@@ -2354,6 +3024,11 @@ rate_centers:
       ilec_name: ALBION TELEPHONE CO. DBA ATC COMMUNICATIONS
       lat: '42.521307'
       long: "-113.259599"
+      closest_city:
+        name: Malta
+        distance:
+          value: 25.43
+          units: km
     - region: ID
       exchange: '045720'
       name: Rathdrum
@@ -2362,6 +3037,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '47.817282'
       long: "-116.893141"
+      closest_city:
+        name: Rathdrum
+        distance:
+          value: 2.5
+          units: km
     - region: ID
       exchange: '344786'
       name: Reubens
@@ -2378,6 +3058,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '43.823131'
       long: "-111.79394"
+      closest_city:
+        name: Rexburg
+        distance:
+          value: 0.17
+          units: km
     - region: ID
       exchange: '045740'
       name: Richfield
@@ -2386,6 +3071,11 @@ rate_centers:
       ilec_name: CENTURYTEL GEM STATE INC-ID DBA CENTURYLINK - ID
       lat: '43.058582'
       long: "-114.149441"
+      closest_city:
+        name: Richfield
+        distance:
+          value: 0.88
+          units: km
     - region: ID
       exchange: '341621'
       name: Riddle
@@ -2402,6 +3092,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '43.672928'
       long: "-111.915395"
+      closest_city:
+        name: Rigby
+        distance:
+          value: 0.18
+          units: km
     - region: ID
       exchange: '045760'
       name: Riggins
@@ -2410,6 +3105,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER IDAHO, LLC DBA ZIPLY FIBER
       lat: '45.425401'
       long: "-116.31731"
+      closest_city:
+        name: Riggins
+        distance:
+          value: 0.57
+          units: km
     - region: ID
       exchange: '045770'
       name: Ririe
@@ -2418,6 +3118,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '43.632796'
       long: "-111.77829"
+      closest_city:
+        name: Ririe
+        distance:
+          value: 0.54
+          units: km
     - region: ID
       exchange: '044481'
       name: Riverside
@@ -2434,6 +3139,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '43.716251'
       long: "-112.135847"
+      closest_city:
+        name: Roberts
+        distance:
+          value: 0.78
+          units: km
     - region: ID
       exchange: '045790'
       name: Rock Creek
@@ -2442,6 +3152,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '47.342685'
       long: "-116.989372"
+      closest_city:
+        name: Plummer
+        distance:
+          value: 8.0
+          units: km
     - region: ID
       exchange: '341627'
       name: Rockford
@@ -2458,6 +3173,11 @@ rate_centers:
       ilec_name: DIRECT COMMUNICATIONS ROCKLAND, INC.
       lat: '42.576859'
       long: "-112.876993"
+      closest_city:
+        name: Rockland
+        distance:
+          value: 0.47
+          units: km
     - region: ID
       exchange: '341629'
       name: Rocky Bar
@@ -2482,6 +3202,11 @@ rate_centers:
       ilec_name: PROJECT MUTUAL TEL. COOP. ASSN., INC.
       lat: '42.619165'
       long: "-113.677284"
+      closest_city:
+        name: Rupert
+        distance:
+          value: 0.27
+          units: km
     - region: ID
       exchange: '362698'
       name: Sagle
@@ -2514,6 +3239,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF IDAHO, INC. DBA CENTURYLINK
       lat: '45.177991'
       long: "-113.894521"
+      closest_city:
+        name: Salmon
+        distance:
+          value: 0.41
+          units: km
     - region: ID
       exchange: '045822'
       name: Salmon (CTC)
@@ -2522,6 +3252,11 @@ rate_centers:
       ilec_name: CUSTER TELEPHONE BROADBAND SERVICES LLC - ID
       lat: '45.177991'
       long: "-113.894521"
+      closest_city:
+        name: Salmon
+        distance:
+          value: 0.41
+          units: km
     - region: ID
       exchange: '362699'
       name: Samuels
@@ -2546,6 +3281,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '48.272898'
       long: "-116.557354"
+      closest_city:
+        name: Sandpoint
+        distance:
+          value: 1.08
+          units: km
     - region: ID
       exchange: '362701'
       name: Santa
@@ -2570,6 +3310,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '47.466706'
       long: "-116.984781"
+      closest_city:
+        name: Rockford Bay
+        distance:
+          value: 8.72
+          units: km
     - region: ID
       exchange: '045850'
       name: Shelley
@@ -2578,6 +3323,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '43.381918'
       long: "-112.128234"
+      closest_city:
+        name: Shelley
+        distance:
+          value: 0.32
+          units: km
     - region: ID
       exchange: '045860'
       name: Shoshone
@@ -2586,6 +3336,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '42.943641'
       long: "-114.401026"
+      closest_city:
+        name: Shoshone
+        distance:
+          value: 0.83
+          units: km
     - region: ID
       exchange: '045870'
       name: Shoup
@@ -2594,6 +3349,11 @@ rate_centers:
       ilec_name: RURAL TEL CO
       lat: '45.373952'
       long: "-114.002881"
+      closest_city:
+        name: Salmon
+        distance:
+          value: 23.76
+          units: km
     - region: ID
       exchange: '341637'
       name: Silver City
@@ -2626,6 +3386,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '42.659782'
       long: "-111.601028"
+      closest_city:
+        name: Soda Springs
+        distance:
+          value: 1.09
+          units: km
     - region: ID
       exchange: '341640'
       name: Soldier
@@ -2642,6 +3407,11 @@ rate_centers:
       ilec_name: OREGON-IDAHO UTILITIES, INC.
       lat: '42.96827'
       long: "-117.008948"
+      closest_city:
+        name: Murphy
+        distance:
+          value: 46.19
+          units: km
     - region: ID
       exchange: '344790'
       name: Spalding
@@ -2666,6 +3436,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '47.9671'
       long: "-116.869522"
+      closest_city:
+        name: Spirit Lake
+        distance:
+          value: 0.15
+          units: km
     - region: ID
       exchange: '045910'
       name: Springfield
@@ -2674,6 +3449,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER IDAHO, LLC DBA ZIPLY FIBER
       lat: '43.083351'
       long: "-112.693401"
+      closest_city:
+        name: Rockford
+        distance:
+          value: 17.69
+          units: km
     - region: ID
       exchange: '362704'
       name: Springston
@@ -2690,6 +3470,11 @@ rate_centers:
       ilec_name: FREMONT TELCOM CO.
       lat: '43.967164'
       long: "-111.693259"
+      closest_city:
+        name: St. Anthony
+        distance:
+          value: 0.78
+          units: km
     - region: ID
       exchange: '045930'
       name: St Maries
@@ -2698,6 +3483,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '47.318418'
       long: "-116.564928"
+      closest_city:
+        name: St. Maries
+        distance:
+          value: 0.7
+          units: km
     - region: ID
       exchange: '045940'
       name: Stanley
@@ -2706,6 +3496,11 @@ rate_centers:
       ilec_name: MIDVALE TELEPHONE EXCHANGE, INC.
       lat: '44.218286'
       long: "-114.931144"
+      closest_city:
+        name: Stanley
+        distance:
+          value: 0.53
+          units: km
     - region: ID
       exchange: '045950'
       name: Star
@@ -2714,6 +3509,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '43.691863'
       long: "-116.494206"
+      closest_city:
+        name: Star
+        distance:
+          value: 1.22
+          units: km
     - region: ID
       exchange: '341648'
       name: Star Ranch
@@ -2794,6 +3594,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER IDAHO, LLC DBA ZIPLY FIBER
       lat: '43.973306'
       long: "-116.324495"
+      closest_city:
+        name: Horseshoe Bend
+        distance:
+          value: 11.82
+          units: km
     - region: ID
       exchange: '341657'
       name: Tamarack
@@ -2826,6 +3631,11 @@ rate_centers:
       ilec_name: MUD LAKE TELEPHONE COOPERATIVE ASSOCIATION, INC.
       lat: '43.842465'
       long: "-112.443211"
+      closest_city:
+        name: Mud Lake
+        distance:
+          value: 2.94
+          units: km
     - region: ID
       exchange: '045921'
       name: Teton
@@ -2866,6 +3676,11 @@ rate_centers:
       ilec_name: RURAL TEL CO
       lat: '42.075724'
       long: "-115.191393"
+      closest_city:
+        name: Castleford
+        distance:
+          value: 56.02
+          units: km
     - region: ID
       exchange: '045990'
       name: Tipanuk
@@ -2874,6 +3689,11 @@ rate_centers:
       ilec_name: RURAL TEL CO
       lat: '43.239564'
       long: "-115.839406"
+      closest_city:
+        name: Mountain Home
+        distance:
+          value: 16.59
+          units: km
     - region: ID
       exchange: '341666'
       name: Triumph
@@ -2890,6 +3710,11 @@ rate_centers:
       ilec_name: POTLATCH TEL. CO., INC.
       lat: '46.734587'
       long: "-116.767891"
+      closest_city:
+        name: Troy
+        distance:
+          value: 0.55
+          units: km
     - region: ID
       exchange: '046010'
       name: Twin Falls
@@ -2898,6 +3723,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '42.652681'
       long: "-114.52368"
+      closest_city:
+        name: Jerome
+        distance:
+          value: 7.28
+          units: km
     - region: ID
       exchange: '362707'
       name: Twin Lakes
@@ -2914,6 +3744,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '42.740717'
       long: "-111.060105"
+      closest_city:
+        name: Georgetown
+        distance:
+          value: 38.28
+          units: km
     - region: ID
       exchange: '341668'
       name: Ucon
@@ -2954,6 +3789,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '47.47286'
       long: "-115.923651"
+      closest_city:
+        name: Wallace
+        distance:
+          value: 0.11
+          units: km
     - region: ID
       exchange: '362710'
       name: Wardner
@@ -2970,6 +3810,11 @@ rate_centers:
       ilec_name: MIDVALE TELEPHONE EXCHANGE, INC.
       lat: '44.65653'
       long: "-115.667629"
+      closest_city:
+        name: Donnelly
+        distance:
+          value: 33.65
+          units: km
     - region: ID
       exchange: '046050'
       name: Warren
@@ -2978,6 +3823,11 @@ rate_centers:
       ilec_name: MIDVALE TELEPHONE EXCHANGE, INC.
       lat: '45.259227'
       long: "-115.668463"
+      closest_city:
+        name: Yellow Pine
+        distance:
+          value: 35.93
+          units: km
     - region: ID
       exchange: '046060'
       name: Wayan
@@ -2986,6 +3836,11 @@ rate_centers:
       ilec_name: COLUMBINE TELCO DBA SILVER STAR COMMUNICATIONS
       lat: '42.991269'
       long: "-111.381628"
+      closest_city:
+        name: Soda Springs
+        distance:
+          value: 40.59
+          units: km
     - region: ID
       exchange: '046070'
       name: Weippe
@@ -2994,6 +3849,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '46.383129'
       long: "-115.941596"
+      closest_city:
+        name: Weippe
+        distance:
+          value: 0.52
+          units: km
     - region: ID
       exchange: '046080'
       name: Weiser
@@ -3002,6 +3862,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '44.248645'
       long: "-116.969588"
+      closest_city:
+        name: Weiser
+        distance:
+          value: 0.68
+          units: km
     - region: ID
       exchange: '046090'
       name: Wellesley
@@ -3010,6 +3875,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '46.909315'
       long: "-117.036117"
+      closest_city:
+        name: Viola
+        distance:
+          value: 7.94
+          units: km
     - region: ID
       exchange: '046100'
       name: Wendell
@@ -3018,6 +3888,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '42.774487'
       long: "-114.70287"
+      closest_city:
+        name: Wendell
+        distance:
+          value: 0.02
+          units: km
     - region: ID
       exchange: '341676'
       name: West Magic
@@ -3050,6 +3925,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER IDAHO, LLC DBA ZIPLY FIBER
       lat: '45.764672'
       long: "-116.290457"
+      closest_city:
+        name: White Bird
+        distance:
+          value: 0.85
+          units: km
     - region: ID
       exchange: '046120'
       name: Wilder
@@ -3058,6 +3938,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER IDAHO, LLC DBA ZIPLY FIBER
       lat: '43.682588'
       long: "-116.906129"
+      closest_city:
+        name: Wilder
+        distance:
+          value: 0.49
+          units: km
     - region: ID
       exchange: '344794'
       name: Winchester
@@ -3082,3 +3967,8 @@ rate_centers:
       ilec_name: MIDVALE TELEPHONE EXCHANGE, INC.
       lat: '44.964982'
       long: "-115.492522"
+      closest_city:
+        name: Yellow Pine
+        distance:
+          value: 0.46
+          units: km

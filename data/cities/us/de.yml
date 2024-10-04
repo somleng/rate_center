@@ -1,320 +1,1347 @@
 ---
 cities:
-  us:
+  US:
     DE:
     - name: Arden
       region: DE
       lat: '39.8114'
       long: "-75.4886"
+      closest_rate_centers:
+      - name: Holly Oak
+        distance:
+          value: 3.37
+          units: km
+      - name: Wilmington
+        distance:
+          value: 8.8
+          units: km
+      - name: New Castle
+        distance:
+          value: 17.36
+          units: km
     - name: Ardencroft
       region: DE
       lat: '39.8056'
       long: "-75.4862"
+      closest_rate_centers:
+      - name: Holly Oak
+        distance:
+          value: 2.69
+          units: km
+      - name: Wilmington
+        distance:
+          value: 8.39
+          units: km
+      - name: New Castle
+        distance:
+          value: 16.85
+          units: km
     - name: Ardentown
       region: DE
       lat: '39.8083'
       long: "-75.4809"
+      closest_rate_centers:
+      - name: Holly Oak
+        distance:
+          value: 2.82
+          units: km
+      - name: Wilmington
+        distance:
+          value: 8.91
+          units: km
+      - name: New Castle
+        distance:
+          value: 17.31
+          units: km
     - name: Bear
       region: DE
       lat: '39.6189'
       long: "-75.6808"
+      closest_rate_centers:
+      - name: Delaware City
+        distance:
+          value: 4.98
+          units: km
+      - name: Newark
+        distance:
+          value: 9.34
+          units: km
+      - name: New Castle
+        distance:
+          value: 11.12
+          units: km
     - name: Bellefonte
       region: DE
       lat: '39.7668'
       long: "-75.4982"
+      closest_rate_centers:
+      - name: Holly Oak
+        distance:
+          value: 2.91
+          units: km
+      - name: Wilmington
+        distance:
+          value: 4.69
+          units: km
+      - name: New Castle
+        distance:
+          value: 12.53
+          units: km
     - name: Bethany Beach
       region: DE
       lat: '38.5391'
       long: "-75.0660"
+      closest_rate_centers:
+      - name: Ocean View
+        distance:
+          value: 2.37
+          units: km
+      - name: Dagsboro
+        distance:
+          value: 15.08
+          units: km
+      - name: Selbyville
+        distance:
+          value: 16.46
+          units: km
     - name: Bethel
       region: DE
       lat: '38.5711'
       long: "-75.6195"
+      closest_rate_centers:
+      - name: Laurel
+        distance:
+          value: 4.28
+          units: km
+      - name: Seaford
+        distance:
+          value: 7.74
+          units: km
+      - name: Delmar
+        distance:
+          value: 12.91
+          units: km
     - name: Blades
       region: DE
       lat: '38.6353'
       long: "-75.6024"
+      closest_rate_centers:
+      - name: Seaford
+        distance:
+          value: 1.64
+          units: km
+      - name: Laurel
+        distance:
+          value: 8.92
+          units: km
+      - name: Bridgeville
+        distance:
+          value: 11.7
+          units: km
     - name: Bowers
       region: DE
       lat: '39.0602'
       long: "-75.4020"
+      closest_rate_centers:
+      - name: Frederica
+        distance:
+          value: 7.89
+          units: km
+      - name: Camden
+        distance:
+          value: 14.75
+          units: km
+      - name: Dover
+        distance:
+          value: 15.68
+          units: km
     - name: Bridgeville
       region: DE
       lat: '38.7251'
       long: "-75.6029"
+      closest_rate_centers:
+      - name: Bridgeville
+        distance:
+          value: 1.76
+          units: km
+      - name: Greenwood
+        distance:
+          value: 9.34
+          units: km
+      - name: Seaford
+        distance:
+          value: 9.5
+          units: km
     - name: Brookside
       region: DE
       lat: '39.6665'
       long: "-75.7152"
+      closest_rate_centers:
+      - name: Newark
+        distance:
+          value: 3.55
+          units: km
+      - name: Delaware City
+        distance:
+          value: 11.02
+          units: km
+      - name: New Castle
+        distance:
+          value: 12.66
+          units: km
     - name: Camden
       region: DE
       lat: '39.0990'
       long: "-75.5571"
+      closest_rate_centers:
+      - name: Camden
+        distance:
+          value: 1.94
+          units: km
+      - name: Dover
+        distance:
+          value: 6.99
+          units: km
+      - name: Felton
+        distance:
+          value: 10.11
+          units: km
     - name: Cheswold
       region: DE
       lat: '39.2189'
       long: "-75.5882"
+      closest_rate_centers:
+      - name: Dover
+        distance:
+          value: 8.26
+          units: km
+      - name: Smyrna
+        distance:
+          value: 9.49
+          units: km
+      - name: Camden
+        distance:
+          value: 11.71
+          units: km
     - name: Claymont
       region: DE
       lat: '39.8032'
       long: "-75.4607"
+      closest_rate_centers:
+      - name: Holly Oak
+        distance:
+          value: 2.37
+          units: km
+      - name: Wilmington
+        distance:
+          value: 9.68
+          units: km
+      - name: New Castle
+        distance:
+          value: 17.63
+          units: km
     - name: Clayton
       region: DE
       lat: '39.2849'
       long: "-75.6366"
+      closest_rate_centers:
+      - name: Smyrna
+        distance:
+          value: 3.09
+          units: km
+      - name: Dover
+        distance:
+          value: 16.67
+          units: km
+      - name: Hartly
+        distance:
+          value: 17.0
+          units: km
     - name: Dagsboro
       region: DE
       lat: '38.5462'
       long: "-75.2458"
+      closest_rate_centers:
+      - name: Dagsboro
+        distance:
+          value: 3.44
+          units: km
+      - name: Millsboro
+        distance:
+          value: 6.31
+          units: km
+      - name: Selbyville
+        distance:
+          value: 9.9
+          units: km
     - name: Delaware City
       region: DE
       lat: '39.5740'
       long: "-75.5938"
+      closest_rate_centers:
+      - name: Delaware City
+        distance:
+          value: 4.68
+          units: km
+      - name: New Castle
+        distance:
+          value: 10.64
+          units: km
+      - name: Middletown
+        distance:
+          value: 17.18
+          units: km
     - name: Delmar
       region: DE
       lat: '38.4651'
       long: "-75.5553"
+      closest_rate_centers:
+      - name: Delmar
+        distance:
+          value: 1.99
+          units: km
+      - name: Laurel
+        distance:
+          value: 10.49
+          units: km
+      - name: Gumboro
+        distance:
+          value: 16.41
+          units: km
     - name: Dewey Beach
       region: DE
       lat: '38.6958'
       long: "-75.0749"
+      closest_rate_centers:
+      - name: Rehoboth
+        distance:
+          value: 2.61
+          units: km
+      - name: Lewes
+        distance:
+          value: 10.57
+          units: km
+      - name: Angola
+        distance:
+          value: 11.06
+          units: km
     - name: Dover
       region: DE
       lat: '39.1610'
       long: "-75.5202"
+      closest_rate_centers:
+      - name: Dover
+        distance:
+          value: 1.04
+          units: km
+      - name: Camden
+        distance:
+          value: 5.88
+          units: km
+      - name: Hartly
+        distance:
+          value: 15.81
+          units: km
     - name: Dover Base Housing
       region: DE
       lat: '39.1178'
       long: "-75.4837"
+      closest_rate_centers:
+      - name: Dover
+        distance:
+          value: 6.17
+          units: km
+      - name: Camden
+        distance:
+          value: 6.31
+          units: km
+      - name: Frederica
+        distance:
+          value: 12.07
+          units: km
     - name: Edgemoor
       region: DE
       lat: '39.7547'
       long: "-75.5069"
+      closest_rate_centers:
+      - name: Wilmington
+        distance:
+          value: 3.45
+          units: km
+      - name: Holly Oak
+        distance:
+          value: 4.38
+          units: km
+      - name: New Castle
+        distance:
+          value: 10.99
+          units: km
     - name: Ellendale
       region: DE
       lat: '38.8102'
       long: "-75.4250"
+      closest_rate_centers:
+      - name: Milton
+        distance:
+          value: 10.89
+          units: km
+      - name: Milford
+        distance:
+          value: 11.84
+          units: km
+      - name: Georgetown
+        distance:
+          value: 13.45
+          units: km
     - name: Elsmere
       region: DE
       lat: '39.7384'
       long: "-75.5946"
+      closest_rate_centers:
+      - name: Wilmington
+        distance:
+          value: 4.28
+          units: km
+      - name: New Castle
+        distance:
+          value: 8.22
+          units: km
+      - name: Hockessin
+        distance:
+          value: 10.33
+          units: km
     - name: Farmington
       region: DE
       lat: '38.8699'
       long: "-75.5790"
+      closest_rate_centers:
+      - name: Harrington
+        distance:
+          value: 5.96
+          units: km
+      - name: Greenwood
+        distance:
+          value: 6.9
+          units: km
+      - name: Milford
+        distance:
+          value: 13.9
+          units: km
     - name: Felton
       region: DE
       lat: '39.0127'
       long: "-75.5765"
+      closest_rate_centers:
+      - name: Felton
+        distance:
+          value: 0.38
+          units: km
+      - name: Frederica
+        distance:
+          value: 9.5
+          units: km
+      - name: Harrington
+        distance:
+          value: 9.95
+          units: km
     - name: Fenwick Island
       region: DE
       lat: '38.4604'
       long: "-75.0542"
+      closest_rate_centers:
+      - name: Ocean View
+        distance:
+          value: 10.49
+          units: km
+      - name: Selbyville
+        distance:
+          value: 14.86
+          units: km
+      - name: Dagsboro
+        distance:
+          value: 17.05
+          units: km
     - name: Frankford
       region: DE
       lat: '38.5215'
       long: "-75.2342"
+      closest_rate_centers:
+      - name: Dagsboro
+        distance:
+          value: 0.65
+          units: km
+      - name: Selbyville
+        distance:
+          value: 7.03
+          units: km
+      - name: Millsboro
+        distance:
+          value: 9.14
+          units: km
     - name: Frederica
       region: DE
       lat: '39.0081'
       long: "-75.4667"
+      closest_rate_centers:
+      - name: Frederica
+        distance:
+          value: 0.22
+          units: km
+      - name: Felton
+        distance:
+          value: 9.47
+          units: km
+      - name: Milford
+        distance:
+          value: 10.65
+          units: km
     - name: Georgetown
       region: DE
       lat: '38.6894'
       long: "-75.3872"
+      closest_rate_centers:
+      - name: Georgetown
+        distance:
+          value: 0.6
+          units: km
+      - name: Milton
+        distance:
+          value: 11.77
+          units: km
+      - name: Millsboro
+        distance:
+          value: 13.81
+          units: km
     - name: Glasgow
       region: DE
       lat: '39.6015'
       long: "-75.7473"
+      closest_rate_centers:
+      - name: Delaware City
+        distance:
+          value: 8.83
+          units: km
+      - name: Newark
+        distance:
+          value: 9.16
+          units: km
+      - name: Middletown
+        distance:
+          value: 16.77
+          units: km
     - name: Greenville
       region: DE
       lat: '39.7780'
       long: "-75.6046"
+      closest_rate_centers:
+      - name: Wilmington
+        distance:
+          value: 6.23
+          units: km
+      - name: Hockessin
+        distance:
+          value: 8.11
+          units: km
+      - name: Holly Oak
+        distance:
+          value: 11.32
+          units: km
     - name: Greenwood
       region: DE
       lat: '38.8072'
       long: "-75.5900"
+      closest_rate_centers:
+      - name: Greenwood
+        distance:
+          value: 0.19
+          units: km
+      - name: Bridgeville
+        distance:
+          value: 7.58
+          units: km
+      - name: Harrington
+        distance:
+          value: 12.93
+          units: km
     - name: Harrington
       region: DE
       lat: '38.9243'
       long: "-75.5707"
+      closest_rate_centers:
+      - name: Harrington
+        distance:
+          value: 1.1
+          units: km
+      - name: Felton
+        distance:
+          value: 9.47
+          units: km
+      - name: Milford
+        distance:
+          value: 12.2
+          units: km
     - name: Hartly
       region: DE
       lat: '39.1683'
       long: "-75.7124"
+      closest_rate_centers:
+      - name: Hartly
+        distance:
+          value: 3.22
+          units: km
+      - name: Camden
+        distance:
+          value: 14.61
+          units: km
+      - name: Dover
+        distance:
+          value: 15.6
+          units: km
     - name: Henlopen Acres
       region: DE
       lat: '38.7257'
       long: "-75.0849"
+      closest_rate_centers:
+      - name: Rehoboth
+        distance:
+          value: 0.89
+          units: km
+      - name: Lewes
+        distance:
+          value: 7.37
+          units: km
+      - name: Angola
+        distance:
+          value: 12.19
+          units: km
     - name: Highland Acres
       region: DE
       lat: '39.1163'
       long: "-75.5216"
+      closest_rate_centers:
+      - name: Camden
+        distance:
+          value: 3.03
+          units: km
+      - name: Dover
+        distance:
+          value: 4.81
+          units: km
+      - name: Frederica
+        distance:
+          value: 12.73
+          units: km
     - name: Hockessin
       region: DE
       lat: '39.7837'
       long: "-75.6815"
+      closest_rate_centers:
+      - name: Hockessin
+        distance:
+          value: 1.51
+          units: km
+      - name: Wilmington
+        distance:
+          value: 12.39
+          units: km
+      - name: Newark
+        distance:
+          value: 12.56
+          units: km
     - name: Houston
       region: DE
       lat: '38.9174'
       long: "-75.5039"
+      closest_rate_centers:
+      - name: Milford
+        distance:
+          value: 6.39
+          units: km
+      - name: Harrington
+        distance:
+          value: 6.91
+          units: km
+      - name: Frederica
+        distance:
+          value: 10.8
+          units: km
     - name: Kent Acres
       region: DE
       lat: '39.1324'
       long: "-75.5160"
+      closest_rate_centers:
+      - name: Dover
+        distance:
+          value: 3.24
+          units: km
+      - name: Camden
+        distance:
+          value: 3.94
+          units: km
+      - name: Frederica
+        distance:
+          value: 14.25
+          units: km
     - name: Kenton
       region: DE
       lat: '39.2274'
       long: "-75.6646"
+      closest_rate_centers:
+      - name: Smyrna
+        distance:
+          value: 9.64
+          units: km
+      - name: Hartly
+        distance:
+          value: 10.17
+          units: km
+      - name: Dover
+        distance:
+          value: 13.75
+          units: km
     - name: Laurel
       region: DE
       lat: '38.5691'
       long: "-75.5689"
+      closest_rate_centers:
+      - name: Laurel
+        distance:
+          value: 1.24
+          units: km
+      - name: Seaford
+        distance:
+          value: 9.12
+          units: km
+      - name: Delmar
+        distance:
+          value: 12.17
+          units: km
     - name: Leipsic
       region: DE
       lat: '39.2430'
       long: "-75.5155"
+      closest_rate_centers:
+      - name: Dover
+        distance:
+          value: 9.47
+          units: km
+      - name: Smyrna
+        distance:
+          value: 10.44
+          units: km
+      - name: Camden
+        distance:
+          value: 14.52
+          units: km
     - name: Lewes
       region: DE
       lat: '38.7776'
       long: "-75.1450"
+      closest_rate_centers:
+      - name: Lewes
+        distance:
+          value: 0.49
+          units: km
+      - name: Rehoboth
+        distance:
+          value: 8.42
+          units: km
+      - name: Milton
+        distance:
+          value: 14.1
+          units: km
     - name: Lincoln
       region: DE
       lat: '38.8680'
       long: "-75.4229"
+      closest_rate_centers:
+      - name: Milford
+        distance:
+          value: 5.44
+          units: km
+      - name: Milton
+        distance:
+          value: 14.37
+          units: km
+      - name: Harrington
+        distance:
+          value: 15.19
+          units: km
     - name: Little Creek
       region: DE
       lat: '39.1659'
       long: "-75.4481"
+      closest_rate_centers:
+      - name: Dover
+        distance:
+          value: 7.27
+          units: km
+      - name: Camden
+        distance:
+          value: 10.87
+          units: km
+      - name: Frederica
+        distance:
+          value: 17.4
+          units: km
     - name: Long Neck
       region: DE
       lat: '38.6205'
       long: "-75.1529"
+      closest_rate_centers:
+      - name: Angola
+        distance:
+          value: 4.79
+          units: km
+      - name: Ocean View
+        distance:
+          value: 9.55
+          units: km
+      - name: Rehoboth
+        distance:
+          value: 12.3
+          units: km
     - name: Magnolia
       region: DE
       lat: '39.0714'
       long: "-75.4760"
+      closest_rate_centers:
+      - name: Frederica
+        distance:
+          value: 6.87
+          units: km
+      - name: Camden
+        distance:
+          value: 8.58
+          units: km
+      - name: Dover
+        distance:
+          value: 10.85
+          units: km
     - name: Middletown
       region: DE
       lat: '39.4450'
       long: "-75.7183"
+      closest_rate_centers:
+      - name: Middletown
+        distance:
+          value: 0.84
+          units: km
+      - name: Delaware City
+        distance:
+          value: 16.44
+          units: km
+      - name: Smyrna
+        distance:
+          value: 18.4
+          units: km
     - name: Milford
       region: DE
       lat: '38.9091'
       long: "-75.4227"
+      closest_rate_centers:
+      - name: Milford
+        distance:
+          value: 1.05
+          units: km
+      - name: Frederica
+        distance:
+          value: 11.85
+          units: km
+      - name: Harrington
+        distance:
+          value: 13.99
+          units: km
     - name: Millsboro
       region: DE
       lat: '38.5892'
       long: "-75.3089"
+      closest_rate_centers:
+      - name: Millsboro
+        distance:
+          value: 1.64
+          units: km
+      - name: Dagsboro
+        distance:
+          value: 10.27
+          units: km
+      - name: Angola
+        distance:
+          value: 12.53
+          units: km
     - name: Millville
       region: DE
       lat: '38.5356'
       long: "-75.1284"
+      closest_rate_centers:
+      - name: Ocean View
+        distance:
+          value: 3.83
+          units: km
+      - name: Dagsboro
+        distance:
+          value: 9.68
+          units: km
+      - name: Selbyville
+        distance:
+          value: 11.98
+          units: km
     - name: Milton
       region: DE
       lat: '38.7750'
       long: "-75.3102"
+      closest_rate_centers:
+      - name: Milton
+        distance:
+          value: 0.22
+          units: km
+      - name: Georgetown
+        distance:
+          value: 11.03
+          units: km
+      - name: Lewes
+        distance:
+          value: 14.79
+          units: km
     - name: New Castle
       region: DE
       lat: '39.6681'
       long: "-75.5697"
+      closest_rate_centers:
+      - name: New Castle
+        distance:
+          value: 0.21
+          units: km
+      - name: Wilmington
+        distance:
+          value: 8.84
+          units: km
+      - name: Delaware City
+        distance:
+          value: 11.63
+          units: km
     - name: Newark
       region: DE
       lat: '39.6776'
       long: "-75.7576"
+      closest_rate_centers:
+      - name: Newark
+        distance:
+          value: 0.95
+          units: km
+      - name: Hockessin
+        distance:
+          value: 12.95
+          units: km
+      - name: Delaware City
+        distance:
+          value: 14.19
+          units: km
     - name: Newport
       region: DE
       lat: '39.7135'
       long: "-75.6046"
+      closest_rate_centers:
+      - name: New Castle
+        distance:
+          value: 6.03
+          units: km
+      - name: Wilmington
+        distance:
+          value: 6.18
+          units: km
+      - name: Hockessin
+        distance:
+          value: 11.34
+          units: km
     - name: North Star
       region: DE
       lat: '39.7550'
       long: "-75.7331"
+      closest_rate_centers:
+      - name: Hockessin
+        distance:
+          value: 4.43
+          units: km
+      - name: Newark
+        distance:
+          value: 8.05
+          units: km
+      - name: Wilmington
+        distance:
+          value: 16.08
+          units: km
     - name: Ocean View
       region: DE
       lat: '38.5355'
       long: "-75.0984"
+      closest_rate_centers:
+      - name: Ocean View
+        distance:
+          value: 1.89
+          units: km
+      - name: Dagsboro
+        distance:
+          value: 12.23
+          units: km
+      - name: Selbyville
+        distance:
+          value: 13.93
+          units: km
     - name: Odessa
       region: DE
       lat: '39.4565'
       long: "-75.6605"
+      closest_rate_centers:
+      - name: Middletown
+        distance:
+          value: 4.91
+          units: km
+      - name: Delaware City
+        distance:
+          value: 14.04
+          units: km
+      - name: Smyrna
+        distance:
+          value: 17.66
+          units: km
     - name: Pike Creek
       region: DE
       lat: '39.7488'
       long: "-75.6950"
+      closest_rate_centers:
+      - name: Hockessin
+        distance:
+          value: 4.04
+          units: km
+      - name: Newark
+        distance:
+          value: 8.62
+          units: km
+      - name: Wilmington
+        distance:
+          value: 12.79
+          units: km
     - name: Pike Creek Valley
       region: DE
       lat: '39.7294'
       long: "-75.6989"
+      closest_rate_centers:
+      - name: Hockessin
+        distance:
+          value: 6.19
+          units: km
+      - name: Newark
+        distance:
+          value: 6.69
+          units: km
+      - name: New Castle
+        distance:
+          value: 13.19
+          units: km
     - name: Port Penn
       region: DE
       lat: '39.5169'
       long: "-75.5811"
+      closest_rate_centers:
+      - name: Delaware City
+        distance:
+          value: 9.23
+          units: km
+      - name: Middletown
+        distance:
+          value: 13.72
+          units: km
+      - name: New Castle
+        distance:
+          value: 16.79
+          units: km
     - name: Rehoboth Beach
       region: DE
       lat: '38.7172'
       long: "-75.0845"
+      closest_rate_centers:
+      - name: Rehoboth
+        distance:
+          value: 0.1
+          units: km
+      - name: Lewes
+        distance:
+          value: 8.13
+          units: km
+      - name: Angola
+        distance:
+          value: 11.61
+          units: km
     - name: Rising Sun-Lebanon
       region: DE
       lat: '39.1000'
       long: "-75.5047"
+      closest_rate_centers:
+      - name: Camden
+        distance:
+          value: 4.85
+          units: km
+      - name: Dover
+        distance:
+          value: 6.94
+          units: km
+      - name: Frederica
+        distance:
+          value: 10.52
+          units: km
     - name: Riverview
       region: DE
       lat: '39.0293'
       long: "-75.5202"
+      closest_rate_centers:
+      - name: Frederica
+        distance:
+          value: 5.1
+          units: km
+      - name: Felton
+        distance:
+          value: 5.33
+          units: km
+      - name: Camden
+        distance:
+          value: 10.19
+          units: km
     - name: Rodney Village
       region: DE
       lat: '39.1283'
       long: "-75.5396"
+      closest_rate_centers:
+      - name: Camden
+        distance:
+          value: 1.99
+          units: km
+      - name: Dover
+        distance:
+          value: 3.45
+          units: km
+      - name: Felton
+        distance:
+          value: 13.6
+          units: km
     - name: Seaford
       region: DE
       lat: '38.6538'
       long: "-75.6110"
+      closest_rate_centers:
+      - name: Seaford
+        distance:
+          value: 1.65
+          units: km
+      - name: Bridgeville
+        distance:
+          value: 9.64
+          units: km
+      - name: Laurel
+        distance:
+          value: 11.1
+          units: km
     - name: Selbyville
       region: DE
       lat: '38.4629'
       long: "-75.2117"
+      closest_rate_centers:
+      - name: Selbyville
+        distance:
+          value: 1.23
+          units: km
+      - name: Dagsboro
+        distance:
+          value: 6.3
+          units: km
+      - name: Gumboro
+        distance:
+          value: 13.81
+          units: km
     - name: Slaughter Beach
       region: DE
       lat: '38.9150'
       long: "-75.3090"
+      closest_rate_centers:
+      - name: Milford
+        distance:
+          value: 10.47
+          units: km
+      - name: Milton
+        distance:
+          value: 15.56
+          units: km
+      - name: Frederica
+        distance:
+          value: 17.25
+          units: km
     - name: Smyrna
       region: DE
       lat: '39.2935'
       long: "-75.6083"
+      closest_rate_centers:
+      - name: Smyrna
+        distance:
+          value: 1.03
+          units: km
+      - name: Dover
+        distance:
+          value: 16.36
+          units: km
+      - name: Hartly
+        distance:
+          value: 18.81
+          units: km
     - name: South Bethany
       region: DE
       lat: '38.5160'
       long: "-75.0589"
+      closest_rate_centers:
+      - name: Ocean View
+        distance:
+          value: 4.66
+          units: km
+      - name: Dagsboro
+        distance:
+          value: 15.48
+          units: km
+      - name: Selbyville
+        distance:
+          value: 15.78
+          units: km
     - name: St. Georges
       region: DE
       lat: '39.5606'
       long: "-75.6514"
+      closest_rate_centers:
+      - name: Delaware City
+        distance:
+          value: 2.44
+          units: km
+      - name: Middletown
+        distance:
+          value: 13.29
+          units: km
+      - name: New Castle
+        distance:
+          value: 13.9
+          units: km
     - name: Townsend
       region: DE
       lat: '39.3968'
       long: "-75.6943"
+      closest_rate_centers:
+      - name: Middletown
+        distance:
+          value: 6.5
+          units: km
+      - name: Smyrna
+        distance:
+          value: 12.77
+          units: km
+      - name: Delaware City
+        distance:
+          value: 21.02
+          units: km
     - name: Viola
       region: DE
       lat: '39.0429'
       long: "-75.5715"
+      closest_rate_centers:
+      - name: Felton
+        distance:
+          value: 3.76
+          units: km
+      - name: Camden
+        distance:
+          value: 8.27
+          units: km
+      - name: Frederica
+        distance:
+          value: 9.77
+          units: km
     - name: Wilmington
       region: DE
       lat: '39.7415'
       long: "-75.5416"
+      closest_rate_centers:
+      - name: Wilmington
+        distance:
+          value: 0.54
+          units: km
+      - name: Holly Oak
+        distance:
+          value: 7.56
+          units: km
+      - name: New Castle
+        distance:
+          value: 8.52
+          units: km
     - name: Wilmington Manor
       region: DE
       lat: '39.6858'
       long: "-75.5849"
+      closest_rate_centers:
+      - name: New Castle
+        distance:
+          value: 2.53
+          units: km
+      - name: Wilmington
+        distance:
+          value: 7.44
+          units: km
+      - name: Delaware City
+        distance:
+          value: 12.69
+          units: km
     - name: Woodside
       region: DE
       lat: '39.0711'
       long: "-75.5677"
+      closest_rate_centers:
+      - name: Camden
+        distance:
+          value: 5.13
+          units: km
+      - name: Felton
+        distance:
+          value: 6.91
+          units: km
+      - name: Dover
+        distance:
+          value: 10.23
+          units: km
     - name: Woodside East
       region: DE
       lat: '39.0676'
       long: "-75.5376"
+      closest_rate_centers:
+      - name: Camden
+        distance:
+          value: 5.67
+          units: km
+      - name: Felton
+        distance:
+          value: 7.29
+          units: km
+      - name: Frederica
+        distance:
+          value: 8.86
+          units: km
     - name: Wyoming
       region: DE
       lat: '39.1147'
       long: "-75.5630"
+      closest_rate_centers:
+      - name: Camden
+        distance:
+          value: 0.57
+          units: km
+      - name: Dover
+        distance:
+          value: 5.59
+          units: km
+      - name: Felton
+        distance:
+          value: 11.77
+          units: km

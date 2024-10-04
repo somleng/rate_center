@@ -1,7 +1,7 @@
 ---
 rate_centers:
-  us:
-    pr:
+  US:
+    PR:
     - region: PR
       exchange: '175010'
       name: Adjuntas
@@ -10,6 +10,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.167648'
       long: "-66.724481"
+      closest_city:
+        name: Adjuntas
+        distance:
+          value: 0.44
+          units: km
     - region: PR
       exchange: '175020'
       name: Aguada
@@ -18,6 +23,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.398077'
       long: "-67.194079"
+      closest_city:
+        name: Aguada
+        distance:
+          value: 2.07
+          units: km
     - region: PR
       exchange: '175030'
       name: Aguadilla
@@ -26,6 +36,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.344569'
       long: "-67.151433"
+      closest_city:
+        name: Luyando
+        distance:
+          value: 1.49
+          units: km
     - region: PR
       exchange: '175040'
       name: Aguas Buenas
@@ -34,6 +49,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.253868'
       long: "-66.103272"
+      closest_city:
+        name: Aguas Buenas
+        distance:
+          value: 0.48
+          units: km
     - region: PR
       exchange: '175050'
       name: Aguirre
@@ -42,6 +62,12 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '17.974063'
       long: "-66.226316"
+      closest_city:
+        name: !binary |-
+          Q29xdcOt
+        distance:
+          value: 0.59
+          units: km
     - region: PR
       exchange: '175060'
       name: Aibonito
@@ -50,6 +76,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.141078'
       long: "-66.264185"
+      closest_city:
+        name: Aibonito
+        distance:
+          value: 0.23
+          units: km
     - region: PR
       exchange: '347222'
       name: Altamesa
@@ -74,6 +105,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.467061'
       long: "-66.732053"
+      closest_city:
+        name: Arecibo
+        distance:
+          value: 2.12
+          units: km
     - region: PR
       exchange: '347226'
       name: Arecibo Santana
@@ -90,6 +126,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '17.980634'
       long: "-66.064701"
+      closest_city:
+        name: Arroyo
+        distance:
+          value: 1.23
+          units: km
     - region: PR
       exchange: '175070'
       name: Añasco
@@ -98,6 +139,12 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.280407'
       long: "-67.146974"
+      closest_city:
+        name: !binary |-
+          QcOxYXNjbw==
+        distance:
+          value: 0.9
+          units: km
     - region: PR
       exchange: '347228'
       name: Bajadero
@@ -122,6 +169,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.457937'
       long: "-66.540361"
+      closest_city:
+        name: Barceloneta
+        distance:
+          value: 0.6
+          units: km
     - region: PR
       exchange: '175110'
       name: Barranquitas
@@ -130,6 +182,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.184985'
       long: "-66.308104"
+      closest_city:
+        name: Barranquitas
+        distance:
+          value: 0.22
+          units: km
     - region: PR
       exchange: '347232'
       name: Barrio Coqui
@@ -178,6 +235,12 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.393588'
       long: "-66.1563"
+      closest_city:
+        name: !binary |-
+          QmF5YW3Ds24=
+        distance:
+          value: 1.75
+          units: km
     - region: PR
       exchange: '175130'
       name: Bayamón Sur
@@ -186,6 +249,12 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.370658'
       long: "-66.192489"
+      closest_city:
+        name: !binary |-
+          UMOhamFyb3M=
+        distance:
+          value: 2.94
+          units: km
     - region: PR
       exchange: '347239'
       name: Bda Vietnam
@@ -242,6 +311,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.090015'
       long: "-67.143849"
+      closest_city:
+        name: Cabo Rojo
+        distance:
+          value: 0.59
+          units: km
     - region: PR
       exchange: '175150'
       name: Caguas
@@ -250,6 +324,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.237827'
       long: "-66.03741"
+      closest_city:
+        name: Caguas
+        distance:
+          value: 0.68
+          units: km
     - region: PR
       exchange: '175160'
       name: Camuy
@@ -258,6 +337,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.481376'
       long: "-66.841273"
+      closest_city:
+        name: Camuy
+        distance:
+          value: 0.94
+          units: km
     - region: PR
       exchange: '347249'
       name: Cantera
@@ -274,6 +358,12 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.376458'
       long: "-65.903688"
+      closest_city:
+        name: !binary |-
+          Q2Fuw7N2YW5hcw==
+        distance:
+          value: 0.85
+          units: km
     - region: PR
       exchange: '175601'
       name: Caparra
@@ -314,6 +404,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.359281'
       long: "-66.014096"
+      closest_city:
+        name: Trujillo Alto
+        distance:
+          value: 0.48
+          units: km
     - region: PR
       exchange: '175190'
       name: Cataño
@@ -322,6 +417,12 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.441861'
       long: "-66.124268"
+      closest_city:
+        name: !binary |-
+          Q2F0YcOxbw==
+        distance:
+          value: 2.14
+          units: km
     - region: PR
       exchange: '175200'
       name: Cayey
@@ -330,6 +431,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.112259'
       long: "-66.166289"
+      closest_city:
+        name: Cayey
+        distance:
+          value: 0.46
+          units: km
     - region: PR
       exchange: '175661'
       name: Ceiba
@@ -354,6 +460,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.336491'
       long: "-66.466642"
+      closest_city:
+        name: Ciales
+        distance:
+          value: 0.6
+          units: km
     - region: PR
       exchange: '175220'
       name: Cidra
@@ -362,6 +473,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.174122'
       long: "-66.159936"
+      closest_city:
+        name: Cidra
+        distance:
+          value: 0.44
+          units: km
     - region: PR
       exchange: '175230'
       name: Coamo
@@ -370,6 +486,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.079711'
       long: "-66.360312"
+      closest_city:
+        name: Coamo
+        distance:
+          value: 0.51
+          units: km
     - region: PR
       exchange: '347262'
       name: College Park
@@ -386,6 +507,12 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.223093'
       long: "-66.217966"
+      closest_city:
+        name: !binary |-
+          Q29tZXLDrW8=
+        distance:
+          value: 0.78
+          units: km
     - region: PR
       exchange: '347264'
       name: Condado
@@ -426,6 +553,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.345487'
       long: "-66.314898"
+      closest_city:
+        name: Corozal
+        distance:
+          value: 0.56
+          units: km
     - region: PR
       exchange: '347269'
       name: Corral Viejo
@@ -458,6 +590,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.307241'
       long: "-65.303626"
+      closest_city:
+        name: Culebra
+        distance:
+          value: 0.37
+          units: km
     - region: PR
       exchange: '347273'
       name: Cupey
@@ -474,6 +611,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.46621'
       long: "-66.268292"
+      closest_city:
+        name: Dorado
+        distance:
+          value: 0.46
+          units: km
     - region: PR
       exchange: '347278'
       name: El Comandante
@@ -522,6 +664,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.336224'
       long: "-65.65085"
+      closest_city:
+        name: Fajardo
+        distance:
+          value: 0.92
+          units: km
     - region: PR
       exchange: '347281'
       name: Fernandez Juncos
@@ -538,6 +685,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.365091'
       long: "-66.564757"
+      closest_city:
+        name: Florida
+        distance:
+          value: 0.4
+          units: km
     - region: PR
       exchange: '347283'
       name: Fort Allen
@@ -594,6 +746,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '17.982406'
       long: "-66.111481"
+      closest_city:
+        name: Guayama
+        distance:
+          value: 0.91
+          units: km
     - region: PR
       exchange: '175320'
       name: Guayanilla
@@ -602,6 +759,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.018382'
       long: "-66.792098"
+      closest_city:
+        name: Guayanilla
+        distance:
+          value: 0.49
+          units: km
     - region: PR
       exchange: '175330'
       name: Guaynabo
@@ -610,6 +772,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.372771'
       long: "-66.106232"
+      closest_city:
+        name: Guaynabo
+        distance:
+          value: 1.38
+          units: km
     - region: PR
       exchange: '175340'
       name: Gurabo
@@ -618,6 +785,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.256931'
       long: "-65.974011"
+      closest_city:
+        name: Gurabo
+        distance:
+          value: 0.66
+          units: km
     - region: PR
       exchange: '175300'
       name: Guánica
@@ -626,6 +798,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '17.976129'
       long: "-66.914495"
+      closest_city:
+        name: Fuig
+        distance:
+          value: 1.1
+          units: km
     - region: PR
       exchange: '175161'
       name: Hatillo
@@ -658,6 +835,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.140116'
       long: "-67.129263"
+      closest_city:
+        name: Hormigueros
+        distance:
+          value: 1.07
+          units: km
     - region: PR
       exchange: '175360'
       name: Humacao
@@ -666,6 +848,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.149858'
       long: "-65.816833"
+      closest_city:
+        name: Humacao
+        distance:
+          value: 0.45
+          units: km
     - region: PR
       exchange: '347300'
       name: Hyde Park
@@ -682,6 +869,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.500521'
       long: "-67.02482"
+      closest_city:
+        name: Isabela
+        distance:
+          value: 0.34
+          units: km
     - region: PR
       exchange: '347302'
       name: Isla Verda
@@ -698,6 +890,12 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.442332'
       long: "-66.02104"
+      closest_city:
+        name: !binary |-
+          Q2HDsW8gTWFydGluIFBlw7Fh
+        distance:
+          value: 3.38
+          units: km
     - region: PR
       exchange: '175390'
       name: Jayuya
@@ -706,6 +904,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.220129'
       long: "-66.593578"
+      closest_city:
+        name: Jayuya
+        distance:
+          value: 0.51
+          units: km
     - region: PR
       exchange: '175400'
       name: Juana Díaz
@@ -714,6 +917,12 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.055034'
       long: "-66.505756"
+      closest_city:
+        name: !binary |-
+          SnVhbmEgRMOtYXo=
+        distance:
+          value: 0.25
+          units: km
     - region: PR
       exchange: '175410'
       name: Juncos
@@ -722,6 +931,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.229709'
       long: "-65.922978"
+      closest_city:
+        name: Juncos
+        distance:
+          value: 0.86
+          units: km
     - region: PR
       exchange: '347307'
       name: La Rambla
@@ -746,6 +960,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.045071'
       long: "-67.052827"
+      closest_city:
+        name: Lajas
+        distance:
+          value: 0.53
+          units: km
     - region: PR
       exchange: '175430'
       name: Lares
@@ -754,6 +973,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.292569'
       long: "-66.88573"
+      closest_city:
+        name: Lares
+        distance:
+          value: 0.48
+          units: km
     - region: PR
       exchange: '347311'
       name: Las Lomas
@@ -770,6 +994,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.255219'
       long: "-66.992621"
+      closest_city:
+        name: Maricao
+        distance:
+          value: 8.04
+          units: km
     - region: PR
       exchange: '175450'
       name: Las Piedras
@@ -778,6 +1007,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.180602'
       long: "-65.865065"
+      closest_city:
+        name: Las Piedras
+        distance:
+          value: 0.67
+          units: km
     - region: PR
       exchange: '175460'
       name: Levittown
@@ -786,6 +1020,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.439512'
       long: "-66.180539"
+      closest_city:
+        name: Las Gaviotas
+        distance:
+          value: 1.11
+          units: km
     - region: PR
       exchange: '175171'
       name: Loiza
@@ -818,6 +1057,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.375012'
       long: "-65.717011"
+      closest_city:
+        name: Luquillo
+        distance:
+          value: 0.64
+          units: km
     - region: PR
       exchange: '175480'
       name: Manatí
@@ -826,6 +1070,12 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.434449'
       long: "-66.486398"
+      closest_city:
+        name: !binary |-
+          TWFuYXTDrQ==
+        distance:
+          value: 0.81
+          units: km
     - region: PR
       exchange: '175490'
       name: Maricao
@@ -834,6 +1084,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.181914'
       long: "-66.983308"
+      closest_city:
+        name: Maricao
+        distance:
+          value: 0.32
+          units: km
     - region: PR
       exchange: '175500'
       name: Maunabo
@@ -842,6 +1097,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.009442'
       long: "-65.903448"
+      closest_city:
+        name: Maunabo
+        distance:
+          value: 0.51
+          units: km
     - region: PR
       exchange: '175510'
       name: Mayaguez
@@ -850,6 +1110,12 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.200025'
       long: "-67.143011"
+      closest_city:
+        name: !binary |-
+          TWF5YWfDvGV6
+        distance:
+          value: 0.35
+          units: km
     - region: PR
       exchange: '347323'
       name: Mercedita
@@ -882,6 +1148,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.396805'
       long: "-67.117104"
+      closest_city:
+        name: Moca
+        distance:
+          value: 0.45
+          units: km
     - region: PR
       exchange: '175530'
       name: Morovis
@@ -890,6 +1161,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.329838'
       long: "-66.40556"
+      closest_city:
+        name: Morovis
+        distance:
+          value: 0.34
+          units: km
     - region: PR
       exchange: '175540'
       name: Naguabo
@@ -898,6 +1174,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.209355'
       long: "-65.733444"
+      closest_city:
+        name: Naguabo
+        distance:
+          value: 0.46
+          units: km
     - region: PR
       exchange: '175550'
       name: Naranjito
@@ -906,6 +1187,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.307042'
       long: "-66.248556"
+      closest_city:
+        name: Naranjito
+        distance:
+          value: 0.48
+          units: km
     - region: PR
       exchange: '347330'
       name: Old San Juan
@@ -922,6 +1208,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.224878'
       long: "-66.391316"
+      closest_city:
+        name: Orocovis
+        distance:
+          value: 0.16
+          units: km
     - region: PR
       exchange: '347332'
       name: Patillas
@@ -938,6 +1229,12 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.061269'
       long: "-66.722957"
+      closest_city:
+        name: !binary |-
+          UGXDsXVlbGFz
+        distance:
+          value: 0.32
+          units: km
     - region: PR
       exchange: '175590'
       name: Ponce
@@ -946,6 +1243,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.008204'
       long: "-66.614157"
+      closest_city:
+        name: Ponce
+        distance:
+          value: 0.9
+          units: km
     - region: PR
       exchange: '175600'
       name: Pueblo Viejo
@@ -954,6 +1256,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.414949'
       long: "-66.103179"
+      closest_city:
+        name: Guaynabo
+        distance:
+          value: 3.69
+          units: km
     - region: PR
       exchange: '347336'
       name: Puerto Nuevo
@@ -994,6 +1301,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.474428'
       long: "-66.936883"
+      closest_city:
+        name: Quebradillas
+        distance:
+          value: 0.3
+          units: km
     - region: PR
       exchange: '175620'
       name: Ramey
@@ -1002,6 +1314,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.501847'
       long: "-67.131911"
+      closest_city:
+        name: San Antonio
+        distance:
+          value: 3.53
+          units: km
     - region: PR
       exchange: '175630'
       name: Rincón
@@ -1010,6 +1327,12 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.346445'
       long: "-67.25184"
+      closest_city:
+        name: !binary |-
+          UmluY8Ozbg==
+        distance:
+          value: 0.84
+          units: km
     - region: PR
       exchange: '175660'
       name: Roosevelt Roads
@@ -1018,6 +1341,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.220301'
       long: "-65.652105"
+      closest_city:
+        name: Daguao
+        distance:
+          value: 2.93
+          units: km
     - region: PR
       exchange: '175640'
       name: Río Grande
@@ -1026,6 +1354,12 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.379918'
       long: "-65.834327"
+      closest_city:
+        name: !binary |-
+          UsOtbyBHcmFuZGU=
+        distance:
+          value: 0.49
+          units: km
     - region: PR
       exchange: '175650'
       name: Río Piedras
@@ -1034,6 +1368,12 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.425802'
       long: "-66.058315"
+      closest_city:
+        name: !binary |-
+          Q2HDsW8gTWFydGluIFBlw7Fh
+        distance:
+          value: 0.98
+          units: km
     - region: PR
       exchange: '175670'
       name: Sabana Grande
@@ -1042,6 +1382,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.077602'
       long: "-66.961965"
+      closest_city:
+        name: Sabana Grande
+        distance:
+          value: 0.68
+          units: km
     - region: PR
       exchange: '347347'
       name: Sabana Hoyos
@@ -1066,6 +1411,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '17.9766'
       long: "-66.296486"
+      closest_city:
+        name: Salinas
+        distance:
+          value: 0.14
+          units: km
     - region: PR
       exchange: '347356'
       name: San Antonio
@@ -1082,6 +1432,12 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.081749'
       long: "-67.042554"
+      closest_city:
+        name: !binary |-
+          U2FuIEdlcm3DoW4=
+        distance:
+          value: 0.38
+          units: km
     - region: PR
       exchange: '347352'
       name: San Jose
@@ -1114,6 +1470,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.190694'
       long: "-65.959814"
+      closest_city:
+        name: San Lorenzo
+        distance:
+          value: 0.93
+          units: km
     - region: PR
       exchange: '347355'
       name: San Rosa
@@ -1130,6 +1491,12 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.342628'
       long: "-66.991006"
+      closest_city:
+        name: !binary |-
+          U2FuIFNlYmFzdGnDoW4=
+        distance:
+          value: 0.88
+          units: km
     - region: PR
       exchange: '175720'
       name: Santa Isabel
@@ -1138,6 +1505,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '17.968715'
       long: "-66.404771"
+      closest_city:
+        name: Santa Isabel
+        distance:
+          value: 0.06
+          units: km
     - region: PR
       exchange: '347359'
       name: Santa Maria
@@ -1154,6 +1526,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.445715'
       long: "-66.658382"
+      closest_city:
+        name: Animas
+        distance:
+          value: 2.32
+          units: km
     - region: PR
       exchange: '175740'
       name: Santurce
@@ -1162,6 +1539,12 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.452721'
       long: "-66.079394"
+      closest_city:
+        name: !binary |-
+          Q2HDsW8gTWFydGluIFBlw7Fh
+        distance:
+          value: 3.88
+          units: km
     - region: PR
       exchange: '175750'
       name: Santurce Este
@@ -1170,6 +1553,12 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.448955'
       long: "-66.052116"
+      closest_city:
+        name: !binary |-
+          Q2HDsW8gTWFydGluIFBlw7Fh
+        distance:
+          value: 2.01
+          units: km
     - region: PR
       exchange: '347363'
       name: Santurce Oeste
@@ -1202,6 +1591,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.387282'
       long: "-66.251879"
+      closest_city:
+        name: Toa Alta
+        distance:
+          value: 0.13
+          units: km
     - region: PR
       exchange: '175780'
       name: Toa Baja
@@ -1210,6 +1604,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.444126'
       long: "-66.231299"
+      closest_city:
+        name: Villa Calma
+        distance:
+          value: 0.17
+          units: km
     - region: PR
       exchange: '175790'
       name: Trujillo Alto
@@ -1218,6 +1617,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.371318'
       long: "-66.02273"
+      closest_city:
+        name: Trujillo Alto
+        distance:
+          value: 1.88
+          units: km
     - region: PR
       exchange: '347370'
       name: Trusilalto
@@ -1234,6 +1638,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.270441'
       long: "-66.698689"
+      closest_city:
+        name: Utuado
+        distance:
+          value: 0.65
+          units: km
     - region: PR
       exchange: '175810'
       name: Vega Alta
@@ -1242,6 +1651,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.411734'
       long: "-66.329254"
+      closest_city:
+        name: Vega Alta
+        distance:
+          value: 0.94
+          units: km
     - region: PR
       exchange: '175820'
       name: Vega Baja
@@ -1250,6 +1664,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.447977'
       long: "-66.385293"
+      closest_city:
+        name: Vega Baja
+        distance:
+          value: 1.73
+          units: km
     - region: PR
       exchange: '347374'
       name: Viejo San Juan
@@ -1266,6 +1685,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.146509'
       long: "-65.444186"
+      closest_city:
+        name: Vieques
+        distance:
+          value: 0.14
+          units: km
     - region: PR
       exchange: '347377'
       name: Villa Nevarez
@@ -1282,6 +1706,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.127499'
       long: "-66.491397"
+      closest_city:
+        name: Villalba
+        distance:
+          value: 1.0
+          units: km
     - region: PR
       exchange: '175850'
       name: Yabucoa
@@ -1290,6 +1719,11 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.050663'
       long: "-65.877013"
+      closest_city:
+        name: Yabucoa
+        distance:
+          value: 0.59
+          units: km
     - region: PR
       exchange: '175860'
       name: Yauco
@@ -1298,3 +1732,8 @@ rate_centers:
       ilec_name: PUERTO RICO TEL. CO.
       lat: '18.034626'
       long: "-66.851424"
+      closest_city:
+        name: Yauco
+        distance:
+          value: 1.07
+          units: km

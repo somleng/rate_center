@@ -1,7 +1,7 @@
 ---
 rate_centers:
-  us:
-    nc:
+  US:
+    NC:
     - region: NC
       exchange: '109260'
       name: Abbottsburg
@@ -10,6 +10,11 @@ rate_centers:
       ilec_name: STAR TEL. MEMBERSHIP CORP.
       lat: '34.51646'
       long: "-78.731345"
+      closest_city:
+        name: Bladenboro
+        distance:
+          value: 6.42
+          units: km
     - region: NC
       exchange: '109270'
       name: Aberdeen
@@ -18,6 +23,11 @@ rate_centers:
       ilec_name: WINDSTREAM NORTH CAROLINA, INC.
       lat: '35.132058'
       long: "-79.425173"
+      closest_city:
+        name: Aberdeen
+        distance:
+          value: 0.75
+          units: km
     - region: NC
       exchange: '109280'
       name: Acme
@@ -26,6 +36,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.324128'
       long: "-78.205969"
+      closest_city:
+        name: Delco
+        distance:
+          value: 1.99
+          units: km
     - region: NC
       exchange: '361639'
       name: Addor
@@ -42,6 +57,11 @@ rate_centers:
       ilec_name: YADKIN VALLEY TEL. MEMBERSHIP CORP.
       lat: '35.942648'
       long: "-80.40927"
+      closest_city:
+        name: Advance
+        distance:
+          value: 0.63
+          units: km
     - region: NC
       exchange: '109300'
       name: Ahoskie
@@ -50,6 +70,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '36.293249'
       long: "-76.9817"
+      closest_city:
+        name: Ahoskie
+        distance:
+          value: 1.26
+          units: km
     - region: NC
       exchange: '361776'
       name: Airlie
@@ -74,6 +99,11 @@ rate_centers:
       ilec_name: WINDSTREAM CONCORD TELEPHONE, LLC
       lat: '35.351915'
       long: "-80.199079"
+      closest_city:
+        name: Albemarle
+        distance:
+          value: 1.08
+          units: km
     - region: NC
       exchange: '361640'
       name: Albertson
@@ -154,6 +184,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - NC
       lat: '34.884449'
       long: "-80.510088"
+      closest_city:
+        name: Wingate
+        distance:
+          value: 12.62
+          units: km
     - region: NC
       exchange: '321772'
       name: Amity Hill
@@ -170,6 +205,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '36.266449'
       long: "-79.333235"
+      closest_city:
+        name: Green Level
+        distance:
+          value: 15.96
+          units: km
     - region: NC
       exchange: '109340'
       name: Andrews
@@ -178,6 +218,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - NC
       lat: '35.200288'
       long: "-83.818243"
+      closest_city:
+        name: Andrews
+        distance:
+          value: 0.73
+          units: km
     - region: NC
       exchange: '109350'
       name: Angier
@@ -186,6 +231,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.510442'
       long: "-78.750784"
+      closest_city:
+        name: Angier
+        distance:
+          value: 0.97
+          units: km
     - region: NC
       exchange: '109360'
       name: Ansonville
@@ -194,6 +244,11 @@ rate_centers:
       ilec_name: WINDSTREAM NORTH CAROLINA, INC.
       lat: '35.097473'
       long: "-80.116246"
+      closest_city:
+        name: Ansonville
+        distance:
+          value: 0.95
+          units: km
     - region: NC
       exchange: '321654'
       name: Antioch
@@ -210,6 +265,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.726002'
       long: "-78.847413"
+      closest_city:
+        name: Apex
+        distance:
+          value: 2.44
+          units: km
     - region: NC
       exchange: '321655'
       name: Aquone
@@ -266,6 +326,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.481971'
       long: "-82.522799"
+      closest_city:
+        name: Royal Pines
+        distance:
+          value: 1.77
+          units: km
     - region: NC
       exchange: '322239'
       name: Ash
@@ -282,6 +347,11 @@ rate_centers:
       ilec_name: CENTRAL TEL. CO. OF NC DBA CENTURYLINK
       lat: '35.707133'
       long: "-79.816461"
+      closest_city:
+        name: Asheboro
+        distance:
+          value: 1.02
+          units: km
     - region: NC
       exchange: '109400'
       name: Asheville
@@ -290,6 +360,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.591609'
       long: "-82.56087"
+      closest_city:
+        name: Asheville
+        distance:
+          value: 2.41
+          units: km
     - region: NC
       exchange: '321658'
       name: Ashford
@@ -314,6 +389,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.524915'
       long: "-78.17258"
+      closest_city:
+        name: Atkinson
+        distance:
+          value: 0.39
+          units: km
     - region: NC
       exchange: '109420'
       name: Atlantic
@@ -322,6 +402,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '34.883012'
       long: "-76.332092"
+      closest_city:
+        name: Atlantic
+        distance:
+          value: 1.09
+          units: km
     - region: NC
       exchange: '361781'
       name: Atlantic Beach
@@ -346,6 +431,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '36.223813'
       long: "-77.116311"
+      closest_city:
+        name: Aulander
+        distance:
+          value: 0.53
+          units: km
     - region: NC
       exchange: '109440'
       name: Aurora
@@ -354,6 +444,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.299007'
       long: "-76.785561"
+      closest_city:
+        name: Aurora
+        distance:
+          value: 0.54
+          units: km
     - region: NC
       exchange: '361641'
       name: Autryville
@@ -378,6 +473,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.466187'
       long: "-77.414725"
+      closest_city:
+        name: Ayden
+        distance:
+          value: 0.39
+          units: km
     - region: NC
       exchange: '361787'
       name: Aydlett
@@ -394,6 +494,11 @@ rate_centers:
       ilec_name: WINDSTREAM CONCORD TELEPHONE, LLC
       lat: '35.4069'
       long: "-80.116754"
+      closest_city:
+        name: Badin
+        distance:
+          value: 0.15
+          units: km
     - region: NC
       exchange: '109470'
       name: Badin Lake
@@ -402,6 +507,11 @@ rate_centers:
       ilec_name: RANDOLPH TEL. MEMBERSHIP CORP.
       lat: '35.508986'
       long: "-80.104345"
+      closest_city:
+        name: Badin
+        distance:
+          value: 11.4
+          units: km
     - region: NC
       exchange: '322185'
       name: Bahama
@@ -418,6 +528,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.783744'
       long: "-78.117455"
+      closest_city:
+        name: Bailey
+        distance:
+          value: 0.54
+          units: km
     - region: NC
       exchange: '109490'
       name: Bakersville
@@ -426,6 +541,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - NC
       lat: '36.016331'
       long: "-82.169302"
+      closest_city:
+        name: Bakersville
+        distance:
+          value: 1.0
+          units: km
     - region: NC
       exchange: '321660'
       name: Bald Creek
@@ -450,6 +570,11 @@ rate_centers:
       ilec_name: SKYLINE TEL. MEMBERSHIP CORP.
       lat: '36.334176'
       long: "-81.538808"
+      closest_city:
+        name: West Jefferson
+        distance:
+          value: 7.95
+          units: km
     - region: NC
       exchange: '321661'
       name: Balfour
@@ -482,6 +607,11 @@ rate_centers:
       ilec_name: SKYLINE TEL. MEMBERSHIP CORP.
       lat: '36.168'
       long: "-81.877174"
+      closest_city:
+        name: Banner Elk
+        distance:
+          value: 1.32
+          units: km
     - region: NC
       exchange: '321776'
       name: Barber
@@ -514,6 +644,11 @@ rate_centers:
       ilec_name: BARNARDSVILLE TEL. CO.
       lat: '35.777034'
       long: "-82.458069"
+      closest_city:
+        name: Barnardsville
+        distance:
+          value: 0.59
+          units: km
     - region: NC
       exchange: '322242'
       name: Barnesville
@@ -538,6 +673,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.476816'
       long: "-76.80686"
+      closest_city:
+        name: Bath
+        distance:
+          value: 0.87
+          units: km
     - region: NC
       exchange: '361791'
       name: Battleboro
@@ -554,6 +694,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.140274'
       long: "-76.768685"
+      closest_city:
+        name: Bayboro
+        distance:
+          value: 0.79
+          units: km
     - region: NC
       exchange: '361642'
       name: Bear Creek
@@ -586,6 +731,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '34.724056'
       long: "-76.647844"
+      closest_city:
+        name: Beaufort
+        distance:
+          value: 0.67
+          units: km
     - region: NC
       exchange: '109560'
       name: Beech Mountain
@@ -594,6 +744,11 @@ rate_centers:
       ilec_name: SKYLINE TEL. MEMBERSHIP CORP.
       lat: '36.194805'
       long: "-81.877002"
+      closest_city:
+        name: Beech Mountain
+        distance:
+          value: 1.97
+          units: km
     - region: NC
       exchange: '361795'
       name: Belcross
@@ -618,6 +773,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.541471'
       long: "-76.615785"
+      closest_city:
+        name: Belhaven
+        distance:
+          value: 0.69
+          units: km
     - region: NC
       exchange: '361797'
       name: Bellarthur
@@ -634,6 +794,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.243691'
       long: "-81.042799"
+      closest_city:
+        name: Belmont
+        distance:
+          value: 2.51
+          units: km
     - region: NC
       exchange: '361798'
       name: Belvidere
@@ -666,6 +831,11 @@ rate_centers:
       ilec_name: RANDOLPH TEL. MEMBERSHIP CORP.
       lat: '35.523578'
       long: "-79.558849"
+      closest_city:
+        name: Bennett
+        distance:
+          value: 5.06
+          units: km
     - region: NC
       exchange: '109600'
       name: Benson
@@ -674,6 +844,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.381687'
       long: "-78.551342"
+      closest_city:
+        name: Benson
+        distance:
+          value: 0.84
+          units: km
     - region: NC
       exchange: '361799'
       name: Bertha
@@ -690,6 +865,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.284272'
       long: "-81.282596"
+      closest_city:
+        name: Bessemer City
+        distance:
+          value: 0.04
+          units: km
     - region: NC
       exchange: '322010'
       name: Bethania
@@ -706,6 +886,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.808531'
       long: "-77.37563"
+      closest_city:
+        name: Bethel
+        distance:
+          value: 0.16
+          units: km
     - region: NC
       exchange: '109630'
       name: Bethlehem
@@ -714,6 +899,11 @@ rate_centers:
       ilec_name: CENTRAL TEL. CO. OF NC DBA CENTURYLINK
       lat: '35.826762'
       long: "-81.310785"
+      closest_city:
+        name: Bethlehem
+        distance:
+          value: 1.76
+          units: km
     - region: NC
       exchange: '109640'
       name: Beulah
@@ -722,6 +912,11 @@ rate_centers:
       ilec_name: SURRY TEL. MEMBERSHIP CORP.
       lat: '36.46731'
       long: "-80.780445"
+      closest_city:
+        name: Dobson
+        distance:
+          value: 9.68
+          units: km
     - region: NC
       exchange: '109650'
       name: Beulaville
@@ -730,6 +925,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '34.917033'
       long: "-77.776764"
+      closest_city:
+        name: Beulaville
+        distance:
+          value: 0.75
+          units: km
     - region: NC
       exchange: '321666'
       name: Biltmore
@@ -762,6 +962,11 @@ rate_centers:
       ilec_name: CENTRAL TEL. CO. OF NC DBA CENTURYLINK
       lat: '35.347421'
       long: "-79.783382"
+      closest_city:
+        name: Biscoe
+        distance:
+          value: 1.24
+          units: km
     - region: NC
       exchange: '361801'
       name: Black Creek
@@ -778,6 +983,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.617578'
       long: "-82.318607"
+      closest_city:
+        name: Black Mountain
+        distance:
+          value: 0.87
+          units: km
     - region: NC
       exchange: '109680'
       name: Bladenboro
@@ -786,6 +996,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '34.542771'
       long: "-78.790298"
+      closest_city:
+        name: Bladenboro
+        distance:
+          value: 0.49
+          units: km
     - region: NC
       exchange: '322013'
       name: Blanch
@@ -826,6 +1041,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '36.132028'
       long: "-81.684915"
+      closest_city:
+        name: Blowing Rock
+        distance:
+          value: 1.31
+          units: km
     - region: NC
       exchange: '321670'
       name: Blue Ridge
@@ -882,6 +1102,11 @@ rate_centers:
       ilec_name: ATLANTIC TEL. MEMBERSHIP CORP.
       lat: '34.033374'
       long: "-78.065091"
+      closest_city:
+        name: Boiling Spring Lakes
+        distance:
+          value: 0.32
+          units: km
     - region: NC
       exchange: '109710'
       name: Bolivia
@@ -890,6 +1115,11 @@ rate_centers:
       ilec_name: ATLANTIC TEL. MEMBERSHIP CORP.
       lat: '34.068846'
       long: "-78.149627"
+      closest_city:
+        name: Bolivia
+        distance:
+          value: 0.25
+          units: km
     - region: NC
       exchange: '322248'
       name: Bolton
@@ -906,6 +1136,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.651203'
       long: "-79.418132"
+      closest_city:
+        name: Siler City
+        distance:
+          value: 8.9
+          units: km
     - region: NC
       exchange: '361804'
       name: Bonnerton
@@ -922,6 +1157,11 @@ rate_centers:
       ilec_name: WILKES TEL. MEMBERSHIP CORP.
       lat: '36.069548'
       long: "-81.246394"
+      closest_city:
+        name: Moravian Falls
+        distance:
+          value: 7.24
+          units: km
     - region: NC
       exchange: '109740'
       name: Boone
@@ -930,6 +1170,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '36.216344'
       long: "-81.681243"
+      closest_city:
+        name: Boone
+        distance:
+          value: 1.41
+          units: km
     - region: NC
       exchange: '109750'
       name: Boonville
@@ -938,6 +1183,11 @@ rate_centers:
       ilec_name: CENTRAL TEL. CO. OF NC DBA CENTURYLINK
       lat: '36.234539'
       long: "-80.705598"
+      closest_city:
+        name: Boonville
+        distance:
+          value: 0.34
+          units: km
     - region: NC
       exchange: '321788'
       name: Bostic
@@ -978,6 +1228,11 @@ rate_centers:
       ilec_name: CITIZENS TEL. CO.
       lat: '35.233062'
       long: "-82.735987"
+      closest_city:
+        name: Brevard
+        distance:
+          value: 1.47
+          units: km
     - region: NC
       exchange: '361805'
       name: Bridgeton
@@ -994,6 +1249,11 @@ rate_centers:
       ilec_name: WINDSTREAM NORTH CAROLINA, INC.
       lat: '35.457503'
       long: "-79.061719"
+      closest_city:
+        name: Broadway
+        distance:
+          value: 0.64
+          units: km
     - region: NC
       exchange: '321789'
       name: Brookford
@@ -1010,6 +1270,11 @@ rate_centers:
       ilec_name: YADKIN VALLEY TEL. MEMBERSHIP CORP.
       lat: '36.119753'
       long: "-80.767404"
+      closest_city:
+        name: Yadkinville
+        distance:
+          value: 9.81
+          units: km
     - region: NC
       exchange: '322017'
       name: Brooks Cross Roads
@@ -1042,6 +1307,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - NC
       lat: '35.434202'
       long: "-83.43877"
+      closest_city:
+        name: Bryson City
+        distance:
+          value: 1.19
+          units: km
     - region: NC
       exchange: '322188'
       name: Buffalo Lake
@@ -1090,6 +1360,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.549063'
       long: "-77.926389"
+      closest_city:
+        name: Burgaw
+        distance:
+          value: 0.42
+          units: km
     - region: NC
       exchange: '109810'
       name: Burlington
@@ -1098,6 +1373,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '36.089904'
       long: "-79.433616"
+      closest_city:
+        name: Burlington
+        distance:
+          value: 3.5
+          units: km
     - region: NC
       exchange: '109820'
       name: Burnsville
@@ -1106,6 +1386,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - NC
       lat: '35.914893'
       long: "-82.290669"
+      closest_city:
+        name: Burnsville
+        distance:
+          value: 0.65
+          units: km
     - region: NC
       exchange: '322189'
       name: Butner
@@ -1130,6 +1415,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.258748'
       long: "-75.541015"
+      closest_city:
+        name: Buxton
+        distance:
+          value: 1.03
+          units: km
     - region: NC
       exchange: '361654'
       name: Bynum
@@ -1202,6 +1492,11 @@ rate_centers:
       ilec_name: CENTRAL TEL. CO. OF NC DBA CENTURYLINK
       lat: '35.292057'
       long: "-79.739881"
+      closest_city:
+        name: Candor
+        distance:
+          value: 0.84
+          units: km
     - region: NC
       exchange: '109850'
       name: Canton
@@ -1210,6 +1505,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.531855'
       long: "-82.833585"
+      closest_city:
+        name: Canton
+        distance:
+          value: 2.29
+          units: km
     - region: NC
       exchange: '361669'
       name: Cape Carteret
@@ -1234,6 +1534,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.264748'
       long: "-81.790362"
+      closest_city:
+        name: Henrietta
+        distance:
+          value: 1.32
+          units: km
     - region: NC
       exchange: '109870'
       name: Carolina Beach
@@ -1242,6 +1547,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.034653'
       long: "-77.898316"
+      closest_city:
+        name: Carolina Beach
+        distance:
+          value: 0.57
+          units: km
     - region: NC
       exchange: '322253'
       name: Carolina Shores
@@ -1274,6 +1584,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.339544'
       long: "-79.415937"
+      closest_city:
+        name: Carthage
+        distance:
+          value: 1.95
+          units: km
     - region: NC
       exchange: '109890'
       name: Cary
@@ -1282,6 +1597,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.783571'
       long: "-78.780921"
+      closest_city:
+        name: Cary
+        distance:
+          value: 3.49
+          units: km
     - region: NC
       exchange: '109900'
       name: Cary (Research Triangle Park)
@@ -1290,6 +1610,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.783571'
       long: "-78.780921"
+      closest_city:
+        name: Cary
+        distance:
+          value: 3.49
+          units: km
     - region: NC
       exchange: '321793'
       name: Casar
@@ -1306,6 +1631,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - NC
       lat: '35.116203'
       long: "-83.099689"
+      closest_city:
+        name: Cashiers
+        distance:
+          value: 1.09
+          units: km
     - region: NC
       exchange: '361810'
       name: Castalia
@@ -1322,6 +1652,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.354718'
       long: "-77.902095"
+      closest_city:
+        name: Castle Hayne
+        distance:
+          value: 0.94
+          units: km
     - region: NC
       exchange: '322255'
       name: Caswell Beach
@@ -1338,6 +1673,11 @@ rate_centers:
       ilec_name: CENTRAL TEL. CO. OF NC DBA CENTURYLINK
       lat: '35.708187'
       long: "-81.075401"
+      closest_city:
+        name: Catawba
+        distance:
+          value: 0.79
+          units: km
     - region: NC
       exchange: '322022'
       name: Cedar Falls
@@ -1426,6 +1766,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '34.325125'
       long: "-78.821844"
+      closest_city:
+        name: Chadbourn
+        distance:
+          value: 0.29
+          units: km
     - region: NC
       exchange: '109950'
       name: Champion
@@ -1434,6 +1779,11 @@ rate_centers:
       ilec_name: WILKES TEL. MEMBERSHIP CORP.
       lat: '36.149723'
       long: "-81.298715"
+      closest_city:
+        name: Millers Creek
+        distance:
+          value: 7.28
+          units: km
     - region: NC
       exchange: '361813'
       name: Chapanoke
@@ -1450,6 +1800,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.908931'
       long: "-79.058374"
+      closest_city:
+        name: Chapel Hill
+        distance:
+          value: 2.66
+          units: km
     - region: NC
       exchange: '109970'
       name: Charlotte
@@ -1458,6 +1813,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.225966'
       long: "-80.838394"
+      closest_city:
+        name: Charlotte
+        distance:
+          value: 2.1
+          units: km
     - region: NC
       exchange: '109980'
       name: Cherokee
@@ -1466,6 +1826,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - NC
       lat: '35.483367'
       long: "-83.319049"
+      closest_city:
+        name: Cherokee
+        distance:
+          value: 1.65
+          units: km
     - region: NC
       exchange: '361814'
       name: Cherry Point
@@ -1482,6 +1847,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.383696'
       long: "-81.372908"
+      closest_city:
+        name: Cherryville
+        distance:
+          value: 0.48
+          units: km
     - region: NC
       exchange: '361815'
       name: Chicod
@@ -1514,6 +1884,11 @@ rate_centers:
       ilec_name: WINDSTREAM CONCORD TELEPHONE, LLC
       lat: '35.566006'
       long: "-80.572819"
+      closest_city:
+        name: China Grove
+        distance:
+          value: 0.88
+          units: km
     - region: NC
       exchange: '361660'
       name: Chinquapin
@@ -1538,6 +1913,11 @@ rate_centers:
       ilec_name: SURRY TEL. MEMBERSHIP CORP.
       lat: '35.790867'
       long: "-80.419789"
+      closest_city:
+        name: Tyro
+        distance:
+          value: 4.03
+          units: km
     - region: NC
       exchange: '110020'
       name: Claremont
@@ -1546,6 +1926,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.717747'
       long: "-81.147775"
+      closest_city:
+        name: Claremont
+        distance:
+          value: 0.95
+          units: km
     - region: NC
       exchange: '361661'
       name: Clarendon
@@ -1562,6 +1947,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '34.492751'
       long: "-78.657079"
+      closest_city:
+        name: Clarkton
+        distance:
+          value: 0.42
+          units: km
     - region: NC
       exchange: '110040'
       name: Clayton
@@ -1570,6 +1960,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.648821'
       long: "-78.457377"
+      closest_city:
+        name: Clayton
+        distance:
+          value: 1.32
+          units: km
     - region: NC
       exchange: '113451'
       name: Clemmons
@@ -1586,6 +1981,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.731702'
       long: "-80.68527"
+      closest_city:
+        name: Cleveland
+        distance:
+          value: 0.36
+          units: km
     - region: NC
       exchange: '321802'
       name: Cliffside
@@ -1610,6 +2010,11 @@ rate_centers:
       ilec_name: WILKES TEL. MEMBERSHIP CORP.
       lat: '36.158243'
       long: "-80.971817"
+      closest_city:
+        name: Ronda
+        distance:
+          value: 7.51
+          units: km
     - region: NC
       exchange: '110070'
       name: Clinton
@@ -1618,6 +2023,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.002381'
       long: "-78.325343"
+      closest_city:
+        name: Clinton
+        distance:
+          value: 0.59
+          units: km
     - region: NC
       exchange: '110080'
       name: Clyde
@@ -1626,6 +2036,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.532354'
       long: "-82.91172"
+      closest_city:
+        name: Clyde
+        distance:
+          value: 0.11
+          units: km
     - region: NC
       exchange: '361665'
       name: Coats
@@ -1650,6 +2065,11 @@ rate_centers:
       ilec_name: STAR TEL. MEMBERSHIP CORP.
       lat: '35.166842'
       long: "-78.569038"
+      closest_city:
+        name: Falcon
+        distance:
+          value: 8.04
+          units: km
     - region: NC
       exchange: '110100'
       name: Coinjock
@@ -1658,6 +2078,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '36.34975'
       long: "-75.94983"
+      closest_city:
+        name: Coinjock
+        distance:
+          value: 0.3
+          units: km
     - region: NC
       exchange: '110110'
       name: Colerain
@@ -1666,6 +2091,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '36.200463'
       long: "-76.764149"
+      closest_city:
+        name: Colerain
+        distance:
+          value: 0.2
+          units: km
     - region: NC
       exchange: '110120'
       name: Coleridge
@@ -1674,6 +2104,11 @@ rate_centers:
       ilec_name: RANDOLPH TEL. MEMBERSHIP CORP.
       lat: '35.642412'
       long: "-79.619458"
+      closest_city:
+        name: Ramseur
+        distance:
+          value: 10.99
+          units: km
     - region: NC
       exchange: '322029'
       name: Colfax
@@ -1706,6 +2141,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.917469'
       long: "-76.247716"
+      closest_city:
+        name: Columbia
+        distance:
+          value: 0.58
+          units: km
     - region: NC
       exchange: '110140'
       name: Columbus
@@ -1714,6 +2154,11 @@ rate_centers:
       ilec_name: WINDSTREAM NORTH CAROLINA, INC.
       lat: '35.258459'
       long: "-82.188312"
+      closest_city:
+        name: Columbus
+        distance:
+          value: 1.16
+          units: km
     - region: NC
       exchange: '361821'
       name: Como
@@ -1730,6 +2175,11 @@ rate_centers:
       ilec_name: WINDSTREAM CONCORD TELEPHONE, LLC
       lat: '35.397619'
       long: "-80.582166"
+      closest_city:
+        name: Concord
+        distance:
+          value: 4.98
+          units: km
     - region: NC
       exchange: '361822'
       name: Conetoe
@@ -1762,6 +2212,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '36.444258'
       long: "-77.225988"
+      closest_city:
+        name: Conway
+        distance:
+          value: 0.83
+          units: km
     - region: NC
       exchange: '110170'
       name: Cooleemee
@@ -1770,6 +2225,11 @@ rate_centers:
       ilec_name: YADKIN VALLEY TEL. MEMBERSHIP CORP.
       lat: '35.808353'
       long: "-80.559753"
+      closest_city:
+        name: Cooleemee
+        distance:
+          value: 0.56
+          units: km
     - region: NC
       exchange: '361824'
       name: Corapeake
@@ -1818,6 +2278,11 @@ rate_centers:
       ilec_name: YADKIN VALLEY TEL. MEMBERSHIP CORP.
       lat: '36.05672'
       long: "-80.622041"
+      closest_city:
+        name: Yadkinville
+        distance:
+          value: 8.96
+          units: km
     - region: NC
       exchange: '361826'
       name: Cove City
@@ -1850,6 +2315,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - NC
       lat: '36.114465'
       long: "-78.682847"
+      closest_city:
+        name: Creedmoor
+        distance:
+          value: 1.09
+          units: km
     - region: NC
       exchange: '110200'
       name: Creston
@@ -1858,6 +2328,11 @@ rate_centers:
       ilec_name: SKYLINE TEL. MEMBERSHIP CORP.
       lat: '36.43349'
       long: "-81.63039"
+      closest_city:
+        name: Lansing
+        distance:
+          value: 12.98
+          units: km
     - region: NC
       exchange: '110210'
       name: Creswell
@@ -1866,6 +2341,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.869951'
       long: "-76.391543"
+      closest_city:
+        name: Creswell
+        distance:
+          value: 1.15
+          units: km
     - region: NC
       exchange: '361828'
       name: Crisp
@@ -1922,6 +2402,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - NC
       lat: '35.318601'
       long: "-83.176217"
+      closest_city:
+        name: Cullowhee
+        distance:
+          value: 1.1
+          units: km
     - region: NC
       exchange: '322257'
       name: Currie
@@ -1946,6 +2431,11 @@ rate_centers:
       ilec_name: STAR TEL. MEMBERSHIP CORP.
       lat: '34.766672'
       long: "-78.526849"
+      closest_city:
+        name: Garland
+        distance:
+          value: 12.26
+          units: km
     - region: NC
       exchange: '321813'
       name: Dallas
@@ -1962,6 +2452,11 @@ rate_centers:
       ilec_name: CENTRAL TEL. CO. OF NC DBA CENTURYLINK
       lat: '36.414995'
       long: "-80.208679"
+      closest_city:
+        name: Danbury
+        distance:
+          value: 0.53
+          units: km
     - region: NC
       exchange: '110250'
       name: Davidson
@@ -1970,6 +2465,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.501044'
       long: "-80.848068"
+      closest_city:
+        name: Davidson
+        distance:
+          value: 2.84
+          units: km
     - region: NC
       exchange: '361830'
       name: Davis
@@ -2010,6 +2510,11 @@ rate_centers:
       ilec_name: WINDSTREAM NORTH CAROLINA, INC.
       lat: '35.633593'
       long: "-80.114426"
+      closest_city:
+        name: Denton
+        distance:
+          value: 0.58
+          units: km
     - region: NC
       exchange: '110270'
       name: Denver
@@ -2018,6 +2523,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.535891'
       long: "-81.033635"
+      closest_city:
+        name: Denver
+        distance:
+          value: 0.17
+          units: km
     - region: NC
       exchange: '321817'
       name: Derita
@@ -2050,6 +2560,11 @@ rate_centers:
       ilec_name: CENTRAL TEL. CO. OF NC DBA CENTURYLINK
       lat: '36.40103'
       long: "-80.724316"
+      closest_city:
+        name: Dobson
+        distance:
+          value: 0.92
+          units: km
     - region: NC
       exchange: '361832'
       name: Dover
@@ -2106,6 +2621,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.307714'
       long: "-78.617375"
+      closest_city:
+        name: Dunn
+        distance:
+          value: 0.58
+          units: km
     - region: NC
       exchange: '110291'
       name: Dunn (Cumberland)
@@ -2114,6 +2634,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.307714'
       long: "-78.617375"
+      closest_city:
+        name: Dunn
+        distance:
+          value: 0.58
+          units: km
     - region: NC
       exchange: '361834'
       name: Durants Neck
@@ -2130,6 +2655,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - NC
       lat: '35.993859'
       long: "-78.909087"
+      closest_city:
+        name: Durham
+        distance:
+          value: 1.74
+          units: km
     - region: NC
       exchange: '110302'
       name: Durham (Raleigh Border)
@@ -2138,6 +2668,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - NC
       lat: '35.993859'
       long: "-78.909087"
+      closest_city:
+        name: Durham
+        distance:
+          value: 1.74
+          units: km
     - region: NC
       exchange: '110301'
       name: Durham (Research Triangle Park)
@@ -2146,6 +2681,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - NC
       lat: '35.993859'
       long: "-78.909087"
+      closest_city:
+        name: Durham
+        distance:
+          value: 1.74
+          units: km
     - region: NC
       exchange: '322199'
       name: Durham Chapel Hill
@@ -2202,6 +2742,11 @@ rate_centers:
       ilec_name: YADKIN VALLEY TEL. MEMBERSHIP CORP.
       lat: '36.214551'
       long: "-80.506497"
+      closest_city:
+        name: East Bend
+        distance:
+          value: 0.4
+          units: km
     - region: NC
       exchange: '361675'
       name: East Fayetteville
@@ -2242,6 +2787,11 @@ rate_centers:
       ilec_name: CENTRAL TEL. CO. OF NC DBA CENTURYLINK
       lat: '36.499339'
       long: "-79.770358"
+      closest_city:
+        name: Eden
+        distance:
+          value: 2.63
+          units: km
     - region: NC
       exchange: '110330'
       name: Edenton
@@ -2250,6 +2800,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '36.065243'
       long: "-76.610632"
+      closest_city:
+        name: Edenton
+        distance:
+          value: 1.2
+          units: km
     - region: NC
       exchange: '321820'
       name: Edgemont
@@ -2306,6 +2861,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '36.298189'
       long: "-76.223802"
+      closest_city:
+        name: Elizabeth City
+        distance:
+          value: 1.18
+          units: km
     - region: NC
       exchange: '110350'
       name: Elizabethtown
@@ -2314,6 +2874,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '34.625159'
       long: "-78.619023"
+      closest_city:
+        name: Elizabethtown
+        distance:
+          value: 1.12
+          units: km
     - region: NC
       exchange: '321821'
       name: Elk Park
@@ -2330,6 +2895,11 @@ rate_centers:
       ilec_name: CENTRAL TEL. CO. OF NC DBA CENTURYLINK
       lat: '36.241509'
       long: "-80.847602"
+      closest_city:
+        name: Jonesville
+        distance:
+          value: 1.43
+          units: km
     - region: NC
       exchange: '110370'
       name: Ellenboro
@@ -2338,6 +2908,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.324483'
       long: "-81.759286"
+      closest_city:
+        name: Ellenboro
+        distance:
+          value: 0.73
+          units: km
     - region: NC
       exchange: '110380'
       name: Ellerbe
@@ -2346,6 +2921,11 @@ rate_centers:
       ilec_name: ELLERBE TEL. CO., INC.
       lat: '35.06654'
       long: "-79.755474"
+      closest_city:
+        name: Ellerbe
+        distance:
+          value: 0.69
+          units: km
     - region: NC
       exchange: '110390'
       name: Elm City
@@ -2354,6 +2934,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.802264'
       long: "-77.857722"
+      closest_city:
+        name: Elm City
+        distance:
+          value: 0.28
+          units: km
     - region: NC
       exchange: '321823'
       name: Elmwood
@@ -2394,6 +2979,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '36.182223'
       long: "-77.665851"
+      closest_city:
+        name: Enfield
+        distance:
+          value: 0.38
+          units: km
     - region: NC
       exchange: '110410'
       name: Engelhard
@@ -2402,6 +2992,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.509398'
       long: "-75.998757"
+      closest_city:
+        name: Engelhard
+        distance:
+          value: 0.97
+          units: km
     - region: NC
       exchange: '110420'
       name: Enka-Candler
@@ -2410,6 +3005,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.549678'
       long: "-82.650416"
+      closest_city:
+        name: Bent Creek
+        distance:
+          value: 5.49
+          units: km
     - region: NC
       exchange: '322044'
       name: Ennice
@@ -2498,6 +3098,11 @@ rate_centers:
       ilec_name: SERVICE TEL. CO.
       lat: '34.318279'
       long: "-79.032122"
+      closest_city:
+        name: Fair Bluff
+        distance:
+          value: 0.64
+          units: km
     - region: NC
       exchange: '361847'
       name: Fairfield
@@ -2514,6 +3119,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.493015'
       long: "-79.114211"
+      closest_city:
+        name: Fairmont
+        distance:
+          value: 0.2
+          units: km
     - region: NC
       exchange: '110450'
       name: Fairview
@@ -2522,6 +3132,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.517475'
       long: "-82.398535"
+      closest_city:
+        name: Gerton
+        distance:
+          value: 6.36
+          units: km
     - region: NC
       exchange: '110460'
       name: Faison
@@ -2530,6 +3145,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.111838'
       long: "-78.143333"
+      closest_city:
+        name: Faison
+        distance:
+          value: 0.84
+          units: km
     - region: NC
       exchange: '321824'
       name: Faith
@@ -2570,6 +3190,11 @@ rate_centers:
       ilec_name: RANDOLPH TEL. MEMBERSHIP CORP.
       lat: '35.590287'
       long: "-80.041275"
+      closest_city:
+        name: Denton
+        distance:
+          value: 8.2
+          units: km
     - region: NC
       exchange: '110480'
       name: Farmville
@@ -2578,6 +3203,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.591604'
       long: "-77.582786"
+      closest_city:
+        name: Farmville
+        distance:
+          value: 0.81
+          units: km
     - region: NC
       exchange: '110490'
       name: Fayetteville
@@ -2586,6 +3216,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.055724'
       long: "-78.891649"
+      closest_city:
+        name: Fayetteville
+        distance:
+          value: 8.44
+          units: km
     - region: NC
       exchange: '361684'
       name: Fearrington
@@ -2658,6 +3293,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - NC
       lat: '35.441955'
       long: "-83.823348"
+      closest_city:
+        name: Fontana Dam
+        distance:
+          value: 1.03
+          units: km
     - region: NC
       exchange: '110510'
       name: Forbush
@@ -2666,6 +3306,11 @@ rate_centers:
       ilec_name: YADKIN VALLEY TEL. MEMBERSHIP CORP.
       lat: '36.201635'
       long: "-80.576886"
+      closest_city:
+        name: Smithtown
+        distance:
+          value: 3.48
+          units: km
     - region: NC
       exchange: '110520'
       name: Forest City
@@ -2674,6 +3319,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.323506'
       long: "-81.865108"
+      closest_city:
+        name: Forest City
+        distance:
+          value: 1.24
+          units: km
     - region: NC
       exchange: '361686'
       name: Fort Bragg
@@ -2698,6 +3348,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.67443'
       long: "-77.643537"
+      closest_city:
+        name: Fountain
+        distance:
+          value: 1.1
+          units: km
     - region: NC
       exchange: '110540'
       name: Four Oaks
@@ -2706,6 +3361,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.450658'
       long: "-78.435257"
+      closest_city:
+        name: Four Oaks
+        distance:
+          value: 1.87
+          units: km
     - region: NC
       exchange: '361688'
       name: Foxfire Village
@@ -2730,6 +3390,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - NC
       lat: '35.183584'
       long: "-83.382847"
+      closest_city:
+        name: Franklin
+        distance:
+          value: 0.46
+          units: km
     - region: NC
       exchange: '110560'
       name: Franklinton
@@ -2738,6 +3403,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '36.098594'
       long: "-78.457989"
+      closest_city:
+        name: Franklinton
+        distance:
+          value: 0.39
+          units: km
     - region: NC
       exchange: '322050'
       name: Franklinville
@@ -2762,6 +3432,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.542259'
       long: "-77.975959"
+      closest_city:
+        name: Fremont
+        distance:
+          value: 0.17
+          units: km
     - region: NC
       exchange: '361854'
       name: Frisco
@@ -2778,6 +3453,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.58518'
       long: "-78.798598"
+      closest_city:
+        name: Fuquay-Varina
+        distance:
+          value: 2.19
+          units: km
     - region: NC
       exchange: '110590'
       name: Garden City
@@ -2786,6 +3466,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - NC
       lat: '35.694247'
       long: "-82.07123"
+      closest_city:
+        name: Marion
+        distance:
+          value: 6.54
+          units: km
     - region: NC
       exchange: '110600'
       name: Garland
@@ -2794,6 +3479,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '34.784917'
       long: "-78.39887"
+      closest_city:
+        name: Garland
+        distance:
+          value: 0.4
+          units: km
     - region: NC
       exchange: '322207'
       name: Garner
@@ -2826,6 +3516,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.260324'
       long: "-81.181939"
+      closest_city:
+        name: Gastonia
+        distance:
+          value: 1.25
+          units: km
     - region: NC
       exchange: '361857'
       name: Gates
@@ -2842,6 +3537,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '36.409464'
       long: "-76.751416"
+      closest_city:
+        name: Gatesville
+        distance:
+          value: 0.53
+          units: km
     - region: NC
       exchange: '110630'
       name: Gatewood
@@ -2850,6 +3550,11 @@ rate_centers:
       ilec_name: MEBTEL, INC. DBA CENTURYLINK
       lat: '36.53418'
       long: "-79.396583"
+      closest_city:
+        name: Yanceyville
+        distance:
+          value: 14.84
+          units: km
     - region: NC
       exchange: '361859'
       name: George
@@ -2882,6 +3587,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.758189'
       long: "-79.60317"
+      closest_city:
+        name: Gibson
+        distance:
+          value: 0.37
+          units: km
     - region: NC
       exchange: '110650'
       name: Gibsonville
@@ -2890,6 +3600,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '36.107784'
       long: "-79.540854"
+      closest_city:
+        name: Gibsonville
+        distance:
+          value: 0.95
+          units: km
     - region: NC
       exchange: '321829'
       name: Gilkey
@@ -2906,6 +3621,11 @@ rate_centers:
       ilec_name: SKYLINE TEL. MEMBERSHIP CORP.
       lat: '36.500982'
       long: "-80.97609"
+      closest_city:
+        name: Lowgap
+        distance:
+          value: 10.05
+          units: km
     - region: NC
       exchange: '322053'
       name: Glade Valley
@@ -2962,6 +3682,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - NC
       lat: '35.6158'
       long: "-81.977748"
+      closest_city:
+        name: Glenwood
+        distance:
+          value: 0.5
+          units: km
     - region: NC
       exchange: '361860'
       name: Gliden
@@ -3002,6 +3727,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.38481'
       long: "-77.989421"
+      closest_city:
+        name: Goldsboro
+        distance:
+          value: 1.79
+          units: km
     - region: NC
       exchange: '110690'
       name: Goldston
@@ -3010,6 +3740,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.599987'
       long: "-79.331155"
+      closest_city:
+        name: Goldston
+        distance:
+          value: 0.82
+          units: km
     - region: NC
       exchange: '110700'
       name: Goose Creek
@@ -3018,6 +3753,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - NC
       lat: '35.141919'
       long: "-80.505779"
+      closest_city:
+        name: Fairview
+        distance:
+          value: 2.96
+          units: km
     - region: NC
       exchange: '322057'
       name: Graham
@@ -3042,6 +3782,11 @@ rate_centers:
       ilec_name: CENTRAL TEL. CO. OF NC DBA CENTURYLINK
       lat: '35.797974'
       long: "-81.425368"
+      closest_city:
+        name: Granite Falls
+        distance:
+          value: 0.19
+          units: km
     - region: NC
       exchange: '321834'
       name: Granite Quarry
@@ -3058,6 +3803,11 @@ rate_centers:
       ilec_name: WINDSTREAM NORTH CAROLINA, INC.
       lat: '35.574317'
       long: "-80.420131"
+      closest_city:
+        name: Rockwell
+        distance:
+          value: 2.57
+          units: km
     - region: NC
       exchange: '110730'
       name: Grantham
@@ -3066,6 +3816,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.297291'
       long: "-78.161655"
+      closest_city:
+        name: Mar-Mac
+        distance:
+          value: 10.57
+          units: km
     - region: NC
       exchange: '361863'
       name: Grantsboro
@@ -3090,6 +3845,11 @@ rate_centers:
       ilec_name: WINDSTREAM NORTH CAROLINA, INC.
       lat: '35.216265'
       long: "-82.049003"
+      closest_city:
+        name: Columbus
+        distance:
+          value: 14.57
+          units: km
     - region: NC
       exchange: '322059'
       name: Green Level
@@ -3122,6 +3882,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '36.075431'
       long: "-79.78209"
+      closest_city:
+        name: Greensboro
+        distance:
+          value: 4.62
+          units: km
     - region: NC
       exchange: '110760'
       name: Greenville
@@ -3130,6 +3895,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.608012'
       long: "-77.371995"
+      closest_city:
+        name: Greenville
+        distance:
+          value: 1.57
+          units: km
     - region: NC
       exchange: '361865'
       name: Gregory
@@ -3146,6 +3916,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.367335'
       long: "-77.435315"
+      closest_city:
+        name: Grifton
+        distance:
+          value: 1.5
+          units: km
     - region: NC
       exchange: '361867'
       name: Grimesland
@@ -3162,6 +3937,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.164514'
       long: "-81.450983"
+      closest_city:
+        name: Grover
+        distance:
+          value: 1.0
+          units: km
     - region: NC
       exchange: '322061'
       name: Guilford College
@@ -3194,6 +3974,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - NC
       lat: '35.925136'
       long: "-82.718217"
+      closest_city:
+        name: Hot Springs
+        distance:
+          value: 10.69
+          units: km
     - region: NC
       exchange: '110800'
       name: Halifax
@@ -3202,6 +3987,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '36.33067'
       long: "-77.583175"
+      closest_city:
+        name: Halifax
+        distance:
+          value: 0.85
+          units: km
     - region: NC
       exchange: '361696'
       name: Hallsboro
@@ -3218,6 +4008,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.942864'
       long: "-77.208634"
+      closest_city:
+        name: Hamilton
+        distance:
+          value: 0.24
+          units: km
     - region: NC
       exchange: '110820'
       name: Hamlet
@@ -3226,6 +4021,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.890447'
       long: "-79.699502"
+      closest_city:
+        name: Hamlet
+        distance:
+          value: 0.96
+          units: km
     - region: NC
       exchange: '322268'
       name: Hampstead
@@ -3266,6 +4066,11 @@ rate_centers:
       ilec_name: YADKIN VALLEY TEL. MEMBERSHIP CORP.
       lat: '35.951337'
       long: "-80.776683"
+      closest_city:
+        name: Harmony
+        distance:
+          value: 0.9
+          units: km
     - region: NC
       exchange: '110840'
       name: Harrells
@@ -3274,6 +4079,11 @@ rate_centers:
       ilec_name: STAR TEL. MEMBERSHIP CORP.
       lat: '34.735753'
       long: "-78.217691"
+      closest_city:
+        name: Harrells
+        distance:
+          value: 1.72
+          units: km
     - region: NC
       exchange: '361873'
       name: Harrellsville
@@ -3298,6 +4108,11 @@ rate_centers:
       ilec_name: WINDSTREAM CONCORD TELEPHONE, LLC
       lat: '35.318388'
       long: "-80.649222"
+      closest_city:
+        name: Harrisburg
+        distance:
+          value: 0.66
+          units: km
     - region: NC
       exchange: '361874'
       name: Hassell
@@ -3322,6 +4137,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '34.885883'
       long: "-76.925999"
+      closest_city:
+        name: Havelock
+        distance:
+          value: 3.48
+          units: km
     - region: NC
       exchange: '109812'
       name: Haw River
@@ -3338,6 +4158,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - NC
       lat: '35.049451'
       long: "-83.81404"
+      closest_city:
+        name: Hayesville
+        distance:
+          value: 0.58
+          units: km
     - region: NC
       exchange: '110880'
       name: Hays
@@ -3346,6 +4171,11 @@ rate_centers:
       ilec_name: CENTRAL TEL. CO. OF NC DBA CENTURYLINK
       lat: '36.247634'
       long: "-81.117201"
+      closest_city:
+        name: Hays
+        distance:
+          value: 0.28
+          units: km
     - region: NC
       exchange: '321704'
       name: Hazelwood
@@ -3370,6 +4200,11 @@ rate_centers:
       ilec_name: WINDSTREAM NORTH CAROLINA, INC.
       lat: '35.106122'
       long: "-80.625494"
+      closest_city:
+        name: Hemby Bridge
+        distance:
+          value: 0.07
+          units: km
     - region: NC
       exchange: '110900'
       name: Henderson
@@ -3378,6 +4213,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '36.324784'
       long: "-78.409189"
+      closest_city:
+        name: Henderson
+        distance:
+          value: 0.54
+          units: km
     - region: NC
       exchange: '110910'
       name: Hendersonville
@@ -3386,6 +4226,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.315528'
       long: "-82.467267"
+      closest_city:
+        name: Hendersonville
+        distance:
+          value: 1.35
+          units: km
     - region: NC
       exchange: '361878'
       name: Henrico
@@ -3410,6 +4255,11 @@ rate_centers:
       ilec_name: STAR TEL. MEMBERSHIP CORP.
       lat: '35.052923'
       long: "-78.438977"
+      closest_city:
+        name: Bonnetsville
+        distance:
+          value: 7.12
+          units: km
     - region: NC
       exchange: '110930'
       name: Hertford
@@ -3418,6 +4268,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '36.183447'
       long: "-76.474957"
+      closest_city:
+        name: Hertford
+        distance:
+          value: 0.73
+          units: km
     - region: NC
       exchange: '110940'
       name: Hickory
@@ -3426,6 +4281,11 @@ rate_centers:
       ilec_name: CENTRAL TEL. CO. OF NC DBA CENTURYLINK
       lat: '35.734086'
       long: "-81.340966"
+      closest_city:
+        name: Hickory
+        distance:
+          value: 1.85
+          units: km
     - region: NC
       exchange: '321843'
       name: Hiddenite
@@ -3442,6 +4302,11 @@ rate_centers:
       ilec_name: RANDOLPH TEL. MEMBERSHIP CORP.
       lat: '35.493843'
       long: "-79.595559"
+      closest_city:
+        name: Robbins
+        distance:
+          value: 7.42
+          units: km
     - region: NC
       exchange: '321706'
       name: High Hampton
@@ -3458,6 +4323,11 @@ rate_centers:
       ilec_name: NORTH STATE TELEPHONE CO. DBA NORTH STATE COMM
       lat: '35.960156'
       long: "-80.000378"
+      closest_city:
+        name: High Point
+        distance:
+          value: 3.48
+          units: km
     - region: NC
       exchange: '321844'
       name: High Shoals
@@ -3474,6 +4344,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - NC
       lat: '35.057906'
       long: "-83.199633"
+      closest_city:
+        name: Highlands
+        distance:
+          value: 0.49
+          units: km
     - region: NC
       exchange: '110980'
       name: Hildebran
@@ -3482,6 +4357,11 @@ rate_centers:
       ilec_name: CENTRAL TEL. CO. OF NC DBA CENTURYLINK
       lat: '35.716684'
       long: "-81.413694"
+      closest_city:
+        name: Hildebran
+        distance:
+          value: 0.68
+          units: km
     - region: NC
       exchange: '110990'
       name: Hillsborough
@@ -3490,6 +4370,11 @@ rate_centers:
       ilec_name: CENTRAL TEL. CO. OF NC DBA CENTURYLINK
       lat: '36.076399'
       long: "-79.106581"
+      closest_city:
+        name: Hillsborough
+        distance:
+          value: 1.16
+          units: km
     - region: NC
       exchange: '322067'
       name: Hillsdale
@@ -3538,6 +4423,11 @@ rate_centers:
       ilec_name: ATLANTIC TEL. MEMBERSHIP CORP.
       lat: '33.937622'
       long: "-78.299518"
+      closest_city:
+        name: Holden Beach
+        distance:
+          value: 3.32
+          units: km
     - region: NC
       exchange: '361883'
       name: Hollister
@@ -3554,6 +4444,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '34.490886'
       long: "-77.552069"
+      closest_city:
+        name: Holly Ridge
+        distance:
+          value: 2.35
+          units: km
     - region: NC
       exchange: '322211'
       name: Holly Springs
@@ -3594,6 +4489,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - NC
       lat: '35.892515'
       long: "-82.827549"
+      closest_city:
+        name: Hot Springs
+        distance:
+          value: 0.27
+          units: km
     - region: NC
       exchange: '361703'
       name: Hubert
@@ -3618,6 +4518,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.405621'
       long: "-80.841074"
+      closest_city:
+        name: Huntersville
+        distance:
+          value: 2.77
+          units: km
     - region: NC
       exchange: '322068'
       name: Hurdle Mills
@@ -3650,6 +4555,11 @@ rate_centers:
       ilec_name: YADKIN VALLEY TEL. MEMBERSHIP CORP.
       lat: '35.932657'
       long: "-80.644205"
+      closest_city:
+        name: Mocksville
+        distance:
+          value: 8.12
+          units: km
     - region: NC
       exchange: '361885'
       name: Indian Beach
@@ -3666,6 +4576,11 @@ rate_centers:
       ilec_name: WINDSTREAM NORTH CAROLINA, INC.
       lat: '35.074528'
       long: "-80.669256"
+      closest_city:
+        name: Indian Trail
+        distance:
+          value: 2.25
+          units: km
     - region: NC
       exchange: '361886'
       name: Inez
@@ -3714,6 +4629,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '36.392661'
       long: "-77.414201"
+      closest_city:
+        name: Jackson
+        distance:
+          value: 0.54
+          units: km
     - region: NC
       exchange: '111070'
       name: Jackson Creek
@@ -3722,6 +4642,11 @@ rate_centers:
       ilec_name: RANDOLPH TEL. MEMBERSHIP CORP.
       lat: '35.694088'
       long: "-80.000587"
+      closest_city:
+        name: Denton
+        distance:
+          value: 11.75
+          units: km
     - region: NC
       exchange: '322071'
       name: Jackson Springs
@@ -3738,6 +4663,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '34.750505'
       long: "-77.43501"
+      closest_city:
+        name: Jacksonville
+        distance:
+          value: 4.44
+          units: km
     - region: NC
       exchange: '361889'
       name: James City
@@ -3802,6 +4732,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.906471'
       long: "-79.666519"
+      closest_city:
+        name: Forest Oaks
+        distance:
+          value: 9.89
+          units: km
     - region: NC
       exchange: '111100'
       name: Kannapolis
@@ -3810,6 +4745,11 @@ rate_centers:
       ilec_name: WINDSTREAM CONCORD TELEPHONE, LLC
       lat: '35.499911'
       long: "-80.623412"
+      closest_city:
+        name: Kannapolis
+        distance:
+          value: 3.05
+          units: km
     - region: NC
       exchange: '361892'
       name: Kelford
@@ -3826,6 +4766,11 @@ rate_centers:
       ilec_name: STAR TEL. MEMBERSHIP CORP.
       lat: '34.461114'
       long: "-78.31659"
+      closest_city:
+        name: Kelly
+        distance:
+          value: 0.61
+          units: km
     - region: NC
       exchange: '111120'
       name: Kenansville
@@ -3834,6 +4779,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '34.959328'
       long: "-77.964207"
+      closest_city:
+        name: Kenansville
+        distance:
+          value: 0.16
+          units: km
     - region: NC
       exchange: '111130'
       name: Kenly
@@ -3842,6 +4792,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.590697'
       long: "-78.125947"
+      closest_city:
+        name: Kenly
+        distance:
+          value: 1.03
+          units: km
     - region: NC
       exchange: '111140'
       name: Kernersville
@@ -3850,6 +4805,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '36.123177'
       long: "-80.074128"
+      closest_city:
+        name: Kernersville
+        distance:
+          value: 2.06
+          units: km
     - region: NC
       exchange: '111150'
       name: Kill Devil Hills
@@ -3858,6 +4818,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '36.006325'
       long: "-75.658915"
+      closest_city:
+        name: Kill Devil Hills
+        distance:
+          value: 1.52
+          units: km
     - region: NC
       exchange: '111160'
       name: Kimesville
@@ -3866,6 +4831,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.949901'
       long: "-79.551495"
+      closest_city:
+        name: Alamance
+        distance:
+          value: 10.39
+          units: km
     - region: NC
       exchange: '111170'
       name: King
@@ -3874,6 +4844,11 @@ rate_centers:
       ilec_name: WINDSTREAM NORTH CAROLINA, INC.
       lat: '36.284966'
       long: "-80.357632"
+      closest_city:
+        name: King
+        distance:
+          value: 0.9
+          units: km
     - region: NC
       exchange: '111180'
       name: Kings Mountain
@@ -3882,6 +4857,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.243082'
       long: "-81.339762"
+      closest_city:
+        name: Kings Mountain
+        distance:
+          value: 1.31
+          units: km
     - region: NC
       exchange: '321854'
       name: Kingstown
@@ -3898,6 +4878,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.256455'
       long: "-77.573955"
+      closest_city:
+        name: Kinston
+        distance:
+          value: 2.72
+          units: km
     - region: NC
       exchange: '322212'
       name: Kipling
@@ -3930,6 +4915,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.793611'
       long: "-78.482133"
+      closest_city:
+        name: Knightdale
+        distance:
+          value: 1.33
+          units: km
     - region: NC
       exchange: '111210'
       name: Knotts Island
@@ -3938,6 +4928,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - NC
       lat: '36.498543'
       long: "-75.917355"
+      closest_city:
+        name: Coinjock
+        distance:
+          value: 16.67
+          units: km
     - region: NC
       exchange: '322271'
       name: Kure Beach
@@ -3954,6 +4949,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.309384'
       long: "-77.780728"
+      closest_city:
+        name: La Grange
+        distance:
+          value: 0.82
+          units: km
     - region: NC
       exchange: '321715'
       name: Lake Junaluska
@@ -3970,6 +4970,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.430498'
       long: "-82.232638"
+      closest_city:
+        name: Lake Lure
+        distance:
+          value: 2.61
+          units: km
     - region: NC
       exchange: '321855'
       name: Lake Park
@@ -4002,6 +5007,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '34.31806'
       long: "-78.516108"
+      closest_city:
+        name: Lake Waccamaw
+        distance:
+          value: 0.6
+          units: km
     - region: NC
       exchange: '361709'
       name: Lakeview
@@ -4026,6 +5036,11 @@ rate_centers:
       ilec_name: SKYLINE TEL. MEMBERSHIP CORP.
       lat: '36.500951'
       long: "-81.505608"
+      closest_city:
+        name: Lansing
+        distance:
+          value: 0.48
+          units: km
     - region: NC
       exchange: '361899'
       name: Lasker
@@ -4042,6 +5057,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.317516'
       long: "-81.659286"
+      closest_city:
+        name: Lattimore
+        distance:
+          value: 0.26
+          units: km
     - region: NC
       exchange: '111270'
       name: Laurel Hill
@@ -4050,6 +5070,11 @@ rate_centers:
       ilec_name: WINDSTREAM NORTH CAROLINA, INC.
       lat: '34.808629'
       long: "-79.544235"
+      closest_city:
+        name: Laurel Hill
+        distance:
+          value: 0.24
+          units: km
     - region: NC
       exchange: '321711'
       name: Laurel Park
@@ -4074,6 +5099,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.766405'
       long: "-79.464367"
+      closest_city:
+        name: Laurinburg
+        distance:
+          value: 1.37
+          units: km
     - region: NC
       exchange: '111290'
       name: Lawndale
@@ -4082,6 +5112,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.417658'
       long: "-81.558438"
+      closest_city:
+        name: Lawndale
+        distance:
+          value: 0.56
+          units: km
     - region: NC
       exchange: '322081'
       name: Lawsonville
@@ -4138,6 +5173,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.64979'
       long: "-82.702152"
+      closest_city:
+        name: Woodfin
+        distance:
+          value: 10.01
+          units: km
     - region: NC
       exchange: '113411'
       name: Leland
@@ -4162,6 +5202,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.917196'
       long: "-81.53453"
+      closest_city:
+        name: Lenoir
+        distance:
+          value: 1.23
+          units: km
     - region: NC
       exchange: '111320'
       name: Level Cross
@@ -4170,6 +5215,11 @@ rate_centers:
       ilec_name: SURRY TEL. MEMBERSHIP CORP.
       lat: '36.339492'
       long: "-80.62429"
+      closest_city:
+        name: Dobson
+        distance:
+          value: 10.75
+          units: km
     - region: NC
       exchange: '111330'
       name: Lewiston
@@ -4178,6 +5228,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '36.122475'
       long: "-77.174158"
+      closest_city:
+        name: Lewiston Woodville
+        distance:
+          value: 1.12
+          units: km
     - region: NC
       exchange: '361903'
       name: Lewiston Woodville
@@ -4194,6 +5249,11 @@ rate_centers:
       ilec_name: WINDSTREAM NORTH CAROLINA, INC.
       lat: '36.097902'
       long: "-80.416041"
+      closest_city:
+        name: Lewisville
+        distance:
+          value: 0.57
+          units: km
     - region: NC
       exchange: '111350'
       name: Lexington
@@ -4202,6 +5262,11 @@ rate_centers:
       ilec_name: WINDSTREAM LEXCOM COMMUNICATIONS, LLC
       lat: '35.827102'
       long: "-80.258139"
+      closest_city:
+        name: Lexington
+        distance:
+          value: 2.96
+          units: km
     - region: NC
       exchange: '111360'
       name: Liberty (Cherokee)
@@ -4210,6 +5275,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.015883'
       long: "-84.314549"
+      closest_city:
+        name: Murphy
+        distance:
+          value: 27.46
+          units: km
     - region: NC
       exchange: '111370'
       name: Liberty (Randolph)
@@ -4218,6 +5288,11 @@ rate_centers:
       ilec_name: RANDOLPH TEL. MEMBERSHIP CORP.
       lat: '35.850442'
       long: "-79.569616"
+      closest_city:
+        name: Liberty
+        distance:
+          value: 0.58
+          units: km
     - region: NC
       exchange: '111380'
       name: Lilesville
@@ -4226,6 +5301,11 @@ rate_centers:
       ilec_name: WINDSTREAM NORTH CAROLINA, INC.
       lat: '34.967261'
       long: "-79.991222"
+      closest_city:
+        name: Lilesville
+        distance:
+          value: 0.61
+          units: km
     - region: NC
       exchange: '111390'
       name: Lillington
@@ -4234,6 +5314,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.391799'
       long: "-78.825464"
+      closest_city:
+        name: Lillington
+        distance:
+          value: 1.4
+          units: km
     - region: NC
       exchange: '111400'
       name: Lincolnton
@@ -4242,6 +5327,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.467552'
       long: "-81.250575"
+      closest_city:
+        name: Lincolnton
+        distance:
+          value: 1.35
+          units: km
     - region: NC
       exchange: '361711'
       name: Linden
@@ -4282,6 +5372,11 @@ rate_centers:
       ilec_name: STAR TEL. MEMBERSHIP CORP.
       lat: '34.516236'
       long: "-78.538898"
+      closest_city:
+        name: Clarkton
+        distance:
+          value: 11.14
+          units: km
     - region: NC
       exchange: '321870'
       name: Little Switzerland
@@ -4298,6 +5393,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '36.43503'
       long: "-77.907794"
+      closest_city:
+        name: Littleton
+        distance:
+          value: 0.3
+          units: km
     - region: NC
       exchange: '111430'
       name: Locust
@@ -4306,6 +5406,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.255599'
       long: "-80.432242"
+      closest_city:
+        name: Locust
+        distance:
+          value: 1.53
+          units: km
     - region: NC
       exchange: '111440'
       name: Lomax
@@ -4314,6 +5419,11 @@ rate_centers:
       ilec_name: WILKES TEL. MEMBERSHIP CORP.
       lat: '36.30135'
       long: "-81.009116"
+      closest_city:
+        name: Ronda
+        distance:
+          value: 10.65
+          units: km
     - region: NC
       exchange: '111450'
       name: Long Beach
@@ -4322,6 +5432,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '33.908747'
       long: "-78.157059"
+      closest_city:
+        name: Oak Island
+        distance:
+          value: 4.29
+          units: km
     - region: NC
       exchange: '322090'
       name: Longhurst
@@ -4354,6 +5469,11 @@ rate_centers:
       ilec_name: ATLANTIC TEL. MEMBERSHIP CORP.
       lat: '34.001407'
       long: "-78.546599"
+      closest_city:
+        name: Carolina Shores
+        distance:
+          value: 10.72
+          units: km
     - region: NC
       exchange: '321867'
       name: Loray
@@ -4370,6 +5490,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '36.101316'
       long: "-78.299308"
+      closest_city:
+        name: Louisburg
+        distance:
+          value: 0.33
+          units: km
     - region: NC
       exchange: '111480'
       name: Lowell
@@ -4378,6 +5503,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.266437'
       long: "-81.098228"
+      closest_city:
+        name: Lowell
+        distance:
+          value: 0.38
+          units: km
     - region: NC
       exchange: '321869'
       name: Lowesville
@@ -4410,6 +5540,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.64264'
       long: "-78.009061"
+      closest_city:
+        name: Lucama
+        distance:
+          value: 0.28
+          units: km
     - region: NC
       exchange: '321871'
       name: Lucia
@@ -4434,6 +5569,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.627536'
       long: "-79.009121"
+      closest_city:
+        name: Lumberton
+        distance:
+          value: 0.96
+          units: km
     - region: NC
       exchange: '322315'
       name: Lynn
@@ -4474,6 +5614,11 @@ rate_centers:
       ilec_name: CENTRAL TEL. CO. OF NC DBA CENTURYLINK
       lat: '36.392244'
       long: "-79.963445"
+      closest_city:
+        name: Madison
+        distance:
+          value: 1.2
+          units: km
     - region: NC
       exchange: '111520'
       name: Maggie Valley
@@ -4482,6 +5627,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.519135'
       long: "-83.038906"
+      closest_city:
+        name: Maggie Valley
+        distance:
+          value: 2.3
+          units: km
     - region: NC
       exchange: '361715'
       name: Magnolia
@@ -4498,6 +5648,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.584577'
       long: "-81.215318"
+      closest_city:
+        name: Maiden
+        distance:
+          value: 0.79
+          units: km
     - region: NC
       exchange: '111540'
       name: Mamie
@@ -4506,6 +5661,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '36.125681'
       long: "-75.839361"
+      closest_city:
+        name: Southern Shores
+        distance:
+          value: 9.59
+          units: km
     - region: NC
       exchange: '361716'
       name: Manchester
@@ -4546,6 +5706,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.909176'
       long: "-75.674253"
+      closest_city:
+        name: Manteo
+        distance:
+          value: 1.48
+          units: km
     - region: NC
       exchange: '361916'
       name: Maple
@@ -4602,6 +5767,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - NC
       lat: '35.691601'
       long: "-82.000678"
+      closest_city:
+        name: Marion
+        distance:
+          value: 1.55
+          units: km
     - region: NC
       exchange: '111570'
       name: Mars Hill
@@ -4610,6 +5780,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - NC
       lat: '35.825934'
       long: "-82.54726"
+      closest_city:
+        name: Mars Hill
+        distance:
+          value: 0.31
+          units: km
     - region: NC
       exchange: '111580'
       name: Marshall
@@ -4618,6 +5793,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - NC
       lat: '35.801322'
       long: "-82.683655"
+      closest_city:
+        name: Marshall
+        distance:
+          value: 0.48
+          units: km
     - region: NC
       exchange: '111590'
       name: Marshallberg
@@ -4626,6 +5806,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '34.76666'
       long: "-76.517651"
+      closest_city:
+        name: Marshallberg
+        distance:
+          value: 4.47
+          units: km
     - region: NC
       exchange: '111600'
       name: Marshville
@@ -4634,6 +5819,11 @@ rate_centers:
       ilec_name: WINDSTREAM NORTH CAROLINA, INC.
       lat: '34.994526'
       long: "-80.367029"
+      closest_city:
+        name: Marshville
+        distance:
+          value: 0.9
+          units: km
     - region: NC
       exchange: '322280'
       name: Marston
@@ -4658,6 +5848,11 @@ rate_centers:
       ilec_name: WINDSTREAM NORTH CAROLINA, INC.
       lat: '35.117889'
       long: "-80.722181"
+      closest_city:
+        name: Matthews
+        distance:
+          value: 1.11
+          units: km
     - region: NC
       exchange: '361920'
       name: Maury
@@ -4674,6 +5869,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '34.733437'
       long: "-79.350835"
+      closest_city:
+        name: Maxton
+        distance:
+          value: 0.38
+          units: km
     - region: NC
       exchange: '322093'
       name: Mayodan
@@ -4690,6 +5890,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '34.897612'
       long: "-77.233744"
+      closest_city:
+        name: Maysville
+        distance:
+          value: 1.05
+          units: km
     - region: NC
       exchange: '321876'
       name: McAdenville
@@ -4746,6 +5951,11 @@ rate_centers:
       ilec_name: MEBTEL, INC. DBA CENTURYLINK
       lat: '36.099223'
       long: "-79.26409"
+      closest_city:
+        name: Mebane
+        distance:
+          value: 1.78
+          units: km
     - region: NC
       exchange: '361921'
       name: Merritt
@@ -4778,6 +5988,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - NC
       lat: '35.909993'
       long: "-82.215064"
+      closest_city:
+        name: Burnsville
+        distance:
+          value: 7.47
+          units: km
     - region: NC
       exchange: '361924'
       name: Micro
@@ -4858,6 +6073,11 @@ rate_centers:
       ilec_name: MEBTEL, INC. DBA CENTURYLINK
       lat: '36.531998'
       long: "-79.214791"
+      closest_city:
+        name: Milton
+        distance:
+          value: 0.83
+          units: km
     - region: NC
       exchange: '361927'
       name: Milwaukee
@@ -4914,14 +6134,24 @@ rate_centers:
       ilec_name: CENTRAL TEL. CO. OF NC DBA CENTURYLINK
       lat: '35.898868'
       long: "-80.556731"
+      closest_city:
+        name: Mocksville
+        distance:
+          value: 0.61
+          units: km
     - region: NC
       exchange: '111671'
       name: Mocksville (Yadkin Valley Telecom)
-      short_name:
+      short_name: Mocksville (Yadkin Valley Telecom)
       lata: '422'
       ilec_name: YADKIN VALLEY TELECOM, INC. - NC
       lat: '35.898868'
       long: "-80.556731"
+      closest_city:
+        name: Mocksville
+        distance:
+          value: 0.61
+          units: km
     - region: NC
       exchange: '361929'
       name: Momeyer
@@ -4946,6 +6176,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - NC
       lat: '34.980416'
       long: "-80.549341"
+      closest_city:
+        name: Monroe
+        distance:
+          value: 3.03
+          units: km
     - region: NC
       exchange: '111690'
       name: Monticello
@@ -4954,6 +6189,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '36.215435'
       long: "-79.684838"
+      closest_city:
+        name: McLeansville
+        distance:
+          value: 12.62
+          units: km
     - region: NC
       exchange: '321724'
       name: Montreat
@@ -4978,6 +6218,11 @@ rate_centers:
       ilec_name: WINDSTREAM NORTH CAROLINA, INC.
       lat: '35.583325'
       long: "-80.818605"
+      closest_city:
+        name: Mooresville
+        distance:
+          value: 0.74
+          units: km
     - region: NC
       exchange: '322100'
       name: Moravian Falls
@@ -4994,6 +6239,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '34.725071'
       long: "-76.728099"
+      closest_city:
+        name: Morehead City
+        distance:
+          value: 1.17
+          units: km
     - region: NC
       exchange: '111720'
       name: Morganton
@@ -5002,6 +6252,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.744182'
       long: "-81.684216"
+      closest_city:
+        name: Morganton
+        distance:
+          value: 1.49
+          units: km
     - region: NC
       exchange: '322215'
       name: Morrisville
@@ -5018,6 +6273,11 @@ rate_centers:
       ilec_name: WINDSTREAM NORTH CAROLINA, INC.
       lat: '34.869055'
       long: "-80.000542"
+      closest_city:
+        name: Morven
+        distance:
+          value: 0.53
+          units: km
     - region: NC
       exchange: '111740'
       name: Moss Hill
@@ -5026,6 +6286,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.202685'
       long: "-77.76657"
+      closest_city:
+        name: Seven Springs
+        distance:
+          value: 7.56
+          units: km
     - region: NC
       exchange: '111750'
       name: Mount Airy
@@ -5034,6 +6299,11 @@ rate_centers:
       ilec_name: CENTRAL TEL. CO. OF NC DBA CENTURYLINK
       lat: '36.497634'
       long: "-80.615642"
+      closest_city:
+        name: Mount Airy
+        distance:
+          value: 1.19
+          units: km
     - region: NC
       exchange: '111760'
       name: Mount Gilead
@@ -5042,6 +6312,11 @@ rate_centers:
       ilec_name: CENTRAL TEL. CO. OF NC DBA CENTURYLINK
       lat: '35.215414'
       long: "-79.998835"
+      closest_city:
+        name: Mount Gilead
+        distance:
+          value: 0.57
+          units: km
     - region: NC
       exchange: '111770'
       name: Mount Holly
@@ -5050,6 +6325,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.300745'
       long: "-81.006389"
+      closest_city:
+        name: Mount Holly
+        distance:
+          value: 1.43
+          units: km
     - region: NC
       exchange: '321891'
       name: Mount Mourne
@@ -5066,6 +6346,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.200735'
       long: "-78.064731"
+      closest_city:
+        name: Mount Olive
+        distance:
+          value: 0.18
+          units: km
     - region: NC
       exchange: '111790'
       name: Mount Pleasant
@@ -5074,6 +6359,11 @@ rate_centers:
       ilec_name: WINDSTREAM CONCORD TELEPHONE, LLC
       lat: '35.402087'
       long: "-80.432794"
+      closest_city:
+        name: Mount Pleasant
+        distance:
+          value: 3.2
+          units: km
     - region: NC
       exchange: '321889'
       name: Mount Ulla
@@ -5106,6 +6396,11 @@ rate_centers:
       ilec_name: CENTRAL TEL. CO. OF NC DBA CENTURYLINK
       lat: '35.677508'
       long: "-81.357106"
+      closest_city:
+        name: Mountain View
+        distance:
+          value: 1.17
+          units: km
     - region: NC
       exchange: '111810'
       name: Moyock
@@ -5114,6 +6409,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '36.52531'
       long: "-76.172656"
+      closest_city:
+        name: Moyock
+        distance:
+          value: 0.98
+          units: km
     - region: NC
       exchange: '111820'
       name: Mulberry
@@ -5122,6 +6422,11 @@ rate_centers:
       ilec_name: CENTRAL TEL. CO. OF NC DBA CENTURYLINK
       lat: '36.233384'
       long: "-81.174875"
+      closest_city:
+        name: Mulberry
+        distance:
+          value: 1.21
+          units: km
     - region: NC
       exchange: '111830'
       name: Murfreesboro
@@ -5130,6 +6435,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '36.440404'
       long: "-77.098175"
+      closest_city:
+        name: Murfreesboro
+        distance:
+          value: 0.21
+          units: km
     - region: NC
       exchange: '111840'
       name: Murphy
@@ -5138,6 +6448,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - NC
       lat: '35.085153'
       long: "-84.034469"
+      closest_city:
+        name: Murphy
+        distance:
+          value: 1.07
+          units: km
     - region: NC
       exchange: '361934'
       name: Nags Head
@@ -5178,6 +6493,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.966365'
       long: "-77.967586"
+      closest_city:
+        name: Nashville
+        distance:
+          value: 1.14
+          units: km
     - region: NC
       exchange: '111860'
       name: Nathans Creek
@@ -5186,6 +6506,11 @@ rate_centers:
       ilec_name: SKYLINE TEL. MEMBERSHIP CORP.
       lat: '36.442474'
       long: "-81.40968"
+      closest_city:
+        name: Jefferson
+        distance:
+          value: 5.79
+          units: km
     - region: NC
       exchange: '322282'
       name: Navassa
@@ -5218,6 +6543,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.116784'
       long: "-77.052828"
+      closest_city:
+        name: New Bern
+        distance:
+          value: 2.96
+          units: km
     - region: NC
       exchange: '361937'
       name: New Holland
@@ -5234,6 +6564,11 @@ rate_centers:
       ilec_name: YADKIN VALLEY TEL. MEMBERSHIP CORP.
       lat: '36.027285'
       long: "-80.958646"
+      closest_city:
+        name: Love Valley
+        distance:
+          value: 4.99
+          units: km
     - region: NC
       exchange: '111890'
       name: New London
@@ -5242,6 +6577,11 @@ rate_centers:
       ilec_name: WINDSTREAM CONCORD TELEPHONE, LLC
       lat: '35.4406'
       long: "-80.223774"
+      closest_city:
+        name: New London
+        distance:
+          value: 0.74
+          units: km
     - region: NC
       exchange: '111900'
       name: New Salem
@@ -5250,6 +6590,11 @@ rate_centers:
       ilec_name: WINDSTREAM NORTH CAROLINA, INC.
       lat: '35.133246'
       long: "-80.373512"
+      closest_city:
+        name: Oakboro
+        distance:
+          value: 11.17
+          units: km
     - region: NC
       exchange: '321897'
       name: Newell
@@ -5274,6 +6619,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '36.091019'
       long: "-81.928179"
+      closest_city:
+        name: Newland
+        distance:
+          value: 0.34
+          units: km
     - region: NC
       exchange: '111920'
       name: Newport
@@ -5282,6 +6632,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '34.781122'
       long: "-76.857295"
+      closest_city:
+        name: Newport
+        distance:
+          value: 2.08
+          units: km
     - region: NC
       exchange: '111930'
       name: Newton
@@ -5290,6 +6645,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.667361'
       long: "-81.219043"
+      closest_city:
+        name: Newton
+        distance:
+          value: 1.39
+          units: km
     - region: NC
       exchange: '111940'
       name: Newton Grove
@@ -5298,6 +6658,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.250095'
       long: "-78.347821"
+      closest_city:
+        name: Newton Grove
+        distance:
+          value: 0.71
+          units: km
     - region: NC
       exchange: '361939'
       name: Nixonton
@@ -5314,6 +6679,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '36.442655'
       long: "-78.189033"
+      closest_city:
+        name: Norlina
+        distance:
+          value: 0.61
+          units: km
     - region: NC
       exchange: '322283'
       name: Norman
@@ -5338,6 +6708,11 @@ rate_centers:
       ilec_name: CENTRAL TEL. CO. OF NC DBA CENTURYLINK
       lat: '36.166756'
       long: "-81.138962"
+      closest_city:
+        name: North Wilkesboro
+        distance:
+          value: 0.67
+          units: km
     - region: NC
       exchange: '322284'
       name: Northwest
@@ -5354,6 +6729,11 @@ rate_centers:
       ilec_name: WINDSTREAM NORTH CAROLINA, INC.
       lat: '35.225958'
       long: "-80.123473"
+      closest_city:
+        name: Norwood
+        distance:
+          value: 1.17
+          units: km
     - region: NC
       exchange: '361941'
       name: Oak City
@@ -5378,6 +6758,11 @@ rate_centers:
       ilec_name: WINDSTREAM CONCORD TELEPHONE, LLC
       lat: '35.227019'
       long: "-80.33486"
+      closest_city:
+        name: Oakboro
+        distance:
+          value: 0.17
+          units: km
     - region: NC
       exchange: '322285'
       name: Ocean Isle Beach
@@ -5394,6 +6779,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.117601'
       long: "-75.983916"
+      closest_city:
+        name: Ocracoke
+        distance:
+          value: 5.79
+          units: km
     - region: NC
       exchange: '112000'
       name: Old Fort
@@ -5402,6 +6792,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - NC
       lat: '35.631508'
       long: "-82.183409"
+      closest_city:
+        name: Old Fort
+        distance:
+          value: 0.53
+          units: km
     - region: NC
       exchange: '361943'
       name: Old Trap
@@ -5418,6 +6813,11 @@ rate_centers:
       ilec_name: WINDSTREAM NORTH CAROLINA, INC.
       lat: '36.1632'
       long: "-80.331689"
+      closest_city:
+        name: Bethania
+        distance:
+          value: 2.03
+          units: km
     - region: NC
       exchange: '321902'
       name: Olin
@@ -5434,6 +6834,11 @@ rate_centers:
       ilec_name: WINDSTREAM NORTH CAROLINA, INC.
       lat: '35.348966'
       long: "-79.114258"
+      closest_city:
+        name: Spout Springs
+        distance:
+          value: 11.26
+          units: km
     - region: NC
       exchange: '112030'
       name: Oriental
@@ -5442,6 +6847,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.025294'
       long: "-76.701734"
+      closest_city:
+        name: Oriental
+        distance:
+          value: 2.17
+          units: km
     - region: NC
       exchange: '322286'
       name: Orrum
@@ -5498,6 +6908,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '36.307909'
       long: "-78.593428"
+      closest_city:
+        name: Oxford
+        distance:
+          value: 1.14
+          units: km
     - region: NC
       exchange: '361947'
       name: Pactolus
@@ -5530,6 +6945,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '34.898355'
       long: "-79.01585"
+      closest_city:
+        name: Parkton
+        distance:
+          value: 0.65
+          units: km
     - region: NC
       exchange: '361725'
       name: Parkwood
@@ -5586,6 +7006,11 @@ rate_centers:
       ilec_name: WINDSTREAM NORTH CAROLINA, INC.
       lat: '35.001223'
       long: "-80.223153"
+      closest_city:
+        name: Polkton
+        distance:
+          value: 2.45
+          units: km
     - region: NC
       exchange: '361726'
       name: Peletier
@@ -5610,6 +7035,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.684251'
       long: "-79.196919"
+      closest_city:
+        name: Pembroke
+        distance:
+          value: 0.91
+          units: km
     - region: NC
       exchange: '361951'
       name: Pendleton
@@ -5650,6 +7080,11 @@ rate_centers:
       ilec_name: TRI-COUNTY TEL. MEMBERSHIP CORP.
       lat: '35.684861'
       long: "-76.624604"
+      closest_city:
+        name: Pantego
+        distance:
+          value: 11.28
+          units: km
     - region: NC
       exchange: '361953'
       name: Pikeville
@@ -5666,6 +7101,11 @@ rate_centers:
       ilec_name: CENTRAL TEL. CO. OF NC DBA CENTURYLINK
       lat: '36.384721'
       long: "-80.468106"
+      closest_city:
+        name: Pilot Mountain
+        distance:
+          value: 0.49
+          units: km
     - region: NC
       exchange: '322112'
       name: Pine Hall
@@ -5698,6 +7138,11 @@ rate_centers:
       ilec_name: WINDSTREAM NORTH CAROLINA, INC.
       lat: '35.109814'
       long: "-79.475852"
+      closest_city:
+        name: Pinebluff
+        distance:
+          value: 0.43
+          units: km
     - region: NC
       exchange: '112110'
       name: Pinehurst
@@ -5706,6 +7151,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.190007'
       long: "-79.473107"
+      closest_city:
+        name: Pinehurst
+        distance:
+          value: 0.49
+          units: km
     - region: NC
       exchange: '321910'
       name: Pineola
@@ -5722,6 +7172,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.784812'
       long: "-77.633948"
+      closest_city:
+        name: Pinetops
+        distance:
+          value: 0.79
+          units: km
     - region: NC
       exchange: '112130'
       name: Pinetown
@@ -5730,6 +7185,11 @@ rate_centers:
       ilec_name: TRI-COUNTY TEL. MEMBERSHIP CORP.
       lat: '35.610606'
       long: "-76.858334"
+      closest_city:
+        name: Pinetown
+        distance:
+          value: 0.24
+          units: km
     - region: NC
       exchange: '112140'
       name: Pineville
@@ -5738,6 +7198,11 @@ rate_centers:
       ilec_name: PINEVILLE TEL. CO.
       lat: '35.085696'
       long: "-80.891567"
+      closest_city:
+        name: Pineville
+        distance:
+          value: 0.08
+          units: km
     - region: NC
       exchange: '322113'
       name: Piney Creek
@@ -5754,6 +7219,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '36.315389'
       long: "-76.562243"
+      closest_city:
+        name: Winfall
+        distance:
+          value: 15.13
+          units: km
     - region: NC
       exchange: '112160'
       name: Pink Hill
@@ -5762,6 +7232,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.05151'
       long: "-77.74147"
+      closest_city:
+        name: Pink Hill
+        distance:
+          value: 0.56
+          units: km
     - region: NC
       exchange: '322114'
       name: Pinnacle
@@ -5778,6 +7253,11 @@ rate_centers:
       ilec_name: RANDOLPH TEL. MEMBERSHIP CORP.
       lat: '35.548544'
       long: "-79.866822"
+      closest_city:
+        name: Seagrove
+        distance:
+          value: 7.93
+          units: km
     - region: NC
       exchange: '321735'
       name: Pisgah Forest
@@ -5794,6 +7274,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.718429'
       long: "-79.18347"
+      closest_city:
+        name: Pittsboro
+        distance:
+          value: 1.35
+          units: km
     - region: NC
       exchange: '110751'
       name: Pleasant Garden
@@ -5826,6 +7311,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.866643'
       long: "-76.751847"
+      closest_city:
+        name: Plymouth
+        distance:
+          value: 0.92
+          units: km
     - region: NC
       exchange: '361961'
       name: Point Harbor
@@ -5858,6 +7348,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.005354'
       long: "-77.21935"
+      closest_city:
+        name: Pollocksville
+        distance:
+          value: 0.16
+          units: km
     - region: NC
       exchange: '361730'
       name: Pope Army Airfield
@@ -5914,6 +7409,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.464961'
       long: "-78.167367"
+      closest_city:
+        name: Princeton
+        distance:
+          value: 0.6
+          units: km
     - region: NC
       exchange: '361967'
       name: Princeville
@@ -5938,6 +7438,11 @@ rate_centers:
       ilec_name: CENTRAL TEL. CO. OF NC DBA CENTURYLINK
       lat: '36.249866'
       long: "-79.197515"
+      closest_city:
+        name: Woodlawn
+        distance:
+          value: 17.05
+          units: km
     - region: NC
       exchange: '313354'
       name: Providence
@@ -5970,6 +7475,11 @@ rate_centers:
       ilec_name: CENTRAL TEL. CO. OF NC DBA CENTURYLINK
       lat: '36.357575'
       long: "-80.287403"
+      closest_city:
+        name: Danbury
+        distance:
+          value: 9.0
+          units: km
     - region: NC
       exchange: '112240'
       name: Raeford
@@ -5978,6 +7488,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '34.982776'
       long: "-79.235805"
+      closest_city:
+        name: Raeford
+        distance:
+          value: 0.65
+          units: km
     - region: NC
       exchange: '112250'
       name: Raleigh
@@ -5986,6 +7501,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.78544'
       long: "-78.651062"
+      closest_city:
+        name: Raleigh
+        distance:
+          value: 5.27
+          units: km
     - region: NC
       exchange: '112251'
       name: Raleigh-Durham Airport
@@ -5994,6 +7514,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.78544'
       long: "-78.651062"
+      closest_city:
+        name: Raleigh
+        distance:
+          value: 5.27
+          units: km
     - region: NC
       exchange: '112260'
       name: Ramseur
@@ -6002,6 +7527,11 @@ rate_centers:
       ilec_name: CENTRAL TEL. CO. OF NC DBA CENTURYLINK
       lat: '35.732279'
       long: "-79.656033"
+      closest_city:
+        name: Ramseur
+        distance:
+          value: 0.56
+          units: km
     - region: NC
       exchange: '112270'
       name: Randleman
@@ -6010,6 +7540,11 @@ rate_centers:
       ilec_name: NORTH STATE TELEPHONE CO. DBA NORTH STATE COMM
       lat: '35.816865'
       long: "-79.797443"
+      closest_city:
+        name: Randleman
+        distance:
+          value: 0.83
+          units: km
     - region: NC
       exchange: '321915'
       name: Ranlo
@@ -6034,6 +7569,11 @@ rate_centers:
       ilec_name: SURRY TEL. MEMBERSHIP CORP.
       lat: '36.483226'
       long: "-80.694136"
+      closest_city:
+        name: Toast
+        distance:
+          value: 5.52
+          units: km
     - region: NC
       exchange: '112290'
       name: Red Springs
@@ -6042,6 +7582,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '34.819212'
       long: "-79.18437"
+      closest_city:
+        name: Red Springs
+        distance:
+          value: 1.64
+          units: km
     - region: NC
       exchange: '112300'
       name: Reeds
@@ -6050,6 +7595,11 @@ rate_centers:
       ilec_name: SURRY TEL. MEMBERSHIP CORP.
       lat: '35.851288'
       long: "-80.326281"
+      closest_city:
+        name: Yadkin College
+        distance:
+          value: 5.53
+          units: km
     - region: NC
       exchange: '112310'
       name: Reidsville
@@ -6058,6 +7608,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '36.358177'
       long: "-79.666068"
+      closest_city:
+        name: Reidsville
+        distance:
+          value: 2.36
+          units: km
     - region: NC
       exchange: '361734'
       name: Rennert
@@ -6090,6 +7645,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '36.277452'
       long: "-77.284262"
+      closest_city:
+        name: Rich Square
+        distance:
+          value: 0.4
+          units: km
     - region: NC
       exchange: '321917'
       name: Richfield
@@ -6106,6 +7666,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '34.900896'
       long: "-77.547766"
+      closest_city:
+        name: Richlands
+        distance:
+          value: 0.47
+          units: km
     - region: NC
       exchange: '321736'
       name: Ridgecrest
@@ -6138,6 +7703,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '36.46034'
       long: "-77.659987"
+      closest_city:
+        name: Roanoke Rapids
+        distance:
+          value: 1.95
+          units: km
     - region: NC
       exchange: '361970'
       name: Roanoke Rapids Air Force Sta
@@ -6154,6 +7724,11 @@ rate_centers:
       ilec_name: CENTRAL TEL. CO. OF NC DBA CENTURYLINK
       lat: '36.40117'
       long: "-80.99264"
+      closest_city:
+        name: Sparta
+        distance:
+          value: 16.2
+          units: km
     - region: NC
       exchange: '322127'
       name: Roaring River
@@ -6170,6 +7745,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.432925'
       long: "-79.583165"
+      closest_city:
+        name: Robbins
+        distance:
+          value: 0.56
+          units: km
     - region: NC
       exchange: '112370'
       name: Robbinsville
@@ -6178,6 +7758,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - NC
       lat: '35.323635'
       long: "-83.809318"
+      closest_city:
+        name: Robbinsville
+        distance:
+          value: 0.22
+          units: km
     - region: NC
       exchange: '112380'
       name: Robersonville
@@ -6186,6 +7771,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.826602'
       long: "-77.258106"
+      closest_city:
+        name: Robersonville
+        distance:
+          value: 0.48
+          units: km
     - region: NC
       exchange: '112390'
       name: Rockingham
@@ -6194,6 +7784,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.94164'
       long: "-79.76593"
+      closest_city:
+        name: Rockingham
+        distance:
+          value: 0.58
+          units: km
     - region: NC
       exchange: '321918'
       name: Rockwell
@@ -6210,6 +7805,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.940433'
       long: "-77.798205"
+      closest_city:
+        name: Rocky Mount
+        distance:
+          value: 3.16
+          units: km
     - region: NC
       exchange: '322293'
       name: Rocky Point
@@ -6266,6 +7866,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '34.832378'
       long: "-78.033081"
+      closest_city:
+        name: Rose Hill
+        distance:
+          value: 0.96
+          units: km
     - region: NC
       exchange: '112420'
       name: Roseboro
@@ -6274,6 +7879,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '34.951006'
       long: "-78.513705"
+      closest_city:
+        name: Roseboro
+        distance:
+          value: 0.46
+          units: km
     - region: NC
       exchange: '321738'
       name: Rosman
@@ -6298,6 +7908,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.534354'
       long: "-79.293733"
+      closest_city:
+        name: Rowland
+        distance:
+          value: 0.22
+          units: km
     - region: NC
       exchange: '112440'
       name: Roxboro
@@ -6306,6 +7921,11 @@ rate_centers:
       ilec_name: CENTRAL TEL. CO. OF NC DBA CENTURYLINK
       lat: '36.392574'
       long: "-78.980617"
+      closest_city:
+        name: Roxboro
+        distance:
+          value: 0.52
+          units: km
     - region: NC
       exchange: '112450'
       name: Roxobel
@@ -6314,6 +7934,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '36.199615'
       long: "-77.240307"
+      closest_city:
+        name: Roxobel
+        distance:
+          value: 0.21
+          units: km
     - region: NC
       exchange: '112460'
       name: Ruffin
@@ -6322,6 +7947,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '36.448652'
       long: "-79.546543"
+      closest_city:
+        name: Ruffin
+        distance:
+          value: 0.71
+          units: km
     - region: NC
       exchange: '112470'
       name: Rural Hall
@@ -6330,6 +7960,11 @@ rate_centers:
       ilec_name: WINDSTREAM NORTH CAROLINA, INC.
       lat: '36.240349'
       long: "-80.291636"
+      closest_city:
+        name: Rural Hall
+        distance:
+          value: 1.77
+          units: km
     - region: NC
       exchange: '321919'
       name: Rutherford College
@@ -6346,6 +7981,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.36496'
       long: "-81.959262"
+      closest_city:
+        name: Rutherfordton
+        distance:
+          value: 0.2
+          units: km
     - region: NC
       exchange: '322302'
       name: Saint Helena
@@ -6378,6 +8018,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.663992'
       long: "-80.457628"
+      closest_city:
+        name: Salisbury
+        distance:
+          value: 2.98
+          units: km
     - region: NC
       exchange: '361979'
       name: Salter Path
@@ -6394,6 +8039,11 @@ rate_centers:
       ilec_name: SALUDA MOUNTAIN TEL. CO.
       lat: '35.242133'
       long: "-82.350708"
+      closest_city:
+        name: Saluda
+        distance:
+          value: 0.62
+          units: km
     - region: NC
       exchange: '361980'
       name: Salvo
@@ -6410,6 +8060,11 @@ rate_centers:
       ilec_name: CENTRAL TEL. CO. OF NC DBA CENTURYLINK
       lat: '36.500832'
       long: "-80.100614"
+      closest_city:
+        name: Danbury
+        distance:
+          value: 14.1
+          units: km
     - region: NC
       exchange: '322296'
       name: Sandyfield
@@ -6426,6 +8081,11 @@ rate_centers:
       ilec_name: WINDSTREAM NORTH CAROLINA, INC.
       lat: '35.472975'
       long: "-79.183561"
+      closest_city:
+        name: Sanford
+        distance:
+          value: 1.72
+          units: km
     - region: NC
       exchange: '321740'
       name: Sapphire
@@ -6458,6 +8118,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.939673'
       long: "-79.323879"
+      closest_city:
+        name: Saxapahaw
+        distance:
+          value: 1.06
+          units: km
     - region: NC
       exchange: '321741'
       name: Scaly Mountain
@@ -6474,6 +8139,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '36.134896'
       long: "-77.417634"
+      closest_city:
+        name: Scotland Neck
+        distance:
+          value: 0.57
+          units: km
     - region: NC
       exchange: '321923'
       name: Scotts
@@ -6490,14 +8160,24 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.32021'
       long: "-77.769805"
+      closest_city:
+        name: Porters Neck
+        distance:
+          value: 2.89
+          units: km
     - region: NC
       exchange: '112551'
       name: Scotts Hill 270
-      short_name:
+      short_name: Scotts Hill 270
       lata: '428'
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.32021'
       long: "-77.769805"
+      closest_city:
+        name: Porters Neck
+        distance:
+          value: 2.89
+          units: km
     - region: NC
       exchange: '112560'
       name: Scottville
@@ -6506,6 +8186,11 @@ rate_centers:
       ilec_name: SKYLINE TEL. MEMBERSHIP CORP.
       lat: '36.480467'
       long: "-81.280246"
+      closest_city:
+        name: Sparta
+        distance:
+          value: 14.4
+          units: km
     - region: NC
       exchange: '361983'
       name: Scranton
@@ -6522,6 +8207,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '36.491762'
       long: "-77.433997"
+      closest_city:
+        name: Seaboard
+        distance:
+          value: 0.73
+          units: km
     - region: NC
       exchange: '112580'
       name: Seagrove
@@ -6530,6 +8220,11 @@ rate_centers:
       ilec_name: CENTRAL TEL. CO. OF NC DBA CENTURYLINK
       lat: '35.543422'
       long: "-79.783988"
+      closest_city:
+        name: Seagrove
+        distance:
+          value: 0.6
+          units: km
     - region: NC
       exchange: '361985'
       name: Sealevel
@@ -6546,6 +8241,11 @@ rate_centers:
       ilec_name: ATLANTIC TEL. MEMBERSHIP CORP.
       lat: '33.896221'
       long: "-78.483821"
+      closest_city:
+        name: Sunset Beach
+        distance:
+          value: 2.52
+          units: km
     - region: NC
       exchange: '322136'
       name: Sedalia
@@ -6562,6 +8262,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.53349'
       long: "-78.2941"
+      closest_city:
+        name: Selma
+        distance:
+          value: 0.79
+          units: km
     - region: NC
       exchange: '313355'
       name: Semora
@@ -6610,6 +8315,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - NC
       lat: '35.79898'
       long: "-82.033211"
+      closest_city:
+        name: Spruce Pine
+        distance:
+          value: 12.9
+          units: km
     - region: NC
       exchange: '322230'
       name: Seymour Johnson Air Force Base
@@ -6626,6 +8336,11 @@ rate_centers:
       ilec_name: ATLANTIC TEL. MEMBERSHIP CORP.
       lat: '33.972913'
       long: "-78.384068"
+      closest_city:
+        name: Shallotte
+        distance:
+          value: 0.55
+          units: km
     - region: NC
       exchange: '361740'
       name: Shannon
@@ -6674,6 +8389,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.284286'
       long: "-81.539319"
+      closest_city:
+        name: Shelby
+        distance:
+          value: 0.86
+          units: km
     - region: NC
       exchange: '112640'
       name: Sherrills Ford
@@ -6682,6 +8402,11 @@ rate_centers:
       ilec_name: CENTRAL TEL. CO. OF NC DBA CENTURYLINK
       lat: '35.621181'
       long: "-80.988848"
+      closest_city:
+        name: Lake Norman of Catawba
+        distance:
+          value: 2.45
+          units: km
     - region: NC
       exchange: '321929'
       name: Sherwood
@@ -6698,6 +8423,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '36.271487'
       long: "-76.087374"
+      closest_city:
+        name: Camden
+        distance:
+          value: 9.5
+          units: km
     - region: NC
       exchange: '112660'
       name: Shoals
@@ -6706,6 +8436,11 @@ rate_centers:
       ilec_name: SURRY TEL. MEMBERSHIP CORP.
       lat: '36.275425'
       long: "-80.519604"
+      closest_city:
+        name: East Bend
+        distance:
+          value: 6.48
+          units: km
     - region: NC
       exchange: '112670'
       name: Sidney
@@ -6714,6 +8449,11 @@ rate_centers:
       ilec_name: TRI-COUNTY TEL. MEMBERSHIP CORP.
       lat: '35.484196'
       long: "-76.691428"
+      closest_city:
+        name: Belhaven
+        distance:
+          value: 8.98
+          units: km
     - region: NC
       exchange: '112680'
       name: Siler City
@@ -6722,6 +8462,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.725712'
       long: "-79.466646"
+      closest_city:
+        name: Siler City
+        distance:
+          value: 0.96
+          units: km
     - region: NC
       exchange: '322139'
       name: Siloam
@@ -6746,6 +8491,11 @@ rate_centers:
       ilec_name: STAR TEL. MEMBERSHIP CORP.
       lat: '35.024161'
       long: "-78.193848"
+      closest_city:
+        name: Turkey
+        distance:
+          value: 3.36
+          units: km
     - region: NC
       exchange: '321743'
       name: Skyland
@@ -6770,6 +8520,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.515641'
       long: "-78.342307"
+      closest_city:
+        name: Smithfield
+        distance:
+          value: 0.7
+          units: km
     - region: NC
       exchange: '361994'
       name: Smyrna
@@ -6786,6 +8541,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '34.564978'
       long: "-77.398139"
+      closest_city:
+        name: Sneads Ferry
+        distance:
+          value: 1.73
+          units: km
     - region: NC
       exchange: '322140'
       name: Snow Camp
@@ -6802,6 +8562,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.44985'
       long: "-77.665617"
+      closest_city:
+        name: Snow Hill
+        distance:
+          value: 1.03
+          units: km
     - region: NC
       exchange: '361996'
       name: Snowden
@@ -6834,6 +8599,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.166743'
       long: "-81.199427"
+      closest_city:
+        name: Gastonia
+        distance:
+          value: 9.28
+          units: km
     - region: NC
       exchange: '112740'
       name: South Mills
@@ -6842,6 +8612,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '36.444527'
       long: "-76.326183"
+      closest_city:
+        name: South Mills
+        distance:
+          value: 0.84
+          units: km
     - region: NC
       exchange: '112750'
       name: South River
@@ -6850,6 +8625,11 @@ rate_centers:
       ilec_name: STAR TEL. MEMBERSHIP CORP.
       lat: '34.903717'
       long: "-78.578104"
+      closest_city:
+        name: Roseboro
+        distance:
+          value: 8.19
+          units: km
     - region: NC
       exchange: '112760'
       name: Southern Pines
@@ -6858,6 +8638,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.17307'
       long: "-79.39973"
+      closest_city:
+        name: Southern Pines
+        distance:
+          value: 2.22
+          units: km
     - region: NC
       exchange: '361998'
       name: Southern Shores
@@ -6874,6 +8659,11 @@ rate_centers:
       ilec_name: WINDSTREAM LEXCOM COMMUNICATIONS, LLC
       lat: '35.658809'
       long: "-80.268347"
+      closest_city:
+        name: Southmont
+        distance:
+          value: 0.61
+          units: km
     - region: NC
       exchange: '112780'
       name: Southport
@@ -6882,6 +8672,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '33.925425'
       long: "-78.018189"
+      closest_city:
+        name: Southport
+        distance:
+          value: 1.76
+          units: km
     - region: NC
       exchange: '112790'
       name: Sparta
@@ -6890,6 +8685,11 @@ rate_centers:
       ilec_name: SKYLINE TEL. MEMBERSHIP CORP.
       lat: '36.499844'
       long: "-81.124613"
+      closest_city:
+        name: Sparta
+        distance:
+          value: 0.47
+          units: km
     - region: NC
       exchange: '361999'
       name: Speed
@@ -6946,6 +8746,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.942496'
       long: "-78.116508"
+      closest_city:
+        name: Spring Hope
+        distance:
+          value: 0.7
+          units: km
     - region: NC
       exchange: '361747'
       name: Spring Lake
@@ -6962,6 +8767,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.916602'
       long: "-82.064801"
+      closest_city:
+        name: Spruce Pine
+        distance:
+          value: 1.02
+          units: km
     - region: NC
       exchange: '112820'
       name: St Pauls
@@ -6970,6 +8780,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '34.808364'
       long: "-78.980153"
+      closest_city:
+        name: St. Pauls
+        distance:
+          value: 0.46
+          units: km
     - region: NC
       exchange: '362002'
       name: Stacy
@@ -7018,6 +8833,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.358507'
       long: "-81.088289"
+      closest_city:
+        name: Stanley
+        distance:
+          value: 0.62
+          units: km
     - region: NC
       exchange: '112840'
       name: Stanleyville
@@ -7026,6 +8846,11 @@ rate_centers:
       ilec_name: WINDSTREAM NORTH CAROLINA, INC.
       lat: '36.198466'
       long: "-80.284028"
+      closest_city:
+        name: Rural Hall
+        distance:
+          value: 3.19
+          units: km
     - region: NC
       exchange: '112850'
       name: Stantonsburg
@@ -7034,6 +8859,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.609174'
       long: "-77.826292"
+      closest_city:
+        name: Stantonsburg
+        distance:
+          value: 0.73
+          units: km
     - region: NC
       exchange: '322147'
       name: Star
@@ -7058,6 +8888,11 @@ rate_centers:
       ilec_name: CENTRAL TEL. CO. OF NC DBA CENTURYLINK
       lat: '36.321351'
       long: "-80.866446"
+      closest_city:
+        name: Elkin
+        distance:
+          value: 6.88
+          units: km
     - region: NC
       exchange: '112870'
       name: Statesville
@@ -7066,6 +8901,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.782919'
       long: "-80.892293"
+      closest_city:
+        name: Statesville
+        distance:
+          value: 1.9
+          units: km
     - region: NC
       exchange: '361749'
       name: Stedman
@@ -7114,6 +8954,11 @@ rate_centers:
       ilec_name: CENTRAL TEL. CO. OF NC DBA CENTURYLINK
       lat: '36.468126'
       long: "-79.910174"
+      closest_city:
+        name: Stoneville
+        distance:
+          value: 0.46
+          units: km
     - region: NC
       exchange: '362006'
       name: Stonewall
@@ -7130,6 +8975,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.866984'
       long: "-81.047716"
+      closest_city:
+        name: Stony Point
+        distance:
+          value: 0.07
+          units: km
     - region: NC
       exchange: '362007'
       name: Stovall
@@ -7154,6 +9004,11 @@ rate_centers:
       ilec_name: SKYLINE TEL. MEMBERSHIP CORP.
       lat: '36.242986'
       long: "-81.767648"
+      closest_city:
+        name: Cove Creek
+        distance:
+          value: 3.95
+          units: km
     - region: NC
       exchange: '321939'
       name: Sugar Mountain
@@ -7170,6 +9025,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - NC
       lat: '35.074064'
       long: "-84.190533"
+      closest_city:
+        name: Murphy
+        distance:
+          value: 14.94
+          units: km
     - region: NC
       exchange: '112920'
       name: Summerfield
@@ -7178,6 +9038,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '36.201027'
       long: "-79.898524"
+      closest_city:
+        name: Summerfield
+        distance:
+          value: 0.43
+          units: km
     - region: NC
       exchange: '112930'
       name: Sunbury
@@ -7186,6 +9051,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '36.440316'
       long: "-76.607266"
+      closest_city:
+        name: Sunbury
+        distance:
+          value: 0.88
+          units: km
     - region: NC
       exchange: '322303'
       name: Sunset Beach
@@ -7218,6 +9088,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.398921'
       long: "-76.33287"
+      closest_city:
+        name: Swan Quarter
+        distance:
+          value: 1.51
+          units: km
     - region: NC
       exchange: '112940'
       name: Swannanoa
@@ -7226,6 +9101,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.59951'
       long: "-82.390993"
+      closest_city:
+        name: Swannanoa
+        distance:
+          value: 0.17
+          units: km
     - region: NC
       exchange: '112960'
       name: Swansboro-Onslow
@@ -7234,6 +9114,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '34.693698'
       long: "-77.124933"
+      closest_city:
+        name: Swansboro
+        distance:
+          value: 1.1
+          units: km
     - region: NC
       exchange: '112961'
       name: Swansboro-West Carteret
@@ -7242,6 +9127,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '34.693698'
       long: "-77.124933"
+      closest_city:
+        name: Swansboro
+        distance:
+          value: 1.1
+          units: km
     - region: NC
       exchange: '322152'
       name: Swepsonville
@@ -7266,6 +9156,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - NC
       lat: '35.374394'
       long: "-83.214474"
+      closest_city:
+        name: Sylva
+        distance:
+          value: 0.38
+          units: km
     - region: NC
       exchange: '112980'
       name: Tabor City
@@ -7274,6 +9169,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '34.150527'
       long: "-78.872272"
+      closest_city:
+        name: Tabor City
+        distance:
+          value: 0.39
+          units: km
     - region: NC
       exchange: '321749'
       name: Tapoco
@@ -7306,6 +9206,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.904854'
       long: "-77.541198"
+      closest_city:
+        name: Tarboro
+        distance:
+          value: 1.36
+          units: km
     - region: NC
       exchange: '113000'
       name: Taylorsville
@@ -7314,6 +9219,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.915871'
       long: "-81.176822"
+      closest_city:
+        name: Taylorsville
+        distance:
+          value: 0.22
+          units: km
     - region: NC
       exchange: '361757'
       name: Teachey
@@ -7346,6 +9256,11 @@ rate_centers:
       ilec_name: NORTH STATE TELEPHONE CO. DBA NORTH STATE COMM
       lat: '35.882441'
       long: "-80.081237"
+      closest_city:
+        name: Thomasville
+        distance:
+          value: 0.14
+          units: km
     - region: NC
       exchange: '322154'
       name: Thurmond
@@ -7370,6 +9285,11 @@ rate_centers:
       ilec_name: CENTRAL TEL. CO. OF NC DBA CENTURYLINK
       lat: '36.2847'
       long: "-78.952364"
+      closest_city:
+        name: Rougemont
+        distance:
+          value: 7.63
+          units: km
     - region: NC
       exchange: '322156'
       name: Toast
@@ -7426,6 +9346,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '34.389551'
       long: "-77.607221"
+      closest_city:
+        name: Topsail Beach
+        distance:
+          value: 2.83
+          units: km
     - region: NC
       exchange: '321751'
       name: Topton
@@ -7458,6 +9383,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.067256'
       long: "-77.350832"
+      closest_city:
+        name: Trenton
+        distance:
+          value: 0.54
+          units: km
     - region: NC
       exchange: '321944'
       name: Triangle
@@ -7498,6 +9428,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.700154'
       long: "-80.888942"
+      closest_city:
+        name: Troutman
+        distance:
+          value: 1.53
+          units: km
     - region: NC
       exchange: '113060'
       name: Troy
@@ -7506,6 +9441,11 @@ rate_centers:
       ilec_name: CENTRAL TEL. CO. OF NC DBA CENTURYLINK
       lat: '35.359621'
       long: "-79.900455"
+      closest_city:
+        name: Troy
+        distance:
+          value: 0.99
+          units: km
     - region: NC
       exchange: '321752'
       name: Trust
@@ -7522,6 +9462,11 @@ rate_centers:
       ilec_name: WINDSTREAM NORTH CAROLINA, INC.
       lat: '35.215954'
       long: "-82.232485"
+      closest_city:
+        name: Tryon
+        distance:
+          value: 0.95
+          units: km
     - region: NC
       exchange: '321753'
       name: Tuckasegee
@@ -7578,6 +9523,11 @@ rate_centers:
       ilec_name: YADKIN VALLEY TEL. MEMBERSHIP CORP.
       lat: '36.021962'
       long: "-80.862628"
+      closest_city:
+        name: Harmony
+        distance:
+          value: 10.64
+          units: km
     - region: NC
       exchange: '321949'
       name: Union Mills
@@ -7602,6 +9552,11 @@ rate_centers:
       ilec_name: CENTRAL TEL. CO. OF NC DBA CENTURYLINK
       lat: '35.750371'
       long: "-81.567124"
+      closest_city:
+        name: Valdese
+        distance:
+          value: 0.77
+          units: km
     - region: NC
       exchange: '111401'
       name: Vale
@@ -7626,6 +9581,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.299142'
       long: "-77.152528"
+      closest_city:
+        name: Vanceboro
+        distance:
+          value: 0.57
+          units: km
     - region: NC
       exchange: '362018'
       name: Vandemere
@@ -7650,6 +9610,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.259565'
       long: "-79.285114"
+      closest_city:
+        name: Vass
+        distance:
+          value: 0.7
+          units: km
     - region: NC
       exchange: '362019'
       name: Vaughan
@@ -7690,6 +9655,11 @@ rate_centers:
       ilec_name: CENTRAL TEL. CO. OF VIRGINIA DBA CENTURYLINK
       lat: '36.546112'
       long: "-78.77403"
+      closest_city:
+        name: Stovall
+        distance:
+          value: 21.36
+          units: km
     - region: NC
       exchange: '321956'
       name: Waco
@@ -7714,6 +9684,11 @@ rate_centers:
       ilec_name: WINDSTREAM NORTH CAROLINA, INC.
       lat: '34.966892'
       long: "-80.08414"
+      closest_city:
+        name: Wadesboro
+        distance:
+          value: 0.91
+          units: km
     - region: NC
       exchange: '113140'
       name: Wagram
@@ -7722,6 +9697,11 @@ rate_centers:
       ilec_name: WINDSTREAM NORTH CAROLINA, INC.
       lat: '34.893573'
       long: "-79.365397"
+      closest_city:
+        name: Wagram
+        distance:
+          value: 0.5
+          units: km
     - region: NC
       exchange: '113150'
       name: Wake Forest
@@ -7730,6 +9710,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.982841'
       long: "-78.518277"
+      closest_city:
+        name: Wake Forest
+        distance:
+          value: 2.22
+          units: km
     - region: NC
       exchange: '113160'
       name: Walkertown
@@ -7738,6 +9723,11 @@ rate_centers:
       ilec_name: CENTRAL TEL. CO. OF NC DBA CENTURYLINK
       lat: '36.177764'
       long: "-80.159082"
+      closest_city:
+        name: Walkertown
+        distance:
+          value: 2.29
+          units: km
     - region: NC
       exchange: '113170'
       name: Wallace
@@ -7746,6 +9736,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '34.732019'
       long: "-77.999999"
+      closest_city:
+        name: Wallace
+        distance:
+          value: 1.07
+          units: km
     - region: NC
       exchange: '113452'
       name: Wallburg
@@ -7770,6 +9765,11 @@ rate_centers:
       ilec_name: CENTRAL TEL. CO. OF NC DBA CENTURYLINK
       lat: '36.292506'
       long: "-80.14987"
+      closest_city:
+        name: Walnut Cove
+        distance:
+          value: 0.83
+          units: km
     - region: NC
       exchange: '362020'
       name: Walstonburg
@@ -7826,6 +9826,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '36.399589'
       long: "-78.1494"
+      closest_city:
+        name: Warrenton
+        distance:
+          value: 0.73
+          units: km
     - region: NC
       exchange: '113200'
       name: Warsaw
@@ -7834,6 +9839,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.001329'
       long: "-78.091435"
+      closest_city:
+        name: Warsaw
+        distance:
+          value: 0.25
+          units: km
     - region: NC
       exchange: '113210'
       name: Washington
@@ -7842,6 +9852,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.541751'
       long: "-77.052546"
+      closest_city:
+        name: Washington
+        distance:
+          value: 1.88
+          units: km
     - region: NC
       exchange: '113220'
       name: Watauga
@@ -7850,6 +9865,11 @@ rate_centers:
       ilec_name: SKYLINE TEL. MEMBERSHIP CORP.
       lat: '36.166503'
       long: "-81.765335"
+      closest_city:
+        name: Foscoe
+        distance:
+          value: 1.63
+          units: km
     - region: NC
       exchange: '362025'
       name: Waterlily
@@ -7866,6 +9886,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.776154'
       long: "-83.095736"
+      closest_city:
+        name: Hot Springs
+        distance:
+          value: 27.25
+          units: km
     - region: NC
       exchange: '361768'
       name: Watha
@@ -7882,6 +9907,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.560682'
       long: "-75.465518"
+      closest_city:
+        name: Waves
+        distance:
+          value: 0.99
+          units: km
     - region: NC
       exchange: '113250'
       name: Waxhaw
@@ -7890,6 +9920,11 @@ rate_centers:
       ilec_name: WINDSTREAM NORTH CAROLINA, INC.
       lat: '34.923644'
       long: "-80.743808"
+      closest_city:
+        name: Waxhaw
+        distance:
+          value: 1.41
+          units: km
     - region: NC
       exchange: '113260'
       name: Waynesville
@@ -7898,6 +9933,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.491009'
       long: "-82.980762"
+      closest_city:
+        name: Waynesville
+        distance:
+          value: 1.82
+          units: km
     - region: NC
       exchange: '113270'
       name: Weaverville
@@ -7906,6 +9946,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - NC
       lat: '35.698907'
       long: "-82.561307"
+      closest_city:
+        name: Weaverville
+        distance:
+          value: 0.39
+          units: km
     - region: NC
       exchange: '321760'
       name: Webster
@@ -7930,6 +9975,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '36.206831'
       long: "-76.150329"
+      closest_city:
+        name: Elizabeth City
+        distance:
+          value: 12.39
+          units: km
     - region: NC
       exchange: '113290'
       name: Welch
@@ -7938,6 +9988,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '36.226751'
       long: "-76.651999"
+      closest_city:
+        name: Arrowhead Beach
+        distance:
+          value: 4.49
+          units: km
     - region: NC
       exchange: '113300'
       name: Welcome
@@ -7946,6 +10001,11 @@ rate_centers:
       ilec_name: WINDSTREAM LEXCOM COMMUNICATIONS, LLC
       lat: '35.91512'
       long: "-80.249972"
+      closest_city:
+        name: Welcome
+        distance:
+          value: 1.04
+          units: km
     - region: NC
       exchange: '113310'
       name: Weldon
@@ -7954,6 +10014,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '36.42698'
       long: "-77.59858"
+      closest_city:
+        name: Weldon
+        distance:
+          value: 1.33
+          units: km
     - region: NC
       exchange: '113320'
       name: Wendell
@@ -7962,6 +10027,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.782397'
       long: "-78.369371"
+      closest_city:
+        name: Wendell
+        distance:
+          value: 2.33
+          units: km
     - region: NC
       exchange: '322167'
       name: Wentworth
@@ -7994,6 +10064,11 @@ rate_centers:
       ilec_name: CENTRAL TEL. CO. OF NC DBA CENTURYLINK
       lat: '35.239711'
       long: "-79.567524"
+      closest_city:
+        name: Seven Lakes
+        distance:
+          value: 3.27
+          units: km
     - region: NC
       exchange: '113340'
       name: West Jefferson
@@ -8002,6 +10077,11 @@ rate_centers:
       ilec_name: CENTRAL TEL. CO. OF NC DBA CENTURYLINK
       lat: '36.400697'
       long: "-81.488288"
+      closest_city:
+        name: West Jefferson
+        distance:
+          value: 0.78
+          units: km
     - region: NC
       exchange: '113350'
       name: Westfield
@@ -8010,6 +10090,11 @@ rate_centers:
       ilec_name: SURRY TEL. MEMBERSHIP CORP.
       lat: '36.474186'
       long: "-80.452114"
+      closest_city:
+        name: Pilot Mountain
+        distance:
+          value: 10.07
+          units: km
     - region: NC
       exchange: '113360'
       name: Whispering Pines
@@ -8018,6 +10103,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.261183'
       long: "-79.370641"
+      closest_city:
+        name: Whispering Pines
+        distance:
+          value: 0.94
+          units: km
     - region: NC
       exchange: '113370'
       name: Whitakers
@@ -8026,6 +10116,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '36.108877'
       long: "-77.713206"
+      closest_city:
+        name: Whitakers
+        distance:
+          value: 0.35
+          units: km
     - region: NC
       exchange: '361770'
       name: White Lake
@@ -8042,6 +10137,11 @@ rate_centers:
       ilec_name: STAR TEL. MEMBERSHIP CORP.
       lat: '34.74925'
       long: "-78.707281"
+      closest_city:
+        name: White Oak
+        distance:
+          value: 1.49
+          units: km
     - region: NC
       exchange: '322170'
       name: White Plains
@@ -8066,6 +10166,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '34.336124'
       long: "-78.700692"
+      closest_city:
+        name: Whiteville
+        distance:
+          value: 0.62
+          units: km
     - region: NC
       exchange: '321962'
       name: Whitnel
@@ -8138,6 +10243,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.850066'
       long: "-77.060605"
+      closest_city:
+        name: Williamston
+        distance:
+          value: 0.63
+          units: km
     - region: NC
       exchange: '362033'
       name: Williston
@@ -8162,6 +10272,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.22266'
       long: "-77.941087"
+      closest_city:
+        name: Hightsville
+        distance:
+          value: 4.94
+          units: km
     - region: NC
       exchange: '322307'
       name: Wilmington Beach
@@ -8178,6 +10293,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.72496'
       long: "-77.907688"
+      closest_city:
+        name: Wilson
+        distance:
+          value: 1.99
+          units: km
     - region: NC
       exchange: '361774'
       name: Wilsons Mills
@@ -8202,6 +10322,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '35.998423'
       long: "-76.949275"
+      closest_city:
+        name: Windsor
+        distance:
+          value: 1.04
+          units: km
     - region: NC
       exchange: '362036'
       name: Winfall
@@ -8218,6 +10343,11 @@ rate_centers:
       ilec_name: WINDSTREAM NORTH CAROLINA, INC.
       lat: '34.982617'
       long: "-80.448717"
+      closest_city:
+        name: Wingate
+        distance:
+          value: 0.37
+          units: km
     - region: NC
       exchange: '322308'
       name: Winnabow
@@ -8234,6 +10364,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '36.098527'
       long: "-80.247879"
+      closest_city:
+        name: Winston-Salem
+        distance:
+          value: 1.28
+          units: km
     - region: NC
       exchange: '362037'
       name: Winterville
@@ -8250,6 +10385,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '36.400344'
       long: "-76.925105"
+      closest_city:
+        name: Winton
+        distance:
+          value: 1.46
+          units: km
     - region: NC
       exchange: '362039'
       name: Wise
@@ -8282,6 +10422,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '36.335014'
       long: "-77.208137"
+      closest_city:
+        name: Woodland
+        distance:
+          value: 0.78
+          units: km
     - region: NC
       exchange: '321765'
       name: Woodlawn
@@ -8314,6 +10459,11 @@ rate_centers:
       ilec_name: CAROLINA TEL AND TEL CO., LLC DBA CENTURYLINK
       lat: '36.23792'
       long: "-76.324356"
+      closest_city:
+        name: Elizabeth City
+        distance:
+          value: 10.1
+          units: km
     - region: NC
       exchange: '322178'
       name: Worthville
@@ -8338,6 +10488,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.216175'
       long: "-77.819882"
+      closest_city:
+        name: Wrightsville Beach
+        distance:
+          value: 2.04
+          units: km
     - region: NC
       exchange: '321966'
       name: Yadkin
@@ -8354,14 +10509,24 @@ rate_centers:
       ilec_name: CENTRAL TEL. CO. OF NC DBA CENTURYLINK
       lat: '36.133695'
       long: "-80.65627"
+      closest_city:
+        name: Yadkinville
+        distance:
+          value: 0.36
+          units: km
     - region: NC
       exchange: '113501'
       name: Yadkinville (Yadkin Valley Telecom)
-      short_name:
+      short_name: Yadkinville (Yadkin Valley Telecom)
       lata: '424'
       ilec_name: YADKIN VALLEY TELECOM, INC. - NC
       lat: '36.133695'
       long: "-80.65627"
+      closest_city:
+        name: Yadkinville
+        distance:
+          value: 0.36
+          units: km
     - region: NC
       exchange: '113510'
       name: Yanceyville
@@ -8370,6 +10535,11 @@ rate_centers:
       ilec_name: CENTRAL TEL. CO. OF NC DBA CENTURYLINK
       lat: '36.408877'
       long: "-79.334272"
+      closest_city:
+        name: Yanceyville
+        distance:
+          value: 0.18
+          units: km
     - region: NC
       exchange: '322235'
       name: Youngsville
@@ -8386,6 +10556,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.824384'
       long: "-78.314886"
+      closest_city:
+        name: Zebulon
+        distance:
+          value: 0.95
+          units: km
     - region: NC
       exchange: '113530'
       name: Zephyr
@@ -8394,6 +10569,11 @@ rate_centers:
       ilec_name: SURRY TEL. MEMBERSHIP CORP.
       lat: '36.340307'
       long: "-80.81829"
+      closest_city:
+        name: Elkin
+        distance:
+          value: 9.0
+          units: km
     - region: NC
       exchange: '321967'
       name: Zionville

@@ -1,7 +1,7 @@
 ---
 rate_centers:
-  us:
-    nv:
+  US:
+    NV:
     - region: NV
       exchange: '345064'
       name: Adam Peak
@@ -18,6 +18,11 @@ rate_centers:
       ilec_name: LINCOLN COUNTY TEL. SYSTEM, INC.
       lat: '37.362436'
       long: "-115.167031"
+      closest_city:
+        name: Alamo
+        distance:
+          value: 1.63
+          units: km
     - region: NV
       exchange: '345066'
       name: Alder Creek
@@ -66,6 +71,11 @@ rate_centers:
       ilec_name: NEVADA BELL
       lat: '39.491415'
       long: "-117.075559"
+      closest_city:
+        name: Austin
+        distance:
+          value: 0.7
+          units: km
     - region: NV
       exchange: '130690'
       name: Baker
@@ -74,6 +84,11 @@ rate_centers:
       ilec_name: NEVADA BELL
       lat: '39.001965'
       long: "-114.126805"
+      closest_city:
+        name: Baker
+        distance:
+          value: 1.48
+          units: km
     - region: NV
       exchange: '345072'
       name: Barth
@@ -90,6 +105,11 @@ rate_centers:
       ilec_name: NEVADA BELL
       lat: '40.641424'
       long: "-116.932437"
+      closest_city:
+        name: Battle Mountain
+        distance:
+          value: 2.08
+          units: km
     - region: NV
       exchange: '130710'
       name: Beatty
@@ -98,6 +118,11 @@ rate_centers:
       ilec_name: NEVADA BELL
       lat: '36.908663'
       long: "-116.755392"
+      closest_city:
+        name: Beatty
+        distance:
+          value: 4.72
+          units: km
     - region: NV
       exchange: '345074'
       name: Beowawe
@@ -122,6 +147,11 @@ rate_centers:
       ilec_name: CENTRAL TEL. CO. - NEVADA DBA CENTURYLINK
       lat: '36.057186'
       long: "-115.399112"
+      closest_city:
+        name: Blue Diamond
+        distance:
+          value: 2.27
+          units: km
     - region: NV
       exchange: '345076'
       name: Bog Hot
@@ -146,6 +176,11 @@ rate_centers:
       ilec_name: CENTRAL TEL. CO. - NEVADA DBA CENTURYLINK
       lat: '35.976207'
       long: "-114.831698"
+      closest_city:
+        name: Boulder City
+        distance:
+          value: 17.28
+          units: km
     - region: NV
       exchange: '342524'
       name: Bunkerville
@@ -162,6 +197,11 @@ rate_centers:
       ilec_name: BEEHIVE TELEPHONE CO., INC. -  NEVADA
       lat: '39.011426'
       long: "-114.568303"
+      closest_city:
+        name: Ely
+        distance:
+          value: 38.41
+          units: km
     - region: NV
       exchange: '345255'
       name: Cactus Springs
@@ -186,6 +226,11 @@ rate_centers:
       ilec_name: LINCOLN COUNTY TEL. SYSTEM, INC.
       lat: '37.610116'
       long: "-114.508708"
+      closest_city:
+        name: Caliente
+        distance:
+          value: 4.21
+          units: km
     - region: NV
       exchange: '345257'
       name: Callville Bay
@@ -202,6 +247,11 @@ rate_centers:
       ilec_name: CITIZENS TELECOMM CO OF NV DBA FRONTIER COMM OF NV
       lat: '40.716297'
       long: "-116.108885"
+      closest_city:
+        name: Carlin
+        distance:
+          value: 0.31
+          units: km
     - region: NV
       exchange: '130770'
       name: Carson City
@@ -210,6 +260,11 @@ rate_centers:
       ilec_name: NEVADA BELL
       lat: '39.177083'
       long: "-119.765442"
+      closest_city:
+        name: Carson City
+        distance:
+          value: 3.27
+          units: km
     - region: NV
       exchange: '130780'
       name: Carson Plains
@@ -218,6 +273,11 @@ rate_centers:
       ilec_name: NEVADA BELL
       lat: '39.304958'
       long: "-119.523085"
+      closest_city:
+        name: Dayton
+        distance:
+          value: 6.25
+          units: km
     - region: NV
       exchange: '345085'
       name: Caselton
@@ -314,6 +374,11 @@ rate_centers:
       ilec_name: NEVADA BELL
       lat: '39.763266'
       long: "-119.599956"
+      closest_city:
+        name: Spanish Springs
+        distance:
+          value: 13.25
+          units: km
     - region: NV
       exchange: '345093'
       name: Cove Creek
@@ -330,6 +395,11 @@ rate_centers:
       ilec_name: LINCOLN COUNTY TEL. SYSTEM, INC.
       lat: '36.824794'
       long: "-114.910341"
+      closest_city:
+        name: Moapa Town
+        distance:
+          value: 28.56
+          units: km
     - region: NV
       exchange: '130810'
       name: Crescent Valley
@@ -338,6 +408,11 @@ rate_centers:
       ilec_name: NEVADA BELL
       lat: '40.420499'
       long: "-116.600989"
+      closest_city:
+        name: Crescent Valley
+        distance:
+          value: 2.18
+          units: km
     - region: NV
       exchange: '130820'
       name: Crystal Bay
@@ -346,6 +421,11 @@ rate_centers:
       ilec_name: NEVADA BELL
       lat: '39.222877'
       long: "-120.00183"
+      closest_city:
+        name: Crystal Bay
+        distance:
+          value: 0.95
+          units: km
     - region: NV
       exchange: '345096'
       name: Currant
@@ -370,6 +450,11 @@ rate_centers:
       ilec_name: NEVADA BELL
       lat: '39.177083'
       long: "-119.765442"
+      closest_city:
+        name: Carson City
+        distance:
+          value: 3.27
+          units: km
     - region: NV
       exchange: '345100'
       name: Deer Creek (Humboldt)
@@ -394,6 +479,11 @@ rate_centers:
       ilec_name: HUMBOLDT TELEPHONE COMPANY
       lat: '41.766282'
       long: "-118.730628"
+      closest_city:
+        name: Denio
+        distance:
+          value: 25.92
+          units: km
     - region: NV
       exchange: '130840'
       name: Desert Valley
@@ -402,6 +492,11 @@ rate_centers:
       ilec_name: HUMBOLDT TELEPHONE COMPANY
       lat: '41.50569'
       long: "-118.123278"
+      closest_city:
+        name: Orovada
+        distance:
+          value: 25.42
+          units: km
     - region: NV
       exchange: '345104'
       name: Diamond Valley
@@ -434,6 +529,11 @@ rate_centers:
       ilec_name: NEVADA BELL
       lat: '38.899534'
       long: "-115.68982"
+      closest_city:
+        name: Preston
+        distance:
+          value: 54.2
+          units: km
     - region: NV
       exchange: '345107'
       name: Dutch Flat
@@ -466,6 +566,11 @@ rate_centers:
       ilec_name: CITIZENS TELECOMM CO OF NV DBA FRONTIER COMM OF NV
       lat: '40.833907'
       long: "-115.757501"
+      closest_city:
+        name: Elko
+        distance:
+          value: 0.98
+          units: km
     - region: NV
       exchange: '345111'
       name: Elkpoint
@@ -482,6 +587,11 @@ rate_centers:
       ilec_name: NEVADA BELL
       lat: '39.248261'
       long: "-114.882999"
+      closest_city:
+        name: Ely
+        distance:
+          value: 2.14
+          units: km
     - region: NV
       exchange: '345113'
       name: Emigrant Pass
@@ -498,6 +608,11 @@ rate_centers:
       ilec_name: NEVADA BELL
       lat: '40.566462'
       long: "-119.34724"
+      closest_city:
+        name: Empire
+        distance:
+          value: 1.11
+          units: km
     - region: NV
       exchange: '345263'
       name: Enterprise
@@ -522,6 +637,11 @@ rate_centers:
       ilec_name: NEVADA BELL
       lat: '39.516809'
       long: "-115.95758"
+      closest_city:
+        name: Eureka
+        distance:
+          value: 0.94
+          units: km
     - region: NV
       exchange: '345117'
       name: Evans Creek
@@ -538,6 +658,11 @@ rate_centers:
       ilec_name: CHURCHILL COUNTY TELEPHONE DBA CC COMMUNICATIONS
       lat: '39.476816'
       long: "-118.77536"
+      closest_city:
+        name: Fallon
+        distance:
+          value: 0.41
+          units: km
     - region: NV
       exchange: '130910'
       name: Fernley
@@ -546,6 +671,11 @@ rate_centers:
       ilec_name: NEVADA BELL
       lat: '39.601855'
       long: "-119.226078"
+      closest_city:
+        name: Fernley
+        distance:
+          value: 5.31
+          units: km
     - region: NV
       exchange: '130920'
       name: Fish Lake Valley
@@ -554,6 +684,11 @@ rate_centers:
       ilec_name: NEVADA BELL
       lat: '37.678974'
       long: "-118.058189"
+      closest_city:
+        name: Dyer
+        distance:
+          value: 4.13
+          units: km
     - region: NV
       exchange: '345121'
       name: Fort Churchill
@@ -570,6 +705,11 @@ rate_centers:
       ilec_name: NEVADA BELL
       lat: '38.857258'
       long: "-117.93275"
+      closest_city:
+        name: Gabbs
+        distance:
+          value: 0.54
+          units: km
     - region: NV
       exchange: '345123'
       name: Gallagher Flat
@@ -586,6 +726,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE SOUTHWEST INC. - NV
       lat: '38.951457'
       long: "-119.762158"
+      closest_city:
+        name: Minden
+        distance:
+          value: 1.41
+          units: km
     - region: NV
       exchange: '130941'
       name: Gardnerville Ranchos
@@ -618,6 +763,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE SOUTHWEST INC. - NV
       lat: '39.075375'
       long: "-119.949077"
+      closest_city:
+        name: Logan Creek
+        distance:
+          value: 2.21
+          units: km
     - region: NV
       exchange: '130960'
       name: Glendale
@@ -626,6 +776,11 @@ rate_centers:
       ilec_name: MOAPA VALLEY TEL. CO.
       lat: '36.662042'
       long: "-114.577958"
+      closest_city:
+        name: Moapa Town
+        distance:
+          value: 6.16
+          units: km
     - region: NV
       exchange: '345128'
       name: Golconda
@@ -650,6 +805,11 @@ rate_centers:
       ilec_name: CITIZENS TELECOMM CO OF NV DBA FRONTIER COMM OF NV
       lat: '37.712679'
       long: "-117.232157"
+      closest_city:
+        name: Goldfield
+        distance:
+          value: 0.5
+          units: km
     - region: NV
       exchange: '345265'
       name: Goodsprings
@@ -666,6 +826,11 @@ rate_centers:
       ilec_name: BEEHIVE TELEPHONE CO., INC. -  NEVADA
       lat: '40.039181'
       long: "-114.314423"
+      closest_city:
+        name: West Wendover
+        distance:
+          value: 80.53
+          units: km
     - region: NV
       exchange: '345133'
       name: Hammond Ranch
@@ -690,6 +855,11 @@ rate_centers:
       ilec_name: NEVADA BELL
       lat: '38.524287'
       long: "-118.624748"
+      closest_city:
+        name: Hawthorne
+        distance:
+          value: 0.16
+          units: km
     - region: NV
       exchange: '345136'
       name: Hazen
@@ -706,6 +876,11 @@ rate_centers:
       ilec_name: CENTRAL TEL. CO. - NEVADA DBA CENTURYLINK
       lat: '36.032382'
       long: "-114.985019"
+      closest_city:
+        name: Henderson
+        distance:
+          value: 5.22
+          units: km
     - region: NV
       exchange: '345137'
       name: Hiko
@@ -722,6 +897,11 @@ rate_centers:
       ilec_name: NEVADA BELL
       lat: '40.66428'
       long: "-118.148509"
+      closest_city:
+        name: Imlay
+        distance:
+          value: 0.78
+          units: km
     - region: NV
       exchange: '130821'
       name: Incline Village
@@ -746,6 +926,11 @@ rate_centers:
       ilec_name: NEVADA BELL
       lat: '36.582578'
       long: "-115.675142"
+      closest_city:
+        name: Indian Springs
+        distance:
+          value: 4.21
+          units: km
     - region: NV
       exchange: '345268'
       name: Indian Springs Air Force Base
@@ -762,6 +947,11 @@ rate_centers:
       ilec_name: FILER MUTUAL TEL CO
       lat: '41.983629'
       long: "-114.674904"
+      closest_city:
+        name: Jackpot
+        distance:
+          value: 0.96
+          units: km
     - region: NV
       exchange: '130942'
       name: Jacks Valley
@@ -786,6 +976,11 @@ rate_centers:
       ilec_name: RURAL TEL CO
       lat: '41.836675'
       long: "-115.391059"
+      closest_city:
+        name: Mountain City
+        distance:
+          value: 47.41
+          units: km
     - region: NV
       exchange: '131050'
       name: Jean
@@ -794,6 +989,11 @@ rate_centers:
       ilec_name: CENTRAL TEL. CO. - NEVADA DBA CENTURYLINK
       lat: '35.775748'
       long: "-115.327412"
+      closest_city:
+        name: Goodsprings
+        distance:
+          value: 11.55
+          units: km
     - region: NV
       exchange: '345143'
       name: Jiggs
@@ -834,6 +1034,11 @@ rate_centers:
       ilec_name: MOAPA VALLEY TEL. CO.
       lat: '36.391132'
       long: "-114.430149"
+      closest_city:
+        name: Moapa Valley
+        distance:
+          value: 24.21
+          units: km
     - region: NV
       exchange: '131070'
       name: Lake Valley
@@ -842,6 +1047,11 @@ rate_centers:
       ilec_name: LINCOLN COUNTY TEL. SYSTEM, INC.
       lat: '38.373704'
       long: "-114.551627"
+      closest_city:
+        name: Mount Wilson
+        distance:
+          value: 17.77
+          units: km
     - region: NV
       exchange: '345148'
       name: Lamoille
@@ -866,6 +1076,11 @@ rate_centers:
       ilec_name: CENTRAL TEL. CO. - NEVADA DBA CENTURYLINK
       lat: '36.168333'
       long: "-115.142596"
+      closest_city:
+        name: Winchester
+        distance:
+          value: 3.58
+          units: km
     - region: NV
       exchange: '131090'
       name: Lathrop Wells
@@ -874,6 +1089,11 @@ rate_centers:
       ilec_name: NEVADA BELL
       lat: '36.659936'
       long: "-116.39255"
+      closest_city:
+        name: Amargosa Valley
+        distance:
+          value: 15.59
+          units: km
     - region: NV
       exchange: '131100'
       name: Laughlin
@@ -882,6 +1102,11 @@ rate_centers:
       ilec_name: CENTRAL TEL. CO. - NEVADA DBA CENTURYLINK
       lat: '35.173404'
       long: "-114.575131"
+      closest_city:
+        name: Laughlin
+        distance:
+          value: 5.55
+          units: km
     - region: NV
       exchange: '345150'
       name: Lee
@@ -898,6 +1123,11 @@ rate_centers:
       ilec_name: CITIZENS TELECOMM CO OF NV DBA FRONTIER COMM OF NV
       lat: '40.547307'
       long: "-115.663431"
+      closest_city:
+        name: Spring Creek
+        distance:
+          value: 22.66
+          units: km
     - region: NV
       exchange: '345274'
       name: Lees Canyon
@@ -930,6 +1160,11 @@ rate_centers:
       ilec_name: NEVADA BELL
       lat: '39.525978'
       long: "-119.807959"
+      closest_city:
+        name: Reno
+        distance:
+          value: 4.35
+          units: km
     - region: NV
       exchange: '131120'
       name: Logandale
@@ -938,6 +1173,11 @@ rate_centers:
       ilec_name: MOAPA VALLEY TEL. CO.
       lat: '36.596046'
       long: "-114.483885"
+      closest_city:
+        name: Moapa Valley
+        distance:
+          value: 2.76
+          units: km
     - region: NV
       exchange: '131130'
       name: Lovelock
@@ -946,6 +1186,11 @@ rate_centers:
       ilec_name: NEVADA BELL
       lat: '40.182737'
       long: "-118.47625"
+      closest_city:
+        name: Lovelock
+        distance:
+          value: 0.46
+          units: km
     - region: NV
       exchange: '345156'
       name: Lowery Canyon
@@ -962,6 +1207,11 @@ rate_centers:
       ilec_name: NEVADA BELL
       lat: '38.866191'
       long: "-115.0165"
+      closest_city:
+        name: Lund
+        distance:
+          value: 0.61
+          units: km
     - region: NV
       exchange: '345158'
       name: Luning
@@ -994,6 +1244,11 @@ rate_centers:
       ilec_name: CITIZENS TELECOMM CO OF NV DBA FRONTIER COMM OF NV
       lat: '38.535653'
       long: "-117.066344"
+      closest_city:
+        name: Tonopah
+        distance:
+          value: 52.28
+          units: km
     - region: NV
       exchange: '345162'
       name: Marla Bay
@@ -1010,6 +1265,11 @@ rate_centers:
       ilec_name: BEEHIVE TELEPHONE CO., INC. -  NEVADA
       lat: '41.325905'
       long: "-115.255491"
+      closest_city:
+        name: Wells
+        distance:
+          value: 34.6
+          units: km
     - region: NV
       exchange: '345164'
       name: Mason
@@ -1026,6 +1286,11 @@ rate_centers:
       ilec_name: HUMBOLDT TELEPHONE COMPANY
       lat: '41.993087'
       long: "-117.719311"
+      closest_city:
+        name: McDermitt
+        distance:
+          value: 0.34
+          units: km
     - region: NV
       exchange: '131180'
       name: McGill
@@ -1034,6 +1299,11 @@ rate_centers:
       ilec_name: NEVADA BELL
       lat: '39.409643'
       long: "-114.771824"
+      closest_city:
+        name: McGill
+        distance:
+          value: 0.99
+          units: km
     - region: NV
       exchange: '131190'
       name: Mesquite
@@ -1042,6 +1312,11 @@ rate_centers:
       ilec_name: RIO VIRGIN TEL. CO., INC.
       lat: '36.801246'
       long: "-114.060615"
+      closest_city:
+        name: Mesquite
+        distance:
+          value: 6.45
+          units: km
     - region: NV
       exchange: '131200'
       name: Midas
@@ -1050,6 +1325,11 @@ rate_centers:
       ilec_name: HUMBOLDT TELEPHONE COMPANY
       lat: '41.242224'
       long: "-116.806285"
+      closest_city:
+        name: Valmy
+        distance:
+          value: 56.94
+          units: km
     - region: NV
       exchange: '345168'
       name: Mill City
@@ -1066,6 +1346,11 @@ rate_centers:
       ilec_name: NEVADA BELL
       lat: '38.391995'
       long: "-118.106696"
+      closest_city:
+        name: Mina
+        distance:
+          value: 0.48
+          units: km
     - region: NV
       exchange: '345170'
       name: Minden
@@ -1098,6 +1383,11 @@ rate_centers:
       ilec_name: CITIZENS TELECOMM CO OF NV DBA FRONTIER COMM OF NV
       lat: '41.259109'
       long: "-114.193732"
+      closest_city:
+        name: Montello
+        distance:
+          value: 0.93
+          units: km
     - region: NV
       exchange: '131230'
       name: Montgomery Pass
@@ -1106,6 +1396,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE SOUTHWEST INC. - NV
       lat: '38.009323'
       long: "-118.27505"
+      closest_city:
+        name: Mina
+        distance:
+          value: 44.66
+          units: km
     - region: NV
       exchange: '345173'
       name: Mound House
@@ -1122,6 +1417,11 @@ rate_centers:
       ilec_name: CENTRAL TEL. CO. - NEVADA DBA CENTURYLINK
       lat: '36.257523'
       long: "-115.651904"
+      closest_city:
+        name: Mount Charleston
+        distance:
+          value: 3.46
+          units: km
     - region: NV
       exchange: '131250'
       name: Mountain City
@@ -1130,6 +1430,11 @@ rate_centers:
       ilec_name: CENTURYTEL GEM STATE INC-NV DBA CENTURYLINK - NV
       lat: '41.843584'
       long: "-115.994228"
+      closest_city:
+        name: Mountain City
+        distance:
+          value: 2.65
+          units: km
     - region: NV
       exchange: '345278'
       name: Mountain Springs
@@ -1146,6 +1451,11 @@ rate_centers:
       ilec_name: CENTRAL TEL. CO. - NEVADA DBA CENTURYLINK
       lat: '35.711562'
       long: "-114.844029"
+      closest_city:
+        name: Nelson
+        distance:
+          value: 1.35
+          units: km
     - region: NV
       exchange: '131270'
       name: Nixon
@@ -1154,6 +1464,11 @@ rate_centers:
       ilec_name: NEVADA BELL
       lat: '39.827082'
       long: "-119.360658"
+      closest_city:
+        name: Nixon
+        distance:
+          value: 0.18
+          units: km
     - region: NV
       exchange: '345175'
       name: Nordyke
@@ -1170,6 +1485,11 @@ rate_centers:
       ilec_name: RURAL TEL CO
       lat: '41.638658'
       long: "-115.803752"
+      closest_city:
+        name: Mountain City
+        distance:
+          value: 25.76
+          units: km
     - region: NV
       exchange: '345280'
       name: North Las Vegas
@@ -1202,6 +1522,11 @@ rate_centers:
       ilec_name: HUMBOLDT TELEPHONE COMPANY
       lat: '41.557785'
       long: "-117.791914"
+      closest_city:
+        name: Orovada
+        distance:
+          value: 2.8
+          units: km
     - region: NV
       exchange: '345180'
       name: Osceola
@@ -1226,6 +1551,11 @@ rate_centers:
       ilec_name: MOAPA VALLEY TEL. CO.
       lat: '36.543168'
       long: "-114.444719"
+      closest_city:
+        name: Moapa Valley
+        distance:
+          value: 7.26
+          units: km
     - region: NV
       exchange: '131310'
       name: Owyhee
@@ -1234,6 +1564,11 @@ rate_centers:
       ilec_name: CENTURYTEL GEM STATE INC-NV DBA CENTURYLINK - NV
       lat: '41.94136'
       long: "-116.109703"
+      closest_city:
+        name: Owyhee
+        distance:
+          value: 6.63
+          units: km
     - region: NV
       exchange: '131320'
       name: Pahrump
@@ -1242,6 +1577,11 @@ rate_centers:
       ilec_name: NEVADA BELL
       lat: '36.208382'
       long: "-115.991422"
+      closest_city:
+        name: Pahrump
+        distance:
+          value: 1.76
+          units: km
     - region: NV
       exchange: '345182'
       name: Paiute Meadows
@@ -1258,6 +1598,11 @@ rate_centers:
       ilec_name: LINCOLN COUNTY TEL. SYSTEM, INC.
       lat: '37.790986'
       long: "-114.375686"
+      closest_city:
+        name: Panaca
+        distance:
+          value: 2.2
+          units: km
     - region: NV
       exchange: '345184'
       name: Paradise Hill
@@ -1274,6 +1619,11 @@ rate_centers:
       ilec_name: HUMBOLDT TELEPHONE COMPANY
       lat: '41.492317'
       long: "-117.532805"
+      closest_city:
+        name: Paradise Valley
+        distance:
+          value: 1.19
+          units: km
     - region: NV
       exchange: '131350'
       name: Pilot Valley
@@ -1282,6 +1632,11 @@ rate_centers:
       ilec_name: BEEHIVE TELEPHONE CO., INC. -  NEVADA
       lat: '41.101146'
       long: "-114.134358"
+      closest_city:
+        name: Montello
+        distance:
+          value: 19.18
+          units: km
     - region: NV
       exchange: '345187'
       name: Pinson Ranch
@@ -1298,6 +1653,11 @@ rate_centers:
       ilec_name: LINCOLN COUNTY TEL. SYSTEM, INC.
       lat: '37.92369'
       long: "-114.449101"
+      closest_city:
+        name: Pioche
+        distance:
+          value: 3.18
+          units: km
     - region: NV
       exchange: '131370'
       name: Pleasant Valley
@@ -1306,6 +1666,11 @@ rate_centers:
       ilec_name: BEEHIVE TELEPHONE CO., INC. -  NEVADA
       lat: '39.714648'
       long: "-114.395014"
+      closest_city:
+        name: McGill
+        distance:
+          value: 47.8
+          units: km
     - region: NV
       exchange: '345190'
       name: Preston
@@ -1370,6 +1735,11 @@ rate_centers:
       ilec_name: RURAL TEL CO
       lat: '39.866202'
       long: "-119.95508"
+      closest_city:
+        name: Cold Springs
+        distance:
+          value: 19.39
+          units: km
     - region: NV
       exchange: '131390'
       name: Reno
@@ -1378,6 +1748,11 @@ rate_centers:
       ilec_name: NEVADA BELL
       lat: '39.525978'
       long: "-119.807959"
+      closest_city:
+        name: Reno
+        distance:
+          value: 4.35
+          units: km
     - region: NV
       exchange: '345198'
       name: River Side
@@ -1394,6 +1769,11 @@ rate_centers:
       ilec_name: NEVADA BELL
       lat: '38.707126'
       long: "-117.066053"
+      closest_city:
+        name: Kingston
+        distance:
+          value: 55.93
+          units: km
     - region: NV
       exchange: '131410'
       name: Ruby Valley
@@ -1402,6 +1782,11 @@ rate_centers:
       ilec_name: CITIZENS TELECOMM CO OF NV DBA FRONTIER COMM OF NV
       lat: '40.626303'
       long: "-115.277882"
+      closest_city:
+        name: Lamoille
+        distance:
+          value: 20.14
+          units: km
     - region: NV
       exchange: '131420'
       name: Sand Springs
@@ -1410,6 +1795,11 @@ rate_centers:
       ilec_name: LINCOLN COUNTY TEL. SYSTEM, INC.
       lat: '37.646413'
       long: "-115.751537"
+      closest_city:
+        name: Rachel
+        distance:
+          value: 1.56
+          units: km
     - region: NV
       exchange: '131430'
       name: Sandy Valley
@@ -1418,6 +1808,11 @@ rate_centers:
       ilec_name: NEVADA BELL
       lat: '35.815572'
       long: "-115.627601"
+      closest_city:
+        name: Sandy Valley
+        distance:
+          value: 2.98
+          units: km
     - region: NV
       exchange: '345202'
       name: Schellbourne
@@ -1434,6 +1829,11 @@ rate_centers:
       ilec_name: NEVADA BELL
       lat: '38.951199'
       long: "-118.818144"
+      closest_city:
+        name: Schurz
+        distance:
+          value: 1.86
+          units: km
     - region: NV
       exchange: '131450'
       name: Searchlight
@@ -1442,6 +1842,11 @@ rate_centers:
       ilec_name: CENTRAL TEL. CO. - NEVADA DBA CENTURYLINK
       lat: '35.465316'
       long: "-114.914923"
+      closest_city:
+        name: Searchlight
+        distance:
+          value: 1.2
+          units: km
     - region: NV
       exchange: '345204'
       name: Sheldon
@@ -1466,6 +1871,11 @@ rate_centers:
       ilec_name: CITIZENS TELECOMM CO OF NV DBA FRONTIER COMM OF NV
       lat: '37.753074'
       long: "-117.633846"
+      closest_city:
+        name: Silver Peak
+        distance:
+          value: 0.67
+          units: km
     - region: NV
       exchange: '131470'
       name: Silver Springs
@@ -1474,6 +1884,11 @@ rate_centers:
       ilec_name: NEVADA BELL
       lat: '39.408324'
       long: "-119.224374"
+      closest_city:
+        name: Silver Springs
+        distance:
+          value: 2.98
+          units: km
     - region: NV
       exchange: '345208'
       name: Silver State Valley
@@ -1506,6 +1921,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE SOUTHWEST INC. - NV
       lat: '38.797204'
       long: "-119.326465"
+      closest_city:
+        name: Smith Valley
+        distance:
+          value: 2.66
+          units: km
     - region: NV
       exchange: '345211'
       name: Spanish Springs
@@ -1530,6 +1950,11 @@ rate_centers:
       ilec_name: NEVADA BELL
       lat: '39.525978'
       long: "-119.807959"
+      closest_city:
+        name: Reno
+        distance:
+          value: 4.35
+          units: km
     - region: NV
       exchange: '131490'
       name: Spirit Mountain
@@ -1538,6 +1963,11 @@ rate_centers:
       ilec_name: FORT MOJAVE TELECOM INC
       lat: '35.0065'
       long: "-114.644494"
+      closest_city:
+        name: Laughlin
+        distance:
+          value: 15.01
+          units: km
     - region: NV
       exchange: '345213'
       name: Spring Creek
@@ -1554,6 +1984,11 @@ rate_centers:
       ilec_name: NEVADA BELL
       lat: '39.337109'
       long: "-114.464175"
+      closest_city:
+        name: McGill
+        distance:
+          value: 27.88
+          units: km
     - region: NV
       exchange: '345215'
       name: Squaw Valley
@@ -1570,6 +2005,11 @@ rate_centers:
       ilec_name: NEVADA BELL
       lat: '39.367741'
       long: "-119.368924"
+      closest_city:
+        name: Stagecoach
+        distance:
+          value: 1.25
+          units: km
     - region: NV
       exchange: '131520'
       name: Stateline
@@ -1578,6 +2018,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE SOUTHWEST INC. - NV
       lat: '38.967966'
       long: "-119.931429"
+      closest_city:
+        name: Stateline
+        distance:
+          value: 1.09
+          units: km
     - region: NV
       exchange: '131393'
       name: Stead
@@ -1586,6 +2031,11 @@ rate_centers:
       ilec_name: NEVADA BELL
       lat: '39.525978'
       long: "-119.807959"
+      closest_city:
+        name: Reno
+        distance:
+          value: 4.35
+          units: km
     - region: NV
       exchange: '345218'
       name: Steptoe Valley
@@ -1610,6 +2060,11 @@ rate_centers:
       ilec_name: NEVADA BELL
       lat: '39.525978'
       long: "-119.807959"
+      closest_city:
+        name: Reno
+        distance:
+          value: 4.35
+          units: km
     - region: NV
       exchange: '131530'
       name: Sutcliffe
@@ -1618,6 +2073,11 @@ rate_centers:
       ilec_name: NEVADA BELL
       lat: '39.943685'
       long: "-119.611283"
+      closest_city:
+        name: Sutcliffe
+        distance:
+          value: 1.66
+          units: km
     - region: NV
       exchange: '131540'
       name: Sweetwater
@@ -1626,6 +2086,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE SOUTHWEST INC. - NV
       lat: '38.46344'
       long: "-119.173097"
+      closest_city:
+        name: Topaz Lake
+        distance:
+          value: 41.35
+          units: km
     - region: NV
       exchange: '345223'
       name: Telegraph Canyon
@@ -1666,6 +2131,11 @@ rate_centers:
       ilec_name: CITIZENS TELECOMM CO OF NV DBA FRONTIER COMM OF NV
       lat: '38.069155'
       long: "-117.228558"
+      closest_city:
+        name: Tonopah
+        distance:
+          value: 1.49
+          units: km
     - region: NV
       exchange: '131560'
       name: Topaz Lake
@@ -1674,6 +2144,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE SOUTHWEST INC. - NV
       lat: '38.700364'
       long: "-119.550596"
+      closest_city:
+        name: Topaz Lake
+        distance:
+          value: 0.75
+          units: km
     - region: NV
       exchange: '219470'
       name: Toquop
@@ -1682,6 +2157,11 @@ rate_centers:
       ilec_name: LINCOLN COUNTY TEL. SYSTEM, INC.
       lat: '36.875907'
       long: "-114.08841"
+      closest_city:
+        name: Mesquite
+        distance:
+          value: 9.01
+          units: km
     - region: NV
       exchange: '345229'
       name: Tungsten
@@ -1698,6 +2178,11 @@ rate_centers:
       ilec_name: RURAL TEL CO
       lat: '41.319771'
       long: "-116.110542"
+      closest_city:
+        name: Osino
+        distance:
+          value: 56.52
+          units: km
     - region: NV
       exchange: '345231'
       name: Unionville
@@ -1714,6 +2199,11 @@ rate_centers:
       ilec_name: MOAPA VALLEY TEL. CO.
       lat: '36.718697'
       long: "-114.703519"
+      closest_city:
+        name: Moapa Town
+        distance:
+          value: 6.72
+          units: km
     - region: NV
       exchange: '131395'
       name: Verdi
@@ -1722,6 +2212,11 @@ rate_centers:
       ilec_name: NEVADA BELL
       lat: '39.525978'
       long: "-119.807959"
+      closest_city:
+        name: Reno
+        distance:
+          value: 4.35
+          units: km
     - region: NV
       exchange: '345233'
       name: Virgin Valley
@@ -1738,6 +2233,11 @@ rate_centers:
       ilec_name: NEVADA BELL
       lat: '39.3081'
       long: "-119.647804"
+      closest_city:
+        name: Virginia City
+        distance:
+          value: 0.09
+          units: km
     - region: NV
       exchange: '345235'
       name: Vista
@@ -1778,6 +2278,11 @@ rate_centers:
       ilec_name: NEVADA BELL
       lat: '39.525978'
       long: "-119.807959"
+      closest_city:
+        name: Reno
+        distance:
+          value: 4.35
+          units: km
     - region: NV
       exchange: '345241'
       name: Weed Heights
@@ -1802,6 +2307,11 @@ rate_centers:
       ilec_name: CITIZENS TELECOMM CO OF NV DBA FRONTIER COMM OF NV
       lat: '41.109362'
       long: "-114.960499"
+      closest_city:
+        name: Wells
+        distance:
+          value: 0.73
+          units: km
     - region: NV
       exchange: '131610'
       name: Wendover
@@ -1810,6 +2320,11 @@ rate_centers:
       ilec_name: CITIZENS TELECOMM CO OF NV DBA FRONTIER COMM OF NV
       lat: '40.754951'
       long: "-114.129075"
+      closest_city:
+        name: West Wendover
+        distance:
+          value: 4.56
+          units: km
     - region: NV
       exchange: '131620'
       name: Western Wendover
@@ -1818,6 +2333,11 @@ rate_centers:
       ilec_name: BEEHIVE TELEPHONE CO., INC. -  NEVADA
       lat: '41.034117'
       long: "-114.484738"
+      closest_city:
+        name: Oasis
+        distance:
+          value: 0.94
+          units: km
     - region: NV
       exchange: '345244'
       name: White River
@@ -1842,6 +2362,11 @@ rate_centers:
       ilec_name: NEVADA BELL
       lat: '40.965729'
       long: "-117.741592"
+      closest_city:
+        name: Winnemucca
+        distance:
+          value: 1.42
+          units: km
     - region: NV
       exchange: '131640'
       name: Yerington
@@ -1850,6 +2375,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE SOUTHWEST INC. - NV
       lat: '38.982339'
       long: "-119.157116"
+      closest_city:
+        name: Yerington
+        distance:
+          value: 5.05
+          units: km
     - region: NV
       exchange: '345249'
       name: Zephyr Cove

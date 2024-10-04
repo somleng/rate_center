@@ -1,7 +1,7 @@
 ---
 rate_centers:
-  us:
-    ri:
+  US:
+    RI:
     - region: RI
       exchange: '302472'
       name: Adamsville
@@ -82,6 +82,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.173346'
       long: "-71.56758"
+      closest_city:
+        name: Quonochontaug
+        distance:
+          value: 22.29
+          units: km
     - region: RI
       exchange: '302482'
       name: Bonnet Shores
@@ -106,6 +111,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.667985'
       long: "-71.274208"
+      closest_city:
+        name: Melville
+        distance:
+          value: 12.0
+          units: km
     - region: RI
       exchange: '302484'
       name: Bristol Ferry
@@ -138,6 +148,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.45592'
       long: "-71.661683"
+      closest_city:
+        name: Carolina
+        distance:
+          value: 0.78
+          units: km
     - region: RI
       exchange: '302489'
       name: Central Falls
@@ -154,6 +169,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.857476'
       long: "-71.484996"
+      closest_city:
+        name: Greenville
+        distance:
+          value: 6.4
+          units: km
     - region: RI
       exchange: '302491'
       name: Charlestown
@@ -194,6 +214,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.709529'
       long: "-71.638267"
+      closest_city:
+        name: Greene
+        distance:
+          value: 8.03
+          units: km
     - region: RI
       exchange: '176031'
       name: Cranston
@@ -218,6 +243,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.975696'
       long: "-71.458272"
+      closest_city:
+        name: Cumberland Hill
+        distance:
+          value: 0.3
+          units: km
     - region: RI
       exchange: '302499'
       name: Davisville
@@ -362,6 +392,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.6634'
       long: "-71.452481"
+      closest_city:
+        name: Warwick
+        distance:
+          value: 5.02
+          units: km
     - region: RI
       exchange: '302517'
       name: Hamilton
@@ -410,6 +445,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.509705'
       long: "-71.713248"
+      closest_city:
+        name: Hope Valley
+        distance:
+          value: 0.83
+          units: km
     - region: RI
       exchange: '302523'
       name: Hopkinton
@@ -434,6 +474,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.496153'
       long: "-71.367267"
+      closest_city:
+        name: Newport
+        distance:
+          value: 4.3
+          units: km
     - region: RI
       exchange: '302526'
       name: Johnston
@@ -474,6 +519,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.504174'
       long: "-71.185601"
+      closest_city:
+        name: Newport East
+        distance:
+          value: 8.61
+          units: km
     - region: RI
       exchange: '302530'
       name: Lonsdale
@@ -554,6 +604,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.441066'
       long: "-71.489805"
+      closest_city:
+        name: Narragansett Pier
+        distance:
+          value: 2.4
+          units: km
     - region: RI
       exchange: '302541'
       name: Nasonville
@@ -586,6 +641,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.491079'
       long: "-71.309954"
+      closest_city:
+        name: Newport
+        distance:
+          value: 1.49
+          units: km
     - region: RI
       exchange: '175990'
       name: North Kingstown
@@ -594,6 +654,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.569922'
       long: "-71.451993"
+      closest_city:
+        name: Kingston
+        distance:
+          value: 12.24
+          units: km
     - region: RI
       exchange: '176032'
       name: North Providence
@@ -666,6 +731,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.956013'
       long: "-71.700994"
+      closest_city:
+        name: Pascoag
+        distance:
+          value: 0.52
+          units: km
     - region: RI
       exchange: '176010'
       name: Pawtucket
@@ -674,6 +744,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.878541'
       long: "-71.382955"
+      closest_city:
+        name: Pawtucket
+        distance:
+          value: 0.85
+          units: km
     - region: RI
       exchange: '302555'
       name: Peace Dale
@@ -714,6 +789,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.609135'
       long: "-71.244034"
+      closest_city:
+        name: Melville
+        distance:
+          value: 6.75
+          units: km
     - region: RI
       exchange: '176030'
       name: Providence
@@ -722,6 +802,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.82125'
       long: "-71.414117"
+      closest_city:
+        name: Providence
+        distance:
+          value: 0.43
+          units: km
     - region: RI
       exchange: '302560'
       name: Prudence Island
@@ -786,6 +871,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.832773'
       long: "-71.590825"
+      closest_city:
+        name: Greenville
+        distance:
+          value: 6.23
+          units: km
     - region: RI
       exchange: '302569'
       name: Shannock
@@ -842,6 +932,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.630979'
       long: "-71.212247"
+      closest_city:
+        name: Melville
+        distance:
+          value: 10.31
+          units: km
     - region: RI
       exchange: '302576'
       name: Valley Falls
@@ -874,6 +969,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.729565'
       long: "-71.269863"
+      closest_city:
+        name: East Providence
+        distance:
+          value: 11.17
+          units: km
     - region: RI
       exchange: '176070'
       name: Warwick
@@ -882,6 +982,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.705123'
       long: "-71.41486"
+      closest_city:
+        name: Warwick
+        distance:
+          value: 1.54
+          units: km
     - region: RI
       exchange: '302583'
       name: Watch Hill
@@ -914,6 +1019,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.916259'
       long: "-71.791539"
+      closest_city:
+        name: Pascoag
+        distance:
+          value: 8.25
+          units: km
     - region: RI
       exchange: '302589'
       name: West Greenwich
@@ -938,6 +1048,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.709501'
       long: "-71.520318"
+      closest_city:
+        name: Cranston
+        distance:
+          value: 6.88
+          units: km
     - region: RI
       exchange: '176100'
       name: Westerly
@@ -946,6 +1061,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.376989'
       long: "-71.832504"
+      closest_city:
+        name: Misquamicut
+        distance:
+          value: 5.99
+          units: km
     - region: RI
       exchange: '302590'
       name: Wickford
@@ -970,6 +1090,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.006933'
       long: "-71.511043"
+      closest_city:
+        name: Woonsocket
+        distance:
+          value: 1.17
+          units: km
     - region: RI
       exchange: '302592'
       name: Wyoming

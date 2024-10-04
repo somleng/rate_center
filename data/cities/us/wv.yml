@@ -1,1760 +1,7547 @@
 ---
 cities:
-  us:
+  US:
     WV:
     - name: Accoville
       region: WV
       lat: '37.7652'
       long: "-81.8270"
+      closest_rate_centers:
+      - name: Man
+        distance:
+          value: 4.78
+          units: km
+      - name: Gilbert
+        distance:
+          value: 16.99
+          units: km
+      - name: Logan
+        distance:
+          value: 17.09
+          units: km
     - name: Addison
       region: WV
       lat: '38.4782'
       long: "-80.4082"
+      closest_rate_centers:
+      - name: Webster Springs
+        distance:
+          value: 0.95
+          units: km
+      - name: Cowen
+        distance:
+          value: 15.46
+          units: km
+      - name: Hacker Valley
+        distance:
+          value: 18.01
+          units: km
     - name: Adrian
       region: WV
       lat: '38.9069'
       long: "-80.2729"
+      closest_rate_centers:
+      - name: Buckhannon
+        distance:
+          value: 10.25
+          units: km
+      - name: Rock Cave
+        distance:
+          value: 10.28
+          units: km
+      - name: Walkersville
+        distance:
+          value: 15.91
+          units: km
     - name: Albright
       region: WV
       lat: '39.4937'
       long: "-79.6399"
+      closest_rate_centers:
+      - name: Kingwood
+        distance:
+          value: 5.19
+          units: km
+      - name: Terra Alta
+        distance:
+          value: 10.48
+          units: km
+      - name: Tunnelton
+        distance:
+          value: 14.14
+          units: km
     - name: Alderson
       region: WV
       lat: '37.7277'
       long: "-80.6436"
+      closest_rate_centers:
+      - name: Alderson
+        distance:
+          value: 0.4
+          units: km
+      - name: Union
+        distance:
+          value: 17.5
+          units: km
+      - name: Lewisburg
+        distance:
+          value: 17.66
+          units: km
     - name: Alum Creek
       region: WV
       lat: '38.2875'
       long: "-81.8330"
+      closest_rate_centers:
+      - name: Charleston Zone 7
+        distance:
+          value: 1.46
+          units: km
+      - name: Charleston Zone 5
+        distance:
+          value: 10.59
+          units: km
+      - name: Griffithsville
+        distance:
+          value: 12.83
+          units: km
     - name: Amherstdale
       region: WV
       lat: '37.7799'
       long: "-81.8183"
+      closest_rate_centers:
+      - name: Man
+        distance:
+          value: 6.34
+          units: km
+      - name: Logan
+        distance:
+          value: 16.94
+          units: km
+      - name: Oceana
+        distance:
+          value: 17.79
+          units: km
     - name: Anawalt
       region: WV
       lat: '37.3364'
       long: "-81.4407"
+      closest_rate_centers:
+      - name: Anawalt
+        distance:
+          value: 0.86
+          units: km
+      - name: Maybeury
+        distance:
+          value: 6.56
+          units: km
+      - name: Northfork
+        distance:
+          value: 9.12
+          units: km
     - name: Anmoore
       region: WV
       lat: '39.2611'
       long: "-80.2862"
+      closest_rate_centers:
+      - name: Bridgeport
+        distance:
+          value: 3.85
+          units: km
+      - name: Clarksburg
+        distance:
+          value: 5.01
+          units: km
+      - name: West Milford
+        distance:
+          value: 11.45
+          units: km
     - name: Ansted
       region: WV
       lat: '38.1356'
       long: "-81.1038"
+      closest_rate_centers:
+      - name: Ansted
+        distance:
+          value: 0.87
+          units: km
+      - name: Gauley Bridge
+        distance:
+          value: 8.2
+          units: km
+      - name: Fayetteville
+        distance:
+          value: 8.65
+          units: km
     - name: Apple Grove
       region: WV
       lat: '38.6663'
       long: "-82.1706"
+      closest_rate_centers:
+      - name: Apple Grove
+        distance:
+          value: 1.58
+          units: km
+      - name: Union Ridge
+        distance:
+          value: 16.29
+          units: km
+      - name: Buffalo
+        distance:
+          value: 18.16
+          units: km
     - name: Arbovale
       region: WV
       lat: '38.4353'
       long: "-79.8116"
+      closest_rate_centers:
+      - name: Arbovale
+        distance:
+          value: 0.71
+          units: km
+      - name: Snowshoe
+        distance:
+          value: 16.19
+          units: km
+      - name: Marlinton
+        distance:
+          value: 33.68
+          units: km
     - name: Arthurdale
       region: WV
       lat: '39.4953'
       long: "-79.8168"
+      closest_rate_centers:
+      - name: Reedsville
+        distance:
+          value: 0.69
+          units: km
+      - name: Kingwood
+        distance:
+          value: 10.72
+          units: km
+      - name: Newburg
+        distance:
+          value: 11.74
+          units: km
     - name: Athens
       region: WV
       lat: '37.4231'
       long: "-81.0151"
+      closest_rate_centers:
+      - name: Athens
+        distance:
+          value: 0.11
+          units: km
+      - name: Princeton
+        distance:
+          value: 9.29
+          units: km
+      - name: Oakvale
+        distance:
+          value: 11.38
+          units: km
     - name: Auburn
       region: WV
       lat: '39.0961'
       long: "-80.8562"
+      closest_rate_centers:
+      - name: Lawford
+        distance:
+          value: 7.11
+          units: km
+      - name: Glenville
+        distance:
+          value: 17.62
+          units: km
+      - name: Harrisville
+        distance:
+          value: 20.66
+          units: km
     - name: Aurora
       region: WV
       lat: '39.3254'
       long: "-79.5546"
+      closest_rate_centers:
+      - name: Eglon
+        distance:
+          value: 4.31
+          units: km
+      - name: Rowlesburg
+        distance:
+          value: 10.25
+          units: km
+      - name: Terra Alta
+        distance:
+          value: 12.79
+          units: km
     - name: Bancroft
       region: WV
       lat: '38.5107'
       long: "-81.8417"
+      closest_rate_centers:
+      - name: Winfield
+        distance:
+          value: 4.45
+          units: km
+      - name: Charleston Zone 6
+        distance:
+          value: 9.58
+          units: km
+      - name: Scott Depot
+        distance:
+          value: 10.31
+          units: km
     - name: Barboursville
       region: WV
       lat: '38.4067'
       long: "-82.2964"
+      closest_rate_centers:
+      - name: Huntington Zone 2
+        distance:
+          value: 0.34
+          units: km
+      - name: Huntington Zone 1
+        distance:
+          value: 12.58
+          units: km
+      - name: Milton
+        distance:
+          value: 14.68
+          units: km
     - name: Barrackville
       region: WV
       lat: '39.5014'
       long: "-80.1696"
+      closest_rate_centers:
+      - name: Fairmont
+        distance:
+          value: 3.26
+          units: km
+      - name: Rivesville
+        distance:
+          value: 6.45
+          units: km
+      - name: Farmington
+        distance:
+          value: 7.32
+          units: km
     - name: Bartley
       region: WV
       lat: '37.3372'
       long: "-81.7334"
+      closest_rate_centers:
+      - name: War
+        distance:
+          value: 4.65
+          units: km
+      - name: Bradshaw
+        distance:
+          value: 6.22
+          units: km
+      - name: Coalwood
+        distance:
+          value: 8.75
+          units: km
     - name: Bartow
       region: WV
       lat: '38.5422'
       long: "-79.7859"
+      closest_rate_centers:
+      - name: Arbovale
+        distance:
+          value: 12.52
+          units: km
+      - name: Snowshoe
+        distance:
+          value: 21.9
+          units: km
+      - name: Mill Creek
+        distance:
+          value: 26.47
+          units: km
     - name: Bath
       region: WV
       lat: '39.6247'
       long: "-78.2275"
+      closest_rate_centers:
+      - name: Berkeley Springs
+        distance:
+          value: 0.22
+          units: km
+      - name: Hedgesville
+        distance:
+          value: 21.45
+          units: km
+      - name: Paw Paw
+        distance:
+          value: 22.59
+          units: km
     - name: Baxter
       region: WV
       lat: '39.5410'
       long: "-80.1439"
+      closest_rate_centers:
+      - name: Rivesville
+        distance:
+          value: 2.26
+          units: km
+      - name: Fairmont
+        distance:
+          value: 6.42
+          units: km
+      - name: Farmington
+        distance:
+          value: 9.66
+          units: km
     - name: Bayard
       region: WV
       lat: '39.2711'
       long: "-79.3662"
+      closest_rate_centers:
+      - name: Gormania
+        distance:
+          value: 2.58
+          units: km
+      - name: Eglon
+        distance:
+          value: 13.26
+          units: km
+      - name: Davis
+        distance:
+          value: 17.49
+          units: km
     - name: Beards Fork
       region: WV
       lat: '38.0645'
       long: "-81.2279"
+      closest_rate_centers:
+      - name: Alloy
+        distance:
+          value: 6.92
+          units: km
+      - name: Fayetteville
+        distance:
+          value: 10.95
+          units: km
+      - name: Gauley Bridge
+        distance:
+          value: 11.7
+          units: km
     - name: Beaver
       region: WV
       lat: '37.7356'
       long: "-81.1500"
+      closest_rate_centers:
+      - name: Shady Spring
+        distance:
+          value: 5.6
+          units: km
+      - name: Beckley
+        distance:
+          value: 5.6
+          units: km
+      - name: Sophia
+        distance:
+          value: 9.24
+          units: km
+      - name: Flat Top
+        distance:
+          value: 13.69
+          units: km
     - name: Beckley
       region: WV
       lat: '37.7877'
       long: "-81.1841"
+      closest_rate_centers:
+      - name: Shady Spring
+        distance:
+          value: 1.43
+          units: km
+      - name: Beckley
+        distance:
+          value: 1.43
+          units: km
+      - name: Sophia
+        distance:
+          value: 10.57
+          units: km
+      - name: Mount Hope
+        distance:
+          value: 11.86
+          units: km
     - name: Beech Bottom
       region: WV
       lat: '40.2181'
       long: "-80.6588"
+      closest_rate_centers:
+      - name: Beech Bottom
+        distance:
+          value: 1.15
+          units: km
+      - name: Wellsburg
+        distance:
+          value: 7.71
+          units: km
+      - name: Wheeling Zone 2
+        distance:
+          value: 8.31
+          units: km
     - name: Belington
       region: WV
       lat: '39.0219'
       long: "-79.9383"
+      closest_rate_centers:
+      - name: Belington
+        distance:
+          value: 0.7
+          units: km
+      - name: Elkins
+        distance:
+          value: 13.14
+          units: km
+      - name: Philippi
+        distance:
+          value: 17.66
+          units: km
     - name: Belle
       region: WV
       lat: '38.2336'
       long: "-81.5385"
+      closest_rate_centers:
+      - name: Charleston Zone 4
+        distance:
+          value: 0.16
+          units: km
+      - name: East Bank
+        distance:
+          value: 8.74
+          units: km
+      - name: Charleston Zone 1
+        distance:
+          value: 15.43
+          units: km
     - name: Belmont
       region: WV
       lat: '39.3787'
       long: "-81.2634"
+      closest_rate_centers:
+      - name: Belmont
+        distance:
+          value: 0.43
+          units: km
+      - name: St Marys
+        distance:
+          value: 5.55
+          units: km
+      - name: Valley Mills
+        distance:
+          value: 12.67
+          units: km
     - name: Belva
       region: WV
       lat: '38.2327'
       long: "-81.1894"
+      closest_rate_centers:
+      - name: Gauley Bridge
+        distance:
+          value: 7.49
+          units: km
+      - name: Ansted
+        distance:
+          value: 12.86
+          units: km
+      - name: Alloy
+        distance:
+          value: 13.14
+          units: km
     - name: Benwood
       region: WV
       lat: '40.0139'
       long: "-80.7328"
+      closest_rate_centers:
+      - name: Wheeling Zone 1
+        distance:
+          value: 5.07
+          units: km
+      - name: Wheeling Zone 3
+        distance:
+          value: 9.1
+          units: km
+      - name: Wheeling Zone 5
+        distance:
+          value: 11.16
+          units: km
     - name: Bergoo
       region: WV
       lat: '38.4849'
       long: "-80.2981"
+      closest_rate_centers:
+      - name: Webster Springs
+        distance:
+          value: 10.38
+          units: km
+      - name: Hacker Valley
+        distance:
+          value: 19.12
+          units: km
+      - name: Cowen
+        distance:
+          value: 24.47
+          units: km
     - name: Berwind
       region: WV
       lat: '37.2660'
       long: "-81.6632"
+      closest_rate_centers:
+      - name: War
+        distance:
+          value: 5.6
+          units: km
+      - name: Coalwood
+        distance:
+          value: 12.9
+          units: km
+      - name: Gary
+        distance:
+          value: 14.8
+          units: km
     - name: Bethany
       region: WV
       lat: '40.2053'
       long: "-80.5629"
+      closest_rate_centers:
+      - name: Bethany
+        distance:
+          value: 0.44
+          units: km
+      - name: Wheeling Zone 2
+        distance:
+          value: 5.2
+          units: km
+      - name: Beech Bottom
+        distance:
+          value: 7.51
+          units: km
     - name: Bethlehem
       region: WV
       lat: '40.0451'
       long: "-80.6898"
+      closest_rate_centers:
+      - name: Wheeling Zone 1
+        distance:
+          value: 3.11
+          units: km
+      - name: Wheeling Zone 3
+        distance:
+          value: 4.54
+          units: km
+      - name: Wheeling Zone 5
+        distance:
+          value: 15.4
+          units: km
     - name: Beverly
       region: WV
       lat: '38.8443'
       long: "-79.8717"
+      closest_rate_centers:
+      - name: Elkins
+        distance:
+          value: 9.08
+          units: km
+      - name: Mill Creek
+        distance:
+          value: 15.05
+          units: km
+      - name: Belington
+        distance:
+          value: 20.63
+          units: km
     - name: Big Chimney
       region: WV
       lat: '38.4119'
       long: "-81.5374"
+      closest_rate_centers:
+      - name: Charleston Zone 3
+        distance:
+          value: 4.63
+          units: km
+      - name: Charleston Zone 1
+        distance:
+          value: 10.88
+          units: km
+      - name: Charleston Zone 2
+        distance:
+          value: 13.92
+          units: km
     - name: Big Creek
       region: WV
       lat: '38.0054'
       long: "-82.0361"
+      closest_rate_centers:
+      - name: Chapmanville
+        distance:
+          value: 3.8
+          units: km
+      - name: Logan
+        distance:
+          value: 17.88
+          units: km
+      - name: Madison
+        distance:
+          value: 19.34
+          units: km
     - name: Big Sandy
       region: WV
       lat: '37.4608'
       long: "-81.7051"
+      closest_rate_centers:
+      - name: Davy
+        distance:
+          value: 4.47
+          units: km
+      - name: Iaeger
+        distance:
+          value: 9.89
+          units: km
+      - name: Coalwood
+        distance:
+          value: 9.98
+          units: km
     - name: Birch River
       region: WV
       lat: '38.4961'
       long: "-80.7497"
+      closest_rate_centers:
+      - name: Birch River
+        distance:
+          value: 0.55
+          units: km
+      - name: Widen
+        distance:
+          value: 11.18
+          units: km
+      - name: Cowen
+        distance:
+          value: 19.12
+          units: km
     - name: Blacksville
       region: WV
       lat: '39.7175'
       long: "-80.2146"
+      closest_rate_centers:
+      - name: Blacksville
+        distance:
+          value: 0.8
+          units: km
+      - name: Daybrook
+        distance:
+          value: 5.36
+          units: km
+      - name: Core
+        distance:
+          value: 9.93
+          units: km
     - name: Blennerhassett
       region: WV
       lat: '39.2562'
       long: "-81.6316"
+      closest_rate_centers:
+      - name: Parkersburg Zone 3
+        distance:
+          value: 1.94
+          units: km
+      - name: Parkersburg Zone 1
+        distance:
+          value: 6.34
+          units: km
+      - name: Mineralwells
+        distance:
+          value: 12.62
+          units: km
     - name: Bluefield
       region: WV
       lat: '37.2608'
       long: "-81.2143"
+      closest_rate_centers:
+      - name: Bluefield
+        distance:
+          value: 1.76
+          units: km
+      - name: Bluewell
+        distance:
+          value: 5.95
+          units: km
+      - name: Bramwell
+        distance:
+          value: 10.99
+          units: km
     - name: Bluewell
       region: WV
       lat: '37.3144'
       long: "-81.2580"
+      closest_rate_centers:
+      - name: Bluewell
+        distance:
+          value: 4.31
+          units: km
+      - name: Bramwell
+        distance:
+          value: 4.83
+          units: km
+      - name: Bluefield
+        distance:
+          value: 5.74
+          units: km
     - name: Boaz
       region: WV
       lat: '39.3671'
       long: "-81.4854"
+      closest_rate_centers:
+      - name: Williamstown
+        distance:
+          value: 3.42
+          units: km
+      - name: Valley Mills
+        distance:
+          value: 8.3
+          units: km
+      - name: Parkersburg Zone 1
+        distance:
+          value: 13.0
+          units: km
     - name: Bolivar
       region: WV
       lat: '39.3241'
       long: "-77.7517"
+      closest_rate_centers:
+      - name: Harpers Ferry
+        distance:
+          value: 0.63
+          units: km
+      - name: Charles Town
+        distance:
+          value: 10.03
+          units: km
+      - name: Shepherdstown
+        distance:
+          value: 13.01
+          units: km
     - name: Bolt
       region: WV
       lat: '37.7623'
       long: "-81.4189"
+      closest_rate_centers:
+      - name: Glen Daniel
+        distance:
+          value: 7.45
+          units: km
+      - name: Sophia
+        distance:
+          value: 16.13
+          units: km
+      - name: Helen
+        distance:
+          value: 17.13
+          units: km
     - name: Boomer
       region: WV
       lat: '38.1490'
       long: "-81.2800"
+      closest_rate_centers:
+      - name: Alloy
+        distance:
+          value: 3.83
+          units: km
+      - name: Montgomery
+        distance:
+          value: 4.95
+          units: km
+      - name: Gauley Bridge
+        distance:
+          value: 8.11
+          units: km
     - name: Booth
       region: WV
       lat: '39.5976'
       long: "-80.0191"
+      closest_rate_centers:
+      - name: Laurel Point
+        distance:
+          value: 2.39
+          units: km
+      - name: Morgantown
+        distance:
+          value: 6.57
+          units: km
+      - name: Rivesville
+        distance:
+          value: 10.38
+          units: km
     - name: Bowden
       region: WV
       lat: '38.9091'
       long: "-79.7090"
+      closest_rate_centers:
+      - name: Elkins
+        distance:
+          value: 12.5
+          units: km
+      - name: Harman
+        distance:
+          value: 16.09
+          units: km
+      - name: Parsons
+        distance:
+          value: 20.63
+          units: km
     - name: Bradley
       region: WV
       lat: '37.8675'
       long: "-81.2046"
+      closest_rate_centers:
+      - name: Mount Hope
+        distance:
+          value: 4.53
+          units: km
+      - name: Shady Spring
+        distance:
+          value: 10.33
+          units: km
+      - name: Beckley
+        distance:
+          value: 10.33
+          units: km
+      - name: Oak Hill
+        distance:
+          value: 13.06
+          units: km
     - name: Bradshaw
       region: WV
       lat: '37.3534'
       long: "-81.8012"
+      closest_rate_centers:
+      - name: Bradshaw
+        distance:
+          value: 0.43
+          units: km
+      - name: War
+        distance:
+          value: 10.69
+          units: km
+      - name: Iaeger
+        distance:
+          value: 11.6
+          units: km
     - name: Bramwell
       region: WV
       lat: '37.3270'
       long: "-81.3130"
+      closest_rate_centers:
+      - name: Bramwell
+        distance:
+          value: 0.56
+          units: km
+      - name: Maybeury
+        distance:
+          value: 6.76
+          units: km
+      - name: Bluewell
+        distance:
+          value: 9.28
+          units: km
     - name: Brandonville
       region: WV
       lat: '39.6671'
       long: "-79.6277"
+      closest_rate_centers:
+      - name: Bruceton Mills
+        distance:
+          value: 1.03
+          units: km
+      - name: Cheat Lake
+        distance:
+          value: 21.11
+          units: km
+      - name: Kingwood
+        distance:
+          value: 22.21
+          units: km
     - name: Brandywine
       region: WV
       lat: '38.6218'
       long: "-79.2415"
+      closest_rate_centers:
+      - name: Brandywine
+        distance:
+          value: 0.32
+          units: km
+      - name: Franklin
+        distance:
+          value: 7.53
+          units: km
+      - name: Riverton
+        distance:
+          value: 22.16
+          units: km
     - name: Brenton
       region: WV
       lat: '37.6004'
       long: "-81.6351"
+      closest_rate_centers:
+      - name: Pineville
+        distance:
+          value: 8.28
+          units: km
+      - name: Oceana
+        distance:
+          value: 11.2
+          units: km
+      - name: Davy
+        distance:
+          value: 13.82
+          units: km
     - name: Bridgeport
       region: WV
       lat: '39.3036'
       long: "-80.2478"
+      closest_rate_centers:
+      - name: Bridgeport
+        distance:
+          value: 2.41
+          units: km
+      - name: Clarksburg
+        distance:
+          value: 8.81
+          units: km
+      - name: Shinnston
+        distance:
+          value: 11.44
+          units: km
     - name: Brookhaven
       region: WV
       lat: '39.6062'
       long: "-79.8812"
+      closest_rate_centers:
+      - name: Cheat Lake
+        distance:
+          value: 5.67
+          units: km
+      - name: Morgantown
+        distance:
+          value: 7.2
+          units: km
+      - name: Laurel Point
+        distance:
+          value: 12.54
+          units: km
     - name: Bruceton Mills
       region: WV
       lat: '39.6594'
       long: "-79.6406"
+      closest_rate_centers:
+      - name: Bruceton Mills
+        distance:
+          value: 0.67
+          units: km
+      - name: Cheat Lake
+        distance:
+          value: 19.97
+          units: km
+      - name: Kingwood
+        distance:
+          value: 21.11
+          units: km
     - name: Bruno
       region: WV
       lat: '37.6880'
       long: "-81.8737"
+      closest_rate_centers:
+      - name: Man
+        distance:
+          value: 6.21
+          units: km
+      - name: Gilbert
+        distance:
+          value: 8.12
+          units: km
+      - name: Oceana
+        distance:
+          value: 20.41
+          units: km
     - name: Brush Fork
       region: WV
       lat: '37.2805'
       long: "-81.2450"
+      closest_rate_centers:
+      - name: Bluefield
+        distance:
+          value: 1.87
+          units: km
+      - name: Bluewell
+        distance:
+          value: 4.9
+          units: km
+      - name: Bramwell
+        distance:
+          value: 7.5
+          units: km
     - name: Buckhannon
       region: WV
       lat: '38.9927'
       long: "-80.2281"
+      closest_rate_centers:
+      - name: Buckhannon
+        distance:
+          value: 0.36
+          units: km
+      - name: Jane Lew
+        distance:
+          value: 20.18
+          units: km
+      - name: Weston
+        distance:
+          value: 20.43
+          units: km
     - name: Bud
       region: WV
       lat: '37.5329'
       long: "-81.3821"
+      closest_rate_centers:
+      - name: Mullens
+        distance:
+          value: 5.6
+          units: km
+      - name: Helen
+        distance:
+          value: 12.52
+          units: km
+      - name: Northfork
+        distance:
+          value: 13.42
+          units: km
     - name: Buffalo
       region: WV
       lat: '38.6108'
       long: "-81.9817"
+      closest_rate_centers:
+      - name: Buffalo
+        distance:
+          value: 0.67
+          units: km
+      - name: Winfield
+        distance:
+          value: 12.61
+          units: km
+      - name: Leon
+        distance:
+          value: 15.61
+          units: km
     - name: Burlington
       region: WV
       lat: '39.3370'
       long: "-78.9223"
+      closest_rate_centers:
+      - name: Burlington
+        distance:
+          value: 0.86
+          units: km
+      - name: Keyser
+        distance:
+          value: 12.75
+          units: km
+      - name: Romney
+        distance:
+          value: 14.69
+          units: km
     - name: Burnsville
       region: WV
       lat: '38.8579'
       long: "-80.6538"
+      closest_rate_centers:
+      - name: Burnsville
+        distance:
+          value: 0.61
+          units: km
+      - name: Walkersville
+        distance:
+          value: 17.67
+          units: km
+      - name: Glenville
+        distance:
+          value: 17.91
+          units: km
     - name: Cairo
       region: WV
       lat: '39.2068'
       long: "-81.1543"
+      closest_rate_centers:
+      - name: Cairo
+        distance:
+          value: 0.48
+          units: km
+      - name: Harrisville
+        distance:
+          value: 9.46
+          units: km
+      - name: Ellenboro
+        distance:
+          value: 10.37
+          units: km
     - name: Camden-on-Gauley
       region: WV
       lat: '38.3686'
       long: "-80.5973"
+      closest_rate_centers:
+      - name: Cowen
+        distance:
+          value: 5.37
+          units: km
+      - name: Craigsville
+        distance:
+          value: 6.49
+          units: km
+      - name: Richwood
+        distance:
+          value: 17.25
+          units: km
     - name: Cameron
       region: WV
       lat: '39.8279'
       long: "-80.5692"
+      closest_rate_centers:
+      - name: Cameron
+        distance:
+          value: 0.79
+          units: km
+      - name: Wheeling Zone 5
+        distance:
+          value: 18.14
+          units: km
+      - name: Hundred
+        distance:
+          value: 18.48
+          units: km
     - name: Capon Bridge
       region: WV
       lat: '39.3000'
       long: "-78.4341"
+      closest_rate_centers:
+      - name: Capon Bridge
+        distance:
+          value: 1.28
+          units: km
+      - name: Augusta
+        distance:
+          value: 17.28
+          units: km
+      - name: Levels
+        distance:
+          value: 23.39
+          units: km
     - name: Carolina
       region: WV
       lat: '39.4795'
       long: "-80.2728"
+      closest_rate_centers:
+      - name: Worthington
+        distance:
+          value: 3.49
+          units: km
+      - name: Farmington
+        distance:
+          value: 4.57
+          units: km
+      - name: Mannington
+        distance:
+          value: 7.99
+          units: km
     - name: Carpendale
       region: WV
       lat: '39.6278'
       long: "-78.7896"
+      closest_rate_centers:
+      - name: Ridgeley
+        distance:
+          value: 2.78
+          units: km
+      - name: Fort Ashby
+        distance:
+          value: 13.37
+          units: km
+      - name: Levels
+        distance:
+          value: 25.58
+          units: km
     - name: Cass
       region: WV
       lat: '38.3970'
       long: "-79.9200"
+      closest_rate_centers:
+      - name: Snowshoe
+        distance:
+          value: 8.0
+          units: km
+      - name: Arbovale
+        distance:
+          value: 9.65
+          units: km
+      - name: Marlinton
+        distance:
+          value: 24.13
+          units: km
     - name: Cassville
       region: WV
       lat: '39.6750'
       long: "-80.0678"
+      closest_rate_centers:
+      - name: Core
+        distance:
+          value: 3.57
+          units: km
+      - name: Mount Morris
+        distance:
+          value: 4.62
+          units: km
+      - name: Laurel Point
+        distance:
+          value: 7.22
+          units: km
     - name: Cedar Grove
       region: WV
       lat: '38.2223'
       long: "-81.4378"
+      closest_rate_centers:
+      - name: East Bank
+        distance:
+          value: 1.6
+          units: km
+      - name: Charleston Zone 4
+        distance:
+          value: 9.04
+          units: km
+      - name: Montgomery
+        distance:
+          value: 11.08
+          units: km
     - name: Century
       region: WV
       lat: '39.1003'
       long: "-80.1883"
+      closest_rate_centers:
+      - name: Buckhannon
+        distance:
+          value: 12.54
+          units: km
+      - name: Philippi
+        distance:
+          value: 13.94
+          units: km
+      - name: Jane Lew
+        distance:
+          value: 18.92
+          units: km
     - name: Ceredo
       region: WV
       lat: '38.3961'
       long: "-82.5535"
+      closest_rate_centers:
+      - name: Huntington Zone 4
+        distance:
+          value: 2.44
+          units: km
+      - name: Huntington Zone 1
+        distance:
+          value: 10.06
+          units: km
+      - name: Prichard
+        distance:
+          value: 17.67
+          units: km
     - name: Chapmanville
       region: WV
       lat: '37.9727'
       long: "-82.0215"
+      closest_rate_centers:
+      - name: Chapmanville
+        distance:
+          value: 0.22
+          units: km
+      - name: Logan
+        distance:
+          value: 14.06
+          units: km
+      - name: Madison
+        distance:
+          value: 19.66
+          units: km
     - name: Charles Town
       region: WV
       lat: '39.2746'
       long: "-77.8631"
+      closest_rate_centers:
+      - name: Charles Town
+        distance:
+          value: 1.79
+          units: km
+      - name: Harpers Ferry
+        distance:
+          value: 11.59
+          units: km
+      - name: Inwood
+        distance:
+          value: 18.1
+          units: km
     - name: Charleston
       region: WV
       lat: '38.3484'
       long: "-81.6322"
+      closest_rate_centers:
+      - name: Charleston Zone 1
+        distance:
+          value: 0.27
+          units: km
+      - name: Charleston Zone 4
+        distance:
+          value: 15.03
+          units: km
+      - name: Charleston Zone 3
+        distance:
+          value: 15.24
+          units: km
     - name: Charlton Heights
       region: WV
       lat: '38.1255'
       long: "-81.2333"
+      closest_rate_centers:
+      - name: Alloy
+        distance:
+          value: 1.41
+          units: km
+      - name: Gauley Bridge
+        distance:
+          value: 5.85
+          units: km
+      - name: Montgomery
+        distance:
+          value: 9.8
+          units: km
     - name: Chattaroy
       region: WV
       lat: '37.7062'
       long: "-82.2737"
+      closest_rate_centers:
+      - name: Williamson
+        distance:
+          value: 3.63
+          units: km
+      - name: Delbarton
+        distance:
+          value: 7.07
+          units: km
+      - name: Matewan
+        distance:
+          value: 12.84
+          units: km
     - name: Chauncey
       region: WV
       lat: '37.7652'
       long: "-81.9834"
+      closest_rate_centers:
+      - name: Logan
+        distance:
+          value: 9.3
+          units: km
+      - name: Man
+        distance:
+          value: 9.89
+          units: km
+      - name: Delbarton
+        distance:
+          value: 19.34
+          units: km
     - name: Cheat Lake
       region: WV
       lat: '39.6670'
       long: "-79.8564"
+      closest_rate_centers:
+      - name: Cheat Lake
+        distance:
+          value: 1.87
+          units: km
+      - name: Morgantown
+        distance:
+          value: 9.46
+          units: km
+      - name: Laurel Point
+        distance:
+          value: 15.56
+          units: km
     - name: Chelyan
       region: WV
       lat: '38.1958'
       long: "-81.4928"
+      closest_rate_centers:
+      - name: East Bank
+        distance:
+          value: 4.53
+          units: km
+      - name: Charleston Zone 4
+        distance:
+          value: 5.94
+          units: km
+      - name: Montgomery
+        distance:
+          value: 14.68
+          units: km
     - name: Chesapeake
       region: WV
       lat: '38.2232'
       long: "-81.5363"
+      closest_rate_centers:
+      - name: Charleston Zone 4
+        distance:
+          value: 1.27
+          units: km
+      - name: East Bank
+        distance:
+          value: 8.26
+          units: km
+      - name: Seth
+        distance:
+          value: 14.97
+          units: km
     - name: Chester
       region: WV
       lat: '40.6129'
       long: "-80.5628"
+      closest_rate_centers:
+      - name: Chester
+        distance:
+          value: 0.63
+          units: km
+      - name: New Cumberland
+        distance:
+          value: 13.98
+          units: km
+      - name: Weirton
+        distance:
+          value: 21.84
+          units: km
     - name: Clarksburg
       region: WV
       lat: '39.2862'
       long: "-80.3232"
+      closest_rate_centers:
+      - name: Clarksburg
+        distance:
+          value: 2.2
+          units: km
+      - name: Bridgeport
+        distance:
+          value: 6.27
+          units: km
+      - name: Lumberport
+        distance:
+          value: 10.11
+          units: km
     - name: Clay
       region: WV
       lat: '38.4662'
       long: "-81.0813"
+      closest_rate_centers:
+      - name: Clay
+        distance:
+          value: 1.31
+          units: km
+      - name: Ivydale
+        distance:
+          value: 8.5
+          units: km
+      - name: Newton
+        distance:
+          value: 16.82
+          units: km
     - name: Clearview
       region: WV
       lat: '40.1399'
       long: "-80.6898"
+      closest_rate_centers:
+      - name: Wheeling Zone 2
+        distance:
+          value: 8.78
+          units: km
+      - name: Wheeling Zone 1
+        distance:
+          value: 9.43
+          units: km
+      - name: Beech Bottom
+        distance:
+          value: 10.02
+          units: km
     - name: Clendenin
       region: WV
       lat: '38.4859'
       long: "-81.3503"
+      closest_rate_centers:
+      - name: Clendenin
+        distance:
+          value: 0.38
+          units: km
+      - name: Newton
+        distance:
+          value: 11.66
+          units: km
+      - name: Charleston Zone 3
+        distance:
+          value: 13.71
+          units: km
     - name: Clifton
       region: WV
       lat: '39.0041'
       long: "-82.0393"
+      closest_rate_centers:
+      - name: Mason
+        distance:
+          value: 1.54
+          units: km
+      - name: New Haven
+        distance:
+          value: 6.5
+          units: km
+      - name: Letart
+        distance:
+          value: 15.28
+          units: km
     - name: Coal City
       region: WV
       lat: '37.6776'
       long: "-81.2180"
+      closest_rate_centers:
+      - name: Sophia
+        distance:
+          value: 4.31
+          units: km
+      - name: Helen
+        distance:
+          value: 9.92
+          units: km
+      - name: Shady Spring
+        distance:
+          value: 11.17
+          units: km
+      - name: Beckley
+        distance:
+          value: 11.17
+          units: km
     - name: Coal Fork
       region: WV
       lat: '38.3185'
       long: "-81.5229"
+      closest_rate_centers:
+      - name: Charleston Zone 4
+        distance:
+          value: 9.5
+          units: km
+      - name: Charleston Zone 1
+        distance:
+          value: 10.33
+          units: km
+      - name: Charleston Zone 3
+        distance:
+          value: 12.18
+          units: km
     - name: Colcord
       region: WV
       lat: '37.9451'
       long: "-81.4374"
+      closest_rate_centers:
+      - name: Whitesville
+        distance:
+          value: 10.36
+          units: km
+      - name: Glen Daniel
+        distance:
+          value: 19.85
+          units: km
+      - name: Wharton
+        distance:
+          value: 21.23
+          units: km
     - name: Colliers
       region: WV
       lat: '40.3651'
       long: "-80.5377"
+      closest_rate_centers:
+      - name: Follansbee
+        distance:
+          value: 6.48
+          units: km
+      - name: Weirton
+        distance:
+          value: 7.09
+          units: km
+      - name: Wellsburg
+        distance:
+          value: 11.62
+          units: km
     - name: Comfort
       region: WV
       lat: '38.1317'
       long: "-81.6102"
+      closest_rate_centers:
+      - name: Seth
+        distance:
+          value: 2.93
+          units: km
+      - name: Brushton
+        distance:
+          value: 9.53
+          units: km
+      - name: Charleston Zone 4
+        distance:
+          value: 12.94
+          units: km
     - name: Corinne
       region: WV
       lat: '37.5710'
       long: "-81.3614"
+      closest_rate_centers:
+      - name: Mullens
+        distance:
+          value: 2.14
+          units: km
+      - name: Helen
+        distance:
+          value: 7.93
+          units: km
+      - name: Pineville
+        distance:
+          value: 16.13
+          units: km
     - name: Cottageville
       region: WV
       lat: '38.8667'
       long: "-81.8242"
+      closest_rate_centers:
+      - name: Ravenswood
+        distance:
+          value: 9.87
+          units: km
+      - name: Letart
+        distance:
+          value: 10.29
+          units: km
+      - name: Ripley
+        distance:
+          value: 11.08
+          units: km
     - name: Covel
       region: WV
       lat: '37.4907'
       long: "-81.3195"
+      closest_rate_centers:
+      - name: Matoaka
+        distance:
+          value: 10.3
+          units: km
+      - name: Mullens
+        distance:
+          value: 11.6
+          units: km
+      - name: Northfork
+        distance:
+          value: 12.52
+          units: km
     - name: Cowen
       region: WV
       lat: '38.4110'
       long: "-80.5542"
+      closest_rate_centers:
+      - name: Cowen
+        distance:
+          value: 0.72
+          units: km
+      - name: Craigsville
+        distance:
+          value: 12.51
+          units: km
+      - name: Webster Springs
+        distance:
+          value: 14.35
+          units: km
     - name: Crab Orchard
       region: WV
       lat: '37.7410'
       long: "-81.2298"
+      closest_rate_centers:
+      - name: Sophia
+        distance:
+          value: 4.07
+          units: km
+      - name: Shady Spring
+        distance:
+          value: 5.25
+          units: km
+      - name: Beckley
+        distance:
+          value: 5.25
+          units: km
+      - name: Glen Daniel
+        distance:
+          value: 10.73
+          units: km
     - name: Craigsville
       region: WV
       lat: '38.3246'
       long: "-80.6450"
+      closest_rate_centers:
+      - name: Craigsville
+        distance:
+          value: 0.3
+          units: km
+      - name: Cowen
+        distance:
+          value: 11.78
+          units: km
+      - name: Richwood
+        distance:
+          value: 15.42
+          units: km
     - name: Crooked Creek
       region: WV
       lat: '37.8839'
       long: "-81.9747"
+      closest_rate_centers:
+      - name: Logan
+        distance:
+          value: 4.15
+          units: km
+      - name: Chapmanville
+        distance:
+          value: 10.77
+          units: km
+      - name: Man
+        distance:
+          value: 17.9
+          units: km
     - name: Cross Lanes
       region: WV
       lat: '38.4351'
       long: "-81.7707"
+      closest_rate_centers:
+      - name: Charleston Zone 6
+        distance:
+          value: 6.46
+          units: km
+      - name: Charleston Zone 5
+        distance:
+          value: 8.09
+          units: km
+      - name: Charleston Zone 2
+        distance:
+          value: 11.54
+          units: km
     - name: Crum
       region: WV
       lat: '37.9095'
       long: "-82.4470"
+      closest_rate_centers:
+      - name: Kermit
+        distance:
+          value: 8.26
+          units: km
+      - name: Dunlow
+        distance:
+          value: 12.79
+          units: km
+      - name: Fort Gay
+        distance:
+          value: 26.37
+          units: km
     - name: Crumpler
       region: WV
       lat: '37.4262'
       long: "-81.3313"
+      closest_rate_centers:
+      - name: Maybeury
+        distance:
+          value: 7.99
+          units: km
+      - name: Matoaka
+        distance:
+          value: 8.03
+          units: km
+      - name: Northfork
+        distance:
+          value: 8.55
+          units: km
     - name: Cucumber
       region: WV
       lat: '37.2786'
       long: "-81.6241"
+      closest_rate_centers:
+      - name: War
+        distance:
+          value: 7.05
+          units: km
+      - name: Gary
+        distance:
+          value: 11.55
+          units: km
+      - name: Coalwood
+        distance:
+          value: 11.72
+          units: km
     - name: Culloden
       region: WV
       lat: '38.4154'
       long: "-82.0705"
+      closest_rate_centers:
+      - name: Hurricane
+        distance:
+          value: 4.32
+          units: km
+      - name: Milton
+        distance:
+          value: 6.12
+          units: km
+      - name: Scott Depot
+        distance:
+          value: 12.66
+          units: km
     - name: Cunard
       region: WV
       lat: '37.9994'
       long: "-81.0402"
+      closest_rate_centers:
+      - name: Fayetteville
+        distance:
+          value: 8.52
+          units: km
+      - name: Oak Hill
+        distance:
+          value: 9.35
+          units: km
+      - name: Mount Hope
+        distance:
+          value: 16.07
+          units: km
     - name: Dailey
       region: WV
       lat: '38.7968'
       long: "-79.8967"
+      closest_rate_centers:
+      - name: Mill Creek
+        distance:
+          value: 9.54
+          units: km
+      - name: Elkins
+        distance:
+          value: 14.71
+          units: km
+      - name: Belington
+        distance:
+          value: 25.45
+          units: km
     - name: Daniels
       region: WV
       lat: '37.7240'
       long: "-81.1267"
+      closest_rate_centers:
+      - name: Shady Spring
+        distance:
+          value: 7.91
+          units: km
+      - name: Beckley
+        distance:
+          value: 7.91
+          units: km
+      - name: Sophia
+        distance:
+          value: 10.91
+          units: km
+      - name: Flat Top
+        distance:
+          value: 12.12
+          units: km
     - name: Danville
       region: WV
       lat: '38.0808'
       long: "-81.8342"
+      closest_rate_centers:
+      - name: Madison
+        distance:
+          value: 2.37
+          units: km
+      - name: Brushton
+        distance:
+          value: 14.38
+          units: km
+      - name: Van
+        distance:
+          value: 15.73
+          units: km
     - name: Davis
       region: WV
       lat: '39.1266'
       long: "-79.4609"
+      closest_rate_centers:
+      - name: Davis
+        distance:
+          value: 0.93
+          units: km
+      - name: Thomas
+        distance:
+          value: 3.35
+          units: km
+      - name: Canaan Valley
+        distance:
+          value: 12.19
+          units: km
     - name: Davy
       region: WV
       lat: '37.4759'
       long: "-81.6475"
+      closest_rate_centers:
+      - name: Davy
+        distance:
+          value: 1.04
+          units: km
+      - name: Welch
+        distance:
+          value: 7.2
+          units: km
+      - name: Coalwood
+        distance:
+          value: 10.48
+          units: km
     - name: Deep Water
       region: WV
       lat: '38.1217'
       long: "-81.2528"
+      closest_rate_centers:
+      - name: Alloy
+        distance:
+          value: 0.42
+          units: km
+      - name: Gauley Bridge
+        distance:
+          value: 7.36
+          units: km
+      - name: Montgomery
+        distance:
+          value: 8.69
+          units: km
     - name: Delbarton
       region: WV
       lat: '37.7052'
       long: "-82.1860"
+      closest_rate_centers:
+      - name: Delbarton
+        distance:
+          value: 1.38
+          units: km
+      - name: Williamson
+        distance:
+          value: 8.49
+          units: km
+      - name: Matewan
+        distance:
+          value: 8.8
+          units: km
     - name: Despard
       region: WV
       lat: '39.2874'
       long: "-80.3158"
+      closest_rate_centers:
+      - name: Clarksburg
+        distance:
+          value: 2.78
+          units: km
+      - name: Bridgeport
+        distance:
+          value: 5.65
+          units: km
+      - name: Lumberport
+        distance:
+          value: 10.14
+          units: km
     - name: Dixie
       region: WV
       lat: '38.2511'
       long: "-81.1944"
+      closest_rate_centers:
+      - name: Gauley Bridge
+        distance:
+          value: 9.55
+          units: km
+      - name: Montgomery
+        distance:
+          value: 14.47
+          units: km
+      - name: Ansted
+        distance:
+          value: 14.76
+          units: km
     - name: Dorothy
       region: WV
       lat: '37.9559'
       long: "-81.4503"
+      closest_rate_centers:
+      - name: Whitesville
+        distance:
+          value: 8.86
+          units: km
+      - name: Wharton
+        distance:
+          value: 20.42
+          units: km
+      - name: Glen Daniel
+        distance:
+          value: 21.43
+          units: km
     - name: Dunbar
       region: WV
       lat: '38.3688'
       long: "-81.7345"
+      closest_rate_centers:
+      - name: Charleston Zone 5
+        distance:
+          value: 8.92
+          units: km
+      - name: Charleston Zone 1
+        distance:
+          value: 8.98
+          units: km
+      - name: Charleston Zone 6
+        distance:
+          value: 11.36
+          units: km
     - name: Dupont City
       region: WV
       lat: '38.2657'
       long: "-81.5691"
+      closest_rate_centers:
+      - name: Charleston Zone 4
+        distance:
+          value: 4.32
+          units: km
+      - name: Charleston Zone 1
+        distance:
+          value: 10.98
+          units: km
+      - name: East Bank
+        distance:
+          value: 12.66
+          units: km
     - name: Durbin
       region: WV
       lat: '38.5471'
       long: "-79.8278"
+      closest_rate_centers:
+      - name: Arbovale
+        distance:
+          value: 12.75
+          units: km
+      - name: Snowshoe
+        distance:
+          value: 19.29
+          units: km
+      - name: Mill Creek
+        distance:
+          value: 23.99
+          units: km
     - name: Earling
       region: WV
       lat: '37.7668'
       long: "-81.9161"
+      closest_rate_centers:
+      - name: Man
+        distance:
+          value: 4.49
+          units: km
+      - name: Logan
+        distance:
+          value: 11.2
+          units: km
+      - name: Gilbert
+        distance:
+          value: 17.44
+          units: km
     - name: East Bank
       region: WV
       lat: '38.2153'
       long: "-81.4442"
+      closest_rate_centers:
+      - name: East Bank
+        distance:
+          value: 0.74
+          units: km
+      - name: Charleston Zone 4
+        distance:
+          value: 8.64
+          units: km
+      - name: Montgomery
+        distance:
+          value: 11.23
+          units: km
     - name: East Dailey
       region: WV
       lat: '38.7795'
       long: "-79.8911"
+      closest_rate_centers:
+      - name: Mill Creek
+        distance:
+          value: 8.58
+          units: km
+      - name: Elkins
+        distance:
+          value: 16.47
+          units: km
+      - name: Belington
+        distance:
+          value: 27.41
+          units: km
     - name: East View
       region: WV
       lat: '39.2691'
       long: "-80.3051"
+      closest_rate_centers:
+      - name: Clarksburg
+        distance:
+          value: 3.23
+          units: km
+      - name: Bridgeport
+        distance:
+          value: 4.91
+          units: km
+      - name: West Milford
+        distance:
+          value: 10.6
+          units: km
     - name: Eccles
       region: WV
       lat: '37.7817'
       long: "-81.2649"
+      closest_rate_centers:
+      - name: Glen Daniel
+        distance:
+          value: 6.51
+          units: km
+      - name: Beckley
+        distance:
+          value: 6.71
+          units: km
+      - name: Shady Spring
+        distance:
+          value: 6.71
+          units: km
+      - name: Sophia
+        distance:
+          value: 8.35
+          units: km
     - name: Eleanor
       region: WV
       lat: '38.5371'
       long: "-81.9254"
+      closest_rate_centers:
+      - name: Winfield
+        distance:
+          value: 3.43
+          units: km
+      - name: Buffalo
+        distance:
+          value: 8.91
+          units: km
+      - name: Scott Depot
+        distance:
+          value: 9.57
+          units: km
     - name: Elizabeth
       region: WV
       lat: '39.0616'
       long: "-81.3979"
+      closest_rate_centers:
+      - name: Elizabeth
+        distance:
+          value: 0.75
+          units: km
+      - name: Rockport
+        distance:
+          value: 13.9
+          units: km
+      - name: Mineralwells
+        distance:
+          value: 17.07
+          units: km
     - name: Elk Garden
       region: WV
       lat: '39.3862'
       long: "-79.1556"
+      closest_rate_centers:
+      - name: Elk Garden
+        distance:
+          value: 2.3
+          units: km
+      - name: Piedmont (Mineral)
+        distance:
+          value: 14.01
+          units: km
+      - name: Keyser
+        distance:
+          value: 16.77
+          units: km
     - name: Elkins
       region: WV
       lat: '38.9237'
       long: "-79.8541"
+      closest_rate_centers:
+      - name: Elkins
+        distance:
+          value: 0.19
+          units: km
+      - name: Belington
+        distance:
+          value: 12.98
+          units: km
+      - name: Mill Creek
+        distance:
+          value: 23.5
+          units: km
     - name: Elkview
       region: WV
       lat: '38.4327'
       long: "-81.4771"
+      closest_rate_centers:
+      - name: Charleston Zone 3
+        distance:
+          value: 1.25
+          units: km
+      - name: Clendenin
+        distance:
+          value: 12.3
+          units: km
+      - name: Dutch Ridge
+        distance:
+          value: 15.59
+          units: km
     - name: Ellenboro
       region: WV
       lat: '39.2678'
       long: "-81.0551"
+      closest_rate_centers:
+      - name: Ellenboro
+        distance:
+          value: 0.99
+          units: km
+      - name: Harrisville
+        distance:
+          value: 6.41
+          units: km
+      - name: Pennsboro
+        distance:
+          value: 8.17
+          units: km
     - name: Enterprise
       region: WV
       lat: '39.4197'
       long: "-80.2833"
+      closest_rate_centers:
+      - name: Shinnston
+        distance:
+          value: 1.92
+          units: km
+      - name: Worthington
+        distance:
+          value: 3.95
+          units: km
+      - name: Lumberport
+        distance:
+          value: 7.57
+          units: km
     - name: Eskdale
       region: WV
       lat: '38.0909'
       long: "-81.4471"
+      closest_rate_centers:
+      - name: East Bank
+        distance:
+          value: 13.1
+          units: km
+      - name: Montgomery
+        distance:
+          value: 13.93
+          units: km
+      - name: Whitesville
+        distance:
+          value: 14.78
+          units: km
     - name: Fairlea
       region: WV
       lat: '37.7756'
       long: "-80.4582"
+      closest_rate_centers:
+      - name: Lewisburg
+        distance:
+          value: 1.01
+          units: km
+      - name: White Sulphur Springs
+        distance:
+          value: 14.14
+          units: km
+      - name: Alderson
+        distance:
+          value: 17.0
+          units: km
     - name: Fairmont
       region: WV
       lat: '39.4768'
       long: "-80.1491"
+      closest_rate_centers:
+      - name: Fairmont
+        distance:
+          value: 1.09
+          units: km
+      - name: Rivesville
+        distance:
+          value: 7.88
+          units: km
+      - name: Worthington
+        distance:
+          value: 9.91
+          units: km
     - name: Fairview
       region: WV
       lat: '39.5927'
       long: "-80.2469"
+      closest_rate_centers:
+      - name: Fairview
+        distance:
+          value: 0.67
+          units: km
+      - name: Farmington
+        distance:
+          value: 8.38
+          units: km
+      - name: Daybrook
+        distance:
+          value: 8.88
+          units: km
     - name: Falling Spring
       region: WV
       lat: '37.9926'
       long: "-80.3576"
+      closest_rate_centers:
+      - name: Frankford
+        distance:
+          value: 7.99
+          units: km
+      - name: Hillsboro
+        distance:
+          value: 21.32
+          units: km
+      - name: White Sulphur Springs
+        distance:
+          value: 22.87
+          units: km
     - name: Falling Waters
       region: WV
       lat: '39.5637'
       long: "-77.8875"
+      closest_rate_centers:
+      - name: Falling Waters
+        distance:
+          value: 3.71
+          units: km
+      - name: Hedgesville
+        distance:
+          value: 9.47
+          units: km
+      - name: Martinsburg
+        distance:
+          value: 13.63
+          units: km
     - name: Falls View
       region: WV
       lat: '38.1296'
       long: "-81.2539"
+      closest_rate_centers:
+      - name: Alloy
+        distance:
+          value: 0.7
+          units: km
+      - name: Gauley Bridge
+        distance:
+          value: 6.89
+          units: km
+      - name: Montgomery
+        distance:
+          value: 8.06
+          units: km
     - name: Farmington
       region: WV
       lat: '39.5119'
       long: "-80.2515"
+      closest_rate_centers:
+      - name: Farmington
+        distance:
+          value: 0.62
+          units: km
+      - name: Worthington
+        distance:
+          value: 6.92
+          units: km
+      - name: Mannington
+        distance:
+          value: 8.13
+          units: km
     - name: Fayetteville
       region: WV
       lat: '38.0622'
       long: "-81.1083"
+      closest_rate_centers:
+      - name: Fayetteville
+        distance:
+          value: 0.67
+          units: km
+      - name: Ansted
+        distance:
+          value: 8.92
+          units: km
+      - name: Oak Hill
+        distance:
+          value: 10.23
+          units: km
     - name: Fenwick
       region: WV
       lat: '38.2287'
       long: "-80.5803"
+      closest_rate_centers:
+      - name: Richwood
+        distance:
+          value: 5.11
+          units: km
+      - name: Craigsville
+        distance:
+          value: 12.32
+          units: km
+      - name: Cowen
+        distance:
+          value: 19.98
+          units: km
     - name: Flatwoods
       region: WV
       lat: '38.7187'
       long: "-80.6540"
+      closest_rate_centers:
+      - name: Sutton
+        distance:
+          value: 7.55
+          units: km
+      - name: Gassaway
+        distance:
+          value: 11.44
+          units: km
+      - name: Burnsville
+        distance:
+          value: 15.63
+          units: km
     - name: Flemington
       region: WV
       lat: '39.2666'
       long: "-80.1285"
+      closest_rate_centers:
+      - name: Flemington
+        distance:
+          value: 0.99
+          units: km
+      - name: Bridgeport
+        distance:
+          value: 10.65
+          units: km
+      - name: Grafton
+        distance:
+          value: 12.45
+          units: km
     - name: Follansbee
       region: WV
       lat: '40.3385'
       long: "-80.5975"
+      closest_rate_centers:
+      - name: Follansbee
+        distance:
+          value: 0.79
+          units: km
+      - name: Wellsburg
+        distance:
+          value: 7.16
+          units: km
+      - name: Weirton
+        distance:
+          value: 8.82
+          units: km
     - name: Fort Ashby
       region: WV
       lat: '39.4973'
       long: "-78.7646"
+      closest_rate_centers:
+      - name: Fort Ashby
+        distance:
+          value: 1.64
+          units: km
+      - name: Ridgeley
+        distance:
+          value: 16.44
+          units: km
+      - name: Romney
+        distance:
+          value: 17.5
+          units: km
     - name: Fort Gay
       region: WV
       lat: '38.1201'
       long: "-82.5950"
+      closest_rate_centers:
+      - name: Fort Gay
+        distance:
+          value: 0.4
+          units: km
+      - name: Prichard
+        distance:
+          value: 13.38
+          units: km
+      - name: Dunlow
+        distance:
+          value: 17.73
+          units: km
     - name: Frank
       region: WV
       lat: '38.5462'
       long: "-79.8080"
+      closest_rate_centers:
+      - name: Arbovale
+        distance:
+          value: 12.67
+          units: km
+      - name: Snowshoe
+        distance:
+          value: 20.58
+          units: km
+      - name: Mill Creek
+        distance:
+          value: 24.99
+          units: km
     - name: Franklin
       region: WV
       lat: '38.6452'
       long: "-79.3332"
+      closest_rate_centers:
+      - name: Franklin
+        distance:
+          value: 0.89
+          units: km
+      - name: Brandywine
+        distance:
+          value: 8.41
+          units: km
+      - name: Riverton
+        distance:
+          value: 14.78
+          units: km
     - name: Friendly
       region: WV
       lat: '39.5137'
       long: "-81.0618"
+      closest_rate_centers:
+      - name: Sistersville
+        distance:
+          value: 7.87
+          units: km
+      - name: Middlebourne
+        distance:
+          value: 13.48
+          units: km
+      - name: Paden City
+        distance:
+          value: 14.05
+          units: km
     - name: Gallipolis Ferry
       region: WV
       lat: '38.7745'
       long: "-82.2040"
+      closest_rate_centers:
+      - name: Point Pleasant
+        distance:
+          value: 11.93
+          units: km
+      - name: Apple Grove
+        distance:
+          value: 13.45
+          units: km
+      - name: Leon
+        distance:
+          value: 21.34
+          units: km
     - name: Galloway
       region: WV
       lat: '39.2339'
       long: "-80.1277"
+      closest_rate_centers:
+      - name: Flemington
+        distance:
+          value: 3.55
+          units: km
+      - name: Philippi
+        distance:
+          value: 11.11
+          units: km
+      - name: Bridgeport
+        distance:
+          value: 11.86
+          units: km
     - name: Garten
       region: WV
       lat: '38.0335'
       long: "-81.0750"
+      closest_rate_centers:
+      - name: Fayetteville
+        distance:
+          value: 3.65
+          units: km
+      - name: Oak Hill
+        distance:
+          value: 8.83
+          units: km
+      - name: Ansted
+        distance:
+          value: 12.23
+          units: km
     - name: Gary
       region: WV
       lat: '37.3619'
       long: "-81.5415"
+      closest_rate_centers:
+      - name: Gary
+        distance:
+          value: 0.8
+          units: km
+      - name: Kimball
+        distance:
+          value: 7.6
+          units: km
+      - name: Welch
+        distance:
+          value: 9.04
+          units: km
     - name: Gassaway
       region: WV
       lat: '38.6702'
       long: "-80.7717"
+      closest_rate_centers:
+      - name: Gassaway
+        distance:
+          value: 0.7
+          units: km
+      - name: Sutton
+        distance:
+          value: 5.65
+          units: km
+      - name: Birch River
+        distance:
+          value: 18.92
+          units: km
     - name: Gatewood
       region: WV
       lat: '38.0052'
       long: "-81.0663"
+      closest_rate_centers:
+      - name: Fayetteville
+        distance:
+          value: 6.68
+          units: km
+      - name: Oak Hill
+        distance:
+          value: 7.48
+          units: km
+      - name: Mount Hope
+        distance:
+          value: 15.14
+          units: km
     - name: Gauley Bridge
       region: WV
       lat: '38.1681'
       long: "-81.2039"
+      closest_rate_centers:
+      - name: Gauley Bridge
+        distance:
+          value: 1.29
+          units: km
+      - name: Alloy
+        distance:
+          value: 6.28
+          units: km
+      - name: Ansted
+        distance:
+          value: 9.69
+          units: km
     - name: Ghent
       region: WV
       lat: '37.6221'
       long: "-81.1057"
+      closest_rate_centers:
+      - name: Flat Top
+        distance:
+          value: 1.24
+          units: km
+      - name: Sophia
+        distance:
+          value: 15.79
+          units: km
+      - name: Helen
+        distance:
+          value: 18.46
+          units: km
     - name: Gilbert
       region: WV
       lat: '37.6142'
       long: "-81.8689"
+      closest_rate_centers:
+      - name: Gilbert
+        distance:
+          value: 0.4
+          units: km
+      - name: Man
+        distance:
+          value: 14.42
+          units: km
+      - name: Iaeger
+        distance:
+          value: 18.07
+          units: km
     - name: Gilbert Creek
       region: WV
       lat: '37.5697'
       long: "-81.8906"
+      closest_rate_centers:
+      - name: Gilbert
+        distance:
+          value: 5.57
+          units: km
+      - name: Iaeger
+        distance:
+          value: 14.11
+          units: km
+      - name: Man
+        distance:
+          value: 19.42
+          units: km
     - name: Glasgow
       region: WV
       lat: '38.2109'
       long: "-81.4218"
+      closest_rate_centers:
+      - name: East Bank
+        distance:
+          value: 1.92
+          units: km
+      - name: Montgomery
+        distance:
+          value: 9.25
+          units: km
+      - name: Charleston Zone 4
+        distance:
+          value: 10.66
+          units: km
     - name: Glen Dale
       region: WV
       lat: '39.9466'
       long: "-80.7565"
+      closest_rate_centers:
+      - name: Wheeling Zone 5
+        distance:
+          value: 3.64
+          units: km
+      - name: Wheeling Zone 1
+        distance:
+          value: 12.81
+          units: km
+      - name: Wheeling Zone 3
+        distance:
+          value: 15.36
+          units: km
     - name: Glen Ferris
       region: WV
       lat: '38.1519'
       long: "-81.2185"
+      closest_rate_centers:
+      - name: Gauley Bridge
+        distance:
+          value: 2.94
+          units: km
+      - name: Alloy
+        distance:
+          value: 4.08
+          units: km
+      - name: Montgomery
+        distance:
+          value: 9.81
+          units: km
     - name: Glen Fork
       region: WV
       lat: '37.6982'
       long: "-81.5362"
+      closest_rate_centers:
+      - name: Oceana
+        distance:
+          value: 9.34
+          units: km
+      - name: Pineville
+        distance:
+          value: 12.87
+          units: km
+      - name: Mullens
+        distance:
+          value: 18.76
+          units: km
     - name: Glen Jean
       region: WV
       lat: '37.9272'
       long: "-81.1531"
+      closest_rate_centers:
+      - name: Mount Hope
+        distance:
+          value: 3.91
+          units: km
+      - name: Oak Hill
+        distance:
+          value: 5.3
+          units: km
+      - name: Fayetteville
+        distance:
+          value: 15.17
+          units: km
     - name: Glen White
       region: WV
       lat: '37.7300'
       long: "-81.2797"
+      closest_rate_centers:
+      - name: Sophia
+        distance:
+          value: 3.67
+          units: km
+      - name: Glen Daniel
+        distance:
+          value: 7.98
+          units: km
+      - name: Shady Spring
+        distance:
+          value: 9.44
+          units: km
+      - name: Beckley
+        distance:
+          value: 9.44
+          units: km
     - name: Glenville
       region: WV
       lat: '38.9379'
       long: "-80.8340"
+      closest_rate_centers:
+      - name: Glenville
+        distance:
+          value: 0.14
+          units: km
+      - name: Lawford
+        distance:
+          value: 16.68
+          units: km
+      - name: Burnsville
+        distance:
+          value: 17.37
+          units: km
     - name: Grafton
       region: WV
       lat: '39.3409'
       long: "-80.0162"
+      closest_rate_centers:
+      - name: Grafton
+        distance:
+          value: 0.69
+          units: km
+      - name: Flemington
+        distance:
+          value: 12.13
+          units: km
+      - name: Newburg
+        distance:
+          value: 15.53
+          units: km
     - name: Grant Town
       region: WV
       lat: '39.5590'
       long: "-80.1771"
+      closest_rate_centers:
+      - name: Rivesville
+        distance:
+          value: 5.38
+          units: km
+      - name: Fairview
+        distance:
+          value: 6.5
+          units: km
+      - name: Farmington
+        distance:
+          value: 7.94
+          units: km
     - name: Grantsville
       region: WV
       lat: '38.9204'
       long: "-81.0933"
+      closest_rate_centers:
+      - name: Grantsville
+        distance:
+          value: 0.58
+          units: km
+      - name: Arnoldsburg
+        distance:
+          value: 14.8
+          units: km
+      - name: Smithville
+        distance:
+          value: 16.87
+          units: km
     - name: Granville
       region: WV
       lat: '39.6472'
       long: "-79.9975"
+      closest_rate_centers:
+      - name: Morgantown
+        distance:
+          value: 3.75
+          units: km
+      - name: Laurel Point
+        distance:
+          value: 4.08
+          units: km
+      - name: Mount Morris
+        distance:
+          value: 9.24
+          units: km
     - name: Great Cacapon
       region: WV
       lat: '39.6144'
       long: "-78.2857"
+      closest_rate_centers:
+      - name: Berkeley Springs
+        distance:
+          value: 5.33
+          units: km
+      - name: Paw Paw
+        distance:
+          value: 17.75
+          units: km
+      - name: Hedgesville
+        distance:
+          value: 25.79
+          units: km
     - name: Green Bank
       region: WV
       lat: '38.4267'
       long: "-79.8343"
+      closest_rate_centers:
+      - name: Arbovale
+        distance:
+          value: 1.49
+          units: km
+      - name: Snowshoe
+        distance:
+          value: 14.25
+          units: km
+      - name: Marlinton
+        distance:
+          value: 31.59
+          units: km
     - name: Green Spring
       region: WV
       lat: '39.5242'
       long: "-78.6301"
+      closest_rate_centers:
+      - name: Levels
+        distance:
+          value: 7.81
+          units: km
+      - name: Fort Ashby
+        distance:
+          value: 12.8
+          units: km
+      - name: Paw Paw
+        distance:
+          value: 14.89
+          units: km
     - name: Greenview
       region: WV
       lat: '37.9964'
       long: "-81.8202"
+      closest_rate_centers:
+      - name: Madison
+        distance:
+          value: 7.13
+          units: km
+      - name: Van
+        distance:
+          value: 9.46
+          units: km
+      - name: Wharton
+        distance:
+          value: 16.33
+          units: km
     - name: Greenville
       region: WV
       lat: '37.7227'
       long: "-81.8745"
+      closest_rate_centers:
+      - name: Man
+        distance:
+          value: 2.35
+          units: km
+      - name: Gilbert
+        distance:
+          value: 11.97
+          units: km
+      - name: Logan
+        distance:
+          value: 17.32
+          units: km
     - name: Gypsy
       region: WV
       lat: '39.3648'
       long: "-80.3070"
+      closest_rate_centers:
+      - name: Lumberport
+        distance:
+          value: 3.83
+          units: km
+      - name: Shinnston
+        distance:
+          value: 4.62
+          units: km
+      - name: Worthington
+        distance:
+          value: 10.32
+          units: km
     - name: Hambleton
       region: WV
       lat: '39.0815'
       long: "-79.6455"
+      closest_rate_centers:
+      - name: Parsons
+        distance:
+          value: 2.96
+          units: km
+      - name: Thomas
+        distance:
+          value: 14.76
+          units: km
+      - name: Davis
+        distance:
+          value: 16.57
+          units: km
     - name: Hamlin
       region: WV
       lat: '38.2805'
       long: "-82.1084"
+      closest_rate_centers:
+      - name: Hamlin
+        distance:
+          value: 0.35
+          units: km
+      - name: Branchland
+        distance:
+          value: 10.43
+          units: km
+      - name: Griffithsville
+        distance:
+          value: 14.51
+          units: km
     - name: Handley
       region: WV
       lat: '38.1863'
       long: "-81.3673"
+      closest_rate_centers:
+      - name: Montgomery
+        distance:
+          value: 3.78
+          units: km
+      - name: East Bank
+        distance:
+          value: 7.12
+          units: km
+      - name: Alloy
+        distance:
+          value: 12.4
+          units: km
     - name: Hansford
       region: WV
       lat: '38.2067'
       long: "-81.3960"
+      closest_rate_centers:
+      - name: East Bank
+        distance:
+          value: 4.16
+          units: km
+      - name: Montgomery
+        distance:
+          value: 7.05
+          units: km
+      - name: Charleston Zone 4
+        distance:
+          value: 12.96
+          units: km
     - name: Harman
       region: WV
       lat: '38.9211'
       long: "-79.5245"
+      closest_rate_centers:
+      - name: Harman
+        distance:
+          value: 0.17
+          units: km
+      - name: Canaan Valley
+        distance:
+          value: 12.42
+          units: km
+      - name: Riverton
+        distance:
+          value: 20.37
+          units: km
     - name: Harpers Ferry
       region: WV
       lat: '39.3252'
       long: "-77.7410"
+      closest_rate_centers:
+      - name: Harpers Ferry
+        distance:
+          value: 0.33
+          units: km
+      - name: Charles Town
+        distance:
+          value: 10.93
+          units: km
+      - name: Shepherdstown
+        distance:
+          value: 13.25
+          units: km
     - name: Harrisville
       region: WV
       lat: '39.2104'
       long: "-81.0485"
+      closest_rate_centers:
+      - name: Harrisville
+        distance:
+          value: 0.33
+          units: km
+      - name: Ellenboro
+        distance:
+          value: 5.42
+          units: km
+      - name: Cairo
+        distance:
+          value: 9.28
+          units: km
     - name: Hartford City
       region: WV
       lat: '38.9978'
       long: "-81.9905"
+      closest_rate_centers:
+      - name: New Haven
+        distance:
+          value: 2.37
+          units: km
+      - name: Mason
+        distance:
+          value: 4.26
+          units: km
+      - name: Letart
+        distance:
+          value: 12.68
+          units: km
     - name: Harts
       region: WV
       lat: '38.0343'
       long: "-82.1290"
+      closest_rate_centers:
+      - name: Chapmanville
+        distance:
+          value: 11.48
+          units: km
+      - name: Branchland
+        distance:
+          value: 21.17
+          units: km
+      - name: Logan
+        distance:
+          value: 23.96
+          units: km
     - name: Hedgesville
       region: WV
       lat: '39.5544'
       long: "-77.9944"
+      closest_rate_centers:
+      - name: Hedgesville
+        distance:
+          value: 0.49
+          units: km
+      - name: Falling Waters
+        distance:
+          value: 5.52
+          units: km
+      - name: Martinsburg
+        distance:
+          value: 10.85
+          units: km
     - name: Helen
       region: WV
       lat: '37.6374'
       long: "-81.3130"
+      closest_rate_centers:
+      - name: Helen
+        distance:
+          value: 0.62
+          units: km
+      - name: Mullens
+        distance:
+          value: 8.45
+          units: km
+      - name: Sophia
+        distance:
+          value: 9.63
+          units: km
     - name: Helvetia
       region: WV
       lat: '38.7058'
       long: "-80.1993"
+      closest_rate_centers:
+      - name: Hacker Valley
+        distance:
+          value: 18.41
+          units: km
+      - name: Rock Cave
+        distance:
+          value: 18.64
+          units: km
+      - name: Mill Creek
+        distance:
+          value: 20.17
+          units: km
     - name: Henderson
       region: WV
       lat: '38.8305'
       long: "-82.1360"
+      closest_rate_centers:
+      - name: Point Pleasant
+        distance:
+          value: 3.44
+          units: km
+      - name: Leon
+        distance:
+          value: 17.68
+          units: km
+      - name: Letart
+        distance:
+          value: 18.35
+          units: km
     - name: Hendricks
       region: WV
       lat: '39.0755'
       long: "-79.6299"
+      closest_rate_centers:
+      - name: Parsons
+        distance:
+          value: 4.46
+          units: km
+      - name: Thomas
+        distance:
+          value: 13.93
+          units: km
+      - name: Davis
+        distance:
+          value: 15.59
+          units: km
     - name: Henlawson
       region: WV
       lat: '37.9000'
       long: "-81.9820"
+      closest_rate_centers:
+      - name: Logan
+        distance:
+          value: 5.75
+          units: km
+      - name: Chapmanville
+        distance:
+          value: 8.88
+          units: km
+      - name: Man
+        distance:
+          value: 19.78
+          units: km
     - name: Hepzibah
       region: WV
       lat: '39.3309'
       long: "-80.3341"
+      closest_rate_centers:
+      - name: Lumberport
+        distance:
+          value: 5.06
+          units: km
+      - name: Clarksburg
+        distance:
+          value: 6.47
+          units: km
+      - name: Sardis
+        distance:
+          value: 8.0
+          units: km
     - name: Hico
       region: WV
       lat: '38.1166'
       long: "-81.0112"
+      closest_rate_centers:
+      - name: Ansted
+        distance:
+          value: 8.11
+          units: km
+      - name: Fayetteville
+        distance:
+          value: 10.37
+          units: km
+      - name: Gauley Bridge
+        distance:
+          value: 16.51
+          units: km
     - name: Hillsboro
       region: WV
       lat: '38.1384'
       long: "-80.2107"
+      closest_rate_centers:
+      - name: Hillsboro
+        distance:
+          value: 0.64
+          units: km
+      - name: Marlinton
+        distance:
+          value: 14.31
+          units: km
+      - name: Frankford
+        distance:
+          value: 28.43
+          units: km
     - name: Hilltop
       region: WV
       lat: '37.9392'
       long: "-81.1526"
+      closest_rate_centers:
+      - name: Oak Hill
+        distance:
+          value: 3.99
+          units: km
+      - name: Mount Hope
+        distance:
+          value: 5.22
+          units: km
+      - name: Fayetteville
+        distance:
+          value: 13.88
+          units: km
     - name: Hinkleville
       region: WV
       lat: '38.9240'
       long: "-80.2636"
+      closest_rate_centers:
+      - name: Buckhannon
+        distance:
+          value: 8.19
+          units: km
+      - name: Rock Cave
+        distance:
+          value: 12.3
+          units: km
+      - name: Walkersville
+        distance:
+          value: 17.27
+          units: km
     - name: Hinton
       region: WV
       lat: '37.6652'
       long: "-80.8828"
+      closest_rate_centers:
+      - name: Hinton
+        distance:
+          value: 1.46
+          units: km
+      - name: Flat Top
+        distance:
+          value: 21.34
+          units: km
+      - name: Meadow Bridge
+        distance:
+          value: 21.73
+          units: km
     - name: Holden
       region: WV
       lat: '37.8238'
       long: "-82.0788"
+      closest_rate_centers:
+      - name: Logan
+        distance:
+          value: 8.25
+          units: km
+      - name: Delbarton
+        distance:
+          value: 15.72
+          units: km
+      - name: Chapmanville
+        distance:
+          value: 17.23
+          units: km
     - name: Hollygrove
       region: WV
       lat: '38.1908'
       long: "-81.3946"
+      closest_rate_centers:
+      - name: East Bank
+        distance:
+          value: 4.72
+          units: km
+      - name: Montgomery
+        distance:
+          value: 6.19
+          units: km
+      - name: Charleston Zone 4
+        distance:
+          value: 13.6
+          units: km
     - name: Hometown
       region: WV
       lat: '38.5289'
       long: "-81.8552"
+      closest_rate_centers:
+      - name: Winfield
+        distance:
+          value: 3.15
+          units: km
+      - name: Scott Depot
+        distance:
+          value: 10.95
+          units: km
+      - name: Charleston Zone 6
+        distance:
+          value: 11.65
+          units: km
     - name: Hooverson Heights
       region: WV
       lat: '40.3189'
       long: "-80.5825"
+      closest_rate_centers:
+      - name: Follansbee
+        distance:
+          value: 2.09
+          units: km
+      - name: Wellsburg
+        distance:
+          value: 5.32
+          units: km
+      - name: Weirton
+        distance:
+          value: 10.95
+          units: km
     - name: Hundred
       region: WV
       lat: '39.6835'
       long: "-80.4575"
+      closest_rate_centers:
+      - name: Hundred
+        distance:
+          value: 0.21
+          units: km
+      - name: Wadestown
+        distance:
+          value: 10.11
+          units: km
+      - name: Cameron
+        distance:
+          value: 18.22
+          units: km
     - name: Huntersville
       region: WV
       lat: '38.1860'
       long: "-80.0152"
+      closest_rate_centers:
+      - name: Marlinton
+        distance:
+          value: 8.09
+          units: km
+      - name: Hillsboro
+        distance:
+          value: 17.48
+          units: km
+      - name: Snowshoe
+        distance:
+          value: 27.79
+          units: km
     - name: Huntington
       region: WV
       lat: '38.4109'
       long: "-82.4345"
+      closest_rate_centers:
+      - name: Huntington Zone 1
+        distance:
+          value: 0.65
+          units: km
+      - name: Huntington Zone 2
+        distance:
+          value: 12.23
+          units: km
+      - name: Huntington Zone 4
+        distance:
+          value: 12.81
+          units: km
     - name: Hurricane
       region: WV
       lat: '38.4293'
       long: "-82.0182"
+      closest_rate_centers:
+      - name: Hurricane
+        distance:
+          value: 0.66
+          units: km
+      - name: Scott Depot
+        distance:
+          value: 7.84
+          units: km
+      - name: Milton
+        distance:
+          value: 10.1
+          units: km
     - name: Huttonsville
       region: WV
       lat: '38.7139'
       long: "-79.9765"
+      closest_rate_centers:
+      - name: Mill Creek
+        distance:
+          value: 2.14
+          units: km
+      - name: Elkins
+        distance:
+          value: 25.78
+          units: km
+      - name: Snowshoe
+        distance:
+          value: 31.01
+          units: km
     - name: Iaeger
       region: WV
       lat: '37.4642'
       long: "-81.8111"
+      closest_rate_centers:
+      - name: Iaeger
+        distance:
+          value: 0.96
+          units: km
+      - name: Bradshaw
+        distance:
+          value: 11.97
+          units: km
+      - name: Davy
+        distance:
+          value: 13.49
+          units: km
     - name: Idamay
       region: WV
       lat: '39.4930'
       long: "-80.2572"
+      closest_rate_centers:
+      - name: Farmington
+        distance:
+          value: 2.75
+          units: km
+      - name: Worthington
+        distance:
+          value: 4.79
+          units: km
+      - name: Mannington
+        distance:
+          value: 8.32
+          units: km
     - name: Institute
       region: WV
       lat: '38.3797'
       long: "-81.7662"
+      closest_rate_centers:
+      - name: Charleston Zone 5
+        distance:
+          value: 6.03
+          units: km
+      - name: Charleston Zone 6
+        distance:
+          value: 8.39
+          units: km
+      - name: Charleston Zone 7
+        distance:
+          value: 11.7
+          units: km
     - name: Inwood
       region: WV
       lat: '39.3538'
       long: "-78.0552"
+      closest_rate_centers:
+      - name: Inwood
+        distance:
+          value: 1.19
+          units: km
+      - name: Martinsburg
+        distance:
+          value: 13.79
+          units: km
+      - name: Charles Town
+        distance:
+          value: 18.22
+          units: km
     - name: Itmann
       region: WV
       lat: '37.5734'
       long: "-81.4146"
+      closest_rate_centers:
+      - name: Mullens
+        distance:
+          value: 3.22
+          units: km
+      - name: Helen
+        distance:
+          value: 10.94
+          units: km
+      - name: Pineville
+        distance:
+          value: 11.43
+          units: km
     - name: Jacksonburg
       region: WV
       lat: '39.5304'
       long: "-80.6404"
+      closest_rate_centers:
+      - name: Pine Grove
+        distance:
+          value: 4.37
+          units: km
+      - name: Smithfield
+        distance:
+          value: 8.46
+          units: km
+      - name: Reader
+        distance:
+          value: 8.89
+          units: km
     - name: Jane Lew
       region: WV
       lat: '39.1100'
       long: "-80.4085"
+      closest_rate_centers:
+      - name: Jane Lew
+        distance:
+          value: 0.14
+          units: km
+      - name: Weston
+        distance:
+          value: 8.72
+          units: km
+      - name: West Milford
+        distance:
+          value: 11.12
+          units: km
     - name: Jefferson
       region: WV
       lat: '38.3702'
       long: "-81.7710"
+      closest_rate_centers:
+      - name: Charleston Zone 5
+        distance:
+          value: 5.77
+          units: km
+      - name: Charleston Zone 6
+        distance:
+          value: 8.75
+          units: km
+      - name: Charleston Zone 7
+        distance:
+          value: 10.57
+          units: km
     - name: Junior
       region: WV
       lat: '38.9782'
       long: "-79.9504"
+      closest_rate_centers:
+      - name: Belington
+        distance:
+          value: 5.38
+          units: km
+      - name: Elkins
+        distance:
+          value: 10.38
+          units: km
+      - name: Philippi
+        distance:
+          value: 21.54
+          units: km
     - name: Justice
       region: WV
       lat: '37.5993'
       long: "-81.8381"
+      closest_rate_centers:
+      - name: Gilbert
+        distance:
+          value: 2.94
+          units: km
+      - name: Iaeger
+        distance:
+          value: 15.93
+          units: km
+      - name: Man
+        distance:
+          value: 16.38
+          units: km
     - name: Justice Addition
       region: WV
       lat: '37.8916'
       long: "-81.9928"
+      closest_rate_centers:
+      - name: Logan
+        distance:
+          value: 4.78
+          units: km
+      - name: Chapmanville
+        distance:
+          value: 9.42
+          units: km
+      - name: Man
+        distance:
+          value: 19.46
+          units: km
     - name: Kanawha
       region: WV
       lat: '39.2017'
       long: "-81.4592"
+      closest_rate_centers:
+      - name: Mineralwells
+        distance:
+          value: 5.77
+          units: km
+      - name: Parkersburg Zone 2
+        distance:
+          value: 8.05
+          units: km
+      - name: Parkersburg Zone 1
+        distance:
+          value: 11.09
+          units: km
     - name: Kenova
       region: WV
       lat: '38.4026'
       long: "-82.5822"
+      closest_rate_centers:
+      - name: Huntington Zone 4
+        distance:
+          value: 0.26
+          units: km
+      - name: Huntington Zone 1
+        distance:
+          value: 12.42
+          units: km
+      - name: Prichard
+        distance:
+          value: 18.06
+          units: km
     - name: Kermit
       region: WV
       lat: '37.8425'
       long: "-82.4086"
+      closest_rate_centers:
+      - name: Kermit
+        distance:
+          value: 0.21
+          units: km
+      - name: Dunlow
+        distance:
+          value: 20.3
+          units: km
+      - name: Williamson
+        distance:
+          value: 22.21
+          units: km
     - name: Keyser
       region: WV
       lat: '39.4394'
       long: "-78.9821"
+      closest_rate_centers:
+      - name: Keyser
+        distance:
+          value: 0.78
+          units: km
+      - name: Piedmont (Mineral)
+        distance:
+          value: 7.48
+          units: km
+      - name: Burlington
+        distance:
+          value: 13.32
+          units: km
     - name: Keystone
       region: WV
       lat: '37.4158'
       long: "-81.4463"
+      closest_rate_centers:
+      - name: Northfork
+        distance:
+          value: 1.68
+          units: km
+      - name: Kimball
+        distance:
+          value: 5.21
+          units: km
+      - name: Maybeury
+        distance:
+          value: 8.63
+          units: km
     - name: Kimball
       region: WV
       lat: '37.4268'
       long: "-81.5078"
+      closest_rate_centers:
+      - name: Kimball
+        distance:
+          value: 0.46
+          units: km
+      - name: Welch
+        distance:
+          value: 6.73
+          units: km
+      - name: Northfork
+        distance:
+          value: 7.16
+          units: km
     - name: Kimberly
       region: WV
       lat: '38.1407'
       long: "-81.2967"
+      closest_rate_centers:
+      - name: Alloy
+        distance:
+          value: 4.52
+          units: km
+      - name: Montgomery
+        distance:
+          value: 4.52
+          units: km
+      - name: Gauley Bridge
+        distance:
+          value: 9.76
+          units: km
     - name: Kincaid
       region: WV
       lat: '38.0382'
       long: "-81.2759"
+      closest_rate_centers:
+      - name: Alloy
+        distance:
+          value: 9.86
+          units: km
+      - name: Oak Hill
+        distance:
+          value: 13.74
+          units: km
+      - name: Fayetteville
+        distance:
+          value: 15.29
+          units: km
     - name: Kingwood
       region: WV
       lat: '39.4719'
       long: "-79.6822"
+      closest_rate_centers:
+      - name: Kingwood
+        distance:
+          value: 1.12
+          units: km
+      - name: Tunnelton
+        distance:
+          value: 10.08
+          units: km
+      - name: Reedsville
+        distance:
+          value: 11.75
+          units: km
     - name: Kistler
       region: WV
       lat: '37.7656'
       long: "-81.8578"
+      closest_rate_centers:
+      - name: Man
+        distance:
+          value: 2.81
+          units: km
+      - name: Logan
+        distance:
+          value: 14.86
+          units: km
+      - name: Gilbert
+        distance:
+          value: 16.72
+          units: km
     - name: Kopperston
       region: WV
       lat: '37.7502'
       long: "-81.5764"
+      closest_rate_centers:
+      - name: Oceana
+        distance:
+          value: 7.97
+          units: km
+      - name: Pineville
+        distance:
+          value: 18.85
+          units: km
+      - name: Wharton
+        distance:
+          value: 19.27
+          units: km
     - name: Lashmeet
       region: WV
       lat: '37.4228'
       long: "-81.1967"
+      closest_rate_centers:
+      - name: Matoaka
+        distance:
+          value: 3.87
+          units: km
+      - name: Princeton
+        distance:
+          value: 9.99
+          units: km
+      - name: Bluewell
+        distance:
+          value: 12.13
+          units: km
     - name: Lavalette
       region: WV
       lat: '38.3224'
       long: "-82.4479"
+      closest_rate_centers:
+      - name: Huntington Zone 1
+        distance:
+          value: 10.25
+          units: km
+      - name: Wayne
+        distance:
+          value: 10.65
+          units: km
+      - name: Huntington Zone 4
+        distance:
+          value: 14.49
+          units: km
     - name: Leon
       region: WV
       lat: '38.7471'
       long: "-81.9555"
+      closest_rate_centers:
+      - name: Leon
+        distance:
+          value: 0.51
+          units: km
+      - name: Buffalo
+        distance:
+          value: 15.7
+          units: km
+      - name: Letart
+        distance:
+          value: 16.07
+          units: km
     - name: Lesage
       region: WV
       lat: '38.4870'
       long: "-82.2930"
+      closest_rate_centers:
+      - name: Union Ridge
+        distance:
+          value: 6.36
+          units: km
+      - name: Huntington Zone 2
+        distance:
+          value: 8.66
+          units: km
+      - name: Milton
+        distance:
+          value: 14.85
+          units: km
     - name: Lester
       region: WV
       lat: '37.7349'
       long: "-81.3014"
+      closest_rate_centers:
+      - name: Sophia
+        distance:
+          value: 5.52
+          units: km
+      - name: Glen Daniel
+        distance:
+          value: 6.41
+          units: km
+      - name: Shady Spring
+        distance:
+          value: 10.86
+          units: km
+      - name: Beckley
+        distance:
+          value: 10.86
+          units: km
     - name: Lewisburg
       region: WV
       lat: '37.8096'
       long: "-80.4327"
+      closest_rate_centers:
+      - name: Lewisburg
+        distance:
+          value: 3.46
+          units: km
+      - name: White Sulphur Springs
+        distance:
+          value: 11.93
+          units: km
+      - name: Frankford
+        distance:
+          value: 13.42
+          units: km
     - name: Littleton
       region: WV
       lat: '39.7024'
       long: "-80.5147"
+      closest_rate_centers:
+      - name: Hundred
+        distance:
+          value: 5.15
+          units: km
+      - name: Cameron
+        distance:
+          value: 14.4
+          units: km
+      - name: Wadestown
+        distance:
+          value: 15.26
+          units: km
     - name: Logan
       region: WV
       lat: '37.8509'
       long: "-81.9857"
+      closest_rate_centers:
+      - name: Logan
+        distance:
+          value: 0.48
+          units: km
+      - name: Chapmanville
+        distance:
+          value: 13.95
+          units: km
+      - name: Man
+        distance:
+          value: 15.42
+          units: km
     - name: Lost Creek
       region: WV
       lat: '39.1628'
       long: "-80.3483"
+      closest_rate_centers:
+      - name: West Milford
+        distance:
+          value: 6.96
+          units: km
+      - name: Jane Lew
+        distance:
+          value: 7.84
+          units: km
+      - name: Clarksburg
+        distance:
+          value: 12.28
+          units: km
     - name: Lubeck
       region: WV
       lat: '39.2276'
       long: "-81.6265"
+      closest_rate_centers:
+      - name: Parkersburg Zone 3
+        distance:
+          value: 1.27
+          units: km
+      - name: Parkersburg Zone 1
+        distance:
+          value: 7.16
+          units: km
+      - name: Mineralwells
+        distance:
+          value: 10.42
+          units: km
     - name: Lumberport
       region: WV
       lat: '39.3741'
       long: "-80.3484"
+      closest_rate_centers:
+      - name: Lumberport
+        distance:
+          value: 0.13
+          units: km
+      - name: Shinnston
+        distance:
+          value: 6.34
+          units: km
+      - name: Sardis
+        distance:
+          value: 7.58
+          units: km
     - name: Mabscott
       region: WV
       lat: '37.7690'
       long: "-81.2133"
+      closest_rate_centers:
+      - name: Shady Spring
+        distance:
+          value: 2.26
+          units: km
+      - name: Beckley
+        distance:
+          value: 2.26
+          units: km
+      - name: Sophia
+        distance:
+          value: 7.51
+          units: km
+      - name: Glen Daniel
+        distance:
+          value: 11.17
+          units: km
     - name: MacArthur
       region: WV
       lat: '37.7551'
       long: "-81.2079"
+      closest_rate_centers:
+      - name: Shady Spring
+        distance:
+          value: 2.81
+          units: km
+      - name: Beckley
+        distance:
+          value: 2.81
+          units: km
+      - name: Sophia
+        distance:
+          value: 6.39
+          units: km
+      - name: Glen Daniel
+        distance:
+          value: 11.96
+          units: km
     - name: Madison
       region: WV
       lat: '38.0631'
       long: "-81.8046"
+      closest_rate_centers:
+      - name: Madison
+        distance:
+          value: 1.94
+          units: km
+      - name: Van
+        distance:
+          value: 12.56
+          units: km
+      - name: Brushton
+        distance:
+          value: 14.08
+          units: km
     - name: Malden
       region: WV
       lat: '38.3008'
       long: "-81.5580"
+      closest_rate_centers:
+      - name: Charleston Zone 4
+        distance:
+          value: 7.57
+          units: km
+      - name: Charleston Zone 1
+        distance:
+          value: 8.63
+          units: km
+      - name: East Bank
+        distance:
+          value: 14.31
+          units: km
     - name: Mallory
       region: WV
       lat: '37.7302'
       long: "-81.8243"
+      closest_rate_centers:
+      - name: Man
+        distance:
+          value: 4.64
+          units: km
+      - name: Gilbert
+        distance:
+          value: 13.26
+          units: km
+      - name: Oceana
+        distance:
+          value: 16.34
+          units: km
     - name: Man
       region: WV
       lat: '37.7522'
       long: "-81.8923"
+      closest_rate_centers:
+      - name: Man
+        distance:
+          value: 1.85
+          units: km
+      - name: Logan
+        distance:
+          value: 13.76
+          units: km
+      - name: Gilbert
+        distance:
+          value: 15.41
+          units: km
     - name: Mannington
       region: WV
       lat: '39.5274'
       long: "-80.3409"
+      closest_rate_centers:
+      - name: Mannington
+        distance:
+          value: 0.42
+          units: km
+      - name: Farmington
+        distance:
+          value: 7.68
+          units: km
+      - name: Joetown
+        distance:
+          value: 9.61
+          units: km
     - name: Marlinton
       region: WV
       lat: '38.2245'
       long: "-80.0905"
+      closest_rate_centers:
+      - name: Marlinton
+        distance:
+          value: 0.28
+          units: km
+      - name: Hillsboro
+        distance:
+          value: 13.63
+          units: km
+      - name: Snowshoe
+        distance:
+          value: 24.83
+          units: km
     - name: Marmet
       region: WV
       lat: '38.2458'
       long: "-81.5711"
+      closest_rate_centers:
+      - name: Charleston Zone 4
+        distance:
+          value: 3.0
+          units: km
+      - name: East Bank
+        distance:
+          value: 11.88
+          units: km
+      - name: Charleston Zone 1
+        distance:
+          value: 12.85
+          units: km
     - name: Martinsburg
       region: WV
       lat: '39.4582'
       long: "-77.9776"
+      closest_rate_centers:
+      - name: Martinsburg
+        distance:
+          value: 0.69
+          units: km
+      - name: Hedgesville
+        distance:
+          value: 10.37
+          units: km
+      - name: Falling Waters
+        distance:
+          value: 12.02
+          units: km
     - name: Mason
       region: WV
       lat: '39.0181'
       long: "-82.0316"
+      closest_rate_centers:
+      - name: Mason
+        distance:
+          value: 0.17
+          units: km
+      - name: New Haven
+        distance:
+          value: 6.57
+          units: km
+      - name: Letart
+        distance:
+          value: 16.24
+          units: km
     - name: Masontown
       region: WV
       lat: '39.5512'
       long: "-79.8003"
+      closest_rate_centers:
+      - name: Reedsville
+        distance:
+          value: 5.7
+          units: km
+      - name: Kingwood
+        distance:
+          value: 12.45
+          units: km
+      - name: Cheat Lake
+        distance:
+          value: 13.33
+          units: km
     - name: Matewan
       region: WV
       lat: '37.6251'
       long: "-82.1696"
+      closest_rate_centers:
+      - name: Matewan
+        distance:
+          value: 0.35
+          units: km
+      - name: Delbarton
+        distance:
+          value: 10.31
+          units: km
+      - name: Williamson
+        distance:
+          value: 10.65
+          units: km
     - name: Matheny
       region: WV
       lat: '37.6640'
       long: "-81.5985"
+      closest_rate_centers:
+      - name: Oceana
+        distance:
+          value: 5.63
+          units: km
+      - name: Pineville
+        distance:
+          value: 10.25
+          units: km
+      - name: Mullens
+        distance:
+          value: 21.22
+          units: km
     - name: Matoaka
       region: WV
       lat: '37.4182'
       long: "-81.2417"
+      closest_rate_centers:
+      - name: Matoaka
+        distance:
+          value: 0.48
+          units: km
+      - name: Bluewell
+        distance:
+          value: 11.92
+          units: km
+      - name: Bramwell
+        distance:
+          value: 12.35
+          units: km
     - name: Maybeury
       region: WV
       lat: '37.3675'
       long: "-81.3572"
+      closest_rate_centers:
+      - name: Maybeury
+        distance:
+          value: 1.61
+          units: km
+      - name: Bramwell
+        distance:
+          value: 6.46
+          units: km
+      - name: Anawalt
+        distance:
+          value: 7.65
+          units: km
     - name: McConnell
       region: WV
       lat: '37.8282'
       long: "-81.9652"
+      closest_rate_centers:
+      - name: Logan
+        distance:
+          value: 3.17
+          units: km
+      - name: Man
+        distance:
+          value: 12.33
+          units: km
+      - name: Chapmanville
+        distance:
+          value: 16.87
+          units: km
     - name: McMechen
       region: WV
       lat: '39.9854'
       long: "-80.7335"
+      closest_rate_centers:
+      - name: Wheeling Zone 5
+        distance:
+          value: 8.02
+          units: km
+      - name: Wheeling Zone 1
+        distance:
+          value: 8.21
+          units: km
+      - name: Wheeling Zone 3
+        distance:
+          value: 10.92
+          units: km
     - name: Meadow Bridge
       region: WV
       lat: '37.8613'
       long: "-80.8561"
+      closest_rate_centers:
+      - name: Meadow Bridge
+        distance:
+          value: 0.21
+          units: km
+      - name: Rainelle
+        distance:
+          value: 14.63
+          units: km
+      - name: Rupert
+        distance:
+          value: 17.79
+          units: km
     - name: Middlebourne
       region: WV
       lat: '39.4947'
       long: "-80.9070"
+      closest_rate_centers:
+      - name: Middlebourne
+        distance:
+          value: 0.39
+          units: km
+      - name: Sistersville
+        distance:
+          value: 10.25
+          units: km
+      - name: Paden City
+        distance:
+          value: 12.26
+          units: km
     - name: Middleway
       region: WV
       lat: '39.3032'
       long: "-77.9810"
+      closest_rate_centers:
+      - name: Inwood
+        distance:
+          value: 8.18
+          units: km
+      - name: Charles Town
+        distance:
+          value: 10.52
+          units: km
+      - name: Martinsburg
+        distance:
+          value: 17.32
+          units: km
     - name: Mill Creek
       region: WV
       lat: '38.7319'
       long: "-79.9725"
+      closest_rate_centers:
+      - name: Mill Creek
+        distance:
+          value: 0.28
+          units: km
+      - name: Elkins
+        distance:
+          value: 23.82
+          units: km
+      - name: Belington
+        distance:
+          value: 32.69
+          units: km
     - name: Milton
       region: WV
       lat: '38.4330'
       long: "-82.1303"
+      closest_rate_centers:
+      - name: Milton
+        distance:
+          value: 0.81
+          units: km
+      - name: Hurricane
+        distance:
+          value: 9.47
+          units: km
+      - name: Huntington Zone 2
+        distance:
+          value: 14.51
+          units: km
     - name: Mineralwells
       region: WV
       lat: '39.1807'
       long: "-81.5130"
+      closest_rate_centers:
+      - name: Mineralwells
+        distance:
+          value: 0.7
+          units: km
+      - name: Parkersburg Zone 1
+        distance:
+          value: 10.17
+          units: km
+      - name: Parkersburg Zone 3
+        distance:
+          value: 11.86
+          units: km
     - name: Mitchell Heights
       region: WV
       lat: '37.9087'
       long: "-81.9867"
+      closest_rate_centers:
+      - name: Logan
+        distance:
+          value: 6.68
+          units: km
+      - name: Chapmanville
+        distance:
+          value: 7.82
+          units: km
+      - name: Man
+        distance:
+          value: 20.83
+          units: km
     - name: Monaville
       region: WV
       lat: '37.8136'
       long: "-81.9915"
+      closest_rate_centers:
+      - name: Logan
+        distance:
+          value: 3.9
+          units: km
+      - name: Man
+        distance:
+          value: 12.9
+          units: km
+      - name: Chapmanville
+        distance:
+          value: 17.91
+          units: km
     - name: Monongah
       region: WV
       lat: '39.4598'
       long: "-80.2185"
+      closest_rate_centers:
+      - name: Worthington
+        distance:
+          value: 3.66
+          units: km
+      - name: Farmington
+        distance:
+          value: 7.04
+          units: km
+      - name: Fairmont
+        distance:
+          value: 7.26
+          units: km
     - name: Montcalm
       region: WV
       lat: '37.3516'
       long: "-81.2513"
+      closest_rate_centers:
+      - name: Bluewell
+        distance:
+          value: 5.58
+          units: km
+      - name: Bramwell
+        distance:
+          value: 6.27
+          units: km
+      - name: Matoaka
+        distance:
+          value: 7.93
+          units: km
     - name: Montgomery
       region: WV
       lat: '38.1750'
       long: "-81.3245"
+      closest_rate_centers:
+      - name: Montgomery
+        distance:
+          value: 0.3
+          units: km
+      - name: Alloy
+        distance:
+          value: 8.65
+          units: km
+      - name: East Bank
+        distance:
+          value: 11.06
+          units: km
     - name: Montrose
       region: WV
       lat: '39.0673'
       long: "-79.8143"
+      closest_rate_centers:
+      - name: Belington
+        distance:
+          value: 11.14
+          units: km
+      - name: Parsons
+        distance:
+          value: 12.23
+          units: km
+      - name: Elkins
+        distance:
+          value: 16.21
+          units: km
     - name: Moorefield
       region: WV
       lat: '39.0675'
       long: "-78.9623"
+      closest_rate_centers:
+      - name: Moorefield
+        distance:
+          value: 0.95
+          units: km
+      - name: Lost River
+        distance:
+          value: 14.8
+          units: km
+      - name: Petersburg
+        distance:
+          value: 16.11
+          units: km
     - name: Morgantown
       region: WV
       lat: '39.6383'
       long: "-79.9464"
+      closest_rate_centers:
+      - name: Morgantown
+        distance:
+          value: 1.13
+          units: km
+      - name: Cheat Lake
+        distance:
+          value: 6.54
+          units: km
+      - name: Laurel Point
+        distance:
+          value: 7.23
+          units: km
     - name: Moundsville
       region: WV
       lat: '39.9221'
       long: "-80.7422"
+      closest_rate_centers:
+      - name: Wheeling Zone 5
+        distance:
+          value: 1.06
+          units: km
+      - name: Wheeling Zone 1
+        distance:
+          value: 15.29
+          units: km
+      - name: Wheeling Zone 3
+        distance:
+          value: 16.81
+          units: km
     - name: Mount Carbon
       region: WV
       lat: '38.1442'
       long: "-81.2890"
+      closest_rate_centers:
+      - name: Alloy
+        distance:
+          value: 4.11
+          units: km
+      - name: Montgomery
+        distance:
+          value: 4.67
+          units: km
+      - name: Gauley Bridge
+        distance:
+          value: 9.01
+          units: km
     - name: Mount Gay-Shamrock
       region: WV
       lat: '37.8512'
       long: "-82.0230"
+      closest_rate_centers:
+      - name: Logan
+        distance:
+          value: 2.88
+          units: km
+      - name: Chapmanville
+        distance:
+          value: 13.5
+          units: km
+      - name: Man
+        distance:
+          value: 17.71
+          units: km
     - name: Mount Hope
       region: WV
       lat: '37.8976'
       long: "-81.1737"
+      closest_rate_centers:
+      - name: Mount Hope
+        distance:
+          value: 0.94
+          units: km
+      - name: Oak Hill
+        distance:
+          value: 8.95
+          units: km
+      - name: Shady Spring
+        distance:
+          value: 13.65
+          units: km
+      - name: Beckley
+        distance:
+          value: 13.65
+          units: km
     - name: Mullens
       region: WV
       lat: '37.5812'
       long: "-81.3855"
+      closest_rate_centers:
+      - name: Mullens
+        distance:
+          value: 0.51
+          units: km
+      - name: Helen
+        distance:
+          value: 8.41
+          units: km
+      - name: Pineville
+        distance:
+          value: 13.95
+          units: km
     - name: Neibert
       region: WV
       lat: '37.7861'
       long: "-81.9341"
+      closest_rate_centers:
+      - name: Man
+        distance:
+          value: 7.06
+          units: km
+      - name: Logan
+        distance:
+          value: 8.53
+          units: km
+      - name: Gilbert
+        distance:
+          value: 19.95
+          units: km
     - name: Nettie
       region: WV
       lat: '38.2183'
       long: "-80.6889"
+      closest_rate_centers:
+      - name: Craigsville
+        distance:
+          value: 12.49
+          units: km
+      - name: Richwood
+        distance:
+          value: 14.6
+          units: km
+      - name: Summersville
+        distance:
+          value: 15.26
+          units: km
     - name: New Cumberland
       region: WV
       lat: '40.5072'
       long: "-80.6115"
+      closest_rate_centers:
+      - name: New Cumberland
+        distance:
+          value: 1.97
+          units: km
+      - name: Weirton
+        distance:
+          value: 10.23
+          units: km
+      - name: Chester
+        distance:
+          value: 11.9
+          units: km
     - name: New Haven
       region: WV
       lat: '38.9876'
       long: "-81.9656"
+      closest_rate_centers:
+      - name: New Haven
+        distance:
+          value: 0.27
+          units: km
+      - name: Mason
+        distance:
+          value: 6.69
+          units: km
+      - name: Letart
+        distance:
+          value: 10.98
+          units: km
     - name: New Martinsville
       region: WV
       lat: '39.6635'
       long: "-80.8569"
+      closest_rate_centers:
+      - name: New Martinsville
+        distance:
+          value: 2.37
+          units: km
+      - name: Paden City
+        distance:
+          value: 10.16
+          units: km
+      - name: Reader
+        distance:
+          value: 15.07
+          units: km
     - name: New Richmond
       region: WV
       lat: '37.5734'
       long: "-81.4870"
+      closest_rate_centers:
+      - name: Pineville
+        distance:
+          value: 5.11
+          units: km
+      - name: Mullens
+        distance:
+          value: 9.47
+          units: km
+      - name: Helen
+        distance:
+          value: 16.5
+          units: km
     - name: Newark
       region: WV
       lat: '39.1219'
       long: "-81.3910"
+      closest_rate_centers:
+      - name: Elizabeth
+        distance:
+          value: 7.01
+          units: km
+      - name: Mineralwells
+        distance:
+          value: 13.04
+          units: km
+      - name: Parkersburg Zone 2
+        distance:
+          value: 13.84
+          units: km
     - name: Newburg
       region: WV
       lat: '39.3889'
       long: "-79.8536"
+      closest_rate_centers:
+      - name: Newburg
+        distance:
+          value: 0.61
+          units: km
+      - name: Tunnelton
+        distance:
+          value: 9.65
+          units: km
+      - name: Reedsville
+        distance:
+          value: 12.93
+          units: km
     - name: Newell
       region: WV
       lat: '40.6175'
       long: "-80.5997"
+      closest_rate_centers:
+      - name: Chester
+        distance:
+          value: 3.4
+          units: km
+      - name: New Cumberland
+        distance:
+          value: 14.08
+          units: km
+      - name: Weirton
+        distance:
+          value: 22.29
+          units: km
     - name: Nitro
       region: WV
       lat: '38.4117'
       long: "-81.8193"
+      closest_rate_centers:
+      - name: Charleston Zone 6
+        distance:
+          value: 2.56
+          units: km
+      - name: Charleston Zone 5
+        distance:
+          value: 3.51
+          units: km
+      - name: Scott Depot
+        distance:
+          value: 10.8
+          units: km
     - name: North Hills
       region: WV
       lat: '39.3150'
       long: "-81.5088"
+      closest_rate_centers:
+      - name: Parkersburg Zone 1
+        distance:
+          value: 7.04
+          units: km
+      - name: Williamstown
+        distance:
+          value: 9.37
+          units: km
+      - name: Valley Mills
+        distance:
+          value: 9.69
+          units: km
     - name: Northfork
       region: WV
       lat: '37.4196'
       long: "-81.4274"
+      closest_rate_centers:
+      - name: Northfork
+        distance:
+          value: 0.21
+          units: km
+      - name: Kimball
+        distance:
+          value: 6.82
+          units: km
+      - name: Maybeury
+        distance:
+          value: 7.83
+          units: km
     - name: Norton
       region: WV
       lat: '38.9316'
       long: "-79.9692"
+      closest_rate_centers:
+      - name: Elkins
+        distance:
+          value: 10.16
+          units: km
+      - name: Belington
+        distance:
+          value: 10.81
+          units: km
+      - name: Mill Creek
+        distance:
+          value: 22.16
+          units: km
     - name: Nutter Fort
       region: WV
       lat: '39.2604'
       long: "-80.3265"
+      closest_rate_centers:
+      - name: Clarksburg
+        distance:
+          value: 1.96
+          units: km
+      - name: Bridgeport
+        distance:
+          value: 6.97
+          units: km
+      - name: West Milford
+        distance:
+          value: 8.57
+          units: km
     - name: Oak Hill
       region: WV
       lat: '37.9844'
       long: "-81.1277"
+      closest_rate_centers:
+      - name: Oak Hill
+        distance:
+          value: 1.69
+          units: km
+      - name: Fayetteville
+        distance:
+          value: 8.44
+          units: km
+      - name: Mount Hope
+        distance:
+          value: 10.64
+          units: km
     - name: Oakvale
       region: WV
       lat: '37.3323'
       long: "-80.9704"
+      closest_rate_centers:
+      - name: Oakvale
+        distance:
+          value: 1.04
+          units: km
+      - name: Athens
+        distance:
+          value: 10.94
+          units: km
+      - name: Princeton
+        distance:
+          value: 12.48
+          units: km
     - name: Oceana
       region: WV
       lat: '37.6927'
       long: "-81.6324"
+      closest_rate_centers:
+      - name: Oceana
+        distance:
+          value: 1.26
+          units: km
+      - name: Pineville
+        distance:
+          value: 14.52
+          units: km
+      - name: Man
+        distance:
+          value: 22.01
+          units: km
     - name: Omar
       region: WV
       lat: '37.7583'
       long: "-81.9974"
+      closest_rate_centers:
+      - name: Logan
+        distance:
+          value: 10.07
+          units: km
+      - name: Man
+        distance:
+          value: 10.96
+          units: km
+      - name: Delbarton
+        distance:
+          value: 17.94
+          units: km
     - name: Osage
       region: WV
       lat: '39.6593'
       long: "-80.0070"
+      closest_rate_centers:
+      - name: Laurel Point
+        distance:
+          value: 4.86
+          units: km
+      - name: Morgantown
+        distance:
+          value: 5.13
+          units: km
+      - name: Mount Morris
+        distance:
+          value: 7.67
+          units: km
     - name: Paden City
       region: WV
       lat: '39.6034'
       long: "-80.9351"
+      closest_rate_centers:
+      - name: Paden City
+        distance:
+          value: 0.78
+          units: km
+      - name: Sistersville
+        distance:
+          value: 6.89
+          units: km
+      - name: New Martinsville
+        distance:
+          value: 7.7
+          units: km
     - name: Page
       region: WV
       lat: '38.0506'
       long: "-81.2717"
+      closest_rate_centers:
+      - name: Alloy
+        distance:
+          value: 8.43
+          units: km
+      - name: Oak Hill
+        distance:
+          value: 14.2
+          units: km
+      - name: Montgomery
+        distance:
+          value: 14.5
+          units: km
     - name: Pageton
       region: WV
       lat: '37.3598'
       long: "-81.4648"
+      closest_rate_centers:
+      - name: Anawalt
+        distance:
+          value: 4.16
+          units: km
+      - name: Northfork
+        distance:
+          value: 7.24
+          units: km
+      - name: Gary
+        distance:
+          value: 7.56
+          units: km
     - name: Parcoal
       region: WV
       lat: '38.4604'
       long: "-80.3731"
+      closest_rate_centers:
+      - name: Webster Springs
+        distance:
+          value: 4.59
+          units: km
+      - name: Cowen
+        distance:
+          value: 17.41
+          units: km
+      - name: Hacker Valley
+        distance:
+          value: 20.02
+          units: km
     - name: Parkersburg
       region: WV
       lat: '39.2623'
       long: "-81.5420"
+      closest_rate_centers:
+      - name: Parkersburg Zone 1
+        distance:
+          value: 1.48
+          units: km
+      - name: Parkersburg Zone 3
+        distance:
+          value: 7.88
+          units: km
+      - name: Mineralwells
+        distance:
+          value: 9.13
+          units: km
     - name: Parsons
       region: WV
       lat: '39.0942'
       long: "-79.6785"
+      closest_rate_centers:
+      - name: Parsons
+        distance:
+          value: 0.22
+          units: km
+      - name: Thomas
+        distance:
+          value: 16.83
+          units: km
+      - name: Davis
+        distance:
+          value: 18.88
+          units: km
     - name: Paw Paw
       region: WV
       lat: '39.5313'
       long: "-78.4553"
+      closest_rate_centers:
+      - name: Paw Paw
+        distance:
+          value: 0.79
+          units: km
+      - name: Levels
+        distance:
+          value: 9.37
+          units: km
+      - name: Berkeley Springs
+        distance:
+          value: 22.32
+          units: km
     - name: Pax
       region: WV
       lat: '37.9098'
       long: "-81.2648"
+      closest_rate_centers:
+      - name: Mount Hope
+        distance:
+          value: 8.98
+          units: km
+      - name: Oak Hill
+        distance:
+          value: 12.93
+          units: km
+      - name: Glen Daniel
+        distance:
+          value: 15.39
+          units: km
     - name: Pea Ridge
       region: WV
       lat: '38.4155'
       long: "-82.3195"
+      closest_rate_centers:
+      - name: Huntington Zone 2
+        distance:
+          value: 2.32
+          units: km
+      - name: Huntington Zone 1
+        distance:
+          value: 10.54
+          units: km
+      - name: Union Ridge
+        distance:
+          value: 14.46
+          units: km
     - name: Peach Creek
       region: WV
       lat: '37.8770'
       long: "-81.9797"
+      closest_rate_centers:
+      - name: Logan
+        distance:
+          value: 3.29
+          units: km
+      - name: Chapmanville
+        distance:
+          value: 11.32
+          units: km
+      - name: Man
+        distance:
+          value: 17.47
+          units: km
     - name: Pennsboro
       region: WV
       lat: '39.2874'
       long: "-80.9755"
+      closest_rate_centers:
+      - name: Pennsboro
+        distance:
+          value: 0.99
+          units: km
+      - name: Ellenboro
+        distance:
+          value: 7.5
+          units: km
+      - name: Harrisville
+        distance:
+          value: 10.4
+          units: km
     - name: Pentress
       region: WV
       lat: '39.7101'
       long: "-80.1684"
+      closest_rate_centers:
+      - name: Blacksville
+        distance:
+          value: 3.27
+          units: km
+      - name: Core
+        distance:
+          value: 6.05
+          units: km
+      - name: Daybrook
+        distance:
+          value: 6.18
+          units: km
     - name: Petersburg
       region: WV
       lat: '38.9958'
       long: "-79.1277"
+      closest_rate_centers:
+      - name: Petersburg
+        distance:
+          value: 0.47
+          units: km
+      - name: Maysville
+        distance:
+          value: 14.16
+          units: km
+      - name: Moorefield
+        distance:
+          value: 15.79
+          units: km
     - name: Peterstown
       region: WV
       lat: '37.3991'
       long: "-80.7950"
+      closest_rate_centers:
+      - name: Peterstown
+        distance:
+          value: 0.44
+          units: km
+      - name: Oakvale
+        distance:
+          value: 16.32
+          units: km
+      - name: Greenville
+        distance:
+          value: 18.53
+          units: km
     - name: Philippi
       region: WV
       lat: '39.1488'
       long: "-80.0417"
+      closest_rate_centers:
+      - name: Philippi
+        distance:
+          value: 1.01
+          units: km
+      - name: Flemington
+        distance:
+          value: 14.45
+          units: km
+      - name: Belington
+        distance:
+          value: 16.85
+          units: km
     - name: Pickens
       region: WV
       lat: '38.6559'
       long: "-80.2160"
+      closest_rate_centers:
+      - name: Hacker Valley
+        distance:
+          value: 15.55
+          units: km
+      - name: Rock Cave
+        distance:
+          value: 22.36
+          units: km
+      - name: Mill Creek
+        distance:
+          value: 23.03
+          units: km
     - name: Piedmont
       region: WV
       lat: '39.4778'
       long: "-79.0466"
+      closest_rate_centers:
+      - name: Piedmont (Mineral)
+        distance:
+          value: 0.52
+          units: km
+      - name: Keyser
+        distance:
+          value: 7.18
+          units: km
+      - name: Elk Garden
+        distance:
+          value: 15.58
+          units: km
     - name: Pinch
       region: WV
       lat: '38.4062'
       long: "-81.4810"
+      closest_rate_centers:
+      - name: Charleston Zone 3
+        distance:
+          value: 2.07
+          units: km
+      - name: Clendenin
+        distance:
+          value: 14.15
+          units: km
+      - name: Dutch Ridge
+        distance:
+          value: 14.53
+          units: km
     - name: Pine Grove
       region: WV
       lat: '39.5642'
       long: "-80.6825"
+      closest_rate_centers:
+      - name: Pine Grove
+        distance:
+          value: 0.85
+          units: km
+      - name: Reader
+        distance:
+          value: 4.24
+          units: km
+      - name: Smithfield
+        distance:
+          value: 13.54
+          units: km
     - name: Pineville
       region: WV
       lat: '37.5846'
       long: "-81.5355"
+      closest_rate_centers:
+      - name: Pineville
+        distance:
+          value: 0.77
+          units: km
+      - name: Mullens
+        distance:
+          value: 13.68
+          units: km
+      - name: Oceana
+        distance:
+          value: 15.99
+          units: km
     - name: Piney View
       region: WV
       lat: '37.8350'
       long: "-81.1275"
+      closest_rate_centers:
+      - name: Mount Hope
+        distance:
+          value: 7.25
+          units: km
+      - name: Shady Spring
+        distance:
+          value: 8.55
+          units: km
+      - name: Beckley
+        distance:
+          value: 8.55
+          units: km
+      - name: Oak Hill
+        distance:
+          value: 15.51
+          units: km
     - name: Pleasant Valley
       region: WV
       lat: '39.4504'
       long: "-80.1552"
+      closest_rate_centers:
+      - name: Fairmont
+        distance:
+          value: 3.9
+          units: km
+      - name: Worthington
+        distance:
+          value: 8.92
+          units: km
+      - name: Rivesville
+        distance:
+          value: 10.83
+          units: km
     - name: Poca
       region: WV
       lat: '38.4748'
       long: "-81.8119"
+      closest_rate_centers:
+      - name: Charleston Zone 6
+        distance:
+          value: 6.23
+          units: km
+      - name: Winfield
+        distance:
+          value: 8.67
+          units: km
+      - name: Charleston Zone 5
+        distance:
+          value: 10.44
+          units: km
     - name: Point Pleasant
       region: WV
       lat: '38.8530'
       long: "-82.1303"
+      closest_rate_centers:
+      - name: Point Pleasant
+        distance:
+          value: 1.27
+          units: km
+      - name: Letart
+        distance:
+          value: 17.11
+          units: km
+      - name: Leon
+        distance:
+          value: 18.68
+          units: km
     - name: Powellton
       region: WV
       lat: '38.0941'
       long: "-81.3220"
+      closest_rate_centers:
+      - name: Alloy
+        distance:
+          value: 7.19
+          units: km
+      - name: Montgomery
+        distance:
+          value: 8.83
+          units: km
+      - name: Gauley Bridge
+        distance:
+          value: 14.03
+          units: km
     - name: Pratt
       region: WV
       lat: '38.2082'
       long: "-81.3869"
+      closest_rate_centers:
+      - name: East Bank
+        distance:
+          value: 4.95
+          units: km
+      - name: Montgomery
+        distance:
+          value: 6.49
+          units: km
+      - name: Charleston Zone 4
+        distance:
+          value: 13.7
+          units: km
     - name: Prichard
       region: WV
       lat: '38.2362'
       long: "-82.6028"
+      closest_rate_centers:
+      - name: Prichard
+        distance:
+          value: 0.87
+          units: km
+      - name: Fort Gay
+        distance:
+          value: 13.32
+          units: km
+      - name: Wayne
+        distance:
+          value: 14.14
+          units: km
     - name: Prince
       region: WV
       lat: '37.8593'
       long: "-81.0722"
+      closest_rate_centers:
+      - name: Mount Hope
+        distance:
+          value: 8.94
+          units: km
+      - name: Beckley
+        distance:
+          value: 13.86
+          units: km
+      - name: Shady Spring
+        distance:
+          value: 13.86
+          units: km
+      - name: Oak Hill
+        distance:
+          value: 14.15
+          units: km
     - name: Princeton
       region: WV
       lat: '37.3689'
       long: "-81.0961"
+      closest_rate_centers:
+      - name: Princeton
+        distance:
+          value: 0.8
+          units: km
+      - name: Athens
+        distance:
+          value: 9.43
+          units: km
+      - name: Bluewell
+        distance:
+          value: 11.71
+          units: km
     - name: Prosperity
       region: WV
       lat: '37.8385'
       long: "-81.1986"
+      closest_rate_centers:
+      - name: Mount Hope
+        distance:
+          value: 6.78
+          units: km
+      - name: Shady Spring
+        distance:
+          value: 7.07
+          units: km
+      - name: Beckley
+        distance:
+          value: 7.07
+          units: km
+      - name: Glen Daniel
+        distance:
+          value: 13.71
+          units: km
     - name: Pullman
       region: WV
       lat: '39.1880'
       long: "-80.9490"
+      closest_rate_centers:
+      - name: Harrisville
+        distance:
+          value: 8.62
+          units: km
+      - name: Pennsboro
+        distance:
+          value: 11.58
+          units: km
+      - name: Ellenboro
+        distance:
+          value: 12.03
+          units: km
     - name: Quinwood
       region: WV
       lat: '38.0586'
       long: "-80.7060"
+      closest_rate_centers:
+      - name: Rainelle
+        distance:
+          value: 10.96
+          units: km
+      - name: Rupert
+        distance:
+          value: 11.2
+          units: km
+      - name: Richwood
+        distance:
+          value: 24.53
+          units: km
     - name: Rachel
       region: WV
       lat: '39.5207'
       long: "-80.2997"
+      closest_rate_centers:
+      - name: Mannington
+        distance:
+          value: 3.9
+          units: km
+      - name: Farmington
+        distance:
+          value: 4.08
+          units: km
+      - name: Worthington
+        distance:
+          value: 8.61
+          units: km
     - name: Racine
       region: WV
       lat: '38.1398'
       long: "-81.6540"
+      closest_rate_centers:
+      - name: Seth
+        distance:
+          value: 4.32
+          units: km
+      - name: Brushton
+        distance:
+          value: 5.7
+          units: km
+      - name: Charleston Zone 4
+        distance:
+          value: 14.46
+          units: km
     - name: Rainelle
       region: WV
       lat: '37.9678'
       long: "-80.7718"
+      closest_rate_centers:
+      - name: Rainelle
+        distance:
+          value: 0.69
+          units: km
+      - name: Rupert
+        distance:
+          value: 6.84
+          units: km
+      - name: Meadow Bridge
+        distance:
+          value: 14.12
+          units: km
     - name: Raleigh
       region: WV
       lat: '37.7575'
       long: "-81.1699"
+      closest_rate_centers:
+      - name: Shady Spring
+        distance:
+          value: 2.6
+          units: km
+      - name: Beckley
+        distance:
+          value: 2.6
+          units: km
+      - name: Sophia
+        distance:
+          value: 8.89
+          units: km
+      - name: Mount Hope
+        distance:
+          value: 15.1
+          units: km
     - name: Rand
       region: WV
       lat: '38.2818'
       long: "-81.5653"
+      closest_rate_centers:
+      - name: Charleston Zone 4
+        distance:
+          value: 5.73
+          units: km
+      - name: Charleston Zone 1
+        distance:
+          value: 9.7
+          units: km
+      - name: East Bank
+        distance:
+          value: 13.38
+          units: km
     - name: Ranson
       region: WV
       lat: '39.3250'
       long: "-77.8667"
+      closest_rate_centers:
+      - name: Charles Town
+        distance:
+          value: 3.88
+          units: km
+      - name: Harpers Ferry
+        distance:
+          value: 10.52
+          units: km
+      - name: Shepherdstown
+        distance:
+          value: 13.16
+          units: km
     - name: Ravenswood
       region: WV
       lat: '38.9561'
       long: "-81.7619"
+      closest_rate_centers:
+      - name: Ravenswood
+        distance:
+          value: 1.7
+          units: km
+      - name: Ripley
+        distance:
+          value: 15.42
+          units: km
+      - name: Letart
+        distance:
+          value: 16.93
+          units: km
     - name: Raymond City
       region: WV
       lat: '38.4838'
       long: "-81.8195"
+      closest_rate_centers:
+      - name: Charleston Zone 6
+        distance:
+          value: 6.92
+          units: km
+      - name: Winfield
+        distance:
+          value: 7.54
+          units: km
+      - name: Scott Depot
+        distance:
+          value: 10.49
+          units: km
     - name: Raysal
       region: WV
       lat: '37.3367'
       long: "-81.7712"
+      closest_rate_centers:
+      - name: Bradshaw
+        distance:
+          value: 3.35
+          units: km
+      - name: War
+        distance:
+          value: 7.5
+          units: km
+      - name: Coalwood
+        distance:
+          value: 11.69
+          units: km
     - name: Reader
       region: WV
       lat: '39.5689'
       long: "-80.7316"
+      closest_rate_centers:
+      - name: Reader
+        distance:
+          value: 0.06
+          units: km
+      - name: Pine Grove
+        distance:
+          value: 4.85
+          units: km
+      - name: New Martinsville
+        distance:
+          value: 13.76
+          units: km
     - name: Red Jacket
       region: WV
       lat: '37.6488'
       long: "-82.1316"
+      closest_rate_centers:
+      - name: Matewan
+        distance:
+          value: 3.92
+          units: km
+      - name: Delbarton
+        distance:
+          value: 9.26
+          units: km
+      - name: Williamson
+        distance:
+          value: 12.82
+          units: km
     - name: Reedsville
       region: WV
       lat: '39.5103'
       long: "-79.8005"
+      closest_rate_centers:
+      - name: Reedsville
+        distance:
+          value: 1.54
+          units: km
+      - name: Kingwood
+        distance:
+          value: 9.91
+          units: km
+      - name: Newburg
+        distance:
+          value: 13.72
+          units: km
     - name: Reedy
       region: WV
       lat: '38.8996'
       long: "-81.4264"
+      closest_rate_centers:
+      - name: Spencer
+        distance:
+          value: 13.03
+          units: km
+      - name: Elizabeth
+        distance:
+          value: 17.99
+          units: km
+      - name: Rockport
+        distance:
+          value: 21.65
+          units: km
     - name: Reynoldsville
       region: WV
       lat: '39.2916'
       long: "-80.4412"
+      closest_rate_centers:
+      - name: Sardis
+        distance:
+          value: 5.73
+          units: km
+      - name: Clarksburg
+        distance:
+          value: 8.76
+          units: km
+      - name: West Milford
+        distance:
+          value: 9.71
+          units: km
     - name: Rhodell
       region: WV
       lat: '37.6094'
       long: "-81.3049"
+      closest_rate_centers:
+      - name: Helen
+        distance:
+          value: 2.67
+          units: km
+      - name: Mullens
+        distance:
+          value: 7.25
+          units: km
+      - name: Sophia
+        distance:
+          value: 11.98
+          units: km
     - name: Richwood
       region: WV
       lat: '38.2221'
       long: "-80.5363"
+      closest_rate_centers:
+      - name: Richwood
+        distance:
+          value: 1.29
+          units: km
+      - name: Craigsville
+        distance:
+          value: 15.11
+          units: km
+      - name: Cowen
+        distance:
+          value: 20.76
+          units: km
     - name: Ridgeley
       region: WV
       lat: '39.6432'
       long: "-78.7711"
+      closest_rate_centers:
+      - name: Ridgeley
+        distance:
+          value: 0.47
+          units: km
+      - name: Fort Ashby
+        distance:
+          value: 15.05
+          units: km
+      - name: Levels
+        distance:
+          value: 25.44
+          units: km
     - name: Ripley
       region: WV
       lat: '38.8201'
       long: "-81.7091"
+      closest_rate_centers:
+      - name: Ripley
+        distance:
+          value: 0.4
+          units: km
+      - name: Ravenswood
+        distance:
+          value: 14.16
+          units: km
+      - name: Letart
+        distance:
+          value: 21.4
+          units: km
     - name: Rivesville
       region: WV
       lat: '39.5319'
       long: "-80.1205"
+      closest_rate_centers:
+      - name: Rivesville
+        distance:
+          value: 1.3
+          units: km
+      - name: Fairmont
+        distance:
+          value: 5.64
+          units: km
+      - name: Farmington
+        distance:
+          value: 11.42
+          units: km
     - name: Robinette
       region: WV
       lat: '37.7856'
       long: "-81.7879"
+      closest_rate_centers:
+      - name: Man
+        distance:
+          value: 8.89
+          units: km
+      - name: Oceana
+        distance:
+          value: 15.89
+          units: km
+      - name: Wharton
+        distance:
+          value: 16.64
+          units: km
     - name: Rock Cave
       region: WV
       lat: '38.8404'
       long: "-80.3375"
+      closest_rate_centers:
+      - name: Rock Cave
+        distance:
+          value: 1.05
+          units: km
+      - name: Walkersville
+        distance:
+          value: 10.28
+          units: km
+      - name: Buckhannon
+        distance:
+          value: 19.4
+          units: km
     - name: Roderfield
       region: WV
       lat: '37.4501'
       long: "-81.7029"
+      closest_rate_centers:
+      - name: Davy
+        distance:
+          value: 4.93
+          units: km
+      - name: Coalwood
+        distance:
+          value: 8.85
+          units: km
+      - name: Iaeger
+        distance:
+          value: 10.1
+          units: km
     - name: Romney
       region: WV
       lat: '39.3454'
       long: "-78.7564"
+      closest_rate_centers:
+      - name: Romney
+        distance:
+          value: 0.71
+          units: km
+      - name: Augusta
+        distance:
+          value: 11.5
+          units: km
+      - name: Burlington
+        distance:
+          value: 13.8
+          units: km
     - name: Ronceverte
       region: WV
       lat: '37.7503'
       long: "-80.4715"
+      closest_rate_centers:
+      - name: Lewisburg
+        distance:
+          value: 4.04
+          units: km
+      - name: Alderson
+        distance:
+          value: 15.14
+          units: km
+      - name: White Sulphur Springs
+        distance:
+          value: 15.89
+          units: km
     - name: Rossmore
       region: WV
       lat: '37.8050'
       long: "-81.9923"
+      closest_rate_centers:
+      - name: Logan
+        distance:
+          value: 4.86
+          units: km
+      - name: Man
+        distance:
+          value: 12.41
+          units: km
+      - name: Chapmanville
+        distance:
+          value: 18.85
+          units: km
     - name: Rowlesburg
       region: WV
       lat: '39.3483'
       long: "-79.6764"
+      closest_rate_centers:
+      - name: Rowlesburg
+        distance:
+          value: 0.79
+          units: km
+      - name: Tunnelton
+        distance:
+          value: 7.53
+          units: km
+      - name: Kingwood
+        distance:
+          value: 14.09
+          units: km
     - name: Rupert
       region: WV
       lat: '37.9649'
       long: "-80.6870"
+      closest_rate_centers:
+      - name: Rupert
+        distance:
+          value: 1.0
+          units: km
+      - name: Rainelle
+        distance:
+          value: 6.98
+          units: km
+      - name: Meadow Bridge
+        distance:
+          value: 18.89
+          units: km
     - name: Salem
       region: WV
       lat: '39.2849'
       long: "-80.5645"
+      closest_rate_centers:
+      - name: Salem
+        distance:
+          value: 1.03
+          units: km
+      - name: Sardis
+        distance:
+          value: 13.49
+          units: km
+      - name: Wallace
+        distance:
+          value: 14.94
+          units: km
     - name: Salt Rock
       region: WV
       lat: '38.3243'
       long: "-82.2172"
+      closest_rate_centers:
+      - name: Hamlin
+        distance:
+          value: 10.79
+          units: km
+      - name: Huntington Zone 2
+        distance:
+          value: 11.57
+          units: km
+      - name: Branchland
+        distance:
+          value: 12.05
+          units: km
     - name: Sand Fork
       region: WV
       lat: '38.9154'
       long: "-80.7477"
+      closest_rate_centers:
+      - name: Glenville
+        distance:
+          value: 7.81
+          units: km
+      - name: Burnsville
+        distance:
+          value: 9.79
+          units: km
+      - name: Lawford
+        distance:
+          value: 23.16
+          units: km
     - name: Sarah Ann
       region: WV
       lat: '37.7086'
       long: "-81.9880"
+      closest_rate_centers:
+      - name: Man
+        distance:
+          value: 10.75
+          units: km
+      - name: Gilbert
+        distance:
+          value: 15.02
+          units: km
+      - name: Logan
+        distance:
+          value: 15.58
+          units: km
     - name: Scarbro
       region: WV
       lat: '37.9503'
       long: "-81.1665"
+      closest_rate_centers:
+      - name: Oak Hill
+        distance:
+          value: 3.41
+          units: km
+      - name: Mount Hope
+        distance:
+          value: 6.35
+          units: km
+      - name: Fayetteville
+        distance:
+          value: 13.18
+          units: km
     - name: Shady Spring
       region: WV
       lat: '37.7032'
       long: "-81.0914"
+      closest_rate_centers:
+      - name: Flat Top
+        distance:
+          value: 10.03
+          units: km
+      - name: Shady Spring
+        distance:
+          value: 11.75
+          units: km
+      - name: Beckley
+        distance:
+          value: 11.75
+          units: km
+      - name: Sophia
+        distance:
+          value: 13.87
+          units: km
     - name: Shannondale
       region: WV
       lat: '39.2123'
       long: "-77.8105"
+      closest_rate_centers:
+      - name: Charles Town
+        distance:
+          value: 9.68
+          units: km
+      - name: Harpers Ferry
+        distance:
+          value: 13.65
+          units: km
+      - name: Shepherdstown
+        distance:
+          value: 24.6
+          units: km
     - name: Shenandoah Junction
       region: WV
       lat: '39.3530'
       long: "-77.8375"
+      closest_rate_centers:
+      - name: Charles Town
+        distance:
+          value: 7.21
+          units: km
+      - name: Harpers Ferry
+        distance:
+          value: 8.64
+          units: km
+      - name: Shepherdstown
+        distance:
+          value: 9.36
+          units: km
     - name: Shepherdstown
       region: WV
       lat: '39.4320'
       long: "-77.8046"
+      closest_rate_centers:
+      - name: Shepherdstown
+        distance:
+          value: 0.17
+          units: km
+      - name: Harpers Ferry
+        distance:
+          value: 13.09
+          units: km
+      - name: Martinsburg
+        distance:
+          value: 14.48
+          units: km
     - name: Shinnston
       region: WV
       lat: '39.3923'
       long: "-80.2989"
+      closest_rate_centers:
+      - name: Shinnston
+        distance:
+          value: 1.68
+          units: km
+      - name: Lumberport
+        distance:
+          value: 4.77
+          units: km
+      - name: Worthington
+        distance:
+          value: 7.26
+          units: km
     - name: Shrewsbury
       region: WV
       lat: '38.2079'
       long: "-81.4671"
+      closest_rate_centers:
+      - name: East Bank
+        distance:
+          value: 2.06
+          units: km
+      - name: Charleston Zone 4
+        distance:
+          value: 7.02
+          units: km
+      - name: Montgomery
+        distance:
+          value: 12.8
+          units: km
     - name: Sissonville
       region: WV
       lat: '38.5042'
       long: "-81.6398"
+      closest_rate_centers:
+      - name: Charleston Zone 2
+        distance:
+          value: 2.2
+          units: km
+      - name: Charleston Zone 3
+        distance:
+          value: 16.03
+          units: km
+      - name: Charleston Zone 1
+        distance:
+          value: 17.13
+          units: km
     - name: Sistersville
       region: WV
       lat: '39.5597'
       long: "-80.9988"
+      closest_rate_centers:
+      - name: Sistersville
+        distance:
+          value: 0.59
+          units: km
+      - name: Paden City
+        distance:
+          value: 6.61
+          units: km
+      - name: Middlebourne
+        distance:
+          value: 10.93
+          units: km
     - name: Smithers
       region: WV
       lat: '38.1685'
       long: "-81.2991"
+      closest_rate_centers:
+      - name: Montgomery
+        distance:
+          value: 2.53
+          units: km
+      - name: Alloy
+        distance:
+          value: 6.55
+          units: km
+      - name: Gauley Bridge
+        distance:
+          value: 9.58
+          units: km
     - name: Smithfield
       region: WV
       lat: '39.5010'
       long: "-80.5549"
+      closest_rate_centers:
+      - name: Smithfield
+        distance:
+          value: 0.95
+          units: km
+      - name: Wallace
+        distance:
+          value: 11.78
+          units: km
+      - name: Pine Grove
+        distance:
+          value: 12.23
+          units: km
     - name: Sophia
       region: WV
       lat: '37.7117'
       long: "-81.2525"
+      closest_rate_centers:
+      - name: Sophia
+        distance:
+          value: 0.55
+          units: km
+      - name: Shady Spring
+        distance:
+          value: 9.02
+          units: km
+      - name: Beckley
+        distance:
+          value: 9.02
+          units: km
+      - name: Helen
+        distance:
+          value: 10.42
+          units: km
     - name: South Charleston
       region: WV
       lat: '38.3426'
       long: "-81.7155"
+      closest_rate_centers:
+      - name: Charleston Zone 1
+        distance:
+          value: 7.13
+          units: km
+      - name: Charleston Zone 7
+        distance:
+          value: 11.13
+          units: km
+      - name: Charleston Zone 5
+        distance:
+          value: 11.35
+          units: km
     - name: Spelter
       region: WV
       lat: '39.3432'
       long: "-80.3163"
+      closest_rate_centers:
+      - name: Lumberport
+        distance:
+          value: 4.53
+          units: km
+      - name: Shinnston
+        distance:
+          value: 7.14
+          units: km
+      - name: Clarksburg
+        distance:
+          value: 8.11
+          units: km
     - name: Spencer
       region: WV
       lat: '38.8024'
       long: "-81.3531"
+      closest_rate_centers:
+      - name: Spencer
+        distance:
+          value: 0.58
+          units: km
+      - name: Walton
+        distance:
+          value: 18.4
+          units: km
+      - name: Arnoldsburg
+        distance:
+          value: 19.68
+          units: km
     - name: Sprague
       region: WV
       lat: '37.7938'
       long: "-81.1822"
+      closest_rate_centers:
+      - name: Shady Spring
+        distance:
+          value: 2.13
+          units: km
+      - name: Beckley
+        distance:
+          value: 2.13
+          units: km
+      - name: Mount Hope
+        distance:
+          value: 11.16
+          units: km
+      - name: Sophia
+        distance:
+          value: 11.23
+          units: km
     - name: Springfield
       region: WV
       lat: '39.4450'
       long: "-78.6976"
+      closest_rate_centers:
+      - name: Fort Ashby
+        distance:
+          value: 9.82
+          units: km
+      - name: Romney
+        distance:
+          value: 12.53
+          units: km
+      - name: Levels
+        distance:
+          value: 13.58
+          units: km
     - name: St. Albans
       region: WV
       lat: '38.3769'
       long: "-81.8198"
+      closest_rate_centers:
+      - name: Charleston Zone 5
+        distance:
+          value: 1.49
+          units: km
+      - name: Charleston Zone 6
+        distance:
+          value: 5.69
+          units: km
+      - name: Charleston Zone 7
+        distance:
+          value: 10.5
+          units: km
     - name: St. George
       region: WV
       lat: '39.1662'
       long: "-79.6987"
+      closest_rate_centers:
+      - name: Parsons
+        distance:
+          value: 8.37
+          units: km
+      - name: Thomas
+        distance:
+          value: 17.87
+          units: km
+      - name: Rowlesburg
+        distance:
+          value: 19.7
+          units: km
     - name: St. Marys
       region: WV
       lat: '39.4023'
       long: "-81.1951"
+      closest_rate_centers:
+      - name: St Marys
+        distance:
+          value: 1.49
+          units: km
+      - name: Belmont
+        distance:
+          value: 6.38
+          units: km
+      - name: Valley Mills
+        distance:
+          value: 19.1
+          units: km
     - name: Stanaford
       region: WV
       lat: '37.8156'
       long: "-81.1491"
+      closest_rate_centers:
+      - name: Shady Spring
+        distance:
+          value: 5.68
+          units: km
+      - name: Beckley
+        distance:
+          value: 5.68
+          units: km
+      - name: Mount Hope
+        distance:
+          value: 8.74
+          units: km
+      - name: Sophia
+        distance:
+          value: 14.87
+          units: km
     - name: Star City
       region: WV
       lat: '39.6587'
       long: "-79.9868"
+      closest_rate_centers:
+      - name: Morgantown
+        distance:
+          value: 3.79
+          units: km
+      - name: Laurel Point
+        distance:
+          value: 5.65
+          units: km
+      - name: Mount Morris
+        distance:
+          value: 8.82
+          units: km
     - name: Stollings
       region: WV
       lat: '37.8409'
       long: "-81.9625"
+      closest_rate_centers:
+      - name: Logan
+        distance:
+          value: 2.59
+          units: km
+      - name: Man
+        distance:
+          value: 13.29
+          units: km
+      - name: Chapmanville
+        distance:
+          value: 15.61
+          units: km
     - name: Stonewood
       region: WV
       lat: '39.2502'
       long: "-80.3054"
+      closest_rate_centers:
+      - name: Clarksburg
+        distance:
+          value: 4.07
+          units: km
+      - name: Bridgeport
+        distance:
+          value: 5.9
+          units: km
+      - name: West Milford
+        distance:
+          value: 9.42
+          units: km
     - name: Summersville
       region: WV
       lat: '38.2864'
       long: "-80.8409"
+      closest_rate_centers:
+      - name: Summersville
+        distance:
+          value: 1.59
+          units: km
+      - name: Craigsville
+        distance:
+          value: 17.39
+          units: km
+      - name: Widen
+        distance:
+          value: 19.07
+          units: km
     - name: Sutton
       region: WV
       lat: '38.6663'
       long: "-80.7116"
+      closest_rate_centers:
+      - name: Sutton
+        distance:
+          value: 0.43
+          units: km
+      - name: Gassaway
+        distance:
+          value: 5.54
+          units: km
+      - name: Birch River
+        distance:
+          value: 18.67
+          units: km
     - name: Switzer
       region: WV
       lat: '37.7879'
       long: "-81.9865"
+      closest_rate_centers:
+      - name: Logan
+        distance:
+          value: 6.77
+          units: km
+      - name: Man
+        distance:
+          value: 11.02
+          units: km
+      - name: Delbarton
+        distance:
+          value: 19.95
+          units: km
     - name: Sylvester
       region: WV
       lat: '38.0080'
       long: "-81.5623"
+      closest_rate_centers:
+      - name: Whitesville
+        distance:
+          value: 3.16
+          units: km
+      - name: Seth
+        distance:
+          value: 12.43
+          units: km
+      - name: Van
+        distance:
+          value: 13.98
+          units: km
     - name: Teays Valley
       region: WV
       lat: '38.4482'
       long: "-81.9246"
+      closest_rate_centers:
+      - name: Scott Depot
+        distance:
+          value: 0.77
+          units: km
+      - name: Charleston Zone 6
+        distance:
+          value: 7.52
+          units: km
+      - name: Winfield
+        distance:
+          value: 8.79
+          units: km
     - name: Terra Alta
       region: WV
       lat: '39.4442'
       long: "-79.5435"
+      closest_rate_centers:
+      - name: Terra Alta
+        distance:
+          value: 0.58
+          units: km
+      - name: Kingwood
+        distance:
+          value: 13.42
+          units: km
+      - name: Rowlesburg
+        distance:
+          value: 15.82
+          units: km
     - name: Thomas
       region: WV
       lat: '39.1458'
       long: "-79.4958"
+      closest_rate_centers:
+      - name: Thomas
+        distance:
+          value: 0.39
+          units: km
+      - name: Davis
+        distance:
+          value: 2.9
+          units: km
+      - name: Canaan Valley
+        distance:
+          value: 14.81
+          units: km
     - name: Thurmond
       region: WV
       lat: '37.9610'
       long: "-81.0796"
+      closest_rate_centers:
+      - name: Oak Hill
+        distance:
+          value: 5.65
+          units: km
+      - name: Mount Hope
+        distance:
+          value: 10.6
+          units: km
+      - name: Fayetteville
+        distance:
+          value: 10.96
+          units: km
     - name: Tioga
       region: WV
       lat: '38.4220'
       long: "-80.6548"
+      closest_rate_centers:
+      - name: Cowen
+        distance:
+          value: 8.3
+          units: km
+      - name: Craigsville
+        distance:
+          value: 10.7
+          units: km
+      - name: Birch River
+        distance:
+          value: 12.03
+          units: km
     - name: Tornado
       region: WV
       lat: '38.3369'
       long: "-81.8550"
+      closest_rate_centers:
+      - name: Charleston Zone 5
+        distance:
+          value: 5.38
+          units: km
+      - name: Charleston Zone 7
+        distance:
+          value: 6.87
+          units: km
+      - name: Charleston Zone 6
+        distance:
+          value: 9.8
+          units: km
     - name: Triadelphia
       region: WV
       lat: '40.0483'
       long: "-80.6230"
+      closest_rate_centers:
+      - name: Wheeling Zone 3
+        distance:
+          value: 1.19
+          units: km
+      - name: Wheeling Zone 1
+        distance:
+          value: 8.49
+          units: km
+      - name: Wheeling Zone 2
+        distance:
+          value: 13.14
+          units: km
     - name: Tunnelton
       region: WV
       lat: '39.3929'
       long: "-79.7466"
+      closest_rate_centers:
+      - name: Tunnelton
+        distance:
+          value: 0.45
+          units: km
+      - name: Rowlesburg
+        distance:
+          value: 8.56
+          units: km
+      - name: Newburg
+        distance:
+          value: 8.75
+          units: km
     - name: Twilight
       region: WV
       lat: '37.9252'
       long: "-81.6176"
+      closest_rate_centers:
+      - name: Wharton
+        distance:
+          value: 5.43
+          units: km
+      - name: Whitesville
+        distance:
+          value: 9.01
+          units: km
+      - name: Van
+        distance:
+          value: 10.21
+          units: km
     - name: Union
       region: WV
       lat: '37.5905'
       long: "-80.5419"
+      closest_rate_centers:
+      - name: Union
+        distance:
+          value: 0.34
+          units: km
+      - name: Greenville
+        distance:
+          value: 13.73
+          units: km
+      - name: Alderson
+        distance:
+          value: 17.3
+          units: km
     - name: Valley Bend
       region: WV
       lat: '38.7694'
       long: "-79.9280"
+      closest_rate_centers:
+      - name: Mill Creek
+        distance:
+          value: 5.46
+          units: km
+      - name: Elkins
+        distance:
+          value: 18.45
+          units: km
+      - name: Belington
+        distance:
+          value: 28.32
+          units: km
     - name: Valley Grove
       region: WV
       lat: '40.0901'
       long: "-80.5691"
+      closest_rate_centers:
+      - name: Wheeling Zone 3
+        distance:
+          value: 7.29
+          units: km
+      - name: Wheeling Zone 2
+        distance:
+          value: 8.43
+          units: km
+      - name: Bethany
+        distance:
+          value: 13.24
+          units: km
     - name: Valley Head
       region: WV
       lat: '38.5472'
       long: "-80.0320"
+      closest_rate_centers:
+      - name: Snowshoe
+        distance:
+          value: 12.77
+          units: km
+      - name: Mill Creek
+        distance:
+          value: 21.29
+          units: km
+      - name: Arbovale
+        distance:
+          value: 22.5
+          units: km
     - name: Van
       region: WV
       lat: '37.9712'
       long: "-81.7138"
+      closest_rate_centers:
+      - name: Van
+        distance:
+          value: 0.39
+          units: km
+      - name: Wharton
+        distance:
+          value: 8.11
+          units: km
+      - name: Madison
+        distance:
+          value: 13.99
+          units: km
     - name: Verdunville
       region: WV
       lat: '37.8532'
       long: "-82.0603"
+      closest_rate_centers:
+      - name: Logan
+        distance:
+          value: 6.16
+          units: km
+      - name: Chapmanville
+        distance:
+          value: 13.66
+          units: km
+      - name: Delbarton
+        distance:
+          value: 19.29
+          units: km
     - name: Vienna
       region: WV
       lat: '39.3240'
       long: "-81.5383"
+      closest_rate_centers:
+      - name: Parkersburg Zone 1
+        distance:
+          value: 6.8
+          units: km
+      - name: Williamstown
+        distance:
+          value: 10.03
+          units: km
+      - name: Valley Mills
+        distance:
+          value: 12.04
+          units: km
     - name: Vivian
       region: WV
       lat: '37.4172'
       long: "-81.4923"
+      closest_rate_centers:
+      - name: Kimball
+        distance:
+          value: 1.29
+          units: km
+      - name: Northfork
+        distance:
+          value: 5.72
+          units: km
+      - name: Gary
+        distance:
+          value: 7.8
+          units: km
     - name: Wallace
       region: WV
       lat: '39.4072'
       long: "-80.4911"
+      closest_rate_centers:
+      - name: Wallace
+        distance:
+          value: 0.07
+          units: km
+      - name: Joetown
+        distance:
+          value: 9.13
+          units: km
+      - name: Sardis
+        distance:
+          value: 9.17
+          units: km
     - name: War
       region: WV
       lat: '37.3040'
       long: "-81.6802"
+      closest_rate_centers:
+      - name: War
+        distance:
+          value: 1.34
+          units: km
+      - name: Coalwood
+        distance:
+          value: 9.0
+          units: km
+      - name: Bradshaw
+        distance:
+          value: 12.06
+          units: km
     - name: Wardensville
       region: WV
       lat: '39.0768'
       long: "-78.5930"
+      closest_rate_centers:
+      - name: Wardensville
+        distance:
+          value: 0.39
+          units: km
+      - name: Lost River
+        distance:
+          value: 17.75
+          units: km
+      - name: Augusta
+        distance:
+          value: 25.32
+          units: km
     - name: Washington
       region: WV
       lat: '39.2422'
       long: "-81.6679"
+      closest_rate_centers:
+      - name: Parkersburg Zone 3
+        distance:
+          value: 3.42
+          units: km
+      - name: Parkersburg Zone 1
+        distance:
+          value: 9.73
+          units: km
+      - name: Mineralwells
+        distance:
+          value: 14.33
+          units: km
     - name: Waverly
       region: WV
       lat: '39.3328'
       long: "-81.3813"
+      closest_rate_centers:
+      - name: Valley Mills
+        distance:
+          value: 1.52
+          units: km
+      - name: Williamstown
+        distance:
+          value: 9.18
+          units: km
+      - name: Parkersburg Zone 2
+        distance:
+          value: 9.62
+          units: km
     - name: Wayne
       region: WV
       lat: '38.2301'
       long: "-82.4415"
+      closest_rate_centers:
+      - name: Wayne
+        distance:
+          value: 0.38
+          units: km
+      - name: East Lynn
+        distance:
+          value: 9.02
+          units: km
+      - name: Prichard
+        distance:
+          value: 13.4
+          units: km
     - name: Weirton
       region: WV
       lat: '40.4060'
       long: "-80.5671"
+      closest_rate_centers:
+      - name: Weirton
+        distance:
+          value: 2.02
+          units: km
+      - name: Follansbee
+        distance:
+          value: 8.72
+          units: km
+      - name: New Cumberland
+        distance:
+          value: 9.9
+          units: km
     - name: Welch
       region: WV
       lat: '37.4455'
       long: "-81.5721"
+      closest_rate_centers:
+      - name: Welch
+        distance:
+          value: 1.42
+          units: km
+      - name: Kimball
+        distance:
+          value: 6.45
+          units: km
+      - name: Davy
+        distance:
+          value: 8.47
+          units: km
     - name: Wellsburg
       region: WV
       lat: '40.2810'
       long: "-80.6102"
+      closest_rate_centers:
+      - name: Wellsburg
+        distance:
+          value: 0.82
+          units: km
+      - name: Follansbee
+        distance:
+          value: 5.71
+          units: km
+      - name: Beech Bottom
+        distance:
+          value: 7.09
+          units: km
     - name: West Dunbar
       region: WV
       lat: '38.3725'
       long: "-81.7558"
+      closest_rate_centers:
+      - name: Charleston Zone 5
+        distance:
+          value: 7.02
+          units: km
+      - name: Charleston Zone 6
+        distance:
+          value: 9.6
+          units: km
+      - name: Charleston Zone 1
+        distance:
+          value: 10.88
+          units: km
     - name: West Hamlin
       region: WV
       lat: '38.2802'
       long: "-82.1940"
+      closest_rate_centers:
+      - name: Branchland
+        distance:
+          value: 7.01
+          units: km
+      - name: Hamlin
+        distance:
+          value: 7.44
+          units: km
+      - name: Huntington Zone 2
+        distance:
+          value: 16.79
+          units: km
     - name: West Liberty
       region: WV
       lat: '40.1648'
       long: "-80.5972"
+      closest_rate_centers:
+      - name: Wheeling Zone 2
+        distance:
+          value: 0.5
+          units: km
+      - name: Bethany
+        distance:
+          value: 5.8
+          units: km
+      - name: Beech Bottom
+        distance:
+          value: 7.87
+          units: km
     - name: West Logan
       region: WV
       lat: '37.8679'
       long: "-81.9907"
+      closest_rate_centers:
+      - name: Logan
+        distance:
+          value: 2.14
+          units: km
+      - name: Chapmanville
+        distance:
+          value: 12.01
+          units: km
+      - name: Man
+        distance:
+          value: 17.18
+          units: km
     - name: West Milford
       region: WV
       lat: '39.2045'
       long: "-80.4034"
+      closest_rate_centers:
+      - name: West Milford
+        distance:
+          value: 0.62
+          units: km
+      - name: Clarksburg
+        distance:
+          value: 9.27
+          units: km
+      - name: Jane Lew
+        distance:
+          value: 10.6
+          units: km
     - name: West Union
       region: WV
       lat: '39.2963'
       long: "-80.7751"
+      closest_rate_centers:
+      - name: West Union
+        distance:
+          value: 0.57
+          units: km
+      - name: Pennsboro
+        distance:
+          value: 16.37
+          units: km
+      - name: Salem
+        distance:
+          value: 18.69
+          units: km
     - name: Weston
       region: WV
       lat: '39.0391'
       long: "-80.4616"
+      closest_rate_centers:
+      - name: Weston
+        distance:
+          value: 0.5
+          units: km
+      - name: Jane Lew
+        distance:
+          value: 9.1
+          units: km
+      - name: Walkersville
+        distance:
+          value: 18.91
+          units: km
     - name: Westover
       region: WV
       lat: '39.6329'
       long: "-79.9882"
+      closest_rate_centers:
+      - name: Morgantown
+        distance:
+          value: 2.61
+          units: km
+      - name: Laurel Point
+        distance:
+          value: 3.68
+          units: km
+      - name: Cheat Lake
+        distance:
+          value: 10.14
+          units: km
     - name: Wheeling
       region: WV
       lat: '40.0752'
       long: "-80.6951"
+      closest_rate_centers:
+      - name: Wheeling Zone 1
+        distance:
+          value: 2.92
+          units: km
+      - name: Wheeling Zone 3
+        distance:
+          value: 5.7
+          units: km
+      - name: Wheeling Zone 2
+        distance:
+          value: 13.23
+          units: km
     - name: White Hall
       region: WV
       lat: '39.4240'
       long: "-80.1889"
+      closest_rate_centers:
+      - name: Worthington
+        distance:
+          value: 6.69
+          units: km
+      - name: Fairmont
+        distance:
+          value: 7.84
+          units: km
+      - name: Shinnston
+        distance:
+          value: 8.55
+          units: km
     - name: White Sulphur Springs
       region: WV
       lat: '37.7981'
       long: "-80.3005"
+      closest_rate_centers:
+      - name: White Sulphur Springs
+        distance:
+          value: 0.67
+          units: km
+      - name: Lewisburg
+        distance:
+          value: 13.75
+          units: km
+      - name: Frankford
+        distance:
+          value: 16.25
+          units: km
     - name: Whitesville
       region: WV
       lat: '37.9823'
       long: "-81.5367"
+      closest_rate_centers:
+      - name: Whitesville
+        distance:
+          value: 0.77
+          units: km
+      - name: Wharton
+        distance:
+          value: 14.78
+          units: km
+      - name: Van
+        distance:
+          value: 15.74
+          units: km
     - name: Whitmer
       region: WV
       lat: '38.8149'
       long: "-79.5451"
+      closest_rate_centers:
+      - name: Riverton
+        distance:
+          value: 11.84
+          units: km
+      - name: Harman
+        distance:
+          value: 12.11
+          units: km
+      - name: Canaan Valley
+        distance:
+          value: 23.91
+          units: km
     - name: Wiley Ford
       region: WV
       lat: '39.6151'
       long: "-78.7615"
+      closest_rate_centers:
+      - name: Ridgeley
+        distance:
+          value: 3.36
+          units: km
+      - name: Fort Ashby
+        distance:
+          value: 12.0
+          units: km
+      - name: Levels
+        distance:
+          value: 22.81
+          units: km
     - name: Williamson
       region: WV
       lat: '37.6741'
       long: "-82.2709"
+      closest_rate_centers:
+      - name: Williamson
+        distance:
+          value: 0.27
+          units: km
+      - name: Delbarton
+        distance:
+          value: 8.19
+          units: km
+      - name: Matewan
+        distance:
+          value: 10.52
+          units: km
     - name: Williamstown
       region: WV
       lat: '39.3987'
       long: "-81.4549"
+      closest_rate_centers:
+      - name: Williamstown
+        distance:
+          value: 1.04
+          units: km
+      - name: Valley Mills
+        distance:
+          value: 8.66
+          units: km
+      - name: Belmont
+        distance:
+          value: 16.89
+          units: km
     - name: Windsor Heights
       region: WV
       lat: '40.1913'
       long: "-80.6649"
+      closest_rate_centers:
+      - name: Beech Bottom
+        distance:
+          value: 3.93
+          units: km
+      - name: Wheeling Zone 2
+        distance:
+          value: 6.94
+          units: km
+      - name: Bethany
+        distance:
+          value: 9.05
+          units: km
     - name: Winfield
       region: WV
       lat: '38.5292'
       long: "-81.8857"
+      closest_rate_centers:
+      - name: Winfield
+        distance:
+          value: 0.84
+          units: km
+      - name: Scott Depot
+        distance:
+          value: 9.58
+          units: km
+      - name: Buffalo
+        distance:
+          value: 11.66
+          units: km
     - name: Wolf Summit
       region: WV
       lat: '39.2822'
       long: "-80.4620"
+      closest_rate_centers:
+      - name: Sardis
+        distance:
+          value: 7.31
+          units: km
+      - name: Salem
+        distance:
+          value: 8.34
+          units: km
+      - name: West Milford
+        distance:
+          value: 9.58
+          units: km
     - name: Womelsdorf
       region: WV
       lat: '38.8980'
       long: "-79.9637"
+      closest_rate_centers:
+      - name: Elkins
+        distance:
+          value: 10.09
+          units: km
+      - name: Belington
+        distance:
+          value: 14.31
+          units: km
+      - name: Mill Creek
+        distance:
+          value: 18.43
+          units: km
     - name: Worthington
       region: WV
       lat: '39.4568'
       long: "-80.2635"
+      closest_rate_centers:
+      - name: Worthington
+        distance:
+          value: 0.85
+          units: km
+      - name: Shinnston
+        distance:
+          value: 6.3
+          units: km
+      - name: Farmington
+        distance:
+          value: 6.81
+          units: km

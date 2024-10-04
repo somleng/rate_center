@@ -1,7 +1,7 @@
 ---
 rate_centers:
-  us:
-    sc:
+  US:
+    SC:
     - region: SC
       exchange: '176180'
       name: Abbeville
@@ -10,6 +10,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - SC
       lat: '34.181799'
       long: "-82.382616"
+      closest_city:
+        name: Abbeville
+        distance:
+          value: 0.59
+          units: km
     - region: SC
       exchange: '322715'
       name: Adams Run
@@ -42,6 +47,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '33.55798'
       long: "-81.717097"
+      closest_city:
+        name: Aiken
+        distance:
+          value: 3.21
+          units: km
     - region: SC
       exchange: '322557'
       name: Alcolu
@@ -58,6 +68,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '33.008866'
       long: "-81.304918"
+      closest_city:
+        name: Allendale
+        distance:
+          value: 0.41
+          units: km
     - region: SC
       exchange: '322716'
       name: Alvin
@@ -74,6 +89,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.501738'
       long: "-82.650872"
+      closest_city:
+        name: Anderson
+        distance:
+          value: 2.17
+          units: km
     - region: SC
       exchange: '176220'
       name: Andrews
@@ -82,6 +102,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - SC
       lat: '33.447965'
       long: "-79.549311"
+      closest_city:
+        name: Andrews
+        distance:
+          value: 1.56
+          units: km
     - region: SC
       exchange: '176230'
       name: Antioch
@@ -90,6 +115,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.159701'
       long: "-81.441426"
+      closest_city:
+        name: Blacksburg
+        distance:
+          value: 8.14
+          units: km
     - region: SC
       exchange: '322321'
       name: Antreville
@@ -146,6 +176,11 @@ rate_centers:
       ilec_name: MCCLELLANVILLE TEL. CO., INC.
       lat: '32.988157'
       long: "-79.642623"
+      closest_city:
+        name: Awendaw
+        distance:
+          value: 2.87
+          units: km
     - region: SC
       exchange: '176250'
       name: Aynor
@@ -154,6 +189,11 @@ rate_centers:
       ilec_name: HORRY TEL. COOP., INC.
       lat: '33.999812'
       long: "-79.199747"
+      closest_city:
+        name: Aynor
+        distance:
+          value: 0.68
+          units: km
     - region: SC
       exchange: '322560'
       name: Ballentine
@@ -170,6 +210,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '33.300323'
       long: "-81.036269"
+      closest_city:
+        name: Bamberg
+        distance:
+          value: 0.38
+          units: km
     - region: SC
       exchange: '176270'
       name: Barnwell
@@ -178,6 +223,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '33.241885'
       long: "-81.361038"
+      closest_city:
+        name: Barnwell
+        distance:
+          value: 0.45
+          units: km
     - region: SC
       exchange: '176280'
       name: Batesburg
@@ -186,6 +236,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '33.907098'
       long: "-81.548464"
+      closest_city:
+        name: Batesburg-Leesville
+        distance:
+          value: 1.7
+          units: km
     - region: SC
       exchange: '322578'
       name: Batesburg-Leesville
@@ -210,6 +265,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '33.498698'
       long: "-81.875086"
+      closest_city:
+        name: Burnettown
+        distance:
+          value: 2.46
+          units: km
     - region: SC
       exchange: '176300'
       name: Beaufort
@@ -218,6 +278,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE CO CAROLINAS DBA CENTURYLINK
       lat: '32.434478'
       long: "-80.666355"
+      closest_city:
+        name: Beaufort
+        distance:
+          value: 6.05
+          units: km
     - region: SC
       exchange: '176310'
       name: Beech Island
@@ -226,6 +291,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '33.425391'
       long: "-81.889069"
+      closest_city:
+        name: Beech Island
+        distance:
+          value: 0.4
+          units: km
     - region: SC
       exchange: '176320'
       name: Belton
@@ -234,6 +304,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.524934'
       long: "-82.492037"
+      closest_city:
+        name: Belton
+        distance:
+          value: 0.21
+          units: km
     - region: SC
       exchange: '323480'
       name: Belvedere
@@ -250,6 +325,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.609264'
       long: "-79.69167"
+      closest_city:
+        name: Bennettsville
+        distance:
+          value: 2.37
+          units: km
     - region: SC
       exchange: '176340'
       name: Bethune
@@ -258,6 +338,11 @@ rate_centers:
       ilec_name: SANDHILL TEL. COOP., INC.
       lat: '34.417758'
       long: "-80.350682"
+      closest_city:
+        name: Bethune
+        distance:
+          value: 0.43
+          units: km
     - region: SC
       exchange: '176350'
       name: Bishopville
@@ -266,6 +351,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - SC
       lat: '34.217373'
       long: "-80.246548"
+      closest_city:
+        name: Bishopville
+        distance:
+          value: 0.35
+          units: km
     - region: SC
       exchange: '176360'
       name: Bishopville Rural
@@ -274,6 +364,11 @@ rate_centers:
       ilec_name: FARMERS TEL. COOP., INC.
       lat: '34.208177'
       long: "-80.260022"
+      closest_city:
+        name: Bishopville
+        distance:
+          value: 1.72
+          units: km
     - region: SC
       exchange: '176370'
       name: Blacksburg
@@ -282,6 +377,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.128031'
       long: "-81.517515"
+      closest_city:
+        name: Blacksburg
+        distance:
+          value: 0.67
+          units: km
     - region: SC
       exchange: '322566'
       name: Blackstock
@@ -298,6 +398,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '33.358534'
       long: "-81.263857"
+      closest_city:
+        name: Blackville
+        distance:
+          value: 1.86
+          units: km
     - region: SC
       exchange: '322568'
       name: Blair
@@ -314,6 +419,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.516957'
       long: "-79.650558"
+      closest_city:
+        name: Blenheim
+        distance:
+          value: 0.82
+          units: km
     - region: SC
       exchange: '322464'
       name: Blue Brick
@@ -330,6 +440,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.03305'
       long: "-82.307007"
+      closest_city:
+        name: Tigerville
+        distance:
+          value: 6.82
+          units: km
     - region: SC
       exchange: '176410'
       name: Bluffton
@@ -338,6 +453,11 @@ rate_centers:
       ilec_name: BLUFFTON TEL. CO., INC.
       lat: '32.232755'
       long: "-80.856296"
+      closest_city:
+        name: Bluffton
+        distance:
+          value: 7.4
+          units: km
     - region: SC
       exchange: '322569'
       name: Blythewood
@@ -362,6 +482,11 @@ rate_centers:
       ilec_name: ST. STEPHEN TEL. CO.
       lat: '33.304608'
       long: "-79.962179"
+      closest_city:
+        name: Bonneau
+        distance:
+          value: 0.6
+          units: km
     - region: SC
       exchange: '322570'
       name: Bookman
@@ -394,6 +519,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - SC
       lat: '33.349506'
       long: "-80.684854"
+      closest_city:
+        name: Bowman
+        distance:
+          value: 0.14
+          units: km
     - region: SC
       exchange: '322573'
       name: Boykin
@@ -418,6 +548,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE CO CAROLINAS DBA CENTURYLINK
       lat: '33.250416'
       long: "-80.81546"
+      closest_city:
+        name: Branchville
+        distance:
+          value: 0.15
+          units: km
     - region: SC
       exchange: '322575'
       name: Brighton
@@ -530,6 +665,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - SC
       lat: '34.097831'
       long: "-82.590503"
+      closest_city:
+        name: Calhoun Falls
+        distance:
+          value: 0.73
+          units: km
     - region: SC
       exchange: '176460'
       name: Camden
@@ -538,6 +678,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.248831'
       long: "-80.608428"
+      closest_city:
+        name: Camden
+        distance:
+          value: 0.91
+          units: km
     - region: SC
       exchange: '176470'
       name: Cameron
@@ -546,6 +691,11 @@ rate_centers:
       ilec_name: WINDSTREAM SOUTH CAROLINA, INC.
       lat: '33.564221'
       long: "-80.714033"
+      closest_city:
+        name: Cameron
+        distance:
+          value: 0.7
+          units: km
     - region: SC
       exchange: '176480'
       name: Campobello
@@ -554,6 +704,11 @@ rate_centers:
       ilec_name: WINDSTREAM SOUTH CAROLINA, INC.
       lat: '35.115607'
       long: "-82.148901"
+      closest_city:
+        name: Campobello
+        distance:
+          value: 1.16
+          units: km
     - region: SC
       exchange: '322725'
       name: Canadys
@@ -618,6 +773,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.7239'
       long: "-82.77675"
+      closest_city:
+        name: Central
+        distance:
+          value: 0.19
+          units: km
     - region: SC
       exchange: '322583'
       name: Chapin
@@ -634,6 +794,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.163386'
       long: "-81.354948"
+      closest_city:
+        name: Chapin
+        distance:
+          value: 0.97
+          units: km
     - region: SC
       exchange: '176510'
       name: Chapin-Little Mountain South
@@ -642,6 +807,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.167302'
       long: "-81.352076"
+      closest_city:
+        name: Chapin
+        distance:
+          value: 0.73
+          units: km
     - region: SC
       exchange: '176520'
       name: Chappells
@@ -650,6 +820,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE CO CAROLINAS DBA CENTURYLINK
       lat: '34.18088'
       long: "-81.866822"
+      closest_city:
+        name: Ninety Six
+        distance:
+          value: 14.5
+          units: km
     - region: SC
       exchange: '176530'
       name: Charleston
@@ -658,6 +833,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '32.791636'
       long: "-79.943789"
+      closest_city:
+        name: Charleston
+        distance:
+          value: 3.64
+          units: km
     - region: SC
       exchange: '176540'
       name: Cheraw
@@ -666,6 +846,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.692662'
       long: "-79.891561"
+      closest_city:
+        name: Cheraw
+        distance:
+          value: 1.57
+          units: km
     - region: SC
       exchange: '322338'
       name: Cherokee Falls
@@ -698,6 +883,11 @@ rate_centers:
       ilec_name: CHESNEE TEL. CO.
       lat: '35.147629'
       long: "-81.85713"
+      closest_city:
+        name: Chesnee
+        distance:
+          value: 0.56
+          units: km
     - region: SC
       exchange: '176560'
       name: Chester
@@ -706,6 +896,11 @@ rate_centers:
       ilec_name: CHESTER TEL. CO.
       lat: '34.707382'
       long: "-81.207497"
+      closest_city:
+        name: Chester
+        distance:
+          value: 0.58
+          units: km
     - region: SC
       exchange: '176570'
       name: Chesterfield
@@ -714,6 +909,11 @@ rate_centers:
       ilec_name: SANDHILL TEL. COOP., INC.
       lat: '34.733845'
       long: "-80.084299"
+      closest_city:
+        name: Chesterfield
+        distance:
+          value: 0.6
+          units: km
     - region: SC
       exchange: '176580'
       name: Clarks Hill
@@ -722,6 +922,11 @@ rate_centers:
       ilec_name: WEST CAROLINA RURAL TEL. COOP., INC.
       lat: '33.693408'
       long: "-82.197609"
+      closest_city:
+        name: Modoc
+        distance:
+          value: 3.4
+          units: km
     - region: SC
       exchange: '323481'
       name: Clearwater
@@ -738,6 +943,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.692115'
       long: "-82.831802"
+      closest_city:
+        name: Clemson University
+        distance:
+          value: 1.92
+          units: km
     - region: SC
       exchange: '322342'
       name: Cleveland
@@ -762,6 +972,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.47512'
       long: "-81.886482"
+      closest_city:
+        name: Clinton
+        distance:
+          value: 2.11
+          units: km
     - region: SC
       exchange: '176610'
       name: Clio
@@ -770,6 +985,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.583436'
       long: "-79.539909"
+      closest_city:
+        name: Clio
+        distance:
+          value: 0.74
+          units: km
     - region: SC
       exchange: '176620'
       name: Clover
@@ -778,6 +998,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.117427'
       long: "-81.229763"
+      closest_city:
+        name: Clover
+        distance:
+          value: 1.03
+          units: km
     - region: SC
       exchange: '322728'
       name: Colleton
@@ -794,6 +1019,11 @@ rate_centers:
       ilec_name: HORRY TEL. COOP., INC.
       lat: '33.627589'
       long: "-79.033832"
+      closest_city:
+        name: Garden City
+        distance:
+          value: 4.61
+          units: km
     - region: SC
       exchange: '176640'
       name: Columbia
@@ -802,6 +1032,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.009577'
       long: "-81.033355"
+      closest_city:
+        name: Olympia
+        distance:
+          value: 3.65
+          units: km
     - region: SC
       exchange: '322345'
       name: Conestee
@@ -826,14 +1061,24 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - SC
       lat: '33.843661'
       long: "-79.050941"
+      closest_city:
+        name: Conway
+        distance:
+          value: 0.83
+          units: km
     - region: SC
       exchange: '176651'
       name: Conway (HTC)
-      short_name:
+      short_name: Conway (HTC)
       lata: '432'
       ilec_name: HORRY TELEPHONE COOPERATIVE, INC. - SC
       lat: '33.843661'
       long: "-79.050941"
+      closest_city:
+        name: Conway
+        distance:
+          value: 0.83
+          units: km
     - region: SC
       exchange: '322729'
       name: Coosawhatchie
@@ -874,6 +1119,11 @@ rate_centers:
       ilec_name: PALMETTO RURAL TEL. COOP., INC.
       lat: '32.931324'
       long: "-80.483529"
+      closest_city:
+        name: Cottageville
+        distance:
+          value: 0.62
+          units: km
     - region: SC
       exchange: '322477'
       name: Coward
@@ -890,6 +1140,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.018023'
       long: "-81.801996"
+      closest_city:
+        name: Cowpens
+        distance:
+          value: 0.2
+          units: km
     - region: SC
       exchange: '322478'
       name: Crescent Beach
@@ -906,6 +1161,11 @@ rate_centers:
       ilec_name: WINDSTREAM SOUTH CAROLINA, INC.
       lat: '33.564221'
       long: "-80.714033"
+      closest_city:
+        name: Cameron
+        distance:
+          value: 0.7
+          units: km
     - region: SC
       exchange: '322592'
       name: Crocketville
@@ -922,6 +1182,11 @@ rate_centers:
       ilec_name: HOME TELEPHONE ILEC, LLC
       lat: '33.328839'
       long: "-80.151211"
+      closest_city:
+        name: Bonneau Beach
+        distance:
+          value: 14.99
+          units: km
     - region: SC
       exchange: '176700'
       name: Cross Hill
@@ -930,6 +1195,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE CO CAROLINAS DBA CENTURYLINK
       lat: '34.308277'
       long: "-81.98162"
+      closest_city:
+        name: Cross Hill
+        distance:
+          value: 0.46
+          units: km
     - region: SC
       exchange: '322349'
       name: Cross Keys
@@ -970,6 +1240,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.300895'
       long: "-79.868674"
+      closest_city:
+        name: Darlington
+        distance:
+          value: 0.17
+          units: km
     - region: SC
       exchange: '323418'
       name: Daufuskie Island
@@ -994,6 +1269,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '33.325117'
       long: "-81.146771"
+      closest_city:
+        name: Denmark
+        distance:
+          value: 1.46
+          units: km
     - region: SC
       exchange: '177191'
       name: Dewees Island
@@ -1010,6 +1290,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.415169'
       long: "-79.366274"
+      closest_city:
+        name: Dillon
+        distance:
+          value: 0.94
+          units: km
     - region: SC
       exchange: '322350'
       name: Donalds
@@ -1050,6 +1335,11 @@ rate_centers:
       ilec_name: WEST CAROLINA RURAL TEL. COOP., INC.
       lat: '34.330918'
       long: "-82.391993"
+      closest_city:
+        name: Due West
+        distance:
+          value: 0.43
+          units: km
     - region: SC
       exchange: '322353'
       name: Duncan
@@ -1074,6 +1364,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.834873'
       long: "-82.599948"
+      closest_city:
+        name: Easley
+        distance:
+          value: 2.38
+          units: km
     - region: SC
       exchange: '176760'
       name: East Conway
@@ -1082,6 +1377,11 @@ rate_centers:
       ilec_name: HORRY TEL. COOP., INC.
       lat: '33.771777'
       long: "-78.9883"
+      closest_city:
+        name: Red Hill
+        distance:
+          value: 2.21
+          units: km
     - region: SC
       exchange: '322356'
       name: East Spartanburg
@@ -1098,6 +1398,11 @@ rate_centers:
       ilec_name: FARMERS TEL. COOP., INC.
       lat: '33.900076'
       long: "-80.250208"
+      closest_city:
+        name: East Sumter
+        distance:
+          value: 5.05
+          units: km
     - region: SC
       exchange: '176780'
       name: Eastover
@@ -1106,6 +1411,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '33.882209'
       long: "-80.692697"
+      closest_city:
+        name: Eastover
+        distance:
+          value: 0.52
+          units: km
     - region: SC
       exchange: '176790'
       name: Edgefield
@@ -1114,6 +1424,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '33.791514'
       long: "-81.934808"
+      closest_city:
+        name: Edgefield
+        distance:
+          value: 0.73
+          units: km
     - region: SC
       exchange: '321972'
       name: Edgemoor
@@ -1138,6 +1453,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '32.483784'
       long: "-80.330563"
+      closest_city:
+        name: Edisto Beach
+        distance:
+          value: 1.13
+          units: km
     - region: SC
       exchange: '322483'
       name: Effingham
@@ -1154,6 +1474,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - SC
       lat: '33.100686'
       long: "-81.014472"
+      closest_city:
+        name: Ehrhardt
+        distance:
+          value: 0.25
+          units: km
     - region: SC
       exchange: '322600'
       name: Elgin
@@ -1186,6 +1511,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - SC
       lat: '33.534592'
       long: "-80.57426"
+      closest_city:
+        name: Elloree
+        distance:
+          value: 0.57
+          units: km
     - region: SC
       exchange: '176830'
       name: Enoree
@@ -1194,6 +1524,11 @@ rate_centers:
       ilec_name: PIEDMONT RURAL TEL. COOP., INC.
       lat: '34.657592'
       long: "-81.961553"
+      closest_city:
+        name: Enoree
+        distance:
+          value: 0.2
+          units: km
     - region: SC
       exchange: '176840'
       name: Estill
@@ -1202,6 +1537,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE CO CAROLINAS DBA CENTURYLINK
       lat: '32.756868'
       long: "-81.243443"
+      closest_city:
+        name: Estill
+        distance:
+          value: 0.4
+          units: km
     - region: SC
       exchange: '176850'
       name: Eutawville
@@ -1210,6 +1550,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE CO CAROLINAS DBA CENTURYLINK
       lat: '33.402407'
       long: "-80.342323"
+      closest_city:
+        name: Eutawville
+        distance:
+          value: 0.52
+          units: km
     - region: SC
       exchange: '322357'
       name: Fair Play
@@ -1226,6 +1571,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - SC
       lat: '32.956236'
       long: "-81.234148"
+      closest_city:
+        name: Fairfax
+        distance:
+          value: 0.41
+          units: km
     - region: SC
       exchange: '322358'
       name: Fairforest
@@ -1282,6 +1632,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.199426'
       long: "-79.768853"
+      closest_city:
+        name: Florence
+        distance:
+          value: 3.06
+          units: km
     - region: SC
       exchange: '322485'
       name: Floydale
@@ -1298,6 +1653,11 @@ rate_centers:
       ilec_name: HORRY TEL. COOP., INC.
       lat: '34.190836'
       long: "-79.058583"
+      closest_city:
+        name: Nichols
+        distance:
+          value: 9.66
+          units: km
     - region: SC
       exchange: '176890'
       name: Folly Beach
@@ -1306,6 +1666,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '32.649039'
       long: "-79.940075"
+      closest_city:
+        name: Folly Beach
+        distance:
+          value: 2.43
+          units: km
     - region: SC
       exchange: '322608'
       name: Foreston
@@ -1338,6 +1703,11 @@ rate_centers:
       ilec_name: LANCASTER TEL. CO.
       lat: '34.70052'
       long: "-80.898344"
+      closest_city:
+        name: Fort Lawn
+        distance:
+          value: 0.07
+          units: km
     - region: SC
       exchange: '176910'
       name: Fort Mill
@@ -1346,6 +1716,11 @@ rate_centers:
       ilec_name: FORT MILL TEL. CO.
       lat: '35.007701'
       long: "-80.950277"
+      closest_city:
+        name: Fort Mill
+        distance:
+          value: 1.05
+          units: km
     - region: SC
       exchange: '322609'
       name: Fort Motte
@@ -1362,6 +1737,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.700022'
       long: "-82.197236"
+      closest_city:
+        name: Fountain Inn
+        distance:
+          value: 0.32
+          units: km
     - region: SC
       exchange: '322739'
       name: Fripp Island
@@ -1410,6 +1790,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.075412'
       long: "-81.648339"
+      closest_city:
+        name: Gaffney
+        distance:
+          value: 0.64
+          units: km
     - region: SC
       exchange: '322488'
       name: Galivants Ferry
@@ -1450,14 +1835,24 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - SC
       lat: '33.375223'
       long: "-79.292089"
+      closest_city:
+        name: Georgetown
+        distance:
+          value: 1.79
+          units: km
     - region: SC
       exchange: '176941'
       name: Georgetown (HTC)
-      short_name:
+      short_name: Georgetown (HTC)
       lata: '432'
       ilec_name: HORRY TELEPHONE COOPERATIVE, INC. - SC
       lat: '33.375223'
       long: "-79.292089"
+      closest_city:
+        name: Georgetown
+        distance:
+          value: 1.79
+          units: km
     - region: SC
       exchange: '322616'
       name: Gifford
@@ -1474,6 +1869,11 @@ rate_centers:
       ilec_name: PBT TELECOM, INC.
       lat: '33.922454'
       long: "-81.388681"
+      closest_city:
+        name: Gilbert
+        distance:
+          value: 0.44
+          units: km
     - region: SC
       exchange: '322741'
       name: Givhans
@@ -1538,6 +1938,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '33.566272'
       long: "-81.807422"
+      closest_city:
+        name: Graniteville
+        distance:
+          value: 0.19
+          units: km
     - region: SC
       exchange: '176970'
       name: Gray Court
@@ -1546,6 +1951,11 @@ rate_centers:
       ilec_name: PIEDMONT RURAL TEL. COOP., INC.
       lat: '34.605998'
       long: "-82.116013"
+      closest_city:
+        name: Gray Court
+        distance:
+          value: 0.26
+          units: km
     - region: SC
       exchange: '176980'
       name: Great Falls
@@ -1554,6 +1964,11 @@ rate_centers:
       ilec_name: CHESTER TEL. CO.
       lat: '34.566603'
       long: "-80.900248"
+      closest_city:
+        name: Great Falls
+        distance:
+          value: 1.05
+          units: km
     - region: SC
       exchange: '176990'
       name: Greeleyville
@@ -1562,6 +1977,11 @@ rate_centers:
       ilec_name: FARMERS TEL. COOP., INC.
       lat: '33.579193'
       long: "-79.990039"
+      closest_city:
+        name: Greeleyville
+        distance:
+          value: 0.1
+          units: km
     - region: SC
       exchange: '322743'
       name: Green Pond
@@ -1586,6 +2006,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.849275'
       long: "-82.401164"
+      closest_city:
+        name: City View
+        distance:
+          value: 2.59
+          units: km
     - region: SC
       exchange: '177010'
       name: Greenwood
@@ -1594,6 +2019,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE CO CAROLINAS DBA CENTURYLINK
       lat: '34.203009'
       long: "-82.167449"
+      closest_city:
+        name: Greenwood
+        distance:
+          value: 1.53
+          units: km
     - region: SC
       exchange: '177020'
       name: Greer
@@ -1602,6 +2032,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.943016'
       long: "-82.222531"
+      closest_city:
+        name: Greer
+        distance:
+          value: 1.37
+          units: km
     - region: SC
       exchange: '322493'
       name: Gresham
@@ -1658,6 +2093,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE CO CAROLINAS DBA CENTURYLINK
       lat: '32.864418'
       long: "-81.108629"
+      closest_city:
+        name: Hampton
+        distance:
+          value: 0.36
+          units: km
     - region: SC
       exchange: '322744'
       name: Hanahan
@@ -1674,6 +2114,11 @@ rate_centers:
       ilec_name: HARGRAY TEL. CO., INC.
       lat: '32.292593'
       long: "-81.07362"
+      closest_city:
+        name: Hardeeville
+        distance:
+          value: 3.91
+          units: km
     - region: SC
       exchange: '177050'
       name: Harleyville
@@ -1682,6 +2127,11 @@ rate_centers:
       ilec_name: HOME TELEPHONE ILEC, LLC
       lat: '33.215145'
       long: "-80.448539"
+      closest_city:
+        name: Harleyville
+        distance:
+          value: 0.25
+          units: km
     - region: SC
       exchange: '177060'
       name: Hartsville
@@ -1690,6 +2140,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.376171'
       long: "-80.073946"
+      closest_city:
+        name: Hartsville
+        distance:
+          value: 1.27
+          units: km
     - region: SC
       exchange: '177070'
       name: Heath Springs
@@ -1698,6 +2153,11 @@ rate_centers:
       ilec_name: LANCASTER TEL. CO.
       lat: '34.591115'
       long: "-80.685454"
+      closest_city:
+        name: Heath Springs
+        distance:
+          value: 0.99
+          units: km
     - region: SC
       exchange: '177080'
       name: Hemingway
@@ -1706,6 +2166,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - SC
       lat: '33.749887'
       long: "-79.443811"
+      closest_city:
+        name: Hemingway
+        distance:
+          value: 0.45
+          units: km
     - region: SC
       exchange: '177090'
       name: Hendersonville
@@ -1714,6 +2179,11 @@ rate_centers:
       ilec_name: PALMETTO RURAL TEL. COOP., INC.
       lat: '32.810342'
       long: "-80.725743"
+      closest_city:
+        name: Walterboro
+        distance:
+          value: 11.1
+          units: km
     - region: SC
       exchange: '177100'
       name: Hickory Grove
@@ -1722,6 +2192,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.984473'
       long: "-81.414214"
+      closest_city:
+        name: Hickory Grove
+        distance:
+          value: 0.75
+          units: km
     - region: SC
       exchange: '177110'
       name: Hickory Tavern
@@ -1730,6 +2205,11 @@ rate_centers:
       ilec_name: PIEDMONT RURAL TEL. COOP., INC.
       lat: '34.5241'
       long: "-82.188271"
+      closest_city:
+        name: Princeton
+        distance:
+          value: 10.51
+          units: km
     - region: SC
       exchange: '322623'
       name: Hilda
@@ -1746,6 +2226,11 @@ rate_centers:
       ilec_name: HARGRAY TEL. CO., INC.
       lat: '32.173743'
       long: "-80.733644"
+      closest_city:
+        name: Hilton Head Island
+        distance:
+          value: 2.33
+          units: km
     - region: SC
       exchange: '177130'
       name: Hodges
@@ -1754,6 +2239,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE CO CAROLINAS DBA CENTURYLINK
       lat: '34.293032'
       long: "-82.251262"
+      closest_city:
+        name: Hodges
+        distance:
+          value: 0.67
+          units: km
     - region: SC
       exchange: '177140'
       name: Holly Hill
@@ -1762,6 +2252,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE CO CAROLINAS DBA CENTURYLINK
       lat: '33.323173'
       long: "-80.40747"
+      closest_city:
+        name: Holly Hill
+        distance:
+          value: 0.53
+          units: km
     - region: SC
       exchange: '177150'
       name: Hollywood
@@ -1770,6 +2265,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - SC
       lat: '32.775215'
       long: "-80.238656"
+      closest_city:
+        name: Ravenel
+        distance:
+          value: 1.03
+          units: km
     - region: SC
       exchange: '177160'
       name: Honea Path
@@ -1778,6 +2278,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.44848'
       long: "-82.391666"
+      closest_city:
+        name: Honea Path
+        distance:
+          value: 0.32
+          units: km
     - region: SC
       exchange: '322625'
       name: Hopkins
@@ -1794,6 +2299,11 @@ rate_centers:
       ilec_name: HOME TELEPHONE ILEC, LLC
       lat: '33.101237'
       long: "-79.803632"
+      closest_city:
+        name: Pimlico
+        distance:
+          value: 14.62
+          units: km
     - region: SC
       exchange: '322748'
       name: Hunting Island
@@ -1818,6 +2328,11 @@ rate_centers:
       ilec_name: WINDSTREAM SOUTH CAROLINA, INC.
       lat: '35.049993'
       long: "-82.092323"
+      closest_city:
+        name: Inman
+        distance:
+          value: 0.48
+          units: km
     - region: SC
       exchange: '322626'
       name: Irmo
@@ -1842,6 +2357,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '32.792155'
       long: "-79.782488"
+      closest_city:
+        name: Isle of Palms
+        distance:
+          value: 2.89
+          units: km
     - region: SC
       exchange: '177200'
       name: Iva
@@ -1850,6 +2370,11 @@ rate_centers:
       ilec_name: WEST CAROLINA RURAL TEL. COOP., INC.
       lat: '34.306758'
       long: "-82.667258"
+      closest_city:
+        name: Iva
+        distance:
+          value: 0.34
+          units: km
     - region: SC
       exchange: '177210'
       name: Jackson
@@ -1858,6 +2383,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - SC
       lat: '33.308367'
       long: "-81.806304"
+      closest_city:
+        name: Jackson
+        distance:
+          value: 2.56
+          units: km
     - region: SC
       exchange: '322751'
       name: Jacksonboro
@@ -1882,6 +2412,11 @@ rate_centers:
       ilec_name: HOME TELEPHONE ILEC, LLC
       lat: '33.282811'
       long: "-79.686905"
+      closest_city:
+        name: Jamestown
+        distance:
+          value: 0.78
+          units: km
     - region: SC
       exchange: '322753'
       name: Jedburg
@@ -1898,6 +2433,11 @@ rate_centers:
       ilec_name: SANDHILL TEL. COOP., INC.
       lat: '34.650037'
       long: "-80.391625"
+      closest_city:
+        name: Jefferson
+        distance:
+          value: 0.48
+          units: km
     - region: SC
       exchange: '322627'
       name: Jenkinsville
@@ -1930,6 +2470,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.425134'
       long: "-81.819018"
+      closest_city:
+        name: Joanna
+        distance:
+          value: 1.49
+          units: km
     - region: SC
       exchange: '322755'
       name: Johns Island
@@ -1946,6 +2491,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - SC
       lat: '33.818523'
       long: "-79.450281"
+      closest_city:
+        name: Johnsonville
+        distance:
+          value: 0.68
+          units: km
     - region: SC
       exchange: '177260'
       name: Johnston
@@ -1954,6 +2504,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '33.832029'
       long: "-81.802691"
+      closest_city:
+        name: Johnston
+        distance:
+          value: 0.24
+          units: km
     - region: SC
       exchange: '177270'
       name: Jonesville
@@ -1962,6 +2517,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.834388'
       long: "-81.682214"
+      closest_city:
+        name: Jonesville
+        distance:
+          value: 0.11
+          units: km
     - region: SC
       exchange: '322380'
       name: Kelly
@@ -1986,6 +2546,11 @@ rate_centers:
       ilec_name: WINDSTREAM SOUTH CAROLINA, INC.
       lat: '34.549168'
       long: "-80.572792"
+      closest_city:
+        name: Kershaw
+        distance:
+          value: 1.37
+          units: km
     - region: SC
       exchange: '322756'
       name: Kiawah Island
@@ -2018,6 +2583,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - SC
       lat: '33.666228'
       long: "-79.826972"
+      closest_city:
+        name: Kingstree
+        distance:
+          value: 0.21
+          units: km
     - region: SC
       exchange: '322629'
       name: Kline
@@ -2066,6 +2636,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - SC
       lat: '33.874909'
       long: "-79.760396"
+      closest_city:
+        name: Lake City
+        distance:
+          value: 1.04
+          units: km
     - region: SC
       exchange: '177310'
       name: Lake View
@@ -2074,6 +2649,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.341115'
       long: "-79.166252"
+      closest_city:
+        name: Lake View
+        distance:
+          value: 0.07
+          units: km
     - region: SC
       exchange: '177320'
       name: Lake Wylie
@@ -2082,6 +2662,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.104381'
       long: "-81.055318"
+      closest_city:
+        name: Lake Wylie
+        distance:
+          value: 1.25
+          units: km
     - region: SC
       exchange: '177330'
       name: Lake Wylie West
@@ -2090,6 +2675,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.104381'
       long: "-81.055318"
+      closest_city:
+        name: Lake Wylie
+        distance:
+          value: 1.25
+          units: km
     - region: SC
       exchange: '177340'
       name: Lakewood
@@ -2098,6 +2688,11 @@ rate_centers:
       ilec_name: HORRY TEL. COOP., INC.
       lat: '33.682965'
       long: "-78.965007"
+      closest_city:
+        name: Socastee
+        distance:
+          value: 4.06
+          units: km
     - region: SC
       exchange: '177350'
       name: Lamar
@@ -2106,6 +2701,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - SC
       lat: '34.177615'
       long: "-80.067212"
+      closest_city:
+        name: Lamar
+        distance:
+          value: 0.93
+          units: km
     - region: SC
       exchange: '177360'
       name: Lancaster
@@ -2114,6 +2714,11 @@ rate_centers:
       ilec_name: LANCASTER TEL. CO.
       lat: '34.719155'
       long: "-80.766333"
+      closest_city:
+        name: Lancaster
+        distance:
+          value: 1.43
+          units: km
     - region: SC
       exchange: '322630'
       name: Lando
@@ -2130,6 +2735,11 @@ rate_centers:
       ilec_name: WINDSTREAM SOUTH CAROLINA, INC.
       lat: '35.181945'
       long: "-82.185398"
+      closest_city:
+        name: Landrum
+        distance:
+          value: 0.81
+          units: km
     - region: SC
       exchange: '177380'
       name: Lane
@@ -2138,6 +2748,11 @@ rate_centers:
       ilec_name: FARMERS TEL. COOP., INC.
       lat: '33.524012'
       long: "-79.87555"
+      closest_city:
+        name: Lane
+        distance:
+          value: 0.4
+          units: km
     - region: SC
       exchange: '323488'
       name: Langley
@@ -2154,6 +2769,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.341928'
       long: "-79.422841"
+      closest_city:
+        name: Latta
+        distance:
+          value: 1.05
+          units: km
     - region: SC
       exchange: '177400'
       name: Laurel Bay
@@ -2162,6 +2782,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE CO CAROLINAS DBA CENTURYLINK
       lat: '32.456572'
       long: "-80.790546"
+      closest_city:
+        name: Laurel Bay
+        distance:
+          value: 0.5
+          units: km
     - region: SC
       exchange: '177410'
       name: Laurens
@@ -2170,6 +2795,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - SC
       lat: '34.498472'
       long: "-82.018768"
+      closest_city:
+        name: Laurens
+        distance:
+          value: 0.45
+          units: km
     - region: SC
       exchange: '177420'
       name: Laurens Rural
@@ -2178,6 +2808,11 @@ rate_centers:
       ilec_name: PIEDMONT RURAL TEL. COOP., INC.
       lat: '34.498472'
       long: "-82.018768"
+      closest_city:
+        name: Laurens
+        distance:
+          value: 0.45
+          units: km
     - region: SC
       exchange: '177430'
       name: Lebanon
@@ -2186,6 +2821,11 @@ rate_centers:
       ilec_name: HOME TELEPHONE ILEC, LLC
       lat: '33.174748'
       long: "-80.207514"
+      closest_city:
+        name: Ridgeville
+        distance:
+          value: 13.22
+          units: km
     - region: SC
       exchange: '322631'
       name: Leeds
@@ -2234,6 +2874,11 @@ rate_centers:
       ilec_name: CHESTER TEL. CO.
       lat: '34.80004'
       long: "-81.040232"
+      closest_city:
+        name: Richburg
+        distance:
+          value: 9.45
+          units: km
     - region: SC
       exchange: '177450'
       name: Lexington
@@ -2242,6 +2887,11 @@ rate_centers:
       ilec_name: WINDSTREAM SOUTH CAROLINA, INC.
       lat: '33.98334'
       long: "-81.234148"
+      closest_city:
+        name: Lexington
+        distance:
+          value: 1.43
+          units: km
     - region: SC
       exchange: '177460'
       name: Liberty
@@ -2250,6 +2900,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.782581'
       long: "-82.689396"
+      closest_city:
+        name: Liberty
+        distance:
+          value: 1.06
+          units: km
     - region: SC
       exchange: '321984'
       name: Liberty Hill
@@ -2330,6 +2985,11 @@ rate_centers:
       ilec_name: LOCKHART TEL. CO., INC.
       lat: '34.781502'
       long: "-81.459876"
+      closest_city:
+        name: Lockhart
+        distance:
+          value: 1.2
+          units: km
     - region: SC
       exchange: '177480'
       name: Lodge
@@ -2338,6 +2998,11 @@ rate_centers:
       ilec_name: PALMETTO RURAL TEL. COOP., INC.
       lat: '33.066856'
       long: "-80.94927"
+      closest_city:
+        name: Lodge
+        distance:
+          value: 0.43
+          units: km
     - region: SC
       exchange: '322638'
       name: Lone Star
@@ -2370,6 +3035,11 @@ rate_centers:
       ilec_name: HORRY TEL. COOP., INC.
       lat: '34.057533'
       long: "-78.891893"
+      closest_city:
+        name: Loris
+        distance:
+          value: 0.4
+          units: km
     - region: SC
       exchange: '177500'
       name: Low Country
@@ -2378,6 +3048,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE CO CAROLINAS DBA CENTURYLINK
       lat: '32.363743'
       long: "-80.870167"
+      closest_city:
+        name: Shell Point
+        distance:
+          value: 11.14
+          units: km
     - region: SC
       exchange: '322391'
       name: Lowndesville
@@ -2426,6 +3101,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.949131'
       long: "-82.126805"
+      closest_city:
+        name: Lyman
+        distance:
+          value: 1.98
+          units: km
     - region: SC
       exchange: '177520'
       name: Lynchburg
@@ -2434,6 +3114,11 @@ rate_centers:
       ilec_name: FARMERS TEL. COOP., INC.
       lat: '34.058949'
       long: "-80.078455"
+      closest_city:
+        name: Lynchburg
+        distance:
+          value: 0.18
+          units: km
     - region: SC
       exchange: '322768'
       name: MacBeth
@@ -2450,6 +3135,11 @@ rate_centers:
       ilec_name: HOME TELEPHONE ILEC, LLC
       lat: '33.280751'
       long: "-79.876407"
+      closest_city:
+        name: Bonneau
+        distance:
+          value: 8.11
+          units: km
     - region: SC
       exchange: '322393'
       name: Madison
@@ -2466,6 +3156,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - SC
       lat: '33.700883'
       long: "-80.210743"
+      closest_city:
+        name: Manning
+        distance:
+          value: 1.01
+          units: km
     - region: SC
       exchange: '178371'
       name: Marietta
@@ -2482,6 +3177,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.183154'
       long: "-79.40034"
+      closest_city:
+        name: Marion
+        distance:
+          value: 0.66
+          units: km
     - region: SC
       exchange: '322644'
       name: Martin
@@ -2514,6 +3214,11 @@ rate_centers:
       ilec_name: FARMERS TEL. COOP., INC.
       lat: '33.981197'
       long: "-80.208851"
+      closest_city:
+        name: Mayesville
+        distance:
+          value: 0.58
+          units: km
     - region: SC
       exchange: '322396'
       name: Mayo
@@ -2530,6 +3235,11 @@ rate_centers:
       ilec_name: SANDHILL TEL. COOP., INC.
       lat: '34.468053'
       long: "-80.260189"
+      closest_city:
+        name: McBee
+        distance:
+          value: 0.31
+          units: km
     - region: SC
       exchange: '177580'
       name: McClellanville
@@ -2538,6 +3248,11 @@ rate_centers:
       ilec_name: MCCLELLANVILLE TEL. CO., INC.
       lat: '33.091593'
       long: "-79.461365"
+      closest_city:
+        name: McClellanville
+        distance:
+          value: 0.84
+          units: km
     - region: SC
       exchange: '177590'
       name: McColl
@@ -2546,6 +3261,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.674948'
       long: "-79.548483"
+      closest_city:
+        name: McColl
+        distance:
+          value: 1.0
+          units: km
     - region: SC
       exchange: '321986'
       name: McConnells
@@ -2562,6 +3282,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - SC
       lat: '33.915928'
       long: "-82.289328"
+      closest_city:
+        name: McCormick
+        distance:
+          value: 0.38
+          units: km
     - region: SC
       exchange: '322771'
       name: Meggett
@@ -2586,6 +3311,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '35.151308'
       long: "-81.158338"
+      closest_city:
+        name: Clover
+        distance:
+          value: 7.09
+          units: km
     - region: SC
       exchange: '322398'
       name: Modoc
@@ -2602,6 +3332,11 @@ rate_centers:
       ilec_name: HOME TELEPHONE ILEC, LLC
       lat: '33.199257'
       long: "-80.008452"
+      closest_city:
+        name: Moncks Corner
+        distance:
+          value: 2.93
+          units: km
     - region: SC
       exchange: '322647'
       name: Monetta
@@ -2650,6 +3385,11 @@ rate_centers:
       ilec_name: WEST CAROLINA RURAL TEL. COOP., INC.
       lat: '34.042721'
       long: "-82.533236"
+      closest_city:
+        name: Mount Carmel
+        distance:
+          value: 3.78
+          units: km
     - region: SC
       exchange: '322519'
       name: Mount Croghan
@@ -2674,6 +3414,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '32.782944'
       long: "-79.866589"
+      closest_city:
+        name: Sullivan's Island
+        distance:
+          value: 3.33
+          units: km
     - region: SC
       exchange: '322400'
       name: Mountain Rest
@@ -2690,6 +3435,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE CO CAROLINAS DBA CENTURYLINK
       lat: '34.358697'
       long: "-81.964531"
+      closest_city:
+        name: Mountville
+        distance:
+          value: 1.34
+          units: km
     - region: SC
       exchange: '177660'
       name: Mullins
@@ -2698,6 +3448,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.200266'
       long: "-79.24895"
+      closest_city:
+        name: Mullins
+        distance:
+          value: 0.6
+          units: km
     - region: SC
       exchange: '177670'
       name: Murrells Inlet
@@ -2706,6 +3461,11 @@ rate_centers:
       ilec_name: HORRY TEL. COOP., INC.
       lat: '33.569151'
       long: "-79.026399"
+      closest_city:
+        name: Garden City
+        distance:
+          value: 3.16
+          units: km
     - region: SC
       exchange: '177680'
       name: Myrtle Beach
@@ -2714,14 +3474,24 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - SC
       lat: '33.693878'
       long: "-78.884479"
+      closest_city:
+        name: Myrtle Beach
+        distance:
+          value: 1.73
+          units: km
     - region: SC
       exchange: '177681'
       name: Myrtle Beach (HTC)
-      short_name:
+      short_name: Myrtle Beach (HTC)
       lata: '432'
       ilec_name: HORRY TELEPHONE COOPERATIVE, INC. - SC
       lat: '33.693878'
       long: "-78.884479"
+      closest_city:
+        name: Myrtle Beach
+        distance:
+          value: 1.73
+          units: km
     - region: SC
       exchange: '322649'
       name: Neeses
@@ -2746,6 +3516,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '33.425457'
       long: "-81.709656"
+      closest_city:
+        name: New Ellenton
+        distance:
+          value: 2.59
+          units: km
     - region: SC
       exchange: '322524'
       name: New Zion
@@ -2762,6 +3537,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.274968'
       long: "-81.617092"
+      closest_city:
+        name: Newberry
+        distance:
+          value: 1.64
+          units: km
     - region: SC
       exchange: '321988'
       name: Newport
@@ -2786,6 +3566,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.73255'
       long: "-79.616382"
+      closest_city:
+        name: McColl
+        distance:
+          value: 9.84
+          units: km
     - region: SC
       exchange: '177720'
       name: Nichols
@@ -2794,6 +3579,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.23443'
       long: "-79.150038"
+      closest_city:
+        name: Nichols
+        distance:
+          value: 0.11
+          units: km
     - region: SC
       exchange: '177730'
       name: Ninety Six
@@ -2802,6 +3592,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE CO CAROLINAS DBA CENTURYLINK
       lat: '34.175112'
       long: "-82.026102"
+      closest_city:
+        name: Ninety Six
+        distance:
+          value: 0.65
+          units: km
     - region: SC
       exchange: '322405'
       name: Norris
@@ -2818,6 +3613,11 @@ rate_centers:
       ilec_name: WILLISTON TEL. CO.
       lat: '33.617136'
       long: "-81.107861"
+      closest_city:
+        name: North
+        distance:
+          value: 0.46
+          units: km
     - region: SC
       exchange: '177750'
       name: North Augusta
@@ -2826,6 +3626,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '33.500541'
       long: "-81.963468"
+      closest_city:
+        name: North Augusta
+        distance:
+          value: 2.46
+          units: km
     - region: SC
       exchange: '322775'
       name: North Charleston
@@ -2842,6 +3647,11 @@ rate_centers:
       ilec_name: HORRY TEL. COOP., INC.
       lat: '33.894607'
       long: "-79.044445"
+      closest_city:
+        name: Homewood
+        distance:
+          value: 0.71
+          units: km
     - region: SC
       exchange: '322529'
       name: North Island
@@ -2858,6 +3668,11 @@ rate_centers:
       ilec_name: FARMERS TEL. COOP., INC.
       lat: '33.667634'
       long: "-79.819399"
+      closest_city:
+        name: Kingstree
+        distance:
+          value: 0.92
+          units: km
     - region: SC
       exchange: '177780'
       name: North Manning
@@ -2866,6 +3681,11 @@ rate_centers:
       ilec_name: FARMERS TEL. COOP., INC.
       lat: '33.693116'
       long: "-80.216551"
+      closest_city:
+        name: Manning
+        distance:
+          value: 0.02
+          units: km
     - region: SC
       exchange: '177790'
       name: North Myrtle Beach
@@ -2874,14 +3694,24 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - SC
       lat: '33.81747'
       long: "-78.690162"
+      closest_city:
+        name: North Myrtle Beach
+        distance:
+          value: 1.78
+          units: km
     - region: SC
       exchange: '177793'
       name: North Myrtle Beach (HTC)
-      short_name:
+      short_name: North Myrtle Beach (HTC)
       lata: '432'
       ilec_name: HORRY TELEPHONE COOPERATIVE, INC. - SC
       lat: '33.81747'
       long: "-78.690162"
+      closest_city:
+        name: North Myrtle Beach
+        distance:
+          value: 1.78
+          units: km
     - region: SC
       exchange: '177800'
       name: North Summerton
@@ -2890,6 +3720,11 @@ rate_centers:
       ilec_name: FARMERS TEL. COOP., INC.
       lat: '33.595134'
       long: "-80.328603"
+      closest_city:
+        name: Summerton
+        distance:
+          value: 2.33
+          units: km
     - region: SC
       exchange: '177810'
       name: North Sumter
@@ -2898,6 +3733,11 @@ rate_centers:
       ilec_name: FARMERS TEL. COOP., INC.
       lat: '33.959819'
       long: "-80.374785"
+      closest_city:
+        name: Sumter
+        distance:
+          value: 2.84
+          units: km
     - region: SC
       exchange: '177820'
       name: North Walterboro
@@ -2906,6 +3746,11 @@ rate_centers:
       ilec_name: PALMETTO RURAL TEL. COOP., INC.
       lat: '32.95459'
       long: "-80.671882"
+      closest_city:
+        name: Walterboro
+        distance:
+          value: 5.97
+          units: km
     - region: SC
       exchange: '177830'
       name: Norway
@@ -2914,6 +3759,11 @@ rate_centers:
       ilec_name: NORWAY TEL. CO., INC.
       lat: '33.449455'
       long: "-81.127079"
+      closest_city:
+        name: Norway
+        distance:
+          value: 0.1
+          units: km
     - region: SC
       exchange: '177840'
       name: Oakland
@@ -2922,6 +3772,11 @@ rate_centers:
       ilec_name: FARMERS TEL. COOP., INC.
       lat: '33.987782'
       long: "-80.490619"
+      closest_city:
+        name: Oakland
+        distance:
+          value: 0.62
+          units: km
     - region: SC
       exchange: '322778'
       name: Oakley
@@ -2954,6 +3809,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - SC
       lat: '33.933055'
       long: "-79.931898"
+      closest_city:
+        name: Olanta
+        distance:
+          value: 0.29
+          units: km
     - region: SC
       exchange: '177860'
       name: Olar
@@ -2962,6 +3822,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - SC
       lat: '33.183606'
       long: "-81.185198"
+      closest_city:
+        name: Olar
+        distance:
+          value: 0.41
+          units: km
     - region: SC
       exchange: '177870'
       name: Orangeburg
@@ -2970,6 +3835,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '33.490434'
       long: "-80.852249"
+      closest_city:
+        name: Orangeburg
+        distance:
+          value: 1.4
+          units: km
     - region: SC
       exchange: '322659'
       name: Oswego
@@ -2994,6 +3864,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.897972'
       long: "-81.766089"
+      closest_city:
+        name: Pacolet
+        distance:
+          value: 1.36
+          units: km
     - region: SC
       exchange: '177890'
       name: Pageland
@@ -3002,6 +3877,11 @@ rate_centers:
       ilec_name: SANDHILL TEL. COOP., INC.
       lat: '34.76732'
       long: "-80.388216"
+      closest_city:
+        name: Pageland
+        distance:
+          value: 0.54
+          units: km
     - region: SC
       exchange: '177900'
       name: Pamplico
@@ -3010,6 +3890,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - SC
       lat: '34.000141'
       long: "-79.566918"
+      closest_city:
+        name: Pamplico
+        distance:
+          value: 0.56
+          units: km
     - region: SC
       exchange: '322408'
       name: Parksville
@@ -3050,6 +3935,11 @@ rate_centers:
       ilec_name: SANDHILL TEL. COOP., INC.
       lat: '34.571586'
       long: "-80.043497"
+      closest_city:
+        name: Patrick
+        distance:
+          value: 0.41
+          units: km
     - region: SC
       exchange: '322409'
       name: Pauline
@@ -3066,14 +3956,24 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - SC
       lat: '33.431966'
       long: "-79.124989"
+      closest_city:
+        name: Pawleys Island
+        distance:
+          value: 0.56
+          units: km
     - region: SC
       exchange: '177921'
       name: Pawleys Island (HTC)
-      short_name:
+      short_name: Pawleys Island (HTC)
       lata: '432'
       ilec_name: HORRY TELEPHONE COOPERATIVE, INC. - SC
       lat: '33.431966'
       long: "-79.124989"
+      closest_city:
+        name: Pawleys Island
+        distance:
+          value: 0.56
+          units: km
     - region: SC
       exchange: '322662'
       name: Paxville
@@ -3114,6 +4014,11 @@ rate_centers:
       ilec_name: PBT TELECOM, INC.
       lat: '33.767456'
       long: "-81.243342"
+      closest_city:
+        name: Pelion
+        distance:
+          value: 1.05
+          units: km
     - region: SC
       exchange: '177001'
       name: Pelzer
@@ -3130,6 +4035,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.648845'
       long: "-82.461312"
+      closest_city:
+        name: Pelzer
+        distance:
+          value: 0.66
+          units: km
     - region: SC
       exchange: '177950'
       name: Pendleton
@@ -3138,6 +4048,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.649706'
       long: "-82.777963"
+      closest_city:
+        name: Pendleton
+        distance:
+          value: 0.62
+          units: km
     - region: SC
       exchange: '322665'
       name: Perry
@@ -3154,6 +4069,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.884353'
       long: "-82.700721"
+      closest_city:
+        name: Pickens
+        distance:
+          value: 0.89
+          units: km
     - region: SC
       exchange: '177970'
       name: Piedmont
@@ -3162,6 +4082,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.706446'
       long: "-82.45876"
+      closest_city:
+        name: Piedmont
+        distance:
+          value: 0.59
+          units: km
     - region: SC
       exchange: '322780'
       name: Pineland
@@ -3178,6 +4103,11 @@ rate_centers:
       ilec_name: ST. STEPHEN TEL. CO.
       lat: '33.42364'
       long: "-80.125888"
+      closest_city:
+        name: Russellville
+        distance:
+          value: 15.34
+          units: km
     - region: SC
       exchange: '177990'
       name: Pinewood
@@ -3186,6 +4116,11 @@ rate_centers:
       ilec_name: FARMERS TEL. COOP., INC.
       lat: '33.736067'
       long: "-80.463724"
+      closest_city:
+        name: Pinewood
+        distance:
+          value: 0.42
+          units: km
     - region: SC
       exchange: '322782'
       name: Pinopolis
@@ -3210,6 +4145,11 @@ rate_centers:
       ilec_name: WEST CAROLINA RURAL TEL. COOP., INC.
       lat: '33.852016'
       long: "-82.257822"
+      closest_city:
+        name: Plum Branch
+        distance:
+          value: 0.43
+          units: km
     - region: SC
       exchange: '178010'
       name: Pocalla
@@ -3218,6 +4158,11 @@ rate_centers:
       ilec_name: FARMERS TEL. COOP., INC.
       lat: '33.872175'
       long: "-80.36223"
+      closest_city:
+        name: South Sumter
+        distance:
+          value: 2.7
+          units: km
     - region: SC
       exchange: '322668'
       name: Pomaria
@@ -3234,6 +4179,11 @@ rate_centers:
       ilec_name: PBT TELECOM, INC.
       lat: '33.816387'
       long: "-81.433648"
+      closest_city:
+        name: Fairview Crossroads
+        distance:
+          value: 9.29
+          units: km
     - region: SC
       exchange: '322783'
       name: Port Royal
@@ -3274,6 +4224,11 @@ rate_centers:
       ilec_name: HARGRAY TEL. CO., INC.
       lat: '32.241046'
       long: "-80.964587"
+      closest_city:
+        name: Bluffton
+        distance:
+          value: 4.36
+          units: km
     - region: SC
       exchange: '178040'
       name: Prosperity
@@ -3282,6 +4237,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.207404'
       long: "-81.536741"
+      closest_city:
+        name: Prosperity
+        distance:
+          value: 0.63
+          units: km
     - region: SC
       exchange: '322538'
       name: Quinby
@@ -3362,6 +4322,11 @@ rate_centers:
       ilec_name: PBT TELECOM, INC.
       lat: '33.851024'
       long: "-81.660098"
+      closest_city:
+        name: Ridge Spring
+        distance:
+          value: 0.65
+          units: km
     - region: SC
       exchange: '178060'
       name: Ridgeland
@@ -3370,6 +4335,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE CO CAROLINAS DBA CENTURYLINK
       lat: '32.481635'
       long: "-80.982574"
+      closest_city:
+        name: Ridgeland
+        distance:
+          value: 6.26
+          units: km
     - region: SC
       exchange: '322786'
       name: Ridgeville
@@ -3386,6 +4356,11 @@ rate_centers:
       ilec_name: RIDGEWAY TEL. CO., INC.
       lat: '34.308866'
       long: "-80.955025"
+      closest_city:
+        name: Ridgeway
+        distance:
+          value: 0.53
+          units: km
     - region: SC
       exchange: '322676'
       name: Rimini
@@ -3426,6 +4401,11 @@ rate_centers:
       ilec_name: COMPORIUM, INC.
       lat: '34.926705'
       long: "-81.024206"
+      closest_city:
+        name: Rock Hill
+        distance:
+          value: 1.65
+          units: km
     - region: SC
       exchange: '322677'
       name: Rodman
@@ -3466,6 +4446,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.533888'
       long: "-79.333764"
+      closest_city:
+        name: Hamer
+        distance:
+          value: 6.69
+          units: km
     - region: SC
       exchange: '178100'
       name: Ruby
@@ -3474,6 +4459,11 @@ rate_centers:
       ilec_name: SANDHILL TEL. COOP., INC.
       lat: '34.742164'
       long: "-80.183417"
+      closest_city:
+        name: Ruby
+        distance:
+          value: 0.55
+          units: km
     - region: SC
       exchange: '322789'
       name: Ruffin
@@ -3506,6 +4496,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.890353'
       long: "-82.975334"
+      closest_city:
+        name: Salem
+        distance:
+          value: 0.27
+          units: km
     - region: SC
       exchange: '322679'
       name: Salley
@@ -3530,6 +4525,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE CO CAROLINAS DBA CENTURYLINK
       lat: '34.000615'
       long: "-81.764729"
+      closest_city:
+        name: Saluda
+        distance:
+          value: 0.61
+          units: km
     - region: SC
       exchange: '322427'
       name: Sandy Springs
@@ -3546,6 +4546,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - SC
       lat: '33.493642'
       long: "-80.475198"
+      closest_city:
+        name: Santee
+        distance:
+          value: 1.77
+          units: km
     - region: SC
       exchange: '322428'
       name: Santuck
@@ -3578,6 +4583,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '33.425391'
       long: "-81.889069"
+      closest_city:
+        name: Beech Island
+        distance:
+          value: 0.4
+          units: km
     - region: SC
       exchange: '322682'
       name: Scotia
@@ -3594,6 +4604,11 @@ rate_centers:
       ilec_name: FARMERS TEL. COOP., INC.
       lat: '33.913261'
       long: "-79.750892"
+      closest_city:
+        name: Scranton
+        distance:
+          value: 0.78
+          units: km
     - region: SC
       exchange: '322791'
       name: Seabrook
@@ -3626,6 +4641,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.690776'
       long: "-82.949163"
+      closest_city:
+        name: Seneca
+        distance:
+          value: 1.41
+          units: km
     - region: SC
       exchange: '178160'
       name: Sharon
@@ -3634,6 +4654,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.949844'
       long: "-81.335052"
+      closest_city:
+        name: Sharon
+        distance:
+          value: 0.81
+          units: km
     - region: SC
       exchange: '178170'
       name: Shaw AFB Heights
@@ -3642,6 +4667,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - SC
       lat: '33.955591'
       long: "-80.449566"
+      closest_city:
+        name: Cherryvale
+        distance:
+          value: 1.06
+          units: km
     - region: SC
       exchange: '322683'
       name: Shaw Air Force Base
@@ -3690,6 +4720,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - SC
       lat: '34.742694'
       long: "-82.250791"
+      closest_city:
+        name: Simpsonville
+        distance:
+          value: 1.65
+          units: km
     - region: SC
       exchange: '178190'
       name: Six Mile
@@ -3698,6 +4733,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.806629'
       long: "-82.814779"
+      closest_city:
+        name: Six Mile
+        distance:
+          value: 0.18
+          units: km
     - region: SC
       exchange: '322795'
       name: Smoaks
@@ -3722,6 +4762,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.517693'
       long: "-79.847688"
+      closest_city:
+        name: Society Hill
+        distance:
+          value: 1.05
+          units: km
     - region: SC
       exchange: '178210'
       name: South Conway
@@ -3730,6 +4775,11 @@ rate_centers:
       ilec_name: HORRY TEL. COOP., INC.
       lat: '33.789594'
       long: "-79.112276"
+      closest_city:
+        name: Conway
+        distance:
+          value: 8.51
+          units: km
     - region: SC
       exchange: '322546'
       name: South Island
@@ -3746,6 +4796,11 @@ rate_centers:
       ilec_name: PALMETTO RURAL TEL. COOP., INC.
       lat: '32.850958'
       long: "-80.587247"
+      closest_city:
+        name: Walterboro
+        distance:
+          value: 9.98
+          units: km
     - region: SC
       exchange: '178230'
       name: Spartanburg
@@ -3754,6 +4809,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.948473'
       long: "-81.931505"
+      closest_city:
+        name: Spartanburg
+        distance:
+          value: 0.75
+          units: km
     - region: SC
       exchange: '322686'
       name: Springfield
@@ -3770,6 +4830,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '33.498246'
       long: "-81.284654"
+      closest_city:
+        name: Springfield
+        distance:
+          value: 0.51
+          units: km
     - region: SC
       exchange: '178250'
       name: St George
@@ -3778,6 +4843,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '33.184025'
       long: "-80.574522"
+      closest_city:
+        name: St. George
+        distance:
+          value: 0.51
+          units: km
     - region: SC
       exchange: '178260'
       name: St Helena Island
@@ -3786,6 +4856,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE CO CAROLINAS DBA CENTURYLINK
       lat: '32.402478'
       long: "-80.574816"
+      closest_city:
+        name: Fripp Island
+        distance:
+          value: 12.61
+          units: km
     - region: SC
       exchange: '178270'
       name: St Matthews
@@ -3794,6 +4869,11 @@ rate_centers:
       ilec_name: WINDSTREAM SOUTH CAROLINA, INC.
       lat: '33.665914'
       long: "-80.774868"
+      closest_city:
+        name: St. Matthews
+        distance:
+          value: 0.36
+          units: km
     - region: SC
       exchange: '178280'
       name: St Stephen
@@ -3802,6 +4882,11 @@ rate_centers:
       ilec_name: ST. STEPHEN TEL. CO.
       lat: '33.398302'
       long: "-79.924465"
+      closest_city:
+        name: St. Stephen
+        distance:
+          value: 0.73
+          units: km
     - region: SC
       exchange: '178290'
       name: Starr
@@ -3810,6 +4895,11 @@ rate_centers:
       ilec_name: WEST CAROLINA RURAL TEL. COOP., INC.
       lat: '34.378496'
       long: "-82.693559"
+      closest_city:
+        name: Starr
+        distance:
+          value: 0.21
+          units: km
     - region: SC
       exchange: '322435'
       name: Startex
@@ -3826,6 +4916,11 @@ rate_centers:
       ilec_name: FARMERS TEL. COOP., INC.
       lat: '33.962915'
       long: "-80.463622"
+      closest_city:
+        name: Cherryvale
+        distance:
+          value: 0.99
+          units: km
     - region: SC
       exchange: '323492'
       name: Stieffeltown
@@ -3858,6 +4953,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '32.78473'
       long: "-79.839517"
+      closest_city:
+        name: Sullivan's Island
+        distance:
+          value: 1.85
+          units: km
     - region: SC
       exchange: '178320'
       name: Summerton
@@ -3866,6 +4966,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - SC
       lat: '33.607357'
       long: "-80.351923"
+      closest_city:
+        name: Summerton
+        distance:
+          value: 0.68
+          units: km
     - region: SC
       exchange: '178330'
       name: Summerville
@@ -3874,6 +4979,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '33.026219'
       long: "-80.182101"
+      closest_city:
+        name: Summerville
+        distance:
+          value: 2.75
+          units: km
     - region: SC
       exchange: '322693'
       name: Summit
@@ -3890,6 +5000,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - SC
       lat: '33.915932'
       long: "-80.342517"
+      closest_city:
+        name: South Sumter
+        distance:
+          value: 3.41
+          units: km
     - region: SC
       exchange: '322436'
       name: Sunset
@@ -3914,6 +5029,11 @@ rate_centers:
       ilec_name: PBT TELECOM, INC.
       lat: '33.732134'
       long: "-81.101216"
+      closest_city:
+        name: Swansea
+        distance:
+          value: 0.92
+          units: km
     - region: SC
       exchange: '322437'
       name: Switzer
@@ -3994,6 +5114,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.134059'
       long: "-79.94311"
+      closest_city:
+        name: Timmonsville
+        distance:
+          value: 0.22
+          units: km
     - region: SC
       exchange: '321996'
       name: Tirzah
@@ -4026,6 +5151,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.965243'
       long: "-82.440891"
+      closest_city:
+        name: Travelers Rest
+        distance:
+          value: 0.78
+          units: km
     - region: SC
       exchange: '323494'
       name: Trenton
@@ -4050,6 +5180,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE CO CAROLINAS DBA CENTURYLINK
       lat: '33.984571'
       long: "-82.298199"
+      closest_city:
+        name: Troy
+        distance:
+          value: 0.39
+          units: km
     - region: SC
       exchange: '178390'
       name: Turbeville
@@ -4058,6 +5193,11 @@ rate_centers:
       ilec_name: FARMERS TEL. COOP., INC.
       lat: '33.89462'
       long: "-80.013139"
+      closest_city:
+        name: Turbeville
+        distance:
+          value: 0.63
+          units: km
     - region: SC
       exchange: '322697'
       name: Ulmer
@@ -4074,6 +5214,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.716494'
       long: "-81.618817"
+      closest_city:
+        name: Union
+        distance:
+          value: 0.95
+          units: km
     - region: SC
       exchange: '322445'
       name: Valley Falls
@@ -4130,6 +5275,11 @@ rate_centers:
       ilec_name: PBT TELECOM, INC.
       lat: '33.650253'
       long: "-81.360965"
+      closest_city:
+        name: Wagener
+        distance:
+          value: 0.18
+          units: km
     - region: SC
       exchange: '178420'
       name: Walhalla
@@ -4138,6 +5288,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.759564'
       long: "-83.068384"
+      closest_city:
+        name: Walhalla
+        distance:
+          value: 1.37
+          units: km
     - region: SC
       exchange: '322553'
       name: Wallace
@@ -4154,6 +5309,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - SC
       lat: '32.900064'
       long: "-80.660378"
+      closest_city:
+        name: Walterboro
+        distance:
+          value: 1.46
+          units: km
     - region: SC
       exchange: '178440'
       name: Wampee
@@ -4162,6 +5322,11 @@ rate_centers:
       ilec_name: HORRY TEL. COOP., INC.
       lat: '33.864263'
       long: "-78.726129"
+      closest_city:
+        name: North Myrtle Beach
+        distance:
+          value: 4.86
+          units: km
     - region: SC
       exchange: '322807'
       name: Wando
@@ -4186,6 +5351,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE CO CAROLINAS DBA CENTURYLINK
       lat: '34.399523'
       long: "-82.239293"
+      closest_city:
+        name: Ware Shoals
+        distance:
+          value: 1.13
+          units: km
     - region: SC
       exchange: '323496'
       name: Warrenville
@@ -4210,6 +5380,11 @@ rate_centers:
       ilec_name: PIEDMONT RURAL TEL. COOP., INC.
       lat: '34.356606'
       long: "-82.056703"
+      closest_city:
+        name: Waterloo
+        distance:
+          value: 0.07
+          units: km
     - region: SC
       exchange: '322704'
       name: Wedgefield
@@ -4234,6 +5409,11 @@ rate_centers:
       ilec_name: WEST CAROLINA RURAL TEL. COOP., INC.
       lat: '34.177852'
       long: "-82.385438"
+      closest_city:
+        name: Abbeville
+        distance:
+          value: 0.75
+          units: km
     - region: SC
       exchange: '178480'
       name: West Andrews
@@ -4242,6 +5422,11 @@ rate_centers:
       ilec_name: FARMERS TEL. COOP., INC.
       lat: '33.496499'
       long: "-79.538592"
+      closest_city:
+        name: Andrews
+        distance:
+          value: 5.82
+          units: km
     - region: SC
       exchange: '176641'
       name: West Columbia
@@ -4250,6 +5435,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.009577'
       long: "-81.033355"
+      closest_city:
+        name: Olympia
+        distance:
+          value: 3.65
+          units: km
     - region: SC
       exchange: '178490'
       name: West End
@@ -4258,6 +5448,11 @@ rate_centers:
       ilec_name: PIEDMONT RURAL TEL. COOP., INC.
       lat: '34.425574'
       long: "-82.259352"
+      closest_city:
+        name: Ware Shoals
+        distance:
+          value: 4.43
+          units: km
     - region: SC
       exchange: '178500'
       name: West Myrtle Beach
@@ -4266,6 +5461,11 @@ rate_centers:
       ilec_name: HORRY TEL. COOP., INC.
       lat: '33.720058'
       long: "-78.942953"
+      closest_city:
+        name: Forestbrook
+        distance:
+          value: 2.33
+          units: km
     - region: SC
       exchange: '322452'
       name: West Union
@@ -4282,6 +5482,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.663892'
       long: "-83.090992"
+      closest_city:
+        name: Westminster
+        distance:
+          value: 0.19
+          units: km
     - region: SC
       exchange: '322705'
       name: Westville
@@ -4330,6 +5535,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.499658'
       long: "-81.615148"
+      closest_city:
+        name: Whitmire
+        distance:
+          value: 0.5
+          units: km
     - region: SC
       exchange: '322454'
       name: Whitney
@@ -4346,6 +5556,11 @@ rate_centers:
       ilec_name: PALMETTO RURAL TEL. COOP., INC.
       lat: '33.032603'
       long: "-80.852335"
+      closest_city:
+        name: Williams
+        distance:
+          value: 0.9
+          units: km
     - region: SC
       exchange: '178540'
       name: Williamston
@@ -4354,6 +5569,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.618849'
       long: "-82.476401"
+      closest_city:
+        name: Williamston
+        distance:
+          value: 0.28
+          units: km
     - region: SC
       exchange: '322456'
       name: Willington
@@ -4370,6 +5590,11 @@ rate_centers:
       ilec_name: WILLISTON TEL. CO.
       lat: '33.39928'
       long: "-81.427016"
+      closest_city:
+        name: Williston
+        distance:
+          value: 0.54
+          units: km
     - region: SC
       exchange: '323497'
       name: Windsor
@@ -4394,6 +5619,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - SC
       lat: '34.384456'
       long: "-81.081453"
+      closest_city:
+        name: Winnsboro
+        distance:
+          value: 1.64
+          units: km
     - region: SC
       exchange: '322712'
       name: Wisacky
@@ -4426,6 +5656,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - SC
       lat: '34.740641'
       long: "-82.031175"
+      closest_city:
+        name: Woodruff
+        distance:
+          value: 0.57
+          units: km
     - region: SC
       exchange: '178580'
       name: Yemassee
@@ -4434,6 +5669,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - SC
       lat: '32.692136'
       long: "-80.849868"
+      closest_city:
+        name: Yemassee
+        distance:
+          value: 2.1
+          units: km
     - region: SC
       exchange: '322811'
       name: Yonges Island
@@ -4450,3 +5690,8 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '34.994623'
       long: "-81.242652"
+      closest_city:
+        name: York
+        distance:
+          value: 0.81
+          units: km

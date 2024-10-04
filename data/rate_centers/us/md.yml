@@ -1,7 +1,7 @@
 ---
 rate_centers:
-  us:
-    md:
+  US:
+    MD:
     - region: MD
       exchange: '311424'
       name: Abell
@@ -18,6 +18,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.509036'
       long: "-76.168188"
+      closest_city:
+        name: Aberdeen
+        distance:
+          value: 0.8
+          units: km
     - region: MD
       exchange: '311740'
       name: Aberdeen Proving Ground
@@ -42,6 +47,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.624379'
       long: "-79.318973"
+      closest_city:
+        name: Accident
+        distance:
+          value: 0.17
+          units: km
     - region: MD
       exchange: '311425'
       name: Accokeek
@@ -98,6 +108,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.98363'
       long: "-76.496624"
+      closest_city:
+        name: Naval Academy
+        distance:
+          value: 0.78
+          units: km
     - region: MD
       exchange: '311428'
       name: Annapolis Junction
@@ -122,6 +137,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.242734'
       long: "-76.665694"
+      closest_city:
+        name: Lansdowne
+        distance:
+          value: 0.69
+          units: km
     - region: MD
       exchange: '311744'
       name: Arlington
@@ -138,10 +158,23 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.134131'
       long: "-76.547622"
+      closest_city:
+        name: Pasadena
+        distance:
+          value: 2.4
+          units: km
     - region: MD
       exchange: '311745'
       name: Arnold
       short_name: ARNOLD
+      lata: '238'
+      ilec_name: VERIZON MARYLAND, INC.
+      lat:
+      long:
+    - region: MD
+      exchange: '311746'
+      name: Ashton
+      short_name: ASHTON
       lata: '238'
       ilec_name: VERIZON MARYLAND, INC.
       lat:
@@ -154,14 +187,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.150832'
       long: "-77.022453"
-    - region: MD
-      exchange: '311746'
-      name: Ashton
-      short_name: ASHTON
-      lata: '238'
-      ilec_name: VERIZON MARYLAND, INC.
-      lat:
-      long:
+      closest_city:
+        name: Ashton-Sandy Spring
+        distance:
+          value: 1.38
+          units: km
     - region: MD
       exchange: '311430'
       name: Ashton
@@ -178,6 +208,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.150832'
       long: "-77.022453"
+      closest_city:
+        name: Ashton-Sandy Spring
+        distance:
+          value: 1.38
+          units: km
     - region: MD
       exchange: '311432'
       name: Aspen Hill
@@ -226,6 +261,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.298857'
       long: "-76.614736"
+      closest_city:
+        name: Baltimore
+        distance:
+          value: 0.69
+          units: km
     - region: MD
       exchange: '312174'
       name: Barclay
@@ -274,6 +314,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.534457'
       long: "-76.348555"
+      closest_city:
+        name: Bel Air
+        distance:
+          value: 0.22
+          units: km
     - region: MD
       exchange: '311437'
       name: Bel Alton
@@ -330,6 +375,24 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.325612'
       long: "-75.218044"
+      closest_city:
+        name: Berlin
+        distance:
+          value: 0.66
+          units: km
+    - region: MD
+      exchange: '080652'
+      name: Berwyn
+      short_name: Berwyn
+      lata: '236'
+      ilec_name: VERIZON MARYLAND, INC.
+      lat: '38.992001'
+      long: "-76.913396"
+      closest_city:
+        name: Berwyn Heights
+        distance:
+          value: 0.09
+          units: km
     - region: MD
       exchange: '311757'
       name: Berwyn
@@ -339,21 +402,18 @@ rate_centers:
       lat:
       long:
     - region: MD
-      exchange: '080652'
-      name: Berwyn
-      short_name:
-      lata: '236'
-      ilec_name: VERIZON MARYLAND, INC.
-      lat: '38.992001'
-      long: "-76.913396"
-    - region: MD
       exchange: '080655'
       name: Berwyn (Baltimore LATA)
-      short_name:
+      short_name: Berwyn (Baltimore LATA)
       lata: '238'
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.992001'
       long: "-76.913396"
+      closest_city:
+        name: Berwyn Heights
+        distance:
+          value: 0.09
+          units: km
     - region: MD
       exchange: '311440'
       name: Berwyn (Prince George'S)
@@ -426,6 +486,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.433253'
       long: "-75.219538"
+      closest_city:
+        name: Bishopville
+        distance:
+          value: 1.27
+          units: km
     - region: MD
       exchange: '079290'
       name: Bittinger
@@ -434,6 +499,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.600739'
       long: "-79.218183"
+      closest_city:
+        name: Jennings
+        distance:
+          value: 6.1
+          units: km
     - region: MD
       exchange: '312180'
       name: Bivalve
@@ -490,14 +560,24 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.982839'
       long: "-76.813882"
+      closest_city:
+        name: Glenn Dale
+        distance:
+          value: 0.86
+          units: km
     - region: MD
       exchange: '080665'
       name: Bowie-Glenn Dale (Baltimore LATA)
-      short_name:
+      short_name: Bowie-Glenn Dale (Baltimore LATA)
       lata: '238'
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.982839'
       long: "-76.813882"
+      closest_city:
+        name: Glenn Dale
+        distance:
+          value: 0.86
+          units: km
     - region: MD
       exchange: '311759'
       name: Bowie-Glenn Dale (Howard)
@@ -546,6 +626,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.699365'
       long: "-76.845611"
+      closest_city:
+        name: Brandywine
+        distance:
+          value: 3.4
+          units: km
     - region: MD
       exchange: '311448'
       name: Brentwood
@@ -602,6 +687,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.21652'
       long: "-76.61725"
+      closest_city:
+        name: Brooklyn Park
+        distance:
+          value: 0.05
+          units: km
     - region: MD
       exchange: '312182'
       name: Brookview
@@ -634,6 +724,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.315187'
       long: "-77.622985"
+      closest_city:
+        name: Brunswick
+        distance:
+          value: 0.37
+          units: km
     - region: MD
       exchange: '079841'
       name: Bryans Road
@@ -658,6 +753,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.33233'
       long: "-77.435383"
+      closest_city:
+        name: Buckeystown
+        distance:
+          value: 0.92
+          units: km
     - region: MD
       exchange: '312006'
       name: Burkittsville
@@ -738,6 +838,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.568223'
       long: "-76.075007"
+      closest_city:
+        name: Cambridge
+        distance:
+          value: 1.89
+          units: km
     - region: MD
       exchange: '311459'
       name: Camp Springs
@@ -778,6 +883,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.71551'
       long: "-76.342007"
+      closest_city:
+        name: Pylesville
+        distance:
+          value: 4.96
+          units: km
     - region: MD
       exchange: '311771'
       name: Carroll
@@ -818,6 +928,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.268168'
       long: "-76.74375"
+      closest_city:
+        name: Catonsville
+        distance:
+          value: 0.41
+          units: km
     - region: MD
       exchange: '312008'
       name: Cavetown
@@ -834,6 +949,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.399552'
       long: "-75.876162"
+      closest_city:
+        name: Cecilton
+        distance:
+          value: 0.94
+          units: km
     - region: MD
       exchange: '079380'
       name: Centreville
@@ -842,6 +962,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.040616'
       long: "-76.069293"
+      closest_city:
+        name: Centreville
+        distance:
+          value: 0.56
+          units: km
     - region: MD
       exchange: '312186'
       name: Chance
@@ -882,6 +1007,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.358663'
       long: "-76.364615"
+      closest_city:
+        name: Bowleys Quarters
+        distance:
+          value: 4.68
+          units: km
     - region: MD
       exchange: '311463'
       name: Cheltenham
@@ -906,6 +1036,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.532165'
       long: "-75.811196"
+      closest_city:
+        name: Chesapeake City
+        distance:
+          value: 0.49
+          units: km
     - region: MD
       exchange: '312188'
       name: Chester
@@ -922,6 +1057,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.207798'
       long: "-76.067884"
+      closest_city:
+        name: Chestertown
+        distance:
+          value: 1.2
+          units: km
     - region: MD
       exchange: '311779'
       name: Chestnut Hill Cove
@@ -994,6 +1134,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.140006'
       long: "-75.985224"
+      closest_city:
+        name: Church Hill
+        distance:
+          value: 0.69
+          units: km
     - region: MD
       exchange: '311780'
       name: Churchton
@@ -1010,6 +1155,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.557647'
       long: "-76.247132"
+      closest_city:
+        name: Aberdeen
+        distance:
+          value: 7.9
+          units: km
     - region: MD
       exchange: '312192'
       name: Claiborne
@@ -1042,6 +1192,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.655189'
       long: "-77.932546"
+      closest_city:
+        name: Clear Spring
+        distance:
+          value: 0.22
+          units: km
     - region: MD
       exchange: '311784'
       name: Clearwater Beach
@@ -1090,6 +1245,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.484512'
       long: "-76.648477"
+      closest_city:
+        name: Cockeysville
+        distance:
+          value: 1.7
+          units: km
     - region: MD
       exchange: '311472'
       name: Colesville
@@ -1138,6 +1298,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.216759'
       long: "-76.855146"
+      closest_city:
+        name: Columbia
+        distance:
+          value: 1.85
+          units: km
     - region: MD
       exchange: '311476'
       name: Compton
@@ -1218,6 +1383,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '37.985447'
       long: "-75.851111"
+      closest_city:
+        name: Crisfield
+        distance:
+          value: 0.16
+          units: km
     - region: MD
       exchange: '312196'
       name: Crocheron
@@ -1234,6 +1404,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.989333'
       long: "-76.671436"
+      closest_city:
+        name: Crofton
+        distance:
+          value: 2.88
+          units: km
     - region: MD
       exchange: '311794'
       name: Crownsville
@@ -1258,6 +1433,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.65019'
       long: "-78.754641"
+      closest_city:
+        name: Cumberland
+        distance:
+          value: 0.35
+          units: km
     - region: MD
       exchange: '311795'
       name: Curtis Bay
@@ -1274,6 +1454,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.289041'
       long: "-77.207931"
+      closest_city:
+        name: Damascus
+        distance:
+          value: 2.35
+          units: km
     - region: MD
       exchange: '311479'
       name: Damascus
@@ -1290,6 +1475,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.289041'
       long: "-77.207931"
+      closest_city:
+        name: Damascus
+        distance:
+          value: 2.35
+          units: km
     - region: MD
       exchange: '312016'
       name: Damascus (Montgomery)
@@ -1338,6 +1528,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.642714'
       long: "-76.197707"
+      closest_city:
+        name: Darlington
+        distance:
+          value: 0.5
+          units: km
     - region: MD
       exchange: '311481'
       name: Darnestown
@@ -1370,6 +1565,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.158793'
       long: "-75.951559"
+      closest_city:
+        name: Deal Island
+        distance:
+          value: 1.82
+          units: km
     - region: MD
       exchange: '311801'
       name: Deale
@@ -1394,6 +1594,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.459798'
       long: "-75.577138"
+      closest_city:
+        name: Delmar
+        distance:
+          value: 1.9
+          units: km
     - region: MD
       exchange: '079540'
       name: Denton
@@ -1402,6 +1607,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.882775'
       long: "-75.823619"
+      closest_city:
+        name: Denton
+        distance:
+          value: 0.69
+          units: km
     - region: MD
       exchange: '311482'
       name: Dentsville
@@ -1482,6 +1692,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.255355'
       long: "-76.524133"
+      closest_city:
+        name: Dundalk
+        distance:
+          value: 3.07
+          units: km
     - region: MD
       exchange: '311806'
       name: Dunkirk
@@ -1530,6 +1745,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.774697'
       long: "-76.074167"
+      closest_city:
+        name: Easton
+        distance:
+          value: 0.38
+          units: km
     - region: MD
       exchange: '311809'
       name: Eastport
@@ -1578,6 +1798,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.423171'
       long: "-76.298182"
+      closest_city:
+        name: Edgewood
+        distance:
+          value: 0.49
+          units: km
     - region: MD
       exchange: '311812'
       name: Edgewood Arsenal
@@ -1618,6 +1843,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.215775'
       long: "-76.718997"
+      closest_city:
+        name: Elkridge
+        distance:
+          value: 3.16
+          units: km
     - region: MD
       exchange: '079590'
       name: Elkton
@@ -1626,6 +1856,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.617594'
       long: "-75.833868"
+      closest_city:
+        name: Elkton
+        distance:
+          value: 1.65
+          units: km
     - region: MD
       exchange: '312020'
       name: Ellerslie
@@ -1642,6 +1877,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.266621'
       long: "-76.802902"
+      closest_city:
+        name: Ellicott City
+        distance:
+          value: 2.97
+          units: km
     - region: MD
       exchange: '079610'
       name: Emmitsburg
@@ -1650,6 +1890,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.70647'
       long: "-77.32388"
+      closest_city:
+        name: Emmitsburg
+        distance:
+          value: 0.24
+          units: km
     - region: MD
       exchange: '079620'
       name: Essex
@@ -1658,6 +1903,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.319698'
       long: "-76.508928"
+      closest_city:
+        name: Rosedale
+        distance:
+          value: 0.77
+          units: km
     - region: MD
       exchange: '311820'
       name: Eudowood
@@ -1706,6 +1956,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.481787'
       long: "-76.375136"
+      closest_city:
+        name: Pleasant Hills
+        distance:
+          value: 1.43
+          units: km
     - region: MD
       exchange: '311488'
       name: Faulkner
@@ -1722,6 +1977,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.699202'
       long: "-75.775523"
+      closest_city:
+        name: Federalsburg
+        distance:
+          value: 0.74
+          units: km
     - region: MD
       exchange: '311822'
       name: Ferndale
@@ -1754,6 +2014,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.702185'
       long: "-78.566266"
+      closest_city:
+        name: Flintstone
+        distance:
+          value: 0.81
+          units: km
     - region: MD
       exchange: '311489'
       name: Forest Heights
@@ -1786,6 +2051,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.467722'
       long: "-76.431622"
+      closest_city:
+        name: Kingsville
+        distance:
+          value: 2.23
+          units: km
     - region: MD
       exchange: '312027'
       name: Fort Detrick
@@ -1858,6 +2128,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.418292'
       long: "-77.409057"
+      closest_city:
+        name: Frederick
+        distance:
+          value: 1.77
+          units: km
     - region: MD
       exchange: '311831'
       name: Freeland
@@ -1882,6 +2157,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.664591'
       long: "-79.39851"
+      closest_city:
+        name: Friendsville
+        distance:
+          value: 0.56
+          units: km
     - region: MD
       exchange: '079690'
       name: Frostburg
@@ -1890,6 +2170,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.649982'
       long: "-78.926306"
+      closest_city:
+        name: Frostburg
+        distance:
+          value: 0.09
+          units: km
     - region: MD
       exchange: '312211'
       name: Fruitland
@@ -1930,6 +2215,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.141869'
       long: "-77.202938"
+      closest_city:
+        name: Gaithersburg
+        distance:
+          value: 1.19
+          units: km
     - region: MD
       exchange: '079710'
       name: Galena
@@ -1938,6 +2228,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.341189'
       long: "-75.872024"
+      closest_city:
+        name: Galena
+        distance:
+          value: 0.59
+          units: km
     - region: MD
       exchange: '312213'
       name: Galestown
@@ -2034,6 +2329,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.165997'
       long: "-76.626973"
+      closest_city:
+        name: Glen Burnie
+        distance:
+          value: 2.04
+          units: km
     - region: MD
       exchange: '311495'
       name: Glen Echo
@@ -2082,6 +2382,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.315605'
       long: "-77.018407"
+      closest_city:
+        name: Lisbon
+        distance:
+          value: 4.99
+          units: km
     - region: MD
       exchange: '311845'
       name: Glyndon
@@ -2138,6 +2443,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.702655'
       long: "-79.159295"
+      closest_city:
+        name: Grantsville
+        distance:
+          value: 0.85
+          units: km
     - region: MD
       exchange: '312218'
       name: Grasonville
@@ -2194,6 +2504,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.976158'
       long: "-75.810027"
+      closest_city:
+        name: Greensboro
+        distance:
+          value: 0.18
+          units: km
     - region: MD
       exchange: '311851'
       name: Gunpowder
@@ -2218,6 +2533,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.64219'
       long: "-77.728048"
+      closest_city:
+        name: Hagerstown
+        distance:
+          value: 0.59
+          units: km
     - region: MD
       exchange: '311853'
       name: Halethorpe
@@ -2234,6 +2554,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.598245'
       long: "-76.84949"
+      closest_city:
+        name: Hampstead
+        distance:
+          value: 1.44
+          units: km
     - region: MD
       exchange: '079780'
       name: Hancock
@@ -2242,6 +2567,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.708618'
       long: "-78.173049"
+      closest_city:
+        name: Hancock
+        distance:
+          value: 0.39
+          units: km
     - region: MD
       exchange: '311855'
       name: Hanover
@@ -2274,6 +2604,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.551655'
       long: "-76.092348"
+      closest_city:
+        name: Havre de Grace
+        distance:
+          value: 1.95
+          units: km
     - region: MD
       exchange: '312220'
       name: Hebron
@@ -2330,6 +2665,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.715984'
       long: "-77.488913"
+      closest_city:
+        name: Highfield-Cascade
+        distance:
+          value: 0.55
+          units: km
     - region: MD
       exchange: '311502'
       name: Highland
@@ -2370,6 +2710,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.918763'
       long: "-75.949628"
+      closest_city:
+        name: Hillsboro
+        distance:
+          value: 0.72
+          units: km
     - region: MD
       exchange: '311863'
       name: Holland Point
@@ -2402,6 +2747,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.533625'
       long: "-76.786283"
+      closest_city:
+        name: Hughesville
+        distance:
+          value: 1.09
+          units: km
     - region: MD
       exchange: '311864'
       name: Huntingtown
@@ -2418,6 +2768,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.632841'
       long: "-75.857913"
+      closest_city:
+        name: Hurlock
+        distance:
+          value: 0.85
+          units: km
     - region: MD
       exchange: '312036'
       name: Hutton
@@ -2445,7 +2800,7 @@ rate_centers:
     - region: MD
       exchange: '080593'
       name: Hyattsville (Baltimore LATA)
-      short_name:
+      short_name: Hyattsville (Baltimore LATA)
       lata: '238'
       ilec_name: VERIZON MARYLAND, INC.
       lat:
@@ -2490,6 +2845,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.601179'
       long: "-77.168378"
+      closest_city:
+        name: Indian Head
+        distance:
+          value: 1.15
+          units: km
     - region: MD
       exchange: '312225'
       name: Ingleside
@@ -2530,14 +2890,24 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.60816'
       long: "-76.48453"
+      closest_city:
+        name: Jarrettsville
+        distance:
+          value: 0.98
+          units: km
     - region: MD
       exchange: '079851'
       name: Jarrettsville 941
-      short_name:
+      short_name: Jarrettsville 941
       lata: '238'
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.60816'
       long: "-76.48453"
+      closest_city:
+        name: Jarrettsville
+        distance:
+          value: 0.98
+          units: km
     - region: MD
       exchange: '312038'
       name: Jefferson
@@ -2578,6 +2948,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.494775'
       long: "-77.700713"
+      closest_city:
+        name: Keedysville
+        distance:
+          value: 0.93
+          units: km
     - region: MD
       exchange: '312226'
       name: Kennedyville
@@ -2634,6 +3009,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.392515'
       long: "-79.175774"
+      closest_city:
+        name: Kitzmiller
+        distance:
+          value: 0.73
+          units: km
     - region: MD
       exchange: '312042'
       name: Knoxville
@@ -2650,6 +3030,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.523757'
       long: "-76.97334"
+      closest_city:
+        name: La Plata
+        distance:
+          value: 1.31
+          units: km
     - region: MD
       exchange: '312043'
       name: La Vale
@@ -2739,6 +3124,14 @@ rate_centers:
       lat:
       long:
     - region: MD
+      exchange: '311521'
+      name: Laurel
+      short_name: LAUREL
+      lata: '236'
+      ilec_name: VERIZON MARYLAND, INC.
+      lat:
+      long:
+    - region: MD
       exchange: '079890'
       name: Laurel
       short_name: LAUREL236
@@ -2746,6 +3139,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.108944'
       long: "-76.851463"
+      closest_city:
+        name: Laurel
+        distance:
+          value: 1.82
+          units: km
     - region: MD
       exchange: '311520'
       name: Laurel
@@ -2763,14 +3161,6 @@ rate_centers:
       lat:
       long:
     - region: MD
-      exchange: '311521'
-      name: Laurel
-      short_name: LAUREL
-      lata: '236'
-      ilec_name: VERIZON MARYLAND, INC.
-      lat:
-      long:
-    - region: MD
       exchange: '079891'
       name: Laurel (Baltimore LATA)
       short_name: LAUREL238
@@ -2778,6 +3168,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.108944'
       long: "-76.851463"
+      closest_city:
+        name: Laurel
+        distance:
+          value: 1.82
+          units: km
     - region: MD
       exchange: '312046'
       name: Lavale
@@ -2818,6 +3213,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.292741'
       long: "-76.630212"
+      closest_city:
+        name: Leonardtown
+        distance:
+          value: 1.48
+          units: km
     - region: MD
       exchange: '312049'
       name: Lewistown
@@ -2842,6 +3242,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.239616'
       long: "-76.492433"
+      closest_city:
+        name: Callaway
+        distance:
+          value: 2.8
+          units: km
     - region: MD
       exchange: '311878'
       name: Liberty Grove
@@ -2954,6 +3359,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.566018'
       long: "-78.977279"
+      closest_city:
+        name: Lonaconing
+        distance:
+          value: 0.15
+          units: km
     - region: MD
       exchange: '311886'
       name: Long Green
@@ -3090,6 +3500,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.039146'
       long: "-75.766888"
+      closest_city:
+        name: Fairmount
+        distance:
+          value: 7.8
+          units: km
     - region: MD
       exchange: '312235'
       name: Marion Station
@@ -3194,6 +3609,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.450402'
       long: "-78.976967"
+      closest_city:
+        name: McCoole
+        distance:
+          value: 0.46
+          units: km
     - region: MD
       exchange: '312238'
       name: McDaniel
@@ -3234,6 +3654,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.441607'
       long: "-76.739872"
+      closest_city:
+        name: Mechanicsville
+        distance:
+          value: 0.71
+          units: km
     - region: MD
       exchange: '311900'
       name: Middle River
@@ -3258,6 +3683,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.442505'
       long: "-77.538599"
+      closest_city:
+        name: Middletown
+        distance:
+          value: 0.35
+          units: km
     - region: MD
       exchange: '312059'
       name: Midland
@@ -3298,6 +3728,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.058581'
       long: "-76.644894"
+      closest_city:
+        name: Gambrills
+        distance:
+          value: 3.83
+          units: km
     - region: MD
       exchange: '079980'
       name: Millington
@@ -3306,6 +3741,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.256828'
       long: "-75.841041"
+      closest_city:
+        name: Millington
+        distance:
+          value: 0.8
+          units: km
     - region: MD
       exchange: '311535'
       name: Mitchellville
@@ -3362,6 +3802,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.374644'
       long: "-77.159984"
+      closest_city:
+        name: Mount Airy
+        distance:
+          value: 0.57
+          units: km
     - region: MD
       exchange: '311539'
       name: Mount Rainier
@@ -3378,6 +3823,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.69072'
       long: "-78.876814"
+      closest_city:
+        name: Mount Savage
+        distance:
+          value: 0.65
+          units: km
     - region: MD
       exchange: '311540'
       name: Mount Victoria
@@ -3426,6 +3876,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.507487'
       long: "-77.567077"
+      closest_city:
+        name: Myersville
+        distance:
+          value: 0.22
+          units: km
     - region: MD
       exchange: '080020'
       name: Nanjemoy
@@ -3434,6 +3889,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.449579'
       long: "-77.21675"
+      closest_city:
+        name: Indian Head
+        distance:
+          value: 17.42
+          units: km
     - region: MD
       exchange: '080030'
       name: Nanticoke
@@ -3442,6 +3902,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.297959'
       long: "-75.889954"
+      closest_city:
+        name: Bivalve
+        distance:
+          value: 0.95
+          units: km
     - region: MD
       exchange: '311907'
       name: Naval Academy
@@ -3474,6 +3939,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.382384'
       long: "-77.26834"
+      closest_city:
+        name: New Market
+        distance:
+          value: 1.16
+          units: km
     - region: MD
       exchange: '312067'
       name: New Midway
@@ -3490,6 +3960,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.542609'
       long: "-77.109876"
+      closest_city:
+        name: New Windsor
+        distance:
+          value: 0.77
+          units: km
     - region: MD
       exchange: '312242'
       name: Newark
@@ -3530,6 +4005,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.683891'
       long: "-76.530118"
+      closest_city:
+        name: Chesapeake Beach
+        distance:
+          value: 1.36
+          units: km
     - region: MD
       exchange: '311541'
       name: North Bethesda
@@ -3562,6 +4042,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.6001'
       long: "-75.945204"
+      closest_city:
+        name: North East
+        distance:
+          value: 0.9
+          units: km
     - region: MD
       exchange: '311543'
       name: North Englewood
@@ -3602,6 +4087,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.407744'
       long: "-79.411079"
+      closest_city:
+        name: Oakland
+        distance:
+          value: 1.24
+          units: km
     - region: MD
       exchange: '080090'
       name: Ocean City
@@ -3610,6 +4100,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.33185'
       long: "-75.089703"
+      closest_city:
+        name: West Ocean City
+        distance:
+          value: 2.56
+          units: km
     - region: MD
       exchange: '079271'
       name: Ocean Pines
@@ -3626,6 +4121,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.082522'
       long: "-76.709696"
+      closest_city:
+        name: Odenton
+        distance:
+          value: 2.28
+          units: km
     - region: MD
       exchange: '311917'
       name: Oella
@@ -3642,6 +4142,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.540942'
       long: "-78.606413"
+      closest_city:
+        name: Oldtown
+        distance:
+          value: 0.85
+          units: km
     - region: MD
       exchange: '311550'
       name: Olney
@@ -3698,6 +4203,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.375605'
       long: "-76.725836"
+      closest_city:
+        name: Pikesville
+        distance:
+          value: 2.55
+          units: km
     - region: MD
       exchange: '080110'
       name: Oxford
@@ -3706,6 +4216,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.684187'
       long: "-76.163723"
+      closest_city:
+        name: Oxford
+        distance:
+          value: 0.57
+          units: km
     - region: MD
       exchange: '080611'
       name: Oxon Hill
@@ -3730,6 +4245,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.640586'
       long: "-76.658423"
+      closest_city:
+        name: Jarrettsville
+        distance:
+          value: 16.24
+          units: km
     - region: MD
       exchange: '080130'
       name: Parkville
@@ -3738,6 +4258,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.374346'
       long: "-76.517019"
+      closest_city:
+        name: Overlea
+        distance:
+          value: 1.13
+          units: km
     - region: MD
       exchange: '079211'
       name: Parole
@@ -3818,6 +4343,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.557526'
       long: "-76.072326"
+      closest_city:
+        name: Perryville
+        distance:
+          value: 1.86
+          units: km
     - region: MD
       exchange: '311930'
       name: Phoenix
@@ -3834,6 +4364,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.375605'
       long: "-76.725836"
+      closest_city:
+        name: Pikesville
+        distance:
+          value: 2.55
+          units: km
     - region: MD
       exchange: '311554'
       name: Piney Point
@@ -3874,6 +4409,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.065646'
       long: "-75.564089"
+      closest_city:
+        name: Pocomoke City
+        distance:
+          value: 0.81
+          units: km
     - region: MD
       exchange: '312251'
       name: Pocomoke City
@@ -3906,6 +4446,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.140618'
       long: "-77.419274"
+      closest_city:
+        name: Poolesville
+        distance:
+          value: 0.8
+          units: km
     - region: MD
       exchange: '080180'
       name: Port Deposit
@@ -3914,6 +4459,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.610517'
       long: "-76.11807"
+      closest_city:
+        name: Port Deposit
+        distance:
+          value: 1.72
+          units: km
     - region: MD
       exchange: '311934'
       name: Port Republic
@@ -3954,6 +4504,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.717691'
       long: "-75.910024"
+      closest_city:
+        name: Preston
+        distance:
+          value: 0.73
+          units: km
     - region: MD
       exchange: '312254'
       name: Price
@@ -3970,6 +4525,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.54168'
       long: "-76.586215"
+      closest_city:
+        name: Prince Frederick
+        distance:
+          value: 0.3
+          units: km
     - region: MD
       exchange: '080210'
       name: Princess Anne
@@ -3978,6 +4538,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.20949'
       long: "-75.690945"
+      closest_city:
+        name: Princess Anne
+        distance:
+          value: 0.7
+          units: km
     - region: MD
       exchange: '311935'
       name: Pylesville
@@ -4010,6 +4575,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.99315'
       long: "-76.156121"
+      closest_city:
+        name: Queenstown
+        distance:
+          value: 0.94
+          units: km
     - region: MD
       exchange: '080230'
       name: Randallstown
@@ -4018,6 +4588,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.347137'
       long: "-76.766124"
+      closest_city:
+        name: Milford Mill
+        distance:
+          value: 0.31
+          units: km
     - region: MD
       exchange: '311937'
       name: Raspeburg
@@ -4050,6 +4625,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.466119'
       long: "-76.831828"
+      closest_city:
+        name: Reisterstown
+        distance:
+          value: 1.97
+          units: km
     - region: MD
       exchange: '312260'
       name: Rhodes Point
@@ -4082,6 +4662,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.11563'
       long: "-76.368224"
+      closest_city:
+        name: St. George Island
+        distance:
+          value: 9.52
+          units: km
     - region: MD
       exchange: '080260'
       name: Ridgely
@@ -4090,6 +4675,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.943768'
       long: "-75.883275"
+      closest_city:
+        name: Ridgely
+        distance:
+          value: 1.01
+          units: km
     - region: MD
       exchange: '080270'
       name: Rising Sun
@@ -4098,6 +4688,11 @@ rate_centers:
       ilec_name: ARMSTRONG TEL. CO. OF MARYLAND
       lat: '39.696581'
       long: "-76.060122"
+      closest_city:
+        name: Rising Sun
+        distance:
+          value: 0.43
+          units: km
     - region: MD
       exchange: '311561'
       name: Rison
@@ -4146,6 +4741,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.134107'
       long: "-76.229674"
+      closest_city:
+        name: Rock Hall
+        distance:
+          value: 1.27
+          units: km
     - region: MD
       exchange: '311563'
       name: Rock Point
@@ -4298,6 +4898,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.359037'
       long: "-75.597524"
+      closest_city:
+        name: Salisbury
+        distance:
+          value: 2.08
+          units: km
     - region: MD
       exchange: '311566'
       name: Sandy Spring
@@ -4378,6 +4983,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.134561'
       long: "-76.641022"
+      closest_city:
+        name: Glen Burnie
+        distance:
+          value: 3.77
+          units: km
     - region: MD
       exchange: '080310'
       name: Severna Park
@@ -4386,6 +4996,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.068266'
       long: "-76.54965"
+      closest_city:
+        name: Severna Park
+        distance:
+          value: 2.65
+          units: km
     - region: MD
       exchange: '311950'
       name: Shady Side
@@ -4418,6 +5033,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.54321'
       long: "-75.716684"
+      closest_city:
+        name: Sharptown
+        distance:
+          value: 0.6
+          units: km
     - region: MD
       exchange: '312268'
       name: Sherwood
@@ -4434,6 +5054,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.023721'
       long: "-76.539556"
+      closest_city:
+        name: Arnold
+        distance:
+          value: 4.27
+          units: km
     - region: MD
       exchange: '312269'
       name: Showell
@@ -4450,6 +5075,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.68998'
       long: "-77.041773"
+      closest_city:
+        name: Taneytown
+        distance:
+          value: 11.44
+          units: km
     - region: MD
       exchange: '080581'
       name: Silver Spring
@@ -4466,6 +5096,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '37.965385'
       long: "-76.025933"
+      closest_city:
+        name: Smith Island
+        distance:
+          value: 1.05
+          units: km
     - region: MD
       exchange: '080360'
       name: Smithsburg
@@ -4474,6 +5109,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.650926'
       long: "-77.576035"
+      closest_city:
+        name: Smithsburg
+        distance:
+          value: 0.56
+          units: km
     - region: MD
       exchange: '080370'
       name: Snow Hill
@@ -4482,6 +5122,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.176172'
       long: "-75.391453"
+      closest_city:
+        name: Snow Hill
+        distance:
+          value: 0.38
+          units: km
     - region: MD
       exchange: '080380'
       name: Solomons
@@ -4490,6 +5135,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.326423'
       long: "-76.457608"
+      closest_city:
+        name: Solomons
+        distance:
+          value: 1.2
+          units: km
     - region: MD
       exchange: '311954'
       name: Solomons Island
@@ -4514,6 +5164,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.550382'
       long: "-76.646419"
+      closest_city:
+        name: Cockeysville
+        distance:
+          value: 7.92
+          units: km
     - region: MD
       exchange: '080400'
       name: Sparrows Point
@@ -4522,6 +5177,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.216766'
       long: "-76.494183"
+      closest_city:
+        name: Edgemere
+        distance:
+          value: 3.25
+          units: km
     - region: MD
       exchange: '311573'
       name: Spencerville
@@ -4562,6 +5222,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.784295'
       long: "-76.223855"
+      closest_city:
+        name: St. Michaels
+        distance:
+          value: 0.45
+          units: km
     - region: MD
       exchange: '311959'
       name: Stevenson
@@ -4578,6 +5243,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.976123'
       long: "-76.308811"
+      closest_city:
+        name: Stevensville
+        distance:
+          value: 0.85
+          units: km
     - region: MD
       exchange: '080430'
       name: Still Pond
@@ -4586,6 +5256,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.322477'
       long: "-76.042098"
+      closest_city:
+        name: Still Pond
+        distance:
+          value: 0.39
+          units: km
     - region: MD
       exchange: '312275'
       name: Stockton
@@ -4618,6 +5293,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.192629'
       long: "-75.856836"
+      closest_city:
+        name: Sudlersville
+        distance:
+          value: 1.08
+          units: km
     - region: MD
       exchange: '311579'
       name: Suitland
@@ -4658,6 +5338,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.365545'
       long: "-76.966187"
+      closest_city:
+        name: Sykesville
+        distance:
+          value: 0.82
+          units: km
     - region: MD
       exchange: '311581'
       name: Takoma Park
@@ -4682,6 +5367,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.658847'
       long: "-77.171378"
+      closest_city:
+        name: Taneytown
+        distance:
+          value: 0.34
+          units: km
     - region: MD
       exchange: '312277'
       name: Taylors Island
@@ -4722,6 +5412,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.625066'
       long: "-77.411484"
+      closest_city:
+        name: Thurmont
+        distance:
+          value: 0.56
+          units: km
     - region: MD
       exchange: '080480'
       name: Tilghman
@@ -4730,6 +5425,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.716903'
       long: "-76.335289"
+      closest_city:
+        name: Tilghman Island
+        distance:
+          value: 1.79
+          units: km
     - region: MD
       exchange: '311967'
       name: Timonium
@@ -4754,6 +5454,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.352011'
       long: "-76.933324"
+      closest_city:
+        name: Rock Point
+        distance:
+          value: 11.62
+          units: km
     - region: MD
       exchange: '080500'
       name: Towson
@@ -4762,6 +5467,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.402515'
       long: "-76.600008"
+      closest_city:
+        name: Towson
+        distance:
+          value: 1.86
+          units: km
     - region: MD
       exchange: '311969'
       name: Tracys Landing
@@ -4778,6 +5488,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.657951'
       long: "-76.065323"
+      closest_city:
+        name: Trappe
+        distance:
+          value: 1.32
+          units: km
     - region: MD
       exchange: '312086'
       name: Tuscarora
@@ -4818,6 +5533,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.56633'
       long: "-77.175248"
+      closest_city:
+        name: Union Bridge
+        distance:
+          value: 0.76
+          units: km
     - region: MD
       exchange: '311971'
       name: Uniontown
@@ -4898,6 +5618,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.483764'
       long: "-75.821373"
+      closest_city:
+        name: Vienna
+        distance:
+          value: 0.95
+          units: km
     - region: MD
       exchange: '080540'
       name: Waldorf
@@ -4906,6 +5631,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.625456'
       long: "-76.904365"
+      closest_city:
+        name: Waldorf
+        distance:
+          value: 2.29
+          units: km
     - region: MD
       exchange: '080550'
       name: Walkersville
@@ -4914,6 +5644,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.482319'
       long: "-77.351793"
+      closest_city:
+        name: Walkersville
+        distance:
+          value: 0.37
+          units: km
     - region: MD
       exchange: '080560'
       name: Warwick
@@ -4922,6 +5657,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.415952'
       long: "-75.773424"
+      closest_city:
+        name: Cecilton
+        distance:
+          value: 8.18
+          units: km
     - region: MD
       exchange: '311591'
       name: Washington Grove
@@ -4938,6 +5678,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.085514'
       long: "-77.159932"
+      closest_city:
+        name: Rockville
+        distance:
+          value: 0.46
+          units: km
     - region: MD
       exchange: '080630'
       name: Washington Zone 11
@@ -4946,6 +5691,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.024812'
       long: "-77.077816"
+      closest_city:
+        name: Kensington
+        distance:
+          value: 0.43
+          units: km
     - region: MD
       exchange: '080640'
       name: Washington Zone 12
@@ -4954,14 +5704,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.081467'
       long: "-77.048679"
-    - region: MD
-      exchange: '080650'
-      name: Washington Zone 13
-      short_name: WSNG236Z13
-      lata: '236'
-      ilec_name: VERIZON MARYLAND, INC.
-      lat: '38.992001'
-      long: "-76.913396"
+      closest_city:
+        name: Layhill
+        distance:
+          value: 0.95
+          units: km
     - region: MD
       exchange: '311607'
       name: Washington Zone 13
@@ -4971,6 +5718,19 @@ rate_centers:
       lat:
       long:
     - region: MD
+      exchange: '080650'
+      name: Washington Zone 13
+      short_name: WSNG236Z13
+      lata: '236'
+      ilec_name: VERIZON MARYLAND, INC.
+      lat: '38.992001'
+      long: "-76.913396"
+      closest_city:
+        name: Berwyn Heights
+        distance:
+          value: 0.09
+          units: km
+    - region: MD
       exchange: '080654'
       name: Washington Zone 13 (Baltimore LATA)
       short_name: WSNG238Z13
@@ -4978,11 +5738,24 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.992001'
       long: "-76.913396"
+      closest_city:
+        name: Berwyn Heights
+        distance:
+          value: 0.09
+          units: km
     - region: MD
       exchange: '311989'
       name: Washington Zone 13 (Howard)
       short_name: WSNGTNZN13
       lata: '238'
+      ilec_name: VERIZON MARYLAND, INC.
+      lat:
+      long:
+    - region: MD
+      exchange: '311608'
+      name: Washington Zone 14
+      short_name: WSNGTNZN14
+      lata: '236'
       ilec_name: VERIZON MARYLAND, INC.
       lat:
       long:
@@ -4994,14 +5767,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.982839'
       long: "-76.813882"
-    - region: MD
-      exchange: '311608'
-      name: Washington Zone 14
-      short_name: WSNGTNZN14
-      lata: '236'
-      ilec_name: VERIZON MARYLAND, INC.
-      lat:
-      long:
+      closest_city:
+        name: Glenn Dale
+        distance:
+          value: 0.86
+          units: km
     - region: MD
       exchange: '080664'
       name: Washington Zone 14 (Baltimore LATA)
@@ -5010,6 +5780,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.982839'
       long: "-76.813882"
+      closest_city:
+        name: Glenn Dale
+        distance:
+          value: 0.86
+          units: km
     - region: MD
       exchange: '311990'
       name: Washington Zone 14 (Howard)
@@ -5026,6 +5801,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.817077'
       long: "-76.754578"
+      closest_city:
+        name: Upper Marlboro
+        distance:
+          value: 0.34
+          units: km
     - region: MD
       exchange: '311609'
       name: Washington Zone 15
@@ -5042,6 +5822,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.817077'
       long: "-76.754578"
+      closest_city:
+        name: Upper Marlboro
+        distance:
+          value: 0.34
+          units: km
     - region: MD
       exchange: '080680'
       name: Washington Zone 16
@@ -5050,6 +5835,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.767381'
       long: "-76.899341"
+      closest_city:
+        name: Clinton
+        distance:
+          value: 2.04
+          units: km
     - region: MD
       exchange: '080570'
       name: Washington Zone 2
@@ -5058,6 +5848,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.984625'
       long: "-77.106526"
+      closest_city:
+        name: Bethesda
+        distance:
+          value: 1.08
+          units: km
     - region: MD
       exchange: '080580'
       name: Washington Zone 3
@@ -5066,6 +5861,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.010345'
       long: "-77.040524"
+      closest_city:
+        name: Forest Glen
+        distance:
+          value: 1.03
+          units: km
     - region: MD
       exchange: '080590'
       name: Washington Zone 4
@@ -5074,6 +5874,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.950717'
       long: "-76.950382"
+      closest_city:
+        name: North Brentwood
+        distance:
+          value: 0.64
+          units: km
     - region: MD
       exchange: '080591'
       name: Washington Zone 4 (Baltimore LATA)
@@ -5082,6 +5887,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.950717'
       long: "-76.950382"
+      closest_city:
+        name: North Brentwood
+        distance:
+          value: 0.64
+          units: km
     - region: MD
       exchange: '080600'
       name: Washington Zone 5
@@ -5090,6 +5900,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.883032'
       long: "-76.91773"
+      closest_city:
+        name: Maryland Park
+        distance:
+          value: 1.09
+          units: km
     - region: MD
       exchange: '080610'
       name: Washington Zone 6
@@ -5098,6 +5913,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.800433'
       long: "-76.991495"
+      closest_city:
+        name: Forest Heights
+        distance:
+          value: 1.32
+          units: km
     - region: MD
       exchange: '080690'
       name: Waterloo
@@ -5106,6 +5926,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.173801'
       long: "-76.785791"
+      closest_city:
+        name: Jessup
+        distance:
+          value: 2.88
+          units: km
     - region: MD
       exchange: '311975'
       name: Waterloo
@@ -5130,6 +5955,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.173801'
       long: "-76.785791"
+      closest_city:
+        name: Jessup
+        distance:
+          value: 2.88
+          units: km
     - region: MD
       exchange: '311594'
       name: Welcome
@@ -5186,6 +6016,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.85122'
       long: "-76.60188"
+      closest_city:
+        name: Galesville
+        distance:
+          value: 4.62
+          units: km
     - region: MD
       exchange: '080710'
       name: Westernport
@@ -5194,6 +6029,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.489597'
       long: "-79.042949"
+      closest_city:
+        name: Westernport
+        distance:
+          value: 0.18
+          units: km
     - region: MD
       exchange: '311595'
       name: Westlake
@@ -5210,6 +6050,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.575154'
       long: "-76.993632"
+      closest_city:
+        name: Westminster
+        distance:
+          value: 1.22
+          units: km
     - region: MD
       exchange: '312289'
       name: Westover
@@ -5251,7 +6096,7 @@ rate_centers:
       lat:
       long:
     - region: MD
-      exchange: '080132'
+      exchange: '311982'
       name: White Marsh
       short_name: WHITEMARSH
       lata: '238'
@@ -5259,7 +6104,7 @@ rate_centers:
       lat:
       long:
     - region: MD
-      exchange: '311982'
+      exchange: '080132'
       name: White Marsh
       short_name: WHITEMARSH
       lata: '238'
@@ -5298,6 +6143,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.393131'
       long: "-75.407961"
+      closest_city:
+        name: Pittsville
+        distance:
+          value: 0.09
+          units: km
     - region: MD
       exchange: '312293'
       name: Williamsburg
@@ -5314,6 +6164,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.598568'
       long: "-77.824413"
+      closest_city:
+        name: Williamsport
+        distance:
+          value: 0.57
+          units: km
     - region: MD
       exchange: '311983'
       name: Windsor Mill
@@ -5330,6 +6185,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '38.382012'
       long: "-76.193342"
+      closest_city:
+        name: Fishing Creek
+        distance:
+          value: 5.78
+          units: km
     - region: MD
       exchange: '312295'
       name: Wittman
@@ -5362,6 +6222,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.326195'
       long: "-76.727285"
+      closest_city:
+        name: Lochearn
+        distance:
+          value: 2.23
+          units: km
     - region: MD
       exchange: '312091'
       name: Woodsboro
@@ -5394,6 +6259,11 @@ rate_centers:
       ilec_name: VERIZON MARYLAND, INC.
       lat: '39.484073'
       long: "-76.844495"
+      closest_city:
+        name: Reisterstown
+        distance:
+          value: 4.16
+          units: km
     - region: MD
       exchange: '312297'
       name: Worton

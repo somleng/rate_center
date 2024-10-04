@@ -1,7 +1,7 @@
 ---
 rate_centers:
-  us:
-    nj:
+  US:
+    NJ:
     - region: NJ
       exchange: '306536'
       name: Aberdeen
@@ -98,6 +98,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.176105'
       long: "-74.584854"
+      closest_city:
+        name: Allentown
+        distance:
+          value: 0.28
+          units: km
     - region: NJ
       exchange: '306543'
       name: Allenwood
@@ -186,6 +191,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF NEW JERSEY DBA CENTURYLINK
       lat: '40.985317'
       long: "-74.744138"
+      closest_city:
+        name: Byram Center
+        distance:
+          value: 6.27
+          units: km
     - region: NJ
       exchange: '306550'
       name: Annandale
@@ -250,6 +260,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.216801'
       long: "-74.01381"
+      closest_city:
+        name: Asbury Park
+        distance:
+          value: 0.66
+          units: km
     - region: NJ
       exchange: '306113'
       name: Ashland
@@ -282,6 +297,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '39.359576'
       long: "-74.433454"
+      closest_city:
+        name: Atlantic City
+        distance:
+          value: 2.78
+          units: km
     - region: NJ
       exchange: '124890'
       name: Atlantic Highlands
@@ -290,6 +310,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.412546'
       long: "-74.037668"
+      closest_city:
+        name: Atlantic Highlands
+        distance:
+          value: 0.71
+          units: km
     - region: NJ
       exchange: '306115'
       name: Atsion
@@ -338,6 +363,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '39.101643'
       long: "-74.716669"
+      closest_city:
+        name: Avalon
+        distance:
+          value: 2.04
+          units: km
     - region: NJ
       exchange: '306560'
       name: Avenel
@@ -410,6 +440,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '39.751183'
       long: "-74.224613"
+      closest_city:
+        name: Ocean Acres
+        distance:
+          value: 4.86
+          units: km
     - region: NJ
       exchange: '305956'
       name: Barnegat Light
@@ -498,6 +533,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.667463'
       long: "-74.115754"
+      closest_city:
+        name: Bayonne
+        distance:
+          value: 0.07
+          units: km
     - region: NJ
       exchange: '126701'
       name: Bayville
@@ -530,6 +570,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '39.567152'
       long: "-74.240335"
+      closest_city:
+        name: Beach Haven
+        distance:
+          value: 0.77
+          units: km
     - region: NJ
       exchange: '305960'
       name: Beach Haven Crest
@@ -570,6 +615,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '39.866903'
       long: "-75.083728"
+      closest_city:
+        name: Bellmawr
+        distance:
+          value: 0.89
+          units: km
     - region: NJ
       exchange: '306123'
       name: Beaver Dam
@@ -626,6 +676,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF NEW JERSEY DBA CENTURYLINK
       lat: '40.463627'
       long: "-74.662884"
+      closest_city:
+        name: Belle Mead
+        distance:
+          value: 0.79
+          units: km
     - region: NJ
       exchange: '305965'
       name: Belleplain
@@ -642,6 +697,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.790367'
       long: "-74.151887"
+      closest_city:
+        name: North Arlington
+        distance:
+          value: 2.1
+          units: km
     - region: NJ
       exchange: '306124'
       name: Bellmawr (Camden)
@@ -666,6 +726,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.176738'
       long: "-74.02343"
+      closest_city:
+        name: Belmar
+        distance:
+          value: 0.38
+          units: km
     - region: NJ
       exchange: '124980'
       name: Belvidere
@@ -674,6 +739,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF NEW JERSEY DBA CENTURYLINK
       lat: '40.826143'
       long: "-75.080985"
+      closest_city:
+        name: Belvidere
+        distance:
+          value: 0.78
+          units: km
     - region: NJ
       exchange: '306583'
       name: Bergenfield
@@ -714,6 +784,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '39.793578'
       long: "-74.932181"
+      closest_city:
+        name: Berlin
+        distance:
+          value: 0.5
+          units: km
     - region: NJ
       exchange: '306127'
       name: Berlin Township
@@ -730,6 +805,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.718296'
       long: "-74.570424"
+      closest_city:
+        name: Basking Ridge
+        distance:
+          value: 1.78
+          units: km
     - region: NJ
       exchange: '306588'
       name: Bertrand Island
@@ -794,6 +874,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '39.800516'
       long: "-75.065906"
+      closest_city:
+        name: Blackwood
+        distance:
+          value: 0.36
+          units: km
     - region: NJ
       exchange: '306132'
       name: Blackwood Terrace
@@ -810,6 +895,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF NEW JERSEY DBA CENTURYLINK
       lat: '40.98027'
       long: "-74.96024"
+      closest_city:
+        name: Marksboro
+        distance:
+          value: 4.37
+          units: km
     - region: NJ
       exchange: '306133'
       name: Blawenburg
@@ -834,6 +924,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.797609'
       long: "-74.205156"
+      closest_city:
+        name: Glen Ridge
+        distance:
+          value: 0.73
+          units: km
     - region: NJ
       exchange: '306594'
       name: Bloomingdale
@@ -850,6 +945,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF NEW JERSEY DBA CENTURYLINK
       lat: '40.652882'
       long: "-75.084777"
+      closest_city:
+        name: Bloomsbury
+        distance:
+          value: 0.11
+          units: km
     - region: NJ
       exchange: '305966'
       name: Blue Anchor
@@ -882,6 +982,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.905612'
       long: "-74.40762"
+      closest_city:
+        name: Boonton
+        distance:
+          value: 0.26
+          units: km
     - region: NJ
       exchange: '125060'
       name: Bordentown
@@ -890,6 +995,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.145293'
       long: "-74.711708"
+      closest_city:
+        name: Fieldsboro
+        distance:
+          value: 1.95
+          units: km
     - region: NJ
       exchange: '125070'
       name: Bound Brook
@@ -898,6 +1008,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.559941'
       long: "-74.530907"
+      closest_city:
+        name: South Bound Brook
+        distance:
+          value: 0.77
+          units: km
     - region: NJ
       exchange: '306601'
       name: Bradley Beach
@@ -946,6 +1061,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF NEW JERSEY DBA CENTURYLINK
       lat: '41.147484'
       long: "-74.750055"
+      closest_city:
+        name: Branchville
+        distance:
+          value: 0.07
+          units: km
     - region: NJ
       exchange: '305967'
       name: Brant Beach
@@ -1018,6 +1138,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '39.428437'
       long: "-75.2279"
+      closest_city:
+        name: Sunset Lake
+        distance:
+          value: 2.67
+          units: km
     - region: NJ
       exchange: '306611'
       name: Bridgeville
@@ -1050,6 +1175,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '39.402699'
       long: "-74.369808"
+      closest_city:
+        name: Brigantine
+        distance:
+          value: 1.45
+          units: km
     - region: NJ
       exchange: '306614'
       name: Broadway
@@ -1170,6 +1300,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.075871'
       long: "-74.860736"
+      closest_city:
+        name: Beverly
+        distance:
+          value: 5.35
+          units: km
     - region: NJ
       exchange: '306619'
       name: Burnt Mills
@@ -1186,6 +1321,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.99776'
       long: "-74.338561"
+      closest_city:
+        name: Butler
+        distance:
+          value: 0.74
+          units: km
     - region: NJ
       exchange: '306621'
       name: Buttzville
@@ -1226,6 +1366,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.842141'
       long: "-74.274194"
+      closest_city:
+        name: Caldwell
+        distance:
+          value: 0.46
+          units: km
     - region: NJ
       exchange: '125140'
       name: Califon
@@ -1234,6 +1379,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF NEW JERSEY DBA CENTURYLINK
       lat: '40.717749'
       long: "-74.834075"
+      closest_city:
+        name: Califon
+        distance:
+          value: 0.31
+          units: km
     - region: NJ
       exchange: '125150'
       name: Camden
@@ -1242,6 +1392,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '39.944035'
       long: "-75.120875"
+      closest_city:
+        name: Camden
+        distance:
+          value: 1.46
+          units: km
     - region: NJ
       exchange: '306651'
       name: Camp Charles Wood
@@ -1282,6 +1437,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '39.082514'
       long: "-74.822645"
+      closest_city:
+        name: Cape May Court House
+        distance:
+          value: 0.45
+          units: km
     - region: NJ
       exchange: '305973'
       name: Cape May Point
@@ -1338,6 +1498,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.57813'
       long: "-74.219636"
+      closest_city:
+        name: Carteret
+        distance:
+          value: 1.06
+          units: km
     - region: NJ
       exchange: '306630'
       name: Cassville
@@ -1402,6 +1567,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '39.333909'
       long: "-75.199861"
+      closest_city:
+        name: Cedarville
+        distance:
+          value: 0.76
+          units: km
     - region: NJ
       exchange: '306633'
       name: Cedarwood Park
@@ -1490,6 +1660,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.738992'
       long: "-74.384226"
+      closest_city:
+        name: Summit
+        distance:
+          value: 3.1
+          units: km
     - region: NJ
       exchange: '306158'
       name: Chatsworth
@@ -1546,6 +1721,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF NEW JERSEY DBA CENTURYLINK
       lat: '40.785085'
       long: "-74.700313"
+      closest_city:
+        name: Flanders
+        distance:
+          value: 6.29
+          units: km
     - region: NJ
       exchange: '306161'
       name: Chesterfield
@@ -1658,6 +1838,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.824022'
       long: "-73.989521"
+      closest_city:
+        name: Cliffside Park
+        distance:
+          value: 0.24
+          units: km
     - region: NJ
       exchange: '306645'
       name: Cliffside Park
@@ -1698,6 +1883,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF NEW JERSEY DBA CENTURYLINK
       lat: '40.636979'
       long: "-74.91303"
+      closest_city:
+        name: Annandale
+        distance:
+          value: 2.37
+          units: km
     - region: NJ
       exchange: '125230'
       name: Closter
@@ -1706,6 +1896,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.969643'
       long: "-73.964621"
+      closest_city:
+        name: Closter
+        distance:
+          value: 0.54
+          units: km
     - region: NJ
       exchange: '306172'
       name: Coffins Corner
@@ -1746,6 +1941,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '39.917169'
       long: "-75.072613"
+      closest_city:
+        name: Westmont
+        distance:
+          value: 1.8
+          units: km
     - region: NJ
       exchange: '306653'
       name: Collingwood Park
@@ -1802,6 +2002,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF NEW JERSEY DBA CENTURYLINK
       lat: '40.925381'
       long: "-75.096776"
+      closest_city:
+        name: Columbia
+        distance:
+          value: 0.2
+          units: km
     - region: NJ
       exchange: '306176'
       name: Columbus
@@ -1890,6 +2095,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '41.093568'
       long: "-74.143984"
+      closest_city:
+        name: Ramapo College of New Jersey
+        distance:
+          value: 2.93
+          units: km
     - region: NJ
       exchange: '306661'
       name: Cranberry Lake
@@ -1906,6 +2116,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.314013'
       long: "-74.517399"
+      closest_city:
+        name: Encore at Monroe
+        distance:
+          value: 4.38
+          units: km
     - region: NJ
       exchange: '125280'
       name: Cranford
@@ -1914,6 +2129,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.656294'
       long: "-74.307884"
+      closest_city:
+        name: Cranford
+        distance:
+          value: 0.27
+          units: km
     - region: NJ
       exchange: '306182'
       name: Creamridge
@@ -2002,6 +2222,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.2341'
       long: "-74.004193"
+      closest_city:
+        name: Allenhurst
+        distance:
+          value: 0.32
+          units: km
     - region: NJ
       exchange: '306671'
       name: Deans
@@ -2122,6 +2347,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '39.193766'
       long: "-74.819695"
+      closest_city:
+        name: Dennisville
+        distance:
+          value: 0.91
+          units: km
     - region: NJ
       exchange: '126521'
       name: Denville
@@ -2186,6 +2416,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.882332'
       long: "-74.559123"
+      closest_city:
+        name: Dover
+        distance:
+          value: 0.4
+          units: km
     - region: NJ
       exchange: '306683'
       name: Dover Township (Ocean)
@@ -2250,6 +2485,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.943284'
       long: "-73.99873"
+      closest_city:
+        name: Dumont
+        distance:
+          value: 0.58
+          units: km
     - region: NJ
       exchange: '306199'
       name: Dunbarton
@@ -2266,6 +2506,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.590268'
       long: "-74.463475"
+      closest_city:
+        name: Dunellen
+        distance:
+          value: 0.18
+          units: km
     - region: NJ
       exchange: '306200'
       name: Dutch Neck
@@ -2402,6 +2647,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.502322'
       long: "-74.580008"
+      closest_city:
+        name: East Millstone
+        distance:
+          value: 1.18
+          units: km
     - region: NJ
       exchange: '306687'
       name: East Newark
@@ -2458,6 +2708,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.306015'
       long: "-74.060608"
+      closest_city:
+        name: Eatontown
+        distance:
+          value: 1.69
+          units: km
     - region: NJ
       exchange: '306691'
       name: Echo Lake
@@ -2491,7 +2746,7 @@ rate_centers:
       lat:
       long:
     - region: NJ
-      exchange: '126161'
+      exchange: '125992'
       name: Edison
       short_name: EDISON
       lata: '224'
@@ -2499,7 +2754,7 @@ rate_centers:
       lat:
       long:
     - region: NJ
-      exchange: '125992'
+      exchange: '126161'
       name: Edison
       short_name: EDISON
       lata: '224'
@@ -2514,6 +2769,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '39.533258'
       long: "-74.650111"
+      closest_city:
+        name: Germania
+        distance:
+          value: 5.66
+          units: km
     - region: NJ
       exchange: '305992'
       name: Egg Harbor City
@@ -2562,6 +2822,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.666469'
       long: "-74.214849"
+      closest_city:
+        name: Kean University
+        distance:
+          value: 1.98
+          units: km
     - region: NJ
       exchange: '306698'
       name: Elizabethport
@@ -2610,6 +2875,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '39.595086'
       long: "-75.173004"
+      closest_city:
+        name: Elmer
+        distance:
+          value: 0.36
+          units: km
     - region: NJ
       exchange: '306699'
       name: Elmora
@@ -2658,6 +2928,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.894098'
       long: "-73.972258"
+      closest_city:
+        name: Englewood
+        distance:
+          value: 0.29
+          units: km
     - region: NJ
       exchange: '306703'
       name: Englewood Cliffs
@@ -2682,6 +2957,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.29912'
       long: "-74.359864"
+      closest_city:
+        name: Englishtown
+        distance:
+          value: 0.24
+          units: km
     - region: NJ
       exchange: '306218'
       name: Erial
@@ -2706,6 +2986,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '41.129005'
       long: "-74.268013"
+      closest_city:
+        name: Ringwood
+        distance:
+          value: 2.57
+          units: km
     - region: NJ
       exchange: '306707'
       name: Essex Fells
@@ -2794,6 +3079,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.264214'
       long: "-74.782544"
+      closest_city:
+        name: The College of New Jersey
+        distance:
+          value: 0.74
+          units: km
     - region: NJ
       exchange: '306225'
       name: Ewing Township
@@ -2826,6 +3116,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.92149'
       long: "-74.111645"
+      closest_city:
+        name: Fair Lawn
+        distance:
+          value: 1.68
+          units: km
     - region: NJ
       exchange: '125131'
       name: Fairfield
@@ -2890,6 +3185,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.641536'
       long: "-74.382755"
+      closest_city:
+        name: Fanwood
+        distance:
+          value: 0.25
+          units: km
     - region: NJ
       exchange: '306717'
       name: Far Hills
@@ -2914,6 +3214,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.193918'
       long: "-74.163816"
+      closest_city:
+        name: Farmingdale
+        distance:
+          value: 0.74
+          units: km
     - region: NJ
       exchange: '306000'
       name: Farmington
@@ -3010,6 +3315,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF NEW JERSEY DBA CENTURYLINK
       lat: '40.509779'
       long: "-74.857354"
+      closest_city:
+        name: Flemington
+        distance:
+          value: 0.25
+          units: km
     - region: NJ
       exchange: '306726'
       name: Flemington Junction
@@ -3026,6 +3336,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.120922'
       long: "-74.809754"
+      closest_city:
+        name: Roebling
+        distance:
+          value: 2.78
+          units: km
     - region: NJ
       exchange: '306727'
       name: Florham Park
@@ -3074,6 +3389,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.0356'
       long: "-74.617204"
+      closest_city:
+        name: Wrightstown
+        distance:
+          value: 1.65
+          units: km
     - region: NJ
       exchange: '306241'
       name: Fort Elfsborg
@@ -3130,6 +3450,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF NEW JERSEY DBA CENTURYLINK
       lat: '41.119994'
       long: "-74.588046"
+      closest_city:
+        name: Franklin
+        distance:
+          value: 1.1
+          units: km
     - region: NJ
       exchange: '306731'
       name: Franklin Lakes
@@ -3146,6 +3471,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.431553'
       long: "-74.514509"
+      closest_city:
+        name: Franklin Park
+        distance:
+          value: 2.78
+          units: km
     - region: NJ
       exchange: '306240'
       name: Franklin Township (Gloucester)
@@ -3178,6 +3508,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '39.616171'
       long: "-75.079409"
+      closest_city:
+        name: Franklinville
+        distance:
+          value: 0.6
+          units: km
     - region: NJ
       exchange: '306736'
       name: Fredon
@@ -3194,6 +3529,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.260195'
       long: "-74.270817"
+      closest_city:
+        name: East Freehold
+        distance:
+          value: 2.73
+          units: km
     - region: NJ
       exchange: '306738'
       name: Freewood Acres
@@ -3218,6 +3558,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF NEW JERSEY DBA CENTURYLINK
       lat: '40.528162'
       long: "-75.063775"
+      closest_city:
+        name: Frenchtown
+        distance:
+          value: 0.57
+          units: km
     - region: NJ
       exchange: '306741'
       name: Freneau
@@ -3330,6 +3675,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '39.70335'
       long: "-75.114297"
+      closest_city:
+        name: Glassboro
+        distance:
+          value: 0.34
+          units: km
     - region: NJ
       exchange: '306749'
       name: Glasser
@@ -3418,6 +3768,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '39.892077'
       long: "-75.118794"
+      closest_city:
+        name: Gloucester City
+        distance:
+          value: 0.14
+          units: km
     - region: NJ
       exchange: '306252'
       name: Golf Manor
@@ -3482,6 +3837,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF NEW JERSEY DBA CENTURYLINK
       lat: '40.867537'
       long: "-74.920282"
+      closest_city:
+        name: Great Meadows
+        distance:
+          value: 1.77
+          units: km
     - region: NJ
       exchange: '306759'
       name: Great Notch
@@ -3658,6 +4018,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.886875'
       long: "-74.040191"
+      closest_city:
+        name: Hackensack
+        distance:
+          value: 0.56
+          units: km
     - region: NJ
       exchange: '125590'
       name: Hackettstown
@@ -3666,6 +4031,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.851748'
       long: "-74.830444"
+      closest_city:
+        name: Hackettstown
+        distance:
+          value: 0.47
+          units: km
     - region: NJ
       exchange: '306772'
       name: Hacklebarney
@@ -3682,6 +4052,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '39.88263'
       long: "-75.061295"
+      closest_city:
+        name: Haddon Heights
+        distance:
+          value: 0.47
+          units: km
     - region: NJ
       exchange: '306261'
       name: Haddon Hills
@@ -3706,6 +4081,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '39.899344'
       long: "-75.030503"
+      closest_city:
+        name: Westmont
+        distance:
+          value: 2.32
+          units: km
     - region: NJ
       exchange: '306264'
       name: Haddonleigh
@@ -3826,6 +4206,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '39.636046'
       long: "-74.80245"
+      closest_city:
+        name: Hammonton
+        distance:
+          value: 3.79
+          units: km
     - region: NJ
       exchange: '125630'
       name: Hampton
@@ -3834,6 +4219,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF NEW JERSEY DBA CENTURYLINK
       lat: '40.706829'
       long: "-74.957315"
+      closest_city:
+        name: Glen Gardner
+        distance:
+          value: 1.66
+          units: km
     - region: NJ
       exchange: '306271'
       name: Hancocks Bridge
@@ -4018,6 +4408,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.863219'
       long: "-74.079057"
+      closest_city:
+        name: Hasbrouck Heights
+        distance:
+          value: 0.45
+          units: km
     - region: NJ
       exchange: '306791'
       name: Haskell
@@ -4050,6 +4445,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.946065'
       long: "-74.155272"
+      closest_city:
+        name: Hawthorne
+        distance:
+          value: 1.34
+          units: km
     - region: NJ
       exchange: '306794'
       name: Hazen
@@ -4130,6 +4530,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF NEW JERSEY DBA CENTURYLINK
       lat: '40.668085'
       long: "-74.897657"
+      closest_city:
+        name: High Bridge
+        distance:
+          value: 0.31
+          units: km
     - region: NJ
       exchange: '306804'
       name: Highland Lakes
@@ -4170,6 +4575,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.267511'
       long: "-74.525506"
+      closest_city:
+        name: Hightstown
+        distance:
+          value: 0.12
+          units: km
     - region: NJ
       exchange: '306805'
       name: Hillsborough
@@ -4258,6 +4668,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.344139'
       long: "-74.188069"
+      closest_city:
+        name: Lincroft
+        distance:
+          value: 5.1
+          units: km
     - region: NJ
       exchange: '306287'
       name: Holmeson
@@ -4282,6 +4697,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.929386'
       long: "-74.63334"
+      closest_city:
+        name: Mount Arlington
+        distance:
+          value: 1.25
+          units: km
     - region: NJ
       exchange: '125700'
       name: Hope
@@ -4290,6 +4710,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF NEW JERSEY DBA CENTURYLINK
       lat: '40.910935'
       long: "-74.968019"
+      closest_city:
+        name: Mount Hermon
+        distance:
+          value: 2.7
+          units: km
     - region: NJ
       exchange: '306818'
       name: Hopelawn
@@ -4306,6 +4731,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.390108'
       long: "-74.764587"
+      closest_city:
+        name: Hopewell
+        distance:
+          value: 0.11
+          units: km
     - region: NJ
       exchange: '306290'
       name: Hopewell Township (Lambertville)
@@ -4538,6 +4968,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.348955'
       long: "-74.438241"
+      closest_city:
+        name: Jamesburg
+        distance:
+          value: 0.15
+          units: km
     - region: NJ
       exchange: '306300'
       name: Janvier
@@ -4586,6 +5021,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.714809'
       long: "-74.038292"
+      closest_city:
+        name: Jersey City
+        distance:
+          value: 2.59
+          units: km
     - region: NJ
       exchange: '306303'
       name: Jobstown
@@ -4634,6 +5074,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.44437'
       long: "-74.133981"
+      closest_city:
+        name: Keansburg
+        distance:
+          value: 0.35
+          units: km
     - region: NJ
       exchange: '125750'
       name: Kearny
@@ -4642,6 +5087,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.771247'
       long: "-74.14828"
+      closest_city:
+        name: North Arlington
+        distance:
+          value: 2.52
+          units: km
     - region: NJ
       exchange: '306846'
       name: Keasbey
@@ -4682,6 +5132,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.437006'
       long: "-74.201422"
+      closest_city:
+        name: Keyport
+        distance:
+          value: 0.47
+          units: km
     - region: NJ
       exchange: '306305'
       name: Kingston
@@ -4866,6 +5321,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF NEW JERSEY DBA CENTURYLINK
       lat: '41.0369'
       long: "-74.632677"
+      closest_city:
+        name: Lake Mohawk
+        distance:
+          value: 3.59
+          units: km
     - region: NJ
       exchange: '306861'
       name: Lake Owassa
@@ -4970,6 +5430,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.011428'
       long: "-74.313019"
+      closest_city:
+        name: Lakehurst
+        distance:
+          value: 0.64
+          units: km
     - region: NJ
       exchange: '306311'
       name: Lakeland
@@ -4994,6 +5459,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.090924'
       long: "-74.21274"
+      closest_city:
+        name: Leisure Village
+        distance:
+          value: 5.67
+          units: km
     - region: NJ
       exchange: '125800'
       name: Lambertville
@@ -5002,6 +5472,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.365994'
       long: "-74.94481"
+      closest_city:
+        name: Lambertville
+        distance:
+          value: 0.34
+          units: km
     - region: NJ
       exchange: '306314'
       name: Lambs Terrace
@@ -5058,6 +5533,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '39.821203'
       long: "-75.001807"
+      closest_city:
+        name: Laurel Springs
+        distance:
+          value: 0.3
+          units: km
     - region: NJ
       exchange: '306015'
       name: Laureldale
@@ -5114,6 +5594,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.296468'
       long: "-74.728802"
+      closest_city:
+        name: Lawrenceville
+        distance:
+          value: 0.97
+          units: km
     - region: NJ
       exchange: '306869'
       name: Layton
@@ -5138,6 +5623,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF NEW JERSEY DBA CENTURYLINK
       lat: '40.642057'
       long: "-74.840602"
+      closest_city:
+        name: Annandale
+        distance:
+          value: 4.04
+          units: km
     - region: NJ
       exchange: '306871'
       name: Ledgewood
@@ -5202,6 +5692,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.863165'
       long: "-73.988152"
+      closest_city:
+        name: Leonia
+        distance:
+          value: 0.17
+          units: km
     - region: NJ
       exchange: '306877'
       name: Liberty Corner
@@ -5234,6 +5729,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.632714'
       long: "-74.255905"
+      closest_city:
+        name: Linden
+        distance:
+          value: 1.71
+          units: km
     - region: NJ
       exchange: '306324'
       name: Lindenwold
@@ -5298,6 +5798,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.879538'
       long: "-74.229346"
+      closest_city:
+        name: Singac
+        distance:
+          value: 1.3
+          units: km
     - region: NJ
       exchange: '125581'
       name: Little Ferry
@@ -5338,6 +5843,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.795627'
       long: "-74.31292"
+      closest_city:
+        name: Roseland
+        distance:
+          value: 2.82
+          units: km
     - region: NJ
       exchange: '306876'
       name: Llewellyn Park
@@ -5402,6 +5912,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.3042'
       long: "-73.987292"
+      closest_city:
+        name: Long Branch
+        distance:
+          value: 0.93
+          units: km
     - region: NJ
       exchange: '125890'
       name: Long Valley
@@ -5410,6 +5925,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF NEW JERSEY DBA CENTURYLINK
       lat: '40.782817'
       long: "-74.777776"
+      closest_city:
+        name: Long Valley
+        distance:
+          value: 0.03
+          units: km
     - region: NJ
       exchange: '306019'
       name: Longport
@@ -5546,6 +6066,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.761679'
       long: "-74.414536"
+      closest_city:
+        name: Madison
+        distance:
+          value: 0.4
+          units: km
     - region: NJ
       exchange: '306331'
       name: Magnolia
@@ -5602,6 +6127,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.122099'
       long: "-74.047414"
+      closest_city:
+        name: Manasquan
+        distance:
+          value: 0.44
+          units: km
     - region: NJ
       exchange: '306926'
       name: Manasquan Park
@@ -5754,6 +6284,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '39.889398'
       long: "-74.921636"
+      closest_city:
+        name: Marlton
+        distance:
+          value: 1.49
+          units: km
     - region: NJ
       exchange: '306026'
       name: Marmora
@@ -5794,6 +6329,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.41419'
       long: "-74.231492"
+      closest_city:
+        name: Matawan
+        distance:
+          value: 0.46
+          units: km
     - region: NJ
       exchange: '306340'
       name: Maurice River Township (Cumberland)
@@ -5818,6 +6358,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '39.246404'
       long: "-75.033537"
+      closest_city:
+        name: Port Norris
+        distance:
+          value: 0.91
+          units: km
     - region: NJ
       exchange: '306027'
       name: Mayetta
@@ -5834,6 +6379,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '39.452498'
       long: "-74.727483"
+      closest_city:
+        name: Mays Landing
+        distance:
+          value: 1.53
+          units: km
     - region: NJ
       exchange: '306029'
       name: Mayville
@@ -5882,6 +6432,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '39.897486'
       long: "-74.824978"
+      closest_city:
+        name: Medford Lakes
+        distance:
+          value: 4.69
+          units: km
     - region: NJ
       exchange: '306344'
       name: Medford Lakes
@@ -5898,6 +6453,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.773747'
       long: "-74.598556"
+      closest_city:
+        name: Brookside
+        distance:
+          value: 3.57
+          units: km
     - region: NJ
       exchange: '306943'
       name: Mendham Township (Mendham)
@@ -5938,6 +6498,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.235645'
       long: "-74.690986"
+      closest_city:
+        name: Mercerville
+        distance:
+          value: 0.07
+          units: km
     - region: NJ
       exchange: '125980'
       name: Merchantville
@@ -5946,6 +6511,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '39.955684'
       long: "-75.05052"
+      closest_city:
+        name: Merchantville
+        distance:
+          value: 0.61
+          units: km
     - region: NJ
       exchange: '306946'
       name: Meriden
@@ -5970,6 +6540,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.539577'
       long: "-74.363137"
+      closest_city:
+        name: Metuchen
+        distance:
+          value: 0.32
+          units: km
     - region: NJ
       exchange: '306949'
       name: Meyersville
@@ -6058,6 +6633,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.394304'
       long: "-74.115919"
+      closest_city:
+        name: Port Monmouth
+        distance:
+          value: 4.57
+          units: km
     - region: NJ
       exchange: '306957'
       name: Middletown Township (Keansburg)
@@ -6122,6 +6702,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.567099'
       long: "-75.093264"
+      closest_city:
+        name: Milford
+        distance:
+          value: 0.29
+          units: km
     - region: NJ
       exchange: '309594'
       name: Millbrook
@@ -6138,6 +6723,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.721877'
       long: "-74.303148"
+      closest_city:
+        name: Vauxhall
+        distance:
+          value: 1.7
+          units: km
     - region: NJ
       exchange: '126030'
       name: Millington
@@ -6146,6 +6736,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.674764'
       long: "-74.523049"
+      closest_city:
+        name: Millington
+        distance:
+          value: 0.63
+          units: km
     - region: NJ
       exchange: '306964'
       name: Millstone
@@ -6186,6 +6781,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '39.395908'
       long: "-75.038645"
+      closest_city:
+        name: Millville
+        distance:
+          value: 1.62
+          units: km
     - region: NJ
       exchange: '126050'
       name: Milmay
@@ -6194,6 +6794,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '39.440506'
       long: "-74.85668"
+      closest_city:
+        name: Milmay
+        distance:
+          value: 0.92
+          units: km
     - region: NJ
       exchange: '306968'
       name: Milton
@@ -6258,6 +6863,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.379495'
       long: "-74.543078"
+      closest_city:
+        name: Monmouth Junction
+        distance:
+          value: 1.36
+          units: km
     - region: NJ
       exchange: '306974'
       name: Monroe
@@ -6282,6 +6892,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF NEW JERSEY DBA CENTURYLINK
       lat: '41.346421'
       long: "-74.688923"
+      closest_city:
+        name: Sussex
+        distance:
+          value: 16.65
+          units: km
     - region: NJ
       exchange: '306976'
       name: Montana
@@ -6362,6 +6977,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '39.964861'
       long: "-74.945423"
+      closest_city:
+        name: Moorestown-Lenola
+        distance:
+          value: 1.61
+          units: km
     - region: NJ
       exchange: '306982'
       name: Morgan
@@ -6394,6 +7014,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.797004'
       long: "-74.477598"
+      closest_city:
+        name: Morristown
+        distance:
+          value: 0.05
+          units: km
     - region: NJ
       exchange: '306356'
       name: Morrisville
@@ -6450,6 +7075,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.815772'
       long: "-74.572139"
+      closest_city:
+        name: Brookside
+        distance:
+          value: 2.43
+          units: km
     - region: NJ
       exchange: '306998'
       name: Mount Hermon
@@ -6466,6 +7096,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '39.992528'
       long: "-74.792676"
+      closest_city:
+        name: Vincentown
+        distance:
+          value: 7.11
+          units: km
     - region: NJ
       exchange: '306987'
       name: Mount Hope
@@ -6562,6 +7197,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.91409'
       long: "-74.270567"
+      closest_city:
+        name: Packanack Lake
+        distance:
+          value: 2.93
+          units: km
     - region: NJ
       exchange: '306992'
       name: Mountainside
@@ -6586,6 +7226,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '39.732194'
       long: "-75.226848"
+      closest_city:
+        name: Mullica Hill
+        distance:
+          value: 0.86
+          units: km
     - region: NJ
       exchange: '307002'
       name: Murray Hill
@@ -6650,6 +7295,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.507878'
       long: "-74.73195"
+      closest_city:
+        name: Neshanic
+        distance:
+          value: 1.28
+          units: km
     - region: NJ
       exchange: '307007'
       name: Neshanic Station
@@ -6666,6 +7316,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.898027'
       long: "-74.70957"
+      closest_city:
+        name: Netcong
+        distance:
+          value: 0.65
+          units: km
     - region: NJ
       exchange: '307010'
       name: Netherwood
@@ -6698,6 +7353,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.494684'
       long: "-74.444958"
+      closest_city:
+        name: New Brunswick
+        distance:
+          value: 0.85
+          units: km
     - region: NJ
       exchange: '126170'
       name: New Egypt
@@ -6706,6 +7366,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.067938'
       long: "-74.533656"
+      closest_city:
+        name: New Egypt
+        distance:
+          value: 0.59
+          units: km
     - region: NJ
       exchange: '306039'
       name: New Gretna
@@ -6818,6 +7483,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.739362'
       long: "-74.172513"
+      closest_city:
+        name: East Newark
+        distance:
+          value: 1.55
+          units: km
     - region: NJ
       exchange: '306369'
       name: Newfield
@@ -6834,6 +7504,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '41.051248'
       long: "-74.444338"
+      closest_city:
+        name: Newfoundland
+        distance:
+          value: 1.45
+          units: km
     - region: NJ
       exchange: '306370'
       name: Newport
@@ -6850,6 +7525,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF NEW JERSEY DBA CENTURYLINK
       lat: '41.055406'
       long: "-74.757977"
+      closest_city:
+        name: Newton
+        distance:
+          value: 0.5
+          units: km
     - region: NJ
       exchange: '306040'
       name: Newtonville
@@ -7066,6 +7746,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.818588'
       long: "-74.161539"
+      closest_city:
+        name: Brookdale
+        distance:
+          value: 2.37
+          units: km
     - region: NJ
       exchange: '307039'
       name: Oak Hill
@@ -7114,6 +7799,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '41.021584'
       long: "-74.238944"
+      closest_city:
+        name: Oakland
+        distance:
+          value: 1.09
+          units: km
     - region: NJ
       exchange: '306380'
       name: Oaklyn
@@ -7146,6 +7836,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '39.274938'
       long: "-74.573523"
+      closest_city:
+        name: Ocean City
+        distance:
+          value: 2.57
+          units: km
     - region: NJ
       exchange: '307045'
       name: Ocean Gate
@@ -7250,6 +7945,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF NEW JERSEY DBA CENTURYLINK
       lat: '40.671796'
       long: "-74.751456"
+      closest_city:
+        name: Oldwick
+        distance:
+          value: 0.64
+          units: km
     - region: NJ
       exchange: '126250'
       name: Oradell
@@ -7258,6 +7958,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.952419'
       long: "-74.035101"
+      closest_city:
+        name: Oradell
+        distance:
+          value: 0.52
+          units: km
     - region: NJ
       exchange: '126260'
       name: Orange
@@ -7266,6 +7971,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.772083'
       long: "-74.230585"
+      closest_city:
+        name: East Orange
+        distance:
+          value: 1.77
+          units: km
     - region: NJ
       exchange: '126791'
       name: Oriental
@@ -7322,6 +8032,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF NEW JERSEY DBA CENTURYLINK
       lat: '40.803133'
       long: "-74.998344"
+      closest_city:
+        name: Buttzville
+        distance:
+          value: 2.98
+          units: km
     - region: NJ
       exchange: '307061'
       name: Packanack Lake
@@ -7347,7 +8062,7 @@ rate_centers:
       lat:
       long:
     - region: NJ
-      exchange: '126561'
+      exchange: '126231'
       name: Palermo
       short_name: PALERMO
       lata: '220'
@@ -7355,7 +8070,7 @@ rate_centers:
       lat:
       long:
     - region: NJ
-      exchange: '126231'
+      exchange: '126561'
       name: Palermo
       short_name: PALERMO
       lata: '220'
@@ -7418,6 +8133,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '41.030708'
       long: "-74.032357"
+      closest_city:
+        name: Park Ridge
+        distance:
+          value: 0.97
+          units: km
     - region: NJ
       exchange: '307067'
       name: Parker
@@ -7466,6 +8186,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.861397'
       long: "-74.126332"
+      closest_city:
+        name: Passaic
+        distance:
+          value: 0.47
+          units: km
     - region: NJ
       exchange: '126300'
       name: Paterson
@@ -7474,6 +8199,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.912371'
       long: "-74.166252"
+      closest_city:
+        name: Paterson
+        distance:
+          value: 0.41
+          units: km
     - region: NJ
       exchange: '307072'
       name: Pattenburg
@@ -7498,6 +8228,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '39.831426'
       long: "-75.243078"
+      closest_city:
+        name: Paulsboro
+        distance:
+          value: 1.0
+          units: km
     - region: NJ
       exchange: '126320'
       name: Peapack
@@ -7506,6 +8241,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.717864'
       long: "-74.661128"
+      closest_city:
+        name: Far Hills
+        distance:
+          value: 4.26
+          units: km
     - region: NJ
       exchange: '306390'
       name: Pedricktown
@@ -7530,6 +8270,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '39.972302'
       long: "-74.685987"
+      closest_city:
+        name: Pemberton Heights
+        distance:
+          value: 1.94
+          units: km
     - region: NJ
       exchange: '306411'
       name: Pemberton Township (Fort Dix)
@@ -7562,6 +8307,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.325225'
       long: "-74.790396"
+      closest_city:
+        name: Pennington
+        distance:
+          value: 0.11
+          units: km
     - region: NJ
       exchange: '126350'
       name: Penns Grove
@@ -7570,8 +8320,13 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '39.731844'
       long: "-75.469993"
+      closest_city:
+        name: Penns Grove
+        distance:
+          value: 0.49
+          units: km
     - region: NJ
-      exchange: '126401'
+      exchange: '126451'
       name: Penns Neck
       short_name: PENNS NECK
       lata: '222'
@@ -7579,7 +8334,7 @@ rate_centers:
       lat:
       long:
     - region: NJ
-      exchange: '126451'
+      exchange: '126401'
       name: Penns Neck
       short_name: PENNS NECK
       lata: '222'
@@ -7650,6 +8405,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.51065'
       long: "-74.271418"
+      closest_city:
+        name: Perth Amboy
+        distance:
+          value: 1.07
+          units: km
     - region: NJ
       exchange: '306051'
       name: Petersburg
@@ -7682,6 +8442,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.699309'
       long: "-75.189381"
+      closest_city:
+        name: Delaware Park
+        distance:
+          value: 0.65
+          units: km
     - region: NJ
       exchange: '307082'
       name: Picatinny
@@ -7811,7 +8576,7 @@ rate_centers:
       lat:
       long:
     - region: NJ
-      exchange: '126162'
+      exchange: '125341'
       name: Piscataway
       short_name: PISCATAWAY
       lata: '224'
@@ -7827,7 +8592,7 @@ rate_centers:
       lat:
       long:
     - region: NJ
-      exchange: '125341'
+      exchange: '126162'
       name: Piscataway
       short_name: PISCATAWAY
       lata: '224'
@@ -7842,6 +8607,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '39.736882'
       long: "-75.133965"
+      closest_city:
+        name: Pitman
+        distance:
+          value: 0.47
+          units: km
     - region: NJ
       exchange: '306408'
       name: Pittsgrove
@@ -7874,6 +8644,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.617738'
       long: "-74.421328"
+      closest_city:
+        name: Plainfield
+        distance:
+          value: 0.54
+          units: km
     - region: NJ
       exchange: '126400'
       name: Plainsboro
@@ -7882,6 +8657,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.3346'
       long: "-74.594489"
+      closest_city:
+        name: Plainsboro Center
+        distance:
+          value: 0.42
+          units: km
     - region: NJ
       exchange: '307095'
       name: Pleasant Grove
@@ -7906,6 +8686,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '39.388242'
       long: "-74.523844"
+      closest_city:
+        name: Pleasantville
+        distance:
+          value: 0.63
+          units: km
     - region: NJ
       exchange: '307096'
       name: Pluckemin
@@ -7938,6 +8723,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.089319'
       long: "-74.049798"
+      closest_city:
+        name: Point Pleasant Beach
+        distance:
+          value: 0.51
+          units: km
     - region: NJ
       exchange: '307113'
       name: Point Pleasant Beach
@@ -7970,6 +8760,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '41.003311'
       long: "-74.287549"
+      closest_city:
+        name: Pompton Lakes
+        distance:
+          value: 0.17
+          units: km
     - region: NJ
       exchange: '307098'
       name: Pompton Plains
@@ -8042,6 +8837,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '39.246404'
       long: "-75.033537"
+      closest_city:
+        name: Port Norris
+        distance:
+          value: 0.91
+          units: km
     - region: NJ
       exchange: '307110'
       name: Port Reading
@@ -8098,6 +8898,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.349726'
       long: "-74.661955"
+      closest_city:
+        name: Princeton
+        distance:
+          value: 0.95
+          units: km
     - region: NJ
       exchange: '306416'
       name: Princeton Junction
@@ -8186,6 +8991,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.607168'
       long: "-74.281232"
+      closest_city:
+        name: Rahway
+        distance:
+          value: 0.07
+          units: km
     - region: NJ
       exchange: '307118'
       name: Rainbow Lakes
@@ -8202,6 +9012,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '41.054417'
       long: "-74.145307"
+      closest_city:
+        name: Ramsey
+        distance:
+          value: 0.57
+          units: km
     - region: NJ
       exchange: '306423'
       name: Rancocas
@@ -8298,6 +9113,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.347897'
       long: "-74.064196"
+      closest_city:
+        name: Red Bank
+        distance:
+          value: 0.25
+          units: km
     - region: NJ
       exchange: '306427'
       name: Red Lion
@@ -8402,6 +9222,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.97976'
       long: "-74.113919"
+      closest_city:
+        name: Ridgewood
+        distance:
+          value: 0.28
+          units: km
     - region: NJ
       exchange: '307134'
       name: Riegel Ridge
@@ -8482,6 +9307,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.034937'
       long: "-74.959583"
+      closest_city:
+        name: Beverly
+        distance:
+          value: 4.64
+          units: km
     - region: NJ
       exchange: '126510'
       name: Riverton
@@ -8490,6 +9320,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.001553'
       long: "-75.021329"
+      closest_city:
+        name: Riverton
+        distance:
+          value: 1.24
+          units: km
     - region: NJ
       exchange: '307141'
       name: Riviera Beach
@@ -8515,7 +9350,7 @@ rate_centers:
       lat:
       long:
     - region: NJ
-      exchange: '125931'
+      exchange: '125411'
       name: Robertsville
       short_name: ROBERTSVL
       lata: '224'
@@ -8523,7 +9358,7 @@ rate_centers:
       lat:
       long:
     - region: NJ
-      exchange: '125411'
+      exchange: '125931'
       name: Robertsville
       short_name: ROBERTSVL
       lata: '224'
@@ -8562,6 +9397,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.900736'
       long: "-74.510694"
+      closest_city:
+        name: White Meadow Lake
+        distance:
+          value: 2.6
+          units: km
     - region: NJ
       exchange: '307146'
       name: Rockaway Valley
@@ -8626,6 +9466,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.660929'
       long: "-74.265599"
+      closest_city:
+        name: Roselle Park
+        distance:
+          value: 0.49
+          units: km
     - region: NJ
       exchange: '307151'
       name: Roselle Park
@@ -8714,6 +9559,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.827712'
       long: "-74.107014"
+      closest_city:
+        name: Rutherford
+        distance:
+          value: 0.83
+          units: km
     - region: NJ
       exchange: '307159'
       name: Saddle Brook
@@ -8738,6 +9588,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '39.574885'
       long: "-75.471101"
+      closest_city:
+        name: Salem
+        distance:
+          value: 0.76
+          units: km
     - region: NJ
       exchange: '306445'
       name: Salem Cove
@@ -8858,6 +9713,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '39.153816'
       long: "-74.689063"
+      closest_city:
+        name: Sea Isle City
+        distance:
+          value: 0.76
+          units: km
     - region: NJ
       exchange: '306447'
       name: Seabrook
@@ -8882,6 +9742,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '39.917202'
       long: "-74.077134"
+      closest_city:
+        name: Seaside Park
+        distance:
+          value: 1.03
+          units: km
     - region: NJ
       exchange: '306062'
       name: Seaville
@@ -9114,6 +9979,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '39.314903'
       long: "-74.59413"
+      closest_city:
+        name: Somers Point
+        distance:
+          value: 1.09
+          units: km
     - region: NJ
       exchange: '307192'
       name: Somerset
@@ -9130,6 +10000,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.566847'
       long: "-74.614205"
+      closest_city:
+        name: Somerville
+        distance:
+          value: 0.52
+          units: km
     - region: NJ
       exchange: '126600'
       name: South Amboy
@@ -9138,6 +10013,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.480581'
       long: "-74.278592"
+      closest_city:
+        name: South Amboy
+        distance:
+          value: 0.64
+          units: km
     - region: NJ
       exchange: '307187'
       name: South Belmar
@@ -9218,6 +10098,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.746549'
       long: "-74.255992"
+      closest_city:
+        name: Vauxhall
+        distance:
+          value: 4.0
+          units: km
     - region: NJ
       exchange: '307194'
       name: South Plainfield
@@ -9234,6 +10119,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.446621'
       long: "-74.379695"
+      closest_city:
+        name: South River
+        distance:
+          value: 0.17
+          units: km
     - region: NJ
       exchange: '307158'
       name: South Seaside Park
@@ -9330,6 +10220,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.153063'
       long: "-74.03183"
+      closest_city:
+        name: Spring Lake
+        distance:
+          value: 0.4
+          units: km
     - region: NJ
       exchange: '307203'
       name: Spring Lake Heights
@@ -9554,6 +10449,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '41.033465'
       long: "-75.036118"
+      closest_city:
+        name: Hainesburg
+        distance:
+          value: 8.51
+          units: km
     - region: NJ
       exchange: '126650'
       name: Succasunna
@@ -9562,6 +10462,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.867426'
       long: "-74.63421"
+      closest_city:
+        name: Kenvil
+        distance:
+          value: 1.88
+          units: km
     - region: NJ
       exchange: '126660'
       name: Summit
@@ -9570,6 +10475,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.715368'
       long: "-74.362398"
+      closest_city:
+        name: Summit
+        distance:
+          value: 0.19
+          units: km
     - region: NJ
       exchange: '307221'
       name: Sunnyside
@@ -9602,6 +10512,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF NEW JERSEY DBA CENTURYLINK
       lat: '41.209206'
       long: "-74.605428"
+      closest_city:
+        name: Sussex
+        distance:
+          value: 0.21
+          units: km
     - region: NJ
       exchange: '306075'
       name: Swainton
@@ -9634,6 +10549,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '39.747552'
       long: "-75.315367"
+      closest_city:
+        name: Swedesboro
+        distance:
+          value: 0.36
+          units: km
     - region: NJ
       exchange: '306473'
       name: Sykesville
@@ -9698,6 +10618,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.88595'
       long: "-74.01837"
+      closest_city:
+        name: Bogota
+        distance:
+          value: 1.52
+          units: km
     - region: NJ
       exchange: '307229'
       name: Teetertown Ravine Nature Preserve
@@ -9786,6 +10711,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '39.952522'
       long: "-74.199146"
+      closest_city:
+        name: South Toms River
+        distance:
+          value: 1.44
+          units: km
     - region: NJ
       exchange: '307237'
       name: Totowa
@@ -9858,6 +10788,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.221552'
       long: "-74.756879"
+      closest_city:
+        name: Trenton
+        distance:
+          value: 0.66
+          units: km
     - region: NJ
       exchange: '307243'
       name: Troy Hills
@@ -9874,6 +10809,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '39.292765'
       long: "-74.754915"
+      closest_city:
+        name: Tuckahoe
+        distance:
+          value: 0.6
+          units: km
     - region: NJ
       exchange: '126730'
       name: Tuckerton
@@ -9882,6 +10822,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '39.60142'
       long: "-74.340444"
+      closest_city:
+        name: Tuckerton
+        distance:
+          value: 0.96
+          units: km
     - region: NJ
       exchange: '306482'
       name: Turnersville
@@ -9922,6 +10867,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.771249'
       long: "-74.027241"
+      closest_city:
+        name: Union City
+        distance:
+          value: 0.6
+          units: km
     - region: NJ
       exchange: '307247'
       name: Union Hill
@@ -9962,6 +10912,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.696442'
       long: "-74.268052"
+      closest_city:
+        name: Union
+        distance:
+          value: 0.11
+          units: km
     - region: NJ
       exchange: '306486'
       name: Upper Deerfield Township
@@ -9994,6 +10949,11 @@ rate_centers:
       ilec_name: ALTEVA OF WARWICK LLC
       lat: '41.178921'
       long: "-74.377564"
+      closest_city:
+        name: Upper Greenwood Lake
+        distance:
+          value: 0.75
+          units: km
     - region: NJ
       exchange: '307253'
       name: Upper Montclair
@@ -10114,6 +11074,11 @@ rate_centers:
       ilec_name: ALTEVA OF WARWICK LLC
       lat: '41.206908'
       long: "-74.478702"
+      closest_city:
+        name: Vernon Center
+        distance:
+          value: 2.89
+          units: km
     - region: NJ
       exchange: '126780'
       name: Verona
@@ -10122,6 +11087,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.83489'
       long: "-74.251173"
+      closest_city:
+        name: Caldwell
+        distance:
+          value: 2.27
+          units: km
     - region: NJ
       exchange: '307261'
       name: Victory Gardens
@@ -10154,6 +11124,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '39.935404'
       long: "-74.751346"
+      closest_city:
+        name: Vincentown
+        distance:
+          value: 0.15
+          units: km
     - region: NJ
       exchange: '126800'
       name: Vineland
@@ -10162,6 +11137,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '39.48639'
       long: "-75.018884"
+      closest_city:
+        name: Vineland
+        distance:
+          value: 2.95
+          units: km
     - region: NJ
       exchange: '306492'
       name: Voorhees
@@ -10259,7 +11239,7 @@ rate_centers:
       lat:
       long:
     - region: NJ
-      exchange: '126031'
+      exchange: '372811'
       name: Warren
       short_name: WARREN
       lata: '224'
@@ -10267,7 +11247,7 @@ rate_centers:
       lat:
       long:
     - region: NJ
-      exchange: '372811'
+      exchange: '126031'
       name: Warren
       short_name: WARREN
       lata: '224'
@@ -10322,6 +11302,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.759515'
       long: "-74.980897"
+      closest_city:
+        name: Washington
+        distance:
+          value: 0.16
+          units: km
     - region: NJ
       exchange: '306498'
       name: Washington Crossing State Park
@@ -10458,6 +11443,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '39.793209'
       long: "-75.154061"
+      closest_city:
+        name: Wenonah
+        distance:
+          value: 0.51
+          units: km
     - region: NJ
       exchange: '306505'
       name: Wertsville
@@ -10618,6 +11608,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '41.12701'
       long: "-74.376323"
+      closest_city:
+        name: Hewitt
+        distance:
+          value: 5.28
+          units: km
     - region: NJ
       exchange: '307267'
       name: West New York
@@ -10635,7 +11630,7 @@ rate_centers:
       lat:
       long:
     - region: NJ
-      exchange: '126421'
+      exchange: '126703'
       name: West Osbornsville
       short_name: W OSBRNSVL
       lata: '224'
@@ -10643,7 +11638,7 @@ rate_centers:
       lat:
       long:
     - region: NJ
-      exchange: '126703'
+      exchange: '126421'
       name: West Osbornsville
       short_name: W OSBRNSVL
       lata: '224'
@@ -10730,6 +11725,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.648922'
       long: "-74.345324"
+      closest_city:
+        name: Westfield
+        distance:
+          value: 0.35
+          units: km
     - region: NJ
       exchange: '306508'
       name: Westmont
@@ -10770,6 +11770,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.991563'
       long: "-74.033734"
+      closest_city:
+        name: Westwood
+        distance:
+          value: 0.49
+          units: km
     - region: NJ
       exchange: '306097'
       name: Weymouth
@@ -10802,6 +11807,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.82362'
       long: "-74.413492"
+      closest_city:
+        name: Whippany
+        distance:
+          value: 0.41
+          units: km
     - region: NJ
       exchange: '125971'
       name: White Horse
@@ -10834,6 +11844,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF NEW JERSEY DBA CENTURYLINK
       lat: '40.614266'
       long: "-74.770291"
+      closest_city:
+        name: White House Station
+        distance:
+          value: 0.86
+          units: km
     - region: NJ
       exchange: '307307'
       name: Whitehouse Station
@@ -10898,6 +11913,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '38.985972'
       long: "-74.811628"
+      closest_city:
+        name: Wildwood
+        distance:
+          value: 0.72
+          units: km
     - region: NJ
       exchange: '306100'
       name: Wildwood Crest
@@ -10922,6 +11942,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '39.685444'
       long: "-74.991298"
+      closest_city:
+        name: Williamstown
+        distance:
+          value: 1.11
+          units: km
     - region: NJ
       exchange: '306514'
       name: Williamstown Junction
@@ -11018,6 +12043,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '40.555259'
       long: "-74.27994"
+      closest_city:
+        name: Sewaren
+        distance:
+          value: 1.88
+          units: km
     - region: NJ
       exchange: '307290'
       name: Woodbridge Township (Middelsex)
@@ -11058,6 +12088,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '39.8388'
       long: "-75.154881"
+      closest_city:
+        name: Woodbury
+        distance:
+          value: 0.23
+          units: km
     - region: NJ
       exchange: '306521'
       name: Woodbury Heights
@@ -11178,6 +12213,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '39.654318'
       long: "-75.330095"
+      closest_city:
+        name: Woodstown
+        distance:
+          value: 0.62
+          units: km
     - region: NJ
       exchange: '306528'
       name: Woodsville
@@ -11218,6 +12258,11 @@ rate_centers:
       ilec_name: VERIZON NEW JERSEY, INC.
       lat: '41.012526'
       long: "-74.172138"
+      closest_city:
+        name: Franklin Lakes
+        distance:
+          value: 3.07
+          units: km
     - region: NJ
       exchange: '306534'
       name: Yardville

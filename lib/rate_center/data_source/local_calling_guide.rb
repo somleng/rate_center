@@ -3,12 +3,11 @@ require "multi_xml"
 require "rack"
 require "yaml"
 require "countries"
+require "ostruct"
 
 module RateCenter
   module DataSource
     class LocalCallingGuide
-      class Error < StandardError; end
-
       attr_reader :client, :data_directory
 
       def initialize(**options)
@@ -73,26 +72,19 @@ module RateCenter
         data_directory = options.fetch(:data_directory)
         FileUtils.mkdir_p(data_directory)
 
-        us_regions = Array(options.fetch(:regions) { regions_for("US") })
-        us_regions = us_regions.first(options.fetch(:limit).to_i) if options.key?(:limit)
+        us_regions = Array(regions_for("US"))
 
         Array(us_regions).each do |region, _|
-          region_identifier = region.downcase
-          data_file = data_directory.join("#{region_identifier}.yml")
-
-          next if data_file.exist? && !options.fetch(:override, false)
-
+          data_file = data_directory.join("#{region.downcase}.yml")
           rate_centers = client.fetch_rate_center_data(region:).rate_centers
           next if rate_centers.empty?
 
           data = rate_centers.sort_by(&:rc).map do |rate_center|
-            raise Error.new("State mismatch. Expected #{rate_center.region} to eq #{region}") unless rate_center.region.upcase == region
-
             {
               "region" => region,
               "exchange" => rate_center.exch,
               "name" => rate_center.rc,
-              "short_name" => rate_center.rcshort,
+              "short_name" => rate_center.rcshort || rate_center.rc,
               "lata" => rate_center.lata,
               "ilec_name" => rate_center.ilec_name,
               "lat" => rate_center.rc_lat,
@@ -103,8 +95,8 @@ module RateCenter
           data_file.write(
             {
               "rate_centers" => {
-                "us" => {
-                  region_identifier => data
+                "US" => {
+                  region => data
                 }
               }
             }.to_yaml

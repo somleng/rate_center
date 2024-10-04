@@ -1,952 +1,4089 @@
 ---
 cities:
-  us:
+  US:
     ID:
     - name: Aberdeen
       region: ID
       lat: '42.9441'
       long: "-112.8384"
+      closest_rate_centers:
+      - name: Aberdeen
+        distance:
+          value: 0.71
+          units: km
+      - name: American Falls
+        distance:
+          value: 17.85
+          units: km
+      - name: Springfield
+        distance:
+          value: 19.46
+          units: km
     - name: Acequia
       region: ID
       lat: '42.6688'
       long: "-113.5968"
+      closest_rate_centers:
+      - name: Rupert
+        distance:
+          value: 8.59
+          units: km
+      - name: Minidoka
+        distance:
+          value: 12.37
+          units: km
+      - name: Norland
+        distance:
+          value: 13.33
+          units: km
     - name: Albion
       region: ID
       lat: '42.4098'
       long: "-113.5806"
+      closest_rate_centers:
+      - name: Albion
+        distance:
+          value: 0.1
+          units: km
+      - name: Elba
+        distance:
+          value: 17.69
+          units: km
+      - name: Malta
+        distance:
+          value: 20.9
+          units: km
     - name: American Falls
       region: ID
       lat: '42.7828'
       long: "-112.8541"
+      closest_rate_centers:
+      - name: American Falls
+        distance:
+          value: 0.2
+          units: km
+      - name: Aberdeen
+        distance:
+          value: 18.69
+          units: km
+      - name: Rockland
+        distance:
+          value: 22.98
+          units: km
     - name: Ammon
       region: ID
       lat: '43.4745'
       long: "-111.9568"
+      closest_rate_centers:
+      - name: Idaho Falls
+        distance:
+          value: 7.0
+          units: km
+      - name: Shelley
+        distance:
+          value: 17.25
+          units: km
+      - name: Rigby
+        distance:
+          value: 22.31
+          units: km
     - name: Arbon Valley
       region: ID
       lat: '42.8847'
       long: "-112.5942"
+      closest_rate_centers:
+      - name: Aberdeen
+        distance:
+          value: 21.2
+          units: km
+      - name: Springfield
+        distance:
+          value: 23.52
+          units: km
+      - name: American Falls
+        distance:
+          value: 23.84
+          units: km
     - name: Arco
       region: ID
       lat: '43.6316'
       long: "-113.3017"
+      closest_rate_centers:
+      - name: Arco
+        distance:
+          value: 0.44
+          units: km
+      - name: Mackay
+        distance:
+          value: 40.52
+          units: km
+      - name: Carey
+        distance:
+          value: 62.66
+          units: km
     - name: Arimo
       region: ID
       lat: '42.5601'
       long: "-112.1730"
+      closest_rate_centers:
+      - name: McCammon
+        distance:
+          value: 10.07
+          units: km
+      - name: Lava Hot Springs
+        distance:
+          value: 15.52
+          units: km
+      - name: Downey
+        distance:
+          value: 15.63
+          units: km
     - name: Ashton
       region: ID
       lat: '44.0734'
       long: "-111.4482"
+      closest_rate_centers:
+      - name: Ashton
+        distance:
+          value: 0.42
+          units: km
+      - name: St Anthony
+        distance:
+          value: 22.88
+          units: km
+      - name: Rexburg
+        distance:
+          value: 39.25
+          units: km
     - name: Athol
       region: ID
       lat: '47.9469'
       long: "-116.7079"
+      closest_rate_centers:
+      - name: Bayview
+        distance:
+          value: 10.23
+          units: km
+      - name: Spirit Lake
+        distance:
+          value: 12.24
+          units: km
+      - name: Rathdrum
+        distance:
+          value: 19.96
+          units: km
     - name: Atomic City
       region: ID
       lat: '43.4431'
       long: "-112.8124"
+      closest_rate_centers:
+      - name: Springfield
+        distance:
+          value: 41.15
+          units: km
+      - name: Arco
+        distance:
+          value: 44.84
+          units: km
+      - name: Blackfoot
+        distance:
+          value: 47.26
+          units: km
     - name: Avimor
       region: ID
       lat: '43.7758'
       long: "-116.2571"
+      closest_rate_centers:
+      - name: Horseshoe Bend
+        distance:
+          value: 16.52
+          units: km
+      - name: Boise
+        distance:
+          value: 18.83
+          units: km
+      - name: Meridian
+        distance:
+          value: 18.83
+          units: km
+      - name: Star
+        distance:
+          value: 21.21
+          units: km
     - name: Bancroft
       region: ID
       lat: '42.7202'
       long: "-111.8830"
+      closest_rate_centers:
+      - name: Bancroft
+        distance:
+          value: 0.64
+          units: km
+      - name: Lava Hot Springs
+        distance:
+          value: 14.53
+          units: km
+      - name: Grace
+        distance:
+          value: 20.37
+          units: km
     - name: Banks
       region: ID
       lat: '44.0777'
       long: "-116.1278"
+      closest_rate_centers:
+      - name: Garden Valley
+        distance:
+          value: 14.14
+          units: km
+      - name: Horseshoe Bend
+        distance:
+          value: 18.63
+          units: km
+      - name: Sweet
+        distance:
+          value: 19.55
+          units: km
     - name: Basalt
       region: ID
       lat: '43.3145'
       long: "-112.1650"
+      closest_rate_centers:
+      - name: Shelley
+        distance:
+          value: 8.06
+          units: km
+      - name: Blackfoot
+        distance:
+          value: 20.03
+          units: km
+      - name: Idaho Falls
+        distance:
+          value: 23.01
+          units: km
     - name: Bellevue
       region: ID
       lat: '43.4684'
       long: "-114.2551"
+      closest_rate_centers:
+      - name: Hailey
+        distance:
+          value: 7.41
+          units: km
+      - name: Ketchum
+        distance:
+          value: 25.54
+          units: km
+      - name: Carey
+        distance:
+          value: 31.08
+          units: km
     - name: Bennington
       region: ID
       lat: '42.3827'
       long: "-111.3228"
+      closest_rate_centers:
+      - name: Montpelier
+        distance:
+          value: 6.85
+          units: km
+      - name: Paris
+        distance:
+          value: 17.99
+          units: km
+      - name: Soda Springs
+        distance:
+          value: 38.33
+          units: km
     - name: Blackfoot
       region: ID
       lat: '43.1940'
       long: "-112.3454"
+      closest_rate_centers:
+      - name: Blackfoot
+        distance:
+          value: 0.5
+          units: km
+      - name: Shelley
+        distance:
+          value: 27.31
+          units: km
+      - name: Springfield
+        distance:
+          value: 30.8
+          units: km
     - name: Blanchard
       region: ID
       lat: '48.0152'
       long: "-116.9928"
+      closest_rate_centers:
+      - name: Spirit Lake
+        distance:
+          value: 10.62
+          units: km
+      - name: Albeni
+        distance:
+          value: 19.53
+          units: km
+      - name: Priest River
+        distance:
+          value: 19.67
+          units: km
     - name: Bliss
       region: ID
       lat: '42.9243'
       long: "-114.9479"
+      closest_rate_centers:
+      - name: Bliss
+        distance:
+          value: 0.37
+          units: km
+      - name: Hagerman
+        distance:
+          value: 13.42
+          units: km
+      - name: Gooding
+        distance:
+          value: 19.76
+          units: km
     - name: Bloomington
       region: ID
       lat: '42.1908'
       long: "-111.4042"
+      closest_rate_centers:
+      - name: Paris
+        distance:
+          value: 4.61
+          units: km
+      - name: Montpelier
+        distance:
+          value: 17.07
+          units: km
+      - name: Preston
+        distance:
+          value: 40.23
+          units: km
     - name: Boise
       region: ID
       lat: '43.6005'
       long: "-116.2308"
+      closest_rate_centers:
+      - name: Boise
+        distance:
+          value: 5.7
+          units: km
+      - name: Meridian
+        distance:
+          value: 5.7
+          units: km
+      - name: Kuna
+        distance:
+          value: 19.07
+          units: km
+      - name: Star
+        distance:
+          value: 23.5
+          units: km
     - name: Bonners Ferry
       region: ID
       lat: '48.6928'
       long: "-116.3184"
+      closest_rate_centers:
+      - name: Bonners Ferry
+        distance:
+          value: 0.25
+          units: km
+      - name: Priest Lake
+        distance:
+          value: 48.16
+          units: km
+      - name: Sandpoint
+        distance:
+          value: 49.9
+          units: km
     - name: Bovill
       region: ID
       lat: '46.8585'
       long: "-116.3935"
+      closest_rate_centers:
+      - name: Bovill
+        distance:
+          value: 0.32
+          units: km
+      - name: Deary
+        distance:
+          value: 14.1
+          units: km
+      - name: Troy
+        distance:
+          value: 31.66
+          units: km
     - name: Bruneau
       region: ID
       lat: '42.8766'
       long: "-115.8001"
+      closest_rate_centers:
+      - name: Bruneau
+        distance:
+          value: 0.4
+          units: km
+      - name: Grand View
+        distance:
+          value: 27.45
+          units: km
+      - name: Mountain Home
+        distance:
+          value: 29.88
+          units: km
     - name: Buhl
       region: ID
       lat: '42.5984'
       long: "-114.7596"
+      closest_rate_centers:
+      - name: Buhl
+        distance:
+          value: 0.25
+          units: km
+      - name: Filer
+        distance:
+          value: 12.84
+          units: km
+      - name: Castleford
+        distance:
+          value: 12.89
+          units: km
     - name: Burley
       region: ID
       lat: '42.5379'
       long: "-113.7926"
+      closest_rate_centers:
+      - name: Burley
+        distance:
+          value: 0.47
+          units: km
+      - name: Paul
+        distance:
+          value: 9.15
+          units: km
+      - name: Rupert
+        distance:
+          value: 13.07
+          units: km
     - name: Butte City
       region: ID
       lat: '43.6070'
       long: "-113.2408"
+      closest_rate_centers:
+      - name: Arco
+        distance:
+          value: 5.81
+          units: km
+      - name: Mackay
+        distance:
+          value: 45.75
+          units: km
+      - name: Carey
+        distance:
+          value: 65.33
+          units: km
     - name: Caldwell
       region: ID
       lat: '43.6453'
       long: "-116.6594"
+      closest_rate_centers:
+      - name: Caldwell
+        distance:
+          value: 3.2
+          units: km
+      - name: Middleton
+        distance:
+          value: 7.97
+          units: km
+      - name: Nampa
+        distance:
+          value: 10.83
+          units: km
     - name: Cambridge
       region: ID
       lat: '44.5719'
       long: "-116.6778"
+      closest_rate_centers:
+      - name: Cambridge
+        distance:
+          value: 0.9
+          units: km
+      - name: Midvale
+        distance:
+          value: 12.33
+          units: km
+      - name: Indian Valley
+        distance:
+          value: 19.58
+          units: km
     - name: Carey
       region: ID
       lat: '43.3097'
       long: "-113.9444"
+      closest_rate_centers:
+      - name: Carey
+        distance:
+          value: 0.46
+          units: km
+      - name: Richfield
+        distance:
+          value: 32.5
+          units: km
+      - name: Hailey
+        distance:
+          value: 37.73
+          units: km
     - name: Cascade
       region: ID
       lat: '44.5087'
       long: "-116.0425"
+      closest_rate_centers:
+      - name: Cascade
+        distance:
+          value: 1.88
+          units: km
+      - name: Donnelly
+        distance:
+          value: 25.07
+          units: km
+      - name: Indian Valley
+        distance:
+          value: 31.33
+          units: km
     - name: Castleford
       region: ID
       lat: '42.5206'
       long: "-114.8717"
+      closest_rate_centers:
+      - name: Castleford
+        distance:
+          value: 0.33
+          units: km
+      - name: Buhl
+        distance:
+          value: 12.86
+          units: km
+      - name: Filer
+        distance:
+          value: 22.6
+          units: km
     - name: Challis
       region: ID
       lat: '44.5055'
       long: "-114.2281"
+      closest_rate_centers:
+      - name: Challis
+        distance:
+          value: 0.72
+          units: km
+      - name: May
+        distance:
+          value: 27.18
+          units: km
+      - name: Clayton
+        distance:
+          value: 29.01
+          units: km
     - name: Chubbuck
       region: ID
       lat: '42.9263'
       long: "-112.4623"
+      closest_rate_centers:
+      - name: Springfield
+        distance:
+          value: 25.65
+          units: km
+      - name: Pocatello
+        distance:
+          value: 27.44
+          units: km
+      - name: Aberdeen
+        distance:
+          value: 30.75
+          units: km
     - name: Clark Fork
       region: ID
       lat: '48.1472'
       long: "-116.1768"
+      closest_rate_centers:
+      - name: Clark Fork
+        distance:
+          value: 0.59
+          units: km
+      - name: Hope
+        distance:
+          value: 13.99
+          units: km
+      - name: Lakeview
+        distance:
+          value: 22.01
+          units: km
     - name: Clayton
       region: ID
       lat: '44.2591'
       long: "-114.3880"
+      closest_rate_centers:
+      - name: Clayton
+        distance:
+          value: 1.2
+          units: km
+      - name: Challis
+        distance:
+          value: 29.71
+          units: km
+      - name: Stanley
+        distance:
+          value: 43.51
+          units: km
     - name: Clifton
       region: ID
       lat: '42.1873'
       long: "-112.0046"
+      closest_rate_centers:
+      - name: Preston
+        distance:
+          value: 14.12
+          units: km
+      - name: Malad
+        distance:
+          value: 20.23
+          units: km
+      - name: Downey
+        distance:
+          value: 28.07
+          units: km
     - name: Coeur d'Alene
       region: ID
       lat: '47.7040'
       long: "-116.7936"
+      closest_rate_centers:
+      - name: Coeur D'Alene
+        distance:
+          value: 2.57
+          units: km
+      - name: Hayden Lake
+        distance:
+          value: 6.31
+          units: km
+      - name: Post Falls
+        distance:
+          value: 11.19
+          units: km
     - name: Conkling Park
       region: ID
       lat: '47.3998'
       long: "-116.7704"
+      closest_rate_centers:
+      - name: Harrison
+        distance:
+          value: 5.8
+          units: km
+      - name: Plummer-Worley
+        distance:
+          value: 9.61
+          units: km
+      - name: Rock Creek
+        distance:
+          value: 17.67
+          units: km
     - name: Coolin
       region: ID
       lat: '48.4760'
       long: "-116.8441"
+      closest_rate_centers:
+      - name: Priest Lake
+        distance:
+          value: 7.97
+          units: km
+      - name: Sandpoint
+        distance:
+          value: 30.96
+          units: km
+      - name: Priest River
+        distance:
+          value: 32.93
+          units: km
     - name: Cottonwood
       region: ID
       lat: '46.0510'
       long: "-116.3498"
+      closest_rate_centers:
+      - name: Cottonwood
+        distance:
+          value: 0.99
+          units: km
+      - name: Nez Perce
+        distance:
+          value: 22.27
+          units: km
+      - name: Grangeville
+        distance:
+          value: 22.37
+          units: km
     - name: Council
       region: ID
       lat: '44.7328'
       long: "-116.4376"
+      closest_rate_centers:
+      - name: Council
+        distance:
+          value: 0.47
+          units: km
+      - name: Indian Valley
+        distance:
+          value: 19.31
+          units: km
+      - name: Cambridge
+        distance:
+          value: 25.22
+          units: km
     - name: Craigmont
       region: ID
       lat: '46.2422'
       long: "-116.4728"
+      closest_rate_centers:
+      - name: Craigmont
+        distance:
+          value: 0.15
+          units: km
+      - name: Nez Perce
+        distance:
+          value: 18.27
+          units: km
+      - name: Lenore
+        distance:
+          value: 23.06
+          units: km
     - name: Crouch
       region: ID
       lat: '44.1161'
       long: "-115.9740"
+      closest_rate_centers:
+      - name: Garden Valley
+        distance:
+          value: 3.67
+          units: km
+      - name: Horseshoe Bend
+        distance:
+          value: 28.11
+          units: km
+      - name: Sweet
+        distance:
+          value: 32.2
+          units: km
     - name: Culdesac
       region: ID
       lat: '46.3749'
       long: "-116.6703"
+      closest_rate_centers:
+      - name: Lapwai
+        distance:
+          value: 10.79
+          units: km
+      - name: Lenore
+        distance:
+          value: 11.17
+          units: km
+      - name: Craigmont
+        distance:
+          value: 21.06
+          units: km
     - name: Dalton Gardens
       region: ID
       lat: '47.7329'
       long: "-116.7696"
+      closest_rate_centers:
+      - name: Hayden Lake
+        distance:
+          value: 3.15
+          units: km
+      - name: Coeur D'Alene
+        distance:
+          value: 5.76
+          units: km
+      - name: Rathdrum
+        distance:
+          value: 13.16
+          units: km
     - name: Dayton
       region: ID
       lat: '42.1118'
       long: "-111.9779"
+      closest_rate_centers:
+      - name: Preston
+        distance:
+          value: 8.36
+          units: km
+      - name: Malad
+        distance:
+          value: 24.06
+          units: km
+      - name: Downey
+        distance:
+          value: 36.74
+          units: km
     - name: De Smet
       region: ID
       lat: '47.1410'
       long: "-116.9113"
+      closest_rate_centers:
+      - name: Bluebell
+        distance:
+          value: 11.19
+          units: km
+      - name: Evergreen
+        distance:
+          value: 11.26
+          units: km
+      - name: Cora
+        distance:
+          value: 16.83
+          units: km
     - name: Deary
       region: ID
       lat: '46.8003'
       long: "-116.5572"
+      closest_rate_centers:
+      - name: Deary
+        distance:
+          value: 0.1
+          units: km
+      - name: Bovill
+        distance:
+          value: 13.72
+          units: km
+      - name: Troy
+        distance:
+          value: 17.63
+          units: km
     - name: Declo
       region: ID
       lat: '42.5196'
       long: "-113.6288"
+      closest_rate_centers:
+      - name: Rupert
+        distance:
+          value: 11.76
+          units: km
+      - name: Albion
+        distance:
+          value: 12.93
+          units: km
+      - name: Burley
+        distance:
+          value: 13.62
+          units: km
     - name: Dietrich
       region: ID
       lat: '42.9128'
       long: "-114.2662"
+      closest_rate_centers:
+      - name: Dietrich
+        distance:
+          value: 0.41
+          units: km
+      - name: Shoshone
+        distance:
+          value: 11.5
+          units: km
+      - name: Richfield
+        distance:
+          value: 18.79
+          units: km
     - name: Donnelly
       region: ID
       lat: '44.7351'
       long: "-116.0788"
+      closest_rate_centers:
+      - name: Donnelly
+        distance:
+          value: 0.35
+          units: km
+      - name: McCall
+        distance:
+          value: 19.6
+          units: km
+      - name: Cascade
+        distance:
+          value: 23.48
+          units: km
     - name: Dover
       region: ID
       lat: '48.2606'
       long: "-116.6098"
+      closest_rate_centers:
+      - name: Sandpoint
+        distance:
+          value: 4.12
+          units: km
+      - name: Hope
+        distance:
+          value: 23.01
+          units: km
+      - name: Priest River
+        distance:
+          value: 23.76
+          units: km
     - name: Downey
       region: ID
       lat: '42.4288'
       long: "-112.1233"
+      closest_rate_centers:
+      - name: Downey
+        distance:
+          value: 0.85
+          units: km
+      - name: Lava Hot Springs
+        distance:
+          value: 23.92
+          units: km
+      - name: McCammon
+        distance:
+          value: 25.17
+          units: km
     - name: Driggs
       region: ID
       lat: '43.7299'
       long: "-111.1043"
+      closest_rate_centers:
+      - name: Driggs
+        distance:
+          value: 0.8
+          units: km
+      - name: Irwin
+        distance:
+          value: 39.32
+          units: km
+      - name: Ashton
+        distance:
+          value: 47.47
+          units: km
     - name: Drummond
       region: ID
       lat: '43.9996'
       long: "-111.3433"
+      closest_rate_centers:
+      - name: Ashton
+        distance:
+          value: 12.14
+          units: km
+      - name: St Anthony
+        distance:
+          value: 28.23
+          units: km
+      - name: Driggs
+        distance:
+          value: 35.92
+          units: km
     - name: Dubois
       region: ID
       lat: '44.1727'
       long: "-112.2293"
+      closest_rate_centers:
+      - name: Dubois
+        distance:
+          value: 0.43
+          units: km
+      - name: Hamer
+        distance:
+          value: 26.47
+          units: km
+      - name: Kilgore
+        distance:
+          value: 28.39
+          units: km
     - name: Eagle
       region: ID
       lat: '43.7223'
       long: "-116.3866"
+      closest_rate_centers:
+      - name: Star
+        distance:
+          value: 9.29
+          units: km
+      - name: Boise
+        distance:
+          value: 14.33
+          units: km
+      - name: Meridian
+        distance:
+          value: 14.33
+          units: km
+      - name: Middleton
+        distance:
+          value: 18.68
+          units: km
     - name: East Hope
       region: ID
       lat: '48.2408'
       long: "-116.2903"
+      closest_rate_centers:
+      - name: Hope
+        distance:
+          value: 0.75
+          units: km
+      - name: Clark Fork
+        distance:
+          value: 13.87
+          units: km
+      - name: Sandpoint
+        distance:
+          value: 20.09
+          units: km
     - name: Eden
       region: ID
       lat: '42.6053'
       long: "-114.2090"
+      closest_rate_centers:
+      - name: Eden
+        distance:
+          value: 0.53
+          units: km
+      - name: Hazelton
+        distance:
+          value: 0.53
+          units: km
+      - name: Murtaugh
+        distance:
+          value: 13.12
+          units: km
+      - name: Kimberly
+        distance:
+          value: 14.71
+          units: km
     - name: Elk City
       region: ID
       lat: '45.8266'
       long: "-115.4378"
+      closest_rate_centers:
+      - name: Elk City
+        distance:
+          value: 0.41
+          units: km
+      - name: Grangeville
+        distance:
+          value: 54.15
+          units: km
+      - name: Kooskia
+        distance:
+          value: 54.31
+          units: km
     - name: Elk River
       region: ID
       lat: '46.7828'
       long: "-116.1810"
+      closest_rate_centers:
+      - name: Bovill
+        distance:
+          value: 18.47
+          units: km
+      - name: Deary
+        distance:
+          value: 28.8
+          units: km
+      - name: Orofino
+        distance:
+          value: 33.91
+          units: km
     - name: Emmett
       region: ID
       lat: '43.8693'
       long: "-116.4916"
+      closest_rate_centers:
+      - name: Emmett
+        distance:
+          value: 0.85
+          units: km
+      - name: Sweet
+        distance:
+          value: 17.69
+          units: km
+      - name: Star
+        distance:
+          value: 19.73
+          units: km
     - name: Fairfield
       region: ID
       lat: '43.3489'
       long: "-114.8006"
+      closest_rate_centers:
+      - name: Fairfield
+        distance:
+          value: 1.68
+          units: km
+      - name: Boise River
+        distance:
+          value: 42.21
+          units: km
+      - name: Hailey
+        distance:
+          value: 44.24
+          units: km
     - name: Ferdinand
       region: ID
       lat: '46.1519'
       long: "-116.3900"
+      closest_rate_centers:
+      - name: Craigmont
+        distance:
+          value: 11.97
+          units: km
+      - name: Cottonwood
+        distance:
+          value: 12.6
+          units: km
+      - name: Nez Perce
+        distance:
+          value: 15.06
+          units: km
     - name: Fernan Lake Village
       region: ID
       lat: '47.6726'
       long: "-116.7472"
+      closest_rate_centers:
+      - name: Coeur D'Alene
+        distance:
+          value: 2.91
+          units: km
+      - name: Hayden Lake
+        distance:
+          value: 10.06
+          units: km
+      - name: Post Falls
+        distance:
+          value: 15.15
+          units: km
     - name: Fernwood
       region: ID
       lat: '47.1151'
       long: "-116.3864"
+      closest_rate_centers:
+      - name: St Maries
+        distance:
+          value: 26.32
+          units: km
+      - name: Bovill
+        distance:
+          value: 28.63
+          units: km
+      - name: Deary
+        distance:
+          value: 37.32
+          units: km
     - name: Filer
       region: ID
       lat: '42.5679'
       long: "-114.6115"
+      closest_rate_centers:
+      - name: Filer
+        distance:
+          value: 0.94
+          units: km
+      - name: Twin Falls
+        distance:
+          value: 11.85
+          units: km
+      - name: Buhl
+        distance:
+          value: 12.51
+          units: km
     - name: Firth
       region: ID
       lat: '43.3057'
       long: "-112.1834"
+      closest_rate_centers:
+      - name: Shelley
+        distance:
+          value: 9.58
+          units: km
+      - name: Blackfoot
+        distance:
+          value: 18.28
+          units: km
+      - name: Idaho Falls
+        distance:
+          value: 24.57
+          units: km
     - name: Fort Hall
       region: ID
       lat: '43.0144'
       long: "-112.4572"
+      closest_rate_centers:
+      - name: Springfield
+        distance:
+          value: 20.67
+          units: km
+      - name: Blackfoot
+        distance:
+          value: 21.57
+          units: km
+      - name: Aberdeen
+        distance:
+          value: 31.83
+          units: km
     - name: Franklin
       region: ID
       lat: '42.0124'
       long: "-111.8036"
+      closest_rate_centers:
+      - name: Preston
+        distance:
+          value: 11.71
+          units: km
+      - name: Paris
+        distance:
+          value: 41.09
+          units: km
+      - name: Malad
+        distance:
+          value: 41.79
+          units: km
     - name: Fruitland
       region: ID
       lat: '44.0197'
       long: "-116.9220"
+      closest_rate_centers:
+      - name: Fruitland
+        distance:
+          value: 1.47
+          units: km
+      - name: Payette
+        distance:
+          value: 6.11
+          units: km
+      - name: New Plymouth
+        distance:
+          value: 10.31
+          units: km
     - name: Gannett
       region: ID
       lat: '43.3570'
       long: "-114.1756"
+      closest_rate_centers:
+      - name: Carey
+        distance:
+          value: 19.87
+          units: km
+      - name: Hailey
+        distance:
+          value: 21.31
+          units: km
+      - name: Richfield
+        distance:
+          value: 33.25
+          units: km
     - name: Garden City
       region: ID
       lat: '43.6526'
       long: "-116.2743"
+      closest_rate_centers:
+      - name: Meridian
+        distance:
+          value: 5.25
+          units: km
+      - name: Boise
+        distance:
+          value: 5.25
+          units: km
+      - name: Star
+        distance:
+          value: 18.22
+          units: km
+      - name: Kuna
+        distance:
+          value: 21.07
+          units: km
     - name: Garden Valley
       region: ID
       lat: '44.0830'
       long: "-115.9612"
+      closest_rate_centers:
+      - name: Garden Valley
+        distance:
+          value: 0.93
+          units: km
+      - name: Horseshoe Bend
+        distance:
+          value: 26.01
+          units: km
+      - name: Idaho City
+        distance:
+          value: 30.54
+          units: km
     - name: Genesee
       region: ID
       lat: '46.5516'
       long: "-116.9284"
+      closest_rate_centers:
+      - name: Genesee
+        distance:
+          value: 0.17
+          units: km
+      - name: Leon
+        distance:
+          value: 7.56
+          units: km
+      - name: Lewiston
+        distance:
+          value: 16.22
+          units: km
     - name: Georgetown
       region: ID
       lat: '42.4790'
       long: "-111.3639"
+      closest_rate_centers:
+      - name: Montpelier
+        distance:
+          value: 18.07
+          units: km
+      - name: Paris
+        distance:
+          value: 27.63
+          units: km
+      - name: Soda Springs
+        distance:
+          value: 27.95
+          units: km
     - name: Glenns Ferry
       region: ID
       lat: '42.9504'
       long: "-115.3067"
+      closest_rate_centers:
+      - name: Glenns Ferry
+        distance:
+          value: 0.41
+          units: km
+      - name: Bliss
+        distance:
+          value: 29.0
+          units: km
+      - name: Hagerman
+        distance:
+          value: 36.86
+          units: km
     - name: Gooding
       region: ID
       lat: '42.9373'
       long: "-114.7134"
+      closest_rate_centers:
+      - name: Gooding
+        distance:
+          value: 0.82
+          units: km
+      - name: Wendell
+        distance:
+          value: 18.12
+          units: km
+      - name: Bliss
+        distance:
+          value: 19.51
+          units: km
     - name: Grace
       region: ID
       lat: '42.5756'
       long: "-111.7300"
+      closest_rate_centers:
+      - name: Grace
+        distance:
+          value: 0.47
+          units: km
+      - name: Soda Springs
+        distance:
+          value: 14.11
+          units: km
+      - name: Bancroft
+        distance:
+          value: 19.96
+          units: km
     - name: Grand View
       region: ID
       lat: '42.9839'
       long: "-116.0917"
+      closest_rate_centers:
+      - name: Grand View
+        distance:
+          value: 1.08
+          units: km
+      - name: Bruneau
+        distance:
+          value: 26.67
+          units: km
+      - name: Tipanuk
+        distance:
+          value: 35.04
+          units: km
     - name: Grangeville
       region: ID
       lat: '45.9260'
       long: "-116.1224"
+      closest_rate_centers:
+      - name: Grangeville
+        distance:
+          value: 0.06
+          units: km
+      - name: Cottonwood
+        distance:
+          value: 21.49
+          units: km
+      - name: White Bird
+        distance:
+          value: 22.16
+          units: km
     - name: Greenleaf
       region: ID
       lat: '43.6753'
       long: "-116.8210"
+      closest_rate_centers:
+      - name: Wilder
+        distance:
+          value: 6.89
+          units: km
+      - name: Caldwell
+        distance:
+          value: 10.96
+          units: km
+      - name: Homedale
+        distance:
+          value: 11.13
+          units: km
     - name: Groveland
       region: ID
       lat: '43.2235'
       long: "-112.3755"
+      closest_rate_centers:
+      - name: Blackfoot
+        distance:
+          value: 4.57
+          units: km
+      - name: Shelley
+        distance:
+          value: 26.66
+          units: km
+      - name: Springfield
+        distance:
+          value: 30.13
+          units: km
     - name: Hagerman
       region: ID
       lat: '42.8164'
       long: "-114.8974"
+      closest_rate_centers:
+      - name: Hagerman
+        distance:
+          value: 0.77
+          units: km
+      - name: Bliss
+        distance:
+          value: 12.74
+          units: km
+      - name: Wendell
+        distance:
+          value: 16.54
+          units: km
     - name: Hailey
       region: ID
       lat: '43.5141'
       long: "-114.3001"
+      closest_rate_centers:
+      - name: Hailey
+        distance:
+          value: 1.16
+          units: km
+      - name: Ketchum
+        distance:
+          value: 19.59
+          units: km
+      - name: Carey
+        distance:
+          value: 37.01
+          units: km
     - name: Hamer
       region: ID
       lat: '43.9216'
       long: "-112.2027"
+      closest_rate_centers:
+      - name: Hamer
+        distance:
+          value: 1.82
+          units: km
+      - name: Terreton
+        distance:
+          value: 21.19
+          units: km
+      - name: Roberts
+        distance:
+          value: 23.46
+          units: km
     - name: Hammett
       region: ID
       lat: '42.9441'
       long: "-115.4654"
+      closest_rate_centers:
+      - name: Glenns Ferry
+        distance:
+          value: 13.34
+          units: km
+      - name: Mountain Home
+        distance:
+          value: 27.94
+          units: km
+      - name: Bruneau
+        distance:
+          value: 28.47
+          units: km
     - name: Hansen
       region: ID
       lat: '42.5314'
       long: "-114.3011"
+      closest_rate_centers:
+      - name: Kimberly
+        distance:
+          value: 5.58
+          units: km
+      - name: Eden
+        distance:
+          value: 11.68
+          units: km
+      - name: Hazelton
+        distance:
+          value: 11.68
+          units: km
+      - name: Murtaugh
+        distance:
+          value: 11.96
+          units: km
     - name: Harrison
       region: ID
       lat: '47.4675'
       long: "-116.8034"
+      closest_rate_centers:
+      - name: Harrison
+        distance:
+          value: 2.37
+          units: km
+      - name: Plummer-Worley
+        distance:
+          value: 13.41
+          units: km
+      - name: Setters
+        distance:
+          value: 13.63
+          units: km
     - name: Hauser
       region: ID
       lat: '47.7667'
       long: "-117.0133"
+      closest_rate_centers:
+      - name: Post Falls
+        distance:
+          value: 8.47
+          units: km
+      - name: Rathdrum
+        distance:
+          value: 10.59
+          units: km
+      - name: Hayden Lake
+        distance:
+          value: 17.37
+          units: km
     - name: Hayden
       region: ID
       lat: '47.7680'
       long: "-116.8040"
+      closest_rate_centers:
+      - name: Hayden Lake
+        distance:
+          value: 1.92
+          units: km
+      - name: Rathdrum
+        distance:
+          value: 8.62
+          units: km
+      - name: Coeur D'Alene
+        distance:
+          value: 9.69
+          units: km
     - name: Hayden Lake
       region: ID
       lat: '47.7639'
       long: "-116.7559"
+      closest_rate_centers:
+      - name: Hayden Lake
+        distance:
+          value: 1.93
+          units: km
+      - name: Coeur D'Alene
+        distance:
+          value: 9.34
+          units: km
+      - name: Rathdrum
+        distance:
+          value: 11.85
+          units: km
     - name: Hazelton
       region: ID
       lat: '42.5953'
       long: "-114.1366"
+      closest_rate_centers:
+      - name: Eden
+        distance:
+          value: 5.84
+          units: km
+      - name: Hazelton
+        distance:
+          value: 5.84
+          units: km
+      - name: Murtaugh
+        distance:
+          value: 11.75
+          units: km
+      - name: Kimberly
+        distance:
+          value: 19.78
+          units: km
     - name: Heyburn
       region: ID
       lat: '42.5599'
       long: "-113.7624"
+      closest_rate_centers:
+      - name: Burley
+        distance:
+          value: 3.14
+          units: km
+      - name: Paul
+        distance:
+          value: 6.76
+          units: km
+      - name: Rupert
+        distance:
+          value: 9.59
+          units: km
     - name: Hidden Springs
       region: ID
       lat: '43.7201'
       long: "-116.2508"
+      closest_rate_centers:
+      - name: Meridian
+        distance:
+          value: 12.94
+          units: km
+      - name: Boise
+        distance:
+          value: 12.94
+          units: km
+      - name: Star
+        distance:
+          value: 19.82
+          units: km
+      - name: Horseshoe Bend
+        distance:
+          value: 22.34
+          units: km
     - name: Hollister
       region: ID
       lat: '42.3529'
       long: "-114.5839"
+      closest_rate_centers:
+      - name: Hollister
+        distance:
+          value: 0.96
+          units: km
+      - name: Filer
+        distance:
+          value: 24.79
+          units: km
+      - name: Kimberly
+        distance:
+          value: 27.6
+          units: km
     - name: Homedale
       region: ID
       lat: '43.6154'
       long: "-116.9379"
+      closest_rate_centers:
+      - name: Homedale
+        distance:
+          value: 0.43
+          units: km
+      - name: Wilder
+        distance:
+          value: 7.9
+          units: km
+      - name: Marsing
+        distance:
+          value: 13.3
+          units: km
     - name: Hope
       region: ID
       lat: '48.2542'
       long: "-116.3064"
+      closest_rate_centers:
+      - name: Hope
+        distance:
+          value: 1.4
+          units: km
+      - name: Clark Fork
+        distance:
+          value: 15.78
+          units: km
+      - name: Sandpoint
+        distance:
+          value: 18.69
+          units: km
     - name: Horseshoe Bend
       region: ID
       lat: '43.9165'
       long: "-116.1997"
+      closest_rate_centers:
+      - name: Horseshoe Bend
+        distance:
+          value: 0.87
+          units: km
+      - name: Sweet
+        distance:
+          value: 11.82
+          units: km
+      - name: Emmett
+        distance:
+          value: 23.93
+          units: km
     - name: Huetter
       region: ID
       lat: '47.7037'
       long: "-116.8508"
+      closest_rate_centers:
+      - name: Coeur D'Alene
+        distance:
+          value: 5.59
+          units: km
+      - name: Post Falls
+        distance:
+          value: 6.91
+          units: km
+      - name: Hayden Lake
+        distance:
+          value: 8.15
+          units: km
     - name: Idaho City
       region: ID
       lat: '43.8281'
       long: "-115.8307"
+      closest_rate_centers:
+      - name: Idaho City
+        distance:
+          value: 0.68
+          units: km
+      - name: Horseshoe Bend
+        distance:
+          value: 30.33
+          units: km
+      - name: Garden Valley
+        distance:
+          value: 30.41
+          units: km
     - name: Idaho Falls
       region: ID
       lat: '43.4871'
       long: "-112.0362"
+      closest_rate_centers:
+      - name: Idaho Falls
+        distance:
+          value: 1.35
+          units: km
+      - name: Shelley
+        distance:
+          value: 13.86
+          units: km
+      - name: Rigby
+        distance:
+          value: 22.84
+          units: km
     - name: Inkom
       region: ID
       lat: '42.7955'
       long: "-112.2448"
+      closest_rate_centers:
+      - name: Pocatello
+        distance:
+          value: 8.28
+          units: km
+      - name: McCammon
+        distance:
+          value: 16.81
+          units: km
+      - name: Lava Hot Springs
+        distance:
+          value: 27.17
+          units: km
     - name: Iona
       region: ID
       lat: '43.5271'
       long: "-111.9310"
+      closest_rate_centers:
+      - name: Idaho Falls
+        distance:
+          value: 9.06
+          units: km
+      - name: Rigby
+        distance:
+          value: 16.26
+          units: km
+      - name: Ririe
+        distance:
+          value: 17.01
+          units: km
     - name: Irwin
       region: ID
       lat: '43.3965'
       long: "-111.2721"
+      closest_rate_centers:
+      - name: Irwin
+        distance:
+          value: 2.71
+          units: km
+      - name: Alpine
+        distance:
+          value: 33.0
+          units: km
+      - name: Driggs
+        distance:
+          value: 38.68
+          units: km
     - name: Island Park
       region: ID
       lat: '44.5281'
       long: "-111.3591"
+      closest_rate_centers:
+      - name: Island Park
+        distance:
+          value: 3.93
+          units: km
+      - name: Ashton
+        distance:
+          value: 50.92
+          units: km
+      - name: Kilgore
+        distance:
+          value: 52.25
+          units: km
     - name: Jerome
       region: ID
       lat: '42.7179'
       long: "-114.5159"
+      closest_rate_centers:
+      - name: Jerome
+        distance:
+          value: 0.97
+          units: km
+      - name: Twin Falls
+        distance:
+          value: 7.28
+          units: km
+      - name: Wendell
+        distance:
+          value: 16.51
+          units: km
     - name: Juliaetta
       region: ID
       lat: '46.5740'
       long: "-116.7096"
+      closest_rate_centers:
+      - name: Juliaetta
+        distance:
+          value: 1.25
+          units: km
+      - name: Kendrick
+        distance:
+          value: 6.5
+          units: km
+      - name: Genesee
+        distance:
+          value: 16.75
+          units: km
     - name: Kamiah
       region: ID
       lat: '46.2269'
       long: "-116.0283"
+      closest_rate_centers:
+      - name: Kamiah
+        distance:
+          value: 0.41
+          units: km
+      - name: Kooskia
+        distance:
+          value: 10.34
+          units: km
+      - name: Nez Perce
+        distance:
+          value: 15.96
+          units: km
     - name: Kellogg
       region: ID
       lat: '47.5371'
       long: "-116.1420"
+      closest_rate_centers:
+      - name: Kellogg
+        distance:
+          value: 2.09
+          units: km
+      - name: Wallace
+        distance:
+          value: 17.89
+          units: km
+      - name: Mullan
+        distance:
+          value: 27.2
+          units: km
     - name: Kendrick
       region: ID
       lat: '46.6140'
       long: "-116.6543"
+      closest_rate_centers:
+      - name: Kendrick
+        distance:
+          value: 0.37
+          units: km
+      - name: Juliaetta
+        distance:
+          value: 5.3
+          units: km
+      - name: Troy
+        distance:
+          value: 15.97
+          units: km
     - name: Ketchum
       region: ID
       lat: '43.6867'
       long: "-114.3730"
+      closest_rate_centers:
+      - name: Ketchum
+        distance:
+          value: 0.77
+          units: km
+      - name: Hailey
+        distance:
+          value: 18.96
+          units: km
+      - name: Fairfield
+        distance:
+          value: 50.41
+          units: km
     - name: Kimberly
       region: ID
       lat: '42.5342'
       long: "-114.3699"
+      closest_rate_centers:
+      - name: Kimberly
+        distance:
+          value: 0.99
+          units: km
+      - name: Eden
+        distance:
+          value: 15.85
+          units: km
+      - name: Hazelton
+        distance:
+          value: 15.85
+          units: km
+      - name: Murtaugh
+        distance:
+          value: 17.41
+          units: km
     - name: Kooskia
       region: ID
       lat: '46.1415'
       long: "-115.9765"
+      closest_rate_centers:
+      - name: Kooskia
+        distance:
+          value: 0.12
+          units: km
+      - name: Kamiah
+        distance:
+          value: 10.02
+          units: km
+      - name: Nez Perce
+        distance:
+          value: 22.48
+          units: km
     - name: Kootenai
       region: ID
       lat: '48.3118'
       long: "-116.5172"
+      closest_rate_centers:
+      - name: Sandpoint
+        distance:
+          value: 5.25
+          units: km
+      - name: Hope
+        distance:
+          value: 17.82
+          units: km
+      - name: Clark Fork
+        distance:
+          value: 31.54
+          units: km
     - name: Kuna
       region: ID
       lat: '43.4880'
       long: "-116.3933"
+      closest_rate_centers:
+      - name: Kuna
+        distance:
+          value: 1.86
+          units: km
+      - name: Boise
+        distance:
+          value: 15.43
+          units: km
+      - name: Meridian
+        distance:
+          value: 15.43
+          units: km
+      - name: Melba
+        distance:
+          value: 16.3
+          units: km
     - name: Laclede
       region: ID
       lat: '48.1678'
       long: "-116.7529"
+      closest_rate_centers:
+      - name: Priest River
+        distance:
+          value: 11.66
+          units: km
+      - name: Sandpoint
+        distance:
+          value: 18.61
+          units: km
+      - name: Albeni
+        distance:
+          value: 20.31
+          units: km
     - name: Lapwai
       region: ID
       lat: '46.4034'
       long: "-116.8041"
+      closest_rate_centers:
+      - name: Lapwai
+        distance:
+          value: 0.8
+          units: km
+      - name: Lewiston
+        distance:
+          value: 16.19
+          units: km
+      - name: Genesee
+        distance:
+          value: 19.03
+          units: km
     - name: Lava Hot Springs
       region: ID
       lat: '42.6198'
       long: "-112.0098"
+      closest_rate_centers:
+      - name: Lava Hot Springs
+        distance:
+          value: 0.73
+          units: km
+      - name: Bancroft
+        distance:
+          value: 14.69
+          units: km
+      - name: McCammon
+        distance:
+          value: 15.09
+          units: km
     - name: Leadore
       region: ID
       lat: '44.6802'
       long: "-113.3592"
+      closest_rate_centers:
+      - name: Leadore
+        distance:
+          value: 0.14
+          units: km
+      - name: May
+        distance:
+          value: 44.82
+          units: km
+      - name: Elk Bend
+        distance:
+          value: 53.3
+          units: km
     - name: Letha
       region: ID
       lat: '43.8934'
       long: "-116.6452"
+      closest_rate_centers:
+      - name: Emmett
+        distance:
+          value: 12.32
+          units: km
+      - name: New Plymouth
+        distance:
+          value: 15.93
+          units: km
+      - name: Middleton
+        distance:
+          value: 20.44
+          units: km
     - name: Lewiston
       region: ID
       lat: '46.3934'
       long: "-116.9933"
+      closest_rate_centers:
+      - name: Lewiston
+        distance:
+          value: 3.19
+          units: km
+      - name: Lapwai
+        distance:
+          value: 14.85
+          units: km
+      - name: Leon
+        distance:
+          value: 15.88
+          units: km
     - name: Lewisville
       region: ID
       lat: '43.6951'
       long: "-112.0131"
+      closest_rate_centers:
+      - name: Rigby
+        distance:
+          value: 8.23
+          units: km
+      - name: Roberts
+        distance:
+          value: 10.14
+          units: km
+      - name: Ririe
+        distance:
+          value: 20.12
+          units: km
     - name: Lincoln
       region: ID
       lat: '43.5183'
       long: "-111.9692"
+      closest_rate_centers:
+      - name: Idaho Falls
+        distance:
+          value: 5.84
+          units: km
+      - name: Rigby
+        distance:
+          value: 17.73
+          units: km
+      - name: Shelley
+        distance:
+          value: 19.87
+          units: km
     - name: Lost River
       region: ID
       lat: '43.7326'
       long: "-113.5577"
+      closest_rate_centers:
+      - name: Mackay
+        distance:
+          value: 21.09
+          units: km
+      - name: Arco
+        distance:
+          value: 23.28
+          units: km
+      - name: Carey
+        distance:
+          value: 56.19
+          units: km
     - name: Lowman
       region: ID
       lat: '44.0786'
       long: "-115.6206"
+      closest_rate_centers:
+      - name: Lowman
+        distance:
+          value: 16.47
+          units: km
+      - name: Garden Valley
+        distance:
+          value: 26.43
+          units: km
+      - name: Idaho City
+        distance:
+          value: 33.21
+          units: km
     - name: Mackay
       region: ID
       lat: '43.9120'
       long: "-113.6128"
+      closest_rate_centers:
+      - name: Mackay
+        distance:
+          value: 0.66
+          units: km
+      - name: Arco
+        distance:
+          value: 39.63
+          units: km
+      - name: Ketchum
+        distance:
+          value: 65.4
+          units: km
     - name: Malad City
       region: ID
       lat: '42.1899'
       long: "-112.2497"
+      closest_rate_centers:
+      - name: Malad
+        distance:
+          value: 0.04
+          units: km
+      - name: Downey
+        distance:
+          value: 28.61
+          units: km
+      - name: Preston
+        distance:
+          value: 32.21
+          units: km
     - name: Malta
       region: ID
       lat: '42.3075'
       long: "-113.3694"
+      closest_rate_centers:
+      - name: Malta
+        distance:
+          value: 0.21
+          units: km
+      - name: Elba
+        distance:
+          value: 16.73
+          units: km
+      - name: Albion
+        distance:
+          value: 20.67
+          units: km
     - name: Marsing
       region: ID
       lat: '43.5466'
       long: "-116.8094"
+      closest_rate_centers:
+      - name: Marsing
+        distance:
+          value: 0.93
+          units: km
+      - name: Homedale
+        distance:
+          value: 12.59
+          units: km
+      - name: Caldwell
+        distance:
+          value: 16.73
+          units: km
     - name: McCall
       region: ID
       lat: '44.9076'
       long: "-116.1124"
+      closest_rate_centers:
+      - name: McCall
+        distance:
+          value: 0.98
+          units: km
+      - name: New Meadows
+        distance:
+          value: 15.01
+          units: km
+      - name: Donnelly
+        distance:
+          value: 19.63
+          units: km
     - name: McCammon
       region: ID
       lat: '42.6504'
       long: "-112.1901"
+      closest_rate_centers:
+      - name: McCammon
+        distance:
+          value: 0.07
+          units: km
+      - name: Pocatello
+        distance:
+          value: 10.45
+          units: km
+      - name: Lava Hot Springs
+        distance:
+          value: 15.33
+          units: km
     - name: Melba
       region: ID
       lat: '43.3726'
       long: "-116.5322"
+      closest_rate_centers:
+      - name: Melba
+        distance:
+          value: 0.8
+          units: km
+      - name: Kuna
+        distance:
+          value: 16.39
+          units: km
+      - name: Nampa
+        distance:
+          value: 23.49
+          units: km
     - name: Menan
       region: ID
       lat: '43.7218'
       long: "-111.9925"
+      closest_rate_centers:
+      - name: Rigby
+        distance:
+          value: 8.24
+          units: km
+      - name: Roberts
+        distance:
+          value: 11.54
+          units: km
+      - name: Rexburg
+        distance:
+          value: 19.52
+          units: km
     - name: Meridian
       region: ID
       lat: '43.6116'
       long: "-116.3977"
+      closest_rate_centers:
+      - name: Boise
+        distance:
+          value: 7.82
+          units: km
+      - name: Meridian
+        distance:
+          value: 7.82
+          units: km
+      - name: Star
+        distance:
+          value: 11.83
+          units: km
+      - name: Nampa
+        distance:
+          value: 13.12
+          units: km
     - name: Middleton
       region: ID
       lat: '43.7113'
       long: "-116.6157"
+      closest_rate_centers:
+      - name: Middleton
+        distance:
+          value: 0.23
+          units: km
+      - name: Caldwell
+        distance:
+          value: 7.43
+          units: km
+      - name: Star
+        distance:
+          value: 10.0
+          units: km
     - name: Midvale
       region: ID
       lat: '44.4618'
       long: "-116.7435"
+      closest_rate_centers:
+      - name: Midvale
+        distance:
+          value: 1.24
+          units: km
+      - name: Cambridge
+        distance:
+          value: 14.06
+          units: km
+      - name: Indian Valley
+        distance:
+          value: 27.02
+          units: km
     - name: Minidoka
       region: ID
       lat: '42.7540'
       long: "-113.4900"
+      closest_rate_centers:
+      - name: Minidoka
+        distance:
+          value: 0.58
+          units: km
+      - name: Norland
+        distance:
+          value: 14.75
+          units: km
+      - name: Rupert
+        distance:
+          value: 21.43
+          units: km
     - name: Montpelier
       region: ID
       lat: '42.3260'
       long: "-111.2988"
+      closest_rate_centers:
+      - name: Montpelier
+        distance:
+          value: 0.29
+          units: km
+      - name: Paris
+        distance:
+          value: 13.51
+          units: km
+      - name: Soda Springs
+        distance:
+          value: 44.63
+          units: km
     - name: Moore
       region: ID
       lat: '43.7344'
       long: "-113.3675"
+      closest_rate_centers:
+      - name: Arco
+        distance:
+          value: 12.21
+          units: km
+      - name: Mackay
+        distance:
+          value: 28.41
+          units: km
+      - name: Carey
+        distance:
+          value: 65.99
+          units: km
     - name: Moreland
       region: ID
       lat: '43.2195'
       long: "-112.4378"
+      closest_rate_centers:
+      - name: Blackfoot
+        distance:
+          value: 8.33
+          units: km
+      - name: Springfield
+        distance:
+          value: 25.67
+          units: km
+      - name: Shelley
+        distance:
+          value: 30.88
+          units: km
     - name: Moscow
       region: ID
       lat: '46.7308'
       long: "-116.9986"
+      closest_rate_centers:
+      - name: Moscow
+        distance:
+          value: 0.46
+          units: km
+      - name: Troy
+        distance:
+          value: 17.59
+          units: km
+      - name: Wellesley
+        distance:
+          value: 20.05
+          units: km
     - name: Mountain Home
       region: ID
       lat: '43.1324'
       long: "-115.6970"
+      closest_rate_centers:
+      - name: Mountain Home
+        distance:
+          value: 0.46
+          units: km
+      - name: Tipanuk
+        distance:
+          value: 16.59
+          units: km
+      - name: Bruneau
+        distance:
+          value: 30.06
+          units: km
     - name: Mountain Home AFB
       region: ID
       lat: '43.0496'
       long: "-115.8655"
+      closest_rate_centers:
+      - name: Mountain Home
+        distance:
+          value: 16.92
+          units: km
+      - name: Grand View
+        distance:
+          value: 19.92
+          units: km
+      - name: Bruneau
+        distance:
+          value: 20.32
+          units: km
     - name: Moyie Springs
       region: ID
       lat: '48.7247'
       long: "-116.1953"
+      closest_rate_centers:
+      - name: Bonners Ferry
+        distance:
+          value: 9.55
+          units: km
+      - name: Hope
+        distance:
+          value: 54.19
+          units: km
+      - name: Sandpoint
+        distance:
+          value: 56.88
+          units: km
     - name: Mud Lake
       region: ID
       lat: '43.8431'
       long: "-112.4798"
+      closest_rate_centers:
+      - name: Terreton
+        distance:
+          value: 2.94
+          units: km
+      - name: Monteview
+        distance:
+          value: 17.23
+          units: km
+      - name: Hamer
+        distance:
+          value: 23.47
+          units: km
     - name: Mullan
       region: ID
       lat: '47.4687'
       long: "-115.7963"
+      closest_rate_centers:
+      - name: Mullan
+        distance:
+          value: 0.14
+          units: km
+      - name: Wallace
+        distance:
+          value: 9.58
+          units: km
+      - name: Kellogg
+        distance:
+          value: 25.16
+          units: km
     - name: Murphy
       region: ID
       lat: '43.2121'
       long: "-116.5485"
+      closest_rate_centers:
+      - name: Melba
+        distance:
+          value: 18.32
+          units: km
+      - name: Kuna
+        distance:
+          value: 33.04
+          units: km
+      - name: Nampa
+        distance:
+          value: 41.27
+          units: km
     - name: Murtaugh
       region: ID
       lat: '42.4918'
       long: "-114.1625"
+      closest_rate_centers:
+      - name: Murtaugh
+        distance:
+          value: 0.24
+          units: km
+      - name: Eden
+        distance:
+          value: 13.52
+          units: km
+      - name: Hazelton
+        distance:
+          value: 13.52
+          units: km
+      - name: Kimberly
+        distance:
+          value: 17.73
+          units: km
     - name: Nampa
       region: ID
       lat: '43.5844'
       long: "-116.5638"
+      closest_rate_centers:
+      - name: Nampa
+        distance:
+          value: 0.66
+          units: km
+      - name: Star
+        distance:
+          value: 13.2
+          units: km
+      - name: Caldwell
+        distance:
+          value: 13.43
+          units: km
     - name: New Meadows
       region: ID
       lat: '44.9712'
       long: "-116.2857"
+      closest_rate_centers:
+      - name: New Meadows
+        distance:
+          value: 0.97
+          units: km
+      - name: McCall
+        distance:
+          value: 16.04
+          units: km
+      - name: Council
+        distance:
+          value: 28.69
+          units: km
     - name: New Plymouth
       region: ID
       lat: '43.9705'
       long: "-116.8189"
+      closest_rate_centers:
+      - name: New Plymouth
+        distance:
+          value: 0.41
+          units: km
+      - name: Fruitland
+        distance:
+          value: 8.78
+          units: km
+      - name: Payette
+        distance:
+          value: 14.75
+          units: km
     - name: Newdale
       region: ID
       lat: '43.8864'
       long: "-111.6038"
+      closest_rate_centers:
+      - name: St Anthony
+        distance:
+          value: 11.49
+          units: km
+      - name: Rexburg
+        distance:
+          value: 16.79
+          units: km
+      - name: Ashton
+        distance:
+          value: 24.21
+          units: km
     - name: Nezperce
       region: ID
       lat: '46.2341'
       long: "-116.2405"
+      closest_rate_centers:
+      - name: Nez Perce
+        distance:
+          value: 0.4
+          units: km
+      - name: Kamiah
+        distance:
+          value: 16.73
+          units: km
+      - name: Craigmont
+        distance:
+          value: 18.04
+          units: km
     - name: Notus
       region: ID
       lat: '43.7267'
       long: "-116.7998"
+      closest_rate_centers:
+      - name: Wilder
+        distance:
+          value: 9.85
+          units: km
+      - name: Caldwell
+        distance:
+          value: 11.34
+          units: km
+      - name: Parma
+        distance:
+          value: 13.13
+          units: km
     - name: Oakley
       region: ID
       lat: '42.2417'
       long: "-113.8824"
+      closest_rate_centers:
+      - name: Oakley
+        distance:
+          value: 0.54
+          units: km
+      - name: Elba
+        distance:
+          value: 26.71
+          units: km
+      - name: Almo
+        distance:
+          value: 26.91
+          units: km
     - name: Oldtown
       region: ID
       lat: '48.1841'
       long: "-117.0204"
+      closest_rate_centers:
+      - name: Albeni
+        distance:
+          value: 0.69
+          units: km
+      - name: Priest River
+        distance:
+          value: 8.29
+          units: km
+      - name: Spirit Lake
+        distance:
+          value: 26.61
+          units: km
     - name: Onaway
       region: ID
       lat: '46.9282'
       long: "-116.8896"
+      closest_rate_centers:
+      - name: Potlatch
+        distance:
+          value: 0.85
+          units: km
+      - name: Wellesley
+        distance:
+          value: 11.32
+          units: km
+      - name: Cora
+        distance:
+          value: 14.68
+          units: km
     - name: Orofino
       region: ID
       lat: '46.4866'
       long: "-116.2572"
+      closest_rate_centers:
+      - name: Orofino
+        distance:
+          value: 0.84
+          units: km
+      - name: Peck
+        distance:
+          value: 12.87
+          units: km
+      - name: Lenore
+        distance:
+          value: 23.76
+          units: km
     - name: Osburn
       region: ID
       lat: '47.5055'
       long: "-116.0008"
+      closest_rate_centers:
+      - name: Wallace
+        distance:
+          value: 6.84
+          units: km
+      - name: Kellogg
+        distance:
+          value: 9.33
+          units: km
+      - name: Mullan
+        distance:
+          value: 16.04
+          units: km
     - name: Oxford
       region: ID
       lat: '42.2598'
       long: "-112.0178"
+      closest_rate_centers:
+      - name: Downey
+        distance:
+          value: 20.14
+          units: km
+      - name: Malad
+        distance:
+          value: 20.65
+          units: km
+      - name: Preston
+        distance:
+          value: 20.98
+          units: km
     - name: Paris
       region: ID
       lat: '42.2273'
       long: "-111.4032"
+      closest_rate_centers:
+      - name: Paris
+        distance:
+          value: 0.55
+          units: km
+      - name: Montpelier
+        distance:
+          value: 13.66
+          units: km
+      - name: Preston
+        distance:
+          value: 41.47
+          units: km
     - name: Parker
       region: ID
       lat: '43.9584'
       long: "-111.7587"
+      closest_rate_centers:
+      - name: St Anthony
+        distance:
+          value: 5.33
+          units: km
+      - name: Rexburg
+        distance:
+          value: 15.3
+          units: km
+      - name: Ashton
+        distance:
+          value: 27.69
+          units: km
     - name: Parkline
       region: ID
       lat: '47.3385'
       long: "-116.6940"
+      closest_rate_centers:
+      - name: St Maries
+        distance:
+          value: 9.98
+          units: km
+      - name: Harrison
+        distance:
+          value: 14.22
+          units: km
+      - name: Plummer-Worley
+        distance:
+          value: 14.48
+          units: km
     - name: Parma
       region: ID
       lat: '43.7864'
       long: "-116.9429"
+      closest_rate_centers:
+      - name: Parma
+        distance:
+          value: 0.3
+          units: km
+      - name: Nu Acres
+        distance:
+          value: 9.69
+          units: km
+      - name: Wilder
+        distance:
+          value: 11.92
+          units: km
     - name: Paul
       region: ID
       lat: '42.6052'
       long: "-113.7847"
+      closest_rate_centers:
+      - name: Paul
+        distance:
+          value: 1.67
+          units: km
+      - name: Burley
+        distance:
+          value: 7.04
+          units: km
+      - name: Rupert
+        distance:
+          value: 8.93
+          units: km
     - name: Payette
       region: ID
       lat: '44.0788'
       long: "-116.9255"
+      closest_rate_centers:
+      - name: Payette
+        distance:
+          value: 0.91
+          units: km
+      - name: Fruitland
+        distance:
+          value: 8.0
+          units: km
+      - name: New Plymouth
+        distance:
+          value: 15.14
+          units: km
     - name: Peck
       region: ID
       lat: '46.4747'
       long: "-116.4262"
+      closest_rate_centers:
+      - name: Peck
+        distance:
+          value: 0.29
+          units: km
+      - name: Lenore
+        distance:
+          value: 10.93
+          units: km
+      - name: Orofino
+        distance:
+          value: 13.58
+          units: km
     - name: Pierce
       region: ID
       lat: '46.4931'
       long: "-115.7995"
+      closest_rate_centers:
+      - name: Pierce
+        distance:
+          value: 0.27
+          units: km
+      - name: Weippe
+        distance:
+          value: 16.37
+          units: km
+      - name: Kamiah
+        distance:
+          value: 34.35
+          units: km
     - name: Pinehurst
       region: ID
       lat: '47.5364'
       long: "-116.2327"
+      closest_rate_centers:
+      - name: Kellogg
+        distance:
+          value: 8.88
+          units: km
+      - name: Wallace
+        distance:
+          value: 24.27
+          units: km
+      - name: Mullan
+        distance:
+          value: 33.77
+          units: km
     - name: Placerville
       region: ID
       lat: '43.9427'
       long: "-115.9460"
+      closest_rate_centers:
+      - name: Idaho City
+        distance:
+          value: 15.91
+          units: km
+      - name: Garden Valley
+        distance:
+          value: 16.1
+          units: km
+      - name: Horseshoe Bend
+        distance:
+          value: 19.68
+          units: km
     - name: Plummer
       region: ID
       lat: '47.3301'
       long: "-116.8849"
+      closest_rate_centers:
+      - name: Plummer-Worley
+        distance:
+          value: 3.31
+          units: km
+      - name: Rock Creek
+        distance:
+          value: 8.0
+          units: km
+      - name: Harrison
+        distance:
+          value: 15.5
+          units: km
     - name: Pocatello
       region: ID
       lat: '42.8724'
       long: "-112.4647"
+      closest_rate_centers:
+      - name: Pocatello
+        distance:
+          value: 22.91
+          units: km
+      - name: Springfield
+        distance:
+          value: 29.94
+          units: km
+      - name: Aberdeen
+        distance:
+          value: 31.66
+          units: km
     - name: Ponderay
       region: ID
       lat: '48.3092'
       long: "-116.5390"
+      closest_rate_centers:
+      - name: Sandpoint
+        distance:
+          value: 4.26
+          units: km
+      - name: Hope
+        distance:
+          value: 19.17
+          units: km
+      - name: Priest River
+        distance:
+          value: 30.76
+          units: km
     - name: Post Falls
       region: ID
       lat: '47.7213'
       long: "-116.9384"
+      closest_rate_centers:
+      - name: Post Falls
+        distance:
+          value: 1.64
+          units: km
+      - name: Rathdrum
+        distance:
+          value: 11.2
+          units: km
+      - name: Coeur D'Alene
+        distance:
+          value: 12.39
+          units: km
     - name: Potlatch
       region: ID
       lat: '46.9235'
       long: "-116.8976"
+      closest_rate_centers:
+      - name: Potlatch
+        distance:
+          value: 0.05
+          units: km
+      - name: Wellesley
+        distance:
+          value: 10.64
+          units: km
+      - name: Cora
+        distance:
+          value: 14.59
+          units: km
     - name: Preston
       region: ID
       lat: '42.0989'
       long: "-111.8802"
+      closest_rate_centers:
+      - name: Preston
+        distance:
+          value: 0.45
+          units: km
+      - name: Malad
+        distance:
+          value: 32.13
+          units: km
+      - name: Downey
+        distance:
+          value: 41.18
+          units: km
     - name: Priest River
       region: ID
       lat: '48.1782'
       long: "-116.8838"
+      closest_rate_centers:
+      - name: Priest River
+        distance:
+          value: 1.91
+          units: km
+      - name: Albeni
+        distance:
+          value: 10.54
+          units: km
+      - name: Spirit Lake
+        distance:
+          value: 23.5
+          units: km
     - name: Princeton
       region: ID
       lat: '46.9152'
       long: "-116.8315"
+      closest_rate_centers:
+      - name: Potlatch
+        distance:
+          value: 5.13
+          units: km
+      - name: Wellesley
+        distance:
+          value: 15.56
+          units: km
+      - name: Cora
+        distance:
+          value: 19.04
+          units: km
     - name: Rathdrum
       region: ID
       lat: '47.7948'
       long: "-116.8944"
+      closest_rate_centers:
+      - name: Rathdrum
+        distance:
+          value: 2.5
+          units: km
+      - name: Hayden Lake
+        distance:
+          value: 9.3
+          units: km
+      - name: Post Falls
+        distance:
+          value: 10.43
+          units: km
     - name: Reubens
       region: ID
       lat: '46.3229'
       long: "-116.5429"
+      closest_rate_centers:
+      - name: Craigmont
+        distance:
+          value: 10.39
+          units: km
+      - name: Lenore
+        distance:
+          value: 13.16
+          units: km
+      - name: Peck
+        distance:
+          value: 19.39
+          units: km
     - name: Rexburg
       region: ID
       lat: '43.8226'
       long: "-111.7919"
+      closest_rate_centers:
+      - name: Rexburg
+        distance:
+          value: 0.17
+          units: km
+      - name: St Anthony
+        distance:
+          value: 17.91
+          units: km
+      - name: Rigby
+        distance:
+          value: 19.37
+          units: km
     - name: Richfield
       region: ID
       lat: '43.0521'
       long: "-114.1556"
+      closest_rate_centers:
+      - name: Richfield
+        distance:
+          value: 0.88
+          units: km
+      - name: Dietrich
+        distance:
+          value: 17.66
+          units: km
+      - name: Shoshone
+        distance:
+          value: 23.32
+          units: km
     - name: Rigby
       region: ID
       lat: '43.6734'
       long: "-111.9132"
+      closest_rate_centers:
+      - name: Rigby
+        distance:
+          value: 0.18
+          units: km
+      - name: Ririe
+        distance:
+          value: 11.76
+          units: km
+      - name: Roberts
+        distance:
+          value: 18.52
+          units: km
     - name: Riggins
       region: ID
       lat: '45.4203'
       long: "-116.3179"
+      closest_rate_centers:
+      - name: Riggins
+        distance:
+          value: 0.57
+          units: km
+      - name: White Bird
+        distance:
+          value: 38.35
+          units: km
+      - name: New Meadows
+        distance:
+          value: 49.43
+          units: km
     - name: Ririe
       region: ID
       lat: '43.6323'
       long: "-111.7716"
+      closest_rate_centers:
+      - name: Ririe
+        distance:
+          value: 0.54
+          units: km
+      - name: Rigby
+        distance:
+          value: 12.42
+          units: km
+      - name: Rexburg
+        distance:
+          value: 21.3
+          units: km
     - name: Riverside
       region: ID
       lat: '43.1965'
       long: "-112.4356"
+      closest_rate_centers:
+      - name: Blackfoot
+        distance:
+          value: 7.51
+          units: km
+      - name: Springfield
+        distance:
+          value: 24.41
+          units: km
+      - name: Shelley
+        distance:
+          value: 32.31
+          units: km
     - name: Roberts
       region: ID
       lat: '43.7208'
       long: "-112.1284"
+      closest_rate_centers:
+      - name: Roberts
+        distance:
+          value: 0.78
+          units: km
+      - name: Rigby
+        distance:
+          value: 17.93
+          units: km
+      - name: Hamer
+        distance:
+          value: 24.82
+          units: km
     - name: Robie Creek
       region: ID
       lat: '43.6681'
       long: "-116.0209"
+      closest_rate_centers:
+      - name: Idaho City
+        distance:
+          value: 22.77
+          units: km
+      - name: Boise
+        distance:
+          value: 23.43
+          units: km
+      - name: Meridian
+        distance:
+          value: 23.43
+          units: km
+      - name: Horseshoe Bend
+        distance:
+          value: 30.69
+          units: km
     - name: Rockford
       region: ID
       lat: '43.1892'
       long: "-112.5306"
+      closest_rate_centers:
+      - name: Blackfoot
+        distance:
+          value: 15.17
+          units: km
+      - name: Springfield
+        distance:
+          value: 17.69
+          units: km
+      - name: Aberdeen
+        distance:
+          value: 36.47
+          units: km
     - name: Rockford Bay
       region: ID
       lat: '47.5086'
       long: "-116.8866"
+      closest_rate_centers:
+      - name: Setters
+        distance:
+          value: 8.72
+          units: km
+      - name: Harrison
+        distance:
+          value: 10.06
+          units: km
+      - name: Plummer-Worley
+        distance:
+          value: 16.54
+          units: km
     - name: Rockland
       region: ID
       lat: '42.5731'
       long: "-112.8744"
+      closest_rate_centers:
+      - name: Rockland
+        distance:
+          value: 0.47
+          units: km
+      - name: American Falls
+        distance:
+          value: 23.51
+          units: km
+      - name: Arbon
+        distance:
+          value: 28.19
+          units: km
     - name: Rupert
       region: ID
       lat: '42.6189'
       long: "-113.6740"
+      closest_rate_centers:
+      - name: Rupert
+        distance:
+          value: 0.27
+          units: km
+      - name: Paul
+        distance:
+          value: 8.56
+          units: km
+      - name: Burley
+        distance:
+          value: 12.91
+          units: km
     - name: Salmon
       region: ID
       lat: '45.1743'
       long: "-113.8947"
+      closest_rate_centers:
+      - name: Salmon
+        distance:
+          value: 0.41
+          units: km
+      - name: Salmon (CTC)
+        distance:
+          value: 0.41
+          units: km
+      - name: Shoup
+        distance:
+          value: 23.76
+          units: km
+      - name: Elk Bend
+        distance:
+          value: 32.7
+          units: km
     - name: Sandpoint
       region: ID
       lat: '48.2822'
       long: "-116.5614"
+      closest_rate_centers:
+      - name: Sandpoint
+        distance:
+          value: 1.08
+          units: km
+      - name: Hope
+        distance:
+          value: 19.84
+          units: km
+      - name: Priest River
+        distance:
+          value: 27.98
+          units: km
     - name: Shelley
       region: ID
       lat: '43.3795'
       long: "-112.1261"
+      closest_rate_centers:
+      - name: Shelley
+        distance:
+          value: 0.32
+          units: km
+      - name: Idaho Falls
+        distance:
+          value: 15.14
+          units: km
+      - name: Blackfoot
+        distance:
+          value: 27.47
+          units: km
     - name: Shoshone
       region: ID
       lat: '42.9369'
       long: "-114.4055"
+      closest_rate_centers:
+      - name: Shoshone
+        distance:
+          value: 0.83
+          units: km
+      - name: Dietrich
+        distance:
+          value: 11.43
+          units: km
+      - name: Gooding
+        distance:
+          value: 24.5
+          units: km
     - name: Silverton
       region: ID
       lat: '47.4958'
       long: "-115.9604"
+      closest_rate_centers:
+      - name: Wallace
+        distance:
+          value: 3.76
+          units: km
+      - name: Kellogg
+        distance:
+          value: 12.54
+          units: km
+      - name: Mullan
+        distance:
+          value: 12.83
+          units: km
     - name: Smelterville
       region: ID
       lat: '47.5426'
       long: "-116.1775"
+      closest_rate_centers:
+      - name: Kellogg
+        distance:
+          value: 4.75
+          units: km
+      - name: Wallace
+        distance:
+          value: 20.58
+          units: km
+      - name: Mullan
+        distance:
+          value: 29.93
+          units: km
     - name: Smiths Ferry
       region: ID
       lat: '44.2990'
       long: "-116.0783"
+      closest_rate_centers:
+      - name: Cascade
+        distance:
+          value: 25.24
+          units: km
+      - name: Garden Valley
+        distance:
+          value: 25.61
+          units: km
+      - name: Indian Valley
+        distance:
+          value: 40.29
+          units: km
     - name: Soda Springs
       region: ID
       lat: '42.6590'
       long: "-111.5878"
+      closest_rate_centers:
+      - name: Soda Springs
+        distance:
+          value: 1.09
+          units: km
+      - name: Grace
+        distance:
+          value: 15.35
+          units: km
+      - name: Bancroft
+        distance:
+          value: 25.03
+          units: km
     - name: Spencer
       region: ID
       lat: '44.3770'
       long: "-112.1897"
+      closest_rate_centers:
+      - name: Dubois
+        distance:
+          value: 22.59
+          units: km
+      - name: Kilgore
+        distance:
+          value: 27.62
+          units: km
+      - name: Hamer
+        distance:
+          value: 49.21
+          units: km
     - name: Spirit Lake
       region: ID
       lat: '47.9658'
       long: "-116.8699"
+      closest_rate_centers:
+      - name: Spirit Lake
+        distance:
+          value: 0.15
+          units: km
+      - name: Rathdrum
+        distance:
+          value: 16.61
+          units: km
+      - name: Bayview
+        distance:
+          value: 22.08
+          units: km
     - name: St. Anthony
       region: ID
       lat: '43.9648'
       long: "-111.6841"
+      closest_rate_centers:
+      - name: St Anthony
+        distance:
+          value: 0.78
+          units: km
+      - name: Rexburg
+        distance:
+          value: 18.04
+          units: km
+      - name: Ashton
+        distance:
+          value: 22.19
+          units: km
     - name: St. Charles
       region: ID
       lat: '42.1116'
       long: "-111.3903"
+      closest_rate_centers:
+      - name: Paris
+        distance:
+          value: 13.45
+          units: km
+      - name: Montpelier
+        distance:
+          value: 24.71
+          units: km
+      - name: Preston
+        distance:
+          value: 40.19
+          units: km
     - name: St. Maries
       region: ID
       lat: '47.3146'
       long: "-116.5723"
+      closest_rate_centers:
+      - name: St Maries
+        distance:
+          value: 0.7
+          units: km
+      - name: Harrison
+        distance:
+          value: 21.97
+          units: km
+      - name: Plummer-Worley
+        distance:
+          value: 23.99
+          units: km
     - name: Stanley
       region: ID
       lat: '44.2154'
       long: "-114.9364"
+      closest_rate_centers:
+      - name: Stanley
+        distance:
+          value: 0.53
+          units: km
+      - name: Lowman
+        distance:
+          value: 40.2
+          units: km
+      - name: Clayton
+        distance:
+          value: 44.69
+          units: km
     - name: Star
       region: ID
       lat: '43.7026'
       long: "-116.4914"
+      closest_rate_centers:
+      - name: Star
+        distance:
+          value: 1.22
+          units: km
+      - name: Middleton
+        distance:
+          value: 10.25
+          units: km
+      - name: Nampa
+        distance:
+          value: 14.25
+          units: km
     - name: State Line
       region: ID
       lat: '47.7052'
       long: "-117.0366"
+      closest_rate_centers:
+      - name: Post Falls
+        distance:
+          value: 7.0
+          units: km
+      - name: Rathdrum
+        distance:
+          value: 16.44
+          units: km
+      - name: Coeur D'Alene
+        distance:
+          value: 19.12
+          units: km
     - name: Stites
       region: ID
       lat: '46.0921'
       long: "-115.9762"
+      closest_rate_centers:
+      - name: Kooskia
+        distance:
+          value: 5.5
+          units: km
+      - name: Kamiah
+        distance:
+          value: 15.28
+          units: km
+      - name: Grangeville
+        distance:
+          value: 21.59
+          units: km
     - name: Sugar City
       region: ID
       lat: '43.8762'
       long: "-111.7510"
+      closest_rate_centers:
+      - name: Rexburg
+        distance:
+          value: 6.83
+          units: km
+      - name: St Anthony
+        distance:
+          value: 11.12
+          units: km
+      - name: Rigby
+        distance:
+          value: 26.17
+          units: km
     - name: Sun Valley
       region: ID
       lat: '43.6838'
       long: "-114.3339"
+      closest_rate_centers:
+      - name: Ketchum
+        distance:
+          value: 2.43
+          units: km
+      - name: Hailey
+        distance:
+          value: 18.02
+          units: km
+      - name: Fairfield
+        distance:
+          value: 52.29
+          units: km
     - name: Swan Valley
       region: ID
       lat: '43.4445'
       long: "-111.3287"
+      closest_rate_centers:
+      - name: Irwin
+        distance:
+          value: 4.7
+          units: km
+      - name: Driggs
+        distance:
+          value: 35.72
+          units: km
+      - name: Alpine
+        distance:
+          value: 40.03
+          units: km
     - name: Sweetwater
       region: ID
       lat: '46.3677'
       long: "-116.7975"
+      closest_rate_centers:
+      - name: Lapwai
+        distance:
+          value: 4.75
+          units: km
+      - name: Lewiston
+        distance:
+          value: 17.54
+          units: km
+      - name: Lenore
+        distance:
+          value: 19.93
+          units: km
     - name: Tensed
       region: ID
       lat: '47.1596'
       long: "-116.9238"
+      closest_rate_centers:
+      - name: Bluebell
+        distance:
+          value: 9.29
+          units: km
+      - name: Evergreen
+        distance:
+          value: 11.85
+          units: km
+      - name: Cora
+        distance:
+          value: 18.13
+          units: km
     - name: Teton
       region: ID
       lat: '43.8871'
       long: "-111.6723"
+      closest_rate_centers:
+      - name: St Anthony
+        distance:
+          value: 9.06
+          units: km
+      - name: Rexburg
+        distance:
+          value: 12.07
+          units: km
+      - name: Ashton
+        distance:
+          value: 27.3
+          units: km
     - name: Tetonia
       region: ID
       lat: '43.8147'
       long: "-111.1586"
+      closest_rate_centers:
+      - name: Driggs
+        distance:
+          value: 10.83
+          units: km
+      - name: Ashton
+        distance:
+          value: 37.33
+          units: km
+      - name: St Anthony
+        distance:
+          value: 46.08
+          units: km
     - name: Troy
       region: ID
       lat: '46.7380'
       long: "-116.7731"
+      closest_rate_centers:
+      - name: Troy
+        distance:
+          value: 0.55
+          units: km
+      - name: Kendrick
+        distance:
+          value: 16.43
+          units: km
+      - name: Moscow
+        distance:
+          value: 17.08
+          units: km
     - name: Twin Falls
       region: ID
       lat: '42.5645'
       long: "-114.4613"
+      closest_rate_centers:
+      - name: Kimberly
+        distance:
+          value: 8.05
+          units: km
+      - name: Twin Falls
+        distance:
+          value: 11.05
+          units: km
+      - name: Filer
+        distance:
+          value: 11.9
+          units: km
     - name: Tyhee
       region: ID
       lat: '42.9552'
       long: "-112.4561"
+      closest_rate_centers:
+      - name: Springfield
+        distance:
+          value: 23.98
+          units: km
+      - name: Blackfoot
+        distance:
+          value: 27.64
+          units: km
+      - name: Pocatello
+        distance:
+          value: 29.88
+          units: km
     - name: Ucon
       region: ID
       lat: '43.5936'
       long: "-111.9594"
+      closest_rate_centers:
+      - name: Rigby
+        distance:
+          value: 9.51
+          units: km
+      - name: Idaho Falls
+        distance:
+          value: 12.2
+          units: km
+      - name: Ririe
+        distance:
+          value: 15.22
+          units: km
     - name: Victor
       region: ID
       lat: '43.6014'
       long: "-111.1108"
+      closest_rate_centers:
+      - name: Driggs
+        distance:
+          value: 13.62
+          units: km
+      - name: Irwin
+        distance:
+          value: 26.6
+          units: km
+      - name: Alpine
+        distance:
+          value: 48.97
+          units: km
     - name: Viola
       region: ID
       lat: '46.8389'
       long: "-117.0189"
+      closest_rate_centers:
+      - name: Wellesley
+        distance:
+          value: 7.94
+          units: km
+      - name: Moscow
+        distance:
+          value: 11.7
+          units: km
+      - name: Potlatch
+        distance:
+          value: 13.12
+          units: km
     - name: Wallace
       region: ID
       lat: '47.4736'
       long: "-115.9227"
+      closest_rate_centers:
+      - name: Wallace
+        distance:
+          value: 0.11
+          units: km
+      - name: Mullan
+        distance:
+          value: 9.64
+          units: km
+      - name: Kellogg
+        distance:
+          value: 16.15
+          units: km
     - name: Wardner
       region: ID
       lat: '47.5189'
       long: "-116.1357"
+      closest_rate_centers:
+      - name: Kellogg
+        distance:
+          value: 2.79
+          units: km
+      - name: Wallace
+        distance:
+          value: 16.73
+          units: km
+      - name: Mullan
+        distance:
+          value: 26.24
+          units: km
     - name: Warm River
       region: ID
       lat: '44.1188'
       long: "-111.3200"
+      closest_rate_centers:
+      - name: Ashton
+        distance:
+          value: 11.67
+          units: km
+      - name: St Anthony
+        distance:
+          value: 34.27
+          units: km
+      - name: Island Park
+        distance:
+          value: 42.2
+          units: km
     - name: Weippe
       region: ID
       lat: '46.3787'
       long: "-115.9396"
+      closest_rate_centers:
+      - name: Weippe
+        distance:
+          value: 0.52
+          units: km
+      - name: Pierce
+        distance:
+          value: 16.44
+          units: km
+      - name: Kamiah
+        distance:
+          value: 18.2
+          units: km
     - name: Weiser
       region: ID
       lat: '44.2547'
       long: "-116.9689"
+      closest_rate_centers:
+      - name: Weiser
+        distance:
+          value: 0.68
+          units: km
+      - name: Payette
+        distance:
+          value: 20.29
+          units: km
+      - name: Fruitland
+        distance:
+          value: 27.84
+          units: km
     - name: Wendell
       region: ID
       lat: '42.7745'
       long: "-114.7026"
+      closest_rate_centers:
+      - name: Wendell
+        distance:
+          value: 0.02
+          units: km
+      - name: Jerome
+        distance:
+          value: 15.98
+          units: km
+      - name: Hagerman
+        distance:
+          value: 16.35
+          units: km
     - name: Weston
       region: ID
       lat: '42.0369'
       long: "-111.9783"
+      closest_rate_centers:
+      - name: Preston
+        distance:
+          value: 11.07
+          units: km
+      - name: Malad
+        distance:
+          value: 28.14
+          units: km
+      - name: Downey
+        distance:
+          value: 44.74
+          units: km
     - name: White Bird
       region: ID
       lat: '45.7621'
       long: "-116.3008"
+      closest_rate_centers:
+      - name: White Bird
+        distance:
+          value: 0.85
+          units: km
+      - name: Grangeville
+        distance:
+          value: 22.92
+          units: km
+      - name: Cottonwood
+        distance:
+          value: 31.44
+          units: km
     - name: Wilder
       region: ID
       lat: '43.6782'
       long: "-116.9070"
+      closest_rate_centers:
+      - name: Wilder
+        distance:
+          value: 0.49
+          units: km
+      - name: Homedale
+        distance:
+          value: 7.2
+          units: km
+      - name: Parma
+        distance:
+          value: 12.08
+          units: km
     - name: Winchester
       region: ID
       lat: '46.2409'
       long: "-116.6242"
+      closest_rate_centers:
+      - name: Craigmont
+        distance:
+          value: 11.49
+          units: km
+      - name: Lenore
+        distance:
+          value: 22.75
+          units: km
+      - name: Lapwai
+        distance:
+          value: 23.23
+          units: km
     - name: Worley
       region: ID
       lat: '47.4007'
       long: "-116.9193"
+      closest_rate_centers:
+      - name: Plummer-Worley
+        distance:
+          value: 5.28
+          units: km
+      - name: Rock Creek
+        distance:
+          value: 8.33
+          units: km
+      - name: Setters
+        distance:
+          value: 8.84
+          units: km
     - name: Yellow Pine
       region: ID
       lat: '44.9623'
       long: "-115.4880"
+      closest_rate_centers:
+      - name: Yellowpine
+        distance:
+          value: 0.46
+          units: km
+      - name: Warren
+        distance:
+          value: 35.93
+          units: km
+      - name: Warm Lake
+        distance:
+          value: 36.83
+          units: km

@@ -1,1984 +1,8539 @@
 ---
 cities:
-  us:
+  US:
     MT:
     - name: Absarokee
       region: MT
       lat: '45.5242'
       long: "-109.4473"
+      closest_rate_centers:
+      - name: Absarokee
+        distance:
+          value: 1.07
+          units: km
+      - name: Columbus
+        distance:
+          value: 19.81
+          units: km
+      - name: Reedpoint
+        distance:
+          value: 22.04
+          units: km
     - name: Acton
       region: MT
       lat: '45.9290'
       long: "-108.6788"
+      closest_rate_centers:
+      - name: Molt
+        distance:
+          value: 20.74
+          units: km
+      - name: Billings
+        distance:
+          value: 21.38
+          units: km
+      - name: Broadview
+        distance:
+          value: 24.67
+          units: km
     - name: Alberton
       region: MT
       lat: '47.0037'
       long: "-114.4817"
+      closest_rate_centers:
+      - name: Alberton
+        distance:
+          value: 0.29
+          units: km
+      - name: South Alberton
+        distance:
+          value: 1.34
+          units: km
+      - name: Frenchtown
+        distance:
+          value: 19.69
+          units: km
     - name: Alder
       region: MT
       lat: '45.3216'
       long: "-112.1093"
+      closest_rate_centers:
+      - name: Virginia City
+        distance:
+          value: 13.96
+          units: km
+      - name: Sheridan
+        distance:
+          value: 15.57
+          units: km
+      - name: Twin Bridges
+        distance:
+          value: 29.45
+          units: km
     - name: Alzada
       region: MT
       lat: '45.0206'
       long: "-104.4129"
+      closest_rate_centers:
+      - name: Alzada
+        distance:
+          value: 1.04
+          units: km
+      - name: Alzada (Mid-Rivers)
+        distance:
+          value: 1.04
+          units: km
+      - name: Ridge
+        distance:
+          value: 40.13
+          units: km
+      - name: West Camp Crook
+        distance:
+          value: 65.92
+          units: km
     - name: Amsterdam
       region: MT
       lat: '45.7462'
       long: "-111.3301"
+      closest_rate_centers:
+      - name: Manhattan
+        distance:
+          value: 12.28
+          units: km
+      - name: Belgrade
+        distance:
+          value: 12.36
+          units: km
+      - name: Gallatin Gateway
+        distance:
+          value: 19.94
+          units: km
     - name: Anaconda
       region: MT
       lat: '46.0608'
       long: "-113.0678"
+      closest_rate_centers:
+      - name: Anaconda
+        distance:
+          value: 11.48
+          units: km
+      - name: Warm Springs
+        distance:
+          value: 24.76
+          units: km
+      - name: Wise River
+        distance:
+          value: 31.35
+          units: km
     - name: Antelope
       region: MT
       lat: '48.6897'
       long: "-104.4540"
+      closest_rate_centers:
+      - name: Reserve
+        distance:
+          value: 9.79
+          units: km
+      - name: Plentywood
+        distance:
+          value: 11.72
+          units: km
+      - name: Medicine Lake
+        distance:
+          value: 21.42
+          units: km
     - name: Argenta
       region: MT
       lat: '45.2788'
       long: "-112.8607"
+      closest_rate_centers:
+      - name: Dillon
+        distance:
+          value: 19.07
+          units: km
+      - name: Grant
+        distance:
+          value: 40.04
+          units: km
+      - name: Melrose
+        distance:
+          value: 41.75
+          units: km
     - name: Arlee
       region: MT
       lat: '47.1678'
       long: "-114.0838"
+      closest_rate_centers:
+      - name: Arlee
+        distance:
+          value: 0.16
+          units: km
+      - name: St Ignatius
+        distance:
+          value: 17.58
+          units: km
+      - name: Frenchtown
+        distance:
+          value: 19.81
+          units: km
     - name: Ashland
       region: MT
       lat: '45.5977'
       long: "-106.2975"
+      closest_rate_centers:
+      - name: Ashland
+        distance:
+          value: 3.86
+          units: km
+      - name: Ashland (Mid-Rivers)
+        distance:
+          value: 3.86
+          units: km
+      - name: Lame Deer
+        distance:
+          value: 27.68
+          units: km
+      - name: Birney
+        distance:
+          value: 35.31
+          units: km
     - name: Augusta
       region: MT
       lat: '47.4893'
       long: "-112.3923"
+      closest_rate_centers:
+      - name: Augusta
+        distance:
+          value: 1.26
+          units: km
+      - name: Fairfield
+        distance:
+          value: 33.7
+          units: km
+      - name: Choteau
+        distance:
+          value: 38.77
+          units: km
     - name: Avon
       region: MT
       lat: '46.6264'
       long: "-112.5820"
+      closest_rate_centers:
+      - name: Avon
+        distance:
+          value: 3.38
+          units: km
+      - name: Deer Lodge
+        distance:
+          value: 28.43
+          units: km
+      - name: Canyon Creek
+        distance:
+          value: 30.6
+          units: km
     - name: Ayers Ranch Colony
       region: MT
       lat: '47.0510'
       long: "-108.9450"
+      closest_rate_centers:
+      - name: Grass Range
+        distance:
+          value: 11.0
+          units: km
+      - name: Roy
+        distance:
+          value: 31.48
+          units: km
+      - name: Lewistown
+        distance:
+          value: 36.43
+          units: km
+      - name: Lewistown (Mid-Rivers)
+        distance:
+          value: 36.43
+          units: km
     - name: Azure
       region: MT
       lat: '48.3050'
       long: "-109.8073"
+      closest_rate_centers:
+      - name: South Havre
+        distance:
+          value: 15.04
+          units: km
+      - name: Box Elder
+        distance:
+          value: 15.75
+          units: km
+      - name: Big Sandy
+        distance:
+          value: 26.55
+          units: km
     - name: Babb
       region: MT
       lat: '48.8777'
       long: "-113.4408"
+      closest_rate_centers:
+      - name: St Mary
+        distance:
+          value: 15.13
+          units: km
+      - name: Browning
+        distance:
+          value: 46.76
+          units: km
+      - name: East Glacier Park
+        distance:
+          value: 50.55
+          units: km
     - name: Bainville
       region: MT
       lat: '48.1470'
       long: "-104.2264"
+      closest_rate_centers:
+      - name: Bainville
+        distance:
+          value: 1.4
+          units: km
+      - name: Culbertson
+        distance:
+          value: 21.92
+          units: km
+      - name: Froid Rural
+        distance:
+          value: 26.98
+          units: km
     - name: Baker
       region: MT
       lat: '46.3640'
       long: "-104.2741"
+      closest_rate_centers:
+      - name: Baker
+        distance:
+          value: 1.23
+          units: km
+      - name: Plevna
+        distance:
+          value: 19.0
+          units: km
+      - name: Carlyle
+        distance:
+          value: 30.96
+          units: km
     - name: Ballantine
       region: MT
       lat: '45.9511'
       long: "-108.1428"
+      closest_rate_centers:
+      - name: Worden
+        distance:
+          value: 1.49
+          units: km
+      - name: Huntley
+        distance:
+          value: 13.48
+          units: km
+      - name: Pompeys Pillar
+        distance:
+          value: 15.04
+          units: km
     - name: Basin
       region: MT
       lat: '46.2834'
       long: "-112.2871"
+      closest_rate_centers:
+      - name: Boulder
+        distance:
+          value: 14.07
+          units: km
+      - name: Butte
+        distance:
+          value: 36.3
+          units: km
+      - name: Deer Lodge
+        distance:
+          value: 36.37
+          units: km
     - name: Batavia
       region: MT
       lat: '48.1778'
       long: "-114.4107"
+      closest_rate_centers:
+      - name: Kalispell
+        distance:
+          value: 7.39
+          units: km
+      - name: Somers
+        distance:
+          value: 17.25
+          units: km
+      - name: Marion
+        distance:
+          value: 20.86
+          units: km
     - name: Bear Dance
       region: MT
       lat: '47.9020'
       long: "-114.0273"
+      closest_rate_centers:
+      - name: Yellow Bay
+        distance:
+          value: 1.29
+          units: km
+      - name: Swan Lake
+        distance:
+          value: 14.89
+          units: km
+      - name: Bigfork
+        distance:
+          value: 17.96
+          units: km
     - name: Bearcreek
       region: MT
       lat: '45.1606'
       long: "-109.1575"
+      closest_rate_centers:
+      - name: Red Lodge
+        distance:
+          value: 7.86
+          units: km
+      - name: Belfry
+        distance:
+          value: 12.03
+          units: km
+      - name: Bridger
+        distance:
+          value: 23.79
+          units: km
     - name: Beaver Creek
       region: MT
       lat: '48.5437'
       long: "-109.8068"
+      closest_rate_centers:
+      - name: Havre
+        distance:
+          value: 10.44
+          units: km
+      - name: South Havre
+        distance:
+          value: 14.78
+          units: km
+      - name: Kremlin
+        distance:
+          value: 20.51
+          units: km
     - name: Belfry
       region: MT
       lat: '45.1375'
       long: "-108.9985"
+      closest_rate_centers:
+      - name: Belfry
+        distance:
+          value: 0.71
+          units: km
+      - name: Silvertip
+        distance:
+          value: 15.08
+          units: km
+      - name: Bridger
+        distance:
+          value: 18.13
+          units: km
     - name: Belgrade
       region: MT
       lat: '45.7789'
       long: "-111.1736"
+      closest_rate_centers:
+      - name: Belgrade
+        distance:
+          value: 0.38
+          units: km
+      - name: Manhattan
+        distance:
+          value: 15.11
+          units: km
+      - name: Bozeman
+        distance:
+          value: 15.51
+          units: km
     - name: Belknap
       region: MT
       lat: '47.6473'
       long: "-115.4222"
+      closest_rate_centers:
+      - name: Thompson Falls
+        distance:
+          value: 8.22
+          units: km
+      - name: Haugan
+        distance:
+          value: 29.39
+          units: km
+      - name: Plains
+        distance:
+          value: 45.4
+          units: km
     - name: Belt
       region: MT
       lat: '47.3873'
       long: "-110.9276"
+      closest_rate_centers:
+      - name: Belt
+        distance:
+          value: 0.63
+          units: km
+      - name: Stockett
+        distance:
+          value: 18.2
+          units: km
+      - name: Raynesford
+        distance:
+          value: 19.12
+          units: km
     - name: Biddle
       region: MT
       lat: '45.1051'
       long: "-105.3116"
+      closest_rate_centers:
+      - name: South Broadus
+        distance:
+          value: 26.61
+          units: km
+      - name: Broadus
+        distance:
+          value: 37.83
+          units: km
+      - name: Broadus (Mid-Rivers)
+        distance:
+          value: 37.83
+          units: km
+      - name: North Broadus
+        distance:
+          value: 68.08
+          units: km
     - name: Big Arm
       region: MT
       lat: '47.7936'
       long: "-114.2701"
+      closest_rate_centers:
+      - name: Elmo
+        distance:
+          value: 7.33
+          units: km
+      - name: Polson
+        distance:
+          value: 13.88
+          units: km
+      - name: Finley Point
+        distance:
+          value: 19.17
+          units: km
     - name: Big Sandy
       region: MT
       lat: '48.1785'
       long: "-110.1134"
+      closest_rate_centers:
+      - name: Big Sandy
+        distance:
+          value: 0.44
+          units: km
+      - name: Box Elder
+        distance:
+          value: 16.95
+          units: km
+      - name: Hopp-Illiad
+        distance:
+          value: 32.28
+          units: km
     - name: Big Sky
       region: MT
       lat: '45.2592'
       long: "-111.3426"
+      closest_rate_centers:
+      - name: Big Sky
+        distance:
+          value: 4.09
+          units: km
+      - name: Ennis
+        distance:
+          value: 31.62
+          units: km
+      - name: Gallatin Gateway
+        distance:
+          value: 38.62
+          units: km
     - name: Big Sky Colony
       region: MT
       lat: '48.8391'
       long: "-112.7685"
+      closest_rate_centers:
+      - name: North Cut Bank
+        distance:
+          value: 31.94
+          units: km
+      - name: Browning
+        distance:
+          value: 34.94
+          units: km
+      - name: Cut Bank
+        distance:
+          value: 39.05
+          units: km
     - name: Big Stone Colony
       region: MT
       lat: '47.4001'
       long: "-111.2092"
+      closest_rate_centers:
+      - name: Stockett
+        distance:
+          value: 5.74
+          units: km
+      - name: Great Falls
+        distance:
+          value: 13.5
+          units: km
+      - name: Belt
+        distance:
+          value: 21.64
+          units: km
     - name: Big Timber
       region: MT
       lat: '45.8346'
       long: "-109.9487"
+      closest_rate_centers:
+      - name: Big Timber
+        distance:
+          value: 0.09
+          units: km
+      - name: Melville
+        distance:
+          value: 29.65
+          units: km
+      - name: Reedpoint
+        distance:
+          value: 34.28
+          units: km
     - name: Bigfork
       region: MT
       lat: '48.0852'
       long: "-114.0551"
+      closest_rate_centers:
+      - name: Bigfork
+        distance:
+          value: 3.44
+          units: km
+      - name: Somers
+        distance:
+          value: 12.85
+          units: km
+      - name: Lakeside
+        distance:
+          value: 14.31
+          units: km
     - name: Billings
       region: MT
       lat: '45.7891'
       long: "-108.5526"
+      closest_rate_centers:
+      - name: Billings
+        distance:
+          value: 3.63
+          units: km
+      - name: Laurel
+        distance:
+          value: 21.38
+          units: km
+      - name: Huntley
+        distance:
+          value: 23.11
+          units: km
     - name: Birch Creek Colony
       region: MT
       lat: '48.2465'
       long: "-112.4698"
+      closest_rate_centers:
+      - name: Dupuyer
+        distance:
+          value: 6.34
+          units: km
+      - name: Valier
+        distance:
+          value: 17.77
+          units: km
+      - name: Pendroy
+        distance:
+          value: 22.55
+          units: km
     - name: Birney
       region: MT
       lat: '45.4155'
       long: "-106.4934"
+      closest_rate_centers:
+      - name: Birney
+        distance:
+          value: 11.14
+          units: km
+      - name: Lame Deer
+        distance:
+          value: 25.61
+          units: km
+      - name: Ashland
+        distance:
+          value: 27.21
+          units: km
+      - name: Ashland (Mid-Rivers)
+        distance:
+          value: 27.21
+          units: km
     - name: Black Eagle
       region: MT
       lat: '47.5270'
       long: "-111.2670"
+      closest_rate_centers:
+      - name: Great Falls
+        distance:
+          value: 2.81
+          units: km
+      - name: Stockett
+        distance:
+          value: 20.3
+          units: km
+      - name: Belt
+        distance:
+          value: 30.45
+          units: km
     - name: Blackfoot
       region: MT
       lat: '48.5771'
       long: "-112.8733"
+      closest_rate_centers:
+      - name: Browning
+        distance:
+          value: 10.06
+          units: km
+      - name: East Glacier Park
+        distance:
+          value: 28.61
+          units: km
+      - name: Cut Bank
+        distance:
+          value: 39.97
+          units: km
     - name: Bloomfield
       region: MT
       lat: '47.4123'
       long: "-104.9190"
+      closest_rate_centers:
+      - name: Bloomfield
+        distance:
+          value: 1.36
+          units: km
+      - name: Lindsay
+        distance:
+          value: 27.79
+          units: km
+      - name: Richey
+        distance:
+          value: 28.12
+          units: km
     - name: Boneau
       region: MT
       lat: '48.2926'
       long: "-109.8632"
+      closest_rate_centers:
+      - name: Box Elder
+        distance:
+          value: 11.88
+          units: km
+      - name: South Havre
+        distance:
+          value: 18.4
+          units: km
+      - name: Big Sandy
+        distance:
+          value: 22.35
+          units: km
     - name: Bonner-West Riverside
       region: MT
       lat: '46.8767'
       long: "-113.8869"
+      closest_rate_centers:
+      - name: Missoula
+        distance:
+          value: 8.8
+          units: km
+      - name: Clinton
+        distance:
+          value: 17.76
+          units: km
+      - name: Potomac
+        distance:
+          value: 23.62
+          units: km
     - name: Boulder
       region: MT
       lat: '46.2359'
       long: "-112.1198"
+      closest_rate_centers:
+      - name: Boulder
+        distance:
+          value: 0.58
+          units: km
+      - name: Butte
+        distance:
+          value: 40.35
+          units: km
+      - name: Whitehall
+        distance:
+          value: 41.18
+          units: km
     - name: Box Elder
       region: MT
       lat: '48.3230'
       long: "-110.0177"
+      closest_rate_centers:
+      - name: Box Elder
+        distance:
+          value: 0.63
+          units: km
+      - name: Big Sandy
+        distance:
+          value: 17.7
+          units: km
+      - name: South Havre
+        distance:
+          value: 25.1
+          units: km
     - name: Boyd
       region: MT
       lat: '45.4540'
       long: "-109.0697"
+      closest_rate_centers:
+      - name: Joliet
+        distance:
+          value: 8.54
+          units: km
+      - name: Fromberg
+        distance:
+          value: 14.12
+          units: km
+      - name: Bridger
+        distance:
+          value: 21.9
+          units: km
     - name: Bozeman
       region: MT
       lat: '45.6833'
       long: "-111.0558"
+      closest_rate_centers:
+      - name: Bozeman
+        distance:
+          value: 1.52
+          units: km
+      - name: Belgrade
+        distance:
+          value: 13.96
+          units: km
+      - name: Gallatin Gateway
+        distance:
+          value: 15.13
+          units: km
     - name: Brady
       region: MT
       lat: '48.0279'
       long: "-111.8441"
+      closest_rate_centers:
+      - name: Brady
+        distance:
+          value: 0.65
+          units: km
+      - name: Conrad
+        distance:
+          value: 17.03
+          units: km
+      - name: Dutton
+        distance:
+          value: 21.96
+          units: km
     - name: Brandon
       region: MT
       lat: '45.4660'
       long: "-112.1339"
+      closest_rate_centers:
+      - name: Sheridan
+        distance:
+          value: 4.7
+          units: km
+      - name: Twin Bridges
+        distance:
+          value: 16.9
+          units: km
+      - name: Virginia City
+        distance:
+          value: 24.88
+          units: km
     - name: Bridger
       region: MT
       lat: '45.2946'
       long: "-108.9167"
+      closest_rate_centers:
+      - name: Bridger
+        distance:
+          value: 0.57
+          units: km
+      - name: Fromberg
+        distance:
+          value: 10.5
+          units: km
+      - name: Belfry
+        distance:
+          value: 18.6
+          units: km
     - name: Broadus
       region: MT
       lat: '45.4429'
       long: "-105.4083"
+      closest_rate_centers:
+      - name: Broadus (Mid-Rivers)
+        distance:
+          value: 1.23
+          units: km
+      - name: Broadus
+        distance:
+          value: 1.23
+          units: km
+      - name: South Broadus
+        distance:
+          value: 11.86
+          units: km
+      - name: North Broadus
+        distance:
+          value: 30.13
+          units: km
     - name: Broadview
       region: MT
       lat: '46.0988'
       long: "-108.8789"
+      closest_rate_centers:
+      - name: Broadview
+        distance:
+          value: 0.37
+          units: km
+      - name: Lavina
+        distance:
+          value: 22.81
+          units: km
+      - name: Molt
+        distance:
+          value: 26.22
+          units: km
     - name: Brockton
       region: MT
       lat: '48.1525'
       long: "-104.9066"
+      closest_rate_centers:
+      - name: Brockton
+        distance:
+          value: 0.89
+          units: km
+      - name: North Poplar
+        distance:
+          value: 22.02
+          units: km
+      - name: Poplar
+        distance:
+          value: 22.22
+          units: km
     - name: Brockway
       region: MT
       lat: '47.2992'
       long: "-105.7645"
+      closest_rate_centers:
+      - name: Circle
+        distance:
+          value: 20.14
+          units: km
+      - name: Lindsay
+        distance:
+          value: 46.38
+          units: km
+      - name: Rock Springs
+        distance:
+          value: 64.33
+          units: km
     - name: Brooks
       region: MT
       lat: '47.2051'
       long: "-109.4212"
+      closest_rate_centers:
+      - name: Lewistown (Mid-Rivers)
+        distance:
+          value: 15.43
+          units: km
+      - name: Lewistown
+        distance:
+          value: 15.43
+          units: km
+      - name: Moore
+        distance:
+          value: 32.94
+          units: km
+      - name: Roy
+        distance:
+          value: 37.7
+          units: km
     - name: Browning
       region: MT
       lat: '48.5564'
       long: "-113.0151"
+      closest_rate_centers:
+      - name: Browning
+        distance:
+          value: 1.37
+          units: km
+      - name: East Glacier Park
+        distance:
+          value: 18.68
+          units: km
+      - name: St Mary
+        distance:
+          value: 36.57
+          units: km
     - name: Bull Lake
       region: MT
       lat: '48.2379'
       long: "-115.8474"
+      closest_rate_centers:
+      - name: Troy
+        distance:
+          value: 24.77
+          units: km
+      - name: Libby
+        distance:
+          value: 27.31
+          units: km
+      - name: Noxon
+        distance:
+          value: 28.07
+          units: km
     - name: Busby
       region: MT
       lat: '45.5281'
       long: "-106.9752"
+      closest_rate_centers:
+      - name: Busby
+        distance:
+          value: 1.6
+          units: km
+      - name: Lame Deer
+        distance:
+          value: 27.01
+          units: km
+      - name: Lodge Grass
+        distance:
+          value: 38.53
+          units: km
     - name: Butte
       region: MT
       lat: '45.9020'
       long: "-112.6571"
+      closest_rate_centers:
+      - name: Butte
+        distance:
+          value: 15.31
+          units: km
+      - name: Divide
+        distance:
+          value: 18.38
+          units: km
+      - name: Wise River
+        distance:
+          value: 25.61
+          units: km
     - name: Bynum
       region: MT
       lat: '47.9682'
       long: "-112.3165"
+      closest_rate_centers:
+      - name: Pendroy
+        distance:
+          value: 12.19
+          units: km
+      - name: Choteau
+        distance:
+          value: 20.24
+          units: km
+      - name: Dupuyer
+        distance:
+          value: 28.42
+          units: km
     - name: Camas
       region: MT
       lat: '47.6179'
       long: "-114.6561"
+      closest_rate_centers:
+      - name: Hot Springs
+        distance:
+          value: 1.09
+          units: km
+      - name: Plains
+        distance:
+          value: 24.72
+          units: km
+      - name: Elmo
+        distance:
+          value: 33.57
+          units: km
     - name: Camp Three
       region: MT
       lat: '46.4534'
       long: "-108.5741"
+      closest_rate_centers:
+      - name: Roundup
+        distance:
+          value: 2.53
+          units: km
+      - name: Lavina
+        distance:
+          value: 33.11
+          units: km
+      - name: Musselshell
+        distance:
+          value: 38.1
+          units: km
     - name: Camrose Colony
       region: MT
       lat: '48.3116'
       long: "-111.6118"
+      closest_rate_centers:
+      - name: Devon
+        distance:
+          value: 21.01
+          units: km
+      - name: East Conrad
+        distance:
+          value: 22.6
+          units: km
+      - name: Shelby
+        distance:
+          value: 28.48
+          units: km
     - name: Canyon Creek
       region: MT
       lat: '46.8053'
       long: "-112.2544"
+      closest_rate_centers:
+      - name: Canyon Creek
+        distance:
+          value: 1.4
+          units: km
+      - name: Wolf Creek
+        distance:
+          value: 26.9
+          units: km
+      - name: Helena
+        distance:
+          value: 28.7
+          units: km
     - name: Cardwell
       region: MT
       lat: '45.8621'
       long: "-111.9555"
+      closest_rate_centers:
+      - name: Whitehall
+        distance:
+          value: 10.36
+          units: km
+      - name: Harrison
+        distance:
+          value: 22.53
+          units: km
+      - name: Three Forks
+        distance:
+          value: 31.39
+          units: km
     - name: Carlton
       region: MT
       lat: '46.6796'
       long: "-114.0718"
+      closest_rate_centers:
+      - name: Stevensville
+        distance:
+          value: 19.19
+          units: km
+      - name: Missoula
+        distance:
+          value: 21.65
+          units: km
+      - name: Clinton
+        distance:
+          value: 29.76
+          units: km
     - name: Carter
       region: MT
       lat: '47.7812'
       long: "-110.9400"
+      closest_rate_centers:
+      - name: Carter
+        distance:
+          value: 1.23
+          units: km
+      - name: Fort Benton
+        distance:
+          value: 21.07
+          units: km
+      - name: Highwood
+        distance:
+          value: 24.68
+          units: km
     - name: Cascade
       region: MT
       lat: '47.2769'
       long: "-111.7026"
+      closest_rate_centers:
+      - name: Cascade
+        distance:
+          value: 0.19
+          units: km
+      - name: Fort Shaw
+        distance:
+          value: 27.2
+          units: km
+      - name: Great Falls
+        distance:
+          value: 40.21
+          units: km
     - name: Cascade Colony
       region: MT
       lat: '47.4410'
       long: "-111.8178"
+      closest_rate_centers:
+      - name: Fort Shaw
+        distance:
+          value: 7.56
+          units: km
+      - name: Cascade
+        distance:
+          value: 20.31
+          units: km
+      - name: Fairfield
+        distance:
+          value: 23.27
+          units: km
     - name: Centerville
       region: MT
       lat: '47.3844'
       long: "-111.1432"
+      closest_rate_centers:
+      - name: Stockett
+        distance:
+          value: 3.39
+          units: km
+      - name: Belt
+        distance:
+          value: 16.59
+          units: km
+      - name: Great Falls
+        distance:
+          value: 17.71
+          units: km
     - name: Charlo
       region: MT
       lat: '47.4427'
       long: "-114.1716"
+      closest_rate_centers:
+      - name: Charlo
+        distance:
+          value: 0.17
+          units: km
+      - name: Ronan
+        distance:
+          value: 11.01
+          units: km
+      - name: St Ignatius
+        distance:
+          value: 14.39
+          units: km
     - name: Charlos Heights
       region: MT
       lat: '46.1337'
       long: "-114.1811"
+      closest_rate_centers:
+      - name: Hamilton
+        distance:
+          value: 12.08
+          units: km
+      - name: Darby
+        distance:
+          value: 12.1
+          units: km
+      - name: Victor
+        distance:
+          value: 31.61
+          units: km
     - name: Chester
       region: MT
       lat: '48.5113'
       long: "-110.9663"
+      closest_rate_centers:
+      - name: Chester
+        distance:
+          value: 0.48
+          units: km
+      - name: Joplin
+        distance:
+          value: 15.2
+          units: km
+      - name: South Chester
+        distance:
+          value: 28.79
+          units: km
     - name: Chinook
       region: MT
       lat: '48.5902'
       long: "-109.2319"
+      closest_rate_centers:
+      - name: Chinook
+        distance:
+          value: 0.6
+          units: km
+      - name: Havre
+        distance:
+          value: 32.21
+          units: km
+      - name: Harlem
+        distance:
+          value: 33.5
+          units: km
     - name: Choteau
       region: MT
       lat: '47.8137'
       long: "-112.1794"
+      closest_rate_centers:
+      - name: Choteau
+        distance:
+          value: 0.7
+          units: km
+      - name: Fairfield
+        distance:
+          value: 26.25
+          units: km
+      - name: Pendroy
+        distance:
+          value: 30.71
+          units: km
     - name: Churchill
       region: MT
       lat: '45.7500'
       long: "-111.3102"
+      closest_rate_centers:
+      - name: Belgrade
+        distance:
+          value: 10.76
+          units: km
+      - name: Manhattan
+        distance:
+          value: 11.99
+          units: km
+      - name: Gallatin Gateway
+        distance:
+          value: 19.58
+          units: km
     - name: Circle
       region: MT
       lat: '47.4177'
       long: "-105.5870"
+      closest_rate_centers:
+      - name: Circle
+        distance:
+          value: 1.37
+          units: km
+      - name: Lindsay
+        distance:
+          value: 38.76
+          units: km
+      - name: Richey
+        distance:
+          value: 46.01
+          units: km
     - name: Clancy
       region: MT
       lat: '46.4493'
       long: "-112.0029"
+      closest_rate_centers:
+      - name: Helena
+        distance:
+          value: 17.0
+          units: km
+      - name: Boulder
+        distance:
+          value: 24.81
+          units: km
+      - name: Townsend
+        distance:
+          value: 40.02
+          units: km
     - name: Clinton
       region: MT
       lat: '46.7718'
       long: "-113.7169"
+      closest_rate_centers:
+      - name: Clinton
+        distance:
+          value: 0.83
+          units: km
+      - name: Potomac
+        distance:
+          value: 16.42
+          units: km
+      - name: Missoula
+        distance:
+          value: 24.21
+          units: km
     - name: Clyde Park
       region: MT
       lat: '45.8839'
       long: "-110.6059"
+      closest_rate_centers:
+      - name: Clyde Park
+        distance:
+          value: 1.09
+          units: km
+      - name: Wilsall
+        distance:
+          value: 12.41
+          units: km
+      - name: Livingston
+        distance:
+          value: 24.57
+          units: km
     - name: Coffee Creek
       region: MT
       lat: '47.3489'
       long: "-110.0827"
+      closest_rate_centers:
+      - name: Denton
+        distance:
+          value: 10.71
+          units: km
+      - name: Stanford
+        distance:
+          value: 24.19
+          units: km
+      - name: Geraldine
+        distance:
+          value: 31.22
+          units: km
     - name: Colstrip
       region: MT
       lat: '45.8943'
       long: "-106.6280"
+      closest_rate_centers:
+      - name: Colstrip
+        distance:
+          value: 3.19
+          units: km
+      - name: Lame Deer
+        distance:
+          value: 30.88
+          units: km
+      - name: Forsyth
+        distance:
+          value: 41.47
+          units: km
     - name: Columbia Falls
       region: MT
       lat: '48.3708'
       long: "-114.1902"
+      closest_rate_centers:
+      - name: Columbia Falls
+        distance:
+          value: 1.16
+          units: km
+      - name: Hungry Horse
+        distance:
+          value: 10.77
+          units: km
+      - name: Whitefish
+        distance:
+          value: 11.82
+          units: km
     - name: Columbus
       region: MT
       lat: '45.6360'
       long: "-109.2488"
+      closest_rate_centers:
+      - name: Columbus
+        distance:
+          value: 1.0
+          units: km
+      - name: Absarokee
+        distance:
+          value: 20.59
+          units: km
+      - name: Reedpoint
+        distance:
+          value: 24.39
+          units: km
     - name: Condon
       region: MT
       lat: '47.5225'
       long: "-113.6987"
+      closest_rate_centers:
+      - name: Condon
+        distance:
+          value: 0.77
+          units: km
+      - name: Ronan
+        distance:
+          value: 29.62
+          units: km
+      - name: Pablo
+        distance:
+          value: 32.43
+          units: km
     - name: Conner
       region: MT
       lat: '45.9290'
       long: "-114.1326"
+      closest_rate_centers:
+      - name: Darby
+        distance:
+          value: 11.19
+          units: km
+      - name: Alta
+        distance:
+          value: 25.47
+          units: km
+      - name: Hamilton
+        distance:
+          value: 34.73
+          units: km
     - name: Conrad
       region: MT
       lat: '48.1741'
       long: "-111.9467"
+      closest_rate_centers:
+      - name: Conrad
+        distance:
+          value: 1.09
+          units: km
+      - name: Brady
+        distance:
+          value: 17.3
+          units: km
+      - name: Valier
+        distance:
+          value: 26.9
+          units: km
     - name: Cooke City
       region: MT
       lat: '45.0187'
       long: "-109.9119"
+      closest_rate_centers:
+      - name: Cooke City
+        distance:
+          value: 1.69
+          units: km
+      - name: Red Lodge
+        distance:
+          value: 54.86
+          units: km
+      - name: Gardiner
+        distance:
+          value: 62.74
+          units: km
     - name: Coram
       region: MT
       lat: '48.4306'
       long: "-114.0444"
+      closest_rate_centers:
+      - name: Hungry Horse
+        distance:
+          value: 5.03
+          units: km
+      - name: West Glacier
+        distance:
+          value: 8.58
+          units: km
+      - name: Columbia Falls
+        distance:
+          value: 11.57
+          units: km
     - name: Corvallis
       region: MT
       lat: '46.3139'
       long: "-114.1123"
+      closest_rate_centers:
+      - name: Hamilton
+        distance:
+          value: 8.77
+          units: km
+      - name: Victor
+        distance:
+          value: 11.86
+          units: km
+      - name: Stevensville
+        distance:
+          value: 21.6
+          units: km
     - name: Corwin Springs
       region: MT
       lat: '45.1276'
       long: "-110.7997"
+      closest_rate_centers:
+      - name: Gardiner
+        distance:
+          value: 11.7
+          units: km
+      - name: Big Sky
+        distance:
+          value: 41.57
+          units: km
+      - name: West Yellowstone
+        distance:
+          value: 57.22
+          units: km
     - name: Craig
       region: MT
       lat: '47.0745'
       long: "-111.9644"
+      closest_rate_centers:
+      - name: Wolf Creek
+        distance:
+          value: 10.54
+          units: km
+      - name: Cascade
+        distance:
+          value: 30.07
+          units: km
+      - name: Canyon Creek
+        distance:
+          value: 38.34
+          units: km
     - name: Crane
       region: MT
       lat: '47.5772'
       long: "-104.2509"
+      closest_rate_centers:
+      - name: West Sidney
+        distance:
+          value: 13.15
+          units: km
+      - name: Savage
+        distance:
+          value: 15.82
+          units: km
+      - name: Sidney
+        distance:
+          value: 16.47
+          units: km
+      - name: Sidney (Mid-Rivers)
+        distance:
+          value: 16.47
+          units: km
     - name: Crow Agency
       region: MT
       lat: '45.6026'
       long: "-107.4591"
+      closest_rate_centers:
+      - name: Hardin
+        distance:
+          value: 18.22
+          units: km
+      - name: Lodge Grass
+        distance:
+          value: 33.62
+          units: km
+      - name: Busby
+        distance:
+          value: 39.95
+          units: km
     - name: Culbertson
       region: MT
       lat: '48.1447'
       long: "-104.5183"
+      closest_rate_centers:
+      - name: Culbertson
+        distance:
+          value: 0.37
+          units: km
+      - name: Froid
+        distance:
+          value: 21.13
+          units: km
+      - name: Bainville
+        distance:
+          value: 21.78
+          units: km
     - name: Custer
       region: MT
       lat: '46.1292'
       long: "-107.5554"
+      closest_rate_centers:
+      - name: Custer
+        distance:
+          value: 0.34
+          units: km
+      - name: Hysham
+        distance:
+          value: 31.77
+          units: km
+      - name: Pompeys Pillar
+        distance:
+          value: 34.57
+          units: km
     - name: Cut Bank
       region: MT
       lat: '48.6344'
       long: "-112.3304"
+      closest_rate_centers:
+      - name: Cut Bank
+        distance:
+          value: 0.46
+          units: km
+      - name: North Cut Bank
+        distance:
+          value: 11.03
+          units: km
+      - name: Ethridge
+        distance:
+          value: 17.23
+          units: km
     - name: Cyr
       region: MT
       lat: '47.0002'
       long: "-114.5879"
+      closest_rate_centers:
+      - name: Alberton
+        distance:
+          value: 7.81
+          units: km
+      - name: South Alberton
+        distance:
+          value: 9.4
+          units: km
+      - name: Frenchtown
+        distance:
+          value: 27.75
+          units: km
     - name: Danvers
       region: MT
       lat: '47.2283'
       long: "-109.7130"
+      closest_rate_centers:
+      - name: Denton
+        distance:
+          value: 20.31
+          units: km
+      - name: Hobson
+        distance:
+          value: 27.91
+          units: km
+      - name: Lewistown
+        distance:
+          value: 28.24
+          units: km
+      - name: Lewistown (Mid-Rivers)
+        distance:
+          value: 28.24
+          units: km
     - name: Darby
       region: MT
       lat: '46.0231'
       long: "-114.1787"
+      closest_rate_centers:
+      - name: Darby
+        distance:
+          value: 0.25
+          units: km
+      - name: Hamilton
+        distance:
+          value: 24.29
+          units: km
+      - name: Alta
+        distance:
+          value: 34.39
+          units: km
     - name: Dayton
       region: MT
       lat: '47.8643'
       long: "-114.2765"
+      closest_rate_centers:
+      - name: Elmo
+        distance:
+          value: 6.05
+          units: km
+      - name: Lakeside
+        distance:
+          value: 17.39
+          units: km
+      - name: Yellow Bay
+        distance:
+          value: 19.31
+          units: km
     - name: De Borgia
       region: MT
       lat: '47.3701'
       long: "-115.3211"
+      closest_rate_centers:
+      - name: Haugan
+        distance:
+          value: 6.37
+          units: km
+      - name: St Regis
+        distance:
+          value: 19.47
+          units: km
+      - name: Thompson Falls
+        distance:
+          value: 25.44
+          units: km
     - name: Deer Lodge
       region: MT
       lat: '46.3980'
       long: "-112.7334"
+      closest_rate_centers:
+      - name: Deer Lodge
+        distance:
+          value: 0.56
+          units: km
+      - name: Avon
+        distance:
+          value: 24.54
+          units: km
+      - name: Warm Springs
+        distance:
+          value: 25.01
+          units: km
     - name: Deerfield Colony
       region: MT
       lat: '47.2601'
       long: "-109.6787"
+      closest_rate_centers:
+      - name: Denton
+        distance:
+          value: 21.32
+          units: km
+      - name: Lewistown (Mid-Rivers)
+        distance:
+          value: 28.83
+          units: km
+      - name: Lewistown
+        distance:
+          value: 28.83
+          units: km
+      - name: Moore
+        distance:
+          value: 31.95
+          units: km
     - name: Dell
       region: MT
       lat: '44.7268'
       long: "-112.6969"
+      closest_rate_centers:
+      - name: Lima
+        distance:
+          value: 12.64
+          units: km
+      - name: Grant
+        distance:
+          value: 49.44
+          units: km
+      - name: Dillon
+        distance:
+          value: 54.46
+          units: km
     - name: Denton
       region: MT
       lat: '47.3222'
       long: "-109.9481"
+      closest_rate_centers:
+      - name: Denton
+        distance:
+          value: 0.65
+          units: km
+      - name: Stanford
+        distance:
+          value: 27.81
+          units: km
+      - name: Hobson
+        distance:
+          value: 35.99
+          units: km
     - name: Dewey
       region: MT
       lat: '45.7764'
       long: "-112.8553"
+      closest_rate_centers:
+      - name: Wise River
+        distance:
+          value: 7.33
+          units: km
+      - name: Divide
+        distance:
+          value: 8.56
+          units: km
+      - name: Melrose
+        distance:
+          value: 20.75
+          units: km
     - name: Dillon
       region: MT
       lat: '45.2180'
       long: "-112.6345"
+      closest_rate_centers:
+      - name: Dillon
+        distance:
+          value: 0.38
+          units: km
+      - name: Twin Bridges
+        distance:
+          value: 43.22
+          units: km
+      - name: Sheridan
+        distance:
+          value: 43.29
+          units: km
     - name: Dixon
       region: MT
       lat: '47.3172'
       long: "-114.3569"
+      closest_rate_centers:
+      - name: Dixon
+        distance:
+          value: 3.48
+          units: km
+      - name: Charlo
+        distance:
+          value: 19.85
+          units: km
+      - name: St Ignatius
+        distance:
+          value: 20.18
+          units: km
     - name: Dodson
       region: MT
       lat: '48.3953'
       long: "-108.2472"
+      closest_rate_centers:
+      - name: Dodson
+        distance:
+          value: 0.83
+          units: km
+      - name: South Malta
+        distance:
+          value: 25.84
+          units: km
+      - name: Malta
+        distance:
+          value: 27.61
+          units: km
     - name: Drummond
       region: MT
       lat: '46.6665'
       long: "-113.1471"
+      closest_rate_centers:
+      - name: Drummond
+        distance:
+          value: 0.67
+          units: km
+      - name: Philipsburg
+        distance:
+          value: 37.73
+          units: km
+      - name: Ovando
+        distance:
+          value: 38.88
+          units: km
     - name: Duncan Ranch Colony
       region: MT
       lat: '46.4418'
       long: "-110.0261"
+      closest_rate_centers:
+      - name: Harlowton
+        distance:
+          value: 14.71
+          units: km
+      - name: Martinsdale
+        distance:
+          value: 22.48
+          units: km
+      - name: Judith Gap
+        distance:
+          value: 33.27
+          units: km
     - name: Dupuyer
       region: MT
       lat: '48.1868'
       long: "-112.4771"
+      closest_rate_centers:
+      - name: Dupuyer
+        distance:
+          value: 1.75
+          units: km
+      - name: Pendroy
+        distance:
+          value: 17.81
+          units: km
+      - name: Valier
+        distance:
+          value: 21.68
+          units: km
     - name: Dutton
       region: MT
       lat: '47.8476'
       long: "-111.7146"
+      closest_rate_centers:
+      - name: Dutton
+        distance:
+          value: 0.32
+          units: km
+      - name: Power
+        distance:
+          value: 14.88
+          units: km
+      - name: Brady
+        distance:
+          value: 22.9
+          units: km
     - name: Eagle Creek Colony
       region: MT
       lat: '48.7021'
       long: "-111.2031"
+      closest_rate_centers:
+      - name: Chester
+        distance:
+          value: 27.85
+          units: km
+      - name: Devon
+        distance:
+          value: 32.01
+          units: km
+      - name: Joplin
+        distance:
+          value: 35.43
+          units: km
     - name: East End Colony
       region: MT
       lat: '48.7519'
       long: "-109.5466"
+      closest_rate_centers:
+      - name: North Havre
+        distance:
+          value: 11.13
+          units: km
+      - name: Havre
+        distance:
+          value: 24.1
+          units: km
+      - name: Chinook
+        distance:
+          value: 29.49
+          units: km
     - name: East Glacier Park Village
       region: MT
       lat: '48.4459'
       long: "-113.2235"
+      closest_rate_centers:
+      - name: East Glacier Park
+        distance:
+          value: 1.03
+          units: km
+      - name: Browning
+        distance:
+          value: 20.82
+          units: km
+      - name: St Mary
+        distance:
+          value: 36.14
+          units: km
     - name: East Helena
       region: MT
       lat: '46.5850'
       long: "-111.9158"
+      closest_rate_centers:
+      - name: Helena
+        distance:
+          value: 8.42
+          units: km
+      - name: Canyon Creek
+        distance:
+          value: 36.22
+          units: km
+      - name: Boulder
+        distance:
+          value: 41.29
+          units: km
     - name: East Malta Colony
       region: MT
       lat: '48.3488'
       long: "-107.6081"
+      closest_rate_centers:
+      - name: Malta
+        distance:
+          value: 19.93
+          units: km
+      - name: Saco
+        distance:
+          value: 23.2
+          units: km
+      - name: South Malta
+        distance:
+          value: 33.97
+          units: km
     - name: East Missoula
       region: MT
       lat: '46.8801'
       long: "-113.9401"
+      closest_rate_centers:
+      - name: Missoula
+        distance:
+          value: 4.88
+          units: km
+      - name: Clinton
+        distance:
+          value: 21.24
+          units: km
+      - name: Frenchtown
+        distance:
+          value: 26.29
+          units: km
     - name: Edgar
       region: MT
       lat: '45.4636'
       long: "-108.8552"
+      closest_rate_centers:
+      - name: Joliet
+        distance:
+          value: 9.14
+          units: km
+      - name: Fromberg
+        distance:
+          value: 9.49
+          units: km
+      - name: Bridger
+        distance:
+          value: 19.9
+          units: km
     - name: Ekalaka
       region: MT
       lat: '45.8897'
       long: "-104.5506"
+      closest_rate_centers:
+      - name: Ekalaka
+        distance:
+          value: 1.6
+          units: km
+      - name: West Camp Crook
+        distance:
+          value: 54.73
+          units: km
+      - name: Baker
+        distance:
+          value: 58.08
+          units: km
     - name: Elkhorn
       region: MT
       lat: '46.2843'
       long: "-111.9488"
+      closest_rate_centers:
+      - name: Boulder
+        distance:
+          value: 13.7
+          units: km
+      - name: Townsend
+        distance:
+          value: 33.29
+          units: km
+      - name: Helena
+        distance:
+          value: 35.74
+          units: km
     - name: Elliston
       region: MT
       lat: '46.5587'
       long: "-112.4639"
+      closest_rate_centers:
+      - name: Avon
+        distance:
+          value: 11.41
+          units: km
+      - name: Deer Lodge
+        distance:
+          value: 27.67
+          units: km
+      - name: Canyon Creek
+        distance:
+          value: 30.66
+          units: km
     - name: Elmo
       region: MT
       lat: '47.8290'
       long: "-114.3484"
+      closest_rate_centers:
+      - name: Elmo
+        distance:
+          value: 0.79
+          units: km
+      - name: Polson
+        distance:
+          value: 20.65
+          units: km
+      - name: Lakeside
+        distance:
+          value: 22.94
+          units: km
     - name: Emigrant
       region: MT
       lat: '45.3755'
       long: "-110.7465"
+      closest_rate_centers:
+      - name: Livingston
+        distance:
+          value: 35.33
+          units: km
+      - name: Gardiner
+        distance:
+          value: 37.0
+          units: km
+      - name: Bozeman
+        distance:
+          value: 40.41
+          units: km
     - name: Ennis
       region: MT
       lat: '45.3462'
       long: "-111.7319"
+      closest_rate_centers:
+      - name: Ennis
+        distance:
+          value: 0.46
+          units: km
+      - name: Virginia City
+        distance:
+          value: 17.15
+          units: km
+      - name: Big Sky
+        distance:
+          value: 35.52
+          units: km
     - name: Essex
       region: MT
       lat: '48.2823'
       long: "-113.6095"
+      closest_rate_centers:
+      - name: Hungry Horse
+        distance:
+          value: 34.24
+          units: km
+      - name: East Glacier Park
+        distance:
+          value: 34.84
+          units: km
+      - name: West Glacier
+        distance:
+          value: 35.82
+          units: km
     - name: Eureka
       region: MT
       lat: '48.8790'
       long: "-115.0492"
+      closest_rate_centers:
+      - name: Eureka
+        distance:
+          value: 0.38
+          units: km
+      - name: Eureka Rural
+        distance:
+          value: 2.92
+          units: km
+      - name: Olney
+        distance:
+          value: 50.32
+          units: km
     - name: Evaro
       region: MT
       lat: '47.0737'
       long: "-114.0206"
+      closest_rate_centers:
+      - name: Arlee
+        distance:
+          value: 11.36
+          units: km
+      - name: Frenchtown
+        distance:
+          value: 16.57
+          units: km
+      - name: Missoula
+        distance:
+          value: 22.88
+          units: km
     - name: Evergreen
       region: MT
       lat: '48.2308'
       long: "-114.2700"
+      closest_rate_centers:
+      - name: Kalispell
+        distance:
+          value: 4.91
+          units: km
+      - name: Somers
+        distance:
+          value: 16.85
+          units: km
+      - name: Columbia Falls
+        distance:
+          value: 17.3
+          units: km
     - name: Fair Haven Colony
       region: MT
       lat: '47.4041'
       long: "-111.6294"
+      closest_rate_centers:
+      - name: Cascade
+        distance:
+          value: 15.14
+          units: km
+      - name: Fort Shaw
+        distance:
+          value: 18.29
+          units: km
+      - name: Great Falls
+        distance:
+          value: 27.9
+          units: km
     - name: Fairfield
       region: MT
       lat: '47.6151'
       long: "-111.9813"
+      closest_rate_centers:
+      - name: Fairfield
+        distance:
+          value: 0.37
+          units: km
+      - name: Fort Shaw
+        distance:
+          value: 17.08
+          units: km
+      - name: Power
+        distance:
+          value: 24.78
+          units: km
     - name: Fairview
       region: MT
       lat: '47.8520'
       long: "-104.0510"
+      closest_rate_centers:
+      - name: Fairview (Mid-Rivers)
+        distance:
+          value: 0.92
+          units: km
+      - name: Fairview
+        distance:
+          value: 0.92
+          units: km
+      - name: Sidney
+        distance:
+          value: 17.55
+          units: km
+      - name: Sidney (Mid-Rivers)
+        distance:
+          value: 17.55
+          units: km
+      - name: West Sidney
+        distance:
+          value: 29.97
+          units: km
     - name: Fallon
       region: MT
       lat: '46.8373'
       long: "-105.1270"
+      closest_rate_centers:
+      - name: Fallon
+        distance:
+          value: 0.7
+          units: km
+      - name: Terry
+        distance:
+          value: 15.02
+          units: km
+      - name: Terry (Mid-Rivers)
+        distance:
+          value: 15.02
+          units: km
+      - name: West Glendive
+        distance:
+          value: 40.29
+          units: km
     - name: Finley Point
       region: MT
       lat: '47.7464'
       long: "-114.0666"
+      closest_rate_centers:
+      - name: Finley Point
+        distance:
+          value: 3.42
+          units: km
+      - name: Polson
+        distance:
+          value: 9.24
+          units: km
+      - name: Pablo
+        distance:
+          value: 16.82
+          units: km
     - name: Fishtail
       region: MT
       lat: '45.4480'
       long: "-109.5083"
+      closest_rate_centers:
+      - name: Absarokee
+        distance:
+          value: 8.75
+          units: km
+      - name: Columbus
+        distance:
+          value: 29.17
+          units: km
+      - name: Reedpoint
+        distance:
+          value: 29.32
+          units: km
     - name: Flat Willow Colony
       region: MT
       lat: '46.7252'
       long: "-108.4882"
+      closest_rate_centers:
+      - name: Roundup
+        distance:
+          value: 30.64
+          units: km
+      - name: Winnett
+        distance:
+          value: 33.05
+          units: km
+      - name: Musselshell
+        distance:
+          value: 38.37
+          units: km
     - name: Flaxville
       region: MT
       lat: '48.8045'
       long: "-105.1736"
+      closest_rate_centers:
+      - name: Flaxville
+        distance:
+          value: 0.43
+          units: km
+      - name: Flaxville Rural
+        distance:
+          value: 8.02
+          units: km
+      - name: Scobey
+        distance:
+          value: 18.31
+          units: km
     - name: Florence
       region: MT
       lat: '46.6345'
       long: "-114.0813"
+      closest_rate_centers:
+      - name: Stevensville
+        distance:
+          value: 14.13
+          units: km
+      - name: Victor
+        distance:
+          value: 24.75
+          units: km
+      - name: Missoula
+        distance:
+          value: 26.7
+          units: km
     - name: Floweree
       region: MT
       lat: '47.7248'
       long: "-111.0254"
+      closest_rate_centers:
+      - name: Carter
+        distance:
+          value: 8.22
+          units: km
+      - name: Highwood
+        distance:
+          value: 23.61
+          units: km
+      - name: Fort Benton
+        distance:
+          value: 29.08
+          units: km
     - name: Fords Creek Colony
       region: MT
       lat: '47.1310'
       long: "-108.9169"
+      closest_rate_centers:
+      - name: Grass Range
+        distance:
+          value: 14.6
+          units: km
+      - name: Roy
+        distance:
+          value: 22.79
+          units: km
+      - name: Lewistown (Mid-Rivers)
+        distance:
+          value: 39.16
+          units: km
+      - name: Lewistown
+        distance:
+          value: 39.16
+          units: km
     - name: Forest Hill Village
       region: MT
       lat: '48.1208'
       long: "-114.2618"
+      closest_rate_centers:
+      - name: Somers
+        distance:
+          value: 5.0
+          units: km
+      - name: Kalispell
+        distance:
+          value: 9.63
+          units: km
+      - name: Lakeside
+        distance:
+          value: 12.17
+          units: km
     - name: Forsyth
       region: MT
       lat: '46.2669'
       long: "-106.6749"
+      closest_rate_centers:
+      - name: Forsyth
+        distance:
+          value: 1.78
+          units: km
+      - name: Rosebud
+        distance:
+          value: 18.67
+          units: km
+      - name: Hysham
+        distance:
+          value: 41.78
+          units: km
     - name: Fort Belknap Agency
       region: MT
       lat: '48.4278'
       long: "-108.6829"
+      closest_rate_centers:
+      - name: Harlem
+        distance:
+          value: 14.11
+          units: km
+      - name: Dodson
+        distance:
+          value: 32.51
+          units: km
+      - name: Chinook
+        distance:
+          value: 43.96
+          units: km
     - name: Fort Benton
       region: MT
       lat: '47.8291'
       long: "-110.6557"
+      closest_rate_centers:
+      - name: Fort Benton
+        distance:
+          value: 0.95
+          units: km
+      - name: Loma
+        distance:
+          value: 16.81
+          units: km
+      - name: Carter
+        distance:
+          value: 23.05
+          units: km
     - name: Fort Peck
       region: MT
       lat: '48.0070'
       long: "-106.4552"
+      closest_rate_centers:
+      - name: Fort Peck
+        distance:
+          value: 0.67
+          units: km
+      - name: Nashua
+        distance:
+          value: 15.7
+          units: km
+      - name: North Nashua
+        distance:
+          value: 18.68
+          units: km
     - name: Fort Shaw
       region: MT
       lat: '47.4969'
       long: "-111.8194"
+      closest_rate_centers:
+      - name: Fort Shaw
+        distance:
+          value: 1.36
+          units: km
+      - name: Fairfield
+        distance:
+          value: 18.26
+          units: km
+      - name: Cascade
+        distance:
+          value: 26.08
+          units: km
     - name: Fort Smith
       region: MT
       lat: '45.3134'
       long: "-107.9296"
+      closest_rate_centers:
+      - name: Fort Smith
+        distance:
+          value: 1.21
+          units: km
+      - name: Lodge Grass
+        distance:
+          value: 44.75
+          units: km
+      - name: Wyola
+        distance:
+          value: 46.51
+          units: km
     - name: Fortine
       region: MT
       lat: '48.7723'
       long: "-114.9008"
+      closest_rate_centers:
+      - name: Eureka Rural
+        distance:
+          value: 13.47
+          units: km
+      - name: Eureka
+        distance:
+          value: 16.46
+          units: km
+      - name: Olney
+        distance:
+          value: 34.24
+          units: km
     - name: Forty Mile Colony
       region: MT
       lat: '45.2827'
       long: "-107.3568"
+      closest_rate_centers:
+      - name: Lodge Grass
+        distance:
+          value: 2.91
+          units: km
+      - name: Wyola
+        distance:
+          value: 17.73
+          units: km
+      - name: North Parkman
+        distance:
+          value: 30.65
+          units: km
     - name: Four Corners
       region: MT
       lat: '45.6697'
       long: "-111.1785"
+      closest_rate_centers:
+      - name: Gallatin Gateway
+        distance:
+          value: 8.83
+          units: km
+      - name: Bozeman
+        distance:
+          value: 10.77
+          units: km
+      - name: Belgrade
+        distance:
+          value: 11.84
+          units: km
     - name: Fox
       region: MT
       lat: '45.2884'
       long: "-109.2125"
+      closest_rate_centers:
+      - name: Red Lodge
+        distance:
+          value: 12.16
+          units: km
+      - name: Belfry
+        distance:
+          value: 23.07
+          units: km
+      - name: Bridger
+        distance:
+          value: 23.26
+          units: km
     - name: Fox Lake
       region: MT
       lat: '47.6858'
       long: "-104.6331"
+      closest_rate_centers:
+      - name: Lambert
+        distance:
+          value: 0.77
+          units: km
+      - name: West Sidney
+        distance:
+          value: 21.09
+          units: km
+      - name: Richey
+        distance:
+          value: 33.28
+          units: km
     - name: Frazer
       region: MT
       lat: '48.0532'
       long: "-106.0480"
+      closest_rate_centers:
+      - name: Frazer
+        distance:
+          value: 1.65
+          units: km
+      - name: North Nashua
+        distance:
+          value: 22.86
+          units: km
+      - name: Nashua
+        distance:
+          value: 24.47
+          units: km
     - name: Frenchtown
       region: MT
       lat: '47.0287'
       long: "-114.2461"
+      closest_rate_centers:
+      - name: Frenchtown
+        distance:
+          value: 2.21
+          units: km
+      - name: South Alberton
+        distance:
+          value: 16.74
+          units: km
+      - name: Alberton
+        distance:
+          value: 18.35
+          units: km
     - name: Froid
       region: MT
       lat: '48.3380'
       long: "-104.4909"
+      closest_rate_centers:
+      - name: Froid
+        distance:
+          value: 0.5
+          units: km
+      - name: Froid Rural
+        distance:
+          value: 3.12
+          units: km
+      - name: Medicine Lake
+        distance:
+          value: 18.07
+          units: km
     - name: Fromberg
       region: MT
       lat: '45.3920'
       long: "-108.9065"
+      closest_rate_centers:
+      - name: Fromberg
+        distance:
+          value: 0.7
+          units: km
+      - name: Joliet
+        distance:
+          value: 11.31
+          units: km
+      - name: Bridger
+        distance:
+          value: 11.4
+          units: km
     - name: Gallatin Gateway
       region: MT
       lat: '45.5899'
       long: "-111.1953"
+      closest_rate_centers:
+      - name: Gallatin Gateway
+        distance:
+          value: 0.4
+          units: km
+      - name: Bozeman
+        distance:
+          value: 15.34
+          units: km
+      - name: Belgrade
+        distance:
+          value: 20.77
+          units: km
     - name: Gallatin River Ranch
       region: MT
       lat: '45.9073'
       long: "-111.3313"
+      closest_rate_centers:
+      - name: Manhattan
+        distance:
+          value: 5.64
+          units: km
+      - name: Three Forks
+        distance:
+          value: 17.18
+          units: km
+      - name: Belgrade
+        distance:
+          value: 18.86
+          units: km
     - name: Gardiner
       region: MT
       lat: '45.0570'
       long: "-110.7421"
+      closest_rate_centers:
+      - name: Gardiner
+        distance:
+          value: 2.95
+          units: km
+      - name: Big Sky
+        distance:
+          value: 49.04
+          units: km
+      - name: West Yellowstone
+        distance:
+          value: 52.48
+          units: km
     - name: Garrison
       region: MT
       lat: '46.5259'
       long: "-112.8205"
+      closest_rate_centers:
+      - name: Deer Lodge
+        distance:
+          value: 16.21
+          units: km
+      - name: Avon
+        distance:
+          value: 18.64
+          units: km
+      - name: Drummond
+        distance:
+          value: 28.96
+          units: km
     - name: Geraldine
       region: MT
       lat: '47.6022'
       long: "-110.2663"
+      closest_rate_centers:
+      - name: Geraldine
+        distance:
+          value: 0.21
+          units: km
+      - name: Fort Benton
+        distance:
+          value: 38.64
+          units: km
+      - name: Highwood
+        distance:
+          value: 39.33
+          units: km
     - name: Geyser
       region: MT
       lat: '47.2633'
       long: "-110.4927"
+      closest_rate_centers:
+      - name: Geyser
+        distance:
+          value: 0.46
+          units: km
+      - name: Raynesford
+        distance:
+          value: 18.42
+          units: km
+      - name: Stanford
+        distance:
+          value: 24.23
+          units: km
     - name: Gibson Flats
       region: MT
       lat: '47.4640'
       long: "-111.2404"
+      closest_rate_centers:
+      - name: Great Falls
+        distance:
+          value: 6.23
+          units: km
+      - name: Stockett
+        distance:
+          value: 13.08
+          units: km
+      - name: Belt
+        distance:
+          value: 25.54
+          units: km
     - name: Gildford
       region: MT
       lat: '48.5738'
       long: "-110.3072"
+      closest_rate_centers:
+      - name: Gildford
+        distance:
+          value: 1.08
+          units: km
+      - name: Hingham
+        distance:
+          value: 8.93
+          units: km
+      - name: Kremlin
+        distance:
+          value: 16.65
+          units: km
     - name: Gildford Colony
       region: MT
       lat: '48.8025'
       long: "-110.2843"
+      closest_rate_centers:
+      - name: Gildford
+        distance:
+          value: 26.18
+          units: km
+      - name: Hingham
+        distance:
+          value: 29.06
+          units: km
+      - name: Kremlin
+        distance:
+          value: 29.21
+          units: km
     - name: Gilman
       region: MT
       lat: '47.5093'
       long: "-112.3578"
+      closest_rate_centers:
+      - name: Augusta
+        distance:
+          value: 2.34
+          units: km
+      - name: Fairfield
+        distance:
+          value: 30.42
+          units: km
+      - name: Choteau
+        distance:
+          value: 35.73
+          units: km
     - name: Glacier Colony
       region: MT
       lat: '48.8287'
       long: "-112.2149"
+      closest_rate_centers:
+      - name: North Cut Bank
+        distance:
+          value: 15.45
+          units: km
+      - name: Kevin-Oilmont
+        distance:
+          value: 21.1
+          units: km
+      - name: Sunburst
+        distance:
+          value: 23.2
+          units: km
     - name: Glasgow
       region: MT
       lat: '48.1990'
       long: "-106.6321"
+      closest_rate_centers:
+      - name: Glasgow
+        distance:
+          value: 0.7
+          units: km
+      - name: North Glasgow
+        distance:
+          value: 5.51
+          units: km
+      - name: Nashua
+        distance:
+          value: 21.81
+          units: km
     - name: Glen
       region: MT
       lat: '45.4789'
       long: "-112.6918"
+      closest_rate_centers:
+      - name: Melrose
+        distance:
+          value: 17.17
+          units: km
+      - name: Twin Bridges
+        distance:
+          value: 29.47
+          units: km
+      - name: Dillon
+        distance:
+          value: 29.73
+          units: km
     - name: Glendale Colony
       region: MT
       lat: '48.8432'
       long: "-112.5438"
+      closest_rate_centers:
+      - name: North Cut Bank
+        distance:
+          value: 18.11
+          units: km
+      - name: Cut Bank
+        distance:
+          value: 27.81
+          units: km
+      - name: Ethridge
+        distance:
+          value: 44.06
+          units: km
     - name: Glendive
       region: MT
       lat: '47.1101'
       long: "-104.7070"
+      closest_rate_centers:
+      - name: Glendive (Mid-Rivers)
+        distance:
+          value: 0.9
+          units: km
+      - name: Glendive
+        distance:
+          value: 0.9
+          units: km
+      - name: West Glendive
+        distance:
+          value: 4.75
+          units: km
+      - name: Lindsay
+        distance:
+          value: 36.5
+          units: km
     - name: Goldcreek
       region: MT
       lat: '46.5838'
       long: "-112.9284"
+      closest_rate_centers:
+      - name: Drummond
+        distance:
+          value: 18.55
+          units: km
+      - name: Avon
+        distance:
+          value: 25.06
+          units: km
+      - name: Deer Lodge
+        distance:
+          value: 25.94
+          units: km
     - name: Golden Valley Colony
       region: MT
       lat: '46.2592'
       long: "-109.2735"
+      closest_rate_centers:
+      - name: Ryegate
+        distance:
+          value: 4.77
+          units: km
+      - name: Lavina
+        distance:
+          value: 25.77
+          units: km
+      - name: North Ryegate
+        distance:
+          value: 29.16
+          units: km
     - name: Grant
       region: MT
       lat: '45.0096'
       long: "-113.0675"
+      closest_rate_centers:
+      - name: Grant
+        distance:
+          value: 9.55
+          units: km
+      - name: Dillon
+        distance:
+          value: 40.89
+          units: km
+      - name: Jackson
+        distance:
+          value: 47.7
+          units: km
     - name: Grass Range
       region: MT
       lat: '47.0261'
       long: "-108.8031"
+      closest_rate_centers:
+      - name: Grass Range
+        distance:
+          value: 0.3
+          units: km
+      - name: Winnett
+        distance:
+          value: 34.51
+          units: km
+      - name: Roy
+        distance:
+          value: 36.21
+          units: km
     - name: Great Falls
       region: MT
       lat: '47.5022'
       long: "-111.2996"
+      closest_rate_centers:
+      - name: Great Falls
+        distance:
+          value: 0.88
+          units: km
+      - name: Stockett
+        distance:
+          value: 18.96
+          units: km
+      - name: Belt
+        distance:
+          value: 31.3
+          units: km
     - name: Greycliff
       region: MT
       lat: '45.7588'
       long: "-109.7799"
+      closest_rate_centers:
+      - name: Big Timber
+        distance:
+          value: 15.49
+          units: km
+      - name: Reedpoint
+        distance:
+          value: 19.07
+          units: km
+      - name: Absarokee
+        distance:
+          value: 37.43
+          units: km
     - name: Hall
       region: MT
       lat: '46.5867'
       long: "-113.1971"
+      closest_rate_centers:
+      - name: Drummond
+        distance:
+          value: 10.05
+          units: km
+      - name: Philipsburg
+        distance:
+          value: 28.12
+          units: km
+      - name: Deer Lodge
+        distance:
+          value: 41.52
+          units: km
     - name: Hamilton
       region: MT
       lat: '46.2527'
       long: "-114.1598"
+      closest_rate_centers:
+      - name: Hamilton
+        distance:
+          value: 1.35
+          units: km
+      - name: Victor
+        distance:
+          value: 18.3
+          units: km
+      - name: Darby
+        distance:
+          value: 25.36
+          units: km
     - name: Happys Inn
       region: MT
       lat: '48.0638'
       long: "-115.1350"
+      closest_rate_centers:
+      - name: Marion
+        distance:
+          value: 34.98
+          units: km
+      - name: Libby
+        distance:
+          value: 47.31
+          units: km
+      - name: Noxon
+        distance:
+          value: 48.75
+          units: km
     - name: Hardin
       region: MT
       lat: '45.7422'
       long: "-107.6082"
+      closest_rate_centers:
+      - name: Hardin
+        distance:
+          value: 1.17
+          units: km
+      - name: Pompeys Pillar
+        distance:
+          value: 38.73
+          units: km
+      - name: Custer
+        distance:
+          value: 43.08
+          units: km
     - name: Hardy
       region: MT
       lat: '47.1806'
       long: "-111.8172"
+      closest_rate_centers:
+      - name: Cascade
+        distance:
+          value: 13.87
+          units: km
+      - name: Wolf Creek
+        distance:
+          value: 26.74
+          units: km
+      - name: Fort Shaw
+        distance:
+          value: 36.51
+          units: km
     - name: Harlem
       region: MT
       lat: '48.5318'
       long: "-108.7847"
+      closest_rate_centers:
+      - name: Harlem
+        distance:
+          value: 0.41
+          units: km
+      - name: Chinook
+        distance:
+          value: 33.11
+          units: km
+      - name: Dodson
+        distance:
+          value: 42.38
+          units: km
     - name: Harlowton
       region: MT
       lat: '46.4368'
       long: "-109.8353"
+      closest_rate_centers:
+      - name: Harlowton
+        distance:
+          value: 0.78
+          units: km
+      - name: Judith Gap
+        distance:
+          value: 27.34
+          units: km
+      - name: Martinsdale
+        distance:
+          value: 37.08
+          units: km
     - name: Harrison
       region: MT
       lat: '45.7045'
       long: "-111.7844"
+      closest_rate_centers:
+      - name: Harrison
+        distance:
+          value: 0.61
+          units: km
+      - name: Three Forks
+        distance:
+          value: 27.37
+          units: km
+      - name: Whitehall
+        distance:
+          value: 29.69
+          units: km
     - name: Hartland Colony
       region: MT
       lat: '48.9520'
       long: "-109.4483"
+      closest_rate_centers:
+      - name: North Havre
+        distance:
+          value: 23.7
+          units: km
+      - name: Chinook
+        distance:
+          value: 43.13
+          units: km
+      - name: Havre
+        distance:
+          value: 47.47
+          units: km
     - name: Haugan
       region: MT
       lat: '47.3887'
       long: "-115.4079"
+      closest_rate_centers:
+      - name: Haugan
+        distance:
+          value: 0.69
+          units: km
+      - name: Thompson Falls
+        distance:
+          value: 23.89
+          units: km
+      - name: St Regis
+        distance:
+          value: 26.27
+          units: km
     - name: Havre
       region: MT
       lat: '48.5427'
       long: "-109.6804"
+      closest_rate_centers:
+      - name: Havre
+        distance:
+          value: 1.36
+          units: km
+      - name: South Havre
+        distance:
+          value: 13.28
+          units: km
+      - name: North Havre
+        distance:
+          value: 28.82
+          units: km
     - name: Havre North
       region: MT
       lat: '48.5632'
       long: "-109.6713"
+      closest_rate_centers:
+      - name: Havre
+        distance:
+          value: 1.55
+          units: km
+      - name: South Havre
+        distance:
+          value: 15.64
+          units: km
+      - name: North Havre
+        distance:
+          value: 26.54
+          units: km
     - name: Hays
       region: MT
       lat: '48.0104'
       long: "-108.6607"
+      closest_rate_centers:
+      - name: Hays
+        distance:
+          value: 3.5
+          units: km
+      - name: South Malta
+        distance:
+          value: 52.67
+          units: km
+      - name: Dodson
+        distance:
+          value: 53.42
+          units: km
     - name: Heart Butte
       region: MT
       lat: '48.2905'
       long: "-112.8363"
+      closest_rate_centers:
+      - name: Dupuyer
+        distance:
+          value: 27.25
+          units: km
+      - name: East Glacier Park
+        distance:
+          value: 32.8
+          units: km
+      - name: Browning
+        distance:
+          value: 33.4
+          units: km
     - name: Hebgen Lake Estates
       region: MT
       lat: '44.7692'
       long: "-111.1905"
+      closest_rate_centers:
+      - name: West Yellowstone
+        distance:
+          value: 14.21
+          units: km
+      - name: Gardiner
+        distance:
+          value: 48.65
+          units: km
+      - name: Big Sky
+        distance:
+          value: 55.98
+          units: km
     - name: Helena
       region: MT
       lat: '46.5965'
       long: "-112.0202"
+      closest_rate_centers:
+      - name: Helena
+        distance:
+          value: 0.61
+          units: km
+      - name: Canyon Creek
+        distance:
+          value: 29.73
+          units: km
+      - name: Boulder
+        distance:
+          value: 40.3
+          units: km
     - name: Helena Flats
       region: MT
       lat: '48.2863'
       long: "-114.2369"
+      closest_rate_centers:
+      - name: Columbia Falls
+        distance:
+          value: 10.67
+          units: km
+      - name: Kalispell
+        distance:
+          value: 11.32
+          units: km
+      - name: Whitefish
+        distance:
+          value: 15.43
+          units: km
     - name: Helena Valley Northeast
       region: MT
       lat: '46.6974'
       long: "-111.9428"
+      closest_rate_centers:
+      - name: Helena
+        distance:
+          value: 12.3
+          units: km
+      - name: Canyon Creek
+        distance:
+          value: 27.56
+          units: km
+      - name: Wolf Creek
+        distance:
+          value: 36.09
+          units: km
     - name: Helena Valley Northwest
       region: MT
       lat: '46.7289'
       long: "-112.0631"
+      closest_rate_centers:
+      - name: Helena
+        distance:
+          value: 14.48
+          units: km
+      - name: Canyon Creek
+        distance:
+          value: 17.78
+          units: km
+      - name: Wolf Creek
+        distance:
+          value: 31.33
+          units: km
     - name: Helena Valley Southeast
       region: MT
       lat: '46.6219'
       long: "-111.8973"
+      closest_rate_centers:
+      - name: Helena
+        distance:
+          value: 9.89
+          units: km
+      - name: Canyon Creek
+        distance:
+          value: 34.79
+          units: km
+      - name: Townsend
+        distance:
+          value: 44.69
+          units: km
     - name: Helena Valley West Central
       region: MT
       lat: '46.6634'
       long: "-112.0604"
+      closest_rate_centers:
+      - name: Helena
+        distance:
+          value: 7.44
+          units: km
+      - name: Canyon Creek
+        distance:
+          value: 22.19
+          units: km
+      - name: Wolf Creek
+        distance:
+          value: 38.61
+          units: km
     - name: Helena West Side
       region: MT
       lat: '46.5966'
       long: "-112.1148"
+      closest_rate_centers:
+      - name: Helena
+        distance:
+          value: 7.01
+          units: km
+      - name: Canyon Creek
+        distance:
+          value: 25.66
+          units: km
+      - name: Avon
+        distance:
+          value: 37.16
+          units: km
     - name: Helmville
       region: MT
       lat: '46.8614'
       long: "-112.9629"
+      closest_rate_centers:
+      - name: Ovando
+        distance:
+          value: 21.13
+          units: km
+      - name: Lincoln
+        distance:
+          value: 23.66
+          units: km
+      - name: Drummond
+        distance:
+          value: 25.36
+          units: km
     - name: Heron
       region: MT
       lat: '48.0637'
       long: "-115.9800"
+      closest_rate_centers:
+      - name: Noxon
+        distance:
+          value: 16.95
+          units: km
+      - name: Troy
+        distance:
+          value: 44.42
+          units: km
+      - name: Libby
+        distance:
+          value: 47.81
+          units: km
     - name: Herron
       region: MT
       lat: '48.5341'
       long: "-109.7718"
+      closest_rate_centers:
+      - name: Havre
+        distance:
+          value: 8.03
+          units: km
+      - name: South Havre
+        distance:
+          value: 12.78
+          units: km
+      - name: Kremlin
+        distance:
+          value: 23.24
+          units: km
     - name: Hidden Lake Colony
       region: MT
       lat: '48.5987'
       long: "-112.6031"
+      closest_rate_centers:
+      - name: Cut Bank
+        distance:
+          value: 19.98
+          units: km
+      - name: North Cut Bank
+        distance:
+          value: 22.86
+          units: km
+      - name: Browning
+        distance:
+          value: 30.08
+          units: km
     - name: Highwood
       region: MT
       lat: '47.5992'
       long: "-110.7698"
+      closest_rate_centers:
+      - name: Highwood
+        distance:
+          value: 2.31
+          units: km
+      - name: Carter
+        distance:
+          value: 24.7
+          units: km
+      - name: Fort Benton
+        distance:
+          value: 26.12
+          units: km
     - name: Hilger
       region: MT
       lat: '47.2557'
       long: "-109.3571"
+      closest_rate_centers:
+      - name: Lewistown
+        distance:
+          value: 21.68
+          units: km
+      - name: Lewistown (Mid-Rivers)
+        distance:
+          value: 21.68
+          units: km
+      - name: Roy
+        distance:
+          value: 31.26
+          units: km
+      - name: Winifred
+        distance:
+          value: 33.73
+          units: km
     - name: Hilldale Colony
       region: MT
       lat: '48.8035'
       long: "-109.7832"
+      closest_rate_centers:
+      - name: North Havre
+        distance:
+          value: 7.68
+          units: km
+      - name: Havre
+        distance:
+          value: 29.51
+          units: km
+      - name: Kremlin
+        distance:
+          value: 33.37
+          units: km
     - name: Hillside Colony
       region: MT
       lat: '48.9789'
       long: "-112.0704"
+      closest_rate_centers:
+      - name: Sweetgrass
+        distance:
+          value: 8.42
+          units: km
+      - name: Sunburst
+        distance:
+          value: 15.77
+          units: km
+      - name: Kevin-Oilmont
+        distance:
+          value: 27.62
+          units: km
     - name: Hingham
       region: MT
       lat: '48.5554'
       long: "-110.4213"
+      closest_rate_centers:
+      - name: Hingham
+        distance:
+          value: 0.52
+          units: km
+      - name: Rudyard
+        distance:
+          value: 9.24
+          units: km
+      - name: Gildford
+        distance:
+          value: 9.29
+          units: km
     - name: Hinsdale
       region: MT
       lat: '48.4036'
       long: "-107.0582"
+      closest_rate_centers:
+      - name: Hinsdale
+        distance:
+          value: 1.76
+          units: km
+      - name: North Hinsdale
+        distance:
+          value: 4.39
+          units: km
+      - name: Saco
+        distance:
+          value: 21.81
+          units: km
     - name: Hobson
       region: MT
       lat: '46.9992'
       long: "-109.8731"
+      closest_rate_centers:
+      - name: Hobson
+        distance:
+          value: 0.38
+          units: km
+      - name: Moore
+        distance:
+          value: 14.09
+          units: km
+      - name: Stanford
+        distance:
+          value: 31.09
+          units: km
     - name: Hogeland
       region: MT
       lat: '48.8547'
       long: "-108.6624"
+      closest_rate_centers:
+      - name: Turner
+        distance:
+          value: 18.19
+          units: km
+      - name: Harlem
+        distance:
+          value: 36.6
+          units: km
+      - name: Chinook
+        distance:
+          value: 50.49
+          units: km
     - name: Homestead
       region: MT
       lat: '48.4202'
       long: "-104.5369"
+      closest_rate_centers:
+      - name: Medicine Lake
+        distance:
+          value: 9.18
+          units: km
+      - name: Froid
+        distance:
+          value: 10.09
+          units: km
+      - name: Froid Rural
+        distance:
+          value: 11.11
+          units: km
     - name: Horizon Colony
       region: MT
       lat: '48.7167'
       long: "-112.2276"
+      closest_rate_centers:
+      - name: North Cut Bank
+        distance:
+          value: 10.18
+          units: km
+      - name: Cut Bank
+        distance:
+          value: 12.21
+          units: km
+      - name: Ethridge
+        distance:
+          value: 19.1
+          units: km
     - name: Hot Springs
       region: MT
       lat: '47.6091'
       long: "-114.6705"
+      closest_rate_centers:
+      - name: Hot Springs
+        distance:
+          value: 1.01
+          units: km
+      - name: Plains
+        distance:
+          value: 23.26
+          units: km
+      - name: Elmo
+        distance:
+          value: 35.02
+          units: km
     - name: Hungry Horse
       region: MT
       lat: '48.3843'
       long: "-114.0652"
+      closest_rate_centers:
+      - name: Hungry Horse
+        distance:
+          value: 1.42
+          units: km
+      - name: Columbia Falls
+        distance:
+          value: 8.2
+          units: km
+      - name: West Glacier
+        distance:
+          value: 13.77
+          units: km
     - name: Huntley
       region: MT
       lat: '45.8995'
       long: "-108.3054"
+      closest_rate_centers:
+      - name: Huntley
+        distance:
+          value: 0.37
+          units: km
+      - name: Worden
+        distance:
+          value: 12.94
+          units: km
+      - name: Billings
+        distance:
+          value: 20.8
+          units: km
     - name: Huson
       region: MT
       lat: '47.0325'
       long: "-114.3400"
+      closest_rate_centers:
+      - name: Frenchtown
+        distance:
+          value: 9.06
+          units: km
+      - name: South Alberton
+        distance:
+          value: 9.91
+          units: km
+      - name: Alberton
+        distance:
+          value: 11.49
+          units: km
     - name: Hysham
       region: MT
       lat: '46.2909'
       long: "-107.2305"
+      closest_rate_centers:
+      - name: Hysham
+        distance:
+          value: 1.05
+          units: km
+      - name: Custer
+        distance:
+          value: 31.12
+          units: km
+      - name: Forsyth
+        distance:
+          value: 44.56
+          units: km
     - name: Indian Springs
       region: MT
       lat: '48.9534'
       long: "-115.0446"
+      closest_rate_centers:
+      - name: Eureka
+        distance:
+          value: 7.96
+          units: km
+      - name: Eureka Rural
+        distance:
+          value: 9.73
+          units: km
+      - name: Olney
+        distance:
+          value: 56.4
+          units: km
     - name: Inverness
       region: MT
       lat: '48.5599'
       long: "-110.7101"
+      closest_rate_centers:
+      - name: Joplin
+        distance:
+          value: 4.6
+          units: km
+      - name: Rudyard
+        distance:
+          value: 12.02
+          units: km
+      - name: Chester
+        distance:
+          value: 19.7
+          units: km
     - name: Ismay
       region: MT
       lat: '46.5002'
       long: "-104.7929"
+      closest_rate_centers:
+      - name: Plevna
+        distance:
+          value: 23.55
+          units: km
+      - name: Baker
+        distance:
+          value: 42.85
+          units: km
+      - name: Fallon
+        distance:
+          value: 44.64
+          units: km
     - name: Jackson
       region: MT
       lat: '45.3679'
       long: "-113.4097"
+      closest_rate_centers:
+      - name: Jackson
+        distance:
+          value: 0.36
+          units: km
+      - name: Wisdom
+        distance:
+          value: 27.89
+          units: km
+      - name: Grant
+        distance:
+          value: 44.13
+          units: km
     - name: Jardine
       region: MT
       lat: '45.0565'
       long: "-110.6186"
+      closest_rate_centers:
+      - name: Gardiner
+        distance:
+          value: 7.28
+          units: km
+      - name: Cooke City
+        distance:
+          value: 54.07
+          units: km
+      - name: Big Sky
+        distance:
+          value: 57.76
+          units: km
     - name: Jeffers
       region: MT
       lat: '45.3481'
       long: "-111.7037"
+      closest_rate_centers:
+      - name: Ennis
+        distance:
+          value: 1.79
+          units: km
+      - name: Virginia City
+        distance:
+          value: 19.29
+          units: km
+      - name: Big Sky
+        distance:
+          value: 33.44
+          units: km
     - name: Jefferson City
       region: MT
       lat: '46.3779'
       long: "-112.0305"
+      closest_rate_centers:
+      - name: Boulder
+        distance:
+          value: 16.65
+          units: km
+      - name: Helena
+        distance:
+          value: 24.88
+          units: km
+      - name: Townsend
+        distance:
+          value: 39.93
+          units: km
     - name: Jette
       region: MT
       lat: '47.7169'
       long: "-114.1905"
+      closest_rate_centers:
+      - name: Polson
+        distance:
+          value: 3.49
+          units: km
+      - name: Finley Point
+        distance:
+          value: 11.62
+          units: km
+      - name: Pablo
+        distance:
+          value: 14.27
+          units: km
     - name: Joliet
       region: MT
       lat: '45.4846'
       long: "-108.9723"
+      closest_rate_centers:
+      - name: Joliet
+        distance:
+          value: 0.28
+          units: km
+      - name: Fromberg
+        distance:
+          value: 11.55
+          units: km
+      - name: Bridger
+        distance:
+          value: 22.13
+          units: km
     - name: Joplin
       region: MT
       lat: '48.5590'
       long: "-110.7730"
+      closest_rate_centers:
+      - name: Joplin
+        distance:
+          value: 0.06
+          units: km
+      - name: Chester
+        distance:
+          value: 15.3
+          units: km
+      - name: Rudyard
+        distance:
+          value: 16.65
+          units: km
     - name: Jordan
       region: MT
       lat: '47.3211'
       long: "-106.9098"
+      closest_rate_centers:
+      - name: Jordan
+        distance:
+          value: 0.84
+          units: km
+      - name: Rock Springs
+        distance:
+          value: 72.75
+          units: km
+      - name: Fort Peck
+        distance:
+          value: 84.08
+          units: km
     - name: Judith Gap
       region: MT
       lat: '46.6791'
       long: "-109.7533"
+      closest_rate_centers:
+      - name: Judith Gap
+        distance:
+          value: 0.37
+          units: km
+      - name: Harlowton
+        distance:
+          value: 26.88
+          units: km
+      - name: Moore
+        distance:
+          value: 33.01
+          units: km
     - name: Kalispell
       region: MT
       lat: '48.2153'
       long: "-114.3274"
+      closest_rate_centers:
+      - name: Kalispell
+        distance:
+          value: 1.95
+          units: km
+      - name: Somers
+        distance:
+          value: 16.57
+          units: km
+      - name: Columbia Falls
+        distance:
+          value: 20.84
+          units: km
     - name: Kerr
       region: MT
       lat: '47.6771'
       long: "-114.1873"
+      closest_rate_centers:
+      - name: Polson
+        distance:
+          value: 2.63
+          units: km
+      - name: Pablo
+        distance:
+          value: 10.22
+          units: km
+      - name: Finley Point
+        distance:
+          value: 12.49
+          units: km
     - name: Kevin
       region: MT
       lat: '48.7457'
       long: "-111.9656"
+      closest_rate_centers:
+      - name: Kevin-Oilmont
+        distance:
+          value: 0.67
+          units: km
+      - name: Sunburst
+        distance:
+          value: 15.97
+          units: km
+      - name: Ethridge
+        distance:
+          value: 23.92
+          units: km
     - name: Kicking Horse
       region: MT
       lat: '47.4568'
       long: "-114.0717"
+      closest_rate_centers:
+      - name: Charlo
+        distance:
+          value: 7.51
+          units: km
+      - name: Ronan
+        distance:
+          value: 7.89
+          units: km
+      - name: St Ignatius
+        distance:
+          value: 14.62
+          units: km
     - name: Kila
       region: MT
       lat: '48.1216'
       long: "-114.4768"
+      closest_rate_centers:
+      - name: Marion
+        distance:
+          value: 14.33
+          units: km
+      - name: Kalispell
+        distance:
+          value: 14.7
+          units: km
+      - name: Somers
+        distance:
+          value: 19.0
+          units: km
     - name: Kilby Butte Colony
       region: MT
       lat: '46.4764'
       long: "-108.3602"
+      closest_rate_centers:
+      - name: Roundup
+        distance:
+          value: 14.12
+          units: km
+      - name: Musselshell
+        distance:
+          value: 21.54
+          units: km
+      - name: Melstone
+        distance:
+          value: 40.26
+          units: km
     - name: King Arthur Park
       region: MT
       lat: '45.6663'
       long: "-111.1268"
+      closest_rate_centers:
+      - name: Bozeman
+        distance:
+          value: 6.81
+          units: km
+      - name: Gallatin Gateway
+        distance:
+          value: 10.04
+          units: km
+      - name: Belgrade
+        distance:
+          value: 12.82
+          units: km
     - name: King Ranch Colony
       region: MT
       lat: '47.0572'
       long: "-109.6362"
+      closest_rate_centers:
+      - name: Moore
+        distance:
+          value: 10.26
+          units: km
+      - name: Lewistown (Mid-Rivers)
+        distance:
+          value: 16.0
+          units: km
+      - name: Lewistown
+        distance:
+          value: 16.0
+          units: km
+      - name: Hobson
+        distance:
+          value: 19.03
+          units: km
     - name: Kings Point
       region: MT
       lat: '47.7633'
       long: "-114.1499"
+      closest_rate_centers:
+      - name: Polson
+        distance:
+          value: 7.9
+          units: km
+      - name: Finley Point
+        distance:
+          value: 9.61
+          units: km
+      - name: Elmo
+        distance:
+          value: 16.69
+          units: km
     - name: Kingsbury Colony
       region: MT
       lat: '48.3044'
       long: "-112.4846"
+      closest_rate_centers:
+      - name: Dupuyer
+        distance:
+          value: 12.45
+          units: km
+      - name: Valier
+        distance:
+          value: 17.46
+          units: km
+      - name: Pendroy
+        distance:
+          value: 28.64
+          units: km
     - name: Klein
       region: MT
       lat: '46.3983'
       long: "-108.5525"
+      closest_rate_centers:
+      - name: Roundup
+        distance:
+          value: 6.04
+          units: km
+      - name: Lavina
+        distance:
+          value: 31.95
+          units: km
+      - name: Musselshell
+        distance:
+          value: 38.19
+          units: km
     - name: Kremlin
       region: MT
       lat: '48.5707'
       long: "-110.0862"
+      closest_rate_centers:
+      - name: Kremlin
+        distance:
+          value: 0.77
+          units: km
+      - name: Gildford
+        distance:
+          value: 15.47
+          units: km
+      - name: Hingham
+        distance:
+          value: 25.07
+          units: km
     - name: Lake Mary Ronan
       region: MT
       lat: '47.9291'
       long: "-114.3889"
+      closest_rate_centers:
+      - name: Elmo
+        distance:
+          value: 10.87
+          units: km
+      - name: Lakeside
+        distance:
+          value: 16.0
+          units: km
+      - name: Somers
+        distance:
+          value: 20.79
+          units: km
     - name: Lakeside
       region: MT
       lat: '48.0181'
       long: "-114.2274"
+      closest_rate_centers:
+      - name: Lakeside
+        distance:
+          value: 0.82
+          units: km
+      - name: Somers
+        distance:
+          value: 7.09
+          units: km
+      - name: Bigfork
+        distance:
+          value: 11.82
+          units: km
     - name: Lakeview
       region: MT
       lat: '44.6021'
       long: "-111.8124"
+      closest_rate_centers:
+      - name: West Yellowstone
+        distance:
+          value: 56.75
+          units: km
+      - name: Lima
+        distance:
+          value: 61.75
+          units: km
+      - name: Virginia City
+        distance:
+          value: 77.16
+          units: km
     - name: Lame Deer
       region: MT
       lat: '45.6176'
       long: "-106.6134"
+      closest_rate_centers:
+      - name: Lame Deer
+        distance:
+          value: 3.03
+          units: km
+      - name: Busby
+        distance:
+          value: 28.27
+          units: km
+      - name: Ashland
+        distance:
+          value: 28.51
+          units: km
+      - name: Ashland (Mid-Rivers)
+        distance:
+          value: 28.51
+          units: km
     - name: Landusky
       region: MT
       lat: '47.8982'
       long: "-108.6202"
+      closest_rate_centers:
+      - name: Hays
+        distance:
+          value: 11.8
+          units: km
+      - name: South Malta
+        distance:
+          value: 56.86
+          units: km
+      - name: Dodson
+        distance:
+          value: 62.63
+          units: km
     - name: Laredo
       region: MT
       lat: '48.4303'
       long: "-109.8860"
+      closest_rate_centers:
+      - name: South Havre
+        distance:
+          value: 12.64
+          units: km
+      - name: Box Elder
+        distance:
+          value: 15.95
+          units: km
+      - name: Havre
+        distance:
+          value: 21.0
+          units: km
     - name: Laurel
       region: MT
       lat: '45.6735'
       long: "-108.7707"
+      closest_rate_centers:
+      - name: Laurel
+        distance:
+          value: 0.97
+          units: km
+      - name: Billings
+        distance:
+          value: 23.38
+          units: km
+      - name: Molt
+        distance:
+          value: 24.74
+          units: km
     - name: Lavina
       region: MT
       lat: '46.2950'
       long: "-108.9388"
+      closest_rate_centers:
+      - name: Lavina
+        distance:
+          value: 0.56
+          units: km
+      - name: Broadview
+        distance:
+          value: 22.18
+          units: km
+      - name: Ryegate
+        distance:
+          value: 24.38
+          units: km
     - name: Lewistown
       region: MT
       lat: '47.0514'
       long: "-109.4524"
+      closest_rate_centers:
+      - name: Lewistown
+        distance:
+          value: 2.63
+          units: km
+      - name: Lewistown (Mid-Rivers)
+        distance:
+          value: 2.63
+          units: km
+      - name: Moore
+        distance:
+          value: 20.11
+          units: km
+      - name: Hobson
+        distance:
+          value: 32.42
+          units: km
     - name: Lewistown Heights
       region: MT
       lat: '47.0784'
       long: "-109.4735"
+      closest_rate_centers:
+      - name: Lewistown
+        distance:
+          value: 3.88
+          units: km
+      - name: Lewistown (Mid-Rivers)
+        distance:
+          value: 3.88
+          units: km
+      - name: Moore
+        distance:
+          value: 20.26
+          units: km
+      - name: Hobson
+        distance:
+          value: 31.51
+          units: km
     - name: Libby
       region: MT
       lat: '48.3870'
       long: "-115.5559"
+      closest_rate_centers:
+      - name: Libby
+        distance:
+          value: 0.29
+          units: km
+      - name: Troy
+        distance:
+          value: 26.01
+          units: km
+      - name: Noxon
+        distance:
+          value: 47.26
+          units: km
     - name: Lima
       region: MT
       lat: '44.6384'
       long: "-112.5917"
+      closest_rate_centers:
+      - name: Lima
+        distance:
+          value: 0.39
+          units: km
+      - name: Grant
+        distance:
+          value: 62.12
+          units: km
+      - name: Dillon
+        distance:
+          value: 64.16
+          units: km
     - name: Lincoln
       region: MT
       lat: '46.9530'
       long: "-112.6693"
+      closest_rate_centers:
+      - name: Lincoln
+        distance:
+          value: 1.19
+          units: km
+      - name: Canyon Creek
+        distance:
+          value: 34.65
+          units: km
+      - name: Ovando
+        distance:
+          value: 35.28
+          units: km
     - name: Lindisfarne
       region: MT
       lat: '47.8042'
       long: "-114.2121"
+      closest_rate_centers:
+      - name: Elmo
+        distance:
+          value: 10.56
+          units: km
+      - name: Polson
+        distance:
+          value: 12.98
+          units: km
+      - name: Finley Point
+        distance:
+          value: 15.94
+          units: km
     - name: Lindsay
       region: MT
       lat: '47.2249'
       long: "-105.1528"
+      closest_rate_centers:
+      - name: Lindsay
+        distance:
+          value: 0.59
+          units: km
+      - name: Bloomfield
+        distance:
+          value: 28.31
+          units: km
+      - name: West Glendive
+        distance:
+          value: 31.9
+          units: km
     - name: Little Bitterroot Lake
       region: MT
       lat: '48.1180'
       long: "-114.7206"
+      closest_rate_centers:
+      - name: Marion
+        distance:
+          value: 4.36
+          units: km
+      - name: Kalispell
+        distance:
+          value: 31.31
+          units: km
+      - name: Somers
+        distance:
+          value: 36.8
+          units: km
     - name: Little Browning
       region: MT
       lat: '48.6252'
       long: "-112.3500"
+      closest_rate_centers:
+      - name: Cut Bank
+        distance:
+          value: 1.37
+          units: km
+      - name: North Cut Bank
+        distance:
+          value: 11.81
+          units: km
+      - name: Ethridge
+        distance:
+          value: 18.06
+          units: km
     - name: Livingston
       region: MT
       lat: '45.6665'
       long: "-110.5539"
+      closest_rate_centers:
+      - name: Livingston
+        distance:
+          value: 0.52
+          units: km
+      - name: Clyde Park
+        distance:
+          value: 25.5
+          units: km
+      - name: Wilsall
+        distance:
+          value: 36.85
+          units: km
     - name: Lockwood
       region: MT
       lat: '45.8199'
       long: "-108.4072"
+      closest_rate_centers:
+      - name: Billings
+        distance:
+          value: 9.19
+          units: km
+      - name: Huntley
+        distance:
+          value: 12.23
+          units: km
+      - name: Worden
+        distance:
+          value: 24.47
+          units: km
     - name: Lodge Grass
       region: MT
       lat: '45.3142'
       long: "-107.3677"
+      closest_rate_centers:
+      - name: Lodge Grass
+        distance:
+          value: 1.0
+          units: km
+      - name: Wyola
+        distance:
+          value: 21.07
+          units: km
+      - name: North Parkman
+        distance:
+          value: 34.24
+          units: km
     - name: Lodge Pole
       region: MT
       lat: '48.0272'
       long: "-108.5518"
+      closest_rate_centers:
+      - name: Hays
+        distance:
+          value: 11.57
+          units: km
+      - name: South Malta
+        distance:
+          value: 44.62
+          units: km
+      - name: Dodson
+        distance:
+          value: 47.55
+          units: km
     - name: Logan
       region: MT
       lat: '45.8843'
       long: "-111.4236"
+      closest_rate_centers:
+      - name: Manhattan
+        distance:
+          value: 7.63
+          units: km
+      - name: Three Forks
+        distance:
+          value: 9.95
+          units: km
+      - name: Belgrade
+        distance:
+          value: 22.59
+          units: km
     - name: Lolo
       region: MT
       lat: '46.7756'
       long: "-114.1018"
+      closest_rate_centers:
+      - name: Missoula
+        distance:
+          value: 12.81
+          units: km
+      - name: Frenchtown
+        distance:
+          value: 28.35
+          units: km
+      - name: Stevensville
+        distance:
+          value: 29.79
+          units: km
     - name: Loma
       region: MT
       lat: '47.9511'
       long: "-110.4887"
+      closest_rate_centers:
+      - name: Loma
+        distance:
+          value: 1.61
+          units: km
+      - name: Fort Benton
+        distance:
+          value: 19.36
+          units: km
+      - name: Big Sandy
+        distance:
+          value: 37.7
+          units: km
     - name: Lonepine
       region: MT
       lat: '47.6945'
       long: "-114.6407"
+      closest_rate_centers:
+      - name: Hot Springs
+        distance:
+          value: 9.68
+          units: km
+      - name: Elmo
+        distance:
+          value: 27.09
+          units: km
+      - name: Plains
+        distance:
+          value: 32.03
+          units: km
     - name: Loring Colony
       region: MT
       lat: '48.7891'
       long: "-107.9687"
+      closest_rate_centers:
+      - name: Whitewater
+        distance:
+          value: 25.55
+          units: km
+      - name: Turner
+        distance:
+          value: 33.26
+          units: km
+      - name: Dodson
+        distance:
+          value: 47.53
+          units: km
     - name: Luther
       region: MT
       lat: '45.2852'
       long: "-109.4164"
+      closest_rate_centers:
+      - name: Red Lodge
+        distance:
+          value: 17.14
+          units: km
+      - name: Absarokee
+        distance:
+          value: 25.63
+          units: km
+      - name: Belfry
+        distance:
+          value: 35.92
+          units: km
     - name: Malmstrom AFB
       region: MT
       lat: '47.5059'
       long: "-111.1825"
+      closest_rate_centers:
+      - name: Great Falls
+        distance:
+          value: 8.2
+          units: km
+      - name: Stockett
+        distance:
+          value: 16.51
+          units: km
+      - name: Belt
+        distance:
+          value: 23.86
+          units: km
     - name: Malta
       region: MT
       lat: '48.3554'
       long: "-107.8702"
+      closest_rate_centers:
+      - name: Malta
+        distance:
+          value: 0.64
+          units: km
+      - name: South Malta
+        distance:
+          value: 19.04
+          units: km
+      - name: Dodson
+        distance:
+          value: 28.1
+          units: km
     - name: Mammoth
       region: MT
       lat: '45.6692'
       long: "-112.0176"
+      closest_rate_centers:
+      - name: Harrison
+        distance:
+          value: 18.52
+          units: km
+      - name: Whitehall
+        distance:
+          value: 22.59
+          units: km
+      - name: Sheridan
+        distance:
+          value: 27.83
+          units: km
     - name: Manhattan
       region: MT
       lat: '45.8622'
       long: "-111.3344"
+      closest_rate_centers:
+      - name: Manhattan
+        distance:
+          value: 0.62
+          units: km
+      - name: Belgrade
+        distance:
+          value: 15.52
+          units: km
+      - name: Three Forks
+        distance:
+          value: 17.12
+          units: km
     - name: Marion
       region: MT
       lat: '48.0858'
       long: "-114.6711"
+      closest_rate_centers:
+      - name: Marion
+        distance:
+          value: 1.74
+          units: km
+      - name: Kalispell
+        distance:
+          value: 29.19
+          units: km
+      - name: Somers
+        distance:
+          value: 32.92
+          units: km
     - name: Martin City
       region: MT
       lat: '48.3935'
       long: "-114.0308"
+      closest_rate_centers:
+      - name: Hungry Horse
+        distance:
+          value: 1.44
+          units: km
+      - name: Columbia Falls
+        distance:
+          value: 10.88
+          units: km
+      - name: West Glacier
+        distance:
+          value: 11.79
+          units: km
     - name: Martinsdale
       region: MT
       lat: '46.4548'
       long: "-110.3120"
+      closest_rate_centers:
+      - name: Martinsdale
+        distance:
+          value: 1.23
+          units: km
+      - name: Harlowton
+        distance:
+          value: 36.63
+          units: km
+      - name: White Sulphur Springs
+        distance:
+          value: 46.98
+          units: km
     - name: Marysville
       region: MT
       lat: '46.7502'
       long: "-112.3026"
+      closest_rate_centers:
+      - name: Canyon Creek
+        distance:
+          value: 6.1
+          units: km
+      - name: Helena
+        distance:
+          value: 26.97
+          units: km
+      - name: Avon
+        distance:
+          value: 28.31
+          units: km
     - name: Maverick Mountain
       region: MT
       lat: '45.4182'
       long: "-113.1109"
+      closest_rate_centers:
+      - name: Jackson
+        distance:
+          value: 24.02
+          units: km
+      - name: Wisdom
+        distance:
+          value: 34.35
+          units: km
+      - name: Melrose
+        distance:
+          value: 40.96
+          units: km
     - name: Maxville
       region: MT
       lat: '46.4760'
       long: "-113.2355"
+      closest_rate_centers:
+      - name: Philipsburg
+        distance:
+          value: 15.5
+          units: km
+      - name: Drummond
+        distance:
+          value: 22.56
+          units: km
+      - name: Deer Lodge
+        distance:
+          value: 39.56
+          units: km
     - name: McAllister
       region: MT
       lat: '45.4364'
       long: "-111.7252"
+      closest_rate_centers:
+      - name: Ennis
+        distance:
+          value: 9.82
+          units: km
+      - name: Virginia City
+        distance:
+          value: 23.15
+          units: km
+      - name: Harrison
+        distance:
+          value: 29.56
+          units: km
     - name: Medicine Lake
       region: MT
       lat: '48.5023'
       long: "-104.5018"
+      closest_rate_centers:
+      - name: Medicine Lake
+        distance:
+          value: 0.41
+          units: km
+      - name: Reserve
+        distance:
+          value: 11.46
+          units: km
+      - name: Froid Rural
+        distance:
+          value: 18.55
+          units: km
     - name: Melstone
       region: MT
       lat: '46.5987'
       long: "-107.8683"
+      closest_rate_centers:
+      - name: Melstone
+        distance:
+          value: 0.32
+          units: km
+      - name: Musselshell
+        distance:
+          value: 18.85
+          units: km
+      - name: Roundup
+        distance:
+          value: 53.99
+          units: km
     - name: Midway Colony
       region: MT
       lat: '48.0670'
       long: "-111.9935"
+      closest_rate_centers:
+      - name: Conrad
+        distance:
+          value: 11.34
+          units: km
+      - name: Brady
+        distance:
+          value: 11.47
+          units: km
+      - name: Pendroy
+        distance:
+          value: 22.94
+          units: km
     - name: Miles City
       region: MT
       lat: '46.4059'
       long: "-105.8385"
+      closest_rate_centers:
+      - name: Miles City
+        distance:
+          value: 0.78
+          units: km
+      - name: Miles City (Mid-Rivers)
+        distance:
+          value: 0.78
+          units: km
+      - name: South Miles City (Mid-Rivers)
+        distance:
+          value: 24.32
+          units: km
+      - name: South Miles City
+        distance:
+          value: 24.32
+          units: km
+      - name: Rosebud
+        distance:
+          value: 48.09
+          units: km
     - name: Milford Colony
       region: MT
       lat: '47.3282'
       long: "-112.2127"
+      closest_rate_centers:
+      - name: Augusta
+        distance:
+          value: 23.08
+          units: km
+      - name: Fort Shaw
+        distance:
+          value: 35.94
+          units: km
+      - name: Fairfield
+        distance:
+          value: 36.39
+          units: km
     - name: Miller Colony
       region: MT
       lat: '47.9257'
       long: "-112.2917"
+      closest_rate_centers:
+      - name: Choteau
+        distance:
+          value: 15.23
+          units: km
+      - name: Pendroy
+        distance:
+          value: 16.89
+          units: km
+      - name: Dupuyer
+        distance:
+          value: 33.46
+          units: km
     - name: Missoula
       region: MT
       lat: '46.8751'
       long: "-114.0214"
+      closest_rate_centers:
+      - name: Missoula
+        distance:
+          value: 1.65
+          units: km
+      - name: Frenchtown
+        distance:
+          value: 21.95
+          units: km
+      - name: Clinton
+        distance:
+          value: 26.38
+          units: km
     - name: Moccasin
       region: MT
       lat: '47.0527'
       long: "-109.9086"
+      closest_rate_centers:
+      - name: Hobson
+        distance:
+          value: 6.16
+          units: km
+      - name: Moore
+        distance:
+          value: 18.71
+          units: km
+      - name: Stanford
+        distance:
+          value: 25.83
+          units: km
     - name: Monarch
       region: MT
       lat: '47.1003'
       long: "-110.8448"
+      closest_rate_centers:
+      - name: Neihart
+        distance:
+          value: 9.85
+          units: km
+      - name: Raynesford
+        distance:
+          value: 21.03
+          units: km
+      - name: Belt
+        distance:
+          value: 31.94
+          units: km
     - name: Montana City
       region: MT
       lat: '46.5257'
       long: "-111.9401"
+      closest_rate_centers:
+      - name: Helena
+        distance:
+          value: 10.57
+          units: km
+      - name: Boulder
+        distance:
+          value: 34.48
+          units: km
+      - name: Canyon Creek
+        distance:
+          value: 39.69
+          units: km
     - name: Montaqua
       region: MT
       lat: '45.5072'
       long: "-108.9087"
+      closest_rate_centers:
+      - name: Joliet
+        distance:
+          value: 5.36
+          units: km
+      - name: Fromberg
+        distance:
+          value: 13.15
+          units: km
+      - name: Laurel
+        distance:
+          value: 20.94
+          units: km
     - name: Moore
       region: MT
       lat: '46.9750'
       long: "-109.6949"
+      closest_rate_centers:
+      - name: Moore
+        distance:
+          value: 0.36
+          units: km
+      - name: Hobson
+        distance:
+          value: 13.93
+          units: km
+      - name: Lewistown (Mid-Rivers)
+        distance:
+          value: 22.81
+          units: km
+      - name: Lewistown
+        distance:
+          value: 22.81
+          units: km
     - name: Mountain View Colony
       region: MT
       lat: '46.0680'
       long: "-108.7213"
+      closest_rate_centers:
+      - name: Broadview
+        distance:
+          value: 12.99
+          units: km
+      - name: Molt
+        distance:
+          value: 27.71
+          units: km
+      - name: Lavina
+        distance:
+          value: 30.85
+          units: km
     - name: Muddy
       region: MT
       lat: '45.5798'
       long: "-106.7754"
+      closest_rate_centers:
+      - name: Lame Deer
+        distance:
+          value: 10.44
+          units: km
+      - name: Busby
+        distance:
+          value: 14.99
+          units: km
+      - name: Birney
+        distance:
+          value: 36.13
+          units: km
     - name: Musselshell
       region: MT
       lat: '46.5063'
       long: "-108.0862"
+      closest_rate_centers:
+      - name: Musselshell
+        distance:
+          value: 1.38
+          units: km
+      - name: Melstone
+        distance:
+          value: 19.78
+          units: km
+      - name: Roundup
+        distance:
+          value: 35.35
+          units: km
     - name: Nashua
       region: MT
       lat: '48.1336'
       long: "-106.3571"
+      closest_rate_centers:
+      - name: Nashua
+        distance:
+          value: 0.24
+          units: km
+      - name: North Nashua
+        distance:
+          value: 3.2
+          units: km
+      - name: Fort Peck
+        distance:
+          value: 15.28
+          units: km
     - name: Neihart
       region: MT
       lat: '46.9352'
       long: "-110.7360"
+      closest_rate_centers:
+      - name: Neihart
+        distance:
+          value: 10.51
+          units: km
+      - name: Raynesford
+        distance:
+          value: 37.72
+          units: km
+      - name: Geyser
+        distance:
+          value: 40.97
+          units: km
     - name: New Miami Colony
       region: MT
       lat: '48.1912'
       long: "-112.2804"
+      closest_rate_centers:
+      - name: Pendroy
+        distance:
+          value: 12.75
+          units: km
+      - name: Valier
+        distance:
+          value: 13.27
+          units: km
+      - name: Dupuyer
+        distance:
+          value: 16.19
+          units: km
     - name: New Rockport Colony
       region: MT
       lat: '47.8598'
       long: "-112.0349"
+      closest_rate_centers:
+      - name: Choteau
+        distance:
+          value: 12.57
+          units: km
+      - name: Brady
+        distance:
+          value: 23.8
+          units: km
+      - name: Dutton
+        distance:
+          value: 23.93
+          units: km
     - name: Niarada
       region: MT
       lat: '47.8309'
       long: "-114.5578"
+      closest_rate_centers:
+      - name: Elmo
+        distance:
+          value: 15.86
+          units: km
+      - name: Hot Springs
+        distance:
+          value: 25.86
+          units: km
+      - name: Marion
+        distance:
+          value: 31.15
+          units: km
     - name: Nibbe
       region: MT
       lat: '45.9819'
       long: "-108.0272"
+      closest_rate_centers:
+      - name: Pompeys Pillar
+        distance:
+          value: 5.51
+          units: km
+      - name: Worden
+        distance:
+          value: 10.63
+          units: km
+      - name: Huntley
+        distance:
+          value: 23.04
+          units: km
     - name: Norris
       region: MT
       lat: '45.5731'
       long: "-111.6913"
+      closest_rate_centers:
+      - name: Harrison
+        distance:
+          value: 15.72
+          units: km
+      - name: Ennis
+        distance:
+          value: 25.17
+          units: km
+      - name: Virginia City
+        distance:
+          value: 36.79
+          units: km
     - name: North Browning
       region: MT
       lat: '48.5706'
       long: "-113.0267"
+      closest_rate_centers:
+      - name: Browning
+        distance:
+          value: 1.3
+          units: km
+      - name: East Glacier Park
+        distance:
+          value: 19.11
+          units: km
+      - name: St Mary
+        distance:
+          value: 34.98
+          units: km
     - name: North Harlem Colony
       region: MT
       lat: '48.5844'
       long: "-108.7556"
+      closest_rate_centers:
+      - name: Harlem
+        distance:
+          value: 5.83
+          units: km
+      - name: Chinook
+        distance:
+          value: 34.54
+          units: km
+      - name: Turner
+        distance:
+          value: 38.58
+          units: km
     - name: Noxon
       region: MT
       lat: '47.9850'
       long: "-115.7707"
+      closest_rate_centers:
+      - name: Noxon
+        distance:
+          value: 0.91
+          units: km
+      - name: Libby
+        distance:
+          value: 47.41
+          units: km
+      - name: Troy
+        distance:
+          value: 53.44
+          units: km
     - name: Nye
       region: MT
       lat: '45.4340'
       long: "-109.8069"
+      closest_rate_centers:
+      - name: Absarokee
+        distance:
+          value: 29.34
+          units: km
+      - name: Reedpoint
+        distance:
+          value: 36.93
+          units: km
+      - name: Big Timber
+        distance:
+          value: 45.86
+          units: km
     - name: Old Agency
       region: MT
       lat: '47.3226'
       long: "-114.2987"
+      closest_rate_centers:
+      - name: Dixon
+        distance:
+          value: 2.07
+          units: km
+      - name: St Ignatius
+        distance:
+          value: 15.78
+          units: km
+      - name: Charlo
+        distance:
+          value: 16.52
+          units: km
     - name: Olney
       region: MT
       lat: '48.5489'
       long: "-114.5721"
+      closest_rate_centers:
+      - name: Olney
+        distance:
+          value: 0.44
+          units: km
+      - name: Whitefish
+        distance:
+          value: 23.26
+          units: km
+      - name: Columbia Falls
+        distance:
+          value: 35.23
+          units: km
     - name: Opheim
       region: MT
       lat: '48.8571'
       long: "-106.4084"
+      closest_rate_centers:
+      - name: Opheim
+        distance:
+          value: 0.67
+          units: km
+      - name: Glentana
+        distance:
+          value: 14.04
+          units: km
+      - name: Larslan
+        distance:
+          value: 34.36
+          units: km
     - name: Orchard Homes
       region: MT
       lat: '46.8559'
       long: "-114.0778"
+      closest_rate_centers:
+      - name: Missoula
+        distance:
+          value: 5.93
+          units: km
+      - name: Frenchtown
+        distance:
+          value: 21.0
+          units: km
+      - name: Clinton
+        distance:
+          value: 29.62
+          units: km
     - name: Outlook
       region: MT
       lat: '48.8888'
       long: "-104.7849"
+      closest_rate_centers:
+      - name: Outlook
+        distance:
+          value: 0.48
+          units: km
+      - name: Plentywood
+        distance:
+          value: 21.41
+          units: km
+      - name: Flaxville
+        distance:
+          value: 30.21
+          units: km
     - name: Ovando
       region: MT
       lat: '47.0207'
       long: "-113.1717"
+      closest_rate_centers:
+      - name: Ovando
+        distance:
+          value: 3.57
+          units: km
+      - name: Seeley Lake
+        distance:
+          value: 31.8
+          units: km
+      - name: Potomac
+        distance:
+          value: 34.28
+          units: km
     - name: Pablo
       region: MT
       lat: '47.6035'
       long: "-114.1059"
+      closest_rate_centers:
+      - name: Pablo
+        distance:
+          value: 0.91
+          units: km
+      - name: Ronan
+        distance:
+          value: 8.64
+          units: km
+      - name: Polson
+        distance:
+          value: 10.74
+          units: km
     - name: Paradise
       region: MT
       lat: '47.3857'
       long: "-114.7989"
+      closest_rate_centers:
+      - name: Plains
+        distance:
+          value: 10.41
+          units: km
+      - name: Superior
+        distance:
+          value: 21.8
+          units: km
+      - name: St Regis
+        distance:
+          value: 24.27
+          units: km
     - name: Park City
       region: MT
       lat: '45.6310'
       long: "-108.9253"
+      closest_rate_centers:
+      - name: Laurel
+        distance:
+          value: 13.11
+          units: km
+      - name: Joliet
+        distance:
+          value: 16.71
+          units: km
+      - name: Columbus
+        distance:
+          value: 25.85
+          units: km
     - name: Parker School
       region: MT
       lat: '48.2468'
       long: "-109.7341"
+      closest_rate_centers:
+      - name: South Havre
+        distance:
+          value: 19.92
+          units: km
+      - name: Box Elder
+        distance:
+          value: 22.53
+          units: km
+      - name: Big Sandy
+        distance:
+          value: 28.87
+          units: km
     - name: Peerless
       region: MT
       lat: '48.7822'
       long: "-105.8304"
+      closest_rate_centers:
+      - name: Peerless
+        distance:
+          value: 1.01
+          units: km
+      - name: Scobey Rural
+        distance:
+          value: 26.89
+          units: km
+      - name: Scobey
+        distance:
+          value: 29.88
+          units: km
     - name: Pendroy
       region: MT
       lat: '48.0730'
       long: "-112.2992"
+      closest_rate_centers:
+      - name: Pendroy
+        distance:
+          value: 0.53
+          units: km
+      - name: Dupuyer
+        distance:
+          value: 19.93
+          units: km
+      - name: Valier
+        distance:
+          value: 26.47
+          units: km
     - name: Philipsburg
       region: MT
       lat: '46.3324'
       long: "-113.2960"
+      closest_rate_centers:
+      - name: Philipsburg
+        distance:
+          value: 1.34
+          units: km
+      - name: Anaconda
+        distance:
+          value: 35.32
+          units: km
+      - name: Drummond
+        distance:
+          value: 39.18
+          units: km
     - name: Piltzville
       region: MT
       lat: '46.8582'
       long: "-113.8591"
+      closest_rate_centers:
+      - name: Missoula
+        distance:
+          value: 10.92
+          units: km
+      - name: Clinton
+        distance:
+          value: 14.82
+          units: km
+      - name: Potomac
+        distance:
+          value: 21.68
+          units: km
     - name: Pine Creek
       region: MT
       lat: '45.5078'
       long: "-110.5724"
+      closest_rate_centers:
+      - name: Livingston
+        distance:
+          value: 17.53
+          units: km
+      - name: Bozeman
+        distance:
+          value: 40.87
+          units: km
+      - name: Clyde Park
+        distance:
+          value: 42.93
+          units: km
     - name: Pinesdale
       region: MT
       lat: '46.3339'
       long: "-114.2232"
+      closest_rate_centers:
+      - name: Victor
+        distance:
+          value: 10.79
+          units: km
+      - name: Hamilton
+        distance:
+          value: 11.58
+          units: km
+      - name: Stevensville
+        distance:
+          value: 21.71
+          units: km
     - name: Pinnacle
       region: MT
       lat: '48.3555'
       long: "-113.6484"
+      closest_rate_centers:
+      - name: West Glacier
+        distance:
+          value: 28.62
+          units: km
+      - name: Hungry Horse
+        distance:
+          value: 29.56
+          units: km
+      - name: East Glacier Park
+        distance:
+          value: 33.97
+          units: km
     - name: Pioneer Junction
       region: MT
       lat: '48.3157'
       long: "-115.5182"
+      closest_rate_centers:
+      - name: Libby
+        distance:
+          value: 8.19
+          units: km
+      - name: Troy
+        distance:
+          value: 31.82
+          units: km
+      - name: Noxon
+        distance:
+          value: 41.19
+          units: km
     - name: Plains
       region: MT
       lat: '47.4602'
       long: "-114.8842"
+      closest_rate_centers:
+      - name: Plains
+        distance:
+          value: 0.21
+          units: km
+      - name: Hot Springs
+        distance:
+          value: 23.69
+          units: km
+      - name: St Regis
+        distance:
+          value: 24.27
+          units: km
     - name: Pleasant Valley Colony
       region: MT
       lat: '47.3379'
       long: "-111.0449"
+      closest_rate_centers:
+      - name: Stockett
+        distance:
+          value: 9.34
+          units: km
+      - name: Belt
+        distance:
+          value: 10.45
+          units: km
+      - name: Raynesford
+        distance:
+          value: 24.32
+          units: km
     - name: Plentywood
       region: MT
       lat: '48.7760'
       long: "-104.5574"
+      closest_rate_centers:
+      - name: Plentywood
+        distance:
+          value: 0.57
+          units: km
+      - name: Reserve
+        distance:
+          value: 20.62
+          units: km
+      - name: Outlook
+        distance:
+          value: 20.76
+          units: km
     - name: Plevna
       region: MT
       lat: '46.4184'
       long: "-104.5186"
+      closest_rate_centers:
+      - name: Plevna
+        distance:
+          value: 1.17
+          units: km
+      - name: Baker
+        distance:
+          value: 20.09
+          units: km
+      - name: Carlyle
+        distance:
+          value: 33.09
+          units: km
     - name: Polebridge
       region: MT
       lat: '48.7622'
       long: "-114.2818"
+      closest_rate_centers:
+      - name: Olney
+        distance:
+          value: 32.06
+          units: km
+      - name: West Glacier
+        distance:
+          value: 37.41
+          units: km
+      - name: Whitefish
+        distance:
+          value: 39.78
+          units: km
     - name: Polson
       region: MT
       lat: '47.6886'
       long: "-114.1411"
+      closest_rate_centers:
+      - name: Polson
+        distance:
+          value: 1.54
+          units: km
+      - name: Finley Point
+        distance:
+          value: 8.82
+          units: km
+      - name: Pablo
+        distance:
+          value: 10.16
+          units: km
     - name: Pompeys Pillar
       region: MT
       lat: '45.9906'
       long: "-107.9504"
+      closest_rate_centers:
+      - name: Pompeys Pillar
+        distance:
+          value: 0.54
+          units: km
+      - name: Worden
+        distance:
+          value: 16.62
+          units: km
+      - name: Huntley
+        distance:
+          value: 28.92
+          units: km
     - name: Pondera Colony
       region: MT
       lat: '48.2399'
       long: "-112.4181"
+      closest_rate_centers:
+      - name: Dupuyer
+        distance:
+          value: 7.94
+          units: km
+      - name: Valier
+        distance:
+          value: 14.69
+          units: km
+      - name: Pendroy
+        distance:
+          value: 20.02
+          units: km
     - name: Ponderosa Pines
       region: MT
       lat: '46.0374'
       long: "-111.3500"
+      closest_rate_centers:
+      - name: Manhattan
+        distance:
+          value: 20.14
+          units: km
+      - name: Three Forks
+        distance:
+          value: 22.65
+          units: km
+      - name: Belgrade
+        distance:
+          value: 31.99
+          units: km
     - name: Pony
       region: MT
       lat: '45.6628'
       long: "-111.8826"
+      closest_rate_centers:
+      - name: Harrison
+        distance:
+          value: 8.73
+          units: km
+      - name: Whitehall
+        distance:
+          value: 27.72
+          units: km
+      - name: Sheridan
+        distance:
+          value: 33.65
+          units: km
     - name: Poplar
       region: MT
       lat: '48.1105'
       long: "-105.1969"
+      closest_rate_centers:
+      - name: Poplar
+        distance:
+          value: 0.18
+          units: km
+      - name: Brockton
+        distance:
+          value: 21.16
+          units: km
+      - name: South Wolf Point
+        distance:
+          value: 24.21
+          units: km
     - name: Potomac
       region: MT
       lat: '46.8813'
       long: "-113.5751"
+      closest_rate_centers:
+      - name: Potomac
+        distance:
+          value: 0.3
+          units: km
+      - name: Clinton
+        distance:
+          value: 15.51
+          units: km
+      - name: Missoula
+        distance:
+          value: 32.48
+          units: km
     - name: Power
       region: MT
       lat: '47.7203'
       long: "-111.6944"
+      closest_rate_centers:
+      - name: Power
+        distance:
+          value: 0.86
+          units: km
+      - name: Dutton
+        distance:
+          value: 14.55
+          units: km
+      - name: Fairfield
+        distance:
+          value: 24.61
+          units: km
     - name: Prairie Elk Colony
       region: MT
       lat: '48.0147'
       long: "-105.7981"
+      closest_rate_centers:
+      - name: Wolf Point
+        distance:
+          value: 14.42
+          units: km
+      - name: Frazer
+        distance:
+          value: 19.02
+          units: km
+      - name: South Wolf Point
+        distance:
+          value: 25.22
+          units: km
     - name: Pray
       region: MT
       lat: '45.4150'
       long: "-110.6533"
+      closest_rate_centers:
+      - name: Livingston
+        distance:
+          value: 28.75
+          units: km
+      - name: Gardiner
+        distance:
+          value: 41.51
+          units: km
+      - name: Bozeman
+        distance:
+          value: 41.76
+          units: km
     - name: Pryor
       region: MT
       lat: '45.4125'
       long: "-108.5291"
+      closest_rate_centers:
+      - name: Fromberg
+        distance:
+          value: 30.19
+          units: km
+      - name: Bridger
+        distance:
+          value: 33.12
+          units: km
+      - name: Laurel
+        distance:
+          value: 33.62
+          units: km
     - name: Racetrack
       region: MT
       lat: '46.2770'
       long: "-112.7436"
+      closest_rate_centers:
+      - name: Warm Springs
+        distance:
+          value: 11.77
+          units: km
+      - name: Deer Lodge
+        distance:
+          value: 12.92
+          units: km
+      - name: Anaconda
+        distance:
+          value: 23.28
+          units: km
     - name: Rader Creek
       region: MT
       lat: '45.8456'
       long: "-112.3161"
+      closest_rate_centers:
+      - name: Whitehall
+        distance:
+          value: 17.72
+          units: km
+      - name: Butte
+        distance:
+          value: 22.83
+          units: km
+      - name: Twin Bridges
+        distance:
+          value: 34.04
+          units: km
     - name: Radersburg
       region: MT
       lat: '46.1965'
       long: "-111.6316"
+      closest_rate_centers:
+      - name: Townsend
+        distance:
+          value: 15.95
+          units: km
+      - name: Three Forks
+        distance:
+          value: 34.66
+          units: km
+      - name: Boulder
+        distance:
+          value: 37.52
+          units: km
     - name: Rapelje
       region: MT
       lat: '45.9720'
       long: "-109.2579"
+      closest_rate_centers:
+      - name: Rapelje
+        distance:
+          value: 0.8
+          units: km
+      - name: Molt
+        distance:
+          value: 27.91
+          units: km
+      - name: Broadview
+        distance:
+          value: 32.17
+          units: km
     - name: Ravalli
       region: MT
       lat: '47.2799'
       long: "-114.1658"
+      closest_rate_centers:
+      - name: St Ignatius
+        distance:
+          value: 7.7
+          units: km
+      - name: Dixon
+        distance:
+          value: 11.53
+          units: km
+      - name: Arlee
+        distance:
+          value: 14.07
+          units: km
     - name: Raynesford
       region: MT
       lat: '47.2701'
       long: "-110.7320"
+      closest_rate_centers:
+      - name: Raynesford
+        distance:
+          value: 0.57
+          units: km
+      - name: Geyser
+        distance:
+          value: 17.7
+          units: km
+      - name: Belt
+        distance:
+          value: 19.07
+          units: km
     - name: Red Lodge
       region: MT
       lat: '45.1933'
       long: "-109.2501"
+      closest_rate_centers:
+      - name: Red Lodge
+        distance:
+          value: 1.19
+          units: km
+      - name: Belfry
+        distance:
+          value: 19.97
+          units: km
+      - name: Bridger
+        distance:
+          value: 28.33
+          units: km
     - name: Redstone
       region: MT
       lat: '48.8217'
       long: "-104.9432"
+      closest_rate_centers:
+      - name: Outlook
+        distance:
+          value: 14.25
+          units: km
+      - name: Flaxville
+        distance:
+          value: 17.31
+          units: km
+      - name: Flaxville Rural
+        distance:
+          value: 19.18
+          units: km
     - name: Reed Point
       region: MT
       lat: '45.7071'
       long: "-109.5471"
+      closest_rate_centers:
+      - name: Reedpoint
+        distance:
+          value: 0.45
+          units: km
+      - name: Absarokee
+        distance:
+          value: 22.73
+          units: km
+      - name: Columbus
+        distance:
+          value: 23.62
+          units: km
     - name: Reserve
       region: MT
       lat: '48.6024'
       long: "-104.4677"
+      closest_rate_centers:
+      - name: Reserve
+        distance:
+          value: 0.49
+          units: km
+      - name: Medicine Lake
+        distance:
+          value: 11.72
+          units: km
+      - name: Plentywood
+        distance:
+          value: 20.0
+          units: km
     - name: Rexford
       region: MT
       lat: '48.8998'
       long: "-115.1714"
+      closest_rate_centers:
+      - name: Eureka
+        distance:
+          value: 8.97
+          units: km
+      - name: Eureka Rural
+        distance:
+          value: 12.12
+          units: km
+      - name: Olney
+        distance:
+          value: 58.37
+          units: km
     - name: Rhodes
       region: MT
       lat: '48.2793'
       long: "-114.4736"
+      closest_rate_centers:
+      - name: Kalispell
+        distance:
+          value: 14.65
+          units: km
+      - name: Whitefish
+        distance:
+          value: 17.22
+          units: km
+      - name: Columbia Falls
+        distance:
+          value: 24.42
+          units: km
     - name: Riceville
       region: MT
       lat: '47.2202'
       long: "-110.9262"
+      closest_rate_centers:
+      - name: Raynesford
+        distance:
+          value: 15.56
+          units: km
+      - name: Belt
+        distance:
+          value: 18.06
+          units: km
+      - name: Stockett
+        distance:
+          value: 23.66
+          units: km
     - name: Richey
       region: MT
       lat: '47.6439'
       long: "-105.0696"
+      closest_rate_centers:
+      - name: Richey
+        distance:
+          value: 0.27
+          units: km
+      - name: Bloomfield
+        distance:
+          value: 26.86
+          units: km
+      - name: Lambert
+        distance:
+          value: 33.59
+          units: km
     - name: Rimini
       region: MT
       lat: '46.4919'
       long: "-112.2496"
+      closest_rate_centers:
+      - name: Helena
+        distance:
+          value: 21.17
+          units: km
+      - name: Avon
+        distance:
+          value: 29.41
+          units: km
+      - name: Boulder
+        distance:
+          value: 29.84
+          units: km
     - name: Rimrock Colony
       region: MT
       lat: '48.8954'
       long: "-112.0952"
+      closest_rate_centers:
+      - name: Sunburst
+        distance:
+          value: 13.64
+          units: km
+      - name: Sweetgrass
+        distance:
+          value: 14.55
+          units: km
+      - name: Kevin-Oilmont
+        distance:
+          value: 19.8
+          units: km
     - name: Riverbend
       region: MT
       lat: '47.1472'
       long: "-114.8319"
+      closest_rate_centers:
+      - name: Superior
+        distance:
+          value: 7.09
+          units: km
+      - name: St Regis
+        distance:
+          value: 25.28
+          units: km
+      - name: Alberton
+        distance:
+          value: 30.81
+          units: km
     - name: Riverview Colony
       region: MT
       lat: '48.1823'
       long: "-111.0327"
+      closest_rate_centers:
+      - name: South Chester
+        distance:
+          value: 12.06
+          units: km
+      - name: East Conrad
+        distance:
+          value: 34.04
+          units: km
+      - name: Chester
+        distance:
+          value: 36.45
+          units: km
     - name: Roberts
       region: MT
       lat: '45.3437'
       long: "-109.1817"
+      closest_rate_centers:
+      - name: Red Lodge
+        distance:
+          value: 18.74
+          units: km
+      - name: Fromberg
+        distance:
+          value: 21.49
+          units: km
+      - name: Bridger
+        distance:
+          value: 21.69
+          units: km
     - name: Rockport Colony
       region: MT
       lat: '48.0673'
       long: "-112.4761"
+      closest_rate_centers:
+      - name: Pendroy
+        distance:
+          value: 12.99
+          units: km
+      - name: Dupuyer
+        distance:
+          value: 14.07
+          units: km
+      - name: Valier
+        distance:
+          value: 31.69
+          units: km
     - name: Rockvale
       region: MT
       lat: '45.5187'
       long: "-108.8713"
+      closest_rate_centers:
+      - name: Joliet
+        distance:
+          value: 8.53
+          units: km
+      - name: Fromberg
+        distance:
+          value: 14.81
+          units: km
+      - name: Laurel
+        distance:
+          value: 18.38
+          units: km
     - name: Rocky Boy West
       region: MT
       lat: '48.2972'
       long: "-109.9918"
+      closest_rate_centers:
+      - name: Box Elder
+        distance:
+          value: 3.04
+          units: km
+      - name: Big Sandy
+        distance:
+          value: 16.04
+          units: km
+      - name: South Havre
+        distance:
+          value: 24.94
+          units: km
     - name: Rocky Boy's Agency
       region: MT
       lat: '48.2590'
       long: "-109.7648"
+      closest_rate_centers:
+      - name: South Havre
+        distance:
+          value: 18.88
+          units: km
+      - name: Box Elder
+        distance:
+          value: 19.93
+          units: km
+      - name: Big Sandy
+        distance:
+          value: 27.12
+          units: km
     - name: Rocky Point
       region: MT
       lat: '47.7323'
       long: "-114.1855"
+      closest_rate_centers:
+      - name: Polson
+        distance:
+          value: 4.78
+          units: km
+      - name: Finley Point
+        distance:
+          value: 11.25
+          units: km
+      - name: Pablo
+        distance:
+          value: 15.73
+          units: km
     - name: Rollins
       region: MT
       lat: '47.9106'
       long: "-114.1948"
+      closest_rate_centers:
+      - name: Lakeside
+        distance:
+          value: 11.79
+          units: km
+      - name: Yellow Bay
+        distance:
+          value: 12.42
+          units: km
+      - name: Elmo
+        distance:
+          value: 13.98
+          units: km
     - name: Ronan
       region: MT
       lat: '47.5287'
       long: "-114.1005"
+      closest_rate_centers:
+      - name: Ronan
+        distance:
+          value: 0.62
+          units: km
+      - name: Pablo
+        distance:
+          value: 7.88
+          units: km
+      - name: Charlo
+        distance:
+          value: 10.88
+          units: km
     - name: Roscoe
       region: MT
       lat: '45.3517'
       long: "-109.4932"
+      closest_rate_centers:
+      - name: Absarokee
+        distance:
+          value: 18.45
+          units: km
+      - name: Red Lodge
+        distance:
+          value: 26.59
+          units: km
+      - name: Columbus
+        distance:
+          value: 37.22
+          units: km
     - name: Rosebud
       region: MT
       lat: '46.2711'
       long: "-106.4468"
+      closest_rate_centers:
+      - name: Rosebud
+        distance:
+          value: 1.21
+          units: km
+      - name: Forsyth
+        distance:
+          value: 15.76
+          units: km
+      - name: Colstrip
+        distance:
+          value: 44.12
+          units: km
     - name: Roundup
       region: MT
       lat: '46.4484'
       long: "-108.5401"
+      closest_rate_centers:
+      - name: Roundup
+        distance:
+          value: 0.42
+          units: km
+      - name: Lavina
+        distance:
+          value: 35.1
+          units: km
+      - name: Musselshell
+        distance:
+          value: 35.66
+          units: km
     - name: Roy
       region: MT
       lat: '47.3343'
       long: "-108.9600"
+      closest_rate_centers:
+      - name: Roy
+        distance:
+          value: 0.08
+          units: km
+      - name: Grass Range
+        distance:
+          value: 36.44
+          units: km
+      - name: Winifred
+        distance:
+          value: 39.91
+          units: km
     - name: Rudyard
       region: MT
       lat: '48.5599'
       long: "-110.5500"
+      closest_rate_centers:
+      - name: Rudyard
+        distance:
+          value: 0.32
+          units: km
+      - name: Hingham
+        distance:
+          value: 9.1
+          units: km
+      - name: Joplin
+        distance:
+          value: 16.38
+          units: km
     - name: Ryegate
       region: MT
       lat: '46.2985'
       long: "-109.2538"
+      closest_rate_centers:
+      - name: Ryegate
+        distance:
+          value: 0.27
+          units: km
+      - name: Lavina
+        distance:
+          value: 23.86
+          units: km
+      - name: North Ryegate
+        distance:
+          value: 24.6
+          units: km
     - name: Saco
       region: MT
       lat: '48.4571'
       long: "-107.3414"
+      closest_rate_centers:
+      - name: Saco
+        distance:
+          value: 0.25
+          units: km
+      - name: Hinsdale
+        distance:
+          value: 20.31
+          units: km
+      - name: North Hinsdale
+        distance:
+          value: 20.58
+          units: km
     - name: Saddle Butte
       region: MT
       lat: '48.5235'
       long: "-109.6449"
+      closest_rate_centers:
+      - name: Havre
+        distance:
+          value: 3.29
+          units: km
+      - name: South Havre
+        distance:
+          value: 12.05
+          units: km
+      - name: North Havre
+        distance:
+          value: 31.05
+          units: km
     - name: Sage Creek Colony
       region: MT
       lat: '48.9288'
       long: "-110.9723"
+      closest_rate_centers:
+      - name: Joplin
+        distance:
+          value: 43.69
+          units: km
+      - name: Chester
+        distance:
+          value: 46.9
+          units: km
+      - name: Rudyard
+        distance:
+          value: 51.71
+          units: km
     - name: Saint Mary
       region: MT
       lat: '48.7428'
       long: "-113.4275"
+      closest_rate_centers:
+      - name: St Mary
+        distance:
+          value: 0.14
+          units: km
+      - name: East Glacier Park
+        distance:
+          value: 36.33
+          units: km
+      - name: Browning
+        distance:
+          value: 36.34
+          units: km
     - name: Saltese
       region: MT
       lat: '47.4115'
       long: "-115.5120"
+      closest_rate_centers:
+      - name: Haugan
+        distance:
+          value: 8.75
+          units: km
+      - name: Thompson Falls
+        distance:
+          value: 24.49
+          units: km
+      - name: St Regis
+        distance:
+          value: 34.47
+          units: km
     - name: Sand Coulee
       region: MT
       lat: '47.4024'
       long: "-111.1726"
+      closest_rate_centers:
+      - name: Stockett
+        distance:
+          value: 4.98
+          units: km
+      - name: Great Falls
+        distance:
+          value: 14.76
+          units: km
+      - name: Belt
+        distance:
+          value: 18.93
+          units: km
     - name: Sangrey
       region: MT
       lat: '48.2817'
       long: "-109.8167"
+      closest_rate_centers:
+      - name: Box Elder
+        distance:
+          value: 15.52
+          units: km
+      - name: South Havre
+        distance:
+          value: 17.67
+          units: km
+      - name: Big Sandy
+        distance:
+          value: 24.64
+          units: km
     - name: Santa Rita
       region: MT
       lat: '48.6984'
       long: "-112.3188"
+      closest_rate_centers:
+      - name: North Cut Bank
+        distance:
+          value: 4.94
+          units: km
+      - name: Cut Bank
+        distance:
+          value: 7.31
+          units: km
+      - name: Ethridge
+        distance:
+          value: 21.03
+          units: km
     - name: Sapphire Ridge
       region: MT
       lat: '46.8866'
       long: "-110.2522"
+      closest_rate_centers:
+      - name: Stanford
+        distance:
+          value: 29.58
+          units: km
+      - name: Hobson
+        distance:
+          value: 31.46
+          units: km
+      - name: Neihart
+        distance:
+          value: 42.52
+          units: km
     - name: Savage
       region: MT
       lat: '47.4536'
       long: "-104.3414"
+      closest_rate_centers:
+      - name: Savage
+        distance:
+          value: 0.74
+          units: km
+      - name: West Homesteaders Gap
+        distance:
+          value: 22.87
+          units: km
+      - name: West Sidney
+        distance:
+          value: 24.51
+          units: km
     - name: Scobey
       region: MT
       lat: '48.7904'
       long: "-105.4206"
+      closest_rate_centers:
+      - name: Scobey
+        distance:
+          value: 0.22
+          units: km
+      - name: Scobey Rural
+        distance:
+          value: 3.93
+          units: km
+      - name: Flaxville
+        distance:
+          value: 17.83
+          units: km
     - name: Sedan
       region: MT
       lat: '45.9653'
       long: "-110.8888"
+      closest_rate_centers:
+      - name: Wilsall
+        distance:
+          value: 18.49
+          units: km
+      - name: Clyde Park
+        distance:
+          value: 23.56
+          units: km
+      - name: Belgrade
+        distance:
+          value: 30.64
+          units: km
     - name: Seeley Lake
       region: MT
       lat: '47.1624'
       long: "-113.4547"
+      closest_rate_centers:
+      - name: Seeley Lake
+        distance:
+          value: 5.21
+          units: km
+      - name: Ovando
+        distance:
+          value: 29.8
+          units: km
+      - name: Potomac
+        distance:
+          value: 32.31
+          units: km
     - name: Seville Colony
       region: MT
       lat: '48.7058'
       long: "-112.5929"
+      closest_rate_centers:
+      - name: North Cut Bank
+        distance:
+          value: 16.97
+          units: km
+      - name: Cut Bank
+        distance:
+          value: 20.46
+          units: km
+      - name: Browning
+        distance:
+          value: 34.22
+          units: km
     - name: Shawmut
       region: MT
       lat: '46.3447'
       long: "-109.5123"
+      closest_rate_centers:
+      - name: Ryegate
+        distance:
+          value: 20.29
+          units: km
+      - name: Harlowton
+        distance:
+          value: 27.03
+          units: km
+      - name: North Ryegate
+        distance:
+          value: 35.88
+          units: km
     - name: Shelby
       region: MT
       lat: '48.5031'
       long: "-111.8614"
+      closest_rate_centers:
+      - name: Shelby
+        distance:
+          value: 0.54
+          units: km
+      - name: Ethridge
+        distance:
+          value: 20.45
+          units: km
+      - name: Kevin-Oilmont
+        distance:
+          value: 27.47
+          units: km
     - name: Shepherd
       region: MT
       lat: '45.9468'
       long: "-108.3462"
+      closest_rate_centers:
+      - name: Huntley
+        distance:
+          value: 6.05
+          units: km
+      - name: Worden
+        distance:
+          value: 14.44
+          units: km
+      - name: Billings
+        distance:
+          value: 22.66
+          units: km
     - name: Sheridan
       region: MT
       lat: '45.4588'
       long: "-112.1946"
+      closest_rate_centers:
+      - name: Sheridan
+        distance:
+          value: 1.08
+          units: km
+      - name: Twin Bridges
+        distance:
+          value: 13.48
+          units: km
+      - name: Virginia City
+        distance:
+          value: 27.52
+          units: km
     - name: Sidney
       region: MT
       lat: '47.7152'
       long: "-104.1679"
+      closest_rate_centers:
+      - name: Sidney (Mid-Rivers)
+        distance:
+          value: 1.37
+          units: km
+      - name: Sidney
+        distance:
+          value: 1.37
+          units: km
+      - name: West Sidney
+        distance:
+          value: 14.52
+          units: km
+      - name: Fairview (Mid-Rivers)
+        distance:
+          value: 17.8
+          units: km
+      - name: Fairview
+        distance:
+          value: 17.8
+          units: km
     - name: Silesia
       region: MT
       lat: '45.5560'
       long: "-108.8368"
+      closest_rate_centers:
+      - name: Joliet
+        distance:
+          value: 13.04
+          units: km
+      - name: Laurel
+        distance:
+          value: 13.48
+          units: km
+      - name: Fromberg
+        distance:
+          value: 19.53
+          units: km
     - name: Silver Gate
       region: MT
       lat: '45.0198'
       long: "-109.9829"
+      closest_rate_centers:
+      - name: Cooke City
+        distance:
+          value: 4.04
+          units: km
+      - name: Gardiner
+        distance:
+          value: 57.16
+          units: km
+      - name: Red Lodge
+        distance:
+          value: 60.11
+          units: km
     - name: Silver Star
       region: MT
       lat: '45.6875'
       long: "-112.2850"
+      closest_rate_centers:
+      - name: Twin Bridges
+        distance:
+          value: 16.72
+          units: km
+      - name: Whitehall
+        distance:
+          value: 25.01
+          units: km
+      - name: Sheridan
+        distance:
+          value: 27.46
+          units: km
     - name: Simms
       region: MT
       lat: '47.4931'
       long: "-111.9474"
+      closest_rate_centers:
+      - name: Fort Shaw
+        distance:
+          value: 9.97
+          units: km
+      - name: Fairfield
+        distance:
+          value: 14.08
+          units: km
+      - name: Cascade
+        distance:
+          value: 30.43
+          units: km
     - name: Sleeping Buffalo
       region: MT
       lat: '48.4830'
       long: "-107.5319"
+      closest_rate_centers:
+      - name: Saco
+        distance:
+          value: 14.28
+          units: km
+      - name: Malta
+        distance:
+          value: 29.02
+          units: km
+      - name: Whitewater
+        distance:
+          value: 32.59
+          units: km
     - name: Snowslip
       region: MT
       lat: '48.2648'
       long: "-113.4460"
+      closest_rate_centers:
+      - name: East Glacier Park
+        distance:
+          value: 26.9
+          units: km
+      - name: Hungry Horse
+        distance:
+          value: 46.34
+          units: km
+      - name: Browning
+        distance:
+          value: 46.64
+          units: km
     - name: Somers
       region: MT
       lat: '48.0824'
       long: "-114.2344"
+      closest_rate_centers:
+      - name: Somers
+        distance:
+          value: 0.48
+          units: km
+      - name: Lakeside
+        distance:
+          value: 7.55
+          units: km
+      - name: Bigfork
+        distance:
+          value: 11.68
+          units: km
     - name: South Browning
       region: MT
       lat: '48.5459'
       long: "-113.0127"
+      closest_rate_centers:
+      - name: Browning
+        distance:
+          value: 2.48
+          units: km
+      - name: East Glacier Park
+        distance:
+          value: 18.1
+          units: km
+      - name: St Mary
+        distance:
+          value: 37.39
+          units: km
     - name: South Glastonbury
       region: MT
       lat: '45.3121'
       long: "-110.8076"
+      closest_rate_centers:
+      - name: Gardiner
+        distance:
+          value: 30.81
+          units: km
+      - name: Big Sky
+        distance:
+          value: 38.2
+          units: km
+      - name: Gallatin Gateway
+        distance:
+          value: 43.61
+          units: km
     - name: South Hills
       region: MT
       lat: '46.5564'
       long: "-111.9975"
+      closest_rate_centers:
+      - name: Helena
+        distance:
+          value: 5.4
+          units: km
+      - name: Canyon Creek
+        distance:
+          value: 34.29
+          units: km
+      - name: Boulder
+        distance:
+          value: 36.32
+          units: km
     - name: Spokane Creek
       region: MT
       lat: '46.5343'
       long: "-111.7391"
+      closest_rate_centers:
+      - name: Helena
+        distance:
+          value: 22.98
+          units: km
+      - name: Townsend
+        distance:
+          value: 29.56
+          units: km
+      - name: Boulder
+        distance:
+          value: 43.62
+          units: km
     - name: Spring Creek Colony
       region: MT
       lat: '47.1540'
       long: "-109.6207"
+      closest_rate_centers:
+      - name: Lewistown (Mid-Rivers)
+        distance:
+          value: 17.7
+          units: km
+      - name: Lewistown
+        distance:
+          value: 17.7
+          units: km
+      - name: Moore
+        distance:
+          value: 20.84
+          units: km
+      - name: Hobson
+        distance:
+          value: 25.53
+          units: km
     - name: Springdale
       region: MT
       lat: '45.7381'
       long: "-110.2236"
+      closest_rate_centers:
+      - name: Big Timber
+        distance:
+          value: 23.94
+          units: km
+      - name: Livingston
+        distance:
+          value: 27.38
+          units: km
+      - name: Clyde Park
+        distance:
+          value: 34.05
+          units: km
     - name: Springdale Colony
       region: MT
       lat: '46.4618'
       long: "-111.0192"
+      closest_rate_centers:
+      - name: White Sulphur Springs
+        distance:
+          value: 12.75
+          units: km
+      - name: Townsend
+        distance:
+          value: 41.53
+          units: km
+      - name: Martinsdale
+        distance:
+          value: 53.74
+          units: km
     - name: Springhill
       region: MT
       lat: '45.8788'
       long: "-111.0773"
+      closest_rate_centers:
+      - name: Belgrade
+        distance:
+          value: 13.76
+          units: km
+      - name: Manhattan
+        distance:
+          value: 19.99
+          units: km
+      - name: Bozeman
+        distance:
+          value: 22.83
+          units: km
     - name: Springwater Colony
       region: MT
       lat: '46.4569'
       long: "-109.7532"
+      closest_rate_centers:
+      - name: Harlowton
+        distance:
+          value: 6.37
+          units: km
+      - name: Judith Gap
+        distance:
+          value: 24.43
+          units: km
+      - name: Ryegate
+        distance:
+          value: 41.92
+          units: km
     - name: Square Butte
       region: MT
       lat: '47.5147'
       long: "-110.1991"
+      closest_rate_centers:
+      - name: Geraldine
+        distance:
+          value: 10.81
+          units: km
+      - name: Denton
+        distance:
+          value: 28.99
+          units: km
+      - name: Geyser
+        distance:
+          value: 35.63
+          units: km
     - name: St. Ignatius
       region: MT
       lat: '47.3187'
       long: "-114.0956"
+      closest_rate_centers:
+      - name: St Ignatius
+        distance:
+          value: 0.92
+          units: km
+      - name: Charlo
+        distance:
+          value: 14.86
+          units: km
+      - name: Dixon
+        distance:
+          value: 16.47
+          units: km
     - name: St. Marie
       region: MT
       lat: '48.4053'
       long: "-106.4986"
+      closest_rate_centers:
+      - name: Valley Industrial Park
+        distance:
+          value: 3.83
+          units: km
+      - name: North Glasgow
+        distance:
+          value: 19.46
+          units: km
+      - name: Glasgow
+        distance:
+          value: 25.67
+          units: km
     - name: St. Pierre
       region: MT
       lat: '48.2439'
       long: "-109.8161"
+      closest_rate_centers:
+      - name: Box Elder
+        distance:
+          value: 17.13
+          units: km
+      - name: South Havre
+        distance:
+          value: 21.54
+          units: km
+      - name: Big Sandy
+        distance:
+          value: 22.98
+          units: km
     - name: St. Regis
       region: MT
       lat: '47.3016'
       long: "-115.1015"
+      closest_rate_centers:
+      - name: St Regis
+        distance:
+          value: 1.38
+          units: km
+      - name: Superior
+        distance:
+          value: 19.83
+          units: km
+      - name: Plains
+        distance:
+          value: 23.85
+          units: km
     - name: St. Xavier
       region: MT
       lat: '45.4570'
       long: "-107.7250"
+      closest_rate_centers:
+      - name: Fort Smith
+        distance:
+          value: 22.22
+          units: km
+      - name: Hardin
+        distance:
+          value: 32.49
+          units: km
+      - name: Lodge Grass
+        distance:
+          value: 33.1
+          units: km
     - name: Stanford
       region: MT
       lat: '47.1521'
       long: "-110.2190"
+      closest_rate_centers:
+      - name: Stanford
+        distance:
+          value: 0.14
+          units: km
+      - name: Geyser
+        distance:
+          value: 24.55
+          units: km
+      - name: Denton
+        distance:
+          value: 27.38
+          units: km
     - name: Starr School
       region: MT
       lat: '48.5976'
       long: "-113.1433"
+      closest_rate_centers:
+      - name: Browning
+        distance:
+          value: 10.38
+          units: km
+      - name: East Glacier Park
+        distance:
+          value: 17.21
+          units: km
+      - name: St Mary
+        distance:
+          value: 26.25
+          units: km
     - name: Stevensville
       region: MT
       lat: '46.5111'
       long: "-114.0788"
+      closest_rate_centers:
+      - name: Stevensville
+        distance:
+          value: 1.25
+          units: km
+      - name: Victor
+        distance:
+          value: 11.82
+          units: km
+      - name: Hamilton
+        distance:
+          value: 30.61
+          units: km
     - name: Stockett
       region: MT
       lat: '47.3542'
       long: "-111.1697"
+      closest_rate_centers:
+      - name: Stockett
+        distance:
+          value: 0.52
+          units: km
+      - name: Belt
+        distance:
+          value: 18.86
+          units: km
+      - name: Great Falls
+        distance:
+          value: 19.41
+          units: km
     - name: Stryker
       region: MT
       lat: '48.6727'
       long: "-114.7676"
+      closest_rate_centers:
+      - name: Olney
+        distance:
+          value: 19.5
+          units: km
+      - name: Eureka Rural
+        distance:
+          value: 28.22
+          units: km
+      - name: Eureka
+        distance:
+          value: 31.22
+          units: km
     - name: Sula
       region: MT
       lat: '45.8453'
       long: "-113.9629"
+      closest_rate_centers:
+      - name: Darby
+        distance:
+          value: 25.93
+          units: km
+      - name: Alta
+        distance:
+          value: 27.39
+          units: km
+      - name: Hamilton
+        distance:
+          value: 46.43
+          units: km
     - name: Sun Prairie
       region: MT
       lat: '47.5386'
       long: "-111.4918"
+      closest_rate_centers:
+      - name: Great Falls
+        distance:
+          value: 15.41
+          units: km
+      - name: Power
+        distance:
+          value: 24.43
+          units: km
+      - name: Fort Shaw
+        distance:
+          value: 24.62
+          units: km
     - name: Sun River
       region: MT
       lat: '47.5305'
       long: "-111.7240"
+      closest_rate_centers:
+      - name: Fort Shaw
+        distance:
+          value: 7.37
+          units: km
+      - name: Power
+        distance:
+          value: 20.74
+          units: km
+      - name: Fairfield
+        distance:
+          value: 21.83
+          units: km
     - name: Sunburst
       region: MT
       lat: '48.8780'
       long: "-111.9051"
+      closest_rate_centers:
+      - name: Sunburst
+        distance:
+          value: 0.78
+          units: km
+      - name: Sweetgrass
+        distance:
+          value: 12.9
+          units: km
+      - name: Kevin-Oilmont
+        distance:
+          value: 15.68
+          units: km
     - name: Sunnybrook Colony
       region: MT
       lat: '48.1573'
       long: "-110.7270"
+      closest_rate_centers:
+      - name: South Chester
+        distance:
+          value: 17.47
+          units: km
+      - name: Loma
+        distance:
+          value: 29.44
+          units: km
+      - name: Fort Benton
+        distance:
+          value: 37.43
+          units: km
     - name: Superior
       region: MT
       lat: '47.1935'
       long: "-114.8920"
+      closest_rate_centers:
+      - name: Superior
+        distance:
+          value: 0.72
+          units: km
+      - name: St Regis
+        distance:
+          value: 18.52
+          units: km
+      - name: Plains
+        distance:
+          value: 29.48
+          units: km
     - name: Surprise Creek Colony
       region: MT
       lat: '47.1706'
       long: "-110.3397"
+      closest_rate_centers:
+      - name: Stanford
+        distance:
+          value: 9.49
+          units: km
+      - name: Geyser
+        distance:
+          value: 15.95
+          units: km
+      - name: Raynesford
+        distance:
+          value: 32.09
+          units: km
     - name: Swan Lake
       region: MT
       lat: '47.9361'
       long: "-113.7997"
+      closest_rate_centers:
+      - name: Swan Lake
+        distance:
+          value: 2.56
+          units: km
+      - name: Yellow Bay
+        distance:
+          value: 17.21
+          units: km
+      - name: Bigfork
+        distance:
+          value: 25.02
+          units: km
     - name: Sweet Grass
       region: MT
       lat: '48.9929'
       long: "-111.9668"
+      closest_rate_centers:
+      - name: Sweetgrass
+        distance:
+          value: 0.89
+          units: km
+      - name: Sunburst
+        distance:
+          value: 12.77
+          units: km
+      - name: Kevin-Oilmont
+        distance:
+          value: 27.96
+          units: km
     - name: Sylvanite
       region: MT
       lat: '48.7063'
       long: "-115.8741"
+      closest_rate_centers:
+      - name: Troy
+        distance:
+          value: 27.55
+          units: km
+      - name: Libby
+        distance:
+          value: 42.79
+          units: km
+      - name: Eureka
+        distance:
+          value: 63.33
+          units: km
     - name: Terry
       region: MT
       lat: '46.7921'
       long: "-105.3125"
+      closest_rate_centers:
+      - name: Terry (Mid-Rivers)
+        distance:
+          value: 0.14
+          units: km
+      - name: Terry
+        distance:
+          value: 0.14
+          units: km
+      - name: Fallon
+        distance:
+          value: 15.03
+          units: km
+      - name: Lindsay
+        distance:
+          value: 49.32
+          units: km
     - name: The Silos
       region: MT
       lat: '46.3985'
       long: "-111.5865"
+      closest_rate_centers:
+      - name: Townsend
+        distance:
+          value: 10.53
+          units: km
+      - name: Helena
+        distance:
+          value: 40.34
+          units: km
+      - name: Boulder
+        distance:
+          value: 44.26
+          units: km
     - name: Thompson Falls
       region: MT
       lat: '47.5993'
       long: "-115.3425"
+      closest_rate_centers:
+      - name: Thompson Falls
+        distance:
+          value: 0.22
+          units: km
+      - name: Haugan
+        distance:
+          value: 24.45
+          units: km
+      - name: Plains
+        distance:
+          value: 37.69
+          units: km
     - name: Three Forks
       region: MT
       lat: '45.8899'
       long: "-111.5525"
+      closest_rate_centers:
+      - name: Three Forks
+        distance:
+          value: 0.05
+          units: km
+      - name: Manhattan
+        distance:
+          value: 17.36
+          units: km
+      - name: Harrison
+        distance:
+          value: 27.74
+          units: km
     - name: Toston
       region: MT
       lat: '46.1657'
       long: "-111.4459"
+      closest_rate_centers:
+      - name: Townsend
+        distance:
+          value: 17.66
+          units: km
+      - name: Three Forks
+        distance:
+          value: 31.76
+          units: km
+      - name: Manhattan
+        distance:
+          value: 35.45
+          units: km
     - name: Townsend
       region: MT
       lat: '46.3192'
       long: "-111.5197"
+      closest_rate_centers:
+      - name: Townsend
+        distance:
+          value: 0.33
+          units: km
+      - name: Boulder
+        distance:
+          value: 46.6
+          units: km
+      - name: Three Forks
+        distance:
+          value: 47.82
+          units: km
     - name: Tracy
       region: MT
       lat: '47.4102'
       long: "-111.1537"
+      closest_rate_centers:
+      - name: Stockett
+        distance:
+          value: 5.89
+          units: km
+      - name: Great Falls
+        distance:
+          value: 15.03
+          units: km
+      - name: Belt
+        distance:
+          value: 17.64
+          units: km
     - name: Trego
       region: MT
       lat: '48.6558'
       long: "-114.9290"
+      closest_rate_centers:
+      - name: Eureka Rural
+        distance:
+          value: 24.43
+          units: km
+      - name: Eureka
+        distance:
+          value: 26.71
+          units: km
+      - name: Olney
+        distance:
+          value: 28.37
+          units: km
     - name: Trout Creek
       region: MT
       lat: '47.8331'
       long: "-115.5837"
+      closest_rate_centers:
+      - name: Noxon
+        distance:
+          value: 22.76
+          units: km
+      - name: Thompson Falls
+        distance:
+          value: 31.83
+          units: km
+      - name: Haugan
+        distance:
+          value: 51.81
+          units: km
     - name: Troy
       region: MT
       lat: '48.4614'
       long: "-115.8909"
+      closest_rate_centers:
+      - name: Troy
+        distance:
+          value: 0.29
+          units: km
+      - name: Libby
+        distance:
+          value: 26.35
+          units: km
+      - name: Noxon
+        distance:
+          value: 53.11
+          units: km
     - name: Turah
       region: MT
       lat: '46.8397'
       long: "-113.8250"
+      closest_rate_centers:
+      - name: Clinton
+        distance:
+          value: 11.51
+          units: km
+      - name: Missoula
+        distance:
+          value: 13.83
+          units: km
+      - name: Potomac
+        distance:
+          value: 19.53
+          units: km
     - name: Turner
       region: MT
       lat: '48.8469'
       long: "-108.4006"
+      closest_rate_centers:
+      - name: Turner
+        distance:
+          value: 0.99
+          units: km
+      - name: Harlem
+        distance:
+          value: 44.63
+          units: km
+      - name: Dodson
+        distance:
+          value: 50.75
+          units: km
     - name: Turner Colony
       region: MT
       lat: '48.7631'
       long: "-108.4302"
+      closest_rate_centers:
+      - name: Turner
+        distance:
+          value: 9.54
+          units: km
+      - name: Harlem
+        distance:
+          value: 36.29
+          units: km
+      - name: Dodson
+        distance:
+          value: 42.38
+          units: km
     - name: Turtle Lake
       region: MT
       lat: '47.6696'
       long: "-114.0818"
+      closest_rate_centers:
+      - name: Polson
+        distance:
+          value: 6.45
+          units: km
+      - name: Finley Point
+        distance:
+          value: 6.95
+          units: km
+      - name: Pablo
+        distance:
+          value: 8.27
+          units: km
     - name: Twin Bridges
       region: MT
       lat: '45.5429'
       long: "-112.3341"
+      closest_rate_centers:
+      - name: Twin Bridges
+        distance:
+          value: 0.89
+          units: km
+      - name: Sheridan
+        distance:
+          value: 15.31
+          units: km
+      - name: Melrose
+        distance:
+          value: 29.02
+          units: km
     - name: Twin Creeks
       region: MT
       lat: '46.9106'
       long: "-113.7267"
+      closest_rate_centers:
+      - name: Potomac
+        distance:
+          value: 11.8
+          units: km
+      - name: Clinton
+        distance:
+          value: 15.16
+          units: km
+      - name: Missoula
+        distance:
+          value: 21.44
+          units: km
     - name: Twin Hills Colony
       region: MT
       lat: '48.0168'
       long: "-111.0698"
+      closest_rate_centers:
+      - name: Carter
+        distance:
+          value: 27.4
+          units: km
+      - name: South Chester
+        distance:
+          value: 28.96
+          units: km
+      - name: East Conrad
+        distance:
+          value: 33.13
+          units: km
     - name: Twodot
       region: MT
       lat: '46.4224'
       long: "-110.0725"
+      closest_rate_centers:
+      - name: Harlowton
+        distance:
+          value: 18.42
+          units: km
+      - name: Martinsdale
+        distance:
+          value: 19.37
+          units: km
+      - name: Melville
+        distance:
+          value: 36.74
+          units: km
     - name: Ulm
       region: MT
       lat: '47.4197'
       long: "-111.5252"
+      closest_rate_centers:
+      - name: Great Falls
+        distance:
+          value: 20.11
+          units: km
+      - name: Cascade
+        distance:
+          value: 20.65
+          units: km
+      - name: Fort Shaw
+        distance:
+          value: 24.06
+          units: km
     - name: Unionville
       region: MT
       lat: '46.5456'
       long: "-112.0799"
+      closest_rate_centers:
+      - name: Helena
+        distance:
+          value: 7.58
+          units: km
+      - name: Canyon Creek
+        distance:
+          value: 31.93
+          units: km
+      - name: Boulder
+        distance:
+          value: 34.08
+          units: km
     - name: Utica
       region: MT
       lat: '46.9678'
       long: "-110.0935"
+      closest_rate_centers:
+      - name: Hobson
+        distance:
+          value: 17.09
+          units: km
+      - name: Stanford
+        distance:
+          value: 22.48
+          units: km
+      - name: Moore
+        distance:
+          value: 30.52
+          units: km
     - name: Valier
       region: MT
       lat: '48.3056'
       long: "-112.2522"
+      closest_rate_centers:
+      - name: Valier
+        distance:
+          value: 0.43
+          units: km
+      - name: Dupuyer
+        distance:
+          value: 22.15
+          units: km
+      - name: Pendroy
+        distance:
+          value: 25.64
+          units: km
     - name: Vaughn
       region: MT
       lat: '47.5523'
       long: "-111.5608"
+      closest_rate_centers:
+      - name: Fort Shaw
+        distance:
+          value: 19.81
+          units: km
+      - name: Power
+        distance:
+          value: 20.39
+          units: km
+      - name: Great Falls
+        distance:
+          value: 20.8
+          units: km
     - name: Victor
       region: MT
       lat: '46.4161'
       long: "-114.1492"
+      closest_rate_centers:
+      - name: Victor
+        distance:
+          value: 0.19
+          units: km
+      - name: Stevensville
+        distance:
+          value: 11.02
+          units: km
+      - name: Hamilton
+        distance:
+          value: 19.49
+          units: km
     - name: Vida
       region: MT
       lat: '47.8336'
       long: "-105.4924"
+      closest_rate_centers:
+      - name: Wolf Point
+        distance:
+          value: 30.69
+          units: km
+      - name: South Wolf Point
+        distance:
+          value: 34.57
+          units: km
+      - name: Poplar
+        distance:
+          value: 37.69
+          units: km
     - name: Virginia City
       region: MT
       lat: '45.2962'
       long: "-111.9369"
+      closest_rate_centers:
+      - name: Virginia City
+        distance:
+          value: 0.64
+          units: km
+      - name: Ennis
+        distance:
+          value: 17.42
+          units: km
+      - name: Sheridan
+        distance:
+          value: 26.09
+          units: km
     - name: Walkerville
       region: MT
       lat: '46.0366'
       long: "-112.5396"
+      closest_rate_centers:
+      - name: Butte
+        distance:
+          value: 4.75
+          units: km
+      - name: Warm Springs
+        distance:
+          value: 25.05
+          units: km
+      - name: Anaconda
+        distance:
+          value: 33.09
+          units: km
     - name: Warm Spring Creek
       region: MT
       lat: '47.1847'
       long: "-109.2827"
+      closest_rate_centers:
+      - name: Lewistown
+        distance:
+          value: 17.03
+          units: km
+      - name: Lewistown (Mid-Rivers)
+        distance:
+          value: 17.03
+          units: km
+      - name: Roy
+        distance:
+          value: 29.53
+          units: km
+      - name: Moore
+        distance:
+          value: 38.89
+          units: km
     - name: Weeksville
       region: MT
       lat: '47.5309'
       long: "-115.0083"
+      closest_rate_centers:
+      - name: Plains
+        distance:
+          value: 12.22
+          units: km
+      - name: Thompson Falls
+        distance:
+          value: 25.98
+          units: km
+      - name: St Regis
+        distance:
+          value: 27.26
+          units: km
     - name: West Glacier
       region: MT
       lat: '48.4916'
       long: "-113.9961"
+      closest_rate_centers:
+      - name: West Glacier
+        distance:
+          value: 1.48
+          units: km
+      - name: Hungry Horse
+        distance:
+          value: 12.38
+          units: km
+      - name: Columbia Falls
+        distance:
+          value: 18.66
+          units: km
     - name: West Glendive
       region: MT
       lat: '47.1057'
       long: "-104.7540"
+      closest_rate_centers:
+      - name: West Glendive
+        distance:
+          value: 1.16
+          units: km
+      - name: Glendive (Mid-Rivers)
+        distance:
+          value: 3.53
+          units: km
+      - name: Glendive
+        distance:
+          value: 3.53
+          units: km
+      - name: Lindsay
+        distance:
+          value: 33.38
+          units: km
     - name: West Havre
       region: MT
       lat: '48.5471'
       long: "-109.7310"
+      closest_rate_centers:
+      - name: Havre
+        distance:
+          value: 4.84
+          units: km
+      - name: South Havre
+        distance:
+          value: 13.57
+          units: km
+      - name: Kremlin
+        distance:
+          value: 25.96
+          units: km
     - name: West Kootenai
       region: MT
       lat: '48.9652'
       long: "-115.2213"
+      closest_rate_centers:
+      - name: Eureka
+        distance:
+          value: 15.47
+          units: km
+      - name: Eureka Rural
+        distance:
+          value: 18.66
+          units: km
+      - name: Olney
+        distance:
+          value: 65.99
+          units: km
     - name: West Yellowstone
       region: MT
       lat: '44.6627'
       long: "-111.1057"
+      closest_rate_centers:
+      - name: West Yellowstone
+        distance:
+          value: 0.63
+          units: km
+      - name: Gardiner
+        distance:
+          value: 52.64
+          units: km
+      - name: Big Sky
+        distance:
+          value: 68.83
+          units: km
     - name: Westby
       region: MT
       lat: '48.8710'
       long: "-104.0551"
+      closest_rate_centers:
+      - name: Westby
+        distance:
+          value: 0.62
+          units: km
+      - name: Dagmar
+        distance:
+          value: 33.29
+          units: km
+      - name: Plentywood
+        distance:
+          value: 37.83
+          units: km
     - name: Wheatland
       region: MT
       lat: '45.9580'
       long: "-111.5781"
+      closest_rate_centers:
+      - name: Three Forks
+        distance:
+          value: 7.86
+          units: km
+      - name: Manhattan
+        distance:
+          value: 22.03
+          units: km
+      - name: Harrison
+        distance:
+          value: 32.88
+          units: km
     - name: White Haven
       region: MT
       lat: '48.3478'
       long: "-115.5160"
+      closest_rate_centers:
+      - name: Libby
+        distance:
+          value: 5.01
+          units: km
+      - name: Troy
+        distance:
+          value: 30.34
+          units: km
+      - name: Noxon
+        distance:
+          value: 44.44
+          units: km
     - name: White Sulphur Springs
       region: MT
       lat: '46.5453'
       long: "-110.9039"
+      closest_rate_centers:
+      - name: White Sulphur Springs
+        distance:
+          value: 0.62
+          units: km
+      - name: Martinsdale
+        distance:
+          value: 45.75
+          units: km
+      - name: Townsend
+        distance:
+          value: 53.5
+          units: km
     - name: Whitefish
       region: MT
       lat: '48.4328'
       long: "-114.3590"
+      closest_rate_centers:
+      - name: Whitefish
+        distance:
+          value: 3.21
+          units: km
+      - name: Columbia Falls
+        distance:
+          value: 15.14
+          units: km
+      - name: Olney
+        distance:
+          value: 20.75
+          units: km
     - name: Whitehall
       region: MT
       lat: '45.8709'
       long: "-112.0976"
+      closest_rate_centers:
+      - name: Whitehall
+        distance:
+          value: 0.84
+          units: km
+      - name: Harrison
+        distance:
+          value: 30.98
+          units: km
+      - name: Butte
+        distance:
+          value: 35.19
+          units: km
     - name: Whitetail
       region: MT
       lat: '48.8966'
       long: "-105.1619"
+      closest_rate_centers:
+      - name: Flaxville
+        distance:
+          value: 10.07
+          units: km
+      - name: Flaxville Rural
+        distance:
+          value: 18.25
+          units: km
+      - name: Scobey
+        distance:
+          value: 22.37
+          units: km
     - name: Whitewater
       region: MT
       lat: '48.7635'
       long: "-107.6303"
+      closest_rate_centers:
+      - name: Whitewater
+        distance:
+          value: 0.99
+          units: km
+      - name: Saco
+        distance:
+          value: 39.93
+          units: km
+      - name: Malta
+        distance:
+          value: 48.57
+          units: km
     - name: Whitlash
       region: MT
       lat: '48.9089'
       long: "-111.2519"
+      closest_rate_centers:
+      - name: Sunburst
+        distance:
+          value: 48.14
+          units: km
+      - name: Chester
+        distance:
+          value: 49.38
+          units: km
+      - name: Devon
+        distance:
+          value: 50.71
+          units: km
     - name: Wibaux
       region: MT
       lat: '46.9865'
       long: "-104.1899"
+      closest_rate_centers:
+      - name: Wibaux
+        distance:
+          value: 0.9
+          units: km
+      - name: Wibaux (Mid-Rivers)
+        distance:
+          value: 0.9
+          units: km
+      - name: West Beach
+        distance:
+          value: 12.61
+          units: km
+      - name: Carlyle
+        distance:
+          value: 38.56
+          units: km
     - name: Willow Creek
       region: MT
       lat: '45.8178'
       long: "-111.6402"
+      closest_rate_centers:
+      - name: Three Forks
+        distance:
+          value: 10.52
+          units: km
+      - name: Harrison
+        distance:
+          value: 17.23
+          units: km
+      - name: Manhattan
+        distance:
+          value: 24.15
+          units: km
     - name: Wilsall
       region: MT
       lat: '45.9844'
       long: "-110.6604"
+      closest_rate_centers:
+      - name: Wilsall
+        distance:
+          value: 0.94
+          units: km
+      - name: Clyde Park
+        distance:
+          value: 11.08
+          units: km
+      - name: Livingston
+        distance:
+          value: 36.32
+          units: km
     - name: Windham
       region: MT
       lat: '47.0781'
       long: "-110.1386"
+      closest_rate_centers:
+      - name: Stanford
+        distance:
+          value: 10.11
+          units: km
+      - name: Hobson
+        distance:
+          value: 21.74
+          units: km
+      - name: Denton
+        distance:
+          value: 30.13
+          units: km
     - name: Wineglass
       region: MT
       lat: '45.6280'
       long: "-110.6233"
+      closest_rate_centers:
+      - name: Livingston
+        distance:
+          value: 6.41
+          units: km
+      - name: Clyde Park
+        distance:
+          value: 29.55
+          units: km
+      - name: Bozeman
+        distance:
+          value: 32.82
+          units: km
     - name: Winifred
       region: MT
       lat: '47.5621'
       long: "-109.3773"
+      closest_rate_centers:
+      - name: Winifred
+        distance:
+          value: 0.44
+          units: km
+      - name: Roy
+        distance:
+          value: 40.41
+          units: km
+      - name: Denton
+        distance:
+          value: 50.93
+          units: km
     - name: Winnett
       region: MT
       lat: '47.0043'
       long: "-108.3466"
+      closest_rate_centers:
+      - name: Winnett
+        distance:
+          value: 0.32
+          units: km
+      - name: Grass Range
+        distance:
+          value: 34.85
+          units: km
+      - name: Musselshell
+        distance:
+          value: 57.54
+          units: km
     - name: Winston
       region: MT
       lat: '46.4684'
       long: "-111.6653"
+      closest_rate_centers:
+      - name: Townsend
+        distance:
+          value: 20.32
+          units: km
+      - name: Helena
+        distance:
+          value: 31.13
+          units: km
+      - name: Boulder
+        distance:
+          value: 42.86
+          units: km
     - name: Wisdom
       region: MT
       lat: '45.6114'
       long: "-113.4470"
+      closest_rate_centers:
+      - name: Wisdom
+        distance:
+          value: 0.66
+          units: km
+      - name: Jackson
+        distance:
+          value: 27.59
+          units: km
+      - name: Wise River
+        distance:
+          value: 43.68
+          units: km
     - name: Wise River
       region: MT
       lat: '45.7920'
       long: "-112.9485"
+      closest_rate_centers:
+      - name: Wise River
+        distance:
+          value: 0.1
+          units: km
+      - name: Divide
+        distance:
+          value: 15.97
+          units: km
+      - name: Melrose
+        distance:
+          value: 27.08
+          units: km
     - name: Wolf Creek
       region: MT
       lat: '47.0059'
       long: "-112.0700"
+      closest_rate_centers:
+      - name: Wolf Creek
+        distance:
+          value: 0.57
+          units: km
+      - name: Canyon Creek
+        distance:
+          value: 27.47
+          units: km
+      - name: Cascade
+        distance:
+          value: 41.1
+          units: km
     - name: Wolf Point
       region: MT
       lat: '48.0933'
       long: "-105.6414"
+      closest_rate_centers:
+      - name: Wolf Point
+        distance:
+          value: 0.26
+          units: km
+      - name: South Wolf Point
+        distance:
+          value: 10.68
+          units: km
+      - name: Frazer
+        distance:
+          value: 29.86
+          units: km
     - name: Woods Bay
       region: MT
       lat: '48.0083'
       long: "-114.0613"
+      closest_rate_centers:
+      - name: Bigfork
+        distance:
+          value: 5.88
+          units: km
+      - name: Yellow Bay
+        distance:
+          value: 10.81
+          units: km
+      - name: Lakeside
+        distance:
+          value: 11.61
+          units: km
     - name: Worden
       region: MT
       lat: '45.9623'
       long: "-108.1623"
+      closest_rate_centers:
+      - name: Worden
+        distance:
+          value: 0.6
+          units: km
+      - name: Huntley
+        distance:
+          value: 12.72
+          units: km
+      - name: Pompeys Pillar
+        distance:
+          value: 16.18
+          units: km
     - name: Wye
       region: MT
       lat: '46.9523'
       long: "-114.1331"
+      closest_rate_centers:
+      - name: Frenchtown
+        distance:
+          value: 9.88
+          units: km
+      - name: Missoula
+        distance:
+          value: 13.65
+          units: km
+      - name: Arlee
+        distance:
+          value: 24.17
+          units: km
     - name: Wyola
       region: MT
       lat: '45.1154'
       long: "-107.3738"
+      closest_rate_centers:
+      - name: Wyola
+        distance:
+          value: 2.28
+          units: km
+      - name: North Parkman
+        distance:
+          value: 13.22
+          units: km
+      - name: Lodge Grass
+        distance:
+          value: 21.55
+          units: km
     - name: Yaak
       region: MT
       lat: '48.8647'
       long: "-115.6777"
+      closest_rate_centers:
+      - name: Eureka
+        distance:
+          value: 45.83
+          units: km
+      - name: Troy
+        distance:
+          value: 47.79
+          units: km
+      - name: Eureka Rural
+        distance:
+          value: 48.64
+          units: km
     - name: York
       region: MT
       lat: '46.7181'
       long: "-111.7528"
+      closest_rate_centers:
+      - name: Helena
+        distance:
+          value: 24.37
+          units: km
+      - name: Wolf Creek
+        distance:
+          value: 40.37
+          units: km
+      - name: Canyon Creek
+        distance:
+          value: 40.57
+          units: km
     - name: Zenith Colony
       region: MT
       lat: '48.8688'
       long: "-112.3423"
+      closest_rate_centers:
+      - name: North Cut Bank
+        distance:
+          value: 15.42
+          units: km
+      - name: Cut Bank
+        distance:
+          value: 26.14
+          units: km
+      - name: Sweetgrass
+        distance:
+          value: 31.23
+          units: km
     - name: Zortman
       region: MT
       lat: '47.9168'
       long: "-108.5090"
+      closest_rate_centers:
+      - name: Hays
+        distance:
+          value: 16.28
+          units: km
+      - name: South Malta
+        distance:
+          value: 49.23
+          units: km
+      - name: Dodson
+        distance:
+          value: 57.46
+          units: km
     - name: Zurich
       region: MT
       lat: '48.5861'
       long: "-109.0302"
+      closest_rate_centers:
+      - name: Chinook
+        distance:
+          value: 14.35
+          units: km
+      - name: Harlem
+        distance:
+          value: 18.96
+          units: km
+      - name: Havre
+        distance:
+          value: 46.91
+          units: km

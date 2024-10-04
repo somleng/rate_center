@@ -1,744 +1,3205 @@
 ---
 cities:
-  us:
+  US:
     CT:
     - name: Ansonia
       region: CT
       lat: '41.3443'
       long: "-73.0689"
+      closest_rate_centers:
+      - name: Ansonia-Derby
+        distance:
+          value: 2.83
+          units: km
+      - name: Seymour
+        distance:
+          value: 5.87
+          units: km
+      - name: Huntington
+        distance:
+          value: 8.67
+          units: km
     - name: Ball Pond
       region: CT
       lat: '41.4618'
       long: "-73.5268"
+      closest_rate_centers:
+      - name: Danbury
+        distance:
+          value: 9.51
+          units: km
+      - name: New Milford
+        distance:
+          value: 16.02
+          units: km
+      - name: Newtown
+        distance:
+          value: 19.22
+          units: km
     - name: Baltic
       region: CT
       lat: '41.6139'
       long: "-72.0865"
+      closest_rate_centers:
+      - name: Jewett City
+        distance:
+          value: 8.66
+          units: km
+      - name: Norwich
+        distance:
+          value: 9.68
+          units: km
+      - name: Lebanon
+        distance:
+          value: 11.43
+          units: km
     - name: Bantam
       region: CT
       lat: '41.7247'
       long: "-73.2422"
+      closest_rate_centers:
+      - name: Litchfield
+        distance:
+          value: 4.71
+          units: km
+      - name: Washington
+        distance:
+          value: 11.43
+          units: km
+      - name: Torrington
+        distance:
+          value: 13.18
+          units: km
     - name: Bethlehem Village
       region: CT
       lat: '41.6401'
       long: "-73.2031"
+      closest_rate_centers:
+      - name: Watertown
+        distance:
+          value: 9.27
+          units: km
+      - name: Washington
+        distance:
+          value: 10.01
+          units: km
+      - name: Woodbury
+        distance:
+          value: 10.44
+          units: km
     - name: Bigelow Corners
       region: CT
       lat: '41.4694'
       long: "-73.5057"
+      closest_rate_centers:
+      - name: Danbury
+        distance:
+          value: 9.26
+          units: km
+      - name: New Milford
+        distance:
+          value: 14.33
+          units: km
+      - name: Newtown
+        distance:
+          value: 17.81
+          units: km
     - name: Blue Hills
       region: CT
       lat: '41.8133'
       long: "-72.6954"
+      closest_rate_centers:
+      - name: Hartford
+        distance:
+          value: 5.25
+          units: km
+      - name: Poquonock (Hartford)
+        distance:
+          value: 5.46
+          units: km
+      - name: Windsor
+        distance:
+          value: 5.46
+          units: km
+      - name: Simsbury
+        distance:
+          value: 11.03
+          units: km
     - name: Bogus Hill
       region: CT
       lat: '41.5075'
       long: "-73.4625"
+      closest_rate_centers:
+      - name: New Milford
+        distance:
+          value: 8.85
+          units: km
+      - name: Danbury
+        distance:
+          value: 12.49
+          units: km
+      - name: Newtown
+        distance:
+          value: 16.75
+          units: km
     - name: Botsford
       region: CT
       lat: '41.3589'
       long: "-73.2671"
+      closest_rate_centers:
+      - name: Newtown
+        distance:
+          value: 6.85
+          units: km
+      - name: Redding
+        distance:
+          value: 8.74
+          units: km
+      - name: Trumbull
+        distance:
+          value: 11.32
+          units: km
     - name: Branchville
       region: CT
       lat: '41.2680'
       long: "-73.4433"
+      closest_rate_centers:
+      - name: Georgetown
+        distance:
+          value: 1.32
+          units: km
+      - name: Ridgefield
+        distance:
+          value: 5.09
+          units: km
+      - name: Wilton
+        distance:
+          value: 8.36
+          units: km
     - name: Branford Center
       region: CT
       lat: '41.2780'
       long: "-72.8148"
+      closest_rate_centers:
+      - name: Branford
+        distance:
+          value: 0.25
+          units: km
+      - name: New Haven
+        distance:
+          value: 9.69
+          units: km
+      - name: Guilford
+        distance:
+          value: 11.04
+          units: km
     - name: Bridgeport
       region: CT
       lat: '41.1918'
       long: "-73.1954"
+      closest_rate_centers:
+      - name: Bridgeport
+        distance:
+          value: 1.55
+          units: km
+      - name: Stratford
+        distance:
+          value: 4.53
+          units: km
+      - name: Fairfield
+        distance:
+          value: 7.81
+          units: km
     - name: Bridgewater
       region: CT
       lat: '41.5347'
       long: "-73.3646"
+      closest_rate_centers:
+      - name: New Milford
+        distance:
+          value: 6.26
+          units: km
+      - name: Washington
+        distance:
+          value: 12.39
+          units: km
+      - name: Woodbury
+        distance:
+          value: 13.23
+          units: km
     - name: Bristol
       region: CT
       lat: '41.6812'
       long: "-72.9407"
+      closest_rate_centers:
+      - name: Bristol
+        distance:
+          value: 1.07
+          units: km
+      - name: Plainville
+        distance:
+          value: 6.11
+          units: km
+      - name: Southington
+        distance:
+          value: 10.36
+          units: km
     - name: Broad Brook
       region: CT
       lat: '41.9097'
       long: "-72.5426"
+      closest_rate_centers:
+      - name: Windsor Locks
+        distance:
+          value: 7.72
+          units: km
+      - name: Rockville
+        distance:
+          value: 9.07
+          units: km
+      - name: Enfield
+        distance:
+          value: 10.42
+          units: km
     - name: Brookfield Center
       region: CT
       lat: '41.4623'
       long: "-73.3875"
+      closest_rate_centers:
+      - name: Newtown
+        distance:
+          value: 8.73
+          units: km
+      - name: Danbury
+        distance:
+          value: 9.33
+          units: km
+      - name: New Milford
+        distance:
+          value: 13.03
+          units: km
     - name: Byram
       region: CT
       lat: '41.0011'
       long: "-73.6528"
+      closest_rate_centers:
+      - name: Byram
+        distance:
+          value: 1.57
+          units: km
+      - name: Greenwich
+        distance:
+          value: 3.32
+          units: km
+      - name: Old Greenwich
+        distance:
+          value: 7.81
+          units: km
     - name: Canaan
       region: CT
       lat: '42.0347'
       long: "-73.3322"
+      closest_rate_centers:
+      - name: Canaan
+        distance:
+          value: 0.91
+          units: km
+      - name: Norfolk
+        distance:
+          value: 11.5
+          units: km
+      - name: Lakeville
+        distance:
+          value: 11.75
+          units: km
     - name: Candlewood Isle
       region: CT
       lat: '41.4777'
       long: "-73.4523"
+      closest_rate_centers:
+      - name: Danbury
+        distance:
+          value: 9.16
+          units: km
+      - name: New Milford
+        distance:
+          value: 11.61
+          units: km
+      - name: Newtown
+        distance:
+          value: 14.17
+          units: km
     - name: Candlewood Knolls
       region: CT
       lat: '41.4791'
       long: "-73.4636"
+      closest_rate_centers:
+      - name: Danbury
+        distance:
+          value: 9.34
+          units: km
+      - name: New Milford
+        distance:
+          value: 11.77
+          units: km
+      - name: Newtown
+        distance:
+          value: 15.07
+          units: km
     - name: Candlewood Lake Club
       region: CT
       lat: '41.4939'
       long: "-73.4373"
+      closest_rate_centers:
+      - name: New Milford
+        distance:
+          value: 9.56
+          units: km
+      - name: Danbury
+        distance:
+          value: 11.06
+          units: km
+      - name: Newtown
+        distance:
+          value: 14.17
+          units: km
     - name: Candlewood Orchards
       region: CT
       lat: '41.4728'
       long: "-73.4381"
+      closest_rate_centers:
+      - name: Danbury
+        distance:
+          value: 8.73
+          units: km
+      - name: New Milford
+        distance:
+          value: 11.87
+          units: km
+      - name: Newtown
+        distance:
+          value: 12.88
+          units: km
     - name: Candlewood Shores
       region: CT
       lat: '41.4811'
       long: "-73.4379"
+      closest_rate_centers:
+      - name: Danbury
+        distance:
+          value: 9.64
+          units: km
+      - name: New Milford
+        distance:
+          value: 10.96
+          units: km
+      - name: Newtown
+        distance:
+          value: 13.36
+          units: km
     - name: Cannondale
       region: CT
       lat: '41.2161'
       long: "-73.4252"
+      closest_rate_centers:
+      - name: Wilton
+        distance:
+          value: 2.61
+          units: km
+      - name: Georgetown
+        distance:
+          value: 4.72
+          units: km
+      - name: New Canaan
+        distance:
+          value: 9.49
+          units: km
     - name: Canton Valley
       region: CT
       lat: '41.8316'
       long: "-72.8977"
+      closest_rate_centers:
+      - name: Canton
+        distance:
+          value: 3.21
+          units: km
+      - name: Simsbury
+        distance:
+          value: 9.63
+          units: km
+      - name: Farmington
+        distance:
+          value: 13.28
+          units: km
     - name: Cheshire Village
       region: CT
       lat: '41.5041'
       long: "-72.8969"
+      closest_rate_centers:
+      - name: Cheshire
+        distance:
+          value: 0.46
+          units: km
+      - name: Meriden
+        distance:
+          value: 8.24
+          units: km
+      - name: Wallingford
+        distance:
+          value: 8.78
+          units: km
+      - name: Yalesville
+        distance:
+          value: 8.78
+          units: km
     - name: Chester Center
       region: CT
       lat: '41.4018'
       long: "-72.4578"
+      closest_rate_centers:
+      - name: Deep River
+        distance:
+          value: 2.42
+          units: km
+      - name: Essex
+        distance:
+          value: 7.12
+          units: km
+      - name: Killingworth
+        distance:
+          value: 9.82
+          units: km
     - name: Chimney Point
       region: CT
       lat: '41.5025'
       long: "-73.4414"
+      closest_rate_centers:
+      - name: New Milford
+        distance:
+          value: 8.71
+          units: km
+      - name: Danbury
+        distance:
+          value: 11.97
+          units: km
+      - name: Newtown
+        distance:
+          value: 15.05
+          units: km
     - name: Coleytown
       region: CT
       lat: '41.1742'
       long: "-73.3461"
+      closest_rate_centers:
+      - name: Westport
+        distance:
+          value: 4.02
+          units: km
+      - name: Wilton
+        distance:
+          value: 7.51
+          units: km
+      - name: Fairfield
+        distance:
+          value: 8.86
+          units: km
     - name: Collinsville
       region: CT
       lat: '41.8189'
       long: "-72.9220"
+      closest_rate_centers:
+      - name: Canton
+        distance:
+          value: 1.02
+          units: km
+      - name: Simsbury
+        distance:
+          value: 12.08
+          units: km
+      - name: Farmington
+        distance:
+          value: 13.15
+          units: km
     - name: Compo
       region: CT
       lat: '41.1225'
       long: "-73.3516"
+      closest_rate_centers:
+      - name: Westport
+        distance:
+          value: 1.91
+          units: km
+      - name: Norwalk
+        distance:
+          value: 6.25
+          units: km
+      - name: Fairfield
+        distance:
+          value: 8.41
+          units: km
     - name: Conning Towers Nautilus Park
       region: CT
       lat: '41.3850'
       long: "-72.0684"
+      closest_rate_centers:
+      - name: New London
+        distance:
+          value: 4.26
+          units: km
+      - name: Ledyard
+        distance:
+          value: 4.94
+          units: km
+      - name: Mystic
+        distance:
+          value: 9.14
+          units: km
     - name: Cornwall
       region: CT
       lat: '41.8443'
       long: "-73.3327"
+      closest_rate_centers:
+      - name: Cornwall
+        distance:
+          value: 0.39
+          units: km
+      - name: Sharon
+        distance:
+          value: 12.74
+          units: km
+      - name: Litchfield
+        distance:
+          value: 16.01
+          units: km
     - name: Cornwall Bridge
       region: CT
       lat: '41.8054'
       long: "-73.3852"
+      closest_rate_centers:
+      - name: Cornwall
+        distance:
+          value: 6.49
+          units: km
+      - name: Sharon
+        distance:
+          value: 11.32
+          units: km
+      - name: Kent
+        distance:
+          value: 11.89
+          units: km
     - name: Cos Cob
       region: CT
       lat: '41.0513'
       long: "-73.5934"
+      closest_rate_centers:
+      - name: Old Greenwich
+        distance:
+          value: 3.15
+          units: km
+      - name: Greenwich
+        distance:
+          value: 4.17
+          units: km
+      - name: Stamford
+        distance:
+          value: 4.69
+          units: km
     - name: Coventry Lake
       region: CT
       lat: '41.7732'
       long: "-72.3299"
+      closest_rate_centers:
+      - name: Coventry
+        distance:
+          value: 2.08
+          units: km
+      - name: Storrs
+        distance:
+          value: 7.73
+          units: km
+      - name: Columbia
+        distance:
+          value: 8.93
+          units: km
     - name: Crystal Lake
       region: CT
       lat: '41.9334'
       long: "-72.3812"
+      closest_rate_centers:
+      - name: Stafford Springs
+        distance:
+          value: 6.24
+          units: km
+      - name: Rockville
+        distance:
+          value: 9.42
+          units: km
+      - name: Storrs
+        distance:
+          value: 17.94
+          units: km
     - name: Danbury
       region: CT
       lat: '41.4015'
       long: "-73.4709"
+      closest_rate_centers:
+      - name: Danbury
+        distance:
+          value: 1.5
+          units: km
+      - name: Ridgefield
+        distance:
+          value: 13.33
+          units: km
+      - name: Redding
+        distance:
+          value: 13.76
+          units: km
     - name: Daniels Farm
       region: CT
       lat: '41.2778'
       long: "-73.2022"
+      closest_rate_centers:
+      - name: Trumbull
+        distance:
+          value: 2.4
+          units: km
+      - name: Huntington
+        distance:
+          value: 4.79
+          units: km
+      - name: Stratford
+        distance:
+          value: 10.07
+          units: km
     - name: Danielson
       region: CT
       lat: '41.8086'
       long: "-71.8854"
+      closest_rate_centers:
+      - name: Danielson
+        distance:
+          value: 0.05
+          units: km
+      - name: Plainfield
+        distance:
+          value: 10.75
+          units: km
+      - name: Putnam
+        distance:
+          value: 12.12
+          units: km
     - name: Darien Downtown
       region: CT
       lat: '41.0768'
       long: "-73.4699"
+      closest_rate_centers:
+      - name: Darien
+        distance:
+          value: 0.33
+          units: km
+      - name: Norwalk
+        distance:
+          value: 4.93
+          units: km
+      - name: Stamford
+        distance:
+          value: 6.26
+          units: km
     - name: Dayville
       region: CT
       lat: '41.8443'
       long: "-71.8823"
+      closest_rate_centers:
+      - name: Danielson
+        distance:
+          value: 4.0
+          units: km
+      - name: Putnam
+        distance:
+          value: 8.3
+          units: km
+      - name: Plainfield
+        distance:
+          value: 14.71
+          units: km
     - name: Deep River Center
       region: CT
       lat: '41.3789'
       long: "-72.4411"
+      closest_rate_centers:
+      - name: Deep River
+        distance:
+          value: 1.22
+          units: km
+      - name: Essex
+        distance:
+          value: 4.32
+          units: km
+      - name: Killingworth
+        distance:
+          value: 10.51
+          units: km
     - name: Derby
       region: CT
       lat: '41.3265'
       long: "-73.0833"
+      closest_rate_centers:
+      - name: Ansonia-Derby
+        distance:
+          value: 0.59
+          units: km
+      - name: Huntington
+        distance:
+          value: 6.55
+          units: km
+      - name: Seymour
+        distance:
+          value: 7.84
+          units: km
     - name: Dodgingtown
       region: CT
       lat: '41.3799'
       long: "-73.3524"
+      closest_rate_centers:
+      - name: Newtown
+        distance:
+          value: 5.4
+          units: km
+      - name: Redding
+        distance:
+          value: 7.26
+          units: km
+      - name: Danbury
+        distance:
+          value: 8.72
+          units: km
     - name: East Brooklyn
       region: CT
       lat: '41.7981'
       long: "-71.9020"
+      closest_rate_centers:
+      - name: Danielson
+        distance:
+          value: 1.83
+          units: km
+      - name: Plainfield
+        distance:
+          value: 9.76
+          units: km
+      - name: Canterbury
+        distance:
+          value: 12.63
+          units: km
     - name: East Village
       region: CT
       lat: '41.3612'
       long: "-73.1845"
+      closest_rate_centers:
+      - name: Huntington
+        distance:
+          value: 7.83
+          units: km
+      - name: Ansonia-Derby
+        distance:
+          value: 8.91
+          units: km
+      - name: Seymour
+        distance:
+          value: 9.88
+          units: km
     - name: Essex Village
       region: CT
       lat: '41.3559'
       long: "-72.3919"
+      closest_rate_centers:
+      - name: Essex
+        distance:
+          value: 0.97
+          units: km
+      - name: Deep River
+        distance:
+          value: 5.11
+          units: km
+      - name: Lyme
+        distance:
+          value: 6.61
+          units: km
     - name: Fairfield University
       region: CT
       lat: '41.1590'
       long: "-73.2571"
+      closest_rate_centers:
+      - name: Fairfield
+        distance:
+          value: 2.53
+          units: km
+      - name: Bridgeport
+        distance:
+          value: 5.61
+          units: km
+      - name: Westport
+        distance:
+          value: 8.7
+          units: km
     - name: Falls Village
       region: CT
       lat: '41.9576'
       long: "-73.3561"
+      closest_rate_centers:
+      - name: Lakeville
+        distance:
+          value: 7.17
+          units: km
+      - name: Canaan
+        distance:
+          value: 7.89
+          units: km
+      - name: Cornwall
+        distance:
+          value: 12.67
+          units: km
     - name: Fenwick
       region: CT
       lat: '41.2711'
       long: "-72.3546"
+      closest_rate_centers:
+      - name: Old Saybrook
+        distance:
+          value: 2.78
+          units: km
+      - name: Lyme
+        distance:
+          value: 5.47
+          units: km
+      - name: Essex
+        distance:
+          value: 9.94
+          units: km
     - name: Gales Ferry
       region: CT
       lat: '41.4215'
       long: "-72.0854"
+      closest_rate_centers:
+      - name: Ledyard
+        distance:
+          value: 0.74
+          units: km
+      - name: New London
+        distance:
+          value: 7.58
+          units: km
+      - name: Norwich
+        distance:
+          value: 11.76
+          units: km
     - name: Gaylordsville
       region: CT
       lat: '41.6410'
       long: "-73.4826"
+      closest_rate_centers:
+      - name: New Milford
+        distance:
+          value: 9.1
+          units: km
+      - name: Kent
+        distance:
+          value: 9.22
+          units: km
+      - name: Washington
+        distance:
+          value: 13.22
+          units: km
     - name: Georgetown
       region: CT
       lat: '41.2494'
       long: "-73.4343"
+      closest_rate_centers:
+      - name: Georgetown
+        distance:
+          value: 0.94
+          units: km
+      - name: Wilton
+        distance:
+          value: 6.24
+          units: km
+      - name: Ridgefield
+        distance:
+          value: 6.72
+          units: km
     - name: Glastonbury Center
       region: CT
       lat: '41.7016'
       long: "-72.6002"
+      closest_rate_centers:
+      - name: Glastonbury
+        distance:
+          value: 1.11
+          units: km
+      - name: Hartford
+        distance:
+          value: 9.86
+          units: km
+      - name: Newington
+        distance:
+          value: 10.33
+          units: km
     - name: Glenville
       region: CT
       lat: '41.0351'
       long: "-73.6657"
+      closest_rate_centers:
+      - name: Byram
+        distance:
+          value: 2.49
+          units: km
+      - name: Greenwich
+        distance:
+          value: 3.41
+          units: km
+      - name: Old Greenwich
+        distance:
+          value: 8.2
+          units: km
     - name: Greens Farms
       region: CT
       lat: '41.1264'
       long: "-73.3220"
+      closest_rate_centers:
+      - name: Westport
+        distance:
+          value: 3.29
+          units: km
+      - name: Fairfield
+        distance:
+          value: 5.9
+          units: km
+      - name: Norwalk
+        distance:
+          value: 8.72
+          units: km
     - name: Groton Long Point
       region: CT
       lat: '41.3144'
       long: "-72.0087"
+      closest_rate_centers:
+      - name: Mystic
+        distance:
+          value: 5.44
+          units: km
+      - name: New London
+        distance:
+          value: 8.7
+          units: km
+      - name: Ledyard
+        distance:
+          value: 14.2
+          units: km
     - name: Guilford Center
       region: CT
       lat: '41.2818'
       long: "-72.6763"
+      closest_rate_centers:
+      - name: Guilford
+        distance:
+          value: 0.67
+          units: km
+      - name: East River
+        distance:
+          value: 6.77
+          units: km
+      - name: Madison
+        distance:
+          value: 6.77
+          units: km
+      - name: Branford
+        distance:
+          value: 11.38
+          units: km
     - name: Hartford
       region: CT
       lat: '41.7661'
       long: "-72.6834"
+      closest_rate_centers:
+      - name: Hartford
+        distance:
+          value: 0.36
+          units: km
+      - name: Glastonbury
+        distance:
+          value: 8.84
+          units: km
+      - name: Newington
+        distance:
+          value: 9.19
+          units: km
     - name: Hawleyville
       region: CT
       lat: '41.4288'
       long: "-73.3506"
+      closest_rate_centers:
+      - name: Newtown
+        distance:
+          value: 4.13
+          units: km
+      - name: Danbury
+        distance:
+          value: 9.46
+          units: km
+      - name: Redding
+        distance:
+          value: 12.7
+          units: km
     - name: Hazardville
       region: CT
       lat: '41.9921'
       long: "-72.5344"
+      closest_rate_centers:
+      - name: Enfield
+        distance:
+          value: 4.92
+          units: km
+      - name: Windsor Locks
+        distance:
+          value: 10.56
+          units: km
+      - name: Rockville
+        distance:
+          value: 15.67
+          units: km
     - name: Heritage Village
       region: CT
       lat: '41.4855'
       long: "-73.2349"
+      closest_rate_centers:
+      - name: Woodbury
+        distance:
+          value: 7.16
+          units: km
+      - name: Newtown
+        distance:
+          value: 9.95
+          units: km
+      - name: Naugatuck
+        distance:
+          value: 15.16
+          units: km
     - name: Higganum
       region: CT
       lat: '41.4905'
       long: "-72.5580"
+      closest_rate_centers:
+      - name: Haddam
+        distance:
+          value: 0.76
+          units: km
+      - name: Moodus
+        distance:
+          value: 9.23
+          units: km
+      - name: East Hampton
+        distance:
+          value: 10.26
+          units: km
     - name: Indian Field
       region: CT
       lat: '41.0218'
       long: "-73.6071"
+      closest_rate_centers:
+      - name: Greenwich
+        distance:
+          value: 1.75
+          units: km
+      - name: Old Greenwich
+        distance:
+          value: 3.4
+          units: km
+      - name: Byram
+        distance:
+          value: 3.85
+          units: km
     - name: Inglenook
       region: CT
       lat: '41.5229'
       long: "-73.4736"
+      closest_rate_centers:
+      - name: New Milford
+        distance:
+          value: 7.93
+          units: km
+      - name: Danbury
+        distance:
+          value: 14.27
+          units: km
+      - name: Washington
+        distance:
+          value: 18.18
+          units: km
     - name: Jewett City
       region: CT
       lat: '41.6070'
       long: "-71.9806"
+      closest_rate_centers:
+      - name: Jewett City
+        distance:
+          value: 0.86
+          units: km
+      - name: Canterbury
+        distance:
+          value: 10.09
+          units: km
+      - name: Norwich
+        distance:
+          value: 12.0
+          units: km
     - name: Kellogg Point
       region: CT
       lat: '41.4681'
       long: "-73.4597"
+      closest_rate_centers:
+      - name: Danbury
+        distance:
+          value: 8.1
+          units: km
+      - name: New Milford
+        distance:
+          value: 12.81
+          units: km
+      - name: Newtown
+        distance:
+          value: 14.22
+          units: km
     - name: Kensington
       region: CT
       lat: '41.6284'
       long: "-72.7686"
+      closest_rate_centers:
+      - name: Berlin
+        distance:
+          value: 1.89
+          units: km
+      - name: New Britain
+        distance:
+          value: 4.54
+          units: km
+      - name: Newington
+        distance:
+          value: 7.72
+          units: km
     - name: Knollcrest
       region: CT
       lat: '41.5012'
       long: "-73.4669"
+      closest_rate_centers:
+      - name: New Milford
+        distance:
+          value: 9.64
+          units: km
+      - name: Danbury
+        distance:
+          value: 11.81
+          units: km
+      - name: Newtown
+        distance:
+          value: 16.62
+          units: km
     - name: Lake Bungee
       region: CT
       lat: '41.9542'
       long: "-72.0652"
+      closest_rate_centers:
+      - name: North Thompson
+        distance:
+          value: 12.01
+          units: km
+      - name: Putnam
+        distance:
+          value: 13.53
+          units: km
+      - name: Stafford Springs
+        distance:
+          value: 20.27
+          units: km
     - name: Lake Chaffee
       region: CT
       lat: '41.9389'
       long: "-72.1961"
+      closest_rate_centers:
+      - name: Stafford Springs
+        distance:
+          value: 9.57
+          units: km
+      - name: Storrs
+        distance:
+          value: 15.36
+          units: km
+      - name: North Thompson
+        distance:
+          value: 22.18
+          units: km
     - name: Lake Pocotopaug
       region: CT
       lat: '41.5960'
       long: "-72.5100"
+      closest_rate_centers:
+      - name: East Hampton
+        distance:
+          value: 2.58
+          units: km
+      - name: Haddam
+        distance:
+          value: 11.8
+          units: km
+      - name: Middletown
+        distance:
+          value: 12.3
+          units: km
     - name: Lakes East
       region: CT
       lat: '41.3314'
       long: "-73.4911"
+      closest_rate_centers:
+      - name: Ridgefield
+        distance:
+          value: 5.36
+          units: km
+      - name: Danbury
+        distance:
+          value: 7.72
+          units: km
+      - name: Georgetown
+        distance:
+          value: 9.43
+          units: km
     - name: Lakes West
       region: CT
       lat: '41.3350'
       long: "-73.5130"
+      closest_rate_centers:
+      - name: Ridgefield
+        distance:
+          value: 5.8
+          units: km
+      - name: Danbury
+        distance:
+          value: 8.28
+          units: km
+      - name: Georgetown
+        distance:
+          value: 10.77
+          units: km
     - name: Lakeside Woods
       region: CT
       lat: '41.5548'
       long: "-73.4840"
+      closest_rate_centers:
+      - name: New Milford
+        distance:
+          value: 6.45
+          units: km
+      - name: Washington
+        distance:
+          value: 16.48
+          units: km
+      - name: Danbury
+        distance:
+          value: 17.9
+          units: km
     - name: Lakeville
       region: CT
       lat: '41.9595'
       long: "-73.4485"
+      closest_rate_centers:
+      - name: Lakeville
+        distance:
+          value: 1.04
+          units: km
+      - name: Sharon
+        distance:
+          value: 9.26
+          units: km
+      - name: Canaan
+        distance:
+          value: 12.09
+          units: km
     - name: Long Hill
       region: CT
       lat: '41.3536'
       long: "-72.0517"
+      closest_rate_centers:
+      - name: New London
+        distance:
+          value: 3.91
+          units: km
+      - name: Mystic
+        distance:
+          value: 7.0
+          units: km
+      - name: Ledyard
+        distance:
+          value: 8.7
+          units: km
     - name: Long Hill
       region: CT
       lat: '41.2666'
       long: "-73.2283"
+      closest_rate_centers:
+      - name: Trumbull
+        distance:
+          value: 0.64
+          units: km
+      - name: Huntington
+        distance:
+          value: 7.29
+          units: km
+      - name: Bridgeport
+        distance:
+          value: 10.25
+          units: km
     - name: Lordship
       region: CT
       lat: '41.1533'
       long: "-73.1197"
+      closest_rate_centers:
+      - name: Stratford
+        distance:
+          value: 5.44
+          units: km
+      - name: Bridgeport
+        distance:
+          value: 6.87
+          units: km
+      - name: Milford
+        distance:
+          value: 9.02
+          units: km
     - name: Madison Center
       region: CT
       lat: '41.2794'
       long: "-72.6003"
+      closest_rate_centers:
+      - name: East River
+        distance:
+          value: 0.43
+          units: km
+      - name: Madison
+        distance:
+          value: 0.43
+          units: km
+      - name: Clinton
+        distance:
+          value: 5.92
+          units: km
+      - name: Guilford
+        distance:
+          value: 6.94
+          units: km
     - name: Mamanasco Lake
       region: CT
       lat: '41.3189'
       long: "-73.5253"
+      closest_rate_centers:
+      - name: Ridgefield
+        distance:
+          value: 4.43
+          units: km
+      - name: Georgetown
+        distance:
+          value: 10.15
+          units: km
+      - name: Danbury
+        distance:
+          value: 10.33
+          units: km
     - name: Mansfield Center
       region: CT
       lat: '41.7614'
       long: "-72.1945"
+      closest_rate_centers:
+      - name: Willimantic
+        distance:
+          value: 5.59
+          units: km
+      - name: Storrs
+        distance:
+          value: 6.67
+          units: km
+      - name: Coventry
+        distance:
+          value: 9.98
+          units: km
     - name: Mashantucket
       region: CT
       lat: '41.4645'
       long: "-71.9745"
+      closest_rate_centers:
+      - name: Ledyard
+        distance:
+          value: 10.73
+          units: km
+      - name: Norwich
+        distance:
+          value: 11.05
+          units: km
+      - name: Mystic
+        distance:
+          value: 12.47
+          units: km
     - name: Mechanicsville
       region: CT
       lat: '41.9545'
       long: "-71.8851"
+      closest_rate_centers:
+      - name: Putnam
+        distance:
+          value: 4.74
+          units: km
+      - name: North Thompson
+        distance:
+          value: 9.36
+          units: km
+      - name: Danielson
+        distance:
+          value: 16.25
+          units: km
     - name: Meriden
       region: CT
       lat: '41.5369'
       long: "-72.7946"
+      closest_rate_centers:
+      - name: Meriden
+        distance:
+          value: 1.07
+          units: km
+      - name: Yalesville
+        distance:
+          value: 9.38
+          units: km
+      - name: Wallingford
+        distance:
+          value: 9.38
+          units: km
+      - name: Cheshire
+        distance:
+          value: 9.69
+          units: km
     - name: Middletown
       region: CT
       lat: '41.5476'
       long: "-72.6549"
+      closest_rate_centers:
+      - name: Middletown
+        distance:
+          value: 1.44
+          units: km
+      - name: Haddam
+        distance:
+          value: 9.63
+          units: km
+      - name: Berlin
+        distance:
+          value: 11.31
+          units: km
     - name: 'Milford city '
       region: CT
       lat: '41.2255'
       long: "-73.0625"
+      closest_rate_centers:
+      - name: Milford
+        distance:
+          value: 0.65
+          units: km
+      - name: Stratford
+        distance:
+          value: 7.28
+          units: km
+      - name: Huntington
+        distance:
+          value: 10.7
+          units: km
     - name: Mill Plain
       region: CT
       lat: '41.1539'
       long: "-73.2695"
+      closest_rate_centers:
+      - name: Fairfield
+        distance:
+          value: 2.38
+          units: km
+      - name: Bridgeport
+        distance:
+          value: 6.79
+          units: km
+      - name: Westport
+        distance:
+          value: 7.55
+          units: km
     - name: Moodus
       region: CT
       lat: '41.5047'
       long: "-72.4448"
+      closest_rate_centers:
+      - name: Moodus
+        distance:
+          value: 1.17
+          units: km
+      - name: East Hampton
+        distance:
+          value: 9.07
+          units: km
+      - name: Haddam
+        distance:
+          value: 9.72
+          units: km
     - name: Moosup
       region: CT
       lat: '41.7173'
       long: "-71.8757"
+      closest_rate_centers:
+      - name: Plainfield
+        distance:
+          value: 0.64
+          units: km
+      - name: Canterbury
+        distance:
+          value: 8.36
+          units: km
+      - name: Danielson
+        distance:
+          value: 10.16
+          units: km
     - name: Murray
       region: CT
       lat: '41.1974'
       long: "-73.2895"
+      closest_rate_centers:
+      - name: Fairfield
+        distance:
+          value: 7.43
+          units: km
+      - name: Bridgeport
+        distance:
+          value: 8.2
+          units: km
+      - name: Westport
+        distance:
+          value: 8.63
+          units: km
     - name: Mystic
       region: CT
       lat: '41.3562'
       long: "-71.9546"
+      closest_rate_centers:
+      - name: Mystic
+        distance:
+          value: 1.18
+          units: km
+      - name: Pawcatuck
+        distance:
+          value: 10.14
+          units: km
+      - name: New London
+        distance:
+          value: 12.02
+          units: km
     - name: Naugatuck
       region: CT
       lat: '41.4890'
       long: "-73.0518"
+      closest_rate_centers:
+      - name: Naugatuck
+        distance:
+          value: 0.46
+          units: km
+      - name: Waterbury
+        distance:
+          value: 7.02
+          units: km
+      - name: Seymour
+        distance:
+          value: 10.45
+          units: km
     - name: New Britain
       region: CT
       lat: '41.6759'
       long: "-72.7862"
+      closest_rate_centers:
+      - name: New Britain
+        distance:
+          value: 0.97
+          units: km
+      - name: Newington
+        distance:
+          value: 5.41
+          units: km
+      - name: Farmington
+        distance:
+          value: 6.36
+          units: km
     - name: New Canaan
       region: CT
       lat: '41.1420'
       long: "-73.4905"
+      closest_rate_centers:
+      - name: New Canaan
+        distance:
+          value: 0.74
+          units: km
+      - name: Darien
+        distance:
+          value: 7.17
+          units: km
+      - name: Norwalk
+        distance:
+          value: 7.49
+          units: km
     - name: New Hartford Center
       region: CT
       lat: '41.8802'
       long: "-72.9753"
+      closest_rate_centers:
+      - name: Canton
+        distance:
+          value: 8.95
+          units: km
+      - name: Winsted
+        distance:
+          value: 9.08
+          units: km
+      - name: Simsbury
+        distance:
+          value: 14.67
+          units: km
     - name: New Haven
       region: CT
       lat: '41.3113'
       long: "-72.9246"
+      closest_rate_centers:
+      - name: New Haven
+        distance:
+          value: 0.77
+          units: km
+      - name: Branford
+        distance:
+          value: 10.01
+          units: km
+      - name: Ansonia-Derby
+        distance:
+          value: 13.87
+          units: km
     - name: New London
       region: CT
       lat: '41.3502'
       long: "-72.1022"
+      closest_rate_centers:
+      - name: New London
+        distance:
+          value: 0.53
+          units: km
+      - name: Ledyard
+        distance:
+          value: 8.43
+          units: km
+      - name: Niantic
+        distance:
+          value: 8.91
+          units: km
     - name: New Preston
       region: CT
       lat: '41.6813'
       long: "-73.3523"
+      closest_rate_centers:
+      - name: Washington
+        distance:
+          value: 5.0
+          units: km
+      - name: Kent
+        distance:
+          value: 11.46
+          units: km
+      - name: New Milford
+        distance:
+          value: 12.55
+          units: km
     - name: Niantic
       region: CT
       lat: '41.3258'
       long: "-72.1952"
+      closest_rate_centers:
+      - name: Niantic
+        distance:
+          value: 0.7
+          units: km
+      - name: New London
+        distance:
+          value: 8.66
+          units: km
+      - name: Lyme
+        distance:
+          value: 11.45
+          units: km
     - name: Noank
       region: CT
       lat: '41.3339'
       long: "-71.9978"
+      closest_rate_centers:
+      - name: Mystic
+        distance:
+          value: 3.24
+          units: km
+      - name: New London
+        distance:
+          value: 8.7
+          units: km
+      - name: Ledyard
+        distance:
+          value: 12.89
+          units: km
     - name: Noroton
       region: CT
       lat: '41.0595'
       long: "-73.4922"
+      closest_rate_centers:
+      - name: Darien
+        distance:
+          value: 2.7
+          units: km
+      - name: Stamford
+        distance:
+          value: 3.87
+          units: km
+      - name: Old Greenwich
+        distance:
+          value: 7.15
+          units: km
     - name: Noroton Heights
       region: CT
       lat: '41.0741'
       long: "-73.4972"
+      closest_rate_centers:
+      - name: Darien
+        distance:
+          value: 2.12
+          units: km
+      - name: Stamford
+        distance:
+          value: 4.12
+          units: km
+      - name: Norwalk
+        distance:
+          value: 7.09
+          units: km
     - name: North Granby
       region: CT
       lat: '42.0152'
       long: "-72.8440"
+      closest_rate_centers:
+      - name: Simsbury
+        distance:
+          value: 15.89
+          units: km
+      - name: Windsor Locks
+        distance:
+          value: 19.93
+          units: km
+      - name: Enfield
+        distance:
+          value: 20.79
+          units: km
     - name: North Grosvenor Dale
       region: CT
       lat: '41.9862'
       long: "-71.9033"
+      closest_rate_centers:
+      - name: North Thompson
+        distance:
+          value: 5.7
+          units: km
+      - name: Putnam
+        distance:
+          value: 7.82
+          units: km
+      - name: Danielson
+        distance:
+          value: 19.83
+          units: km
     - name: Northford
       region: CT
       lat: '41.3949'
       long: "-72.7826"
+      closest_rate_centers:
+      - name: Yalesville
+        distance:
+          value: 7.12
+          units: km
+      - name: Wallingford
+        distance:
+          value: 7.12
+          units: km
+      - name: Branford
+        distance:
+          value: 13.08
+          units: km
+      - name: Guilford
+        distance:
+          value: 14.77
+          units: km
     - name: Northwest Harwinton
       region: CT
       lat: '41.7769'
       long: "-73.0794"
+      closest_rate_centers:
+      - name: Harwinton
+        distance:
+          value: 0.93
+          units: km
+      - name: Torrington
+        distance:
+          value: 4.73
+          units: km
+      - name: Litchfield
+        distance:
+          value: 10.02
+          units: km
     - name: Norwalk
       region: CT
       lat: '41.1144'
       long: "-73.4215"
+      closest_rate_centers:
+      - name: Norwalk
+        distance:
+          value: 1.56
+          units: km
+      - name: Darien
+        distance:
+          value: 5.83
+          units: km
+      - name: Westport
+        distance:
+          value: 6.02
+          units: km
     - name: Norwich
       region: CT
       lat: '41.5495'
       long: "-72.0882"
+      closest_rate_centers:
+      - name: Norwich
+        distance:
+          value: 2.64
+          units: km
+      - name: Jewett City
+        distance:
+          value: 10.31
+          units: km
+      - name: Ledyard
+        distance:
+          value: 13.77
+          units: km
     - name: Oakville
       region: CT
       lat: '41.5893'
       long: "-73.0905"
+      closest_rate_centers:
+      - name: Watertown
+        distance:
+          value: 1.71
+          units: km
+      - name: Waterbury
+        distance:
+          value: 5.57
+          units: km
+      - name: Thomaston
+        distance:
+          value: 9.32
+          units: km
     - name: Old Greenwich
       region: CT
       lat: '41.0254'
       long: "-73.5692"
+      closest_rate_centers:
+      - name: Old Greenwich
+        distance:
+          value: 0.55
+          units: km
+      - name: Stamford
+        distance:
+          value: 4.05
+          units: km
+      - name: Greenwich
+        distance:
+          value: 4.92
+          units: km
     - name: Old Hill
       region: CT
       lat: '41.1491'
       long: "-73.3764"
+      closest_rate_centers:
+      - name: Westport
+        distance:
+          value: 1.93
+          units: km
+      - name: Norwalk
+        distance:
+          value: 6.54
+          units: km
+      - name: Wilton
+        distance:
+          value: 6.78
+          units: km
     - name: Old Mystic
       region: CT
       lat: '41.3852'
       long: "-71.9851"
+      closest_rate_centers:
+      - name: Mystic
+        distance:
+          value: 3.91
+          units: km
+      - name: Ledyard
+        distance:
+          value: 10.01
+          units: km
+      - name: New London
+        distance:
+          value: 10.08
+          units: km
     - name: Old Saybrook Center
       region: CT
       lat: '41.2918'
       long: "-72.3682"
+      closest_rate_centers:
+      - name: Old Saybrook
+        distance:
+          value: 0.61
+          units: km
+      - name: Lyme
+        distance:
+          value: 4.15
+          units: km
+      - name: Essex
+        distance:
+          value: 7.37
+          units: km
     - name: Oronoque
       region: CT
       lat: '41.2527'
       long: "-73.1089"
+      closest_rate_centers:
+      - name: Milford
+        distance:
+          value: 5.52
+          units: km
+      - name: Huntington
+        distance:
+          value: 5.89
+          units: km
+      - name: Stratford
+        distance:
+          value: 6.56
+          units: km
     - name: Oxoboxo River
       region: CT
       lat: '41.4441'
       long: "-72.1249"
+      closest_rate_centers:
+      - name: Ledyard
+        distance:
+          value: 3.41
+          units: km
+      - name: Norwich
+        distance:
+          value: 10.04
+          units: km
+      - name: New London
+        distance:
+          value: 10.25
+          units: km
     - name: Pawcatuck
       region: CT
       lat: '41.3774'
       long: "-71.8492"
+      closest_rate_centers:
+      - name: Pawcatuck
+        distance:
+          value: 1.03
+          units: km
+      - name: Mystic
+        distance:
+          value: 10.28
+          units: km
+      - name: New London
+        distance:
+          value: 20.97
+          units: km
     - name: Pemberwick
       region: CT
       lat: '41.0225'
       long: "-73.6564"
+      closest_rate_centers:
+      - name: Byram
+        distance:
+          value: 0.89
+          units: km
+      - name: Greenwich
+        distance:
+          value: 2.41
+          units: km
+      - name: Old Greenwich
+        distance:
+          value: 7.45
+          units: km
     - name: Plainfield Village
       region: CT
       lat: '41.6766'
       long: "-71.9250"
+      closest_rate_centers:
+      - name: Canterbury
+        distance:
+          value: 4.61
+          units: km
+      - name: Plainfield
+        distance:
+          value: 5.49
+          units: km
+      - name: Jewett City
+        distance:
+          value: 9.86
+          units: km
     - name: Plantsville
       region: CT
       lat: '41.5832'
       long: "-72.8919"
+      closest_rate_centers:
+      - name: Southington
+        distance:
+          value: 2.16
+          units: km
+      - name: Wolcott
+        distance:
+          value: 6.73
+          units: km
+      - name: Meriden
+        distance:
+          value: 8.8
+          units: km
     - name: Plattsville
       region: CT
       lat: '41.2260'
       long: "-73.2591"
+      closest_rate_centers:
+      - name: Trumbull
+        distance:
+          value: 5.09
+          units: km
+      - name: Bridgeport
+        distance:
+          value: 7.58
+          units: km
+      - name: Fairfield
+        distance:
+          value: 9.96
+          units: km
     - name: Pleasant Valley
       region: CT
       lat: '41.9083'
       long: "-72.9924"
+      closest_rate_centers:
+      - name: Winsted
+        distance:
+          value: 6.55
+          units: km
+      - name: Canton
+        distance:
+          value: 12.37
+          units: km
+      - name: Torrington
+        distance:
+          value: 15.92
+          units: km
     - name: Poplar Plains
       region: CT
       lat: '41.1714'
       long: "-73.3771"
+      closest_rate_centers:
+      - name: Westport
+        distance:
+          value: 3.95
+          units: km
+      - name: Wilton
+        distance:
+          value: 5.22
+          units: km
+      - name: Norwalk
+        distance:
+          value: 8.68
+          units: km
     - name: Poquonock Bridge
       region: CT
       lat: '41.3379'
       long: "-72.0176"
+      closest_rate_centers:
+      - name: Mystic
+        distance:
+          value: 4.46
+          units: km
+      - name: New London
+        distance:
+          value: 6.99
+          units: km
+      - name: Ledyard
+        distance:
+          value: 11.58
+          units: km
     - name: Quasset Lake
       region: CT
       lat: '41.9226'
       long: "-71.9840"
+      closest_rate_centers:
+      - name: Putnam
+        distance:
+          value: 6.18
+          units: km
+      - name: North Thompson
+        distance:
+          value: 11.38
+          units: km
+      - name: Danielson
+        distance:
+          value: 15.12
+          units: km
     - name: Quinebaug
       region: CT
       lat: '42.0107'
       long: "-71.9370"
+      closest_rate_centers:
+      - name: North Thompson
+        distance:
+          value: 1.8
+          units: km
+      - name: Putnam
+        distance:
+          value: 10.76
+          units: km
+      - name: Danielson
+        distance:
+          value: 22.91
+          units: km
     - name: Quinnipiac University
       region: CT
       lat: '41.4174'
       long: "-72.8992"
+      closest_rate_centers:
+      - name: Yalesville
+        distance:
+          value: 8.08
+          units: km
+      - name: Wallingford
+        distance:
+          value: 8.08
+          units: km
+      - name: Cheshire
+        distance:
+          value: 9.64
+          units: km
+      - name: New Haven
+        distance:
+          value: 12.76
+          units: km
     - name: Redding Center
       region: CT
       lat: '41.3067'
       long: "-73.3831"
+      closest_rate_centers:
+      - name: Redding
+        distance:
+          value: 2.62
+          units: km
+      - name: Georgetown
+        distance:
+          value: 6.95
+          units: km
+      - name: Ridgefield
+        distance:
+          value: 10.13
+          units: km
     - name: Ridgebury
       region: CT
       lat: '41.3570'
       long: "-73.5267"
+      closest_rate_centers:
+      - name: Danbury
+        distance:
+          value: 7.35
+          units: km
+      - name: Ridgefield
+        distance:
+          value: 8.44
+          units: km
+      - name: Georgetown
+        distance:
+          value: 13.42
+          units: km
     - name: Riverside
       region: CT
       lat: '41.0318'
       long: "-73.5827"
+      closest_rate_centers:
+      - name: Old Greenwich
+        distance:
+          value: 1.23
+          units: km
+      - name: Greenwich
+        distance:
+          value: 3.87
+          units: km
+      - name: Stamford
+        distance:
+          value: 4.46
+          units: km
     - name: Riverton
       region: CT
       lat: '41.9631'
       long: "-73.0166"
+      closest_rate_centers:
+      - name: Winsted
+        distance:
+          value: 6.29
+          units: km
+      - name: Norfolk
+        distance:
+          value: 15.9
+          units: km
+      - name: Canton
+        distance:
+          value: 18.73
+          units: km
     - name: Rock Ridge
       region: CT
       lat: '41.0345'
       long: "-73.6484"
+      closest_rate_centers:
+      - name: Greenwich
+        distance:
+          value: 2.08
+          units: km
+      - name: Byram
+        distance:
+          value: 2.17
+          units: km
+      - name: Old Greenwich
+        distance:
+          value: 6.75
+          units: km
     - name: Rockville
       region: CT
       lat: '41.8665'
       long: "-72.4512"
+      closest_rate_centers:
+      - name: Rockville
+        distance:
+          value: 0.11
+          units: km
+      - name: Manchester
+        distance:
+          value: 11.76
+          units: km
+      - name: Stafford Springs
+        distance:
+          value: 15.09
+          units: km
     - name: Route 7 Gateway
       region: CT
       lat: '41.3171'
       long: "-73.4746"
+      closest_rate_centers:
+      - name: Ridgefield
+        distance:
+          value: 4.29
+          units: km
+      - name: Georgetown
+        distance:
+          value: 7.37
+          units: km
+      - name: Danbury
+        distance:
+          value: 8.85
+          units: km
     - name: Sacred Heart University
       region: CT
       lat: '41.2215'
       long: "-73.2442"
+      closest_rate_centers:
+      - name: Trumbull
+        distance:
+          value: 4.92
+          units: km
+      - name: Bridgeport
+        distance:
+          value: 6.37
+          units: km
+      - name: Stratford
+        distance:
+          value: 8.89
+          units: km
     - name: Sail Harbor
       region: CT
       lat: '41.5265'
       long: "-73.4653"
+      closest_rate_centers:
+      - name: New Milford
+        distance:
+          value: 7.19
+          units: km
+      - name: Danbury
+        distance:
+          value: 14.61
+          units: km
+      - name: Washington
+        distance:
+          value: 17.42
+          units: km
     - name: Salmon Brook
       region: CT
       lat: '41.9575'
       long: "-72.7919"
+      closest_rate_centers:
+      - name: Simsbury
+        distance:
+          value: 9.04
+          units: km
+      - name: Windsor Locks
+        distance:
+          value: 13.6
+          units: km
+      - name: Enfield
+        distance:
+          value: 16.91
+          units: km
     - name: Sandy Hook
       region: CT
       lat: '41.4128'
       long: "-73.2440"
+      closest_rate_centers:
+      - name: Newtown
+        distance:
+          value: 5.13
+          units: km
+      - name: Seymour
+        distance:
+          value: 14.12
+          units: km
+      - name: Redding
+        distance:
+          value: 14.24
+          units: km
     - name: Saugatuck
       region: CT
       lat: '41.1143'
       long: "-73.3717"
+      closest_rate_centers:
+      - name: Westport
+        distance:
+          value: 3.0
+          units: km
+      - name: Norwalk
+        distance:
+          value: 4.34
+          units: km
+      - name: Darien
+        distance:
+          value: 9.34
+          units: km
     - name: Saybrook Manor
       region: CT
       lat: '41.2825'
       long: "-72.4063"
+      closest_rate_centers:
+      - name: Old Saybrook
+        distance:
+          value: 2.74
+          units: km
+      - name: Lyme
+        distance:
+          value: 7.32
+          units: km
+      - name: Essex
+        distance:
+          value: 7.83
+          units: km
     - name: Shelton
       region: CT
       lat: '41.3060'
       long: "-73.1383"
+      closest_rate_centers:
+      - name: Huntington
+        distance:
+          value: 1.51
+          units: km
+      - name: Ansonia-Derby
+        distance:
+          value: 4.53
+          units: km
+      - name: Trumbull
+        distance:
+          value: 8.54
+          units: km
     - name: Sherman
       region: CT
       lat: '41.5746'
       long: "-73.4957"
+      closest_rate_centers:
+      - name: New Milford
+        distance:
+          value: 6.9
+          units: km
+      - name: Washington
+        distance:
+          value: 16.15
+          units: km
+      - name: Kent
+        distance:
+          value: 16.66
+          units: km
     - name: Sherwood Manor
       region: CT
       lat: '42.0101'
       long: "-72.5667"
+      closest_rate_centers:
+      - name: Enfield
+        distance:
+          value: 2.78
+          units: km
+      - name: Windsor Locks
+        distance:
+          value: 10.35
+          units: km
+      - name: Rockville
+        distance:
+          value: 18.71
+          units: km
     - name: Simsbury Center
       region: CT
       lat: '41.8808'
       long: "-72.8111"
+      closest_rate_centers:
+      - name: Simsbury
+        distance:
+          value: 1.17
+          units: km
+      - name: Canton
+        distance:
+          value: 12.19
+          units: km
+      - name: Poquonock (Hartford)
+        distance:
+          value: 13.92
+          units: km
+      - name: Windsor
+        distance:
+          value: 13.92
+          units: km
     - name: South Coventry
       region: CT
       lat: '41.7731'
       long: "-72.3084"
+      closest_rate_centers:
+      - name: Coventry
+        distance:
+          value: 1.72
+          units: km
+      - name: Storrs
+        distance:
+          value: 6.23
+          units: km
+      - name: Columbia
+        distance:
+          value: 8.82
+          units: km
     - name: South Wilton
       region: CT
       lat: '41.1730'
       long: "-73.4166"
+      closest_rate_centers:
+      - name: Wilton
+        distance:
+          value: 2.61
+          units: km
+      - name: Westport
+        distance:
+          value: 6.22
+          units: km
+      - name: New Canaan
+        distance:
+          value: 7.02
+          units: km
     - name: South Windham
       region: CT
       lat: '41.6850'
       long: "-72.1845"
+      closest_rate_centers:
+      - name: Willimantic
+        distance:
+          value: 4.47
+          units: km
+      - name: Lebanon
+        distance:
+          value: 5.33
+          units: km
+      - name: Columbia
+        distance:
+          value: 10.73
+          units: km
     - name: South Woodstock
       region: CT
       lat: '41.9312'
       long: "-71.9555"
+      closest_rate_centers:
+      - name: Putnam
+        distance:
+          value: 4.13
+          units: km
+      - name: North Thompson
+        distance:
+          value: 10.12
+          units: km
+      - name: Danielson
+        distance:
+          value: 14.86
+          units: km
     - name: Southport
       region: CT
       lat: '41.1350'
       long: "-73.2873"
+      closest_rate_centers:
+      - name: Fairfield
+        distance:
+          value: 2.89
+          units: km
+      - name: Westport
+        distance:
+          value: 5.9
+          units: km
+      - name: Bridgeport
+        distance:
+          value: 9.08
+          units: km
     - name: Southwood Acres
       region: CT
       lat: '41.9582'
       long: "-72.5726"
+      closest_rate_centers:
+      - name: Enfield
+        distance:
+          value: 4.49
+          units: km
+      - name: Windsor Locks
+        distance:
+          value: 5.77
+          units: km
+      - name: Poquonock (Hartford)
+        distance:
+          value: 13.78
+          units: km
+      - name: Windsor
+        distance:
+          value: 13.78
+          units: km
     - name: Stafford Springs
       region: CT
       lat: '41.9595'
       long: "-72.3105"
+      closest_rate_centers:
+      - name: Stafford Springs
+        distance:
+          value: 0.76
+          units: km
+      - name: Rockville
+        distance:
+          value: 15.54
+          units: km
+      - name: Storrs
+        distance:
+          value: 17.81
+          units: km
     - name: Stamford
       region: CT
       lat: '41.1039'
       long: "-73.5585"
+      closest_rate_centers:
+      - name: Stamford
+        distance:
+          value: 5.94
+          units: km
+      - name: New Canaan
+        distance:
+          value: 7.32
+          units: km
+      - name: Darien
+        distance:
+          value: 7.71
+          units: km
     - name: Staples
       region: CT
       lat: '41.1508'
       long: "-73.3283"
+      closest_rate_centers:
+      - name: Westport
+        distance:
+          value: 2.77
+          units: km
+      - name: Fairfield
+        distance:
+          value: 6.51
+          units: km
+      - name: Norwalk
+        distance:
+          value: 9.52
+          units: km
     - name: Stepney
       region: CT
       lat: '41.3256'
       long: "-73.2674"
+      closest_rate_centers:
+      - name: Redding
+        distance:
+          value: 7.3
+          units: km
+      - name: Trumbull
+        distance:
+          value: 7.93
+          units: km
+      - name: Newtown
+        distance:
+          value: 10.27
+          units: km
     - name: Storrs
       region: CT
       lat: '41.8083'
       long: "-72.2514"
+      closest_rate_centers:
+      - name: Storrs
+        distance:
+          value: 0.37
+          units: km
+      - name: Coventry
+        distance:
+          value: 7.64
+          units: km
+      - name: Willimantic
+        distance:
+          value: 10.69
+          units: km
     - name: Stratford Downtown
       region: CT
       lat: '41.1989'
       long: "-73.1276"
+      closest_rate_centers:
+      - name: Stratford
+        distance:
+          value: 1.22
+          units: km
+      - name: Bridgeport
+        distance:
+          value: 6.1
+          units: km
+      - name: Milford
+        distance:
+          value: 6.22
+          units: km
     - name: Suffield Depot
       region: CT
       lat: '41.9843'
       long: "-72.6465"
+      closest_rate_centers:
+      - name: Enfield
+        distance:
+          value: 4.52
+          units: km
+      - name: Windsor Locks
+        distance:
+          value: 6.11
+          units: km
+      - name: Windsor
+        distance:
+          value: 15.15
+          units: km
+      - name: Poquonock (Hartford)
+        distance:
+          value: 15.15
+          units: km
     - name: Tariffville
       region: CT
       lat: '41.9071'
       long: "-72.7684"
+      closest_rate_centers:
+      - name: Simsbury
+        distance:
+          value: 4.22
+          units: km
+      - name: Windsor Locks
+        distance:
+          value: 11.61
+          units: km
+      - name: Windsor
+        distance:
+          value: 11.88
+          units: km
+      - name: Poquonock (Hartford)
+        distance:
+          value: 11.88
+          units: km
     - name: Tashua
       region: CT
       lat: '41.2761'
       long: "-73.2536"
+      closest_rate_centers:
+      - name: Trumbull
+        distance:
+          value: 2.98
+          units: km
+      - name: Huntington
+        distance:
+          value: 8.92
+          units: km
+      - name: Redding
+        distance:
+          value: 9.39
+          units: km
     - name: Taylor Corners
       region: CT
       lat: '41.4464'
       long: "-73.5288"
+      closest_rate_centers:
+      - name: Danbury
+        distance:
+          value: 8.38
+          units: km
+      - name: New Milford
+        distance:
+          value: 17.52
+          units: km
+      - name: Ridgefield
+        distance:
+          value: 18.24
+          units: km
     - name: Terramuggus
       region: CT
       lat: '41.6343'
       long: "-72.4693"
+      closest_rate_centers:
+      - name: East Hampton
+        distance:
+          value: 7.36
+          units: km
+      - name: Colchester
+        distance:
+          value: 13.31
+          units: km
+      - name: Glastonbury
+        distance:
+          value: 14.27
+          units: km
     - name: Terryville
       region: CT
       lat: '41.6784'
       long: "-73.0064"
+      closest_rate_centers:
+      - name: Bristol
+        distance:
+          value: 5.26
+          units: km
+      - name: Thomaston
+        distance:
+          value: 5.74
+          units: km
+      - name: Wolcott
+        distance:
+          value: 10.77
+          units: km
     - name: Thompsonville
       region: CT
       lat: '41.9915'
       long: "-72.5965"
+      closest_rate_centers:
+      - name: Enfield
+        distance:
+          value: 0.48
+          units: km
+      - name: Windsor Locks
+        distance:
+          value: 7.38
+          units: km
+      - name: Windsor
+        distance:
+          value: 16.53
+          units: km
+      - name: Poquonock (Hartford)
+        distance:
+          value: 16.53
+          units: km
     - name: Tokeneke
       region: CT
       lat: '41.0619'
       long: "-73.4643"
+      closest_rate_centers:
+      - name: Darien
+        distance:
+          value: 2.02
+          units: km
+      - name: Norwalk
+        distance:
+          value: 5.66
+          units: km
+      - name: Stamford
+        distance:
+          value: 6.22
+          units: km
     - name: Topstone
       region: CT
       lat: '41.2964'
       long: "-73.4466"
+      closest_rate_centers:
+      - name: Georgetown
+        distance:
+          value: 4.39
+          units: km
+      - name: Ridgefield
+        distance:
+          value: 4.72
+          units: km
+      - name: Redding
+        distance:
+          value: 8.03
+          units: km
     - name: Torrington
       region: CT
       lat: '41.8349'
       long: "-73.1282"
+      closest_rate_centers:
+      - name: Torrington
+        distance:
+          value: 3.49
+          units: km
+      - name: Harwinton
+        distance:
+          value: 8.54
+          units: km
+      - name: Winsted
+        distance:
+          value: 10.87
+          units: km
     - name: Trumbull Center
       region: CT
       lat: '41.2415'
       long: "-73.1836"
+      closest_rate_centers:
+      - name: Trumbull
+        distance:
+          value: 4.03
+          units: km
+      - name: Stratford
+        distance:
+          value: 5.84
+          units: km
+      - name: Huntington
+        distance:
+          value: 6.64
+          units: km
     - name: Wallingford Center
       region: CT
       lat: '41.4499'
       long: "-72.8189"
+      closest_rate_centers:
+      - name: Yalesville
+        distance:
+          value: 0.53
+          units: km
+      - name: Wallingford
+        distance:
+          value: 0.53
+          units: km
+      - name: Cheshire
+        distance:
+          value: 9.2
+          units: km
+      - name: Meriden
+        distance:
+          value: 9.59
+          units: km
     - name: Waterbury
       region: CT
       lat: '41.5582'
       long: "-73.0361"
+      closest_rate_centers:
+      - name: Waterbury
+        distance:
+          value: 1.06
+          units: km
+      - name: Wolcott
+        distance:
+          value: 6.05
+          units: km
+      - name: Watertown
+        distance:
+          value: 7.34
+          units: km
     - name: Wauregan
       region: CT
       lat: '41.7498'
       long: "-71.9138"
+      closest_rate_centers:
+      - name: Plainfield
+        distance:
+          value: 5.1
+          units: km
+      - name: Danielson
+        distance:
+          value: 6.94
+          units: km
+      - name: Canterbury
+        distance:
+          value: 7.6
+          units: km
     - name: Weatogue
       region: CT
       lat: '41.8459'
       long: "-72.8294"
+      closest_rate_centers:
+      - name: Simsbury
+        distance:
+          value: 4.26
+          units: km
+      - name: Canton
+        distance:
+          value: 8.74
+          units: km
+      - name: Farmington
+        distance:
+          value: 13.45
+          units: km
     - name: West Cornwall
       region: CT
       lat: '41.8642'
       long: "-73.3608"
+      closest_rate_centers:
+      - name: Cornwall
+        distance:
+          value: 3.4
+          units: km
+      - name: Sharon
+        distance:
+          value: 9.94
+          units: km
+      - name: Lakeville
+        distance:
+          value: 13.29
+          units: km
     - name: West Haven
       region: CT
       lat: '41.2739'
       long: "-72.9672"
+      closest_rate_centers:
+      - name: New Haven
+        distance:
+          value: 4.87
+          units: km
+      - name: Milford
+        distance:
+          value: 9.71
+          units: km
+      - name: Ansonia-Derby
+        distance:
+          value: 11.67
+          units: km
     - name: West Mountain
       region: CT
       lat: '41.2993'
       long: "-73.5383"
+      closest_rate_centers:
+      - name: Ridgefield
+        distance:
+          value: 3.6
+          units: km
+      - name: Georgetown
+        distance:
+          value: 9.79
+          units: km
+      - name: Danbury
+        distance:
+          value: 12.75
+          units: km
     - name: West Simsbury
       region: CT
       lat: '41.8757'
       long: "-72.8450"
+      closest_rate_centers:
+      - name: Simsbury
+        distance:
+          value: 3.87
+          units: km
+      - name: Canton
+        distance:
+          value: 9.78
+          units: km
+      - name: Poquonock (Hartford)
+        distance:
+          value: 16.53
+          units: km
+      - name: Windsor
+        distance:
+          value: 16.53
+          units: km
     - name: Westbrook Center
       region: CT
       lat: '41.2811'
       long: "-72.4424"
+      closest_rate_centers:
+      - name: Old Saybrook
+        distance:
+          value: 5.7
+          units: km
+      - name: Clinton
+        distance:
+          value: 7.3
+          units: km
+      - name: Essex
+        distance:
+          value: 8.64
+          units: km
     - name: Weston
       region: CT
       lat: '41.2033'
       long: "-73.3788"
+      closest_rate_centers:
+      - name: Wilton
+        distance:
+          value: 4.61
+          units: km
+      - name: Westport
+        distance:
+          value: 7.36
+          units: km
+      - name: Georgetown
+        distance:
+          value: 7.67
+          units: km
     - name: Westport Village
       region: CT
       lat: '41.1428'
       long: "-73.3609"
+      closest_rate_centers:
+      - name: Westport
+        distance:
+          value: 0.5
+          units: km
+      - name: Norwalk
+        distance:
+          value: 6.85
+          units: km
+      - name: Wilton
+        distance:
+          value: 8.19
+          units: km
     - name: Willimantic
       region: CT
       lat: '41.7171'
       long: "-72.2114"
+      closest_rate_centers:
+      - name: Willimantic
+        distance:
+          value: 0.78
+          units: km
+      - name: Lebanon
+        distance:
+          value: 8.14
+          units: km
+      - name: Columbia
+        distance:
+          value: 8.84
+          units: km
     - name: Wilton Center
       region: CT
       lat: '41.1914'
       long: "-73.4262"
+      closest_rate_centers:
+      - name: Wilton
+        distance:
+          value: 0.55
+          units: km
+      - name: New Canaan
+        distance:
+          value: 7.42
+          units: km
+      - name: Georgetown
+        distance:
+          value: 7.43
+          units: km
     - name: Winsted
       region: CT
       lat: '41.9262'
       long: "-73.0675"
+      closest_rate_centers:
+      - name: Winsted
+        distance:
+          value: 0.46
+          units: km
+      - name: Norfolk
+        distance:
+          value: 13.58
+          units: km
+      - name: Torrington
+        distance:
+          value: 14.39
+          units: km
     - name: Witches Woods
       region: CT
       lat: '41.9485'
       long: "-72.0724"
+      closest_rate_centers:
+      - name: North Thompson
+        distance:
+          value: 12.87
+          units: km
+      - name: Putnam
+        distance:
+          value: 13.92
+          units: km
+      - name: Stafford Springs
+        distance:
+          value: 19.68
+          units: km
     - name: Woodbury Center
       region: CT
       lat: '41.5439'
       long: "-73.2048"
+      closest_rate_centers:
+      - name: Woodbury
+        distance:
+          value: 0.29
+          units: km
+      - name: Watertown
+        distance:
+          value: 9.7
+          units: km
+      - name: Waterbury
+        distance:
+          value: 13.26
+          units: km
     - name: Woodmont
       region: CT
       lat: '41.2282'
       long: "-72.9930"
+      closest_rate_centers:
+      - name: Milford
+        distance:
+          value: 5.58
+          units: km
+      - name: New Haven
+        distance:
+          value: 10.18
+          units: km
+      - name: Stratford
+        distance:
+          value: 12.89
+          units: km

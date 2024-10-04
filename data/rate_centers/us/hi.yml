@@ -1,7 +1,7 @@
 ---
 rate_centers:
-  us:
-    hi:
+  US:
+    HI:
     - region: HI
       exchange: '036121'
       name: Aiea
@@ -186,6 +186,11 @@ rate_centers:
       ilec_name: HAWAIIAN TELCOM, INC. - HI
       lat: '19.726933'
       long: "-155.091794"
+      closest_city:
+        name: Wainaku
+        distance:
+          value: 2.11
+          units: km
     - region: HI
       exchange: '348029'
       name: Holualoa
@@ -218,6 +223,11 @@ rate_centers:
       ilec_name: HAWAIIAN TELCOM, INC. - HI
       lat: '21.314267'
       long: "-157.863494"
+      closest_city:
+        name: Honolulu
+        distance:
+          value: 2.47
+          units: km
     - region: HI
       exchange: '036114'
       name: Honomu
@@ -394,6 +404,11 @@ rate_centers:
       ilec_name: HAWAIIAN TELCOM, INC. - HI
       lat: '21.089644'
       long: "-157.026309"
+      closest_city:
+        name: Kaunakakai
+        distance:
+          value: 2.93
+          units: km
     - region: HI
       exchange: '036115'
       name: Kawaihae
@@ -554,6 +569,11 @@ rate_centers:
       ilec_name: HAWAIIAN TELCOM, INC. - HI
       lat: '20.825227'
       long: "-156.920543"
+      closest_city:
+        name: Lanai City
+        distance:
+          value: 0.68
+          units: km
     - region: HI
       exchange: '348075'
       name: Lanikai
@@ -578,6 +598,11 @@ rate_centers:
       ilec_name: HAWAIIAN TELCOM, INC. - HI
       lat: '21.977336'
       long: "-159.371417"
+      closest_city:
+        name: Lihue
+        distance:
+          value: 1.65
+          units: km
     - region: HI
       exchange: 03612H
       name: Makaha
@@ -938,6 +963,11 @@ rate_centers:
       ilec_name: HAWAIIAN TELCOM, INC. - HI
       lat: '20.931157'
       long: "-156.502411"
+      closest_city:
+        name: Waihee-Waiehu
+        distance:
+          value: 1.43
+          units: km
     - region: HI
       exchange: 03612W
       name: Waimanalo

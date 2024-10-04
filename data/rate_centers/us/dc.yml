@@ -1,7 +1,7 @@
 ---
 rate_centers:
-  us:
-    dc:
+  US:
+    DC:
     - region: DC
       exchange: '028710'
       name: Washington Zone 1
@@ -10,3 +10,8 @@ rate_centers:
       ilec_name: VERIZON WASHINGTON DC, INC.
       lat: '38.899904'
       long: "-77.031636"
+      closest_city:
+        name: Washington
+        distance:
+          value: 1.43
+          units: km

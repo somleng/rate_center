@@ -1,1848 +1,7937 @@
 ---
 cities:
-  us:
+  US:
     AZ:
     - name: Aguila
       region: AZ
       lat: '33.9376'
       long: "-113.1665"
+      closest_rate_centers:
+      - name: Aguila
+        distance:
+          value: 0.82
+          units: km
+      - name: Wickenburg
+        distance:
+          value: 42.91
+          units: km
+      - name: Salome
+        distance:
+          value: 45.02
+          units: km
     - name: Ajo
       region: AZ
       lat: '32.3923'
       long: "-112.8839"
+      closest_rate_centers:
+      - name: Ajo
+        distance:
+          value: 2.34
+          units: km
+      - name: West San Simon
+        distance:
+          value: 50.83
+          units: km
+      - name: Gila Bend
+        distance:
+          value: 63.06
+          units: km
     - name: Ak Chin
       region: AZ
       lat: '32.2873'
       long: "-112.0091"
+      closest_rate_centers:
+      - name: Santa Rosa
+        distance:
+          value: 8.26
+          units: km
+      - name: West San Simon
+        distance:
+          value: 38.37
+          units: km
+      - name: Silverbell
+        distance:
+          value: 39.9
+          units: km
     - name: Ak-Chin Village
       region: AZ
       lat: '33.0197'
       long: "-112.0808"
+      closest_rate_centers:
+      - name: Maricopa
+        distance:
+          value: 4.18
+          units: km
+      - name: Casa Blanca
+        distance:
+          value: 21.31
+          units: km
+      - name: Stotonic
+        distance:
+          value: 30.71
+          units: km
     - name: Alamo Lake
       region: AZ
       lat: '34.2588'
       long: "-113.5079"
+      closest_rate_centers:
+      - name: Bagdad
+        distance:
+          value: 45.51
+          units: km
+      - name: Aguila
+        distance:
+          value: 46.76
+          units: km
+      - name: Wikieup
+        distance:
+          value: 53.27
+          units: km
     - name: Ali Chuk
       region: AZ
       lat: '31.8169'
       long: "-112.5584"
+      closest_rate_centers:
+      - name: West San Simon
+        distance:
+          value: 43.92
+          units: km
+      - name: Sells
+        distance:
+          value: 64.97
+          units: km
+      - name: Ajo
+        distance:
+          value: 68.65
+          units: km
     - name: Ali Chukson
       region: AZ
       lat: '31.9115'
       long: "-111.8017"
+      closest_rate_centers:
+      - name: Sells
+        distance:
+          value: 7.38
+          units: km
+      - name: Robles
+        distance:
+          value: 45.78
+          units: km
+      - name: Sasabe
+        distance:
+          value: 46.82
+          units: km
     - name: Ali Molina
       region: AZ
       lat: '31.9025'
       long: "-111.7804"
+      closest_rate_centers:
+      - name: Sells
+        distance:
+          value: 9.46
+          units: km
+      - name: Robles
+        distance:
+          value: 44.18
+          units: km
+      - name: Sasabe
+        distance:
+          value: 44.81
+          units: km
     - name: Alpine
       region: AZ
       lat: '33.8461'
       long: "-109.1433"
+      closest_rate_centers:
+      - name: Alpine
+        distance:
+          value: 0.42
+          units: km
+      - name: Greer
+        distance:
+          value: 33.74
+          units: km
+      - name: Springerville
+        distance:
+          value: 34.31
+          units: km
     - name: Amado
       region: AZ
       lat: '31.6968'
       long: "-111.0583"
+      closest_rate_centers:
+      - name: Tubac
+        distance:
+          value: 9.76
+          units: km
+      - name: Green Valley
+        distance:
+          value: 21.51
+          units: km
+      - name: Patagonia
+        distance:
+          value: 33.28
+          units: km
     - name: Anegam
       region: AZ
       lat: '32.3742'
       long: "-112.0350"
+      closest_rate_centers:
+      - name: Santa Rosa
+        distance:
+          value: 3.42
+          units: km
+      - name: Silverbell
+        distance:
+          value: 35.5
+          units: km
+      - name: West San Simon
+        distance:
+          value: 40.05
+          units: km
     - name: Antares
       region: AZ
       lat: '35.4229'
       long: "-113.8083"
+      closest_rate_centers:
+      - name: Peach Springs
+        distance:
+          value: 23.64
+          units: km
+      - name: East Kingman
+        distance:
+          value: 25.68
+          units: km
+      - name: Kingman
+        distance:
+          value: 33.86
+          units: km
     - name: Anthem
       region: AZ
       lat: '33.8560'
       long: "-112.1168"
+      closest_rate_centers:
+      - name: Lake Pleasant
+        distance:
+          value: 12.55
+          units: km
+      - name: Granite Mountain
+        distance:
+          value: 33.25
+          units: km
+      - name: Phoenix
+        distance:
+          value: 35.22
+          units: km
+      - name: Salt River
+        distance:
+          value: 35.22
+          units: km
     - name: Apache Junction
       region: AZ
       lat: '33.3985'
       long: "-111.5350"
+      closest_rate_centers:
+      - name: Whitlow
+        distance:
+          value: 20.06
+          units: km
+      - name: Stotonic
+        distance:
+          value: 35.97
+          units: km
+      - name: Sacaton
+        distance:
+          value: 40.9
+          units: km
     - name: Arivaca
       region: AZ
       lat: '31.5750'
       long: "-111.2926"
+      closest_rate_centers:
+      - name: Sasabe
+        distance:
+          value: 19.72
+          units: km
+      - name: Tubac
+        distance:
+          value: 23.17
+          units: km
+      - name: Nogales
+        distance:
+          value: 43.0
+          units: km
     - name: Arivaca Junction
       region: AZ
       lat: '31.7390'
       long: "-111.0738"
+      closest_rate_centers:
+      - name: Tubac
+        distance:
+          value: 14.58
+          units: km
+      - name: Green Valley
+        distance:
+          value: 17.63
+          units: km
+      - name: Patagonia
+        distance:
+          value: 37.08
+          units: km
     - name: Arizona City
       region: AZ
       lat: '32.7506'
       long: "-111.6707"
+      closest_rate_centers:
+      - name: Eloy
+        distance:
+          value: 11.23
+          units: km
+      - name: Casa Grande
+        distance:
+          value: 20.47
+          units: km
+      - name: Silverbell
+        distance:
+          value: 22.86
+          units: km
     - name: Arizona Village
       region: AZ
       lat: '34.8546'
       long: "-114.5895"
+      closest_rate_centers:
+      - name: Arizona Village
+        distance:
+          value: 0.44
+          units: km
+      - name: Mohave Valley
+        distance:
+          value: 7.89
+          units: km
+      - name: Mesquite Creek
+        distance:
+          value: 12.06
+          units: km
     - name: Arlington
       region: AZ
       lat: '33.3346'
       long: "-112.7747"
+      closest_rate_centers:
+      - name: Harquahala Valley
+        distance:
+          value: 37.16
+          units: km
+      - name: Gila Bend
+        distance:
+          value: 44.0
+          units: km
+      - name: Maricopa Village
+        distance:
+          value: 51.24
+          units: km
     - name: Ash Fork
       region: AZ
       lat: '35.2171'
       long: "-112.4913"
+      closest_rate_centers:
+      - name: Ash Fork
+        distance:
+          value: 1.12
+          units: km
+      - name: Williams
+        distance:
+          value: 28.25
+          units: km
+      - name: Seligman
+        distance:
+          value: 36.73
+          units: km
     - name: Avenue B and C
       region: AZ
       lat: '32.7192'
       long: "-114.6598"
+      closest_rate_centers:
+      - name: Yuma
+        distance:
+          value: 3.46
+          units: km
+      - name: Somerton
+        distance:
+          value: 14.5
+          units: km
+      - name: Wellton
+        distance:
+          value: 49.73
+          units: km
     - name: Avondale
       region: AZ
       lat: '33.3873'
       long: "-112.3235"
+      closest_rate_centers:
+      - name: Maricopa Village
+        distance:
+          value: 9.25
+          units: km
+      - name: Komatke
+        distance:
+          value: 18.71
+          units: km
+      - name: Salt River
+        distance:
+          value: 30.88
+          units: km
+      - name: Phoenix
+        distance:
+          value: 30.88
+          units: km
     - name: Avra Valley
       region: AZ
       lat: '32.4195'
       long: "-111.3393"
+      closest_rate_centers:
+      - name: Marana
+        distance:
+          value: 12.81
+          units: km
+      - name: Silverbell
+        distance:
+          value: 38.35
+          units: km
+      - name: Tucson
+        distance:
+          value: 41.03
+          units: km
     - name: Aztec
       region: AZ
       lat: '32.8082'
       long: "-113.4428"
+      closest_rate_centers:
+      - name: Hyder
+        distance:
+          value: 24.98
+          units: km
+      - name: Wellton
+        distance:
+          value: 66.38
+          units: km
+      - name: Gila Bend
+        distance:
+          value: 69.38
+          units: km
     - name: Bagdad
       region: AZ
       lat: '34.5771'
       long: "-113.1771"
+      closest_rate_centers:
+      - name: Bagdad
+        distance:
+          value: 2.86
+          units: km
+      - name: Wikieup
+        distance:
+          value: 42.34
+          units: km
+      - name: Yarnell
+        distance:
+          value: 55.53
+          units: km
     - name: Bear Flat
       region: AZ
       lat: '34.2924'
       long: "-111.0674"
+      closest_rate_centers:
+      - name: Young
+        distance:
+          value: 24.17
+          units: km
+      - name: Payson
+        distance:
+          value: 25.31
+          units: km
+      - name: Blue Ridge
+        distance:
+          value: 35.78
+          units: km
     - name: Beaver Dam
       region: AZ
       lat: '36.9070'
       long: "-113.9362"
+      closest_rate_centers:
+      - name: Littlefield
+        distance:
+          value: 10.75
+          units: km
+      - name: Colorado City
+        distance:
+          value: 85.66
+          units: km
+      - name: Meadview
+        distance:
+          value: 101.35
+          units: km
     - name: Beaver Valley
       region: AZ
       lat: '34.3409'
       long: "-111.2987"
+      closest_rate_centers:
+      - name: Payson
+        distance:
+          value: 12.15
+          units: km
+      - name: Blue Ridge
+        distance:
+          value: 30.64
+          units: km
+      - name: Young
+        distance:
+          value: 42.0
+          units: km
     - name: Bellemont
       region: AZ
       lat: '35.2425'
       long: "-111.8138"
+      closest_rate_centers:
+      - name: Flagstaff
+        distance:
+          value: 15.4
+          units: km
+      - name: Williams
+        distance:
+          value: 33.53
+          units: km
+      - name: Munds Park
+        distance:
+          value: 37.08
+          units: km
     - name: Benson
       region: AZ
       lat: '31.9157'
       long: "-110.3257"
+      closest_rate_centers:
+      - name: Benson
+        distance:
+          value: 7.12
+          units: km
+      - name: Tombstone
+        distance:
+          value: 33.14
+          units: km
+      - name: Vail
+        distance:
+          value: 35.03
+          units: km
     - name: Beyerville
       region: AZ
       lat: '31.3919'
       long: "-110.8749"
+      closest_rate_centers:
+      - name: Nogales
+        distance:
+          value: 7.66
+          units: km
+      - name: Patagonia
+        distance:
+          value: 20.26
+          units: km
+      - name: Tubac
+        distance:
+          value: 29.39
+          units: km
     - name: Bisbee
       region: AZ
       lat: '31.4126'
       long: "-109.9178"
+      closest_rate_centers:
+      - name: Bisbee
+        distance:
+          value: 3.16
+          units: km
+      - name: Douglas
+        distance:
+          value: 36.39
+          units: km
+      - name: Tombstone
+        distance:
+          value: 36.52
+          units: km
     - name: Bitter Springs
       region: AZ
       lat: '36.6118'
       long: "-111.6475"
+      closest_rate_centers:
+      - name: Marble Canyon
+        distance:
+          value: 23.0
+          units: km
+      - name: Le Chee
+        distance:
+          value: 32.52
+          units: km
+      - name: Page
+        distance:
+          value: 33.63
+          units: km
     - name: Black Canyon City
       region: AZ
       lat: '34.0710'
       long: "-112.1220"
+      closest_rate_centers:
+      - name: Lake Pleasant
+        distance:
+          value: 27.65
+          units: km
+      - name: Granite Mountain
+        distance:
+          value: 46.46
+          units: km
+      - name: Millsite
+        distance:
+          value: 48.41
+          units: km
     - name: Blackwater
       region: AZ
       lat: '33.0396'
       long: "-111.5798"
+      closest_rate_centers:
+      - name: Blackwater
+        distance:
+          value: 1.99
+          units: km
+      - name: Coolidge
+        distance:
+          value: 8.78
+          units: km
+      - name: Casa Grande
+        distance:
+          value: 13.63
+          units: km
     - name: Blue Ridge
       region: AZ
       lat: '34.6407'
       long: "-111.1073"
+      closest_rate_centers:
+      - name: Blue Ridge
+        distance:
+          value: 8.34
+          units: km
+      - name: Mormon Lake
+        distance:
+          value: 45.25
+          units: km
+      - name: Payson
+        distance:
+          value: 49.61
+          units: km
     - name: Bluewater
       region: AZ
       lat: '34.1681'
       long: "-114.2667"
+      closest_rate_centers:
+      - name: Parker
+        distance:
+          value: 3.16
+          units: km
+      - name: Parker Dam
+        distance:
+          value: 8.52
+          units: km
+      - name: Poston
+        distance:
+          value: 22.98
+          units: km
     - name: Bouse
       region: AZ
       lat: '33.8984'
       long: "-113.9962"
+      closest_rate_centers:
+      - name: Bouse
+        distance:
+          value: 3.87
+          units: km
+      - name: Quartzsite
+        distance:
+          value: 32.79
+          units: km
+      - name: Salome
+        distance:
+          value: 37.07
+          units: km
     - name: Bowie
       region: AZ
       lat: '32.3247'
       long: "-109.4843"
+      closest_rate_centers:
+      - name: Bowie
+        distance:
+          value: 0.1
+          units: km
+      - name: San Simon
+        distance:
+          value: 25.25
+          units: km
+      - name: Willcox
+        distance:
+          value: 33.57
+          units: km
     - name: Brenda
       region: AZ
       lat: '33.6721'
       long: "-113.9379"
+      closest_rate_centers:
+      - name: Quartzsite
+        distance:
+          value: 25.64
+          units: km
+      - name: Bouse
+        distance:
+          value: 29.6
+          units: km
+      - name: Salome
+        distance:
+          value: 32.12
+          units: km
     - name: Bryce
       region: AZ
       lat: '32.9258'
       long: "-109.8229"
+      closest_rate_centers:
+      - name: Pima
+        distance:
+          value: 3.56
+          units: km
+      - name: Safford
+        distance:
+          value: 14.66
+          units: km
+      - name: Bonita
+        distance:
+          value: 40.77
+          units: km
     - name: Buckeye
       region: AZ
       lat: '33.4314'
       long: "-112.6429"
+      closest_rate_centers:
+      - name: Maricopa Village
+        distance:
+          value: 39.3
+          units: km
+      - name: Harquahala Valley
+        distance:
+          value: 47.31
+          units: km
+      - name: Komatke
+        distance:
+          value: 47.63
+          units: km
     - name: Buckshot
       region: AZ
       lat: '32.7404'
       long: "-114.4829"
+      closest_rate_centers:
+      - name: Yuma
+        distance:
+          value: 13.37
+          units: km
+      - name: Somerton
+        distance:
+          value: 25.0
+          units: km
+      - name: Wellton
+        distance:
+          value: 33.84
+          units: km
     - name: Bullhead City
       region: AZ
       lat: '35.1205'
       long: "-114.5461"
+      closest_rate_centers:
+      - name: Bullhead City North
+        distance:
+          value: 4.1
+          units: km
+      - name: Bullhead City
+        distance:
+          value: 7.62
+          units: km
+      - name: Mesquite Creek
+        distance:
+          value: 17.77
+          units: km
     - name: Burnside
       region: AZ
       lat: '35.7534'
       long: "-109.6247"
+      closest_rate_centers:
+      - name: Ganado
+        distance:
+          value: 8.68
+          units: km
+      - name: Toyei
+        distance:
+          value: 26.34
+          units: km
+      - name: Greasewood
+        distance:
+          value: 33.09
+          units: km
     - name: Bylas
       region: AZ
       lat: '33.1291'
       long: "-110.1162"
+      closest_rate_centers:
+      - name: Pima
+        distance:
+          value: 37.69
+          units: km
+      - name: San Carlos
+        distance:
+          value: 39.63
+          units: km
+      - name: Safford
+        distance:
+          value: 50.12
+          units: km
     - name: Cactus Flats
       region: AZ
       lat: '32.7642'
       long: "-109.7206"
+      closest_rate_centers:
+      - name: Safford
+        distance:
+          value: 8.02
+          units: km
+      - name: Pima
+        distance:
+          value: 17.41
+          units: km
+      - name: Bonita
+        distance:
+          value: 31.54
+          units: km
     - name: Cactus Forest
       region: AZ
       lat: '32.9578'
       long: "-111.3170"
+      closest_rate_centers:
+      - name: Florence
+        distance:
+          value: 9.52
+          units: km
+      - name: Coolidge
+        distance:
+          value: 19.53
+          units: km
+      - name: Blackwater
+        distance:
+          value: 24.97
+          units: km
     - name: Cameron
       region: AZ
       lat: '35.8537'
       long: "-111.4269"
+      closest_rate_centers:
+      - name: Cameron
+        distance:
+          value: 28.4
+          units: km
+      - name: Tuba City
+        distance:
+          value: 34.73
+          units: km
+      - name: Grand Canyon
+        distance:
+          value: 68.37
+          units: km
     - name: Camp Verde
       region: AZ
       lat: '34.5690'
       long: "-111.8560"
+      closest_rate_centers:
+      - name: Camp Verde
+        distance:
+          value: 0.8
+          units: km
+      - name: Sedona
+        distance:
+          value: 17.48
+          units: km
+      - name: Cottonwood
+        distance:
+          value: 24.2
+          units: km
     - name: Campo Bonito
       region: AZ
       lat: '32.5629'
       long: "-110.6984"
+      closest_rate_centers:
+      - name: San Manuel
+        distance:
+          value: 8.52
+          units: km
+      - name: Coronado
+        distance:
+          value: 21.83
+          units: km
+      - name: Cascabel
+        distance:
+          value: 41.93
+          units: km
     - name: Cane Beds
       region: AZ
       lat: '36.9342'
       long: "-112.9118"
+      closest_rate_centers:
+      - name: Colorado City
+        distance:
+          value: 8.59
+          units: km
+      - name: Fredonia
+        distance:
+          value: 34.34
+          units: km
+      - name: Supai
+        distance:
+          value: 80.54
+          units: km
     - name: Canyon Day
       region: AZ
       lat: '33.7830'
       long: "-110.0328"
+      closest_rate_centers:
+      - name: Whiteriver
+        distance:
+          value: 8.67
+          units: km
+      - name: Hawley Lake
+        distance:
+          value: 33.82
+          units: km
+      - name: McNary
+        distance:
+          value: 35.66
+          units: km
     - name: Carefree
       region: AZ
       lat: '33.8234'
       long: "-111.9161"
+      closest_rate_centers:
+      - name: Granite Mountain
+        distance:
+          value: 14.56
+          units: km
+      - name: Lake Pleasant
+        distance:
+          value: 31.16
+          units: km
+      - name: Salt River
+        distance:
+          value: 33.37
+          units: km
+      - name: Phoenix
+        distance:
+          value: 33.37
+          units: km
     - name: Carrizo
       region: AZ
       lat: '33.9866'
       long: "-110.3314"
+      closest_rate_centers:
+      - name: Pinedale
+        distance:
+          value: 36.71
+          units: km
+      - name: Whiteriver
+        distance:
+          value: 37.59
+          units: km
+      - name: Pinetop
+        distance:
+          value: 39.71
+          units: km
     - name: Casa Blanca
       region: AZ
       lat: '33.1154'
       long: "-111.9081"
+      closest_rate_centers:
+      - name: Casa Blanca
+        distance:
+          value: 2.09
+          units: km
+      - name: Stotonic
+        distance:
+          value: 11.48
+          units: km
+      - name: Maricopa
+        distance:
+          value: 15.34
+          units: km
     - name: Casa Grande
       region: AZ
       lat: '32.9069'
       long: "-111.7624"
+      closest_rate_centers:
+      - name: Casa Grande
+        distance:
+          value: 10.54
+          units: km
+      - name: Sacaton
+        distance:
+          value: 18.72
+          units: km
+      - name: Blackwater
+        distance:
+          value: 21.83
+          units: km
     - name: Casas Adobes
       region: AZ
       lat: '32.3423'
       long: "-111.0113"
+      closest_rate_centers:
+      - name: Tucson
+        distance:
+          value: 13.4
+          units: km
+      - name: Marana
+        distance:
+          value: 22.7
+          units: km
+      - name: Coronado
+        distance:
+          value: 25.14
+          units: km
     - name: Catalina
       region: AZ
       lat: '32.4848'
       long: "-110.8997"
+      closest_rate_centers:
+      - name: Coronado
+        distance:
+          value: 8.66
+          units: km
+      - name: San Manuel
+        distance:
+          value: 29.15
+          units: km
+      - name: Tucson
+        distance:
+          value: 29.22
+          units: km
     - name: Catalina Foothills
       region: AZ
       lat: '32.3046'
       long: "-110.8838"
+      closest_rate_centers:
+      - name: Tucson
+        distance:
+          value: 11.5
+          units: km
+      - name: Coronado
+        distance:
+          value: 28.53
+          units: km
+      - name: Marana
+        distance:
+          value: 35.1
+          units: km
     - name: Cave Creek
       region: AZ
       lat: '33.8513'
       long: "-111.9801"
+      closest_rate_centers:
+      - name: Granite Mountain
+        distance:
+          value: 21.23
+          units: km
+      - name: Lake Pleasant
+        distance:
+          value: 25.14
+          units: km
+      - name: Salt River
+        distance:
+          value: 34.72
+          units: km
+      - name: Phoenix
+        distance:
+          value: 34.72
+          units: km
     - name: Cedar Creek
       region: AZ
       lat: '33.9030'
       long: "-110.1929"
+      closest_rate_centers:
+      - name: Whiteriver
+        distance:
+          value: 22.19
+          units: km
+      - name: Pinetop
+        distance:
+          value: 34.39
+          units: km
+      - name: McNary
+        distance:
+          value: 36.38
+          units: km
     - name: Centennial Park
       region: AZ
       lat: '36.9538'
       long: "-112.9813"
+      closest_rate_centers:
+      - name: Colorado City
+        distance:
+          value: 4.09
+          units: km
+      - name: Fredonia
+        distance:
+          value: 40.46
+          units: km
+      - name: Supai
+        distance:
+          value: 84.41
+          units: km
     - name: Central
       region: AZ
       lat: '32.8692'
       long: "-109.7908"
+      closest_rate_centers:
+      - name: Pima
+        distance:
+          value: 4.22
+          units: km
+      - name: Safford
+        distance:
+          value: 8.56
+          units: km
+      - name: Bonita
+        distance:
+          value: 36.35
+          units: km
     - name: Central Heights-Midland City
       region: AZ
       lat: '33.4000'
       long: "-110.8153"
+      closest_rate_centers:
+      - name: Globe
+        distance:
+          value: 1.56
+          units: km
+      - name: Miami
+        distance:
+          value: 5.59
+          units: km
+      - name: Superior
+        distance:
+          value: 28.65
+          units: km
     - name: Chandler
       region: AZ
       lat: '33.2825'
       long: "-111.8514"
+      closest_rate_centers:
+      - name: Lone Butte
+        distance:
+          value: 10.43
+          units: km
+      - name: Stotonic
+        distance:
+          value: 14.46
+          units: km
+      - name: Casa Blanca
+        distance:
+          value: 18.25
+          units: km
     - name: Charco
       region: AZ
       lat: '32.2474'
       long: "-112.6001"
+      closest_rate_centers:
+      - name: West San Simon
+        distance:
+          value: 19.94
+          units: km
+      - name: Ajo
+        distance:
+          value: 29.0
+          units: km
+      - name: Santa Rosa
+        distance:
+          value: 52.31
+          units: km
     - name: Chiawuli Tak
       region: AZ
       lat: '31.9410'
       long: "-111.7765"
+      closest_rate_centers:
+      - name: Sells
+        distance:
+          value: 10.24
+          units: km
+      - name: Robles
+        distance:
+          value: 42.6
+          units: km
+      - name: Sasabe
+        distance:
+          value: 48.13
+          units: km
     - name: Chilchinbito
       region: AZ
       lat: '36.5027'
       long: "-110.0512"
+      closest_rate_centers:
+      - name: Rough Rock
+        distance:
+          value: 19.16
+          units: km
+      - name: Black Mesa
+        distance:
+          value: 30.6
+          units: km
+      - name: Kayenta
+        distance:
+          value: 30.68
+          units: km
     - name: Chinle
       region: AZ
       lat: '36.1505'
       long: "-109.5794"
+      closest_rate_centers:
+      - name: Chinle
+        distance:
+          value: 2.32
+          units: km
+      - name: Many Farms
+        distance:
+          value: 23.0
+          units: km
+      - name: Pinon Cottonwood
+        distance:
+          value: 29.09
+          units: km
     - name: Chino Valley
       region: AZ
       lat: '34.7594'
       long: "-112.4120"
+      closest_rate_centers:
+      - name: Chino Valley
+        distance:
+          value: 4.4
+          units: km
+      - name: Prescott
+        distance:
+          value: 24.65
+          units: km
+      - name: Humboldt
+        distance:
+          value: 33.34
+          units: km
     - name: Chloride
       region: AZ
       lat: '35.4097'
       long: "-114.1972"
+      closest_rate_centers:
+      - name: Golden Valley
+        distance:
+          value: 20.07
+          units: km
+      - name: Lake Mohave Ranchos
+        distance:
+          value: 22.14
+          units: km
+      - name: East Kingman
+        distance:
+          value: 24.77
+          units: km
     - name: Christopher Creek
       region: AZ
       lat: '34.3206'
       long: "-111.0071"
+      closest_rate_centers:
+      - name: Young
+        distance:
+          value: 25.27
+          units: km
+      - name: Payson
+        distance:
+          value: 31.5
+          units: km
+      - name: Blue Ridge
+        distance:
+          value: 34.99
+          units: km
     - name: Chuichu
       region: AZ
       lat: '32.7403'
       long: "-111.7821"
+      closest_rate_centers:
+      - name: Eloy
+        distance:
+          value: 21.66
+          units: km
+      - name: Silverbell
+        distance:
+          value: 22.1
+          units: km
+      - name: Casa Grande
+        distance:
+          value: 24.64
+          units: km
     - name: Cibecue
       region: AZ
       lat: '34.0332'
       long: "-110.4854"
+      closest_rate_centers:
+      - name: Pinedale
+        distance:
+          value: 37.66
+          units: km
+      - name: Young
+        distance:
+          value: 43.25
+          units: km
+      - name: Heber
+        distance:
+          value: 44.72
+          units: km
     - name: Cibola
       region: AZ
       lat: '33.3733'
       long: "-114.6792"
+      closest_rate_centers:
+      - name: Cibola
+        distance:
+          value: 8.14
+          units: km
+      - name: Ehrenberg
+        distance:
+          value: 28.94
+          units: km
+      - name: Quartzsite
+        distance:
+          value: 53.98
+          units: km
     - name: Cienega Springs
       region: AZ
       lat: '34.2009'
       long: "-114.2089"
+      closest_rate_centers:
+      - name: Parker Dam
+        distance:
+          value: 2.16
+          units: km
+      - name: Parker
+        distance:
+          value: 9.57
+          units: km
+      - name: Poston
+        distance:
+          value: 28.99
+          units: km
     - name: Circle City
       region: AZ
       lat: '33.8149'
       long: "-112.5810"
+      closest_rate_centers:
+      - name: Lake Pleasant
+        distance:
+          value: 30.58
+          units: km
+      - name: Wickenburg
+        distance:
+          value: 34.74
+          units: km
+      - name: Yarnell
+        distance:
+          value: 48.15
+          units: km
     - name: Citrus Park
       region: AZ
       lat: '33.5300'
       long: "-112.4441"
+      closest_rate_centers:
+      - name: Maricopa Village
+        distance:
+          value: 26.69
+          units: km
+      - name: Phoenix
+        distance:
+          value: 36.66
+          units: km
+      - name: Salt River
+        distance:
+          value: 36.66
+          units: km
+      - name: Komatke
+        distance:
+          value: 37.55
+          units: km
     - name: Clacks Canyon
       region: AZ
       lat: '35.2203'
       long: "-114.0723"
+      closest_rate_centers:
+      - name: Kingman
+        distance:
+          value: 3.66
+          units: km
+      - name: East Kingman
+        distance:
+          value: 7.44
+          units: km
+      - name: Golden Valley
+        distance:
+          value: 7.69
+          units: km
     - name: Clarkdale
       region: AZ
       lat: '34.7501'
       long: "-112.0555"
+      closest_rate_centers:
+      - name: Cottonwood
+        distance:
+          value: 3.76
+          units: km
+      - name: Sedona
+        distance:
+          value: 17.0
+          units: km
+      - name: Camp Verde
+        distance:
+          value: 27.94
+          units: km
     - name: Clay Springs
       region: AZ
       lat: '34.3593'
       long: "-110.3044"
+      closest_rate_centers:
+      - name: Pinedale
+        distance:
+          value: 7.52
+          units: km
+      - name: Snowflake
+        distance:
+          value: 26.69
+          units: km
+      - name: Show Low
+        distance:
+          value: 27.67
+          units: km
     - name: Claypool
       region: AZ
       lat: '33.4061'
       long: "-110.8422"
+      closest_rate_centers:
+      - name: Globe
+        distance:
+          value: 1.41
+          units: km
+      - name: Miami
+        distance:
+          value: 3.14
+          units: km
+      - name: Superior
+        distance:
+          value: 26.79
+          units: km
     - name: Clifton
       region: AZ
       lat: '33.0249'
       long: "-109.2883"
+      closest_rate_centers:
+      - name: Clifton
+        distance:
+          value: 3.74
+          units: km
+      - name: York Valley
+        distance:
+          value: 13.92
+          units: km
+      - name: Duncan
+        distance:
+          value: 37.66
+          units: km
     - name: Colorado City
       region: AZ
       lat: '36.9773'
       long: "-112.9869"
+      closest_rate_centers:
+      - name: Colorado City
+        distance:
+          value: 1.67
+          units: km
+      - name: Fredonia
+        distance:
+          value: 41.05
+          units: km
+      - name: Littlefield
+        distance:
+          value: 86.92
+          units: km
     - name: Comobabi
       region: AZ
       lat: '32.0538'
       long: "-111.8029"
+      closest_rate_centers:
+      - name: Sells
+        distance:
+          value: 17.26
+          units: km
+      - name: Santa Rosa
+        distance:
+          value: 40.66
+          units: km
+      - name: Robles
+        distance:
+          value: 43.89
+          units: km
     - name: Concho
       region: AZ
       lat: '34.4742'
       long: "-109.6102"
+      closest_rate_centers:
+      - name: St Johns
+        distance:
+          value: 21.83
+          units: km
+      - name: Snowflake
+        distance:
+          value: 42.76
+          units: km
+      - name: Show Low
+        distance:
+          value: 46.06
+          units: km
     - name: Congress
       region: AZ
       lat: '34.1526'
       long: "-112.8642"
+      closest_rate_centers:
+      - name: Wickenburg
+        distance:
+          value: 12.78
+          units: km
+      - name: Yarnell
+        distance:
+          value: 13.43
+          units: km
+      - name: Aguila
+        distance:
+          value: 36.76
+          units: km
     - name: Coolidge
       region: AZ
       lat: '32.9363'
       long: "-111.5254"
+      closest_rate_centers:
+      - name: Coolidge
+        distance:
+          value: 4.33
+          units: km
+      - name: Blackwater
+        distance:
+          value: 10.58
+          units: km
+      - name: Casa Grande
+        distance:
+          value: 12.02
+          units: km
     - name: Copper Hill
       region: AZ
       lat: '33.4379'
       long: "-110.7516"
+      closest_rate_centers:
+      - name: Globe
+        distance:
+          value: 8.71
+          units: km
+      - name: Miami
+        distance:
+          value: 12.21
+          units: km
+      - name: San Carlos
+        distance:
+          value: 29.53
+          units: km
     - name: Cordes Lakes
       region: AZ
       lat: '34.3103'
       long: "-112.1073"
+      closest_rate_centers:
+      - name: Humboldt
+        distance:
+          value: 23.87
+          units: km
+      - name: Millsite
+        distance:
+          value: 31.27
+          units: km
+      - name: Camp Verde
+        distance:
+          value: 36.98
+          units: km
     - name: Cornfields
       region: AZ
       lat: '35.6515'
       long: "-109.6756"
+      closest_rate_centers:
+      - name: Ganado
+        distance:
+          value: 14.07
+          units: km
+      - name: Greasewood
+        distance:
+          value: 21.71
+          units: km
+      - name: Toyei
+        distance:
+          value: 22.53
+          units: km
     - name: Cornville
       region: AZ
       lat: '34.7389'
       long: "-111.9086"
+      closest_rate_centers:
+      - name: Sedona
+        distance:
+          value: 3.67
+          units: km
+      - name: Cottonwood
+        distance:
+          value: 9.76
+          units: km
+      - name: Camp Verde
+        distance:
+          value: 20.07
+          units: km
     - name: Corona de Tucson
       region: AZ
       lat: '31.9503'
       long: "-110.7835"
+      closest_rate_centers:
+      - name: Vail
+        distance:
+          value: 10.85
+          units: km
+      - name: Green Valley
+        distance:
+          value: 21.28
+          units: km
+      - name: Tucson
+        distance:
+          value: 35.35
+          units: km
     - name: Cottonwood
       region: AZ
       lat: '34.7195'
       long: "-112.0016"
+      closest_rate_centers:
+      - name: Cottonwood
+        distance:
+          value: 2.88
+          units: km
+      - name: Sedona
+        distance:
+          value: 11.88
+          units: km
+      - name: Camp Verde
+        distance:
+          value: 22.14
+          units: km
     - name: Cowlic
       region: AZ
       lat: '31.8048'
       long: "-111.9876"
+      closest_rate_centers:
+      - name: Sells
+        distance:
+          value: 15.76
+          units: km
+      - name: Sasabe
+        distance:
+          value: 52.56
+          units: km
+      - name: West San Simon
+        distance:
+          value: 57.72
+          units: km
     - name: Crozier
       region: AZ
       lat: '35.4227'
       long: "-113.6487"
+      closest_rate_centers:
+      - name: Peach Springs
+        distance:
+          value: 10.74
+          units: km
+      - name: East Kingman
+        distance:
+          value: 37.1
+          units: km
+      - name: Kingman
+        distance:
+          value: 44.66
+          units: km
     - name: Crystal Beach
       region: AZ
       lat: '34.5714'
       long: "-114.3925"
+      closest_rate_centers:
+      - name: Castle Rock
+        distance:
+          value: 4.48
+          units: km
+      - name: Lake Havasu City
+        distance:
+          value: 12.6
+          units: km
+      - name: Arizona Village
+        distance:
+          value: 35.86
+          units: km
     - name: Cutter
       region: AZ
       lat: '33.3584'
       long: "-110.6593"
+      closest_rate_centers:
+      - name: Globe
+        distance:
+          value: 16.57
+          units: km
+      - name: San Carlos
+        distance:
+          value: 19.28
+          units: km
+      - name: Miami
+        distance:
+          value: 20.63
+          units: km
     - name: Dateland
       region: AZ
       lat: '32.8209'
       long: "-113.5418"
+      closest_rate_centers:
+      - name: Hyder
+        distance:
+          value: 28.44
+          units: km
+      - name: Wellton
+        distance:
+          value: 57.82
+          units: km
+      - name: Gila Bend
+        distance:
+          value: 78.17
+          units: km
     - name: Deer Creek
       region: AZ
       lat: '34.0644'
       long: "-111.3505"
+      closest_rate_centers:
+      - name: Payson
+        distance:
+          value: 19.1
+          units: km
+      - name: Tonto Basin
+        distance:
+          value: 24.36
+          units: km
+      - name: Young
+        distance:
+          value: 37.24
+          units: km
     - name: Del Muerto
       region: AZ
       lat: '36.1870'
       long: "-109.4348"
+      closest_rate_centers:
+      - name: Chinle
+        distance:
+          value: 11.28
+          units: km
+      - name: Tsaile
+        distance:
+          value: 24.78
+          units: km
+      - name: Many Farms
+        distance:
+          value: 25.0
+          units: km
     - name: Dennehotso
       region: AZ
       lat: '36.8208'
       long: "-109.8791"
+      closest_rate_centers:
+      - name: Dennehotso
+        distance:
+          value: 3.55
+          units: km
+      - name: Rock Point
+        distance:
+          value: 25.34
+          units: km
+      - name: Kayenta
+        distance:
+          value: 35.39
+          units: km
     - name: Desert Hills
       region: AZ
       lat: '34.5506'
       long: "-114.3754"
+      closest_rate_centers:
+      - name: Castle Rock
+        distance:
+          value: 2.63
+          units: km
+      - name: Lake Havasu City
+        distance:
+          value: 10.08
+          units: km
+      - name: Arizona Village
+        distance:
+          value: 38.64
+          units: km
     - name: Dewey-Humboldt
       region: AZ
       lat: '34.5174'
       long: "-112.2496"
+      closest_rate_centers:
+      - name: Humboldt
+        distance:
+          value: 2.65
+          units: km
+      - name: Millsite
+        distance:
+          value: 17.68
+          units: km
+      - name: Prescott
+        distance:
+          value: 20.79
+          units: km
     - name: Dilkon
       region: AZ
       lat: '35.3606'
       long: "-110.3155"
+      closest_rate_centers:
+      - name: Dilcon
+        distance:
+          value: 1.68
+          units: km
+      - name: Joseph City
+        distance:
+          value: 44.74
+          units: km
+      - name: Winslow
+        distance:
+          value: 45.09
+          units: km
     - name: Dolan Springs
       region: AZ
       lat: '35.5905'
       long: "-114.2851"
+      closest_rate_centers:
+      - name: Lake Mohave Ranchos
+        distance:
+          value: 2.3
+          units: km
+      - name: Golden Valley
+        distance:
+          value: 41.51
+          units: km
+      - name: East Kingman
+        distance:
+          value: 45.36
+          units: km
     - name: Doney Park
       region: AZ
       lat: '35.2656'
       long: "-111.5190"
+      closest_rate_centers:
+      - name: Flagstaff
+        distance:
+          value: 13.78
+          units: km
+      - name: Munds Park
+        distance:
+          value: 38.15
+          units: km
+      - name: Cameron
+        distance:
+          value: 38.37
+          units: km
     - name: Donovan Estates
       region: AZ
       lat: '32.7094'
       long: "-114.6781"
+      closest_rate_centers:
+      - name: Yuma
+        distance:
+          value: 5.22
+          units: km
+      - name: Somerton
+        distance:
+          value: 13.27
+          units: km
+      - name: Wellton
+        distance:
+          value: 51.32
+          units: km
     - name: Douglas
       region: AZ
       lat: '31.3602'
       long: "-109.5394"
+      closest_rate_centers:
+      - name: Douglas
+        distance:
+          value: 1.23
+          units: km
+      - name: Bisbee
+        distance:
+          value: 36.88
+          units: km
+      - name: Elfrida
+        distance:
+          value: 37.19
+          units: km
     - name: Dragoon
       region: AZ
       lat: '32.0272'
       long: "-110.0369"
+      closest_rate_centers:
+      - name: Pearce
+        distance:
+          value: 24.41
+          units: km
+      - name: Benson
+        distance:
+          value: 25.25
+          units: km
+      - name: Willcox
+        distance:
+          value: 31.63
+          units: km
     - name: Drexel Heights
       region: AZ
       lat: '32.1453'
       long: "-111.0480"
+      closest_rate_centers:
+      - name: Tucson
+        distance:
+          value: 12.01
+          units: km
+      - name: Green Valley
+        distance:
+          value: 29.66
+          units: km
+      - name: Robles
+        distance:
+          value: 30.04
+          units: km
     - name: Dripping Springs
       region: AZ
       lat: '33.1049'
       long: "-110.7551"
+      closest_rate_centers:
+      - name: Hayden
+        distance:
+          value: 11.15
+          units: km
+      - name: Globe
+        distance:
+          value: 33.25
+          units: km
+      - name: Miami
+        distance:
+          value: 34.78
+          units: km
     - name: Drysdale
       region: AZ
       lat: '32.6452'
       long: "-114.7067"
+      closest_rate_centers:
+      - name: Somerton
+        distance:
+          value: 6.57
+          units: km
+      - name: Yuma
+        distance:
+          value: 11.13
+          units: km
+      - name: Wellton
+        distance:
+          value: 53.84
+          units: km
     - name: Dudleyville
       region: AZ
       lat: '32.9127'
       long: "-110.7345"
+      closest_rate_centers:
+      - name: Hayden
+        distance:
+          value: 11.47
+          units: km
+      - name: San Manuel
+        distance:
+          value: 35.19
+          units: km
+      - name: Coronado
+        distance:
+          value: 43.52
+          units: km
     - name: Duncan
       region: AZ
       lat: '32.7344'
       long: "-109.0972"
+      closest_rate_centers:
+      - name: Duncan
+        distance:
+          value: 0.87
+          units: km
+      - name: York Valley
+        distance:
+          value: 23.22
+          units: km
+      - name: Clifton
+        distance:
+          value: 39.67
+          units: km
     - name: Eagar
       region: AZ
       lat: '34.1056'
       long: "-109.2961"
+      closest_rate_centers:
+      - name: Springerville
+        distance:
+          value: 3.15
+          units: km
+      - name: Greer
+        distance:
+          value: 16.75
+          units: km
+      - name: Alpine
+        distance:
+          value: 32.06
+          units: km
     - name: East Fork
       region: AZ
       lat: '33.8082'
       long: "-109.9227"
+      closest_rate_centers:
+      - name: Whiteriver
+        distance:
+          value: 5.15
+          units: km
+      - name: Hawley Lake
+        distance:
+          value: 24.63
+          units: km
+      - name: McNary
+        distance:
+          value: 29.41
+          units: km
     - name: East Globe
       region: AZ
       lat: '33.3511'
       long: "-110.7061"
+      closest_rate_centers:
+      - name: Globe
+        distance:
+          value: 12.73
+          units: km
+      - name: Miami
+        distance:
+          value: 16.68
+          units: km
+      - name: San Carlos
+        distance:
+          value: 23.59
+          units: km
     - name: East Verde Estates
       region: AZ
       lat: '34.2983'
       long: "-111.3645"
+      closest_rate_centers:
+      - name: Payson
+        distance:
+          value: 7.51
+          units: km
+      - name: Blue Ridge
+        distance:
+          value: 37.39
+          units: km
+      - name: Young
+        distance:
+          value: 44.25
+          units: km
     - name: Ehrenberg
       region: AZ
       lat: '33.6175'
       long: "-114.4883"
+      closest_rate_centers:
+      - name: Ehrenberg
+        distance:
+          value: 4.08
+          units: km
+      - name: Quartzsite
+        distance:
+          value: 25.88
+          units: km
+      - name: Cibola
+        distance:
+          value: 30.46
+          units: km
     - name: El Capitan
       region: AZ
       lat: '33.2383'
       long: "-110.7833"
+      closest_rate_centers:
+      - name: Globe
+        distance:
+          value: 18.21
+          units: km
+      - name: Miami
+        distance:
+          value: 20.02
+          units: km
+      - name: Hayden
+        distance:
+          value: 25.67
+          units: km
     - name: El Mirage
       region: AZ
       lat: '33.5905'
       long: "-112.3271"
+      closest_rate_centers:
+      - name: Maricopa Village
+        distance:
+          value: 25.83
+          units: km
+      - name: Salt River
+        distance:
+          value: 26.28
+          units: km
+      - name: Phoenix
+        distance:
+          value: 26.28
+          units: km
+      - name: Lake Pleasant
+        distance:
+          value: 29.35
+          units: km
     - name: El Prado Estates
       region: AZ
       lat: '32.7062'
       long: "-114.5215"
+      closest_rate_centers:
+      - name: Yuma
+        distance:
+          value: 9.56
+          units: km
+      - name: Somerton
+        distance:
+          value: 19.78
+          units: km
+      - name: Wellton
+        distance:
+          value: 36.71
+          units: km
     - name: Elephant Head
       region: AZ
       lat: '31.7659'
       long: "-110.9921"
+      closest_rate_centers:
+      - name: Green Valley
+        distance:
+          value: 12.96
+          units: km
+      - name: Tubac
+        distance:
+          value: 18.3
+          units: km
+      - name: Patagonia
+        distance:
+          value: 33.3
+          units: km
     - name: Elfrida
       region: AZ
       lat: '31.6783'
       long: "-109.6876"
+      closest_rate_centers:
+      - name: Elfrida
+        distance:
+          value: 1.35
+          units: km
+      - name: Sunizona
+        distance:
+          value: 22.14
+          units: km
+      - name: Pearce
+        distance:
+          value: 27.81
+          units: km
     - name: Elgin
       region: AZ
       lat: '31.6681'
       long: "-110.5347"
+      closest_rate_centers:
+      - name: Patagonia
+        distance:
+          value: 25.16
+          units: km
+      - name: Sierra Vista
+        distance:
+          value: 25.38
+          units: km
+      - name: Vail
+        distance:
+          value: 39.39
+          units: km
     - name: Eloy
       region: AZ
       lat: '32.7470'
       long: "-111.5992"
+      closest_rate_centers:
+      - name: Eloy
+        distance:
+          value: 4.54
+          units: km
+      - name: Casa Grande
+        distance:
+          value: 21.43
+          units: km
+      - name: Silverbell
+        distance:
+          value: 24.68
+          units: km
     - name: First Mesa
       region: AZ
       lat: '35.8389'
       long: "-110.3665"
+      closest_rate_centers:
+      - name: Polacca
+        distance:
+          value: 1.76
+          units: km
+      - name: Keams Canyon
+        distance:
+          value: 16.19
+          units: km
+      - name: Kykotsmovi Village
+        distance:
+          value: 23.07
+          units: km
     - name: Flagstaff
       region: AZ
       lat: '35.1872'
       long: "-111.6194"
+      closest_rate_centers:
+      - name: Flagstaff
+        distance:
+          value: 3.43
+          units: km
+      - name: Munds Park
+        distance:
+          value: 27.75
+          units: km
+      - name: Mormon Lake
+        distance:
+          value: 32.81
+          units: km
     - name: Florence
       region: AZ
       lat: '33.0590'
       long: "-111.4209"
+      closest_rate_centers:
+      - name: Florence
+        distance:
+          value: 5.33
+          units: km
+      - name: Coolidge
+        distance:
+          value: 13.47
+          units: km
+      - name: Blackwater
+        distance:
+          value: 14.78
+          units: km
     - name: Flowing Springs
       region: AZ
       lat: '34.3131'
       long: "-111.3379"
+      closest_rate_centers:
+      - name: Payson
+        distance:
+          value: 8.62
+          units: km
+      - name: Blue Ridge
+        distance:
+          value: 34.86
+          units: km
+      - name: Young
+        distance:
+          value: 43.04
+          units: km
     - name: Flowing Wells
       region: AZ
       lat: '32.2937'
       long: "-111.0110"
+      closest_rate_centers:
+      - name: Tucson
+        distance:
+          value: 8.44
+          units: km
+      - name: Marana
+        distance:
+          value: 26.16
+          units: km
+      - name: Coronado
+        distance:
+          value: 30.33
+          units: km
     - name: Fort Apache
       region: AZ
       lat: '33.7907'
       long: "-109.9873"
+      closest_rate_centers:
+      - name: Whiteriver
+        distance:
+          value: 5.58
+          units: km
+      - name: Hawley Lake
+        distance:
+          value: 30.12
+          units: km
+      - name: McNary
+        distance:
+          value: 33.09
+          units: km
     - name: Fort Defiance
       region: AZ
       lat: '35.7477'
       long: "-109.0674"
+      closest_rate_centers:
+      - name: Fort Defiance
+        distance:
+          value: 1.38
+          units: km
+      - name: Window Rock
+        distance:
+          value: 7.91
+          units: km
+      - name: Ganado
+        distance:
+          value: 42.89
+          units: km
     - name: Fort Mohave
       region: AZ
       lat: '35.0004'
       long: "-114.5748"
+      closest_rate_centers:
+      - name: Mesquite Creek
+        distance:
+          value: 4.3
+          units: km
+      - name: Mohave Valley
+        distance:
+          value: 8.76
+          units: km
+      - name: Bullhead City
+        distance:
+          value: 12.25
+          units: km
     - name: Fort Thomas
       region: AZ
       lat: '33.0222'
       long: "-109.9665"
+      closest_rate_centers:
+      - name: Pima
+        distance:
+          value: 19.43
+          units: km
+      - name: Safford
+        distance:
+          value: 31.8
+          units: km
+      - name: Bonita
+        distance:
+          value: 48.74
+          units: km
     - name: Fort Valley
       region: AZ
       lat: '35.3228'
       long: "-111.7399"
+      closest_rate_centers:
+      - name: Flagstaff
+        distance:
+          value: 15.47
+          units: km
+      - name: Cameron
+        distance:
+          value: 37.53
+          units: km
+      - name: Williams
+        distance:
+          value: 41.01
+          units: km
     - name: Fortuna Foothills
       region: AZ
       lat: '32.6616'
       long: "-114.3974"
+      closest_rate_centers:
+      - name: Yuma
+        distance:
+          value: 21.97
+          units: km
+      - name: Wellton
+        distance:
+          value: 24.84
+          units: km
+      - name: Somerton
+        distance:
+          value: 27.77
+          units: km
     - name: Fountain Hills
       region: AZ
       lat: '33.6073'
       long: "-111.7398"
+      closest_rate_centers:
+      - name: Granite Mountain
+        distance:
+          value: 18.41
+          units: km
+      - name: Salt River
+        distance:
+          value: 29.48
+          units: km
+      - name: Phoenix
+        distance:
+          value: 29.48
+          units: km
+      - name: Lone Butte
+        distance:
+          value: 41.22
+          units: km
     - name: Franklin
       region: AZ
       lat: '32.6770'
       long: "-109.0720"
+      closest_rate_centers:
+      - name: Duncan
+        distance:
+          value: 6.0
+          units: km
+      - name: York Valley
+        distance:
+          value: 30.02
+          units: km
+      - name: Clifton
+        distance:
+          value: 46.34
+          units: km
     - name: Fredonia
       region: AZ
       lat: '36.9617'
       long: "-112.5195"
+      closest_rate_centers:
+      - name: Fredonia
+        distance:
+          value: 1.3
+          units: km
+      - name: Colorado City
+        distance:
+          value: 40.85
+          units: km
+      - name: Marble Canyon
+        distance:
+          value: 79.53
+          units: km
     - name: Freedom Acres
       region: AZ
       lat: '34.3199'
       long: "-111.3051"
+      closest_rate_centers:
+      - name: Payson
+        distance:
+          value: 9.74
+          units: km
+      - name: Blue Ridge
+        distance:
+          value: 33.04
+          units: km
+      - name: Young
+        distance:
+          value: 41.01
+          units: km
     - name: Gadsden
       region: AZ
       lat: '32.5564'
       long: "-114.7811"
+      closest_rate_centers:
+      - name: Somerton
+        distance:
+          value: 10.05
+          units: km
+      - name: Yuma
+        distance:
+          value: 23.14
+          units: km
+      - name: Wellton
+        distance:
+          value: 62.0
+          units: km
     - name: Ganado
       region: AZ
       lat: '35.7016'
       long: "-109.5504"
+      closest_rate_centers:
+      - name: Ganado
+        distance:
+          value: 1.73
+          units: km
+      - name: Wide Ruins
+        distance:
+          value: 31.94
+          units: km
+      - name: Toyei
+        distance:
+          value: 32.74
+          units: km
     - name: Geronimo Estates
       region: AZ
       lat: '34.3695'
       long: "-111.3617"
+      closest_rate_centers:
+      - name: Payson
+        distance:
+          value: 15.1
+          units: km
+      - name: Blue Ridge
+        distance:
+          value: 30.35
+          units: km
+      - name: Young
+        distance:
+          value: 48.49
+          units: km
     - name: Gila Bend
       region: AZ
       lat: '32.9662'
       long: "-112.7154"
+      closest_rate_centers:
+      - name: Gila Bend
+        distance:
+          value: 2.72
+          units: km
+      - name: Hyder
+        distance:
+          value: 59.3
+          units: km
+      - name: Maricopa
+        distance:
+          value: 62.52
+          units: km
     - name: Gila Crossing
       region: AZ
       lat: '33.2731'
       long: "-112.1627"
+      closest_rate_centers:
+      - name: Komatke
+        distance:
+          value: 2.02
+          units: km
+      - name: Maricopa Village
+        distance:
+          value: 12.66
+          units: km
+      - name: Lone Butte
+        distance:
+          value: 18.58
+          units: km
     - name: Gilbert
       region: AZ
       lat: '33.3100'
       long: "-111.7463"
+      closest_rate_centers:
+      - name: Stotonic
+        distance:
+          value: 17.27
+          units: km
+      - name: Lone Butte
+        distance:
+          value: 20.34
+          units: km
+      - name: Casa Blanca
+        distance:
+          value: 24.74
+          units: km
     - name: Gisela
       region: AZ
       lat: '34.1015'
       long: "-111.2895"
+      closest_rate_centers:
+      - name: Payson
+        distance:
+          value: 15.47
+          units: km
+      - name: Tonto Basin
+        distance:
+          value: 28.01
+          units: km
+      - name: Young
+        distance:
+          value: 31.42
+          units: km
     - name: Glendale
       region: AZ
       lat: '33.5791'
       long: "-112.2311"
+      closest_rate_centers:
+      - name: Salt River
+        distance:
+          value: 17.31
+          units: km
+      - name: Phoenix
+        distance:
+          value: 17.31
+          units: km
+      - name: Maricopa Village
+        distance:
+          value: 22.78
+          units: km
+      - name: Lake Pleasant
+        distance:
+          value: 29.85
+          units: km
     - name: Globe
       region: AZ
       lat: '33.3870'
       long: "-110.7513"
+      closest_rate_centers:
+      - name: Globe
+        distance:
+          value: 7.54
+          units: km
+      - name: Miami
+        distance:
+          value: 11.63
+          units: km
+      - name: San Carlos
+        distance:
+          value: 28.11
+          units: km
     - name: Gold Canyon
       region: AZ
       lat: '33.3639'
       long: "-111.4230"
+      closest_rate_centers:
+      - name: Whitlow
+        distance:
+          value: 10.39
+          units: km
+      - name: Superior
+        distance:
+          value: 32.25
+          units: km
+      - name: Florence
+        distance:
+          value: 38.08
+          units: km
     - name: Golden Shores
       region: AZ
       lat: '34.7819'
       long: "-114.4777"
+      closest_rate_centers:
+      - name: Arizona Village
+        distance:
+          value: 12.58
+          units: km
+      - name: Mohave Valley
+        distance:
+          value: 19.52
+          units: km
+      - name: Mesquite Creek
+        distance:
+          value: 21.72
+          units: km
     - name: Golden Valley
       region: AZ
       lat: '35.2060'
       long: "-114.2327"
+      closest_rate_centers:
+      - name: Golden Valley
+        distance:
+          value: 7.59
+          units: km
+      - name: Kingman
+        distance:
+          value: 16.52
+          units: km
+      - name: East Kingman
+        distance:
+          value: 21.65
+          units: km
     - name: Goodyear
       region: AZ
       lat: '33.2614'
       long: "-112.3622"
+      closest_rate_centers:
+      - name: Maricopa Village
+        distance:
+          value: 17.89
+          units: km
+      - name: Komatke
+        distance:
+          value: 19.22
+          units: km
+      - name: Lone Butte
+        distance:
+          value: 37.18
+          units: km
     - name: Goodyear Village
       region: AZ
       lat: '33.1973'
       long: "-111.8724"
+      closest_rate_centers:
+      - name: Stotonic
+        distance:
+          value: 8.09
+          units: km
+      - name: Casa Blanca
+        distance:
+          value: 8.58
+          units: km
+      - name: Lone Butte
+        distance:
+          value: 13.09
+          units: km
     - name: Grand Canyon Village
       region: AZ
       lat: '36.0474'
       long: "-112.1623"
+      closest_rate_centers:
+      - name: Grand Canyon
+        distance:
+          value: 2.19
+          units: km
+      - name: Supai
+        distance:
+          value: 50.95
+          units: km
+      - name: Cameron
+        distance:
+          value: 75.34
+          units: km
     - name: Grand Canyon West
       region: AZ
       lat: '35.9998'
       long: "-113.8103"
+      closest_rate_centers:
+      - name: Meadview
+        distance:
+          value: 23.96
+          units: km
+      - name: Lake Mohave Ranchos
+        distance:
+          value: 60.27
+          units: km
+      - name: Peach Springs
+        distance:
+          value: 61.48
+          units: km
     - name: Greasewood
       region: AZ
       lat: '35.5279'
       long: "-109.8614"
+      closest_rate_centers:
+      - name: Greasewood
+        distance:
+          value: 0.77
+          units: km
+      - name: Toyei
+        distance:
+          value: 21.29
+          units: km
+      - name: Ganado
+        distance:
+          value: 35.67
+          units: km
     - name: Green Valley
       region: AZ
       lat: '31.8393'
       long: "-111.0009"
+      closest_rate_centers:
+      - name: Green Valley
+        distance:
+          value: 4.84
+          units: km
+      - name: Tubac
+        distance:
+          value: 26.02
+          units: km
+      - name: Vail
+        distance:
+          value: 34.8
+          units: km
     - name: Greenehaven
       region: AZ
       lat: '36.9959'
       long: "-111.5566"
+      closest_rate_centers:
+      - name: Greenehaven
+        distance:
+          value: 0.81
+          units: km
+      - name: Page
+        distance:
+          value: 12.1
+          units: km
+      - name: Le Chee
+        distance:
+          value: 19.02
+          units: km
     - name: Greer
       region: AZ
       lat: '34.0054'
       long: "-109.4611"
+      closest_rate_centers:
+      - name: Greer
+        distance:
+          value: 2.12
+          units: km
+      - name: Springerville
+        distance:
+          value: 21.58
+          units: km
+      - name: Hawley Lake
+        distance:
+          value: 27.01
+          units: km
     - name: Gu Oidak
       region: AZ
       lat: '31.9206'
       long: "-112.0235"
+      closest_rate_centers:
+      - name: Sells
+        distance:
+          value: 13.59
+          units: km
+      - name: West San Simon
+        distance:
+          value: 46.32
+          units: km
+      - name: Santa Rosa
+        distance:
+          value: 47.81
+          units: km
     - name: Guadalupe
       region: AZ
       lat: '33.3665'
       long: "-111.9633"
+      closest_rate_centers:
+      - name: Lone Butte
+        distance:
+          value: 8.83
+          units: km
+      - name: Komatke
+        distance:
+          value: 19.98
+          units: km
+      - name: Phoenix
+        distance:
+          value: 21.31
+          units: km
+      - name: Salt River
+        distance:
+          value: 21.31
+          units: km
     - name: Hackberry
       region: AZ
       lat: '35.3401'
       long: "-113.7256"
+      closest_rate_centers:
+      - name: Peach Springs
+        distance:
+          value: 22.15
+          units: km
+      - name: East Kingman
+        distance:
+          value: 26.82
+          units: km
+      - name: Kingman
+        distance:
+          value: 33.87
+          units: km
     - name: Haigler Creek
       region: AZ
       lat: '34.2163'
       long: "-110.9719"
+      closest_rate_centers:
+      - name: Young
+        distance:
+          value: 13.26
+          units: km
+      - name: Payson
+        distance:
+          value: 33.37
+          units: km
+      - name: Heber
+        distance:
+          value: 41.03
+          units: km
     - name: Haivana Nakya
       region: AZ
       lat: '32.0051'
       long: "-111.7124"
+      closest_rate_centers:
+      - name: Sells
+        distance:
+          value: 18.83
+          units: km
+      - name: Robles
+        distance:
+          value: 35.44
+          units: km
+      - name: Santa Rosa
+        distance:
+          value: 50.19
+          units: km
     - name: Hard Rock
       region: AZ
       lat: '36.0309'
       long: "-110.5048"
+      closest_rate_centers:
+      - name: Kykotsmovi Village
+        distance:
+          value: 20.27
+          units: km
+      - name: Polacca
+        distance:
+          value: 24.01
+          units: km
+      - name: Keams Canyon
+        distance:
+          value: 37.04
+          units: km
     - name: Hayden
       region: AZ
       lat: '32.9995'
       long: "-110.7814"
+      closest_rate_centers:
+      - name: Hayden
+        distance:
+          value: 0.9
+          units: km
+      - name: Superior
+        distance:
+          value: 42.61
+          units: km
+      - name: Globe
+        distance:
+          value: 44.45
+          units: km
     - name: Heber-Overgaard
       region: AZ
       lat: '34.4141'
       long: "-110.5696"
+      closest_rate_centers:
+      - name: Heber
+        distance:
+          value: 3.18
+          units: km
+      - name: Pinedale
+        distance:
+          value: 31.65
+          units: km
+      - name: Snowflake
+        distance:
+          value: 46.51
+          units: km
     - name: Holbrook
       region: AZ
       lat: '34.9044'
       long: "-110.1672"
+      closest_rate_centers:
+      - name: Holbrook
+        distance:
+          value: 1.16
+          units: km
+      - name: Joseph City
+        distance:
+          value: 16.31
+          units: km
+      - name: Winslow
+        distance:
+          value: 33.48
+          units: km
     - name: Hondah
       region: AZ
       lat: '34.0860'
       long: "-109.9149"
+      closest_rate_centers:
+      - name: Pinetop
+        distance:
+          value: 4.81
+          units: km
+      - name: McNary
+        distance:
+          value: 6.33
+          units: km
+      - name: Hawley Lake
+        distance:
+          value: 19.16
+          units: km
     - name: Hotevilla-Bacavi
       region: AZ
       lat: '35.9225'
       long: "-110.6569"
+      closest_rate_centers:
+      - name: Kykotsmovi Village
+        distance:
+          value: 6.41
+          units: km
+      - name: Polacca
+        distance:
+          value: 26.17
+          units: km
+      - name: Keams Canyon
+        distance:
+          value: 43.76
+          units: km
     - name: Houck
       region: AZ
       lat: '35.2714'
       long: "-109.2237"
+      closest_rate_centers:
+      - name: Sanders
+        distance:
+          value: 11.75
+          units: km
+      - name: Wide Ruins
+        distance:
+          value: 29.09
+          units: km
+      - name: Window Rock
+        distance:
+          value: 47.49
+          units: km
     - name: Huachuca City
       region: AZ
       lat: '31.6308'
       long: "-110.3421"
+      closest_rate_centers:
+      - name: Sierra Vista
+        distance:
+          value: 9.11
+          units: km
+      - name: Tombstone
+        distance:
+          value: 27.87
+          units: km
+      - name: Benson
+        distance:
+          value: 38.52
+          units: km
     - name: Hunter Creek
       region: AZ
       lat: '34.3054'
       long: "-111.0159"
+      closest_rate_centers:
+      - name: Young
+        distance:
+          value: 23.82
+          units: km
+      - name: Payson
+        distance:
+          value: 30.25
+          units: km
+      - name: Blue Ridge
+        distance:
+          value: 36.14
+          units: km
     - name: Icehouse Canyon
       region: AZ
       lat: '33.3553'
       long: "-110.7965"
+      closest_rate_centers:
+      - name: Globe
+        distance:
+          value: 5.67
+          units: km
+      - name: Miami
+        distance:
+          value: 8.93
+          units: km
+      - name: Superior
+        distance:
+          value: 28.43
+          units: km
     - name: Indian Wells
       region: AZ
       lat: '35.4089'
       long: "-110.1062"
+      closest_rate_centers:
+      - name: Dilcon
+        distance:
+          value: 20.05
+          units: km
+      - name: Greasewood
+        distance:
+          value: 25.95
+          units: km
+      - name: Toyei
+        distance:
+          value: 38.25
+          units: km
     - name: Jakes Corner
       region: AZ
       lat: '34.0083'
       long: "-111.3203"
+      closest_rate_centers:
+      - name: Tonto Basin
+        distance:
+          value: 17.76
+          units: km
+      - name: Payson
+        distance:
+          value: 25.31
+          units: km
+      - name: Young
+        distance:
+          value: 35.72
+          units: km
     - name: Jeddito
       region: AZ
       lat: '35.7697'
       long: "-110.1305"
+      closest_rate_centers:
+      - name: Keams Canyon
+        distance:
+          value: 7.49
+          units: km
+      - name: Toyei
+        distance:
+          value: 20.59
+          units: km
+      - name: Polacca
+        distance:
+          value: 24.24
+          units: km
     - name: Jerome
       region: AZ
       lat: '34.7471'
       long: "-112.1076"
+      closest_rate_centers:
+      - name: Cottonwood
+        distance:
+          value: 8.45
+          units: km
+      - name: Sedona
+        distance:
+          value: 21.67
+          units: km
+      - name: Humboldt
+        distance:
+          value: 29.78
+          units: km
     - name: Joseph City
       region: AZ
       lat: '34.9614'
       long: "-110.3274"
+      closest_rate_centers:
+      - name: Joseph City
+        distance:
+          value: 0.64
+          units: km
+      - name: Holbrook
+        distance:
+          value: 17.07
+          units: km
+      - name: Winslow
+        distance:
+          value: 17.77
+          units: km
     - name: Kachina Village
       region: AZ
       lat: '35.0947'
       long: "-111.6928"
+      closest_rate_centers:
+      - name: Flagstaff
+        distance:
+          value: 12.76
+          units: km
+      - name: Munds Park
+        distance:
+          value: 17.87
+          units: km
+      - name: Mormon Lake
+        distance:
+          value: 28.25
+          units: km
     - name: Kaibab
       region: AZ
       lat: '36.8815'
       long: "-112.7237"
+      closest_rate_centers:
+      - name: Fredonia
+        distance:
+          value: 19.21
+          units: km
+      - name: Colorado City
+        distance:
+          value: 25.64
+          units: km
+      - name: Supai
+        distance:
+          value: 72.09
+          units: km
     - name: Kaibab Estates West
       region: AZ
       lat: '35.2762'
       long: "-112.5018"
+      closest_rate_centers:
+      - name: Ash Fork
+        distance:
+          value: 6.05
+          units: km
+      - name: Williams
+        distance:
+          value: 29.09
+          units: km
+      - name: Seligman
+        distance:
+          value: 34.16
+          units: km
     - name: Kaibito
       region: AZ
       lat: '36.5920'
       long: "-111.1071"
+      closest_rate_centers:
+      - name: Kaibito
+        distance:
+          value: 2.86
+          units: km
+      - name: Le Chee
+        distance:
+          value: 41.46
+          units: km
+      - name: Shonto
+        distance:
+          value: 41.47
+          units: km
     - name: Kaka
       region: AZ
       lat: '32.5113'
       long: "-112.3166"
+      closest_rate_centers:
+      - name: Santa Rosa
+        distance:
+          value: 30.29
+          units: km
+      - name: West San Simon
+        distance:
+          value: 36.75
+          units: km
+      - name: Ajo
+        distance:
+          value: 54.0
+          units: km
     - name: Katherine
       region: AZ
       lat: '35.2206'
       long: "-114.5616"
+      closest_rate_centers:
+      - name: Bullhead City North
+        distance:
+          value: 7.15
+          units: km
+      - name: Bullhead City
+        distance:
+          value: 14.46
+          units: km
+      - name: Mesquite Creek
+        distance:
+          value: 28.78
+          units: km
     - name: Kayenta
       region: AZ
       lat: '36.7144'
       long: "-110.2590"
+      closest_rate_centers:
+      - name: Kayenta
+        distance:
+          value: 1.02
+          units: km
+      - name: Black Mesa
+        distance:
+          value: 27.78
+          units: km
+      - name: Shonto
+        distance:
+          value: 36.74
+          units: km
     - name: Keams Canyon
       region: AZ
       lat: '35.8229'
       long: "-110.2011"
+      closest_rate_centers:
+      - name: Keams Canyon
+        distance:
+          value: 1.25
+          units: km
+      - name: Polacca
+        distance:
+          value: 16.74
+          units: km
+      - name: Toyei
+        distance:
+          value: 28.67
+          units: km
     - name: Kearny
       region: AZ
       lat: '33.0564'
       long: "-110.9074"
+      closest_rate_centers:
+      - name: Hayden
+        distance:
+          value: 12.8
+          units: km
+      - name: Superior
+        distance:
+          value: 30.35
+          units: km
+      - name: Miami
+        distance:
+          value: 38.44
+          units: km
     - name: Kingman
       region: AZ
       lat: '35.2170'
       long: "-114.0105"
+      closest_rate_centers:
+      - name: East Kingman
+        distance:
+          value: 4.21
+          units: km
+      - name: Kingman
+        distance:
+          value: 4.66
+          units: km
+      - name: Golden Valley
+        distance:
+          value: 13.29
+          units: km
     - name: Kino Springs
       region: AZ
       lat: '31.3641'
       long: "-110.8096"
+      closest_rate_centers:
+      - name: Nogales
+        distance:
+          value: 11.75
+          units: km
+      - name: Patagonia
+        distance:
+          value: 20.58
+          units: km
+      - name: Tubac
+        distance:
+          value: 35.61
+          units: km
     - name: Klagetoh
       region: AZ
       lat: '35.5010'
       long: "-109.5283"
+      closest_rate_centers:
+      - name: Wide Ruins
+        distance:
+          value: 9.82
+          units: km
+      - name: Ganado
+        distance:
+          value: 23.84
+          units: km
+      - name: Greasewood
+        distance:
+          value: 29.75
+          units: km
     - name: Kleindale
       region: AZ
       lat: '32.2681'
       long: "-110.9146"
+      closest_rate_centers:
+      - name: Tucson
+        distance:
+          value: 6.58
+          units: km
+      - name: Coronado
+        distance:
+          value: 32.27
+          units: km
+      - name: Marana
+        distance:
+          value: 34.9
+          units: km
     - name: Ko Vaya
       region: AZ
       lat: '32.0815'
       long: "-111.8959"
+      closest_rate_centers:
+      - name: Sells
+        distance:
+          value: 18.8
+          units: km
+      - name: Santa Rosa
+        distance:
+          value: 33.44
+          units: km
+      - name: West San Simon
+        distance:
+          value: 48.93
+          units: km
     - name: Kohatk
       region: AZ
       lat: '32.5781'
       long: "-112.0032"
+      closest_rate_centers:
+      - name: Santa Rosa
+        distance:
+          value: 25.9
+          units: km
+      - name: Silverbell
+        distance:
+          value: 26.9
+          units: km
+      - name: Eloy
+        distance:
+          value: 46.39
+          units: km
     - name: Kohls Ranch
       region: AZ
       lat: '34.3210'
       long: "-111.0838"
+      closest_rate_centers:
+      - name: Payson
+        distance:
+          value: 24.88
+          units: km
+      - name: Young
+        distance:
+          value: 27.69
+          units: km
+      - name: Blue Ridge
+        distance:
+          value: 32.3
+          units: km
     - name: Komatke
       region: AZ
       lat: '33.2953'
       long: "-112.1615"
+      closest_rate_centers:
+      - name: Komatke
+        distance:
+          value: 0.56
+          units: km
+      - name: Maricopa Village
+        distance:
+          value: 10.59
+          units: km
+      - name: Lone Butte
+        distance:
+          value: 18.43
+          units: km
     - name: Kykotsmovi Village
       region: AZ
       lat: '35.8576'
       long: "-110.6338"
+      closest_rate_centers:
+      - name: Kykotsmovi Village
+        distance:
+          value: 2.24
+          units: km
+      - name: Polacca
+        distance:
+          value: 22.45
+          units: km
+      - name: Keams Canyon
+        distance:
+          value: 40.36
+          units: km
     - name: La Paz Valley
       region: AZ
       lat: '33.5582'
       long: "-114.2434"
+      closest_rate_centers:
+      - name: Quartzsite
+        distance:
+          value: 12.3
+          units: km
+      - name: Ehrenberg
+        distance:
+          value: 26.75
+          units: km
+      - name: Bouse
+        distance:
+          value: 46.91
+          units: km
     - name: Lake Havasu City
       region: AZ
       lat: '34.5006'
       long: "-114.3113"
+      closest_rate_centers:
+      - name: Lake Havasu City
+        distance:
+          value: 6.69
+          units: km
+      - name: Castle Rock
+        distance:
+          value: 6.97
+          units: km
+      - name: Parker Dam
+        distance:
+          value: 33.34
+          units: km
     - name: Lake Montezuma
       region: AZ
       lat: '34.6414'
       long: "-111.7960"
+      closest_rate_centers:
+      - name: Camp Verde
+        distance:
+          value: 9.73
+          units: km
+      - name: Sedona
+        distance:
+          value: 11.65
+          units: km
+      - name: Cottonwood
+        distance:
+          value: 23.0
+          units: km
     - name: Lake of the Woods
       region: AZ
       lat: '34.1547'
       long: "-109.9936"
+      closest_rate_centers:
+      - name: Pinetop
+        distance:
+          value: 6.3
+          units: km
+      - name: Show Low
+        distance:
+          value: 11.32
+          units: km
+      - name: McNary
+        distance:
+          value: 16.46
+          units: km
     - name: Lazy Y U
       region: AZ
       lat: '35.1369'
       long: "-113.9684"
+      closest_rate_centers:
+      - name: Kingman
+        distance:
+          value: 9.74
+          units: km
+      - name: East Kingman
+        distance:
+          value: 13.39
+          units: km
+      - name: Golden Valley
+        distance:
+          value: 20.06
+          units: km
     - name: LeChee
       region: AZ
       lat: '36.8710'
       long: "-111.4328"
+      closest_rate_centers:
+      - name: Le Chee
+        distance:
+          value: 2.17
+          units: km
+      - name: Page
+        distance:
+          value: 7.34
+          units: km
+      - name: Greenehaven
+        distance:
+          value: 18.52
+          units: km
     - name: Leupp
       region: AZ
       lat: '35.2966'
       long: "-111.0028"
+      closest_rate_centers:
+      - name: Leupp
+        distance:
+          value: 0.25
+          units: km
+      - name: Winslow
+        distance:
+          value: 55.59
+          units: km
+      - name: Cameron
+        distance:
+          value: 58.68
+          units: km
     - name: Linden
       region: AZ
       lat: '34.2625'
       long: "-110.1424"
+      closest_rate_centers:
+      - name: Show Low
+        distance:
+          value: 10.13
+          units: km
+      - name: Pinedale
+        distance:
+          value: 11.1
+          units: km
+      - name: Pinetop
+        distance:
+          value: 24.4
+          units: km
     - name: Litchfield Park
       region: AZ
       lat: '33.5024'
       long: "-112.3588"
+      closest_rate_centers:
+      - name: Maricopa Village
+        distance:
+          value: 18.89
+          units: km
+      - name: Salt River
+        distance:
+          value: 29.1
+          units: km
+      - name: Phoenix
+        distance:
+          value: 29.1
+          units: km
+      - name: Komatke
+        distance:
+          value: 29.98
+          units: km
     - name: Littlefield
       region: AZ
       lat: '36.8659'
       long: "-113.9360"
+      closest_rate_centers:
+      - name: Littlefield
+        distance:
+          value: 6.19
+          units: km
+      - name: Colorado City
+        distance:
+          value: 86.28
+          units: km
+      - name: Meadview
+        distance:
+          value: 96.82
+          units: km
     - name: Low Mountain
       region: AZ
       lat: '35.9481'
       long: "-110.0981"
+      closest_rate_centers:
+      - name: Keams Canyon
+        distance:
+          value: 16.65
+          units: km
+      - name: Pinon Cottonwood
+        distance:
+          value: 23.15
+          units: km
+      - name: Polacca
+        distance:
+          value: 28.69
+          units: km
     - name: Lower Santan Village
       region: AZ
       lat: '33.1427'
       long: "-111.7853"
+      closest_rate_centers:
+      - name: Stotonic
+        distance:
+          value: 2.28
+          units: km
+      - name: Sacaton
+        distance:
+          value: 8.54
+          units: km
+      - name: Casa Blanca
+        distance:
+          value: 9.74
+          units: km
     - name: Lukachukai
       region: AZ
       lat: '36.4112'
       long: "-109.2267"
+      closest_rate_centers:
+      - name: Lukachukai
+        distance:
+          value: 2.15
+          units: km
+      - name: Tsaile
+        distance:
+          value: 13.84
+          units: km
+      - name: Red Valley
+        distance:
+          value: 25.77
+          units: km
     - name: Lupton
       region: AZ
       lat: '35.3547'
       long: "-109.0527"
+      closest_rate_centers:
+      - name: Sanders
+        distance:
+          value: 29.82
+          units: km
+      - name: Window Rock
+        distance:
+          value: 35.83
+          units: km
+      - name: Wide Ruins
+        distance:
+          value: 40.17
+          units: km
     - name: Maish Vaya
       region: AZ
       lat: '32.1703'
       long: "-112.1342"
+      closest_rate_centers:
+      - name: Santa Rosa
+        distance:
+          value: 21.23
+          units: km
+      - name: West San Simon
+        distance:
+          value: 25.09
+          units: km
+      - name: Sells
+        distance:
+          value: 37.33
+          units: km
     - name: Mammoth
       region: AZ
       lat: '32.6853'
       long: "-110.7292"
+      closest_rate_centers:
+      - name: San Manuel
+        distance:
+          value: 12.79
+          units: km
+      - name: Coronado
+        distance:
+          value: 23.63
+          units: km
+      - name: Hayden
+        distance:
+          value: 36.17
+          units: km
     - name: Many Farms
       region: AZ
       lat: '36.3532'
       long: "-109.6271"
+      closest_rate_centers:
+      - name: Many Farms
+        distance:
+          value: 0.6
+          units: km
+      - name: Rough Rock
+        distance:
+          value: 22.87
+          units: km
+      - name: Chinle
+        distance:
+          value: 22.91
+          units: km
     - name: Marana
       region: AZ
       lat: '32.4355'
       long: "-111.1558"
+      closest_rate_centers:
+      - name: Marana
+        distance:
+          value: 5.71
+          units: km
+      - name: Coronado
+        distance:
+          value: 25.08
+          units: km
+      - name: Tucson
+        distance:
+          value: 29.16
+          units: km
     - name: Maricopa
       region: AZ
       lat: '33.0408'
       long: "-112.0011"
+      closest_rate_centers:
+      - name: Maricopa
+        distance:
+          value: 4.84
+          units: km
+      - name: Casa Blanca
+        distance:
+          value: 13.9
+          units: km
+      - name: Stotonic
+        distance:
+          value: 23.19
+          units: km
     - name: Maricopa Colony
       region: AZ
       lat: '33.3626'
       long: "-112.2267"
+      closest_rate_centers:
+      - name: Maricopa Village
+        distance:
+          value: 1.31
+          units: km
+      - name: Komatke
+        distance:
+          value: 10.19
+          units: km
+      - name: Lone Butte
+        distance:
+          value: 25.86
+          units: km
     - name: Martinez Lake
       region: AZ
       lat: '32.9843'
       long: "-114.4722"
+      closest_rate_centers:
+      - name: Yuma
+        distance:
+          value: 32.96
+          units: km
+      - name: Wellton
+        distance:
+          value: 47.55
+          units: km
+      - name: Somerton
+        distance:
+          value: 48.01
+          units: km
     - name: Mayer
       region: AZ
       lat: '34.4233'
       long: "-112.2408"
+      closest_rate_centers:
+      - name: Humboldt
+        distance:
+          value: 8.5
+          units: km
+      - name: Millsite
+        distance:
+          value: 15.88
+          units: km
+      - name: Prescott
+        distance:
+          value: 25.24
+          units: km
     - name: McConnico
       region: AZ
       lat: '35.1636'
       long: "-114.0897"
+      closest_rate_centers:
+      - name: Kingman
+        distance:
+          value: 4.68
+          units: km
+      - name: Golden Valley
+        distance:
+          value: 9.72
+          units: km
+      - name: East Kingman
+        distance:
+          value: 12.86
+          units: km
     - name: McNary
       region: AZ
       lat: '34.0923'
       long: "-109.8541"
+      closest_rate_centers:
+      - name: McNary
+        distance:
+          value: 2.96
+          units: km
+      - name: Pinetop
+        distance:
+          value: 8.31
+          units: km
+      - name: Hawley Lake
+        distance:
+          value: 15.74
+          units: km
     - name: McNeal
       region: AZ
       lat: '31.6079'
       long: "-109.6699"
+      closest_rate_centers:
+      - name: Elfrida
+        distance:
+          value: 7.4
+          units: km
+      - name: Sunizona
+        distance:
+          value: 29.8
+          units: km
+      - name: Bisbee
+        distance:
+          value: 29.83
+          units: km
     - name: Mead Ranch
       region: AZ
       lat: '34.3460'
       long: "-111.1430"
+      closest_rate_centers:
+      - name: Payson
+        distance:
+          value: 21.42
+          units: km
+      - name: Blue Ridge
+        distance:
+          value: 28.44
+          units: km
+      - name: Young
+        distance:
+          value: 32.82
+          units: km
     - name: Meadview
       region: AZ
       lat: '35.9532'
       long: "-114.0789"
+      closest_rate_centers:
+      - name: Meadview
+        distance:
+          value: 5.49
+          units: km
+      - name: Lake Mohave Ranchos
+        distance:
+          value: 42.51
+          units: km
+      - name: Peach Springs
+        distance:
+          value: 70.02
+          units: km
     - name: Mesa
       region: AZ
       lat: '33.4015'
       long: "-111.7178"
+      closest_rate_centers:
+      - name: Lone Butte
+        distance:
+          value: 26.13
+          units: km
+      - name: Stotonic
+        distance:
+          value: 27.78
+          units: km
+      - name: Phoenix
+        distance:
+          value: 34.58
+          units: km
+      - name: Salt River
+        distance:
+          value: 34.58
+          units: km
     - name: Mesa del Caballo
       region: AZ
       lat: '34.2860'
       long: "-111.2952"
+      closest_rate_centers:
+      - name: Payson
+        distance:
+          value: 6.64
+          units: km
+      - name: Blue Ridge
+        distance:
+          value: 36.34
+          units: km
+      - name: Young
+        distance:
+          value: 38.11
+          units: km
     - name: Mescal
       region: AZ
       lat: '31.9676'
       long: "-110.4368"
+      closest_rate_centers:
+      - name: Benson
+        distance:
+          value: 13.16
+          units: km
+      - name: Vail
+        distance:
+          value: 23.55
+          units: km
+      - name: Cascabel
+        distance:
+          value: 36.55
+          units: km
     - name: Mesquite Creek
       region: AZ
       lat: '34.9607'
       long: "-114.5714"
+      closest_rate_centers:
+      - name: Mesquite Creek
+        distance:
+          value: 0.17
+          units: km
+      - name: Mohave Valley
+        distance:
+          value: 4.87
+          units: km
+      - name: Arizona Village
+        distance:
+          value: 12.16
+          units: km
     - name: Miami
       region: AZ
       lat: '33.3951'
       long: "-110.8724"
+      closest_rate_centers:
+      - name: Miami
+        distance:
+          value: 0.72
+          units: km
+      - name: Globe
+        distance:
+          value: 3.79
+          units: km
+      - name: Superior
+        distance:
+          value: 23.76
+          units: km
     - name: Miracle Valley
       region: AZ
       lat: '31.3829'
       long: "-110.1485"
+      closest_rate_centers:
+      - name: Bisbee
+        distance:
+          value: 22.96
+          units: km
+      - name: Sierra Vista
+        distance:
+          value: 24.13
+          units: km
+      - name: Tombstone
+        distance:
+          value: 37.89
+          units: km
     - name: Moccasin
       region: AZ
       lat: '36.9099'
       long: "-112.7546"
+      closest_rate_centers:
+      - name: Fredonia
+        distance:
+          value: 20.83
+          units: km
+      - name: Colorado City
+        distance:
+          value: 21.78
+          units: km
+      - name: Supai
+        distance:
+          value: 75.44
+          units: km
     - name: Moenkopi
       region: AZ
       lat: '36.1125'
       long: "-111.2212"
+      closest_rate_centers:
+      - name: Tuba City
+        distance:
+          value: 3.48
+          units: km
+      - name: Kaibito
+        distance:
+          value: 55.29
+          units: km
+      - name: Kykotsmovi Village
+        distance:
+          value: 60.34
+          units: km
     - name: Mohave Valley
       region: AZ
       lat: '34.9008'
       long: "-114.5732"
+      closest_rate_centers:
+      - name: Mohave Valley
+        distance:
+          value: 3.75
+          units: km
+      - name: Arizona Village
+        distance:
+          value: 5.55
+          units: km
+      - name: Mesquite Creek
+        distance:
+          value: 6.8
+          units: km
     - name: Mojave Ranch Estates
       region: AZ
       lat: '34.9449'
       long: "-114.5907"
+      closest_rate_centers:
+      - name: Mohave Valley
+        distance:
+          value: 2.46
+          units: km
+      - name: Mesquite Creek
+        distance:
+          value: 2.66
+          units: km
+      - name: Arizona Village
+        distance:
+          value: 10.34
+          units: km
     - name: Morenci
       region: AZ
       lat: '33.0539'
       long: "-109.3310"
+      closest_rate_centers:
+      - name: Clifton
+        distance:
+          value: 2.18
+          units: km
+      - name: York Valley
+        distance:
+          value: 18.94
+          units: km
+      - name: Duncan
+        distance:
+          value: 42.43
+          units: km
     - name: Mormon Lake
       region: AZ
       lat: '34.9112'
       long: "-111.4527"
+      closest_rate_centers:
+      - name: Mormon Lake
+        distance:
+          value: 1.7
+          units: km
+      - name: Munds Park
+        distance:
+          value: 17.89
+          units: km
+      - name: Flagstaff
+        distance:
+          value: 37.24
+          units: km
     - name: Morristown
       region: AZ
       lat: '33.8549'
       long: "-112.6135"
+      closest_rate_centers:
+      - name: Wickenburg
+        distance:
+          value: 29.44
+          units: km
+      - name: Lake Pleasant
+        distance:
+          value: 33.37
+          units: km
+      - name: Yarnell
+        distance:
+          value: 43.0
+          units: km
     - name: Mountain View Ranches
       region: AZ
       lat: '35.2335'
       long: "-111.4728"
+      closest_rate_centers:
+      - name: Flagstaff
+        distance:
+          value: 16.5
+          units: km
+      - name: Mormon Lake
+        distance:
+          value: 34.94
+          units: km
+      - name: Munds Park
+        distance:
+          value: 36.38
+          units: km
     - name: Mountainaire
       region: AZ
       lat: '35.0921'
       long: "-111.6493"
+      closest_rate_centers:
+      - name: Flagstaff
+        distance:
+          value: 12.47
+          units: km
+      - name: Munds Park
+        distance:
+          value: 17.07
+          units: km
+      - name: Mormon Lake
+        distance:
+          value: 25.31
+          units: km
     - name: Munds Park
       region: AZ
       lat: '34.9382'
       long: "-111.6318"
+      closest_rate_centers:
+      - name: Munds Park
+        distance:
+          value: 1.3
+          units: km
+      - name: Mormon Lake
+        distance:
+          value: 15.04
+          units: km
+      - name: Flagstaff
+        distance:
+          value: 29.63
+          units: km
     - name: Naco
       region: AZ
       lat: '31.3431'
       long: "-109.9336"
+      closest_rate_centers:
+      - name: Bisbee
+        distance:
+          value: 11.0
+          units: km
+      - name: Douglas
+        distance:
+          value: 37.22
+          units: km
+      - name: Sierra Vista
+        distance:
+          value: 42.16
+          units: km
     - name: Nazlini
       region: AZ
       lat: '35.9155'
       long: "-109.4726"
+      closest_rate_centers:
+      - name: Ganado
+        distance:
+          value: 23.12
+          units: km
+      - name: Chinle
+        distance:
+          value: 27.7
+          units: km
+      - name: Fort Defiance
+        distance:
+          value: 39.76
+          units: km
     - name: Nelson
       region: AZ
       lat: '32.4298'
       long: "-111.2649"
+      closest_rate_centers:
+      - name: Marana
+        distance:
+          value: 5.97
+          units: km
+      - name: Coronado
+        distance:
+          value: 34.39
+          units: km
+      - name: Tucson
+        distance:
+          value: 35.94
+          units: km
     - name: New Kingman-Butler
       region: AZ
       lat: '35.2645'
       long: "-114.0091"
+      closest_rate_centers:
+      - name: East Kingman
+        distance:
+          value: 1.33
+          units: km
+      - name: Kingman
+        distance:
+          value: 8.94
+          units: km
+      - name: Golden Valley
+        distance:
+          value: 13.77
+          units: km
     - name: New River
       region: AZ
       lat: '33.8835'
       long: "-112.0858"
+      closest_rate_centers:
+      - name: Lake Pleasant
+        distance:
+          value: 15.89
+          units: km
+      - name: Granite Mountain
+        distance:
+          value: 31.6
+          units: km
+      - name: Phoenix
+        distance:
+          value: 37.86
+          units: km
+      - name: Salt River
+        distance:
+          value: 37.86
+          units: km
     - name: Nogales
       region: AZ
       lat: '31.3624'
       long: "-110.9336"
+      closest_rate_centers:
+      - name: Nogales
+        distance:
+          value: 2.27
+          units: km
+      - name: Patagonia
+        distance:
+          value: 26.23
+          units: km
+      - name: Tubac
+        distance:
+          value: 29.63
+          units: km
     - name: Nolic
       region: AZ
       lat: '32.0341'
       long: "-111.9549"
+      closest_rate_centers:
+      - name: Sells
+        distance:
+          value: 15.22
+          units: km
+      - name: Santa Rosa
+        distance:
+          value: 36.37
+          units: km
+      - name: West San Simon
+        distance:
+          value: 45.29
+          units: km
     - name: North Fork
       region: AZ
       lat: '33.9965'
       long: "-109.9593"
+      closest_rate_centers:
+      - name: McNary
+        distance:
+          value: 12.64
+          units: km
+      - name: Pinetop
+        distance:
+          value: 14.59
+          units: km
+      - name: Whiteriver
+        distance:
+          value: 17.68
+          units: km
     - name: Nutrioso
       region: AZ
       lat: '33.9514'
       long: "-109.2058"
+      closest_rate_centers:
+      - name: Alpine
+        distance:
+          value: 13.01
+          units: km
+      - name: Springerville
+        distance:
+          value: 21.31
+          units: km
+      - name: Greer
+        distance:
+          value: 23.22
+          units: km
     - name: Oak Creek Canyon
       region: AZ
       lat: '34.9490'
       long: "-111.7505"
+      closest_rate_centers:
+      - name: Munds Park
+        distance:
+          value: 9.59
+          units: km
+      - name: Mormon Lake
+        distance:
+          value: 25.92
+          units: km
+      - name: Sedona
+        distance:
+          value: 27.2
+          units: km
     - name: Oak Springs
       region: AZ
       lat: '35.4760'
       long: "-109.1318"
+      closest_rate_centers:
+      - name: Window Rock
+        distance:
+          value: 23.28
+          units: km
+      - name: Fort Defiance
+        distance:
+          value: 30.63
+          units: km
+      - name: Wide Ruins
+        distance:
+          value: 32.95
+          units: km
     - name: Oatman
       region: AZ
       lat: '35.0275'
       long: "-114.3840"
+      closest_rate_centers:
+      - name: Mesquite Creek
+        distance:
+          value: 18.46
+          units: km
+      - name: Bullhead City North
+        distance:
+          value: 21.26
+          units: km
+      - name: Mohave Valley
+        distance:
+          value: 22.91
+          units: km
     - name: Oljato-Monument Valley
       region: AZ
       lat: '36.9867'
       long: "-110.1910"
+      closest_rate_centers:
+      - name: Kayenta
+        distance:
+          value: 29.86
+          units: km
+      - name: Dennehotso
+        distance:
+          value: 34.27
+          units: km
+      - name: Black Mesa
+        distance:
+          value: 58.2
+          units: km
     - name: Oracle
       region: AZ
       lat: '32.6085'
       long: "-110.7826"
+      closest_rate_centers:
+      - name: San Manuel
+        distance:
+          value: 14.64
+          units: km
+      - name: Coronado
+        distance:
+          value: 15.01
+          units: km
+      - name: Marana
+        distance:
+          value: 43.48
+          units: km
     - name: Oro Valley
       region: AZ
       lat: '32.4208'
       long: "-110.9767"
+      closest_rate_centers:
+      - name: Coronado
+        distance:
+          value: 15.84
+          units: km
+      - name: Tucson
+        distance:
+          value: 21.46
+          units: km
+      - name: Marana
+        distance:
+          value: 22.33
+          units: km
     - name: Oxbow Estates
       region: AZ
       lat: '34.1824'
       long: "-111.3430"
+      closest_rate_centers:
+      - name: Payson
+        distance:
+          value: 5.98
+          units: km
+      - name: Tonto Basin
+        distance:
+          value: 37.23
+          units: km
+      - name: Young
+        distance:
+          value: 37.5
+          units: km
     - name: Padre Ranchitos
       region: AZ
       lat: '32.6497'
       long: "-114.6416"
+      closest_rate_centers:
+      - name: Yuma
+        distance:
+          value: 7.61
+          units: km
+      - name: Somerton
+        distance:
+          value: 7.61
+          units: km
+      - name: Wellton
+        distance:
+          value: 47.73
+          units: km
     - name: Page
       region: AZ
       lat: '36.9426'
       long: "-111.5071"
+      closest_rate_centers:
+      - name: Page
+        distance:
+          value: 5.46
+          units: km
+      - name: Greenehaven
+        distance:
+          value: 8.18
+          units: km
+      - name: Le Chee
+        distance:
+          value: 11.67
+          units: km
     - name: Palominas
       region: AZ
       lat: '31.3839'
       long: "-110.1212"
+      closest_rate_centers:
+      - name: Bisbee
+        distance:
+          value: 20.45
+          units: km
+      - name: Sierra Vista
+        distance:
+          value: 25.68
+          units: km
+      - name: Tombstone
+        distance:
+          value: 37.32
+          units: km
     - name: Paradise Valley
       region: AZ
       lat: '33.5434'
       long: "-111.9595"
+      closest_rate_centers:
+      - name: Salt River
+        distance:
+          value: 8.29
+          units: km
+      - name: Phoenix
+        distance:
+          value: 8.29
+          units: km
+      - name: Lone Butte
+        distance:
+          value: 28.51
+          units: km
+      - name: Granite Mountain
+        distance:
+          value: 30.67
+          units: km
     - name: Parker
       region: AZ
       lat: '34.0286'
       long: "-114.2224"
+      closest_rate_centers:
+      - name: Parker
+        distance:
+          value: 14.7
+          units: km
+      - name: Poston
+        distance:
+          value: 16.62
+          units: km
+      - name: Parker Dam
+        distance:
+          value: 21.05
+          units: km
     - name: Parker Strip
       region: AZ
       lat: '34.2797'
       long: "-114.1277"
+      closest_rate_centers:
+      - name: Parker Dam
+        distance:
+          value: 9.36
+          units: km
+      - name: Parker
+        distance:
+          value: 20.97
+          units: km
+      - name: Lake Havasu City
+        distance:
+          value: 29.66
+          units: km
     - name: Parks
       region: AZ
       lat: '35.2939'
       long: "-111.9770"
+      closest_rate_centers:
+      - name: Williams
+        distance:
+          value: 19.31
+          units: km
+      - name: Flagstaff
+        distance:
+          value: 31.25
+          units: km
+      - name: Ash Fork
+        distance:
+          value: 46.55
+          units: km
     - name: Patagonia
       region: AZ
       lat: '31.5436'
       long: "-110.7478"
+      closest_rate_centers:
+      - name: Patagonia
+        distance:
+          value: 0.82
+          units: km
+      - name: Nogales
+        distance:
+          value: 28.33
+          units: km
+      - name: Tubac
+        distance:
+          value: 29.66
+          units: km
     - name: Paulden
       region: AZ
       lat: '34.8897'
       long: "-112.4937"
+      closest_rate_centers:
+      - name: Chino Valley
+        distance:
+          value: 16.05
+          units: km
+      - name: Ash Fork
+        distance:
+          value: 37.2
+          units: km
+      - name: Prescott
+        distance:
+          value: 38.52
+          units: km
     - name: Payson
       region: AZ
       lat: '34.2433'
       long: "-111.3195"
+      closest_rate_centers:
+      - name: Payson
+        distance:
+          value: 1.59
+          units: km
+      - name: Young
+        distance:
+          value: 37.75
+          units: km
+      - name: Blue Ridge
+        distance:
+          value: 41.53
+          units: km
     - name: Peach Springs
       region: AZ
       lat: '35.5315'
       long: "-113.4319"
+      closest_rate_centers:
+      - name: Peach Springs
+        distance:
+          value: 12.58
+          units: km
+      - name: Seligman
+        distance:
+          value: 55.53
+          units: km
+      - name: East Kingman
+        distance:
+          value: 60.15
+          units: km
     - name: Peeples Valley
       region: AZ
       lat: '34.2773'
       long: "-112.7653"
+      closest_rate_centers:
+      - name: Yarnell
+        distance:
+          value: 6.01
+          units: km
+      - name: Wickenburg
+        distance:
+          value: 20.15
+          units: km
+      - name: Millsite
+        distance:
+          value: 36.67
+          units: km
     - name: Peoria
       region: AZ
       lat: '33.7843'
       long: "-112.2989"
+      closest_rate_centers:
+      - name: Lake Pleasant
+        distance:
+          value: 8.19
+          units: km
+      - name: Phoenix
+        distance:
+          value: 35.31
+          units: km
+      - name: Salt River
+        distance:
+          value: 35.31
+          units: km
+      - name: Maricopa Village
+        distance:
+          value: 46.1
+          units: km
     - name: Peridot
       region: AZ
       lat: '33.3016'
       long: "-110.4572"
+      closest_rate_centers:
+      - name: San Carlos
+        distance:
+          value: 5.23
+          units: km
+      - name: Globe
+        distance:
+          value: 36.36
+          units: km
+      - name: Miami
+        distance:
+          value: 40.4
+          units: km
     - name: Phoenix
       region: AZ
       lat: '33.5722'
       long: "-112.0892"
+      closest_rate_centers:
+      - name: Phoenix
+        distance:
+          value: 4.85
+          units: km
+      - name: Salt River
+        distance:
+          value: 4.85
+          units: km
+      - name: Maricopa Village
+        distance:
+          value: 25.36
+          units: km
+      - name: Komatke
+        distance:
+          value: 31.93
+          units: km
     - name: Picacho
       region: AZ
       lat: '32.7090'
       long: "-111.4909"
+      closest_rate_centers:
+      - name: Eloy
+        distance:
+          value: 7.09
+          units: km
+      - name: Silverbell
+        distance:
+          value: 27.75
+          units: km
+      - name: Casa Grande
+        distance:
+          value: 29.32
+          units: km
     - name: Picture Rocks
       region: AZ
       lat: '32.3274'
       long: "-111.2558"
+      closest_rate_centers:
+      - name: Marana
+        distance:
+          value: 15.11
+          units: km
+      - name: Tucson
+        distance:
+          value: 29.4
+          units: km
+      - name: Robles
+        distance:
+          value: 33.65
+          units: km
     - name: Pima
       region: AZ
       lat: '32.8886'
       long: "-109.8437"
+      closest_rate_centers:
+      - name: Pima
+        distance:
+          value: 1.83
+          units: km
+      - name: Safford
+        distance:
+          value: 13.95
+          units: km
+      - name: Bonita
+        distance:
+          value: 36.22
+          units: km
     - name: Pinal
       region: AZ
       lat: '33.3802'
       long: "-110.7572"
+      closest_rate_centers:
+      - name: Globe
+        distance:
+          value: 7.16
+          units: km
+      - name: Miami
+        distance:
+          value: 11.22
+          units: km
+      - name: San Carlos
+        distance:
+          value: 28.55
+          units: km
     - name: Pine
       region: AZ
       lat: '34.3788'
       long: "-111.4574"
+      closest_rate_centers:
+      - name: Payson
+        distance:
+          value: 19.54
+          units: km
+      - name: Blue Ridge
+        distance:
+          value: 35.11
+          units: km
+      - name: Camp Verde
+        distance:
+          value: 41.42
+          units: km
     - name: Pine Lake
       region: AZ
       lat: '35.0887'
       long: "-113.8740"
+      closest_rate_centers:
+      - name: Kingman
+        distance:
+          value: 19.83
+          units: km
+      - name: East Kingman
+        distance:
+          value: 21.76
+          units: km
+      - name: Golden Valley
+        distance:
+          value: 30.18
+          units: km
     - name: Pinedale
       region: AZ
       lat: '34.3207'
       long: "-110.2599"
+      closest_rate_centers:
+      - name: Pinedale
+        distance:
+          value: 1.59
+          units: km
+      - name: Show Low
+        distance:
+          value: 22.23
+          units: km
+      - name: Snowflake
+        distance:
+          value: 26.77
+          units: km
     - name: Pinetop Country Club
       region: AZ
       lat: '34.1164'
       long: "-109.8909"
+      closest_rate_centers:
+      - name: Pinetop
+        distance:
+          value: 4.16
+          units: km
+      - name: McNary
+        distance:
+          value: 6.74
+          units: km
+      - name: Show Low
+        distance:
+          value: 19.89
+          units: km
     - name: Pinetop-Lakeside
       region: AZ
       lat: '34.1486'
       long: "-109.9657"
+      closest_rate_centers:
+      - name: Pinetop
+        distance:
+          value: 3.8
+          units: km
+      - name: Show Low
+        distance:
+          value: 12.98
+          units: km
+      - name: McNary
+        distance:
+          value: 14.03
+          units: km
     - name: Pinion Pines
       region: AZ
       lat: '35.1466'
       long: "-113.9058"
+      closest_rate_centers:
+      - name: Kingman
+        distance:
+          value: 14.19
+          units: km
+      - name: East Kingman
+        distance:
+          value: 14.8
+          units: km
+      - name: Golden Valley
+        distance:
+          value: 24.63
+          units: km
     - name: Pinon
       region: AZ
       lat: '36.0992'
       long: "-110.2209"
+      closest_rate_centers:
+      - name: Pinon Cottonwood
+        distance:
+          value: 30.34
+          units: km
+      - name: Keams Canyon
+        distance:
+          value: 31.44
+          units: km
+      - name: Polacca
+        distance:
+          value: 32.66
+          units: km
     - name: Pirtleville
       region: AZ
       lat: '31.3614'
       long: "-109.5662"
+      closest_rate_centers:
+      - name: Douglas
+        distance:
+          value: 2.68
+          units: km
+      - name: Bisbee
+        distance:
+          value: 34.39
+          units: km
+      - name: Elfrida
+        distance:
+          value: 36.27
+          units: km
     - name: Pisinemo
       region: AZ
       lat: '32.0350'
       long: "-112.3193"
+      closest_rate_centers:
+      - name: West San Simon
+        distance:
+          value: 18.67
+          units: km
+      - name: Santa Rosa
+        distance:
+          value: 42.82
+          units: km
+      - name: Sells
+        distance:
+          value: 43.62
+          units: km
     - name: Poston
       region: AZ
       lat: '33.9921'
       long: "-114.4045"
+      closest_rate_centers:
+      - name: Poston
+        distance:
+          value: 0.67
+          units: km
+      - name: Parker
+        distance:
+          value: 20.24
+          units: km
+      - name: Parker Dam
+        distance:
+          value: 31.54
+          units: km
     - name: Prescott
       region: AZ
       lat: '34.5849'
       long: "-112.4473"
+      closest_rate_centers:
+      - name: Prescott
+        distance:
+          value: 5.21
+          units: km
+      - name: Millsite
+        distance:
+          value: 17.11
+          units: km
+      - name: Chino Valley
+        distance:
+          value: 18.2
+          units: km
     - name: Prescott Valley
       region: AZ
       lat: '34.5980'
       long: "-112.3185"
+      closest_rate_centers:
+      - name: Humboldt
+        distance:
+          value: 13.6
+          units: km
+      - name: Prescott
+        distance:
+          value: 15.49
+          units: km
+      - name: Millsite
+        distance:
+          value: 20.25
+          units: km
     - name: Quartzsite
       region: AZ
       lat: '33.6675'
       long: "-114.2171"
+      closest_rate_centers:
+      - name: Quartzsite
+        distance:
+          value: 0.25
+          units: km
+      - name: Ehrenberg
+        distance:
+          value: 29.68
+          units: km
+      - name: Bouse
+        distance:
+          value: 35.18
+          units: km
     - name: Queen Creek
       region: AZ
       lat: '33.2454'
       long: "-111.6173"
+      closest_rate_centers:
+      - name: Stotonic
+        distance:
+          value: 19.22
+          units: km
+      - name: Sacaton
+        distance:
+          value: 22.33
+          units: km
+      - name: Whitlow
+        distance:
+          value: 23.26
+          units: km
     - name: Queen Valley
       region: AZ
       lat: '33.2831'
       long: "-111.3049"
+      closest_rate_centers:
+      - name: Whitlow
+        distance:
+          value: 6.13
+          units: km
+      - name: Superior
+        distance:
+          value: 19.99
+          units: km
+      - name: Florence
+        distance:
+          value: 29.81
+          units: km
     - name: Rainbow City
       region: AZ
       lat: '33.8731'
       long: "-109.9763"
+      closest_rate_centers:
+      - name: Whiteriver
+        distance:
+          value: 4.07
+          units: km
+      - name: Hawley Lake
+        distance:
+          value: 23.76
+          units: km
+      - name: McNary
+        distance:
+          value: 24.36
+          units: km
     - name: Rancho Mesa Verde
       region: AZ
       lat: '32.5944'
       long: "-114.6551"
+      closest_rate_centers:
+      - name: Somerton
+        distance:
+          value: 2.52
+          units: km
+      - name: Yuma
+        distance:
+          value: 13.89
+          units: km
+      - name: Wellton
+        distance:
+          value: 49.62
+          units: km
     - name: Red Lake
       region: AZ
       lat: '35.3579'
       long: "-112.1705"
+      closest_rate_centers:
+      - name: Williams
+        distance:
+          value: 12.01
+          units: km
+      - name: Ash Fork
+        distance:
+          value: 31.99
+          units: km
+      - name: Flagstaff
+        distance:
+          value: 50.17
+          units: km
     - name: Red Mesa
       region: AZ
       lat: '36.9664'
       long: "-109.3828"
+      closest_rate_centers:
+      - name: Teec Nos Pos
+        distance:
+          value: 25.11
+          units: km
+      - name: Rock Point
+        distance:
+          value: 34.64
+          units: km
+      - name: Dennehotso
+        distance:
+          value: 43.77
+          units: km
     - name: Red Rock
       region: AZ
       lat: '32.5610'
       long: "-111.3745"
+      closest_rate_centers:
+      - name: Marana
+        distance:
+          value: 19.18
+          units: km
+      - name: Eloy
+        distance:
+          value: 26.55
+          units: km
+      - name: Silverbell
+        distance:
+          value: 32.25
+          units: km
     - name: Rillito
       region: AZ
       lat: '32.4157'
       long: "-111.1549"
+      closest_rate_centers:
+      - name: Marana
+        distance:
+          value: 7.02
+          units: km
+      - name: Coronado
+        distance:
+          value: 26.28
+          units: km
+      - name: Tucson
+        distance:
+          value: 27.39
+          units: km
     - name: Rincon Valley
       region: AZ
       lat: '32.1101'
       long: "-110.6889"
+      closest_rate_centers:
+      - name: Vail
+        distance:
+          value: 12.37
+          units: km
+      - name: Tucson
+        distance:
+          value: 29.2
+          units: km
+      - name: Cascabel
+        distance:
+          value: 35.05
+          units: km
     - name: Rio Rico
       region: AZ
       lat: '31.4957'
       long: "-110.9885"
+      closest_rate_centers:
+      - name: Tubac
+        distance:
+          value: 13.96
+          units: km
+      - name: Nogales
+        distance:
+          value: 17.94
+          units: km
+      - name: Patagonia
+        distance:
+          value: 22.63
+          units: km
     - name: Rio Verde
       region: AZ
       lat: '33.7278'
       long: "-111.6740"
+      closest_rate_centers:
+      - name: Granite Mountain
+        distance:
+          value: 10.22
+          units: km
+      - name: Tonto Basin
+        distance:
+          value: 37.31
+          units: km
+      - name: Salt River
+        distance:
+          value: 40.26
+          units: km
+      - name: Phoenix
+        distance:
+          value: 40.26
+          units: km
     - name: Rock House
       region: AZ
       lat: '33.6318'
       long: "-110.9456"
+      closest_rate_centers:
+      - name: Roosevelt Lake
+        distance:
+          value: 18.57
+          units: km
+      - name: Miami
+        distance:
+          value: 26.47
+          units: km
+      - name: Globe
+        distance:
+          value: 28.16
+          units: km
     - name: Rock Point
       region: AZ
       lat: '36.7173'
       long: "-109.6287"
+      closest_rate_centers:
+      - name: Rock Point
+        distance:
+          value: 0.67
+          units: km
+      - name: Dennehotso
+        distance:
+          value: 24.16
+          units: km
+      - name: Many Farms
+        distance:
+          value: 40.33
+          units: km
     - name: Roosevelt
       region: AZ
       lat: '33.6618'
       long: "-111.1295"
+      closest_rate_centers:
+      - name: Roosevelt Lake
+        distance:
+          value: 1.28
+          units: km
+      - name: Tonto Basin
+        distance:
+          value: 26.05
+          units: km
+      - name: Miami
+        distance:
+          value: 37.35
+          units: km
     - name: Roosevelt Estates
       region: AZ
       lat: '33.6201'
       long: "-110.9997"
+      closest_rate_centers:
+      - name: Roosevelt Lake
+        distance:
+          value: 14.15
+          units: km
+      - name: Miami
+        distance:
+          value: 26.94
+          units: km
+      - name: Globe
+        distance:
+          value: 29.29
+          units: km
     - name: Rough Rock
       region: AZ
       lat: '36.4106'
       long: "-109.8691"
+      closest_rate_centers:
+      - name: Rough Rock
+        distance:
+          value: 0.71
+          units: km
+      - name: Many Farms
+        distance:
+          value: 23.1
+          units: km
+      - name: Pinon Cottonwood
+        distance:
+          value: 38.37
+          units: km
     - name: Round Rock
       region: AZ
       lat: '36.5044'
       long: "-109.4616"
+      closest_rate_centers:
+      - name: Lukachukai
+        distance:
+          value: 21.46
+          units: km
+      - name: Many Farms
+        distance:
+          value: 21.9
+          units: km
+      - name: Rock Point
+        distance:
+          value: 28.1
+          units: km
     - name: Round Valley
       region: AZ
       lat: '34.1877'
       long: "-111.3017"
+      closest_rate_centers:
+      - name: Payson
+        distance:
+          value: 6.11
+          units: km
+      - name: Young
+        distance:
+          value: 34.0
+          units: km
+      - name: Tonto Basin
+        distance:
+          value: 37.58
+          units: km
     - name: Rye
       region: AZ
       lat: '34.0979'
       long: "-111.3542"
+      closest_rate_centers:
+      - name: Payson
+        distance:
+          value: 15.43
+          units: km
+      - name: Tonto Basin
+        distance:
+          value: 28.08
+          units: km
+      - name: Young
+        distance:
+          value: 37.38
+          units: km
     - name: Sacate Village
       region: AZ
       lat: '33.1416'
       long: "-111.9811"
+      closest_rate_centers:
+      - name: Casa Blanca
+        distance:
+          value: 9.08
+          units: km
+      - name: Maricopa
+        distance:
+          value: 12.28
+          units: km
+      - name: Lone Butte
+        distance:
+          value: 16.26
+          units: km
     - name: Sacaton
       region: AZ
       lat: '33.0793'
       long: "-111.7683"
+      closest_rate_centers:
+      - name: Sacaton
+        distance:
+          value: 2.4
+          units: km
+      - name: Stotonic
+        distance:
+          value: 9.44
+          units: km
+      - name: Casa Blanca
+        distance:
+          value: 11.96
+          units: km
     - name: Sacaton Flats Village
       region: AZ
       lat: '33.0559'
       long: "-111.6590"
+      closest_rate_centers:
+      - name: Sacaton
+        distance:
+          value: 8.11
+          units: km
+      - name: Blackwater
+        distance:
+          value: 8.8
+          units: km
+      - name: Casa Grande
+        distance:
+          value: 13.55
+          units: km
     - name: Saddlebrooke
       region: AZ
       lat: '32.5576'
       long: "-110.8740"
+      closest_rate_centers:
+      - name: Coronado
+        distance:
+          value: 5.36
+          units: km
+      - name: San Manuel
+        distance:
+          value: 23.92
+          units: km
+      - name: Marana
+        distance:
+          value: 33.46
+          units: km
     - name: Safford
       region: AZ
       lat: '32.8335'
       long: "-109.6964"
+      closest_rate_centers:
+      - name: Safford
+        distance:
+          value: 1.14
+          units: km
+      - name: Pima
+        distance:
+          value: 13.77
+          units: km
+      - name: Bonita
+        distance:
+          value: 38.44
+          units: km
     - name: Sahuarita
       region: AZ
       lat: '31.9323'
       long: "-110.9654"
+      closest_rate_centers:
+      - name: Green Valley
+        distance:
+          value: 6.18
+          units: km
+      - name: Vail
+        distance:
+          value: 27.58
+          units: km
+      - name: Tucson
+        distance:
+          value: 32.88
+          units: km
     - name: Salome
       region: AZ
       lat: '33.7778'
       long: "-113.6060"
+      closest_rate_centers:
+      - name: Salome
+        distance:
+          value: 1.44
+          units: km
+      - name: Bouse
+        distance:
+          value: 40.87
+          units: km
+      - name: Aguila
+        distance:
+          value: 44.03
+          units: km
     - name: San Carlos
       region: AZ
       lat: '33.3500'
       long: "-110.4654"
+      closest_rate_centers:
+      - name: San Carlos
+        distance:
+          value: 1.25
+          units: km
+      - name: Globe
+        distance:
+          value: 34.41
+          units: km
+      - name: Miami
+        distance:
+          value: 38.5
+          units: km
     - name: San Jose
       region: AZ
       lat: '32.8169'
       long: "-109.5957"
+      closest_rate_centers:
+      - name: Safford
+        distance:
+          value: 10.73
+          units: km
+      - name: Pima
+        distance:
+          value: 23.08
+          units: km
+      - name: Clifton
+        distance:
+          value: 34.87
+          units: km
     - name: San Luis
       region: AZ
       lat: '32.4911'
       long: "-114.7089"
+      closest_rate_centers:
+      - name: Somerton
+        distance:
+          value: 11.3
+          units: km
+      - name: Yuma
+        distance:
+          value: 26.3
+          units: km
+      - name: Wellton
+        distance:
+          value: 57.45
+          units: km
     - name: San Manuel
       region: AZ
       lat: '32.6091'
       long: "-110.6415"
+      closest_rate_centers:
+      - name: San Manuel
+        distance:
+          value: 1.43
+          units: km
+      - name: Coronado
+        distance:
+          value: 27.73
+          units: km
+      - name: Cascabel
+        distance:
+          value: 42.51
+          units: km
     - name: San Miguel
       region: AZ
       lat: '31.6295'
       long: "-111.7801"
+      closest_rate_centers:
+      - name: Sasabe
+        distance:
+          value: 27.09
+          units: km
+      - name: Sells
+        distance:
+          value: 32.9
+          units: km
+      - name: Robles
+        distance:
+          value: 61.29
+          units: km
     - name: San Simon
       region: AZ
       lat: '32.2682'
       long: "-109.2302"
+      closest_rate_centers:
+      - name: San Simon
+        distance:
+          value: 0.56
+          units: km
+      - name: Bowie
+        distance:
+          value: 24.8
+          units: km
+      - name: Portal
+        distance:
+          value: 39.81
+          units: km
     - name: San Tan Valley
       region: AZ
       lat: '33.1786'
       long: "-111.5629"
+      closest_rate_centers:
+      - name: Blackwater
+        distance:
+          value: 17.38
+          units: km
+      - name: Sacaton
+        distance:
+          value: 20.39
+          units: km
+      - name: Whitlow
+        distance:
+          value: 21.2
+          units: km
     - name: Sanders
       region: AZ
       lat: '35.2095'
       long: "-109.3224"
+      closest_rate_centers:
+      - name: Sanders
+        distance:
+          value: 1.14
+          units: km
+      - name: Wide Ruins
+        distance:
+          value: 27.73
+          units: km
+      - name: Window Rock
+        distance:
+          value: 57.18
+          units: km
     - name: Santa Cruz
       region: AZ
       lat: '33.2327'
       long: "-112.1594"
+      closest_rate_centers:
+      - name: Komatke
+        distance:
+          value: 6.47
+          units: km
+      - name: Maricopa Village
+        distance:
+          value: 16.89
+          units: km
+      - name: Lone Butte
+        distance:
+          value: 19.19
+          units: km
     - name: Santa Rosa
       region: AZ
       lat: '32.3325'
       long: "-112.0464"
+      closest_rate_centers:
+      - name: Santa Rosa
+        distance:
+          value: 2.14
+          units: km
+      - name: West San Simon
+        distance:
+          value: 36.91
+          units: km
+      - name: Silverbell
+        distance:
+          value: 39.08
+          units: km
     - name: Sawmill
       region: AZ
       lat: '35.8924'
       long: "-109.1538"
+      closest_rate_centers:
+      - name: Fort Defiance
+        distance:
+          value: 17.24
+          units: km
+      - name: Window Rock
+        distance:
+          value: 25.45
+          units: km
+      - name: Ganado
+        distance:
+          value: 40.09
+          units: km
     - name: Scenic
       region: AZ
       lat: '36.7930'
       long: "-114.0151"
+      closest_rate_centers:
+      - name: Littlefield
+        distance:
+          value: 6.81
+          units: km
+      - name: Meadview
+        distance:
+          value: 88.07
+          units: km
+      - name: Colorado City
+        distance:
+          value: 94.81
+          units: km
     - name: Scottsdale
       region: AZ
       lat: '33.6872'
       long: "-111.8651"
+      closest_rate_centers:
+      - name: Granite Mountain
+        distance:
+          value: 12.68
+          units: km
+      - name: Salt River
+        distance:
+          value: 23.28
+          units: km
+      - name: Phoenix
+        distance:
+          value: 23.28
+          units: km
+      - name: Lake Pleasant
+        distance:
+          value: 39.95
+          units: km
     - name: Seba Dalkai
       region: AZ
       lat: '35.4816'
       long: "-110.4562"
+      closest_rate_centers:
+      - name: Dilcon
+        distance:
+          value: 16.95
+          units: km
+      - name: Polacca
+        distance:
+          value: 40.1
+          units: km
+      - name: Keams Canyon
+        distance:
+          value: 44.49
+          units: km
     - name: Second Mesa
       region: AZ
       lat: '35.8222'
       long: "-110.4884"
+      closest_rate_centers:
+      - name: Polacca
+        distance:
+          value: 9.4
+          units: km
+      - name: Kykotsmovi Village
+        distance:
+          value: 13.08
+          units: km
+      - name: Keams Canyon
+        distance:
+          value: 27.02
+          units: km
     - name: Sedona
       region: AZ
       lat: '34.8581'
       long: "-111.7941"
+      closest_rate_centers:
+      - name: Munds Park
+        distance:
+          value: 16.2
+          units: km
+      - name: Sedona
+        distance:
+          value: 16.35
+          units: km
+      - name: Cottonwood
+        distance:
+          value: 23.92
+          units: km
     - name: Sehili
       region: AZ
       lat: '36.2807'
       long: "-109.1814"
+      closest_rate_centers:
+      - name: Tsaile
+        distance:
+          value: 1.32
+          units: km
+      - name: Lukachukai
+        distance:
+          value: 15.91
+          units: km
+      - name: Chinle
+        distance:
+          value: 36.23
+          units: km
     - name: Seligman
       region: AZ
       lat: '35.3256'
       long: "-112.8574"
+      closest_rate_centers:
+      - name: Seligman
+        distance:
+          value: 1.43
+          units: km
+      - name: Ash Fork
+        distance:
+          value: 35.85
+          units: km
+      - name: Williams
+        distance:
+          value: 61.78
+          units: km
     - name: Sells
       region: AZ
       lat: '31.9202'
       long: "-111.8775"
+      closest_rate_centers:
+      - name: Sells
+        distance:
+          value: 0.83
+          units: km
+      - name: Santa Rosa
+        distance:
+          value: 50.65
+          units: km
+      - name: Sasabe
+        distance:
+          value: 52.19
+          units: km
     - name: Seven Mile
       region: AZ
       lat: '33.7883'
       long: "-109.9576"
+      closest_rate_centers:
+      - name: Whiteriver
+        distance:
+          value: 5.53
+          units: km
+      - name: Hawley Lake
+        distance:
+          value: 28.41
+          units: km
+      - name: McNary
+        distance:
+          value: 32.4
+          units: km
     - name: Shongopovi
       region: AZ
       lat: '35.8195'
       long: "-110.5331"
+      closest_rate_centers:
+      - name: Kykotsmovi Village
+        distance:
+          value: 9.81
+          units: km
+      - name: Polacca
+        distance:
+          value: 13.42
+          units: km
+      - name: Keams Canyon
+        distance:
+          value: 31.04
+          units: km
     - name: Shonto
       region: AZ
       lat: '36.5893'
       long: "-110.6607"
+      closest_rate_centers:
+      - name: Shonto
+        distance:
+          value: 1.7
+          units: km
+      - name: Black Mesa
+        distance:
+          value: 26.38
+          units: km
+      - name: Kaibito
+        distance:
+          value: 37.03
+          units: km
     - name: Show Low
       region: AZ
       lat: '34.2671'
       long: "-110.0384"
+      closest_rate_centers:
+      - name: Show Low
+        distance:
+          value: 1.84
+          units: km
+      - name: Pinetop
+        distance:
+          value: 18.36
+          units: km
+      - name: Pinedale
+        distance:
+          value: 19.91
+          units: km
     - name: Shumway
       region: AZ
       lat: '34.4145'
       long: "-110.0649"
+      closest_rate_centers:
+      - name: Snowflake
+        distance:
+          value: 10.33
+          units: km
+      - name: Show Low
+        distance:
+          value: 18.4
+          units: km
+      - name: Pinedale
+        distance:
+          value: 20.53
+          units: km
     - name: Sierra Vista
       region: AZ
       lat: '31.5630'
       long: "-110.3153"
+      closest_rate_centers:
+      - name: Sierra Vista
+        distance:
+          value: 1.55
+          units: km
+      - name: Tombstone
+        distance:
+          value: 29.17
+          units: km
+      - name: Bisbee
+        distance:
+          value: 40.19
+          units: km
     - name: Sierra Vista Southeast
       region: AZ
       lat: '31.4525'
       long: "-110.2160"
+      closest_rate_centers:
+      - name: Sierra Vista
+        distance:
+          value: 14.11
+          units: km
+      - name: Bisbee
+        distance:
+          value: 28.46
+          units: km
+      - name: Tombstone
+        distance:
+          value: 32.61
+          units: km
     - name: Six Shooter Canyon
       region: AZ
       lat: '33.3569'
       long: "-110.7719"
+      closest_rate_centers:
+      - name: Globe
+        distance:
+          value: 7.12
+          units: km
+      - name: Miami
+        distance:
+          value: 10.8
+          units: km
+      - name: San Carlos
+        distance:
+          value: 29.72
+          units: km
     - name: Snowflake
       region: AZ
       lat: '34.5225'
       long: "-110.0913"
+      closest_rate_centers:
+      - name: Snowflake
+        distance:
+          value: 2.28
+          units: km
+      - name: Pinedale
+        distance:
+          value: 27.74
+          units: km
+      - name: Show Low
+        distance:
+          value: 30.64
+          units: km
     - name: So-Hi
       region: AZ
       lat: '35.2527'
       long: "-114.1415"
+      closest_rate_centers:
+      - name: Golden Valley
+        distance:
+          value: 2.59
+          units: km
+      - name: Kingman
+        distance:
+          value: 10.59
+          units: km
+      - name: East Kingman
+        distance:
+          value: 12.69
+          units: km
     - name: Solomon
       region: AZ
       lat: '32.8138'
       long: "-109.6290"
+      closest_rate_centers:
+      - name: Safford
+        distance:
+          value: 7.8
+          units: km
+      - name: Pima
+        distance:
+          value: 20.37
+          units: km
+      - name: Clifton
+        distance:
+          value: 37.4
+          units: km
     - name: Somerton
       region: AZ
       lat: '32.6007'
       long: "-114.6994"
+      closest_rate_centers:
+      - name: Somerton
+        distance:
+          value: 2.05
+          units: km
+      - name: Yuma
+        distance:
+          value: 14.71
+          units: km
+      - name: Wellton
+        distance:
+          value: 53.62
+          units: km
     - name: Sonoita
       region: AZ
       lat: '31.6646'
       long: "-110.6427"
+      closest_rate_centers:
+      - name: Patagonia
+        distance:
+          value: 17.24
+          units: km
+      - name: Sierra Vista
+        distance:
+          value: 34.54
+          units: km
+      - name: Vail
+        distance:
+          value: 37.38
+          units: km
     - name: South Komelik
       region: AZ
       lat: '31.7144'
       long: "-111.7744"
+      closest_rate_centers:
+      - name: Sells
+        distance:
+          value: 24.22
+          units: km
+      - name: Sasabe
+        distance:
+          value: 30.07
+          units: km
+      - name: Robles
+        distance:
+          value: 54.34
+          units: km
     - name: South Tucson
       region: AZ
       lat: '32.1955'
       long: "-110.9692"
+      closest_rate_centers:
+      - name: Tucson
+        distance:
+          value: 3.63
+          units: km
+      - name: Vail
+        distance:
+          value: 34.65
+          units: km
+      - name: Green Valley
+        distance:
+          value: 34.89
+          units: km
     - name: Spring Valley
       region: AZ
       lat: '34.3452'
       long: "-112.1592"
+      closest_rate_centers:
+      - name: Humboldt
+        distance:
+          value: 18.35
+          units: km
+      - name: Millsite
+        distance:
+          value: 25.32
+          units: km
+      - name: Prescott
+        distance:
+          value: 36.36
+          units: km
     - name: Springerville
       region: AZ
       lat: '34.1560'
       long: "-109.2988"
+      closest_rate_centers:
+      - name: Springerville
+        distance:
+          value: 3.02
+          units: km
+      - name: Greer
+        distance:
+          value: 20.34
+          units: km
+      - name: Alpine
+        distance:
+          value: 37.25
+          units: km
     - name: St. David
       region: AZ
       lat: '31.8958'
       long: "-110.2224"
+      closest_rate_centers:
+      - name: Benson
+        distance:
+          value: 11.32
+          units: km
+      - name: Tombstone
+        distance:
+          value: 24.9
+          units: km
+      - name: Pearce
+        distance:
+          value: 37.3
+          units: km
     - name: St. Johns
       region: AZ
       lat: '34.5018'
       long: "-109.3784"
+      closest_rate_centers:
+      - name: St Johns
+        distance:
+          value: 0.5
+          units: km
+      - name: Springerville
+        distance:
+          value: 42.04
+          units: km
+      - name: Greer
+        distance:
+          value: 54.09
+          units: km
     - name: St. Michaels
       region: AZ
       lat: '35.6606'
       long: "-109.0962"
+      closest_rate_centers:
+      - name: Window Rock
+        distance:
+          value: 3.82
+          units: km
+      - name: Fort Defiance
+        distance:
+          value: 9.86
+          units: km
+      - name: Ganado
+        distance:
+          value: 40.62
+          units: km
     - name: Stanfield
       region: AZ
       lat: '32.8794'
       long: "-111.9636"
+      closest_rate_centers:
+      - name: Maricopa
+        distance:
+          value: 20.55
+          units: km
+      - name: Casa Blanca
+        distance:
+          value: 27.81
+          units: km
+      - name: Casa Grande
+        distance:
+          value: 29.52
+          units: km
     - name: Star Valley
       region: AZ
       lat: '34.2611'
       long: "-111.2197"
+      closest_rate_centers:
+      - name: Payson
+        distance:
+          value: 10.89
+          units: km
+      - name: Young
+        distance:
+          value: 30.82
+          units: km
+      - name: Blue Ridge
+        distance:
+          value: 37.78
+          units: km
     - name: Steamboat
       region: AZ
       lat: '35.7535'
       long: "-109.8504"
+      closest_rate_centers:
+      - name: Toyei
+        distance:
+          value: 7.08
+          units: km
+      - name: Greasewood
+        distance:
+          value: 25.68
+          units: km
+      - name: Ganado
+        distance:
+          value: 28.26
+          units: km
     - name: Stotonic Village
       region: AZ
       lat: '33.1528'
       long: "-111.8167"
+      closest_rate_centers:
+      - name: Stotonic
+        distance:
+          value: 2.01
+          units: km
+      - name: Casa Blanca
+        distance:
+          value: 7.41
+          units: km
+      - name: Sacaton
+        distance:
+          value: 11.08
+          units: km
     - name: Strawberry
       region: AZ
       lat: '34.4012'
       long: "-111.5100"
+      closest_rate_centers:
+      - name: Payson
+        distance:
+          value: 24.49
+          units: km
+      - name: Camp Verde
+        distance:
+          value: 36.0
+          units: km
+      - name: Blue Ridge
+        distance:
+          value: 37.17
+          units: km
     - name: Summerhaven
       region: AZ
       lat: '32.4416'
       long: "-110.7766"
+      closest_rate_centers:
+      - name: Coronado
+        distance:
+          value: 19.44
+          units: km
+      - name: San Manuel
+        distance:
+          value: 23.4
+          units: km
+      - name: Tucson
+        distance:
+          value: 29.68
+          units: km
     - name: Summit
       region: AZ
       lat: '32.0617'
       long: "-110.9485"
+      closest_rate_centers:
+      - name: Tucson
+        distance:
+          value: 18.57
+          units: km
+      - name: Green Valley
+        distance:
+          value: 20.39
+          units: km
+      - name: Vail
+        distance:
+          value: 25.91
+          units: km
     - name: Sun City
       region: AZ
       lat: '33.6165'
       long: "-112.2819"
+      closest_rate_centers:
+      - name: Salt River
+        distance:
+          value: 23.02
+          units: km
+      - name: Phoenix
+        distance:
+          value: 23.02
+          units: km
+      - name: Lake Pleasant
+        distance:
+          value: 25.77
+          units: km
+      - name: Maricopa Village
+        distance:
+          value: 27.44
+          units: km
     - name: Sun City West
       region: AZ
       lat: '33.6695'
       long: "-112.3573"
+      closest_rate_centers:
+      - name: Lake Pleasant
+        distance:
+          value: 22.0
+          units: km
+      - name: Phoenix
+        distance:
+          value: 31.76
+          units: km
+      - name: Salt River
+        distance:
+          value: 31.76
+          units: km
+      - name: Maricopa Village
+        distance:
+          value: 35.04
+          units: km
     - name: Sun Lakes
       region: AZ
       lat: '33.2172'
       long: "-111.8695"
+      closest_rate_centers:
+      - name: Stotonic
+        distance:
+          value: 9.21
+          units: km
+      - name: Casa Blanca
+        distance:
+          value: 10.81
+          units: km
+      - name: Lone Butte
+        distance:
+          value: 11.69
+          units: km
     - name: Sun Valley
       region: AZ
       lat: '34.9834'
       long: "-110.0374"
+      closest_rate_centers:
+      - name: Holbrook
+        distance:
+          value: 14.33
+          units: km
+      - name: Joseph City
+        distance:
+          value: 27.12
+          units: km
+      - name: Winslow
+        distance:
+          value: 43.89
+          units: km
     - name: Sunizona
       region: AZ
       lat: '31.8855'
       long: "-109.6332"
+      closest_rate_centers:
+      - name: Sunizona
+        distance:
+          value: 2.49
+          units: km
+      - name: Pearce
+        distance:
+          value: 18.38
+          units: km
+      - name: Elfrida
+        distance:
+          value: 23.8
+          units: km
     - name: Sunsites
       region: AZ
       lat: '31.9410'
       long: "-109.8394"
+      closest_rate_centers:
+      - name: Pearce
+        distance:
+          value: 4.87
+          units: km
+      - name: Sunizona
+        distance:
+          value: 18.7
+          units: km
+      - name: Tombstone
+        distance:
+          value: 32.87
+          units: km
     - name: Sunwest
       region: AZ
       lat: '33.6510'
       long: "-113.4091"
+      closest_rate_centers:
+      - name: Salome
+        distance:
+          value: 24.47
+          units: km
+      - name: Harquahala Valley
+        distance:
+          value: 33.02
+          units: km
+      - name: Aguila
+        distance:
+          value: 39.13
+          units: km
     - name: Supai
       region: AZ
       lat: '36.2298'
       long: "-112.6926"
+      closest_rate_centers:
+      - name: Supai
+        distance:
+          value: 1.2
+          units: km
+      - name: Grand Canyon
+        distance:
+          value: 52.88
+          units: km
+      - name: Fredonia
+        distance:
+          value: 81.58
+          units: km
     - name: Superior
       region: AZ
       lat: '33.2851'
       long: "-111.1109"
+      closest_rate_centers:
+      - name: Superior
+        distance:
+          value: 1.98
+          units: km
+      - name: Whitlow
+        distance:
+          value: 24.17
+          units: km
+      - name: Miami
+        distance:
+          value: 25.39
+          units: km
     - name: Surprise
       region: AZ
       lat: '33.6815'
       long: "-112.4515"
+      closest_rate_centers:
+      - name: Lake Pleasant
+        distance:
+          value: 26.04
+          units: km
+      - name: Maricopa Village
+        distance:
+          value: 40.09
+          units: km
+      - name: Phoenix
+        distance:
+          value: 40.27
+          units: km
+      - name: Salt River
+        distance:
+          value: 40.27
+          units: km
     - name: Sweet Water Village
       region: AZ
       lat: '33.1274'
       long: "-111.8424"
+      closest_rate_centers:
+      - name: Casa Blanca
+        distance:
+          value: 4.18
+          units: km
+      - name: Stotonic
+        distance:
+          value: 5.59
+          units: km
+      - name: Sacaton
+        distance:
+          value: 10.96
+          units: km
     - name: Swift Trail Junction
       region: AZ
       lat: '32.7305'
       long: "-109.7148"
+      closest_rate_centers:
+      - name: Safford
+        distance:
+          value: 11.7
+          units: km
+      - name: Pima
+        distance:
+          value: 20.89
+          units: km
+      - name: Bonita
+        distance:
+          value: 29.76
+          units: km
     - name: Tacna
       region: AZ
       lat: '32.7004'
       long: "-113.9618"
+      closest_rate_centers:
+      - name: Wellton
+        distance:
+          value: 16.38
+          units: km
+      - name: Yuma
+        distance:
+          value: 61.88
+          units: km
+      - name: Hyder
+        distance:
+          value: 67.34
+          units: km
     - name: Tanque Verde
       region: AZ
       lat: '32.2687'
       long: "-110.7437"
+      closest_rate_centers:
+      - name: Tucson
+        distance:
+          value: 21.39
+          units: km
+      - name: Vail
+        distance:
+          value: 30.52
+          units: km
+      - name: Cascabel
+        distance:
+          value: 33.75
+          units: km
     - name: Tat Momoli
       region: AZ
       lat: '32.6012'
       long: "-111.8862"
+      closest_rate_centers:
+      - name: Silverbell
+        distance:
+          value: 16.78
+          units: km
+      - name: Santa Rosa
+        distance:
+          value: 32.23
+          units: km
+      - name: Eloy
+        distance:
+          value: 35.4
+          units: km
     - name: Taylor
       region: AZ
       lat: '34.4393'
       long: "-110.1018"
+      closest_rate_centers:
+      - name: Snowflake
+        distance:
+          value: 7.92
+          units: km
+      - name: Pinedale
+        distance:
+          value: 19.76
+          units: km
+      - name: Show Low
+        distance:
+          value: 21.85
+          units: km
     - name: Teec Nos Pos
       region: AZ
       lat: '36.9221'
       long: "-109.0753"
+      closest_rate_centers:
+      - name: Teec Nos Pos
+        distance:
+          value: 2.91
+          units: km
+      - name: Red Valley
+        distance:
+          value: 36.42
+          units: km
+      - name: Rock Point
+        distance:
+          value: 53.63
+          units: km
     - name: Tees Toh
       region: AZ
       lat: '35.4849'
       long: "-110.3989"
+      closest_rate_centers:
+      - name: Dilcon
+        distance:
+          value: 14.08
+          units: km
+      - name: Polacca
+        distance:
+          value: 39.24
+          units: km
+      - name: Keams Canyon
+        distance:
+          value: 41.58
+          units: km
     - name: Tempe
       region: AZ
       lat: '33.3881'
       long: "-111.9319"
+      closest_rate_centers:
+      - name: Lone Butte
+        distance:
+          value: 11.61
+          units: km
+      - name: Salt River
+        distance:
+          value: 20.49
+          units: km
+      - name: Phoenix
+        distance:
+          value: 20.49
+          units: km
+      - name: Komatke
+        distance:
+          value: 23.66
+          units: km
     - name: Thatcher
       region: AZ
       lat: '32.8323'
       long: "-109.7595"
+      closest_rate_centers:
+      - name: Safford
+        distance:
+          value: 4.79
+          units: km
+      - name: Pima
+        distance:
+          value: 9.19
+          units: km
+      - name: Bonita
+        distance:
+          value: 34.51
+          units: km
     - name: Theba
       region: AZ
       lat: '32.9181'
       long: "-112.8903"
+      closest_rate_centers:
+      - name: Gila Bend
+        distance:
+          value: 16.37
+          units: km
+      - name: Hyder
+        distance:
+          value: 44.15
+          units: km
+      - name: Ajo
+        distance:
+          value: 60.38
+          units: km
     - name: Three Points
       region: AZ
       lat: '32.0596'
       long: "-111.2866"
+      closest_rate_centers:
+      - name: Robles
+        distance:
+          value: 5.68
+          units: km
+      - name: Green Valley
+        distance:
+          value: 33.88
+          units: km
+      - name: Tucson
+        distance:
+          value: 35.52
+          units: km
     - name: Timberline-Fernwood
       region: AZ
       lat: '35.3168'
       long: "-111.5507"
+      closest_rate_centers:
+      - name: Flagstaff
+        distance:
+          value: 15.47
+          units: km
+      - name: Cameron
+        distance:
+          value: 32.76
+          units: km
+      - name: Munds Park
+        distance:
+          value: 42.94
+          units: km
     - name: Tolani Lake
       region: AZ
       lat: '35.4310'
       long: "-110.8431"
+      closest_rate_centers:
+      - name: Leupp
+        distance:
+          value: 20.63
+          units: km
+      - name: Dilcon
+        distance:
+          value: 47.54
+          units: km
+      - name: Kykotsmovi Village
+        distance:
+          value: 53.24
+          units: km
     - name: Tolleson
       region: AZ
       lat: '33.4484'
       long: "-112.2560"
+      closest_rate_centers:
+      - name: Maricopa Village
+        distance:
+          value: 8.72
+          units: km
+      - name: Komatke
+        distance:
+          value: 19.72
+          units: km
+      - name: Salt River
+        distance:
+          value: 21.96
+          units: km
+      - name: Phoenix
+        distance:
+          value: 21.96
+          units: km
     - name: Tombstone
       region: AZ
       lat: '31.7234'
       long: "-110.0798"
+      closest_rate_centers:
+      - name: Tombstone
+        distance:
+          value: 1.6
+          units: km
+      - name: Sierra Vista
+        distance:
+          value: 27.92
+          units: km
+      - name: Pearce
+        distance:
+          value: 30.78
+          units: km
     - name: Tonalea
       region: AZ
       lat: '36.3218'
       long: "-110.9667"
+      closest_rate_centers:
+      - name: Kaibito
+        distance:
+          value: 31.96
+          units: km
+      - name: Tuba City
+        distance:
+          value: 33.14
+          units: km
+      - name: Shonto
+        distance:
+          value: 41.91
+          units: km
     - name: Tonopah
       region: AZ
       lat: '33.4880'
       long: "-112.9308"
+      closest_rate_centers:
+      - name: Harquahala Valley
+        distance:
+          value: 21.11
+          units: km
+      - name: Aguila
+        distance:
+          value: 55.31
+          units: km
+      - name: Gila Bend
+        distance:
+          value: 63.9
+          units: km
     - name: Tonto Basin
       region: AZ
       lat: '33.8370'
       long: "-111.2999"
+      closest_rate_centers:
+      - name: Tonto Basin
+        distance:
+          value: 1.43
+          units: km
+      - name: Roosevelt Lake
+        distance:
+          value: 23.87
+          units: km
+      - name: Young
+        distance:
+          value: 43.56
+          units: km
     - name: Tonto Village
       region: AZ
       lat: '34.3198'
       long: "-111.1394"
+      closest_rate_centers:
+      - name: Payson
+        distance:
+          value: 20.19
+          units: km
+      - name: Young
+        distance:
+          value: 30.23
+          units: km
+      - name: Blue Ridge
+        distance:
+          value: 31.37
+          units: km
     - name: Top-of-the-World
       region: AZ
       lat: '33.3477'
       long: "-110.9997"
+      closest_rate_centers:
+      - name: Superior
+        distance:
+          value: 11.07
+          units: km
+      - name: Miami
+        distance:
+          value: 12.97
+          units: km
+      - name: Globe
+        distance:
+          value: 16.54
+          units: km
     - name: Topawa
       region: AZ
       lat: '31.8078'
       long: "-111.8305"
+      closest_rate_centers:
+      - name: Sells
+        distance:
+          value: 12.59
+          units: km
+      - name: Sasabe
+        distance:
+          value: 40.39
+          units: km
+      - name: Robles
+        distance:
+          value: 52.8
+          units: km
     - name: Topock
       region: AZ
       lat: '34.7200'
       long: "-114.4789"
+      closest_rate_centers:
+      - name: Arizona Village
+        distance:
+          value: 17.63
+          units: km
+      - name: Castle Rock
+        distance:
+          value: 21.87
+          units: km
+      - name: Mohave Valley
+        distance:
+          value: 25.4
+          units: km
     - name: Toyei
       region: AZ
       lat: '35.7043'
       long: "-109.9371"
+      closest_rate_centers:
+      - name: Toyei
+        distance:
+          value: 2.5
+          units: km
+      - name: Greasewood
+        distance:
+          value: 21.49
+          units: km
+      - name: Keams Canyon
+        distance:
+          value: 25.97
+          units: km
     - name: Truxton
       region: AZ
       lat: '35.4870'
       long: "-113.5607"
+      closest_rate_centers:
+      - name: Peach Springs
+        distance:
+          value: 0.19
+          units: km
+      - name: East Kingman
+        distance:
+          value: 47.63
+          units: km
+      - name: Kingman
+        distance:
+          value: 55.31
+          units: km
     - name: Tsaile
       region: AZ
       lat: '36.3033'
       long: "-109.2157"
+      closest_rate_centers:
+      - name: Tsaile
+        distance:
+          value: 2.72
+          units: km
+      - name: Lukachukai
+        distance:
+          value: 12.53
+          units: km
+      - name: Chinle
+        distance:
+          value: 34.52
+          units: km
     - name: Tuba City
       region: AZ
       lat: '36.1250'
       long: "-111.2467"
+      closest_rate_centers:
+      - name: Tuba City
+        distance:
+          value: 0.89
+          units: km
+      - name: Kaibito
+        distance:
+          value: 54.54
+          units: km
+      - name: Cameron
+        distance:
+          value: 62.4
+          units: km
     - name: Tubac
       region: AZ
       lat: '31.6111'
       long: "-111.0586"
+      closest_rate_centers:
+      - name: Tubac
+        distance:
+          value: 0.72
+          units: km
+      - name: Patagonia
+        distance:
+          value: 29.59
+          units: km
+      - name: Green Valley
+        distance:
+          value: 30.78
+          units: km
     - name: Tucson
       region: AZ
       lat: '32.1541'
       long: "-110.8787"
+      closest_rate_centers:
+      - name: Tucson
+        distance:
+          value: 11.62
+          units: km
+      - name: Vail
+        distance:
+          value: 25.2
+          units: km
+      - name: Green Valley
+        distance:
+          value: 32.11
+          units: km
     - name: Tucson Estates
       region: AZ
       lat: '32.1792'
       long: "-111.1266"
+      closest_rate_centers:
+      - name: Tucson
+        distance:
+          value: 16.05
+          units: km
+      - name: Robles
+        distance:
+          value: 25.71
+          units: km
+      - name: Marana
+        distance:
+          value: 31.97
+          units: km
     - name: Tucson Mountains
       region: AZ
       lat: '32.2822'
       long: "-111.0773"
+      closest_rate_centers:
+      - name: Tucson
+        distance:
+          value: 12.07
+          units: km
+      - name: Marana
+        distance:
+          value: 23.2
+          units: km
+      - name: Coronado
+        distance:
+          value: 33.59
+          units: km
     - name: Tumacacori-Carmen
       region: AZ
       lat: '31.5771'
       long: "-111.0468"
+      closest_rate_centers:
+      - name: Tubac
+        distance:
+          value: 3.6
+          units: km
+      - name: Patagonia
+        distance:
+          value: 27.76
+          units: km
+      - name: Nogales
+        distance:
+          value: 28.36
+          units: km
     - name: Turkey Creek
       region: AZ
       lat: '33.8011'
       long: "-109.9461"
+      closest_rate_centers:
+      - name: Whiteriver
+        distance:
+          value: 4.45
+          units: km
+      - name: Hawley Lake
+        distance:
+          value: 26.64
+          units: km
+      - name: McNary
+        distance:
+          value: 30.73
+          units: km
     - name: Tusayan
       region: AZ
       lat: '35.9549'
       long: "-112.1202"
+      closest_rate_centers:
+      - name: Grand Canyon
+        distance:
+          value: 11.78
+          units: km
+      - name: Supai
+        distance:
+          value: 59.14
+          units: km
+      - name: Cameron
+        distance:
+          value: 66.05
+          units: km
     - name: Upper Santan Village
       region: AZ
       lat: '33.1152'
       long: "-111.7419"
+      closest_rate_centers:
+      - name: Sacaton
+        distance:
+          value: 4.53
+          units: km
+      - name: Stotonic
+        distance:
+          value: 7.22
+          units: km
+      - name: Casa Blanca
+        distance:
+          value: 13.5
+          units: km
     - name: Utting
       region: AZ
       lat: '33.8544'
       long: "-113.9129"
+      closest_rate_centers:
+      - name: Bouse
+        distance:
+          value: 12.29
+          units: km
+      - name: Salome
+        distance:
+          value: 28.26
+          units: km
+      - name: Quartzsite
+        distance:
+          value: 34.89
+          units: km
     - name: Vail
       region: AZ
       lat: '32.0217'
       long: "-110.6937"
+      closest_rate_centers:
+      - name: Vail
+        distance:
+          value: 2.7
+          units: km
+      - name: Green Valley
+        distance:
+          value: 32.31
+          units: km
+      - name: Tucson
+        distance:
+          value: 34.41
+          units: km
     - name: Vaiva Vo
       region: AZ
       lat: '32.7167'
       long: "-111.9269"
+      closest_rate_centers:
+      - name: Silverbell
+        distance:
+          value: 27.01
+          units: km
+      - name: Casa Grande
+        distance:
+          value: 35.12
+          units: km
+      - name: Eloy
+        distance:
+          value: 35.36
+          units: km
     - name: Valencia West
       region: AZ
       lat: '32.1355'
       long: "-111.1123"
+      closest_rate_centers:
+      - name: Tucson
+        distance:
+          value: 17.19
+          units: km
+      - name: Robles
+        distance:
+          value: 24.13
+          units: km
+      - name: Green Valley
+        distance:
+          value: 30.26
+          units: km
     - name: Valentine
       region: AZ
       lat: '35.3886'
       long: "-113.6591"
+      closest_rate_centers:
+      - name: Peach Springs
+        distance:
+          value: 14.11
+          units: km
+      - name: East Kingman
+        distance:
+          value: 34.49
+          units: km
+      - name: Kingman
+        distance:
+          value: 41.8
+          units: km
     - name: Valle
       region: AZ
       lat: '35.6598'
       long: "-112.1637"
+      closest_rate_centers:
+      - name: Grand Canyon
+        distance:
+          value: 44.45
+          units: km
+      - name: Williams
+        distance:
+          value: 45.56
+          units: km
+      - name: Ash Fork
+        distance:
+          value: 56.4
+          units: km
     - name: Valle Vista
       region: AZ
       lat: '35.4109'
       long: "-113.8627"
+      closest_rate_centers:
+      - name: East Kingman
+        distance:
+          value: 21.51
+          units: km
+      - name: Peach Springs
+        distance:
+          value: 28.74
+          units: km
+      - name: Kingman
+        distance:
+          value: 29.77
+          units: km
     - name: Ventana
       region: AZ
       lat: '32.4681'
       long: "-112.2434"
+      closest_rate_centers:
+      - name: Santa Rosa
+        distance:
+          value: 21.91
+          units: km
+      - name: West San Simon
+        distance:
+          value: 34.41
+          units: km
+      - name: Silverbell
+        distance:
+          value: 50.06
+          units: km
     - name: Verde Village
       region: AZ
       lat: '34.7119'
       long: "-111.9941"
+      closest_rate_centers:
+      - name: Cottonwood
+        distance:
+          value: 3.94
+          units: km
+      - name: Sedona
+        distance:
+          value: 11.28
+          units: km
+      - name: Camp Verde
+        distance:
+          value: 21.05
+          units: km
     - name: Vernon
       region: AZ
       lat: '34.2508'
       long: "-109.6926"
+      closest_rate_centers:
+      - name: McNary
+        distance:
+          value: 25.19
+          units: km
+      - name: Pinetop
+        distance:
+          value: 26.22
+          units: km
+      - name: Hawley Lake
+        distance:
+          value: 30.76
+          units: km
     - name: Vicksburg
       region: AZ
       lat: '33.7293'
       long: "-113.8255"
+      closest_rate_centers:
+      - name: Salome
+        distance:
+          value: 20.14
+          units: km
+      - name: Bouse
+        distance:
+          value: 28.12
+          units: km
+      - name: Quartzsite
+        distance:
+          value: 36.7
+          units: km
     - name: Village of Oak Creek
       region: AZ
       lat: '34.7813'
       long: "-111.7606"
+      closest_rate_centers:
+      - name: Sedona
+        distance:
+          value: 11.9
+          units: km
+      - name: Munds Park
+        distance:
+          value: 20.37
+          units: km
+      - name: Cottonwood
+        distance:
+          value: 23.66
+          units: km
     - name: Wagon Wheel
       region: AZ
       lat: '34.1976'
       long: "-110.0272"
+      closest_rate_centers:
+      - name: Show Low
+        distance:
+          value: 5.98
+          units: km
+      - name: Pinetop
+        distance:
+          value: 11.66
+          units: km
+      - name: McNary
+        distance:
+          value: 21.88
+          units: km
     - name: Wahak Hotrontk
       region: AZ
       lat: '32.1748'
       long: "-112.3664"
+      closest_rate_centers:
+      - name: West San Simon
+        distance:
+          value: 3.5
+          units: km
+      - name: Santa Rosa
+        distance:
+          value: 35.0
+          units: km
+      - name: Ajo
+        distance:
+          value: 52.25
+          units: km
     - name: Wall Lane
       region: AZ
       lat: '32.6573'
       long: "-114.7105"
+      closest_rate_centers:
+      - name: Somerton
+        distance:
+          value: 7.95
+          units: km
+      - name: Yuma
+        distance:
+          value: 10.5
+          units: km
+      - name: Wellton
+        distance:
+          value: 54.16
+          units: km
     - name: Walnut Creek
       region: AZ
       lat: '35.1312'
       long: "-114.1267"
+      closest_rate_centers:
+      - name: Kingman
+        distance:
+          value: 9.61
+          units: km
+      - name: Golden Valley
+        distance:
+          value: 11.56
+          units: km
+      - name: East Kingman
+        distance:
+          value: 17.78
+          units: km
     - name: Washington Park
       region: AZ
       lat: '34.3978'
       long: "-111.2731"
+      closest_rate_centers:
+      - name: Payson
+        distance:
+          value: 18.88
+          units: km
+      - name: Blue Ridge
+        distance:
+          value: 23.89
+          units: km
+      - name: Young
+        distance:
+          value: 44.7
+          units: km
     - name: Wellton
       region: AZ
       lat: '32.6401'
       long: "-114.2152"
+      closest_rate_centers:
+      - name: Wellton
+        distance:
+          value: 8.31
+          units: km
+      - name: Yuma
+        distance:
+          value: 39.09
+          units: km
+      - name: Somerton
+        distance:
+          value: 44.03
+          units: km
     - name: Wellton Hills
       region: AZ
       lat: '32.6231'
       long: "-114.1453"
+      closest_rate_centers:
+      - name: Wellton
+        distance:
+          value: 4.95
+          units: km
+      - name: Yuma
+        distance:
+          value: 45.89
+          units: km
+      - name: Somerton
+        distance:
+          value: 50.36
+          units: km
     - name: Wenden
       region: AZ
       lat: '33.8324'
       long: "-113.5432"
+      closest_rate_centers:
+      - name: Salome
+        distance:
+          value: 8.69
+          units: km
+      - name: Aguila
+        distance:
+          value: 36.35
+          units: km
+      - name: Bouse
+        distance:
+          value: 44.29
+          units: km
     - name: Wet Camp Village
       region: AZ
       lat: '33.1413'
       long: "-111.9004"
+      closest_rate_centers:
+      - name: Casa Blanca
+        distance:
+          value: 2.59
+          units: km
+      - name: Stotonic
+        distance:
+          value: 9.84
+          units: km
+      - name: Sacaton
+        distance:
+          value: 16.42
+          units: km
     - name: Wheatfields
       region: AZ
       lat: '33.4805'
       long: "-110.8366"
+      closest_rate_centers:
+      - name: Globe
+        distance:
+          value: 9.3
+          units: km
+      - name: Miami
+        distance:
+          value: 9.54
+          units: km
+      - name: Superior
+        distance:
+          value: 32.2
+          units: km
     - name: Whetstone
       region: AZ
       lat: '31.7258'
       long: "-110.2746"
+      closest_rate_centers:
+      - name: Sierra Vista
+        distance:
+          value: 18.94
+          units: km
+      - name: Tombstone
+        distance:
+          value: 19.84
+          units: km
+      - name: Benson
+        distance:
+          value: 27.81
+          units: km
     - name: Whispering Pines
       region: AZ
       lat: '34.3728'
       long: "-111.2813"
+      closest_rate_centers:
+      - name: Payson
+        distance:
+          value: 16.0
+          units: km
+      - name: Blue Ridge
+        distance:
+          value: 26.76
+          units: km
+      - name: Young
+        distance:
+          value: 43.21
+          units: km
     - name: White Hills
       region: AZ
       lat: '35.7242'
       long: "-114.4004"
+      closest_rate_centers:
+      - name: Lake Mohave Ranchos
+        distance:
+          value: 18.43
+          units: km
+      - name: Meadview
+        distance:
+          value: 42.53
+          units: km
+      - name: Golden Valley
+        distance:
+          value: 59.0
+          units: km
     - name: White Mountain Lake
       region: AZ
       lat: '34.3441'
       long: "-109.9878"
+      closest_rate_centers:
+      - name: Show Low
+        distance:
+          value: 11.14
+          units: km
+      - name: Snowflake
+        distance:
+          value: 19.8
+          units: km
+      - name: Pinedale
+        distance:
+          value: 24.28
+          units: km
     - name: Whitecone
       region: AZ
       lat: '35.6037'
       long: "-110.0791"
+      closest_rate_centers:
+      - name: Toyei
+        distance:
+          value: 19.46
+          units: km
+      - name: Greasewood
+        distance:
+          value: 22.11
+          units: km
+      - name: Keams Canyon
+        distance:
+          value: 25.77
+          units: km
     - name: Whiteriver
       region: AZ
       lat: '33.8358'
       long: "-109.9616"
+      closest_rate_centers:
+      - name: Whiteriver
+        distance:
+          value: 0.44
+          units: km
+      - name: Hawley Lake
+        distance:
+          value: 25.01
+          units: km
+      - name: McNary
+        distance:
+          value: 27.55
+          units: km
     - name: Why
       region: AZ
       lat: '32.2590'
       long: "-112.7307"
+      closest_rate_centers:
+      - name: Ajo
+        distance:
+          value: 18.34
+          units: km
+      - name: West San Simon
+        distance:
+          value: 32.09
+          units: km
+      - name: Santa Rosa
+        distance:
+          value: 64.13
+          units: km
     - name: Wickenburg
       region: AZ
       lat: '33.9837'
       long: "-112.7669"
+      closest_rate_centers:
+      - name: Wickenburg
+        distance:
+          value: 12.81
+          units: km
+      - name: Yarnell
+        distance:
+          value: 26.92
+          units: km
+      - name: Aguila
+        distance:
+          value: 37.69
+          units: km
     - name: Wide Ruins
       region: AZ
       lat: '35.4176'
       long: "-109.4994"
+      closest_rate_centers:
+      - name: Wide Ruins
+        distance:
+          value: 0.97
+          units: km
+      - name: Sanders
+        distance:
+          value: 27.13
+          units: km
+      - name: Ganado
+        distance:
+          value: 33.3
+          units: km
     - name: Wikieup
       region: AZ
       lat: '34.6931'
       long: "-113.5995"
+      closest_rate_centers:
+      - name: Wikieup
+        distance:
+          value: 4.3
+          units: km
+      - name: Bagdad
+        distance:
+          value: 37.88
+          units: km
+      - name: Yucca
+        distance:
+          value: 54.07
+          units: km
     - name: Wilhoit
       region: AZ
       lat: '34.4082'
       long: "-112.6156"
+      closest_rate_centers:
+      - name: Millsite
+        distance:
+          value: 18.75
+          units: km
+      - name: Prescott
+        distance:
+          value: 19.87
+          units: km
+      - name: Yarnell
+        distance:
+          value: 23.68
+          units: km
     - name: Willcox
       region: AZ
       lat: '32.2515'
       long: "-109.8359"
+      closest_rate_centers:
+      - name: Willcox
+        distance:
+          value: 0.47
+          units: km
+      - name: Bowie
+        distance:
+          value: 33.94
+          units: km
+      - name: Pearce
+        distance:
+          value: 39.27
+          units: km
     - name: Williams
       region: AZ
       lat: '35.2476'
       long: "-112.1834"
+      closest_rate_centers:
+      - name: Williams
+        distance:
+          value: 0.31
+          units: km
+      - name: Ash Fork
+        distance:
+          value: 27.29
+          units: km
+      - name: Flagstaff
+        distance:
+          value: 48.61
+          units: km
     - name: Williamson
       region: AZ
       lat: '34.7082'
       long: "-112.5343"
+      closest_rate_centers:
+      - name: Chino Valley
+        distance:
+          value: 8.26
+          units: km
+      - name: Prescott
+        distance:
+          value: 19.1
+          units: km
+      - name: Millsite
+        distance:
+          value: 32.48
+          units: km
     - name: Willow Canyon
       region: AZ
       lat: '32.3881'
       long: "-110.7010"
+      closest_rate_centers:
+      - name: San Manuel
+        distance:
+          value: 25.61
+          units: km
+      - name: Coronado
+        distance:
+          value: 28.69
+          units: km
+      - name: Tucson
+        distance:
+          value: 30.61
+          units: km
     - name: Willow Valley
       region: AZ
       lat: '34.9296'
       long: "-114.6159"
+      closest_rate_centers:
+      - name: Mohave Valley
+        distance:
+          value: 1.37
+          units: km
+      - name: Mesquite Creek
+        distance:
+          value: 5.5
+          units: km
+      - name: Arizona Village
+        distance:
+          value: 9.06
+          units: km
     - name: Window Rock
       region: AZ
       lat: '35.6705'
       long: "-109.0639"
+      closest_rate_centers:
+      - name: Window Rock
+        distance:
+          value: 0.83
+          units: km
+      - name: Fort Defiance
+        distance:
+          value: 8.84
+          units: km
+      - name: Ganado
+        distance:
+          value: 43.36
+          units: km
     - name: Winkelman
       region: AZ
       lat: '32.9853'
       long: "-110.7651"
+      closest_rate_centers:
+      - name: Hayden
+        distance:
+          value: 2.98
+          units: km
+      - name: San Manuel
+        distance:
+          value: 43.74
+          units: km
+      - name: Superior
+        distance:
+          value: 44.8
+          units: km
     - name: Winslow
       region: AZ
       lat: '35.0243'
       long: "-110.7095"
+      closest_rate_centers:
+      - name: Winslow
+        distance:
+          value: 17.74
+          units: km
+      - name: Joseph City
+        distance:
+          value: 35.02
+          units: km
+      - name: Leupp
+        distance:
+          value: 40.53
+          units: km
     - name: Winslow West
       region: AZ
       lat: '34.9918'
       long: "-110.7069"
+      closest_rate_centers:
+      - name: Winslow
+        distance:
+          value: 17.11
+          units: km
+      - name: Joseph City
+        distance:
+          value: 34.22
+          units: km
+      - name: Leupp
+        distance:
+          value: 43.47
+          units: km
     - name: Wintersburg
       region: AZ
       lat: '33.4187'
       long: "-112.8666"
+      closest_rate_centers:
+      - name: Harquahala Valley
+        distance:
+          value: 26.69
+          units: km
+      - name: Gila Bend
+        distance:
+          value: 54.82
+          units: km
+      - name: Maricopa Village
+        distance:
+          value: 59.76
+          units: km
     - name: Wittmann
       region: AZ
       lat: '33.7749'
       long: "-112.5250"
+      closest_rate_centers:
+      - name: Lake Pleasant
+        distance:
+          value: 26.44
+          units: km
+      - name: Wickenburg
+        distance:
+          value: 41.07
+          units: km
+      - name: Salt River
+        distance:
+          value: 50.97
+          units: km
+      - name: Phoenix
+        distance:
+          value: 50.97
+          units: km
     - name: Woodruff
       region: AZ
       lat: '34.7843'
       long: "-110.0366"
+      closest_rate_centers:
+      - name: Holbrook
+        distance:
+          value: 16.8
+          units: km
+      - name: Snowflake
+        distance:
+          value: 31.03
+          units: km
+      - name: Joseph City
+        distance:
+          value: 33.3
+          units: km
     - name: Yarnell
       region: AZ
       lat: '34.2282'
       long: "-112.7631"
+      closest_rate_centers:
+      - name: Yarnell
+        distance:
+          value: 1.46
+          units: km
+      - name: Wickenburg
+        distance:
+          value: 14.7
+          units: km
+      - name: Millsite
+        distance:
+          value: 39.39
+          units: km
     - name: York
       region: AZ
       lat: '32.9175'
       long: "-109.1960"
+      closest_rate_centers:
+      - name: York Valley
+        distance:
+          value: 0.89
+          units: km
+      - name: Clifton
+        distance:
+          value: 17.84
+          units: km
+      - name: Duncan
+        distance:
+          value: 23.14
+          units: km
     - name: Young
       region: AZ
       lat: '34.1189'
       long: "-110.9559"
+      closest_rate_centers:
+      - name: Young
+        distance:
+          value: 2.36
+          units: km
+      - name: Payson
+        distance:
+          value: 37.13
+          units: km
+      - name: Tonto Basin
+        distance:
+          value: 43.47
+          units: km
     - name: Youngtown
       region: AZ
       lat: '33.5846'
       long: "-112.3048"
+      closest_rate_centers:
+      - name: Salt River
+        distance:
+          value: 24.12
+          units: km
+      - name: Phoenix
+        distance:
+          value: 24.12
+          units: km
+      - name: Maricopa Village
+        distance:
+          value: 24.52
+          units: km
+      - name: Lake Pleasant
+        distance:
+          value: 29.58
+          units: km
     - name: Yucca
       region: AZ
       lat: '34.8629'
       long: "-114.1461"
+      closest_rate_centers:
+      - name: Yucca
+        distance:
+          value: 1.36
+          units: km
+      - name: Kingman
+        distance:
+          value: 37.6
+          units: km
+      - name: Castle Rock
+        distance:
+          value: 38.79
+          units: km
     - name: Yuma
       region: AZ
       lat: '32.5995'
       long: "-114.5491"
+      closest_rate_centers:
+      - name: Somerton
+        distance:
+          value: 12.45
+          units: km
+      - name: Yuma
+        distance:
+          value: 14.71
+          units: km
+      - name: Wellton
+        distance:
+          value: 39.75
+          units: km
     - name: Yuma Proving Ground
       region: AZ
       lat: '32.8652'
       long: "-114.4369"
+      closest_rate_centers:
+      - name: Yuma
+        distance:
+          value: 24.01
+          units: km
+      - name: Wellton
+        distance:
+          value: 36.08
+          units: km
+      - name: Somerton
+        distance:
+          value: 38.21
+          units: km

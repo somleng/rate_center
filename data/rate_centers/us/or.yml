@@ -1,7 +1,7 @@
 ---
 rate_centers:
-  us:
-    or:
+  US:
+    OR:
     - region: OR
       exchange: '159411'
       name: Adair
@@ -34,6 +34,11 @@ rate_centers:
       ilec_name: OREGON-IDAHO UTILITIES, INC.
       lat: '43.732758'
       long: "-117.068746"
+      closest_city:
+        name: Adrian
+        distance:
+          value: 0.91
+          units: km
     - region: OR
       exchange: '343705'
       name: Agate Beach
@@ -66,6 +71,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '44.632796'
       long: "-123.099459"
+      closest_city:
+        name: Albany
+        distance:
+          value: 0.66
+          units: km
     - region: OR
       exchange: '343923'
       name: Albee
@@ -122,6 +132,11 @@ rate_centers:
       ilec_name: PIONEER TEL. COOPERATIVE
       lat: '44.381177'
       long: "-123.593794"
+      closest_city:
+        name: Alsea
+        distance:
+          value: 0.16
+          units: km
     - region: OR
       exchange: '343713'
       name: Alvadore
@@ -138,6 +153,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '45.115142'
       long: "-123.200571"
+      closest_city:
+        name: Amity
+        distance:
+          value: 0.21
+          units: km
     - region: OR
       exchange: '343927'
       name: Andrews
@@ -162,6 +182,11 @@ rate_centers:
       ilec_name: TRANS-CASCADES TEL. CO.
       lat: '44.915552'
       long: "-120.728256"
+      closest_city:
+        name: Antelope
+        distance:
+          value: 0.6
+          units: km
     - region: OR
       exchange: '343715'
       name: Applegate
@@ -186,6 +211,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - OR
       lat: '45.717532'
       long: "-120.200609"
+      closest_city:
+        name: Arlington
+        distance:
+          value: 0.99
+          units: km
     - region: OR
       exchange: '159030'
       name: Ash Valley
@@ -194,6 +224,11 @@ rate_centers:
       ilec_name: CASCADE UTILITIES, INC.
       lat: '43.575098'
       long: "-123.815913"
+      closest_city:
+        name: Elkton
+        distance:
+          value: 21.09
+          units: km
     - region: OR
       exchange: '159040'
       name: Ashland
@@ -202,6 +237,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '42.199685'
       long: "-122.719405"
+      closest_city:
+        name: Ashland
+        distance:
+          value: 1.95
+          units: km
     - region: OR
       exchange: '343931'
       name: Ashwood
@@ -218,6 +258,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '46.184567'
       long: "-123.839739"
+      closest_city:
+        name: Astoria
+        distance:
+          value: 2.65
+          units: km
     - region: OR
       exchange: '159060'
       name: Athena
@@ -226,6 +271,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '45.809121'
       long: "-118.488409"
+      closest_city:
+        name: Athena
+        distance:
+          value: 0.57
+          units: km
     - region: OR
       exchange: '343934'
       name: Aumsville
@@ -242,6 +292,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '44.842815'
       long: "-122.864621"
+      closest_city:
+        name: Aumsville
+        distance:
+          value: 0.57
+          units: km
     - region: OR
       exchange: '159080'
       name: Aurora
@@ -250,6 +305,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
       lat: '45.232574'
       long: "-122.758972"
+      closest_city:
+        name: Aurora
+        distance:
+          value: 0.48
+          units: km
     - region: OR
       exchange: '159090'
       name: Azalea
@@ -258,6 +318,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER OREGON, LLC DBA ZIPLY FIBER
       lat: '42.791088'
       long: "-123.251822"
+      closest_city:
+        name: Canyonville
+        distance:
+          value: 15.31
+          units: km
     - region: OR
       exchange: '159100'
       name: Baker
@@ -266,6 +331,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '44.781942'
       long: "-117.84349"
+      closest_city:
+        name: Baker City
+        distance:
+          value: 1.2
+          units: km
     - region: OR
       exchange: '343938'
       name: Baker City
@@ -290,6 +360,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '43.109241'
       long: "-124.419142"
+      closest_city:
+        name: Bandon
+        distance:
+          value: 0.6
+          units: km
     - region: OR
       exchange: '219361'
       name: Banks
@@ -322,6 +397,11 @@ rate_centers:
       ilec_name: OREGON TEL. CORP.
       lat: '44.583766'
       long: "-118.510067"
+      closest_city:
+        name: Greenhorn
+        distance:
+          value: 13.93
+          units: km
     - region: OR
       exchange: '159130'
       name: Bay City
@@ -330,6 +410,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - OR
       lat: '45.524423'
       long: "-123.881181"
+      closest_city:
+        name: Bay City
+        distance:
+          value: 0.48
+          units: km
     - region: OR
       exchange: '343721'
       name: Beatty
@@ -346,6 +431,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - OR
       lat: '45.276952'
       long: "-123.823806"
+      closest_city:
+        name: Beaver
+        distance:
+          value: 0.18
+          units: km
     - region: OR
       exchange: '159150'
       name: Beaver Creek
@@ -354,6 +444,11 @@ rate_centers:
       ilec_name: BEAVER CREEK COOP. TEL. CO.
       lat: '45.283568'
       long: "-122.531779"
+      closest_city:
+        name: Beavercreek
+        distance:
+          value: 1.68
+          units: km
     - region: OR
       exchange: '159160'
       name: Beaverton
@@ -362,6 +457,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '45.485454'
       long: "-122.811179"
+      closest_city:
+        name: Beaverton
+        distance:
+          value: 0.95
+          units: km
     - region: OR
       exchange: '343725'
       name: Belknap Hot Springs
@@ -386,6 +486,11 @@ rate_centers:
       ilec_name: PIONEER TEL. COOPERATIVE
       lat: '44.368868'
       long: "-123.35097"
+      closest_city:
+        name: Bellfountain
+        distance:
+          value: 0.55
+          units: km
     - region: OR
       exchange: '159180'
       name: Bend
@@ -394,6 +499,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '44.066068'
       long: "-121.302346"
+      closest_city:
+        name: Bend
+        distance:
+          value: 1.23
+          units: km
     - region: OR
       exchange: '341686'
       name: Big Bend Park
@@ -426,6 +536,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '44.372251'
       long: "-121.64117"
+      closest_city:
+        name: Black Butte Ranch
+        distance:
+          value: 2.13
+          units: km
     - region: OR
       exchange: '343724'
       name: Black Cap
@@ -442,6 +557,11 @@ rate_centers:
       ilec_name: PIONEER TEL. COOPERATIVE
       lat: '44.599734'
       long: "-123.515364"
+      closest_city:
+        name: Blodgett
+        distance:
+          value: 0.55
+          units: km
     - region: OR
       exchange: '159210'
       name: Blue River
@@ -450,6 +570,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '44.152322'
       long: "-122.335283"
+      closest_city:
+        name: Cascadia
+        distance:
+          value: 29.9
+          units: km
     - region: OR
       exchange: '159220'
       name: Bly
@@ -458,6 +583,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
       lat: '42.401642'
       long: "-121.039071"
+      closest_city:
+        name: Bly
+        distance:
+          value: 1.17
+          units: km
     - region: OR
       exchange: '159230'
       name: Boardman
@@ -466,6 +596,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
       lat: '45.835337'
       long: "-119.714132"
+      closest_city:
+        name: Boardman
+        distance:
+          value: 1.61
+          units: km
     - region: OR
       exchange: '159240'
       name: Bonanza
@@ -474,6 +609,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
       lat: '42.201151'
       long: "-121.40938"
+      closest_city:
+        name: Bonanza
+        distance:
+          value: 0.25
+          units: km
     - region: OR
       exchange: '343952'
       name: Bonneville
@@ -562,6 +702,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '42.050285'
       long: "-124.276669"
+      closest_city:
+        name: Harbor
+        distance:
+          value: 2.45
+          units: km
     - region: OR
       exchange: '343959'
       name: Brooks
@@ -602,6 +747,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
       lat: '44.390117'
       long: "-122.982698"
+      closest_city:
+        name: Brownsville
+        distance:
+          value: 0.24
+          units: km
     - region: OR
       exchange: '343963'
       name: Buell
@@ -626,6 +776,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '45.650292'
       long: "-122.833687"
+      closest_city:
+        name: Bethany
+        distance:
+          value: 9.89
+          units: km
     - region: OR
       exchange: '159270'
       name: Burns
@@ -634,6 +789,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
       lat: '43.581403'
       long: "-119.051901"
+      closest_city:
+        name: Burns
+        distance:
+          value: 1.07
+          units: km
     - region: OR
       exchange: '343734'
       name: Burnt Woods
@@ -650,6 +810,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - OR
       lat: '42.54044'
       long: "-122.561326"
+      closest_city:
+        name: Butte Falls
+        distance:
+          value: 0.65
+          units: km
     - region: OR
       exchange: '343967'
       name: Butteville
@@ -674,6 +839,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
       lat: '43.031711'
       long: "-123.666131"
+      closest_city:
+        name: Dillard
+        distance:
+          value: 21.26
+          units: km
     - region: OR
       exchange: '159191'
       name: Camp Sherman
@@ -682,6 +852,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '44.372251'
       long: "-121.64117"
+      closest_city:
+        name: Black Butte Ranch
+        distance:
+          value: 2.13
+          units: km
     - region: OR
       exchange: '343991'
       name: Camp Sherman
@@ -706,6 +881,11 @@ rate_centers:
       ilec_name: CANBY TEL. ASSN.
       lat: '45.256484'
       long: "-122.697776"
+      closest_city:
+        name: Canby
+        distance:
+          value: 1.3
+          units: km
     - region: OR
       exchange: '159300'
       name: Cannon Beach
@@ -714,6 +894,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '45.890396'
       long: "-123.956105"
+      closest_city:
+        name: Cannon Beach
+        distance:
+          value: 0.39
+          units: km
     - region: OR
       exchange: '343972'
       name: Canyon City
@@ -730,6 +915,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER OREGON, LLC DBA ZIPLY FIBER
       lat: '42.923913'
       long: "-123.269152"
+      closest_city:
+        name: Canyonville
+        distance:
+          value: 0.88
+          units: km
     - region: OR
       exchange: '218770'
       name: Carlton
@@ -738,6 +928,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - OR
       lat: '45.291412'
       long: "-123.183443"
+      closest_city:
+        name: Carlton
+        distance:
+          value: 0.72
+          units: km
     - region: OR
       exchange: '343738'
       name: Carpenterville
@@ -762,6 +957,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - OR
       lat: '45.664643'
       long: "-121.89268"
+      closest_city:
+        name: Cascade Locks
+        distance:
+          value: 2.07
+          units: km
     - region: OR
       exchange: '343739'
       name: Cascadia
@@ -778,6 +978,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER OREGON, LLC DBA ZIPLY FIBER
       lat: '42.167191'
       long: "-123.64039"
+      closest_city:
+        name: Cave Junction
+        distance:
+          value: 0.57
+          units: km
     - region: OR
       exchange: '343976'
       name: Cayuse
@@ -802,6 +1007,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '42.375725'
       long: "-122.916633"
+      closest_city:
+        name: Central Point
+        distance:
+          value: 0.46
+          units: km
     - region: OR
       exchange: '218790'
       name: Charbonneau
@@ -810,6 +1020,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
       lat: '45.287535'
       long: "-122.766282"
+      closest_city:
+        name: Wilsonville
+        distance:
+          value: 2.62
+          units: km
     - region: OR
       exchange: '343742'
       name: Charleston
@@ -834,6 +1049,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
       lat: '43.218504'
       long: "-121.781653"
+      closest_city:
+        name: Chemult
+        distance:
+          value: 0.47
+          units: km
     - region: OR
       exchange: '343980'
       name: Cherry Grove
@@ -858,6 +1078,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
       lat: '42.575857'
       long: "-121.857888"
+      closest_city:
+        name: Chiloquin
+        distance:
+          value: 0.81
+          units: km
     - region: OR
       exchange: '159360'
       name: Chitwood
@@ -866,6 +1091,11 @@ rate_centers:
       ilec_name: PIONEER TEL. COOPERATIVE
       lat: '44.659224'
       long: "-123.80651"
+      closest_city:
+        name: Toledo
+        distance:
+          value: 11.01
+          units: km
     - region: OR
       exchange: '159370'
       name: Clackamas
@@ -874,6 +1104,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '45.394117'
       long: "-122.637514"
+      closest_city:
+        name: Jennings Lodge
+        distance:
+          value: 1.75
+          units: km
     - region: OR
       exchange: '159375'
       name: Clatskanie
@@ -882,6 +1117,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '46.100498'
       long: "-123.198424"
+      closest_city:
+        name: Clatskanie
+        distance:
+          value: 0.66
+          units: km
     - region: OR
       exchange: '343983'
       name: Clifton
@@ -898,6 +1138,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - OR
       lat: '45.197988'
       long: "-123.882678"
+      closest_city:
+        name: Cloverdale
+        distance:
+          value: 0.31
+          units: km
     - region: OR
       exchange: '343747'
       name: Coburg
@@ -914,6 +1159,11 @@ rate_centers:
       ilec_name: COLTON TEL. CO.
       lat: '45.168742'
       long: "-122.433489"
+      closest_city:
+        name: Mulino
+        distance:
+          value: 11.74
+          units: km
     - region: OR
       exchange: '343986'
       name: Columbia City
@@ -930,6 +1180,11 @@ rate_centers:
       ilec_name: HOME TEL. CO.
       lat: '45.240584'
       long: "-120.1859"
+      closest_city:
+        name: Condon
+        distance:
+          value: 0.44
+          units: km
     - region: OR
       exchange: '159380'
       name: Conner Creek
@@ -938,6 +1193,11 @@ rate_centers:
       ilec_name: EAGLE TEL. SYSTEM, INC.
       lat: '44.566818'
       long: "-117.137973"
+      closest_city:
+        name: Richland
+        distance:
+          value: 22.51
+          units: km
     - region: OR
       exchange: '159390'
       name: Coos Bay
@@ -946,6 +1206,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '43.358332'
       long: "-124.21492"
+      closest_city:
+        name: Bunker Hill
+        distance:
+          value: 1.05
+          units: km
     - region: OR
       exchange: '159400'
       name: Coquille
@@ -954,6 +1219,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '43.175301'
       long: "-124.180709"
+      closest_city:
+        name: Coquille
+        distance:
+          value: 0.61
+          units: km
     - region: OR
       exchange: '218820'
       name: Corbett
@@ -962,6 +1232,11 @@ rate_centers:
       ilec_name: CASCADE UTILITIES, INC.
       lat: '45.532733'
       long: "-122.275441"
+      closest_city:
+        name: Troutdale
+        distance:
+          value: 9.36
+          units: km
     - region: OR
       exchange: '343989'
       name: Cornelius
@@ -978,6 +1253,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '44.568925'
       long: "-123.267008"
+      closest_city:
+        name: Corvallis
+        distance:
+          value: 0.87
+          units: km
     - region: OR
       exchange: '159420'
       name: Cottage Grove
@@ -986,6 +1266,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '43.789617'
       long: "-123.058248"
+      closest_city:
+        name: Cottage Grove
+        distance:
+          value: 0.71
+          units: km
     - region: OR
       exchange: '159430'
       name: Cove
@@ -994,6 +1279,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '45.299815'
       long: "-117.817145"
+      closest_city:
+        name: Cove
+        distance:
+          value: 0.66
+          units: km
     - region: OR
       exchange: '343992'
       name: Crane
@@ -1010,6 +1300,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - OR
       lat: '42.890853'
       long: "-122.131188"
+      closest_city:
+        name: Fort Klamath
+        distance:
+          value: 23.51
+          units: km
     - region: OR
       exchange: '343753'
       name: Crawfordsville
@@ -1034,6 +1329,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
       lat: '43.919294'
       long: "-123.019142"
+      closest_city:
+        name: Creswell
+        distance:
+          value: 0.33
+          units: km
     - region: OR
       exchange: '343995'
       name: Crooked River
@@ -1074,6 +1374,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '44.525211'
       long: "-121.20901"
+      closest_city:
+        name: Culver
+        distance:
+          value: 0.26
+          units: km
     - region: OR
       exchange: '343757'
       name: Curtin
@@ -1106,6 +1411,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '44.881777'
       long: "-123.25575"
+      closest_city:
+        name: Monmouth
+        distance:
+          value: 4.09
+          units: km
     - region: OR
       exchange: '343998'
       name: Damascus
@@ -1130,6 +1440,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER OREGON, LLC DBA ZIPLY FIBER
       lat: '42.976693'
       long: "-123.156904"
+      closest_city:
+        name: Days Creek
+        distance:
+          value: 1.0
+          units: km
     - region: OR
       exchange: '219310'
       name: Dayton
@@ -1138,6 +1453,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '45.217586'
       long: "-123.073332"
+      closest_city:
+        name: Dayton
+        distance:
+          value: 0.45
+          units: km
     - region: OR
       exchange: '219290'
       name: Dayville
@@ -1146,6 +1466,11 @@ rate_centers:
       ilec_name: OREGON TEL. CORP.
       lat: '44.468424'
       long: "-119.532581"
+      closest_city:
+        name: Dayville
+        distance:
+          value: 0.19
+          units: km
     - region: OR
       exchange: '159490'
       name: Deadwood
@@ -1154,6 +1479,11 @@ rate_centers:
       ilec_name: PIONEER TEL. COOPERATIVE
       lat: '44.085032'
       long: "-123.755839"
+      closest_city:
+        name: Mapleton
+        distance:
+          value: 10.23
+          units: km
     - region: OR
       exchange: '344001'
       name: Dee
@@ -1194,6 +1524,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
       lat: '44.806552'
       long: "-124.052064"
+      closest_city:
+        name: Depoe Bay
+        distance:
+          value: 0.68
+          units: km
     - region: OR
       exchange: '219300'
       name: Detroit
@@ -1202,6 +1537,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '44.72448'
       long: "-122.159414"
+      closest_city:
+        name: Detroit
+        distance:
+          value: 1.22
+          units: km
     - region: OR
       exchange: '344006'
       name: Devils Lake
@@ -1234,6 +1574,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - OR
       lat: '43.132174'
       long: "-122.126647"
+      closest_city:
+        name: Beaver Marsh
+        distance:
+          value: 26.17
+          units: km
     - region: OR
       exchange: '343766'
       name: Dillard
@@ -1282,6 +1627,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
       lat: '43.658465'
       long: "-123.319575"
+      closest_city:
+        name: Drain
+        distance:
+          value: 0.6
+          units: km
     - region: OR
       exchange: '344011'
       name: Drewsey
@@ -1298,6 +1648,11 @@ rate_centers:
       ilec_name: NORTH-STATE TEL. CO.
       lat: '45.460168'
       long: "-121.130521"
+      closest_city:
+        name: Dufur
+        distance:
+          value: 0.8
+          units: km
     - region: OR
       exchange: '344013'
       name: Dundee
@@ -1322,6 +1677,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
       lat: '44.581899'
       long: "-117.459608"
+      closest_city:
+        name: Huntington
+        distance:
+          value: 29.97
+          units: km
     - region: OR
       exchange: '218873'
       name: Eagle Creek
@@ -1362,6 +1722,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
       lat: '45.742233'
       long: "-119.193943"
+      closest_city:
+        name: Echo
+        distance:
+          value: 0.2
+          units: km
     - region: OR
       exchange: '344018'
       name: Ecola
@@ -1386,6 +1751,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '45.568042'
       long: "-117.924535"
+      closest_city:
+        name: Elgin
+        distance:
+          value: 0.46
+          units: km
     - region: OR
       exchange: '343773'
       name: Elk City
@@ -1402,6 +1772,11 @@ rate_centers:
       ilec_name: CASCADE UTILITIES, INC.
       lat: '43.635273'
       long: "-123.569306"
+      closest_city:
+        name: Elkton
+        distance:
+          value: 0.29
+          units: km
     - region: OR
       exchange: '343775'
       name: Elmira
@@ -1426,6 +1801,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '45.425264'
       long: "-117.273208"
+      closest_city:
+        name: Enterprise
+        distance:
+          value: 0.45
+          units: km
     - region: OR
       exchange: '218870'
       name: Estacada
@@ -1434,6 +1814,11 @@ rate_centers:
       ilec_name: CASCADE UTILITIES, INC.
       lat: '45.281409'
       long: "-122.336218"
+      closest_city:
+        name: Estacada
+        distance:
+          value: 1.92
+          units: km
     - region: OR
       exchange: '159550'
       name: Eugene
@@ -1442,6 +1827,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '44.050074'
       long: "-123.082068"
+      closest_city:
+        name: Eugene
+        distance:
+          value: 2.91
+          units: km
     - region: OR
       exchange: '344022'
       name: Fairview
@@ -1466,6 +1856,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '44.867992'
       long: "-123.431929"
+      closest_city:
+        name: Falls City
+        distance:
+          value: 0.55
+          units: km
     - region: OR
       exchange: '344024'
       name: Fields
@@ -1482,6 +1877,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - OR
       lat: '42.380676'
       long: "-122.206772"
+      closest_city:
+        name: Rocky Point
+        distance:
+          value: 10.95
+          units: km
     - region: OR
       exchange: '344795'
       name: Flora
@@ -1498,6 +1898,11 @@ rate_centers:
       ilec_name: ASOTIN TEL CO
       lat: '45.935046'
       long: "-117.390769"
+      closest_city:
+        name: Wallowa
+        distance:
+          value: 41.93
+          units: km
     - region: OR
       exchange: '159590'
       name: Florence
@@ -1506,6 +1911,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '43.965201'
       long: "-124.098422"
+      closest_city:
+        name: Florence
+        distance:
+          value: 3.0
+          units: km
     - region: OR
       exchange: '218880'
       name: Forest Grove
@@ -1514,6 +1924,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '45.515079'
       long: "-123.115977"
+      closest_city:
+        name: Forest Grove
+        distance:
+          value: 1.14
+          units: km
     - region: OR
       exchange: '159600'
       name: Fort Klamath
@@ -1522,6 +1937,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
       lat: '42.699131'
       long: "-121.992202"
+      closest_city:
+        name: Fort Klamath
+        distance:
+          value: 0.65
+          units: km
     - region: OR
       exchange: '344026'
       name: Fort Rock
@@ -1546,6 +1966,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
       lat: '44.999817'
       long: "-120.208712"
+      closest_city:
+        name: Fossil
+        distance:
+          value: 0.5
+          units: km
     - region: OR
       exchange: '343781'
       name: Foster
@@ -1626,6 +2051,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - OR
       lat: '45.557779'
       long: "-123.917685"
+      closest_city:
+        name: Garibaldi
+        distance:
+          value: 0.6
+          units: km
     - region: OR
       exchange: '219364'
       name: Gaston
@@ -1658,6 +2088,11 @@ rate_centers:
       ilec_name: GERVAIS TEL. CO.
       lat: '45.107821'
       long: "-122.889113"
+      closest_city:
+        name: Gervais
+        distance:
+          value: 0.57
+          units: km
     - region: OR
       exchange: '218910'
       name: Gilchrist
@@ -1666,6 +2101,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
       lat: '43.476529'
       long: "-121.685293"
+      closest_city:
+        name: Gilchrist
+        distance:
+          value: 0.38
+          units: km
     - region: OR
       exchange: '344040'
       name: Gladstone
@@ -1698,6 +2138,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER OREGON, LLC DBA ZIPLY FIBER
       lat: '42.731966'
       long: "-123.414376"
+      closest_city:
+        name: Glendale
+        distance:
+          value: 1.4
+          units: km
     - region: OR
       exchange: '218831'
       name: Gleneden Beach
@@ -1722,6 +2167,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
       lat: '43.300369'
       long: "-123.090967"
+      closest_city:
+        name: Glide
+        distance:
+          value: 1.99
+          units: km
     - region: OR
       exchange: '344044'
       name: Goble
@@ -1738,6 +2188,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '42.406353'
       long: "-124.417921"
+      closest_city:
+        name: Gold Beach
+        distance:
+          value: 1.0
+          units: km
     - region: OR
       exchange: '159640'
       name: Gold Hill
@@ -1746,6 +2201,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '42.433215'
       long: "-123.040874"
+      closest_city:
+        name: Gold Hill
+        distance:
+          value: 1.01
+          units: km
     - region: OR
       exchange: '343791'
       name: Goshen
@@ -1762,6 +2222,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
       lat: '45.300515'
       long: "-121.752817"
+      closest_city:
+        name: Government Camp
+        distance:
+          value: 0.19
+          units: km
     - region: OR
       exchange: '218920'
       name: Grand Island
@@ -1770,6 +2235,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '45.134868'
       long: "-123.055516"
+      closest_city:
+        name: Dayton
+        distance:
+          value: 9.61
+          units: km
     - region: OR
       exchange: '218930'
       name: Grand Ronde
@@ -1778,6 +2248,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - OR
       lat: '45.058215'
       long: "-123.608876"
+      closest_city:
+        name: Grand Ronde
+        distance:
+          value: 1.99
+          units: km
     - region: OR
       exchange: '160661'
       name: Granite
@@ -1786,6 +2261,11 @@ rate_centers:
       ilec_name: PINE TEL. SYSTEM
       lat: '44.743188'
       long: "-118.20203"
+      closest_city:
+        name: Sumpter
+        distance:
+          value: 0.36
+          units: km
     - region: OR
       exchange: '159650'
       name: Grants Pass
@@ -1794,6 +2274,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '42.439949'
       long: "-123.313983"
+      closest_city:
+        name: Grants Pass
+        distance:
+          value: 1.63
+          units: km
     - region: OR
       exchange: '218940'
       name: Grass Valley
@@ -1802,6 +2287,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - OR
       lat: '45.349677'
       long: "-120.791715"
+      closest_city:
+        name: Grass Valley
+        distance:
+          value: 1.19
+          units: km
     - region: OR
       exchange: '344050'
       name: Greenhorn
@@ -1826,6 +2316,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '45.501053'
       long: "-122.436223"
+      closest_city:
+        name: Gresham
+        distance:
+          value: 0.41
+          units: km
     - region: OR
       exchange: '218950'
       name: Haines
@@ -1834,6 +2329,11 @@ rate_centers:
       ilec_name: CASCADE UTILITIES, INC.
       lat: '44.915345'
       long: "-117.935571"
+      closest_city:
+        name: Haines
+        distance:
+          value: 0.46
+          units: km
     - region: OR
       exchange: '219320'
       name: Halfway
@@ -1842,6 +2342,11 @@ rate_centers:
       ilec_name: PINE TEL. SYSTEM
       lat: '44.873004'
       long: "-117.108611"
+      closest_city:
+        name: Halfway
+        distance:
+          value: 0.57
+          units: km
     - region: OR
       exchange: '159670'
       name: Halsey
@@ -1850,6 +2355,11 @@ rate_centers:
       ilec_name: ROOME TELECOMMUNICATIONS, INC.
       lat: '44.383162'
       long: "-123.105484"
+      closest_city:
+        name: Halsey
+        distance:
+          value: 0.44
+          units: km
     - region: OR
       exchange: '344054'
       name: Hammond
@@ -1882,6 +2392,11 @@ rate_centers:
       ilec_name: PIONEER TEL. COOPERATIVE
       lat: '44.531104'
       long: "-123.6892"
+      closest_city:
+        name: Summit
+        distance:
+          value: 14.69
+          units: km
     - region: OR
       exchange: '159690'
       name: Harper
@@ -1890,6 +2405,11 @@ rate_centers:
       ilec_name: OREGON TEL. CORP.
       lat: '43.868279'
       long: "-117.605816"
+      closest_city:
+        name: Harper
+        distance:
+          value: 2.08
+          units: km
     - region: OR
       exchange: '159700'
       name: Harrisburg
@@ -1898,6 +2418,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '44.268386'
       long: "-123.168492"
+      closest_city:
+        name: Harrisburg
+        distance:
+          value: 0.45
+          units: km
     - region: OR
       exchange: '344056'
       name: Hebo
@@ -1914,6 +2439,11 @@ rate_centers:
       ilec_name: HELIX TEL. CO.
       lat: '45.852015'
       long: "-118.659597"
+      closest_city:
+        name: Helix
+        distance:
+          value: 0.15
+          units: km
     - region: OR
       exchange: '219240'
       name: Heppner
@@ -1922,6 +2452,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
       lat: '45.359997'
       long: "-119.558591"
+      closest_city:
+        name: Heppner
+        distance:
+          value: 0.62
+          units: km
     - region: OR
       exchange: '344060'
       name: Hereford
@@ -1938,6 +2473,11 @@ rate_centers:
       ilec_name: OREGON TEL. CORP.
       lat: '44.443724'
       long: "-118.198786"
+      closest_city:
+        name: Unity
+        distance:
+          value: 1.04
+          units: km
     - region: OR
       exchange: '159710'
       name: Hermiston
@@ -1946,6 +2486,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '45.845438'
       long: "-119.276142"
+      closest_city:
+        name: Hermiston
+        distance:
+          value: 1.6
+          units: km
     - region: OR
       exchange: '218960'
       name: Hillsboro
@@ -1954,6 +2499,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '45.517383'
       long: "-122.984763"
+      closest_city:
+        name: Hillsboro
+        distance:
+          value: 3.96
+          units: km
     - region: OR
       exchange: '344063'
       name: Hines
@@ -1986,6 +2536,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '45.349668'
       long: "-121.956052"
+      closest_city:
+        name: Rhododendron
+        distance:
+          value: 6.53
+          units: km
     - region: OR
       exchange: '159730'
       name: Hood River
@@ -1994,6 +2549,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - OR
       lat: '45.70992'
       long: "-121.525461"
+      closest_city:
+        name: Hood River
+        distance:
+          value: 0.09
+          units: km
     - region: OR
       exchange: '159740'
       name: Horton
@@ -2002,6 +2562,11 @@ rate_centers:
       ilec_name: PIONEER TEL. COOPERATIVE
       lat: '44.192392'
       long: "-123.541126"
+      closest_city:
+        name: Elmira
+        distance:
+          value: 19.92
+          units: km
     - region: OR
       exchange: '343800'
       name: Hoskins
@@ -2034,6 +2599,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
       lat: '44.340482'
       long: "-117.267749"
+      closest_city:
+        name: Huntington
+        distance:
+          value: 1.07
+          units: km
     - region: OR
       exchange: '344070'
       name: Idanha
@@ -2066,6 +2636,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '45.456857'
       long: "-117.965107"
+      closest_city:
+        name: Imbler
+        distance:
+          value: 0.6
+          units: km
     - region: OR
       exchange: '159791'
       name: Imnaha
@@ -2098,6 +2673,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
       lat: '45.500708'
       long: "-119.825307"
+      closest_city:
+        name: Ione
+        distance:
+          value: 0.35
+          units: km
     - region: OR
       exchange: '344075'
       name: Ironside
@@ -2146,6 +2726,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '42.310522'
       long: "-122.967472"
+      closest_city:
+        name: Jacksonville
+        distance:
+          value: 0.28
+          units: km
     - region: OR
       exchange: '341690'
       name: Jamieson
@@ -2170,6 +2755,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '44.718375'
       long: "-123.00037"
+      closest_city:
+        name: Jefferson
+        distance:
+          value: 0.53
+          units: km
     - region: OR
       exchange: '344079'
       name: Jennings Lodge
@@ -2186,6 +2776,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
       lat: '45.923945'
       long: "-123.491908"
+      closest_city:
+        name: Westport
+        distance:
+          value: 24.76
+          units: km
     - region: OR
       exchange: '219230'
       name: John Day
@@ -2194,6 +2789,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
       lat: '44.417113'
       long: "-118.9469"
+      closest_city:
+        name: John Day
+        distance:
+          value: 0.75
+          units: km
     - region: OR
       exchange: '159780'
       name: Jordan Valley
@@ -2202,6 +2802,11 @@ rate_centers:
       ilec_name: OREGON-IDAHO UTILITIES, INC.
       lat: '42.967889'
       long: "-117.047"
+      closest_city:
+        name: Jordan Valley
+        distance:
+          value: 1.53
+          units: km
     - region: OR
       exchange: '159790'
       name: Joseph
@@ -2210,6 +2815,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '45.356701'
       long: "-117.234206"
+      closest_city:
+        name: Joseph
+        distance:
+          value: 0.55
+          units: km
     - region: OR
       exchange: '159800'
       name: Junction City
@@ -2218,6 +2828,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '44.215512'
       long: "-123.199476"
+      closest_city:
+        name: Junction City
+        distance:
+          value: 1.29
+          units: km
     - region: OR
       exchange: '159810'
       name: Juntura
@@ -2226,6 +2841,11 @@ rate_centers:
       ilec_name: OREGON TEL. CORP.
       lat: '43.746365'
       long: "-118.083926"
+      closest_city:
+        name: Juntura
+        distance:
+          value: 0.48
+          units: km
     - region: OR
       exchange: '344083'
       name: Kah Nee Ta
@@ -2314,6 +2934,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '42.227116'
       long: "-121.766216"
+      closest_city:
+        name: Klamath Falls
+        distance:
+          value: 1.14
+          units: km
     - region: OR
       exchange: '344090'
       name: Klondike
@@ -2330,6 +2955,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
       lat: '46.182162'
       long: "-123.581648"
+      closest_city:
+        name: Knappa
+        distance:
+          value: 1.42
+          units: km
     - region: OR
       exchange: '159830'
       name: La Grande
@@ -2338,6 +2968,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '45.335591'
       long: "-118.092848"
+      closest_city:
+        name: La Grande
+        distance:
+          value: 1.36
+          units: km
     - region: OR
       exchange: '344093'
       name: Lafayette
@@ -2362,6 +2997,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '45.418523'
       long: "-122.667631"
+      closest_city:
+        name: Oak Grove
+        distance:
+          value: 2.58
+          units: km
     - region: OR
       exchange: '159840'
       name: Lakeside
@@ -2370,6 +3010,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '43.573681'
       long: "-124.164409"
+      closest_city:
+        name: Lakeside
+        distance:
+          value: 0.97
+          units: km
     - region: OR
       exchange: '159850'
       name: Lakeview
@@ -2378,6 +3023,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
       lat: '42.189814'
       long: "-120.341862"
+      closest_city:
+        name: Lakeview
+        distance:
+          value: 0.92
+          units: km
     - region: OR
       exchange: '159860'
       name: Langlois
@@ -2386,6 +3036,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '42.915615'
       long: "-124.448303"
+      closest_city:
+        name: Langlois
+        distance:
+          value: 1.21
+          units: km
     - region: OR
       exchange: '159870'
       name: Lapine
@@ -2394,6 +3049,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '43.665094'
       long: "-121.508447"
+      closest_city:
+        name: La Pine
+        distance:
+          value: 3.06
+          units: km
     - region: OR
       exchange: '344097'
       name: Laurel
@@ -2426,6 +3086,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '44.108781'
       long: "-122.673035"
+      closest_city:
+        name: Marcola
+        distance:
+          value: 16.51
+          units: km
     - region: OR
       exchange: '159890'
       name: Lebanon
@@ -2434,6 +3099,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
       lat: '44.531601'
       long: "-122.910039"
+      closest_city:
+        name: Lebanon
+        distance:
+          value: 0.23
+          units: km
     - region: OR
       exchange: '343817'
       name: Lewisburg
@@ -2450,6 +3120,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
       lat: '45.443486'
       long: "-119.683161"
+      closest_city:
+        name: Lexington
+        distance:
+          value: 0.48
+          units: km
     - region: OR
       exchange: '344101'
       name: Liberal
@@ -2482,6 +3157,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - OR
       lat: '44.959274'
       long: "-124.019804"
+      closest_city:
+        name: Lincoln City
+        distance:
+          value: 2.02
+          units: km
     - region: OR
       exchange: '344105'
       name: Linnton
@@ -2498,6 +3178,11 @@ rate_centers:
       ilec_name: PIONEER TEL. COOPERATIVE
       lat: '44.293016'
       long: "-123.646949"
+      closest_city:
+        name: Alsea
+        distance:
+          value: 10.65
+          units: km
     - region: OR
       exchange: '344106'
       name: Logdell
@@ -2530,6 +3215,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
       lat: '44.706142'
       long: "-119.098394"
+      closest_city:
+        name: Long Creek
+        distance:
+          value: 1.01
+          units: km
     - region: OR
       exchange: '343820'
       name: Lorane
@@ -2562,6 +3252,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '45.482299'
       long: "-117.426671"
+      closest_city:
+        name: Lostine
+        distance:
+          value: 0.55
+          units: km
     - region: OR
       exchange: '159920'
       name: Lowell
@@ -2570,6 +3265,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '43.915017'
       long: "-122.7837"
+      closest_city:
+        name: Lowell
+        distance:
+          value: 0.66
+          units: km
     - region: OR
       exchange: '219010'
       name: Lyons
@@ -2578,6 +3278,11 @@ rate_centers:
       ilec_name: PEOPLES TEL. CO.
       lat: '44.774502'
       long: "-122.619472"
+      closest_city:
+        name: Lyons
+        distance:
+          value: 0.84
+          units: km
     - region: OR
       exchange: '159930'
       name: Madras
@@ -2586,6 +3291,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '44.633345'
       long: "-121.12349"
+      closest_city:
+        name: Madras
+        distance:
+          value: 2.07
+          units: km
     - region: OR
       exchange: '159940'
       name: Malin
@@ -2594,6 +3304,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
       lat: '42.009348'
       long: "-121.41091"
+      closest_city:
+        name: Malin
+        distance:
+          value: 0.45
+          units: km
     - region: OR
       exchange: '344113'
       name: Manhattan
@@ -2626,6 +3341,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '44.03544'
       long: "-123.856166"
+      closest_city:
+        name: Mapleton
+        distance:
+          value: 0.5
+          units: km
     - region: OR
       exchange: '159960'
       name: Marcola
@@ -2634,6 +3354,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '44.164953'
       long: "-122.858926"
+      closest_city:
+        name: Marcola
+        distance:
+          value: 1.13
+          units: km
     - region: OR
       exchange: '344116'
       name: Marion
@@ -2658,6 +3383,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
       lat: '45.173897'
       long: "-121.083504"
+      closest_city:
+        name: Maupin
+        distance:
+          value: 0.37
+          units: km
     - region: OR
       exchange: '344119'
       name: Mayger
@@ -2706,6 +3436,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '45.210057'
       long: "-123.191339"
+      closest_city:
+        name: McMinnville
+        distance:
+          value: 0.11
+          units: km
     - region: OR
       exchange: '344122'
       name: McNary
@@ -2722,6 +3457,11 @@ rate_centers:
       ilec_name: HELIX TEL. CO.
       lat: '45.499377'
       long: "-118.418144"
+      closest_city:
+        name: Meacham
+        distance:
+          value: 3.12
+          units: km
     - region: OR
       exchange: '159980'
       name: Medford
@@ -2730,6 +3470,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '42.332416'
       long: "-122.878009"
+      closest_city:
+        name: Medford
+        distance:
+          value: 2.04
+          units: km
     - region: OR
       exchange: '219020'
       name: Medical Springs
@@ -2738,6 +3483,11 @@ rate_centers:
       ilec_name: CASCADE UTILITIES, INC.
       lat: '45.002417'
       long: "-117.65128"
+      closest_city:
+        name: North Powder
+        distance:
+          value: 21.38
+          units: km
     - region: OR
       exchange: '343830'
       name: Merlin
@@ -2754,6 +3504,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
       lat: '42.023418'
       long: "-121.601007"
+      closest_city:
+        name: Merrill
+        distance:
+          value: 0.29
+          units: km
     - region: OR
       exchange: '344125'
       name: Metolius
@@ -2786,6 +3541,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '44.748614'
       long: "-122.486482"
+      closest_city:
+        name: Mill City
+        distance:
+          value: 0.79
+          units: km
     - region: OR
       exchange: '160000'
       name: Milton-Freewater
@@ -2794,6 +3554,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '45.933785'
       long: "-118.393357"
+      closest_city:
+        name: Milton-Freewater
+        distance:
+          value: 0.19
+          units: km
     - region: OR
       exchange: '344129'
       name: Milwaukie
@@ -2818,6 +3583,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
       lat: '44.565011'
       long: "-120.150714"
+      closest_city:
+        name: Mitchell
+        distance:
+          value: 0.63
+          units: km
     - region: OR
       exchange: '343832'
       name: Modoc Point
@@ -2842,6 +3612,11 @@ rate_centers:
       ilec_name: MOLALLA TEL. CO.
       lat: '45.149398'
       long: "-122.572363"
+      closest_city:
+        name: Molalla
+        distance:
+          value: 0.96
+          units: km
     - region: OR
       exchange: '219140'
       name: Monitor
@@ -2850,6 +3625,11 @@ rate_centers:
       ilec_name: MONITOR COOP. TEL. CO.
       lat: '45.100042'
       long: "-122.746825"
+      closest_city:
+        name: Mount Angel
+        distance:
+          value: 5.21
+          units: km
     - region: OR
       exchange: '344135'
       name: Monmouth
@@ -2866,6 +3646,11 @@ rate_centers:
       ilec_name: MONROE TEL. CO.
       lat: '44.316161'
       long: "-123.298391"
+      closest_city:
+        name: Monroe
+        distance:
+          value: 0.08
+          units: km
     - region: OR
       exchange: '219280'
       name: Monument
@@ -2874,6 +3659,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
       lat: '44.825975'
       long: "-119.422703"
+      closest_city:
+        name: Monument
+        distance:
+          value: 0.59
+          units: km
     - region: OR
       exchange: '344137'
       name: Morgan
@@ -2890,6 +3680,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - OR
       lat: '45.482598'
       long: "-120.734001"
+      closest_city:
+        name: Moro
+        distance:
+          value: 0.13
+          units: km
     - region: OR
       exchange: '160015'
       name: Mosier
@@ -2898,6 +3693,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - OR
       lat: '45.682919'
       long: "-121.390672"
+      closest_city:
+        name: Mosier
+        distance:
+          value: 0.41
+          units: km
     - region: OR
       exchange: '219060'
       name: Mount Angel
@@ -2906,6 +3706,11 @@ rate_centers:
       ilec_name: MT. ANGEL TEL. CO.
       lat: '45.066725'
       long: "-122.802336"
+      closest_city:
+        name: Mount Angel
+        distance:
+          value: 0.51
+          units: km
     - region: OR
       exchange: '218871'
       name: Mount Hood Meadows
@@ -2930,6 +3735,11 @@ rate_centers:
       ilec_name: OREGON TEL. CORP.
       lat: '44.417783'
       long: "-119.108245"
+      closest_city:
+        name: Mount Vernon
+        distance:
+          value: 0.41
+          units: km
     - region: OR
       exchange: '344145'
       name: Mulino
@@ -2962,6 +3772,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER OREGON, LLC DBA ZIPLY FIBER
       lat: '43.023697'
       long: "-123.264971"
+      closest_city:
+        name: Myrtle Creek
+        distance:
+          value: 1.32
+          units: km
     - region: OR
       exchange: '160030'
       name: Myrtle Point
@@ -2970,6 +3785,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '43.059992'
       long: "-124.140769"
+      closest_city:
+        name: Myrtle Point
+        distance:
+          value: 0.68
+          units: km
     - region: OR
       exchange: '343837'
       name: Nashville
@@ -3010,6 +3830,11 @@ rate_centers:
       ilec_name: NEHALEM TELECOMMS, INC. DBA NEHALEM TEL & TEL
       lat: '45.715603'
       long: "-123.898045"
+      closest_city:
+        name: Nehalem
+        distance:
+          value: 0.54
+          units: km
     - region: OR
       exchange: '344150'
       name: Nelscott
@@ -3066,6 +3891,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '45.298701'
       long: "-122.973946"
+      closest_city:
+        name: Newberg
+        distance:
+          value: 1.46
+          units: km
     - region: OR
       exchange: '160050'
       name: Newport
@@ -3074,6 +3904,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '44.634612'
       long: "-124.060128"
+      closest_city:
+        name: Newport
+        distance:
+          value: 1.35
+          units: km
     - region: OR
       exchange: '344156'
       name: Niagara
@@ -3098,6 +3933,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
       lat: '43.434757'
       long: "-118.663857"
+      closest_city:
+        name: Crane
+        distance:
+          value: 6.44
+          units: km
     - region: OR
       exchange: '160060'
       name: North Plains
@@ -3106,6 +3946,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '45.599428'
       long: "-122.989727"
+      closest_city:
+        name: North Plains
+        distance:
+          value: 0.45
+          units: km
     - region: OR
       exchange: '219260'
       name: North Powder
@@ -3114,6 +3959,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
       lat: '45.025118'
       long: "-117.927981"
+      closest_city:
+        name: North Powder
+        distance:
+          value: 0.8
+          units: km
     - region: OR
       exchange: '160070'
       name: North Umpqua
@@ -3122,6 +3972,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
       lat: '43.298729'
       long: "-122.598809"
+      closest_city:
+        name: Glide
+        distance:
+          value: 37.86
+          units: km
     - region: OR
       exchange: '343843'
       name: Norway
@@ -3154,6 +4009,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '43.877111'
       long: "-116.994304"
+      closest_city:
+        name: Nyssa
+        distance:
+          value: 0.14
+          units: km
     - region: OR
       exchange: '160090'
       name: O'Brien
@@ -3162,6 +4022,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER OREGON, LLC DBA ZIPLY FIBER
       lat: '42.04786'
       long: "-123.702044"
+      closest_city:
+        name: O'Brien
+        distance:
+          value: 2.53
+          units: km
     - region: OR
       exchange: '344160'
       name: Oak Grove
@@ -3194,6 +4059,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '43.416539'
       long: "-123.299891"
+      closest_city:
+        name: Oakland
+        distance:
+          value: 0.79
+          units: km
     - region: OR
       exchange: '160120'
       name: Oakridge
@@ -3202,6 +4072,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '43.749632'
       long: "-122.451984"
+      closest_city:
+        name: Oakridge
+        distance:
+          value: 1.07
+          units: km
     - region: OR
       exchange: '219070'
       name: Odell
@@ -3210,6 +4085,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - OR
       lat: '45.624822'
       long: "-121.549178"
+      closest_city:
+        name: Odell
+        distance:
+          value: 1.2
+          units: km
     - region: OR
       exchange: '343849'
       name: Olalla
@@ -3234,6 +4114,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '44.016521'
       long: "-116.959236"
+      closest_city:
+        name: Ontario
+        distance:
+          value: 1.7
+          units: km
     - region: OR
       exchange: '160140'
       name: Oregon City
@@ -3242,6 +4127,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '45.351617'
       long: "-122.609354"
+      closest_city:
+        name: Oregon City
+        distance:
+          value: 1.72
+          units: km
     - region: OR
       exchange: '160150'
       name: Oregon Slope
@@ -3250,6 +4140,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '44.153468'
       long: "-116.943953"
+      closest_city:
+        name: Annex
+        distance:
+          value: 9.81
+          units: km
     - region: OR
       exchange: '344165'
       name: Orenco
@@ -3322,6 +4217,11 @@ rate_centers:
       ilec_name: PINE TEL. SYSTEM
       lat: '44.975821'
       long: "-116.858891"
+      closest_city:
+        name: Halfway
+        distance:
+          value: 22.54
+          units: km
     - region: OR
       exchange: '219080'
       name: Pacific City
@@ -3330,6 +4230,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - OR
       lat: '45.210514'
       long: "-123.959736"
+      closest_city:
+        name: Pacific City
+        distance:
+          value: 0.74
+          units: km
     - region: OR
       exchange: '160160'
       name: Paisley
@@ -3338,6 +4243,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
       lat: '42.691685'
       long: "-120.540424"
+      closest_city:
+        name: Paisley
+        distance:
+          value: 0.4
+          units: km
     - region: OR
       exchange: '219090'
       name: Parkdale
@@ -3346,6 +4256,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - OR
       lat: '45.517946'
       long: "-121.58868"
+      closest_city:
+        name: Parkdale
+        distance:
+          value: 0.6
+          units: km
     - region: OR
       exchange: '219100'
       name: Paulina
@@ -3354,6 +4269,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
       lat: '44.142366'
       long: "-119.964226"
+      closest_city:
+        name: Dayville
+        distance:
+          value: 49.82
+          units: km
     - region: OR
       exchange: '344174'
       name: Paulina Lake
@@ -3370,6 +4290,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '45.665583'
       long: "-118.78441"
+      closest_city:
+        name: Pendleton
+        distance:
+          value: 2.99
+          units: km
     - region: OR
       exchange: '344176'
       name: Perrydale
@@ -3386,6 +4311,11 @@ rate_centers:
       ilec_name: PIONEER TEL. COOPERATIVE
       lat: '44.533214'
       long: "-123.367112"
+      closest_city:
+        name: Philomath
+        distance:
+          value: 1.16
+          units: km
     - region: OR
       exchange: '160190'
       name: Phoenix
@@ -3394,6 +4324,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '42.250263'
       long: "-122.80043"
+      closest_city:
+        name: Talent
+        distance:
+          value: 1.96
+          units: km
     - region: OR
       exchange: '219110'
       name: Pilot Rock
@@ -3402,6 +4337,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
       lat: '45.476753'
       long: "-118.830062"
+      closest_city:
+        name: Pilot Rock
+        distance:
+          value: 2.16
+          units: km
     - region: OR
       exchange: '219115'
       name: Pine Grove
@@ -3410,6 +4350,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
       lat: '45.106519'
       long: "-121.366138"
+      closest_city:
+        name: Pine Grove
+        distance:
+          value: 1.15
+          units: km
     - region: OR
       exchange: '343854'
       name: Pistol River
@@ -3450,6 +4395,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '42.740906'
       long: "-124.494606"
+      closest_city:
+        name: Port Orford
+        distance:
+          value: 1.0
+          units: km
     - region: OR
       exchange: '160210'
       name: Portland
@@ -3458,6 +4408,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '45.586971'
       long: "-122.754859"
+      closest_city:
+        name: Cedar Mill
+        distance:
+          value: 6.74
+          units: km
     - region: OR
       exchange: '344183'
       name: Post
@@ -3482,6 +4437,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '42.883492'
       long: "-124.05655"
+      closest_city:
+        name: Powers
+        distance:
+          value: 1.4
+          units: km
     - region: OR
       exchange: '160230'
       name: Prairie City
@@ -3490,6 +4450,11 @@ rate_centers:
       ilec_name: OREGON TEL. CORP.
       lat: '44.450493'
       long: "-118.708468"
+      closest_city:
+        name: Prairie City
+        distance:
+          value: 1.18
+          units: km
     - region: OR
       exchange: '344186'
       name: Pratum
@@ -3522,6 +4487,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '44.298158'
       long: "-120.847175"
+      closest_city:
+        name: Prineville
+        distance:
+          value: 1.08
+          units: km
     - region: OR
       exchange: '160250'
       name: Prospect
@@ -3530,6 +4500,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - OR
       lat: '42.749417'
       long: "-122.480433"
+      closest_city:
+        name: Prospect
+        distance:
+          value: 0.52
+          units: km
     - region: OR
       exchange: '160260'
       name: Provolt-Murphy
@@ -3538,6 +4513,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '42.284774'
       long: "-123.224937"
+      closest_city:
+        name: Williams
+        distance:
+          value: 9.14
+          units: km
     - region: OR
       exchange: '344190'
       name: Quincy
@@ -3554,6 +4534,11 @@ rate_centers:
       ilec_name: HUMBOLDT TELEPHONE COMPANY
       lat: '42.000809'
       long: "-117.705347"
+      closest_city:
+        name: Jordan Valley
+        distance:
+          value: 121.08
+          units: km
     - region: OR
       exchange: '160280'
       name: Rainier
@@ -3562,6 +4547,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '46.082759'
       long: "-122.935504"
+      closest_city:
+        name: Rainier
+        distance:
+          value: 0.77
+          units: km
     - region: OR
       exchange: '160290'
       name: Redland
@@ -3570,6 +4560,11 @@ rate_centers:
       ilec_name: CLEAR CREEK MUTUAL TEL. CO.
       lat: '45.335241'
       long: "-122.480464"
+      closest_city:
+        name: Beavercreek
+        distance:
+          value: 7.12
+          units: km
     - region: OR
       exchange: '160300'
       name: Redmond
@@ -3578,6 +4573,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '44.266945'
       long: "-121.172821"
+      closest_city:
+        name: Redmond
+        distance:
+          value: 0.91
+          units: km
     - region: OR
       exchange: '160310'
       name: Reedsport
@@ -3586,6 +4586,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '43.702323'
       long: "-124.102377"
+      closest_city:
+        name: Reedsport
+        distance:
+          value: 0.9
+          units: km
     - region: OR
       exchange: '344194'
       name: Reedville
@@ -3618,6 +4623,11 @@ rate_centers:
       ilec_name: EAGLE TEL. SYSTEM, INC.
       lat: '44.768548'
       long: "-117.168824"
+      closest_city:
+        name: Richland
+        distance:
+          value: 0.16
+          units: km
     - region: OR
       exchange: '344197'
       name: Rickreall
@@ -3634,6 +4644,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER OREGON, LLC DBA ZIPLY FIBER
       lat: '42.951705'
       long: "-123.360346"
+      closest_city:
+        name: Riddle
+        distance:
+          value: 0.43
+          units: km
     - region: OR
       exchange: '160340'
       name: Ridgeview
@@ -3642,6 +4657,11 @@ rate_centers:
       ilec_name: OREGON-IDAHO UTILITIES, INC.
       lat: '43.633754'
       long: "-117.050565"
+      closest_city:
+        name: Adrian
+        distance:
+          value: 12.01
+          units: km
     - region: OR
       exchange: '344198'
       name: Rieth
@@ -3698,6 +4718,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - OR
       lat: '45.608618'
       long: "-123.939687"
+      closest_city:
+        name: Rockaway Beach
+        distance:
+          value: 1.11
+          units: km
     - region: OR
       exchange: '344204'
       name: Rockaway Beach
@@ -3722,6 +4747,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
       lat: '42.450913'
       long: "-122.098368"
+      closest_city:
+        name: Rocky Point
+        distance:
+          value: 0.97
+          units: km
     - region: OR
       exchange: '160370'
       name: Rogue River
@@ -3730,6 +4760,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '42.431427'
       long: "-123.165542"
+      closest_city:
+        name: Rogue River
+        distance:
+          value: 0.49
+          units: km
     - region: OR
       exchange: '160380'
       name: Roseburg
@@ -3738,6 +4773,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '43.200966'
       long: "-123.347244"
+      closest_city:
+        name: Roseburg
+        distance:
+          value: 2.49
+          units: km
     - region: OR
       exchange: '344206'
       name: Rowena
@@ -3770,6 +4810,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - OR
       lat: '45.692555'
       long: "-120.73123"
+      closest_city:
+        name: Rufus
+        distance:
+          value: 0.95
+          units: km
     - region: OR
       exchange: '343869'
       name: Saginaw
@@ -3794,6 +4839,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '44.950982'
       long: "-123.01553"
+      closest_city:
+        name: Salem
+        distance:
+          value: 3.16
+          units: km
     - region: OR
       exchange: '343870'
       name: Sams Valley
@@ -3818,6 +4868,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
       lat: '45.757033'
       long: "-122.87548"
+      closest_city:
+        name: Scappoose
+        distance:
+          value: 0.23
+          units: km
     - region: OR
       exchange: '219120'
       name: Scholls
@@ -3826,6 +4881,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '45.40095'
       long: "-122.930993"
+      closest_city:
+        name: Bull Mountain
+        distance:
+          value: 7.83
+          units: km
     - region: OR
       exchange: '160420'
       name: Scio
@@ -3834,6 +4894,11 @@ rate_centers:
       ilec_name: SCIO MUTUAL TEL. CO.
       lat: '44.700901'
       long: "-122.847133"
+      closest_city:
+        name: Scio
+        distance:
+          value: 0.5
+          units: km
     - region: OR
       exchange: '344216'
       name: Scotts Mills
@@ -3850,6 +4915,11 @@ rate_centers:
       ilec_name: CASCADE UTILITIES, INC.
       lat: '43.673873'
       long: "-123.794006"
+      closest_city:
+        name: Elkton
+        distance:
+          value: 18.56
+          units: km
     - region: OR
       exchange: '343873'
       name: Sea Lion Caves
@@ -3874,6 +4944,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '45.993446'
       long: "-123.927988"
+      closest_city:
+        name: Seaside
+        distance:
+          value: 0.72
+          units: km
     - region: OR
       exchange: '160450'
       name: Selma
@@ -3882,6 +4957,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER OREGON, LLC DBA ZIPLY FIBER
       lat: '42.274637'
       long: "-123.610827"
+      closest_city:
+        name: Selma
+        distance:
+          value: 0.66
+          units: km
     - region: OR
       exchange: '160460'
       name: Seneca
@@ -3890,6 +4970,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
       lat: '44.133803'
       long: "-118.963383"
+      closest_city:
+        name: Seneca
+        distance:
+          value: 1.04
+          units: km
     - region: OR
       exchange: '160470'
       name: Shady Cove
@@ -3898,6 +4983,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - OR
       lat: '42.61497'
       long: "-122.808571"
+      closest_city:
+        name: Shady Cove
+        distance:
+          value: 0.85
+          units: km
     - region: OR
       exchange: '344219'
       name: Shaniko
@@ -3922,6 +5012,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
       lat: '44.46069'
       long: "-123.110452"
+      closest_city:
+        name: Shedd
+        distance:
+          value: 0.33
+          units: km
     - region: OR
       exchange: '160490'
       name: Sheridan
@@ -3930,6 +5025,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - OR
       lat: '45.097826'
       long: "-123.397289"
+      closest_city:
+        name: Sheridan
+        distance:
+          value: 0.22
+          units: km
     - region: OR
       exchange: '160500'
       name: Sherwood
@@ -3938,6 +5038,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '45.359926'
       long: "-122.843677"
+      closest_city:
+        name: Sherwood
+        distance:
+          value: 0.1
+          units: km
     - region: OR
       exchange: '160510'
       name: Siletz
@@ -3946,6 +5051,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '44.718824'
       long: "-123.917429"
+      closest_city:
+        name: Siletz
+        distance:
+          value: 0.36
+          units: km
     - region: OR
       exchange: '160520'
       name: Silver Lake
@@ -3954,6 +5064,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
       lat: '43.124851'
       long: "-121.049788"
+      closest_city:
+        name: Silver Lake
+        distance:
+          value: 0.17
+          units: km
     - region: OR
       exchange: '160530'
       name: Silverton
@@ -3962,6 +5077,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '45.006532'
       long: "-122.78265"
+      closest_city:
+        name: Silverton
+        distance:
+          value: 0.42
+          units: km
     - region: OR
       exchange: '344225'
       name: Silvies Valley
@@ -3978,6 +5098,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '44.292594'
       long: "-121.542051"
+      closest_city:
+        name: Sisters
+        distance:
+          value: 0.88
+          units: km
     - region: OR
       exchange: '343878'
       name: Sitkum
@@ -4010,6 +5135,11 @@ rate_centers:
       ilec_name: PIONEER TEL. COOPERATIVE
       lat: '44.606061'
       long: "-124.030334"
+      closest_city:
+        name: Newport
+        distance:
+          value: 2.61
+          units: km
     - region: OR
       exchange: '160560'
       name: South Harney
@@ -4018,6 +5148,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
       lat: '42.409678'
       long: "-118.627044"
+      closest_city:
+        name: Plush
+        distance:
+          value: 104.46
+          units: km
     - region: OR
       exchange: '341699'
       name: South Mountain
@@ -4034,6 +5169,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
       lat: '42.458999'
       long: "-121.498811"
+      closest_city:
+        name: Sprague River
+        distance:
+          value: 0.38
+          units: km
     - region: OR
       exchange: '160580'
       name: Spray
@@ -4042,6 +5182,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
       lat: '44.824766'
       long: "-119.793238"
+      closest_city:
+        name: Spray
+        distance:
+          value: 0.98
+          units: km
     - region: OR
       exchange: '159181'
       name: Spring River Road
@@ -4082,6 +5227,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '45.866936'
       long: "-122.805141"
+      closest_city:
+        name: St. Helens
+        distance:
+          value: 1.39
+          units: km
     - region: OR
       exchange: '160600'
       name: St Paul
@@ -4090,6 +5240,11 @@ rate_centers:
       ilec_name: ST. PAUL COOP. TEL. ASSN.
       lat: '45.207951'
       long: "-122.976565"
+      closest_city:
+        name: St. Paul
+        distance:
+          value: 0.49
+          units: km
     - region: OR
       exchange: '344233'
       name: Stafford
@@ -4106,6 +5261,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '45.343814'
       long: "-122.7147"
+      closest_city:
+        name: Stafford
+        distance:
+          value: 4.63
+          units: km
     - region: OR
       exchange: '160620'
       name: Stanfield
@@ -4114,6 +5274,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '45.775547'
       long: "-119.20827"
+      closest_city:
+        name: Stanfield
+        distance:
+          value: 1.29
+          units: km
     - region: OR
       exchange: '344235'
       name: Starkey
@@ -4130,6 +5295,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '45.990427'
       long: "-118.409796"
+      closest_city:
+        name: Milton-Freewater
+        distance:
+          value: 6.44
+          units: km
     - region: OR
       exchange: '160640'
       name: Stayton
@@ -4138,6 +5308,11 @@ rate_centers:
       ilec_name: STAYTON COOP. TEL. CO.
       lat: '44.79786'
       long: "-122.791661"
+      closest_city:
+        name: Stayton
+        distance:
+          value: 0.81
+          units: km
     - region: OR
       exchange: '344238'
       name: Sublimity
@@ -4170,6 +5345,11 @@ rate_centers:
       ilec_name: PIONEER TEL. COOPERATIVE
       lat: '44.634541'
       long: "-123.576576"
+      closest_city:
+        name: Summit
+        distance:
+          value: 0.2
+          units: km
     - region: OR
       exchange: '160660'
       name: Sumpter
@@ -4178,6 +5358,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '44.743188'
       long: "-118.20203"
+      closest_city:
+        name: Sumpter
+        distance:
+          value: 0.36
+          units: km
     - region: OR
       exchange: '219368'
       name: Sunnyside
@@ -4186,6 +5371,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '45.421888'
       long: "-122.484116"
+      closest_city:
+        name: Happy Valley
+        distance:
+          value: 2.43
+          units: km
     - region: OR
       exchange: '344242'
       name: Sunriver
@@ -4226,6 +5416,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
       lat: '44.389717'
       long: "-122.73212"
+      closest_city:
+        name: Sweet Home
+        distance:
+          value: 2.72
+          units: km
     - region: OR
       exchange: '343887'
       name: Swisshome
@@ -4298,6 +5493,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - OR
       lat: '45.600739'
       long: "-121.184272"
+      closest_city:
+        name: The Dalles
+        distance:
+          value: 0.54
+          units: km
     - region: OR
       exchange: '159461'
       name: Three Rivers
@@ -4306,6 +5506,11 @@ rate_centers:
       ilec_name: PINE TEL. SYSTEM
       lat: '44.523291'
       long: "-121.312483"
+      closest_city:
+        name: Culver
+        distance:
+          value: 8.05
+          units: km
     - region: OR
       exchange: '343892'
       name: Thurston
@@ -4322,6 +5527,11 @@ rate_centers:
       ilec_name: PIONEER TEL. COOPERATIVE
       lat: '44.409237'
       long: "-123.893065"
+      closest_city:
+        name: Waldport
+        distance:
+          value: 13.8
+          units: km
     - region: OR
       exchange: '219362'
       name: Tigard
@@ -4330,6 +5540,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '45.433616'
       long: "-122.777253"
+      closest_city:
+        name: Tigard
+        distance:
+          value: 1.24
+          units: km
     - region: OR
       exchange: '160700'
       name: Tillamook
@@ -4338,6 +5553,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - OR
       lat: '45.450099'
       long: "-123.841658"
+      closest_city:
+        name: Tillamook
+        distance:
+          value: 0.95
+          units: km
     - region: OR
       exchange: '343894'
       name: Tiller
@@ -4370,6 +5590,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '44.615214'
       long: "-123.932884"
+      closest_city:
+        name: Toledo
+        distance:
+          value: 0.52
+          units: km
     - region: OR
       exchange: '344254'
       name: Tolovana Park
@@ -4394,6 +5619,11 @@ rate_centers:
       ilec_name: PIONEER TEL. COOPERATIVE
       lat: '44.167203'
       long: "-123.58192"
+      closest_city:
+        name: Elmira
+        distance:
+          value: 20.83
+          units: km
     - region: OR
       exchange: '344255'
       name: Troutdale
@@ -4434,6 +5664,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
       lat: '45.248897'
       long: "-121.177996"
+      closest_city:
+        name: Tygh Valley
+        distance:
+          value: 1.05
+          units: km
     - region: OR
       exchange: '160740'
       name: Ukiah
@@ -4442,6 +5677,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
       lat: '45.131886'
       long: "-118.92846"
+      closest_city:
+        name: Ukiah
+        distance:
+          value: 0.46
+          units: km
     - region: OR
       exchange: '344800'
       name: Umapine
@@ -4458,6 +5698,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '45.915818'
       long: "-119.350738"
+      closest_city:
+        name: Umatilla
+        distance:
+          value: 2.93
+          units: km
     - region: OR
       exchange: '343898'
       name: Umpqua
@@ -4474,6 +5719,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '45.208002'
       long: "-117.867328"
+      closest_city:
+        name: Union
+        distance:
+          value: 0.11
+          units: km
     - region: OR
       exchange: '344263'
       name: Unity
@@ -4490,6 +5740,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '43.982411'
       long: "-117.242825"
+      closest_city:
+        name: Vale
+        distance:
+          value: 0.19
+          units: km
     - region: OR
       exchange: '219369'
       name: Valley View
@@ -4522,6 +5777,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '44.050846'
       long: "-123.350283"
+      closest_city:
+        name: Veneta
+        distance:
+          value: 0.43
+          units: km
     - region: OR
       exchange: '344266'
       name: Verboort
@@ -4538,6 +5798,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '45.864505'
       long: "-123.200754"
+      closest_city:
+        name: Vernonia
+        distance:
+          value: 1.4
+          units: km
     - region: OR
       exchange: '343901'
       name: Vida
@@ -4562,6 +5827,11 @@ rate_centers:
       ilec_name: PIONEER TEL. COOPERATIVE
       lat: '44.426244'
       long: "-124.065009"
+      closest_city:
+        name: Waldport
+        distance:
+          value: 1.01
+          units: km
     - region: OR
       exchange: '343903'
       name: Walker
@@ -4578,6 +5848,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '45.565626'
       long: "-117.522525"
+      closest_city:
+        name: Wallowa
+        distance:
+          value: 0.71
+          units: km
     - region: OR
       exchange: '344271'
       name: Wallowa Lake
@@ -4610,6 +5885,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
       lat: '45.222971'
       long: "-121.266275"
+      closest_city:
+        name: Wamic
+        distance:
+          value: 2.09
+          units: km
     - region: OR
       exchange: '344273'
       name: Wapato
@@ -4650,6 +5930,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '46.165668'
       long: "-123.927342"
+      closest_city:
+        name: Warrenton
+        distance:
+          value: 0.38
+          units: km
     - region: OR
       exchange: '160840'
       name: Wasco
@@ -4658,6 +5943,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - OR
       lat: '45.589768'
       long: "-120.69942"
+      closest_city:
+        name: Wasco
+        distance:
+          value: 0.27
+          units: km
     - region: OR
       exchange: '343906'
       name: Watkins
@@ -4746,6 +6036,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '46.131678'
       long: "-123.374227"
+      closest_city:
+        name: Westport
+        distance:
+          value: 0.26
+          units: km
     - region: OR
       exchange: '344285'
       name: Wheeler
@@ -4762,6 +6057,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - OR
       lat: '42.435266'
       long: "-122.847676"
+      closest_city:
+        name: White City
+        distance:
+          value: 1.33
+          units: km
     - region: OR
       exchange: '344286'
       name: Whiteson
@@ -4802,6 +6102,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - OR
       lat: '45.074858'
       long: "-123.483922"
+      closest_city:
+        name: Willamina
+        distance:
+          value: 0.4
+          units: km
     - region: OR
       exchange: '343913'
       name: Williams
@@ -4858,6 +6163,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER OREGON, LLC DBA ZIPLY FIBER
       lat: '42.689917'
       long: "-123.393736"
+      closest_city:
+        name: Glendale
+        distance:
+          value: 6.1
+          units: km
     - region: OR
       exchange: '344290'
       name: Wood Village
@@ -4874,6 +6184,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '45.142585'
       long: "-122.859508"
+      closest_city:
+        name: Woodburn
+        distance:
+          value: 0.52
+          units: km
     - region: OR
       exchange: '160900'
       name: Yachats
@@ -4882,6 +6197,11 @@ rate_centers:
       ilec_name: PIONEER TEL. COOPERATIVE
       lat: '44.309958'
       long: "-124.100629"
+      closest_city:
+        name: Yachats
+        distance:
+          value: 0.33
+          units: km
     - region: OR
       exchange: '160910'
       name: Yamhill
@@ -4890,6 +6210,11 @@ rate_centers:
       ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
       lat: '45.341461'
       long: "-123.185123"
+      closest_city:
+        name: Yamhill
+        distance:
+          value: 0.07
+          units: km
     - region: OR
       exchange: '343919'
       name: Yamsay
@@ -4914,6 +6239,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
       lat: '43.592806'
       long: "-123.281852"
+      closest_city:
+        name: Yoncalla
+        distance:
+          value: 0.95
+          units: km
     - region: OR
       exchange: '344293'
       name: Zigzag

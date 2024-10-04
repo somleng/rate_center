@@ -1,7 +1,7 @@
 ---
 rate_centers:
-  us:
-    tn:
+  US:
+    TN:
     - region: TN
       exchange: '326556'
       name: Adams
@@ -18,6 +18,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.572479'
       long: "-87.048934"
+      closest_city:
+        name: Adams
+        distance:
+          value: 1.84
+          units: km
     - region: TN
       exchange: '183680'
       name: Adamsville
@@ -26,6 +31,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF ADAMSVILLE DBA CENTURYLINK-ADAMSVILL
       lat: '35.234612'
       long: "-88.392441"
+      closest_city:
+        name: Adamsville
+        distance:
+          value: 2.49
+          units: km
     - region: TN
       exchange: '326558'
       name: Aetna
@@ -50,6 +60,11 @@ rate_centers:
       ilec_name: CROCKETT TEL. CO., INC.
       lat: '35.782785'
       long: "-89.119163"
+      closest_city:
+        name: Alamo
+        distance:
+          value: 0.21
+          units: km
     - region: TN
       exchange: '326991'
       name: Alcoa
@@ -59,14 +74,6 @@ rate_centers:
       lat:
       long:
     - region: TN
-      exchange: '186451'
-      name: Alexandria
-      short_name:
-      lata: '470'
-      ilec_name: DEKALB TEL. COOP.
-      lat: '36.08302'
-      long: "-86.030912"
-    - region: TN
       exchange: '326559'
       name: Alexandria
       short_name: ALEXANDRIA
@@ -75,13 +82,31 @@ rate_centers:
       lat:
       long:
     - region: TN
-      exchange: 18645A
-      name: Alexandria (Wilson)
-      short_name:
+      exchange: '186451'
+      name: Alexandria
+      short_name: Alexandria
       lata: '470'
       ilec_name: DEKALB TEL. COOP.
       lat: '36.08302'
       long: "-86.030912"
+      closest_city:
+        name: Alexandria
+        distance:
+          value: 0.79
+          units: km
+    - region: TN
+      exchange: 18645A
+      name: Alexandria (Wilson)
+      short_name: Alexandria (Wilson)
+      lata: '470'
+      ilec_name: DEKALB TEL. COOP.
+      lat: '36.08302'
+      long: "-86.030912"
+      closest_city:
+        name: Alexandria
+        distance:
+          value: 0.79
+          units: km
     - region: TN
       exchange: '184301'
       name: Algood
@@ -178,6 +203,11 @@ rate_centers:
       ilec_name: CENTURYTEL OOLTEWAH-COLLEGEDALE DBA CENTURYLINK
       lat: '35.025815'
       long: "-85.027114"
+      closest_city:
+        name: Apison
+        distance:
+          value: 2.08
+          units: km
     - region: TN
       exchange: '183710'
       name: Ardmore
@@ -186,6 +216,11 @@ rate_centers:
       ilec_name: ARDMORE TEL. CO., INC.
       lat: '34.992301'
       long: "-86.846462"
+      closest_city:
+        name: Ardmore
+        distance:
+          value: 1.42
+          units: km
     - region: TN
       exchange: '183720'
       name: Arlington
@@ -194,6 +229,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.291226'
       long: "-89.658099"
+      closest_city:
+        name: Arlington
+        distance:
+          value: 3.65
+          units: km
     - region: TN
       exchange: '326994'
       name: Armona
@@ -250,6 +290,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.275463'
       long: "-87.063925"
+      closest_city:
+        name: Ashland City
+        distance:
+          value: 2.62
+          units: km
     - region: TN
       exchange: '326344'
       name: Ashport
@@ -274,6 +319,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.451748'
       long: "-84.60036"
+      closest_city:
+        name: Athens
+        distance:
+          value: 0.72
+          units: km
     - region: TN
       exchange: '326345'
       name: Atoka
@@ -290,14 +340,11 @@ rate_centers:
       ilec_name: WEST TENNESSEE TEL. CO., INC.
       lat: '35.976743'
       long: "-88.675392"
-    - region: TN
-      exchange: '186452'
-      name: Auburntown
-      short_name:
-      lata: '470'
-      ilec_name: DEKALB TEL. COOP.
-      lat: '35.950963'
-      long: "-86.100229"
+      closest_city:
+        name: Atwood
+        distance:
+          value: 0.63
+          units: km
     - region: TN
       exchange: '326575'
       name: Auburntown
@@ -306,6 +353,19 @@ rate_centers:
       ilec_name: DEKALB TEL. COOP.
       lat:
       long:
+    - region: TN
+      exchange: '186452'
+      name: Auburntown
+      short_name: Auburntown
+      lata: '470'
+      ilec_name: DEKALB TEL. COOP.
+      lat: '35.950963'
+      long: "-86.100229"
+      closest_city:
+        name: Auburntown
+        distance:
+          value: 0.3
+          units: km
     - region: TN
       exchange: '326307'
       name: Bacchus
@@ -322,6 +382,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE-SOUTHEAST-TN DBA CENTURYLINK - TN
       lat: '36.330434'
       long: "-82.837139"
+      closest_city:
+        name: Baileyton
+        distance:
+          value: 0.71
+          units: km
     - region: TN
       exchange: '326576'
       name: Bakerville
@@ -346,6 +411,11 @@ rate_centers:
       ilec_name: TELLICO TEL. CO., INC.
       lat: '35.464954'
       long: "-84.209388"
+      closest_city:
+        name: Kahite
+        distance:
+          value: 11.81
+          units: km
     - region: TN
       exchange: '326997'
       name: Baneberry
@@ -394,6 +464,11 @@ rate_centers:
       ilec_name: TWIN LAKES TEL. COOP. CORP.
       lat: '36.150796'
       long: "-85.642039"
+      closest_city:
+        name: Baxter
+        distance:
+          value: 0.72
+          units: km
     - region: TN
       exchange: '183790'
       name: Bean Station
@@ -402,6 +477,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.337102'
       long: "-83.27486"
+      closest_city:
+        name: Bean Station
+        distance:
+          value: 1.07
+          units: km
     - region: TN
       exchange: '326350'
       name: Beech Bluff
@@ -418,6 +498,11 @@ rate_centers:
       ilec_name: BEN LOMAND RURAL TEL. COOP., INC.
       lat: '35.624812'
       long: "-86.240648"
+      closest_city:
+        name: Lakewood Park
+        distance:
+          value: 9.83
+          units: km
     - region: TN
       exchange: '326579'
       name: Beech Hill
@@ -442,6 +527,11 @@ rate_centers:
       ilec_name: BEN LOMAND RURAL TEL. COOP., INC.
       lat: '35.468134'
       long: "-85.658635"
+      closest_city:
+        name: Beersheba Springs
+        distance:
+          value: 1.38
+          units: km
     - region: TN
       exchange: '326605'
       name: Beersheba Springs
@@ -458,6 +548,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE COMPANY DBA UNITED COMMUNICATIONS
       lat: '35.418526'
       long: "-86.70915"
+      closest_city:
+        name: Lewisburg
+        distance:
+          value: 8.17
+          units: km
     - region: TN
       exchange: '326583'
       name: Bell Buckle
@@ -482,6 +577,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.714487'
       long: "-89.091768"
+      closest_city:
+        name: Bells
+        distance:
+          value: 0.84
+          units: km
     - region: TN
       exchange: '326585'
       name: Belmont
@@ -514,6 +614,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.967396'
       long: "-83.193771"
+      closest_city:
+        name: Newport
+        distance:
+          value: 0.72
+          units: km
     - region: TN
       exchange: '183850'
       name: Benton
@@ -522,6 +627,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.175527'
       long: "-84.655165"
+      closest_city:
+        name: Benton
+        distance:
+          value: 0.33
+          units: km
     - region: TN
       exchange: '326587'
       name: Berlin
@@ -546,6 +656,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.232331'
       long: "-88.607985"
+      closest_city:
+        name: Bethel Springs
+        distance:
+          value: 0.51
+          units: km
     - region: TN
       exchange: '326589'
       name: Bethesda
@@ -562,6 +677,11 @@ rate_centers:
       ilec_name: NORTH CENTRAL TEL. COOP., INC.
       lat: '36.483792'
       long: "-86.318048"
+      closest_city:
+        name: Bethpage
+        distance:
+          value: 0.86
+          units: km
     - region: TN
       exchange: '326591'
       name: Big Rock
@@ -578,6 +698,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.241413'
       long: "-88.080793"
+      closest_city:
+        name: Big Sandy
+        distance:
+          value: 1.04
+          units: km
     - region: TN
       exchange: '326592'
       name: Bigbyville
@@ -610,6 +735,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.041812'
       long: "-86.757314"
+      closest_city:
+        name: Blanche
+        distance:
+          value: 0.43
+          units: km
     - region: TN
       exchange: '362245'
       name: Bloomingdale
@@ -634,6 +764,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE-SOUTHEAST-TN DBA CENTURYLINK - TN
       lat: '36.531718'
       long: "-82.323232"
+      closest_city:
+        name: Blountville
+        distance:
+          value: 0.53
+          units: km
     - region: TN
       exchange: '183910'
       name: Bluff City
@@ -642,6 +777,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE-SOUTHEAST-TN DBA CENTURYLINK - TN
       lat: '36.473994'
       long: "-82.25984"
+      closest_city:
+        name: Bluff City
+        distance:
+          value: 2.26
+          units: km
     - region: TN
       exchange: '326595'
       name: Bodenham
@@ -666,6 +806,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.259355'
       long: "-88.981203"
+      closest_city:
+        name: Bolivar
+        distance:
+          value: 2.84
+          units: km
     - region: TN
       exchange: '326356'
       name: Bolton
@@ -690,6 +835,11 @@ rate_centers:
       ilec_name: BEN LOMAND RURAL TEL. COOP., INC.
       lat: '35.950868'
       long: "-85.3054"
+      closest_city:
+        name: Bon Air
+        distance:
+          value: 5.57
+          units: km
     - region: TN
       exchange: '326599'
       name: Bone Cave
@@ -746,6 +896,11 @@ rate_centers:
       ilec_name: WEST TENNESSEE TEL. CO., INC.
       lat: '36.07478'
       long: "-88.811091"
+      closest_city:
+        name: Bradford
+        distance:
+          value: 0.48
+          units: km
     - region: TN
       exchange: '326602'
       name: Bradyville
@@ -762,6 +917,11 @@ rate_centers:
       ilec_name: WEST KENTUCKY RURAL TELEPHONE COOPERATIVE, INC.
       lat: '35.916892'
       long: "-89.05527"
+      closest_city:
+        name: Trenton
+        distance:
+          value: 11.49
+          units: km
     - region: TN
       exchange: '185821'
       name: Brentwood
@@ -802,6 +962,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE-SOUTHEAST-TN DBA CENTURYLINK - TN
       lat: '36.59284'
       long: "-82.184246"
+      closest_city:
+        name: Bristol
+        distance:
+          value: 4.84
+          units: km
     - region: TN
       exchange: '183970'
       name: Brownsville
@@ -810,6 +975,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.601261'
       long: "-89.25601"
+      closest_city:
+        name: Brownsville
+        distance:
+          value: 1.37
+          units: km
     - region: TN
       exchange: '183980'
       name: Bruceton
@@ -818,6 +988,11 @@ rate_centers:
       ilec_name: TENNESSEE TEL. CO.
       lat: '36.04293'
       long: "-88.239084"
+      closest_city:
+        name: Bruceton
+        distance:
+          value: 1.12
+          units: km
     - region: TN
       exchange: '326606'
       name: Brush Creek
@@ -866,6 +1041,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.256113'
       long: "-83.083055"
+      closest_city:
+        name: Bulls Gap
+        distance:
+          value: 0.71
+          units: km
     - region: TN
       exchange: '326609'
       name: Bumpus Mills
@@ -898,6 +1078,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE-SOUTHEAST-TN DBA CENTURYLINK - TN
       lat: '36.351727'
       long: "-82.031947"
+      closest_city:
+        name: Butler
+        distance:
+          value: 0.56
+          units: km
     - region: TN
       exchange: '327007'
       name: Bybee
@@ -922,6 +1107,11 @@ rate_centers:
       ilec_name: TWIN LAKES TEL. COOP. CORP.
       lat: '36.565579'
       long: "-85.13551"
+      closest_city:
+        name: Byrdstown
+        distance:
+          value: 0.91
+          units: km
     - region: TN
       exchange: '326367'
       name: Cades
@@ -954,6 +1144,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.057829'
       long: "-88.102051"
+      closest_city:
+        name: Camden
+        distance:
+          value: 0.97
+          units: km
     - region: TN
       exchange: '326612'
       name: Campbellsville
@@ -986,6 +1181,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.251797'
       long: "-85.949412"
+      closest_city:
+        name: Carthage
+        distance:
+          value: 0.78
+          units: km
     - region: TN
       exchange: '327010'
       name: Caryville
@@ -1018,6 +1218,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.855999'
       long: "-88.56052"
+      closest_city:
+        name: Lavinia
+        distance:
+          value: 8.33
+          units: km
     - region: TN
       exchange: '326617'
       name: Cedar Hill
@@ -1034,6 +1239,11 @@ rate_centers:
       ilec_name: TWIN LAKES TEL. COOP. CORP.
       lat: '36.548514'
       long: "-85.506535"
+      closest_city:
+        name: Celina
+        distance:
+          value: 0.27
+          units: km
     - region: TN
       exchange: '184060'
       name: Centertown
@@ -1042,6 +1252,11 @@ rate_centers:
       ilec_name: BEN LOMAND RURAL TEL. COOP., INC.
       lat: '35.726405'
       long: "-85.915875"
+      closest_city:
+        name: Centertown
+        distance:
+          value: 0.37
+          units: km
     - region: TN
       exchange: '184070'
       name: Centerville
@@ -1050,6 +1265,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.77546'
       long: "-87.466211"
+      closest_city:
+        name: Centerville
+        distance:
+          value: 3.29
+          units: km
     - region: TN
       exchange: '326370'
       name: Central
@@ -1066,6 +1286,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE COMPANY DBA UNITED COMMUNICATIONS
       lat: '35.624831'
       long: "-86.701774"
+      closest_city:
+        name: Chapel Hill
+        distance:
+          value: 0.58
+          units: km
     - region: TN
       exchange: '326622'
       name: Chapmansboro
@@ -1082,6 +1307,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.283246'
       long: "-84.76153"
+      closest_city:
+        name: Charleston
+        distance:
+          value: 0.33
+          units: km
     - region: TN
       exchange: '184100'
       name: Charlotte
@@ -1090,6 +1320,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.182092'
       long: "-87.343584"
+      closest_city:
+        name: Charlotte
+        distance:
+          value: 0.61
+          units: km
     - region: TN
       exchange: '184110'
       name: Chattanooga
@@ -1098,6 +1333,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.040869'
       long: "-85.311536"
+      closest_city:
+        name: Ridgeside
+        distance:
+          value: 5.91
+          units: km
     - region: TN
       exchange: '184120'
       name: Chestnut Hill
@@ -1106,6 +1346,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.967396'
       long: "-83.193771"
+      closest_city:
+        name: Newport
+        distance:
+          value: 0.72
+          units: km
     - region: TN
       exchange: '184130'
       name: Chestnut Mound
@@ -1114,6 +1359,11 @@ rate_centers:
       ilec_name: TWIN LAKES TEL. COOP. CORP.
       lat: '36.20648'
       long: "-85.824582"
+      closest_city:
+        name: Gordonsville
+        distance:
+          value: 10.06
+          units: km
     - region: TN
       exchange: '327013'
       name: Chilhowee
@@ -1146,6 +1396,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE-SOUTHEAST-TN DBA CENTURYLINK - TN
       lat: '36.520836'
       long: "-82.710199"
+      closest_city:
+        name: Church Hill
+        distance:
+          value: 0.44
+          units: km
     - region: TN
       exchange: '327014'
       name: Clairfield
@@ -1162,6 +1417,11 @@ rate_centers:
       ilec_name: TWIN LAKES TEL. COOP. CORP.
       lat: '36.181416'
       long: "-85.023385"
+      closest_city:
+        name: Clarkrange
+        distance:
+          value: 1.33
+          units: km
     - region: TN
       exchange: '326371'
       name: Clarksburg
@@ -1178,6 +1438,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.525051'
       long: "-87.351331"
+      closest_city:
+        name: Clarksville
+        distance:
+          value: 4.99
+          units: km
     - region: TN
       exchange: '184170'
       name: Claxton
@@ -1186,6 +1451,11 @@ rate_centers:
       ilec_name: CITIZENS TELECOM VOL ST LLC DBA FRONTIER VOL STATE
       lat: '36.024608'
       long: "-84.08956"
+      closest_city:
+        name: Karns
+        distance:
+          value: 5.49
+          units: km
     - region: TN
       exchange: '184180'
       name: Cleveland
@@ -1194,6 +1464,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.157614'
       long: "-84.866815"
+      closest_city:
+        name: East Cleveland
+        distance:
+          value: 1.29
+          units: km
     - region: TN
       exchange: '184190'
       name: Clifton
@@ -1202,6 +1477,11 @@ rate_centers:
       ilec_name: TENNESSEE TEL. CO.
       lat: '35.38087'
       long: "-87.991227"
+      closest_city:
+        name: Clifton
+        distance:
+          value: 0.23
+          units: km
     - region: TN
       exchange: '184200'
       name: Clinchport
@@ -1210,6 +1490,11 @@ rate_centers:
       ilec_name: SCOTT COUNTY TEL. COOP., INC.
       lat: '36.673835'
       long: "-82.749892"
+      closest_city:
+        name: Mount Carmel
+        distance:
+          value: 14.71
+          units: km
     - region: TN
       exchange: '184210'
       name: Clinton
@@ -1218,6 +1503,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.109295'
       long: "-84.134275"
+      closest_city:
+        name: Clinton
+        distance:
+          value: 1.36
+          units: km
     - region: TN
       exchange: '327019'
       name: Coalfield
@@ -1242,6 +1532,11 @@ rate_centers:
       ilec_name: TELLICO TEL. CO., INC.
       lat: '35.258182'
       long: "-84.288617"
+      closest_city:
+        name: Coker Creek
+        distance:
+          value: 0.56
+          units: km
     - region: TN
       exchange: '184230'
       name: College Grove
@@ -1250,6 +1545,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE COMPANY DBA UNITED COMMUNICATIONS
       lat: '35.785174'
       long: "-86.673231"
+      closest_city:
+        name: Eagleville
+        distance:
+          value: 5.44
+          units: km
     - region: TN
       exchange: '184240'
       name: College Station
@@ -1258,6 +1558,11 @@ rate_centers:
       ilec_name: BLEDSOE TEL. COOP.
       lat: '35.526261'
       long: "-85.265538"
+      closest_city:
+        name: Pikeville
+        distance:
+          value: 10.45
+          units: km
     - region: TN
       exchange: '184250'
       name: Collegedale
@@ -1266,6 +1571,11 @@ rate_centers:
       ilec_name: CENTURYTEL OOLTEWAH-COLLEGEDALE DBA CENTURYLINK
       lat: '35.050923'
       long: "-85.035718"
+      closest_city:
+        name: Collegedale
+        distance:
+          value: 1.21
+          units: km
     - region: TN
       exchange: '184260'
       name: Collierville
@@ -1274,6 +1584,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.04932'
       long: "-89.659927"
+      closest_city:
+        name: Collierville
+        distance:
+          value: 3.54
+          units: km
     - region: TN
       exchange: '184270'
       name: Collinwood
@@ -1282,6 +1597,11 @@ rate_centers:
       ilec_name: TENNESSEE TEL. CO.
       lat: '35.174859'
       long: "-87.742131"
+      closest_city:
+        name: Collinwood
+        distance:
+          value: 0.19
+          units: km
     - region: TN
       exchange: '362252'
       name: Colonial Heights
@@ -1298,6 +1618,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.607774'
       long: "-87.032369"
+      closest_city:
+        name: Columbia
+        distance:
+          value: 2.3
+          units: km
     - region: TN
       exchange: '326931'
       name: Conasauga
@@ -1314,6 +1639,11 @@ rate_centers:
       ilec_name: CONCORD TEL. EXCH., INC.
       lat: '35.868209'
       long: "-84.141163"
+      closest_city:
+        name: Farragut
+        distance:
+          value: 3.73
+          units: km
     - region: TN
       exchange: '184300'
       name: Cookeville
@@ -1322,6 +1652,11 @@ rate_centers:
       ilec_name: CITIZENS COMM CO TN DBA FRONTIER COMM OF TN, LLC
       lat: '36.164717'
       long: "-85.509319"
+      closest_city:
+        name: Cookeville
+        distance:
+          value: 1.84
+          units: km
     - region: TN
       exchange: '184310'
       name: Cookeville South
@@ -1330,6 +1665,11 @@ rate_centers:
       ilec_name: TWIN LAKES TEL. COOP. CORP.
       lat: '36.113214'
       long: "-85.570397"
+      closest_city:
+        name: Cookeville
+        distance:
+          value: 6.61
+          units: km
     - region: TN
       exchange: '184320'
       name: Copper Basin
@@ -1338,6 +1678,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '34.981591'
       long: "-84.376816"
+      closest_city:
+        name: Copperhill
+        distance:
+          value: 1.52
+          units: km
     - region: TN
       exchange: '326933'
       name: Copperhill
@@ -1362,6 +1707,11 @@ rate_centers:
       ilec_name: TENNESSEE TEL. CO.
       lat: '35.365905'
       long: "-86.839081"
+      closest_city:
+        name: Cornersville
+        distance:
+          value: 1.77
+          units: km
     - region: TN
       exchange: '327022'
       name: Corryton
@@ -1394,6 +1744,11 @@ rate_centers:
       ilec_name: WEST KENTUCKY RURAL TEL
       lat: '36.373915'
       long: "-88.482611"
+      closest_city:
+        name: Cottage Grove
+        distance:
+          value: 0.61
+          units: km
     - region: TN
       exchange: '326637'
       name: Cottontown
@@ -1418,6 +1773,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.566211'
       long: "-89.648702"
+      closest_city:
+        name: Covington
+        distance:
+          value: 0.05
+          units: km
     - region: TN
       exchange: '326638'
       name: Cowan
@@ -1442,6 +1802,11 @@ rate_centers:
       ilec_name: TWIN LAKES TEL. COOP. CORP.
       lat: '36.250445'
       long: "-85.151451"
+      closest_city:
+        name: Grimsley
+        distance:
+          value: 14.14
+          units: km
     - region: TN
       exchange: '326376'
       name: Crockett Mills
@@ -1466,6 +1831,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.576224'
       long: "-86.683995"
+      closest_city:
+        name: Orlinda
+        distance:
+          value: 2.5
+          units: km
     - region: TN
       exchange: '184380'
       name: Crossville
@@ -1474,6 +1844,11 @@ rate_centers:
       ilec_name: CITIZENS COMM CO TN DBA FRONTIER COMM OF TN, LLC
       lat: '35.948659'
       long: "-85.034611"
+      closest_city:
+        name: Crossville
+        distance:
+          value: 0.64
+          units: km
     - region: TN
       exchange: '326377'
       name: Crump
@@ -1490,6 +1865,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.482846'
       long: "-86.986016"
+      closest_city:
+        name: Lynnville
+        distance:
+          value: 11.77
+          units: km
     - region: TN
       exchange: '184400'
       name: Cumberland City
@@ -1498,6 +1878,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.389704'
       long: "-87.632658"
+      closest_city:
+        name: Cumberland City
+        distance:
+          value: 1.03
+          units: km
     - region: TN
       exchange: '326645'
       name: Cumberland Furnace
@@ -1514,6 +1899,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.597585'
       long: "-83.667132"
+      closest_city:
+        name: Cumberland Gap
+        distance:
+          value: 0.12
+          units: km
     - region: TN
       exchange: '184420'
       name: Cunningham
@@ -1522,6 +1912,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.358263'
       long: "-87.376588"
+      closest_city:
+        name: Slayden
+        distance:
+          value: 10.91
+          units: km
     - region: TN
       exchange: '326378'
       name: Curve
@@ -1538,6 +1933,11 @@ rate_centers:
       ilec_name: WEST KENTUCKY RURAL TEL
       lat: '36.462679'
       long: "-88.099361"
+      closest_city:
+        name: Buchanan
+        distance:
+          value: 9.78
+          units: km
     - region: TN
       exchange: '326648'
       name: Cypress Inn
@@ -1562,6 +1962,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.014754'
       long: "-83.415629"
+      closest_city:
+        name: Dandridge
+        distance:
+          value: 2.04
+          units: km
     - region: TN
       exchange: '327025'
       name: Dante
@@ -1586,6 +1991,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.491901'
       long: "-85.018232"
+      closest_city:
+        name: Dayton
+        distance:
+          value: 0.57
+          units: km
     - region: TN
       exchange: '184460'
       name: Decatur
@@ -1594,6 +2004,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.513535'
       long: "-84.790374"
+      closest_city:
+        name: Decatur
+        distance:
+          value: 1.74
+          units: km
     - region: TN
       exchange: '184470'
       name: Decaturville
@@ -1602,6 +2017,11 @@ rate_centers:
       ilec_name: TENNESSEE TEL. CO.
       lat: '35.584912'
       long: "-88.11572"
+      closest_city:
+        name: Decaturville
+        distance:
+          value: 0.48
+          units: km
     - region: TN
       exchange: '326649'
       name: Decherd
@@ -1618,6 +2038,11 @@ rate_centers:
       ilec_name: HIGHLAND TEL. COOP, INC.
       lat: '36.201865'
       long: "-84.768096"
+      closest_city:
+        name: Sunbright
+        distance:
+          value: 9.14
+          units: km
     - region: TN
       exchange: '184490'
       name: Defeated
@@ -1626,6 +2051,11 @@ rate_centers:
       ilec_name: NORTH CENTRAL TEL. COOP., INC.
       lat: '36.316453'
       long: "-85.905639"
+      closest_city:
+        name: Carthage
+        distance:
+          value: 7.45
+          units: km
     - region: TN
       exchange: '327027'
       name: Del Rio
@@ -1698,6 +2128,11 @@ rate_centers:
       ilec_name: BEN LOMAND RURAL TEL. COOP., INC.
       lat: '35.805168'
       long: "-85.798516"
+      closest_city:
+        name: McMinnville
+        distance:
+          value: 13.3
+          units: km
     - region: TN
       exchange: '184510'
       name: Dickson
@@ -1706,6 +2141,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.073375'
       long: "-87.382194"
+      closest_city:
+        name: Dickson
+        distance:
+          value: 1.77
+          units: km
     - region: TN
       exchange: '326656'
       name: Dixon Springs
@@ -1738,6 +2178,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.483902'
       long: "-87.841668"
+      closest_city:
+        name: Dover
+        distance:
+          value: 0.3
+          units: km
     - region: TN
       exchange: '326659'
       name: Dowelltown
@@ -1754,6 +2199,11 @@ rate_centers:
       ilec_name: BEN LOMAND RURAL TEL. COOP., INC.
       lat: '35.851212'
       long: "-85.515674"
+      closest_city:
+        name: Doyle
+        distance:
+          value: 0.56
+          units: km
     - region: TN
       exchange: '184540'
       name: Dresden
@@ -1762,6 +2212,11 @@ rate_centers:
       ilec_name: CITIZENS COMM CO TN DBA FRONTIER COMM OF TN, LLC
       lat: '36.291051'
       long: "-88.707366"
+      closest_city:
+        name: Dresden
+        distance:
+          value: 1.8
+          units: km
     - region: TN
       exchange: '184550'
       name: Drummonds
@@ -1770,6 +2225,11 @@ rate_centers:
       ilec_name: MILLINGTON TEL. CO., INC.
       lat: '35.46626'
       long: "-89.909874"
+      closest_city:
+        name: Randolph
+        distance:
+          value: 6.42
+          units: km
     - region: TN
       exchange: '326661'
       name: Duck River
@@ -1818,6 +2278,11 @@ rate_centers:
       ilec_name: BLEDSOE TEL. COOP.
       lat: '35.367901'
       long: "-85.392203"
+      closest_city:
+        name: Dunlap
+        distance:
+          value: 0.21
+          units: km
     - region: TN
       exchange: '326386'
       name: Durhamville
@@ -1834,6 +2299,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.067494'
       long: "-88.993542"
+      closest_city:
+        name: Dyer
+        distance:
+          value: 0.41
+          units: km
     - region: TN
       exchange: '184580'
       name: Dyersburg
@@ -1842,6 +2312,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.041722'
       long: "-89.383679"
+      closest_city:
+        name: Dyersburg
+        distance:
+          value: 0.76
+          units: km
     - region: TN
       exchange: '326389'
       name: Eads
@@ -1866,6 +2341,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.74328'
       long: "-86.649536"
+      closest_city:
+        name: Eagleville
+        distance:
+          value: 0.55
+          units: km
     - region: TN
       exchange: '326938'
       name: East Ridge
@@ -1882,6 +2362,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.499448'
       long: "-87.206841"
+      closest_city:
+        name: Clarksville
+        distance:
+          value: 14.3
+          units: km
     - region: TN
       exchange: '326390'
       name: Eastview
@@ -1938,6 +2423,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE-SOUTHEAST-TN DBA CENTURYLINK - TN
       lat: '36.347707'
       long: "-82.221099"
+      closest_city:
+        name: Elizabethton
+        distance:
+          value: 1.88
+          units: km
     - region: TN
       exchange: '327036'
       name: Elk Valley
@@ -1962,6 +2452,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.049116'
       long: "-86.892118"
+      closest_city:
+        name: Elkton
+        distance:
+          value: 1.55
+          units: km
     - region: TN
       exchange: '326394'
       name: Ellendale
@@ -2002,6 +2497,11 @@ rate_centers:
       ilec_name: TELLICO TEL. CO., INC.
       lat: '35.426187'
       long: "-84.488763"
+      closest_city:
+        name: Englewood
+        distance:
+          value: 0.38
+          units: km
     - region: TN
       exchange: '185681'
       name: Enville
@@ -2010,6 +2510,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF ADAMSVILLE DBA CENTURYLINK-ADAMSVILL
       lat: '35.374881'
       long: "-88.367938"
+      closest_city:
+        name: Milledgeville
+        distance:
+          value: 0.35
+          units: km
     - region: TN
       exchange: '184640'
       name: Erin
@@ -2018,6 +2523,11 @@ rate_centers:
       ilec_name: PEOPLES TEL. CO.
       lat: '36.316348'
       long: "-87.692994"
+      closest_city:
+        name: Erin
+        distance:
+          value: 0.85
+          units: km
     - region: TN
       exchange: '184650'
       name: Erwin
@@ -2026,6 +2536,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE-SOUTHEAST-TN DBA CENTURYLINK - TN
       lat: '36.141443'
       long: "-82.414028"
+      closest_city:
+        name: Erwin
+        distance:
+          value: 0.51
+          units: km
     - region: TN
       exchange: '184660'
       name: Estill Springs
@@ -2034,6 +2549,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE COMPANY DBA UNITED COMMUNICATIONS
       lat: '35.266533'
       long: "-86.132591"
+      closest_city:
+        name: Estill Springs
+        distance:
+          value: 1.2
+          units: km
     - region: TN
       exchange: '184670'
       name: Ethridge
@@ -2042,6 +2562,11 @@ rate_centers:
       ilec_name: LORETTO TEL. CO., INC.
       lat: '35.326416'
       long: "-87.309716"
+      closest_city:
+        name: Ethridge
+        distance:
+          value: 0.92
+          units: km
     - region: TN
       exchange: '184680'
       name: Etowah
@@ -2050,6 +2575,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.324967'
       long: "-84.532922"
+      closest_city:
+        name: Etowah
+        distance:
+          value: 1.52
+          units: km
     - region: TN
       exchange: '326396'
       name: Eva
@@ -2067,19 +2597,19 @@ rate_centers:
       lat:
       long:
     - region: TN
-      exchange: '326670'
-      name: Fairfield
-      short_name: FAIRFIELD
-      lata: '470'
-      ilec_name: BEN LOMAND RURAL TEL. COOP., INC.
-      lat:
-      long:
-    - region: TN
       exchange: '326671'
       name: Fairfield
       short_name: FAIRFIELD
       lata: '470'
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+      lat:
+      long:
+    - region: TN
+      exchange: '326670'
+      name: Fairfield
+      short_name: FAIRFIELD
+      lata: '470'
+      ilec_name: BEN LOMAND RURAL TEL. COOP., INC.
       lat:
       long:
     - region: TN
@@ -2098,6 +2628,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.98358'
       long: "-87.126557"
+      closest_city:
+        name: Fairview
+        distance:
+          value: 0.33
+          units: km
     - region: TN
       exchange: '326397'
       name: Falcon
@@ -2114,6 +2649,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE-SOUTHEAST-TN DBA CENTURYLINK - TN
       lat: '36.418364'
       long: "-82.620035"
+      closest_city:
+        name: Fall Branch
+        distance:
+          value: 0.45
+          units: km
     - region: TN
       exchange: '184710'
       name: Fall Creek Falls
@@ -2122,6 +2662,11 @@ rate_centers:
       ilec_name: BLEDSOE TEL. COOP.
       lat: '35.681688'
       long: "-85.282267"
+      closest_city:
+        name: Pikeville
+        distance:
+          value: 11.6
+          units: km
     - region: TN
       exchange: '326674'
       name: Farmington
@@ -2154,6 +2699,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.148723'
       long: "-86.573363"
+      closest_city:
+        name: Fayetteville
+        distance:
+          value: 0.91
+          units: km
     - region: TN
       exchange: '326398'
       name: Finger
@@ -2186,6 +2736,11 @@ rate_centers:
       ilec_name: LORETTO TEL. CO., INC.
       lat: '35.047968'
       long: "-87.329783"
+      closest_city:
+        name: Loretto
+        distance:
+          value: 10.62
+          units: km
     - region: TN
       exchange: '362256'
       name: Flag Pond
@@ -2202,6 +2757,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE COMPANY DBA UNITED COMMUNICATIONS
       lat: '35.390052'
       long: "-86.408705"
+      closest_city:
+        name: Lynchburg
+        distance:
+          value: 12.57
+          units: km
     - region: TN
       exchange: '326678'
       name: Flatwoods
@@ -2218,6 +2778,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.0597'
       long: "-86.409"
+      closest_city:
+        name: Flintville
+        distance:
+          value: 0.68
+          units: km
     - region: TN
       exchange: '362257'
       name: Fordtown
@@ -2250,6 +2815,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.582958'
       long: "-83.783282"
+      closest_city:
+        name: Cumberland Gap
+        distance:
+          value: 10.61
+          units: km
     - region: TN
       exchange: '326402'
       name: Forked Deer
@@ -2269,11 +2839,16 @@ rate_centers:
     - region: TN
       exchange: '184771'
       name: Fosterville (Bedford)
-      short_name:
+      short_name: Fosterville (Bedford)
       lata: '470'
       ilec_name: UNITED TELEPHONE COMPANY DBA UNITED COMMUNICATIONS
       lat: '35.652257'
       long: "-86.40839"
+      closest_city:
+        name: Christiana
+        distance:
+          value: 7.47
+          units: km
     - region: TN
       exchange: '184770'
       name: Fosterville (Rutherford)
@@ -2282,6 +2857,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE COMPANY DBA UNITED COMMUNICATIONS
       lat: '35.652257'
       long: "-86.40839"
+      closest_city:
+        name: Christiana
+        distance:
+          value: 7.47
+          units: km
     - region: TN
       exchange: '327042'
       name: Fountain City
@@ -2314,6 +2894,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.921997'
       long: "-86.865453"
+      closest_city:
+        name: Franklin
+        distance:
+          value: 1.27
+          units: km
     - region: TN
       exchange: '184790'
       name: Fredonia
@@ -2322,6 +2907,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.441875'
       long: "-87.218836"
+      closest_city:
+        name: Pleasant View
+        distance:
+          value: 16.58
+          units: km
     - region: TN
       exchange: '184800'
       name: Friendship
@@ -2330,6 +2920,11 @@ rate_centers:
       ilec_name: CROCKETT TEL. CO., INC.
       lat: '35.907143'
       long: "-89.24491"
+      closest_city:
+        name: Friendship
+        distance:
+          value: 0.35
+          units: km
     - region: TN
       exchange: '185511'
       name: Friendsville
@@ -2370,6 +2965,11 @@ rate_centers:
       ilec_name: TWIN LAKES TEL. COOP. CORP.
       lat: '36.351877'
       long: "-85.667278"
+      closest_city:
+        name: Gainesboro
+        distance:
+          value: 1.92
+          units: km
     - region: TN
       exchange: '326409'
       name: Gainesville
@@ -2386,6 +2986,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.392354'
       long: "-86.444168"
+      closest_city:
+        name: Gallatin
+        distance:
+          value: 2.78
+          units: km
     - region: TN
       exchange: '326410'
       name: Gallaway
@@ -2426,6 +3031,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.718621'
       long: "-83.50994"
+      closest_city:
+        name: Gatlinburg
+        distance:
+          value: 1.62
+          units: km
     - region: TN
       exchange: '184840'
       name: Georgetown
@@ -2434,6 +3044,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.288743'
       long: "-84.94448"
+      closest_city:
+        name: Hopewell
+        distance:
+          value: 6.21
+          units: km
     - region: TN
       exchange: '185621'
       name: Germantown
@@ -2450,6 +3065,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.874512'
       long: "-88.840758"
+      closest_city:
+        name: Gibson
+        distance:
+          value: 0.27
+          units: km
     - region: TN
       exchange: '326415'
       name: Gilt Edge
@@ -2474,6 +3094,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.21596'
       long: "-88.614298"
+      closest_city:
+        name: Gleason
+        distance:
+          value: 0.36
+          units: km
     - region: TN
       exchange: '326689'
       name: Glendale
@@ -2498,6 +3123,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.316839'
       long: "-86.714258"
+      closest_city:
+        name: Goodlettsville
+        distance:
+          value: 2.08
+          units: km
     - region: TN
       exchange: '326417'
       name: Goodluck
@@ -2515,6 +3145,19 @@ rate_centers:
       lat:
       long:
     - region: TN
+      exchange: '186453'
+      name: Gordonsville
+      short_name: Gordonsville
+      lata: '470'
+      ilec_name: DEKALB TEL. COOP.
+      lat: '36.177033'
+      long: "-85.935186"
+      closest_city:
+        name: Gordonsville
+        distance:
+          value: 0.58
+          units: km
+    - region: TN
       exchange: '326692'
       name: Gordonsville
       short_name: GORDONSVL
@@ -2523,14 +3166,6 @@ rate_centers:
       lat:
       long:
     - region: TN
-      exchange: '186453'
-      name: Gordonsville
-      short_name:
-      lata: '470'
-      ilec_name: DEKALB TEL. COOP.
-      lat: '36.177033'
-      long: "-85.935186"
-    - region: TN
       exchange: '184880'
       name: Grand Junction
       short_name: GRAND JCT
@@ -2538,6 +3173,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.051282'
       long: "-89.189919"
+      closest_city:
+        name: Grand Junction
+        distance:
+          value: 0.17
+          units: km
     - region: TN
       exchange: '326945'
       name: Grandview
@@ -2562,6 +3202,11 @@ rate_centers:
       ilec_name: TWIN LAKES TEL. COOP. CORP.
       lat: '36.269696'
       long: "-85.801139"
+      closest_city:
+        name: Carthage
+        distance:
+          value: 12.8
+          units: km
     - region: TN
       exchange: '362258'
       name: Gray
@@ -2586,6 +3231,11 @@ rate_centers:
       ilec_name: NORTH CENTRAL TEL. COOP., INC.
       lat: '36.464975'
       long: "-86.168534"
+      closest_city:
+        name: Hartsville
+        distance:
+          value: 8.17
+          units: km
     - region: TN
       exchange: '184910'
       name: Greenback
@@ -2594,6 +3244,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.656862'
       long: "-84.165992"
+      closest_city:
+        name: Greenback
+        distance:
+          value: 1.08
+          units: km
     - region: TN
       exchange: '184920'
       name: Greenbrier
@@ -2602,6 +3257,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.432483'
       long: "-86.799013"
+      closest_city:
+        name: Greenbrier
+        distance:
+          value: 0.92
+          units: km
     - region: TN
       exchange: '184930'
       name: Greeneville
@@ -2610,6 +3270,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE-SOUTHEAST-TN DBA CENTURYLINK - TN
       lat: '36.164758'
       long: "-82.826409"
+      closest_city:
+        name: Greeneville
+        distance:
+          value: 0.7
+          units: km
     - region: TN
       exchange: '184940'
       name: Greenfield
@@ -2618,6 +3283,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.157352'
       long: "-88.797618"
+      closest_city:
+        name: Greenfield
+        distance:
+          value: 0.61
+          units: km
     - region: TN
       exchange: '326697'
       name: Grimsley
@@ -2682,6 +3352,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.874304'
       long: "-89.391573"
+      closest_city:
+        name: Halls
+        distance:
+          value: 1.34
+          units: km
     - region: TN
       exchange: '184960'
       name: Halls Crossroads
@@ -2690,6 +3365,11 @@ rate_centers:
       ilec_name: TENNESSEE TEL. CO.
       lat: '36.06857'
       long: "-83.934163"
+      closest_city:
+        name: Halls
+        distance:
+          value: 1.46
+          units: km
     - region: TN
       exchange: '184970'
       name: Hampshire
@@ -2698,6 +3378,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.590441'
       long: "-87.292289"
+      closest_city:
+        name: Mount Pleasant
+        distance:
+          value: 10.6
+          units: km
     - region: TN
       exchange: '184980'
       name: Hampton
@@ -2706,6 +3391,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE-SOUTHEAST-TN DBA CENTURYLINK - TN
       lat: '36.286837'
       long: "-82.173504"
+      closest_city:
+        name: Hampton
+        distance:
+          value: 1.07
+          units: km
     - region: TN
       exchange: '184990'
       name: Harriman
@@ -2714,6 +3404,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.932508'
       long: "-84.551974"
+      closest_city:
+        name: Harriman
+        distance:
+          value: 0.77
+          units: km
     - region: TN
       exchange: '326948'
       name: Harrison
@@ -2746,6 +3441,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.390608'
       long: "-86.166796"
+      closest_city:
+        name: Hartsville
+        distance:
+          value: 0.91
+          units: km
     - region: TN
       exchange: '327050'
       name: Heiskell
@@ -2770,6 +3470,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.443359'
       long: "-88.640861"
+      closest_city:
+        name: Henderson
+        distance:
+          value: 1.12
+          units: km
     - region: TN
       exchange: '327052'
       name: Henderson Springs
@@ -2786,6 +3491,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.299886'
       long: "-86.615758"
+      closest_city:
+        name: Hendersonville
+        distance:
+          value: 1.61
+          units: km
     - region: TN
       exchange: '185030'
       name: Henning
@@ -2794,6 +3504,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.675866'
       long: "-89.575841"
+      closest_city:
+        name: Henning
+        distance:
+          value: 0.69
+          units: km
     - region: TN
       exchange: '185040'
       name: Henry
@@ -2802,6 +3517,11 @@ rate_centers:
       ilec_name: PEOPLES TEL. CO.
       lat: '36.199718'
       long: "-88.414032"
+      closest_city:
+        name: Henry
+        distance:
+          value: 0.28
+          units: km
     - region: TN
       exchange: '326704'
       name: Henryville
@@ -2858,6 +3578,11 @@ rate_centers:
       ilec_name: TWIN LAKES TEL. COOP. CORP.
       lat: '36.351703'
       long: "-85.784342"
+      closest_city:
+        name: Gainesboro
+        distance:
+          value: 12.12
+          units: km
     - region: TN
       exchange: '326708'
       name: Hilham
@@ -2874,6 +3599,11 @@ rate_centers:
       ilec_name: BEN LOMAND RURAL TEL. COOP., INC.
       lat: '35.406258'
       long: "-85.975837"
+      closest_city:
+        name: Hillsboro
+        distance:
+          value: 1.11
+          units: km
     - region: TN
       exchange: '185070'
       name: Hillsdale
@@ -2882,6 +3612,11 @@ rate_centers:
       ilec_name: NORTH CENTRAL TEL. COOP., INC.
       lat: '36.443103'
       long: "-86.059987"
+      closest_city:
+        name: Lafayette
+        distance:
+          value: 9.39
+          units: km
     - region: TN
       exchange: '326949'
       name: Hixson
@@ -2906,6 +3641,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.549699'
       long: "-87.547624"
+      closest_city:
+        name: Hohenwald
+        distance:
+          value: 0.6
+          units: km
     - region: TN
       exchange: '326426'
       name: Holladay
@@ -2930,6 +3670,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.333023'
       long: "-89.299151"
+      closest_city:
+        name: Hornbeak
+        distance:
+          value: 0.25
+          units: km
     - region: TN
       exchange: '326429'
       name: Hornsby
@@ -2954,6 +3699,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.823266'
       long: "-88.916958"
+      closest_city:
+        name: Humboldt
+        distance:
+          value: 1.09
+          units: km
     - region: TN
       exchange: '326431'
       name: Huntersville
@@ -2970,6 +3720,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.001479'
       long: "-88.42455"
+      closest_city:
+        name: Huntingdon
+        distance:
+          value: 0.71
+          units: km
     - region: TN
       exchange: '185120'
       name: Huntland
@@ -2978,6 +3733,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.049608'
       long: "-86.26931"
+      closest_city:
+        name: Huntland
+        distance:
+          value: 0.92
+          units: km
     - region: TN
       exchange: '185130'
       name: Huntsville
@@ -2986,6 +3746,11 @@ rate_centers:
       ilec_name: HIGHLAND TEL. COOP, INC.
       lat: '36.408599'
       long: "-84.492536"
+      closest_city:
+        name: Huntsville
+        distance:
+          value: 1.2
+          units: km
     - region: TN
       exchange: '326714'
       name: Hurdlow
@@ -3050,6 +3815,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.61606'
       long: "-88.817792"
+      closest_city:
+        name: Jackson
+        distance:
+          value: 4.49
+          units: km
     - region: TN
       exchange: '185150'
       name: Jamestown
@@ -3058,6 +3828,11 @@ rate_centers:
       ilec_name: TWIN LAKES TEL. COOP. CORP.
       lat: '36.425376'
       long: "-84.932294"
+      closest_city:
+        name: Jamestown
+        distance:
+          value: 0.74
+          units: km
     - region: TN
       exchange: '185160'
       name: Jasper
@@ -3066,6 +3841,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.074867'
       long: "-85.627641"
+      closest_city:
+        name: Jasper
+        distance:
+          value: 1.05
+          units: km
     - region: TN
       exchange: '185170'
       name: Jefferson City
@@ -3074,6 +3854,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.124573'
       long: "-83.500782"
+      closest_city:
+        name: Jefferson City
+        distance:
+          value: 1.68
+          units: km
     - region: TN
       exchange: '185180'
       name: Jellico
@@ -3082,6 +3867,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.583447'
       long: "-84.125624"
+      closest_city:
+        name: Jellico
+        distance:
+          value: 2.22
+          units: km
     - region: TN
       exchange: '326436'
       name: Jewell
@@ -3106,6 +3896,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE-SOUTHEAST-TN DBA CENTURYLINK - TN
       lat: '36.314884'
       long: "-82.351755"
+      closest_city:
+        name: Johnson City
+        distance:
+          value: 3.85
+          units: km
     - region: TN
       exchange: '326720'
       name: Johnsonville
@@ -3122,6 +3917,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE-SOUTHEAST-TN DBA CENTURYLINK - TN
       lat: '36.289005'
       long: "-82.496915"
+      closest_city:
+        name: Jonesborough
+        distance:
+          value: 1.98
+          units: km
     - region: TN
       exchange: '327060'
       name: Karns
@@ -3154,6 +3954,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.197752'
       long: "-89.007821"
+      closest_city:
+        name: Kenton
+        distance:
+          value: 0.84
+          units: km
     - region: TN
       exchange: '326439'
       name: Kerrville
@@ -3194,6 +3999,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE-SOUTHEAST-TN DBA CENTURYLINK - TN
       lat: '36.548543'
       long: "-82.55683"
+      closest_city:
+        name: Kingsport
+        distance:
+          value: 3.08
+          units: km
     - region: TN
       exchange: '185230'
       name: Kingston
@@ -3202,6 +4012,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.873104'
       long: "-84.515343"
+      closest_city:
+        name: Kingston
+        distance:
+          value: 1.76
+          units: km
     - region: TN
       exchange: '185240'
       name: Kingston Springs
@@ -3210,6 +4025,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.093276'
       long: "-87.138307"
+      closest_city:
+        name: Kingston Springs
+        distance:
+          value: 3.25
+          units: km
     - region: TN
       exchange: '327063'
       name: Kinzel Springs
@@ -3226,6 +4046,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.969138'
       long: "-83.926252"
+      closest_city:
+        name: Knoxville
+        distance:
+          value: 2.1
+          units: km
     - region: TN
       exchange: '327065'
       name: Kodak
@@ -3250,6 +4075,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.3829'
       long: "-84.11721"
+      closest_city:
+        name: La Follette
+        distance:
+          value: 1.44
+          units: km
     - region: TN
       exchange: '326440'
       name: La Grange
@@ -3261,11 +4091,16 @@ rate_centers:
     - region: TN
       exchange: '185322'
       name: LaVergne (Davidson)
-      short_name:
+      short_name: LaVergne (Davidson)
       lata: '470'
       ilec_name: TENNESSEE TEL. CO.
       lat: '36.018258'
       long: "-86.583526"
+      closest_city:
+        name: La Vergne
+        distance:
+          value: 2.25
+          units: km
     - region: TN
       exchange: '185320'
       name: LaVergne (Rutherford)
@@ -3274,6 +4109,11 @@ rate_centers:
       ilec_name: TENNESSEE TEL. CO.
       lat: '36.018258'
       long: "-86.583526"
+      closest_city:
+        name: La Vergne
+        distance:
+          value: 2.25
+          units: km
     - region: TN
       exchange: '185270'
       name: Laager
@@ -3282,6 +4122,11 @@ rate_centers:
       ilec_name: BEN LOMAND RURAL TEL. COOP., INC.
       lat: '35.373245'
       long: "-85.600471"
+      closest_city:
+        name: Gruetli-Laager
+        distance:
+          value: 3.36
+          units: km
     - region: TN
       exchange: '185280'
       name: Lafayette
@@ -3290,6 +4135,11 @@ rate_centers:
       ilec_name: NORTH CENTRAL TEL. COOP., INC.
       lat: '36.526587'
       long: "-86.022932"
+      closest_city:
+        name: Lafayette
+        distance:
+          value: 0.72
+          units: km
     - region: TN
       exchange: '185290'
       name: Lagrange
@@ -3298,6 +4148,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.051282'
       long: "-89.189919"
+      closest_city:
+        name: Grand Junction
+        distance:
+          value: 0.17
+          units: km
     - region: TN
       exchange: '185300'
       name: Lake City
@@ -3306,6 +4161,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.223607'
       long: "-84.151546"
+      closest_city:
+        name: Rocky Top
+        distance:
+          value: 0.33
+          units: km
     - region: TN
       exchange: '326442'
       name: Lakeland
@@ -3370,6 +4230,11 @@ rate_centers:
       ilec_name: CITIZENS COMM CO TN DBA FRONTIER COMM OF TN, LLC
       lat: '36.425436'
       long: "-88.718559"
+      closest_city:
+        name: Dukedom
+        distance:
+          value: 7.73
+          units: km
     - region: TN
       exchange: '362264'
       name: Laurel Bloomery
@@ -3394,6 +4259,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.248405'
       long: "-87.334418"
+      closest_city:
+        name: Lawrenceburg
+        distance:
+          value: 0.23
+          units: km
     - region: TN
       exchange: '185340'
       name: Lebanon
@@ -3402,6 +4272,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.206191'
       long: "-86.284232"
+      closest_city:
+        name: Lebanon
+        distance:
+          value: 5.74
+          units: km
     - region: TN
       exchange: '185350'
       name: Lenoir City
@@ -3410,6 +4285,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.793601'
       long: "-84.265208"
+      closest_city:
+        name: Lenoir City
+        distance:
+          value: 2.45
+          units: km
     - region: TN
       exchange: '326446'
       name: Lenox
@@ -3426,6 +4306,11 @@ rate_centers:
       ilec_name: LORETTO TEL. CO., INC.
       lat: '35.166067'
       long: "-87.349157"
+      closest_city:
+        name: Leoma
+        distance:
+          value: 0.91
+          units: km
     - region: TN
       exchange: '185370'
       name: Lewisburg
@@ -3434,6 +4319,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.449428'
       long: "-86.791011"
+      closest_city:
+        name: Lewisburg
+        distance:
+          value: 0.19
+          units: km
     - region: TN
       exchange: '185380'
       name: Lexington
@@ -3442,14 +4332,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.649919'
       long: "-88.391715"
-    - region: TN
-      exchange: '186454'
-      name: Liberty
-      short_name:
-      lata: '470'
-      ilec_name: DEKALB TEL. COOP.
-      lat: '36.006677'
-      long: "-85.966027"
+      closest_city:
+        name: Lexington
+        distance:
+          value: 1.34
+          units: km
     - region: TN
       exchange: '326734'
       name: Liberty
@@ -3459,6 +4346,19 @@ rate_centers:
       lat:
       long:
     - region: TN
+      exchange: '186454'
+      name: Liberty
+      short_name: Liberty
+      lata: '470'
+      ilec_name: DEKALB TEL. COOP.
+      lat: '36.006677'
+      long: "-85.966027"
+      closest_city:
+        name: Liberty
+        distance:
+          value: 1.09
+          units: km
+    - region: TN
       exchange: '185390'
       name: Limestone
       short_name: LIMESTONE
@@ -3466,6 +4366,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE-SOUTHEAST-TN DBA CENTURYLINK - TN
       lat: '36.225073'
       long: "-82.630162"
+      closest_city:
+        name: Telford
+        distance:
+          value: 8.03
+          units: km
     - region: TN
       exchange: '185400'
       name: Linden
@@ -3474,6 +4379,11 @@ rate_centers:
       ilec_name: TENNESSEE TEL. CO.
       lat: '35.618406'
       long: "-87.840598"
+      closest_city:
+        name: Linden
+        distance:
+          value: 0.71
+          units: km
     - region: TN
       exchange: '185410'
       name: Livingston
@@ -3482,6 +4392,11 @@ rate_centers:
       ilec_name: TWIN LAKES TEL. COOP. CORP.
       lat: '36.382556'
       long: "-85.314348"
+      closest_city:
+        name: Livingston
+        distance:
+          value: 1.22
+          units: km
     - region: TN
       exchange: '185420'
       name: Lobelville
@@ -3490,6 +4405,11 @@ rate_centers:
       ilec_name: TENNESSEE TEL. CO.
       lat: '35.766295'
       long: "-87.784429"
+      closest_city:
+        name: Lobelville
+        distance:
+          value: 2.01
+          units: km
     - region: TN
       exchange: '327071'
       name: Lone Mountain
@@ -3522,6 +4442,11 @@ rate_centers:
       ilec_name: LORETTO TEL. CO., INC.
       lat: '35.081019'
       long: "-87.441473"
+      closest_city:
+        name: Loretto
+        distance:
+          value: 0.24
+          units: km
     - region: TN
       exchange: '185440'
       name: Loudon
@@ -3530,6 +4455,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.734814'
       long: "-84.332366"
+      closest_city:
+        name: Loudon
+        distance:
+          value: 3.48
+          units: km
     - region: TN
       exchange: '327073'
       name: Louisville
@@ -3586,6 +4516,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.923597'
       long: "-87.325699"
+      closest_city:
+        name: Bon Aqua Junction
+        distance:
+          value: 1.3
+          units: km
     - region: TN
       exchange: '185460'
       name: Lynchburg
@@ -3594,6 +4529,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.285893'
       long: "-86.375144"
+      closest_city:
+        name: Lynchburg
+        distance:
+          value: 1.5
+          units: km
     - region: TN
       exchange: '185470'
       name: Lynnville
@@ -3602,6 +4542,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.378044'
       long: "-87.00945"
+      closest_city:
+        name: Lynnville
+        distance:
+          value: 0.37
+          units: km
     - region: TN
       exchange: '326451'
       name: Macon
@@ -3626,6 +4571,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.517672'
       long: "-84.367014"
+      closest_city:
+        name: Madisonville
+        distance:
+          value: 0.71
+          units: km
     - region: TN
       exchange: '326452'
       name: Malesus
@@ -3642,6 +4592,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.481895'
       long: "-86.085635"
+      closest_city:
+        name: Manchester
+        distance:
+          value: 2.23
+          units: km
     - region: TN
       exchange: '326453'
       name: Mansfield
@@ -3674,6 +4629,11 @@ rate_centers:
       ilec_name: CITIZENS COMM CO TN DBA FRONTIER COMM OF TN, LLC
       lat: '36.34984'
       long: "-88.849079"
+      closest_city:
+        name: Martin
+        distance:
+          value: 1.28
+          units: km
     - region: TN
       exchange: '185510'
       name: Maryville
@@ -3682,6 +4642,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.758506'
       long: "-83.964349"
+      closest_city:
+        name: Maryville
+        distance:
+          value: 1.85
+          units: km
     - region: TN
       exchange: '185520'
       name: Mascot
@@ -3690,6 +4655,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.066939'
       long: "-83.738871"
+      closest_city:
+        name: Mascot
+        distance:
+          value: 2.34
+          units: km
     - region: TN
       exchange: '185530'
       name: Mason (Fayette)
@@ -3698,14 +4668,24 @@ rate_centers:
       ilec_name: MILLINGTON TEL. CO., INC.
       lat: '35.409215'
       long: "-89.530311"
+      closest_city:
+        name: Mason
+        distance:
+          value: 1.06
+          units: km
     - region: TN
       exchange: '185531'
       name: Mason (Tipton)
-      short_name:
+      short_name: Mason (Tipton)
       lata: '468'
       ilec_name: MILLINGTON TEL. CO., INC.
       lat: '35.409215'
       long: "-89.530311"
+      closest_city:
+        name: Mason
+        distance:
+          value: 1.06
+          units: km
     - region: TN
       exchange: '185540'
       name: Mason Hall
@@ -3714,6 +4694,11 @@ rate_centers:
       ilec_name: WEST KENTUCKY RURAL TELEPHONE COOPERATIVE, INC.
       lat: '36.206362'
       long: "-89.091502"
+      closest_city:
+        name: Kenton
+        distance:
+          value: 6.84
+          units: km
     - region: TN
       exchange: '326458'
       name: Masseyville
@@ -3730,6 +4715,11 @@ rate_centers:
       ilec_name: CROCKETT TEL. CO., INC.
       lat: '35.816155'
       long: "-89.225033"
+      closest_city:
+        name: Maury City
+        distance:
+          value: 0.21
+          units: km
     - region: TN
       exchange: '185560'
       name: Maynardville
@@ -3738,6 +4728,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.249503'
       long: "-83.798668"
+      closest_city:
+        name: Maynardville
+        distance:
+          value: 0.69
+          units: km
     - region: TN
       exchange: '185570'
       name: McBurg
@@ -3746,6 +4741,11 @@ rate_centers:
       ilec_name: ARDMORE TEL. CO., INC.
       lat: '35.189629'
       long: "-86.807388"
+      closest_city:
+        name: Frankewing
+        distance:
+          value: 4.54
+          units: km
     - region: TN
       exchange: '326748'
       name: McCains
@@ -3762,6 +4762,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.108849'
       long: "-87.634689"
+      closest_city:
+        name: McEwen
+        distance:
+          value: 0.14
+          units: km
     - region: TN
       exchange: '185590'
       name: McKenzie
@@ -3770,6 +4775,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.134579'
       long: "-88.518954"
+      closest_city:
+        name: McKenzie
+        distance:
+          value: 1.05
+          units: km
     - region: TN
       exchange: '326461'
       name: McLemoresville
@@ -3786,6 +4796,11 @@ rate_centers:
       ilec_name: CITIZENS COMM CO TN DBA FRONTIER COMM OF TN, LLC
       lat: '35.684299'
       long: "-85.763967"
+      closest_city:
+        name: McMinnville
+        distance:
+          value: 1.57
+          units: km
     - region: TN
       exchange: '185601'
       name: McMinnville Rural
@@ -3794,6 +4809,11 @@ rate_centers:
       ilec_name: BEN LOMAND RURAL TEL. COOP., INC.
       lat: '35.684299'
       long: "-85.763967"
+      closest_city:
+        name: McMinnville
+        distance:
+          value: 1.57
+          units: km
     - region: TN
       exchange: '326462'
       name: McNairy
@@ -3826,6 +4846,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.801724'
       long: "-88.765664"
+      closest_city:
+        name: Medina
+        distance:
+          value: 2.66
+          units: km
     - region: TN
       exchange: '326465'
       name: Medon
@@ -3842,6 +4867,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.143081'
       long: "-90.040658"
+      closest_city:
+        name: Memphis
+        distance:
+          value: 7.77
+          units: km
     - region: TN
       exchange: '327081'
       name: Mentor
@@ -3866,6 +4896,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.040906'
       long: "-88.45001"
+      closest_city:
+        name: Michie
+        distance:
+          value: 3.1
+          units: km
     - region: TN
       exchange: '327082'
       name: Middlecreek
@@ -3882,6 +4917,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.066727'
       long: "-88.892304"
+      closest_city:
+        name: Middleton
+        distance:
+          value: 0.85
+          units: km
     - region: TN
       exchange: '327083'
       name: Midtown
@@ -3898,6 +4938,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE-SOUTHEAST-TN DBA CENTURYLINK - TN
       lat: '36.452271'
       long: "-82.468806"
+      closest_city:
+        name: Spurgeon
+        distance:
+          value: 1.19
+          units: km
     - region: TN
       exchange: '185660'
       name: Midway (Washington)
@@ -3906,6 +4951,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE-SOUTHEAST-TN DBA CENTURYLINK - TN
       lat: '36.452271'
       long: "-82.468806"
+      closest_city:
+        name: Spurgeon
+        distance:
+          value: 1.19
+          units: km
     - region: TN
       exchange: '185670'
       name: Milan
@@ -3914,6 +4964,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.917387'
       long: "-88.75695"
+      closest_city:
+        name: Milan
+        distance:
+          value: 0.55
+          units: km
     - region: TN
       exchange: '185680'
       name: Milledgeville
@@ -3922,6 +4977,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF ADAMSVILLE DBA CENTURYLINK-ADAMSVILL
       lat: '35.374881'
       long: "-88.367938"
+      closest_city:
+        name: Milledgeville
+        distance:
+          value: 0.35
+          units: km
     - region: TN
       exchange: '326463'
       name: Milledgeville (Enville)
@@ -3946,14 +5006,11 @@ rate_centers:
       ilec_name: MILLINGTON TEL. CO., INC.
       lat: '35.350538'
       long: "-89.891649"
-    - region: TN
-      exchange: '186455'
-      name: Milton
-      short_name:
-      lata: '470'
-      ilec_name: DEKALB TEL. COOP.
-      lat: '35.924521'
-      long: "-86.18237"
+      closest_city:
+        name: Millington
+        distance:
+          value: 1.86
+          units: km
     - region: TN
       exchange: '326751'
       name: Milton
@@ -3963,6 +5020,19 @@ rate_centers:
       lat:
       long:
     - region: TN
+      exchange: '186455'
+      name: Milton
+      short_name: Milton
+      lata: '470'
+      ilec_name: DEKALB TEL. COOP.
+      lat: '35.924521'
+      long: "-86.18237"
+      closest_city:
+        name: Auburntown
+        distance:
+          value: 8.24
+          units: km
+    - region: TN
       exchange: '185700'
       name: Minor Hill
       short_name: MINOR HILL
@@ -3970,6 +5040,11 @@ rate_centers:
       ilec_name: ARDMORE TEL. CO., INC.
       lat: '35.056993'
       long: "-87.159479"
+      closest_city:
+        name: Minor Hill
+        distance:
+          value: 1.71
+          units: km
     - region: TN
       exchange: '326472'
       name: Miston
@@ -4018,6 +5093,11 @@ rate_centers:
       ilec_name: BEN LOMAND RURAL TEL. COOP., INC.
       lat: '35.242814'
       long: "-85.835159"
+      closest_city:
+        name: Monteagle
+        distance:
+          value: 1.62
+          units: km
     - region: TN
       exchange: '185720'
       name: Monterey
@@ -4026,6 +5106,11 @@ rate_centers:
       ilec_name: CITIZENS COMM CO TN DBA FRONTIER COMM OF TN, LLC
       lat: '36.1496'
       long: "-85.266445"
+      closest_city:
+        name: Monterey
+        distance:
+          value: 0.58
+          units: km
     - region: TN
       exchange: '326473'
       name: Montezuma
@@ -4090,6 +5175,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.216924'
       long: "-83.302645"
+      closest_city:
+        name: Morristown
+        distance:
+          value: 1.42
+          units: km
     - region: TN
       exchange: '185740'
       name: Moscow
@@ -4098,6 +5188,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.059842'
       long: "-89.397422"
+      closest_city:
+        name: Moscow
+        distance:
+          value: 0.75
+          units: km
     - region: TN
       exchange: '185750'
       name: Mosheim
@@ -4106,6 +5201,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE-SOUTHEAST-TN DBA CENTURYLINK - TN
       lat: '36.191153'
       long: "-82.958886"
+      closest_city:
+        name: Mosheim
+        distance:
+          value: 0.77
+          units: km
     - region: TN
       exchange: '185760'
       name: Moss
@@ -4114,6 +5214,11 @@ rate_centers:
       ilec_name: TWIN LAKES TEL. COOP. CORP.
       lat: '36.591523'
       long: "-85.613976"
+      closest_city:
+        name: Celina
+        distance:
+          value: 10.98
+          units: km
     - region: TN
       exchange: '362272'
       name: Mount Carmel
@@ -4130,6 +5235,11 @@ rate_centers:
       ilec_name: TENNESSEE TEL. CO.
       lat: '36.198155'
       long: "-86.51561"
+      closest_city:
+        name: Mount Juliet
+        distance:
+          value: 0.38
+          units: km
     - region: TN
       exchange: '185780'
       name: Mount Pleasant
@@ -4138,6 +5248,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.531096'
       long: "-87.215964"
+      closest_city:
+        name: Mount Pleasant
+        distance:
+          value: 3.23
+          units: km
     - region: TN
       exchange: '185790'
       name: Mountain City
@@ -4146,6 +5261,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE-SOUTHEAST-TN DBA CENTURYLINK - TN
       lat: '36.472657'
       long: "-81.80771"
+      closest_city:
+        name: Mountain City
+        distance:
+          value: 0.42
+          units: km
     - region: TN
       exchange: '362273'
       name: Mountain Home
@@ -4178,6 +5298,11 @@ rate_centers:
       ilec_name: MILLINGTON TEL. CO., INC.
       lat: '35.450075'
       long: "-89.806756"
+      closest_city:
+        name: Munford
+        distance:
+          value: 1.03
+          units: km
     - region: TN
       exchange: '185810'
       name: Murfreesboro
@@ -4186,6 +5311,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.851884'
       long: "-86.385194"
+      closest_city:
+        name: Murfreesboro
+        distance:
+          value: 2.45
+          units: km
     - region: TN
       exchange: '185820'
       name: Nashville
@@ -4194,6 +5324,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.159315'
       long: "-86.773425"
+      closest_city:
+        name: Nashville
+        distance:
+          value: 1.66
+          units: km
     - region: TN
       exchange: '326766'
       name: Neapolis
@@ -4234,6 +5369,11 @@ rate_centers:
       ilec_name: HUMPHREYS COUNTY TEL. CO.
       lat: '36.043542'
       long: "-87.957964"
+      closest_city:
+        name: New Johnsonville
+        distance:
+          value: 3.2
+          units: km
     - region: TN
       exchange: '327089'
       name: New Market
@@ -4266,6 +5406,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF CLAIRBORNE DBA CENTURYLINK-CLAIBORNE
       lat: '36.44346'
       long: "-83.600181"
+      closest_city:
+        name: New Tazewell
+        distance:
+          value: 0.75
+          units: km
     - region: TN
       exchange: '185850'
       name: Newbern
@@ -4274,6 +5419,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.115932'
       long: "-89.261865"
+      closest_city:
+        name: Newbern
+        distance:
+          value: 0.85
+          units: km
     - region: TN
       exchange: '327090'
       name: Newcomb
@@ -4290,6 +5440,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.967396'
       long: "-83.193771"
+      closest_city:
+        name: Newport
+        distance:
+          value: 0.72
+          units: km
     - region: TN
       exchange: '185870'
       name: Nine Mile
@@ -4298,6 +5453,11 @@ rate_centers:
       ilec_name: BLEDSOE TEL. COOP.
       lat: '35.693264'
       long: "-85.099948"
+      closest_city:
+        name: Pikeville
+        distance:
+          value: 13.44
+          units: km
     - region: TN
       exchange: '185880'
       name: Niota
@@ -4306,14 +5466,24 @@ rate_centers:
       ilec_name: TELLICO TEL. CO., INC.
       lat: '35.515287'
       long: "-84.543474"
+      closest_city:
+        name: Niota
+        distance:
+          value: 0.62
+          units: km
     - region: TN
       exchange: '185892'
       name: Nolensville (Davidson)
-      short_name:
+      short_name: Nolensville (Davidson)
       lata: '470'
       ilec_name: UNITED TELEPHONE COMPANY DBA UNITED COMMUNICATIONS
       lat: '35.950201'
       long: "-86.667115"
+      closest_city:
+        name: Nolensville
+        distance:
+          value: 0.89
+          units: km
     - region: TN
       exchange: '185890'
       name: Nolensville (Williamson)
@@ -4322,6 +5492,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE COMPANY DBA UNITED COMMUNICATIONS
       lat: '35.950201'
       long: "-86.667115"
+      closest_city:
+        name: Nolensville
+        distance:
+          value: 0.89
+          units: km
     - region: TN
       exchange: '326773'
       name: Norene
@@ -4333,11 +5508,16 @@ rate_centers:
     - region: TN
       exchange: '186456'
       name: Norene
-      short_name:
+      short_name: Norene
       lata: '470'
       ilec_name: DEKALB TEL. COOP.
       lat: '36.058554'
       long: "-86.247461"
+      closest_city:
+        name: Norene
+        distance:
+          value: 0.97
+          units: km
     - region: TN
       exchange: '327094'
       name: Norma
@@ -4354,6 +5534,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.449897'
       long: "-86.260523"
+      closest_city:
+        name: Normandy
+        distance:
+          value: 0.34
+          units: km
     - region: TN
       exchange: '185910'
       name: Norris
@@ -4362,6 +5547,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.190792'
       long: "-84.070012"
+      closest_city:
+        name: Norris
+        distance:
+          value: 2.63
+          units: km
     - region: TN
       exchange: '185920'
       name: North Spring Hill
@@ -4370,6 +5560,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.748076'
       long: "-86.934523"
+      closest_city:
+        name: Spring Hill
+        distance:
+          value: 2.13
+          units: km
     - region: TN
       exchange: '185930'
       name: North Springs
@@ -4378,6 +5573,11 @@ rate_centers:
       ilec_name: TWIN LAKES TEL. COOP. CORP.
       lat: '36.482989'
       long: "-85.759905"
+      closest_city:
+        name: Red Boiling Springs
+        distance:
+          value: 9.46
+          units: km
     - region: TN
       exchange: '326777'
       name: Nunnelly
@@ -4394,6 +5594,11 @@ rate_centers:
       ilec_name: NORTH CENTRAL TEL. COOP., INC.
       lat: '36.56622'
       long: "-86.385905"
+      closest_city:
+        name: Fairfield
+        distance:
+          value: 7.2
+          units: km
     - region: TN
       exchange: '326779'
       name: Oak Hill
@@ -4410,6 +5615,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.048916'
       long: "-84.209585"
+      closest_city:
+        name: Clinton
+        distance:
+          value: 9.13
+          units: km
     - region: TN
       exchange: '185960'
       name: Oakdale
@@ -4418,6 +5628,11 @@ rate_centers:
       ilec_name: HIGHLAND TEL. COOP, INC.
       lat: '35.982226'
       long: "-84.55634"
+      closest_city:
+        name: Oakdale
+        distance:
+          value: 0.81
+          units: km
     - region: TN
       exchange: '326478'
       name: Oakfield
@@ -4474,6 +5689,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.257418'
       long: "-86.650433"
+      closest_city:
+        name: Hendersonville
+        distance:
+          value: 7.09
+          units: km
     - region: TN
       exchange: '185980'
       name: Old Zion
@@ -4482,6 +5702,11 @@ rate_centers:
       ilec_name: BEN LOMAND RURAL TEL. COOP., INC.
       lat: '35.954216'
       long: "-85.568516"
+      closest_city:
+        name: Sparta
+        distance:
+          value: 8.9
+          units: km
     - region: TN
       exchange: '326482'
       name: Olivehill
@@ -4498,6 +5723,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.040537'
       long: "-84.339518"
+      closest_city:
+        name: Oliver Springs
+        distance:
+          value: 0.99
+          units: km
     - region: TN
       exchange: '186000'
       name: Oneida
@@ -4506,6 +5736,11 @@ rate_centers:
       ilec_name: HIGHLAND TEL. COOP, INC.
       lat: '36.508599'
       long: "-84.513849"
+      closest_city:
+        name: Oneida
+        distance:
+          value: 0.98
+          units: km
     - region: TN
       exchange: '326782'
       name: Only
@@ -4522,6 +5757,11 @@ rate_centers:
       ilec_name: CENTURYTEL OOLTEWAH-COLLEGEDALE DBA CENTURYLINK
       lat: '35.076524'
       long: "-85.056817"
+      closest_city:
+        name: Ooltewah
+        distance:
+          value: 0.51
+          units: km
     - region: TN
       exchange: '326483'
       name: Ore Springs
@@ -4610,6 +5850,11 @@ rate_centers:
       ilec_name: CITIZENS COMM CO TN DBA FRONTIER COMM OF TN, LLC
       lat: '36.399578'
       long: "-88.581466"
+      closest_city:
+        name: Palmersville
+        distance:
+          value: 1.01
+          units: km
     - region: TN
       exchange: '326788'
       name: Palmetto
@@ -4626,6 +5871,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.434559'
       long: "-87.481301"
+      closest_city:
+        name: Cumberland City
+        distance:
+          value: 15.35
+          units: km
     - region: TN
       exchange: '186040'
       name: Paris
@@ -4634,6 +5884,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.297989'
       long: "-88.326163"
+      closest_city:
+        name: Paris
+        distance:
+          value: 1.84
+          units: km
     - region: TN
       exchange: '326487'
       name: Parker Crossroads
@@ -4666,6 +5921,11 @@ rate_centers:
       ilec_name: TENNESSEE TEL. CO.
       lat: '35.651131'
       long: "-88.124624"
+      closest_city:
+        name: Parsons
+        distance:
+          value: 0.14
+          units: km
     - region: TN
       exchange: '326790'
       name: Pegram
@@ -4682,6 +5942,11 @@ rate_centers:
       ilec_name: BEN LOMAND RURAL TEL. COOP., INC.
       lat: '35.308091'
       long: "-85.874805"
+      closest_city:
+        name: Pelham
+        distance:
+          value: 2.93
+          units: km
     - region: TN
       exchange: '326489'
       name: Perryville
@@ -4706,6 +5971,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.317553'
       long: "-86.634915"
+      closest_city:
+        name: Petersburg
+        distance:
+          value: 0.53
+          units: km
     - region: TN
       exchange: '186080'
       name: Petros
@@ -4714,6 +5984,11 @@ rate_centers:
       ilec_name: HIGHLAND TEL. COOP, INC.
       lat: '36.098872'
       long: "-84.442131"
+      closest_city:
+        name: Petros
+        distance:
+          value: 0.86
+          units: km
     - region: TN
       exchange: '327105'
       name: Philadelphia
@@ -4754,6 +6029,11 @@ rate_centers:
       ilec_name: BLEDSOE TEL. COOP.
       lat: '35.602236'
       long: "-85.200905"
+      closest_city:
+        name: Pikeville
+        distance:
+          value: 0.23
+          units: km
     - region: TN
       exchange: '362275'
       name: Piney Flats
@@ -4810,6 +6090,11 @@ rate_centers:
       ilec_name: CITIZENS COMM CO TN DBA FRONTIER COMM OF TN, LLC
       lat: '35.97117'
       long: "-85.187784"
+      closest_city:
+        name: Pleasant Hill
+        distance:
+          value: 1.23
+          units: km
     - region: TN
       exchange: '186110'
       name: Pleasant Shade
@@ -4818,6 +6103,11 @@ rate_centers:
       ilec_name: NORTH CENTRAL TEL. COOP., INC.
       lat: '36.373643'
       long: "-85.951231"
+      closest_city:
+        name: Carthage
+        distance:
+          value: 13.04
+          units: km
     - region: TN
       exchange: '362276'
       name: Pleasant Valley
@@ -4834,6 +6124,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.392463'
       long: "-87.032066"
+      closest_city:
+        name: Pleasant View
+        distance:
+          value: 1.25
+          units: km
     - region: TN
       exchange: '326794'
       name: Pleasantville
@@ -4866,6 +6161,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.58222'
       long: "-86.517912"
+      closest_city:
+        name: Portland
+        distance:
+          value: 1.22
+          units: km
     - region: TN
       exchange: '326964'
       name: Postelle
@@ -4898,6 +6198,11 @@ rate_centers:
       ilec_name: CITIZENS TELECOM VOL ST LLC DBA FRONTIER VOL STATE
       lat: '36.034736'
       long: "-84.043183"
+      closest_city:
+        name: Powell
+        distance:
+          value: 1.23
+          units: km
     - region: TN
       exchange: '326311'
       name: Powell Valley
@@ -4946,6 +6251,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.200998'
       long: "-87.035029"
+      closest_city:
+        name: Pulaski
+        distance:
+          value: 0.86
+          units: km
     - region: TN
       exchange: '186160'
       name: Puryear
@@ -4954,6 +6264,11 @@ rate_centers:
       ilec_name: WEST KENTUCKY RURAL TEL
       lat: '36.440592'
       long: "-88.331454"
+      closest_city:
+        name: Puryear
+        distance:
+          value: 0.12
+          units: km
     - region: TN
       exchange: '326804'
       name: Quebeck
@@ -5026,6 +6341,11 @@ rate_centers:
       ilec_name: NORTH CENTRAL TEL. COOP., INC.
       lat: '36.53342'
       long: "-85.84917"
+      closest_city:
+        name: Red Boiling Springs
+        distance:
+          value: 0.38
+          units: km
     - region: TN
       exchange: '326967'
       name: Reliance
@@ -5042,6 +6362,11 @@ rate_centers:
       ilec_name: TELLICO TEL. CO., INC.
       lat: '35.38177'
       long: "-84.700276"
+      closest_city:
+        name: Riceville
+        distance:
+          value: 0.87
+          units: km
     - region: TN
       exchange: '326968'
       name: Richard City
@@ -5058,6 +6383,11 @@ rate_centers:
       ilec_name: TWIN LAKES TEL. COOP. CORP.
       lat: '36.263115'
       long: "-85.376976"
+      closest_city:
+        name: Algood
+        distance:
+          value: 9.41
+          units: km
     - region: TN
       exchange: '326810'
       name: Riddleton
@@ -5074,6 +6404,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.269156'
       long: "-89.484773"
+      closest_city:
+        name: Ridgely
+        distance:
+          value: 0.76
+          units: km
     - region: TN
       exchange: '326969'
       name: Ridgeside
@@ -5114,6 +6449,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.742043'
       long: "-89.535549"
+      closest_city:
+        name: Ripley
+        distance:
+          value: 0.32
+          units: km
     - region: TN
       exchange: '326814'
       name: Riverwatch
@@ -5138,6 +6478,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE-SOUTHEAST-TN DBA CENTURYLINK - TN
       lat: '36.193406'
       long: "-82.070624"
+      closest_city:
+        name: Roan Mountain
+        distance:
+          value: 0.76
+          units: km
     - region: TN
       exchange: '186230'
       name: Robbins
@@ -5146,6 +6491,11 @@ rate_centers:
       ilec_name: HIGHLAND TEL. COOP, INC.
       lat: '36.349099'
       long: "-84.593289"
+      closest_city:
+        name: Robbins
+        distance:
+          value: 0.98
+          units: km
     - region: TN
       exchange: '326815'
       name: Rock Bridge
@@ -5162,6 +6512,11 @@ rate_centers:
       ilec_name: BEN LOMAND RURAL TEL. COOP., INC.
       lat: '35.766498'
       long: "-85.631191"
+      closest_city:
+        name: Doyle
+        distance:
+          value: 14.6
+          units: km
     - region: TN
       exchange: '327114'
       name: Rockford
@@ -5186,6 +6541,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.865983'
       long: "-84.682783"
+      closest_city:
+        name: Rockwood
+        distance:
+          value: 0.94
+          units: km
     - region: TN
       exchange: '326501'
       name: Rogers Springs
@@ -5202,6 +6562,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.408757'
       long: "-83.011265"
+      closest_city:
+        name: Rogersville
+        distance:
+          value: 0.63
+          units: km
     - region: TN
       exchange: '186270'
       name: Rosemark
@@ -5210,6 +6575,11 @@ rate_centers:
       ilec_name: MILLINGTON TEL. CO., INC.
       lat: '35.357141'
       long: "-89.768702"
+      closest_city:
+        name: Atoka
+        distance:
+          value: 7.59
+          units: km
     - region: TN
       exchange: '326818'
       name: Roseville
@@ -5266,6 +6636,11 @@ rate_centers:
       ilec_name: WEST TENNESSEE TEL. CO., INC.
       lat: '36.125309'
       long: "-88.982986"
+      closest_city:
+        name: Rutherford
+        distance:
+          value: 0.81
+          units: km
     - region: TN
       exchange: '186290'
       name: Rutledge
@@ -5274,6 +6649,11 @@ rate_centers:
       ilec_name: CITIZENS TELECOM VOL ST LLC DBA FRONTIER VOL STATE
       lat: '36.282332'
       long: "-83.518725"
+      closest_city:
+        name: Rutledge
+        distance:
+          value: 1.33
+          units: km
     - region: TN
       exchange: '326843'
       name: Saint Andrews
@@ -5330,6 +6710,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.499448'
       long: "-87.206841"
+      closest_city:
+        name: Clarksville
+        distance:
+          value: 14.3
+          units: km
     - region: TN
       exchange: '186310'
       name: Santa Fe
@@ -5338,6 +6723,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.731591'
       long: "-87.124286"
+      closest_city:
+        name: Columbia
+        distance:
+          value: 13.81
+          units: km
     - region: TN
       exchange: '186320'
       name: Sardis
@@ -5346,6 +6736,11 @@ rate_centers:
       ilec_name: TENNESSEE TEL. CO.
       lat: '35.442314'
       long: "-88.294116"
+      closest_city:
+        name: Sardis
+        distance:
+          value: 0.26
+          units: km
     - region: TN
       exchange: '326508'
       name: Saulsbury
@@ -5362,6 +6757,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.222744'
       long: "-88.242258"
+      closest_city:
+        name: Savannah
+        distance:
+          value: 0.6
+          units: km
     - region: TN
       exchange: '186340'
       name: Scotts Hill
@@ -5370,6 +6770,11 @@ rate_centers:
       ilec_name: TENNESSEE TEL. CO.
       lat: '35.516195'
       long: "-88.247721"
+      closest_city:
+        name: Scotts Hill
+        distance:
+          value: 0.54
+          units: km
     - region: TN
       exchange: '186350'
       name: Selmer
@@ -5378,6 +6783,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.176463'
       long: "-88.598564"
+      closest_city:
+        name: Selmer
+        distance:
+          value: 0.69
+          units: km
     - region: TN
       exchange: '326971'
       name: Sequatchie
@@ -5394,6 +6804,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.868123'
       long: "-83.566594"
+      closest_city:
+        name: Sevierville
+        distance:
+          value: 2.12
+          units: km
     - region: TN
       exchange: '186370'
       name: Sewanee
@@ -5402,6 +6817,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.199958'
       long: "-85.914843"
+      closest_city:
+        name: Sewanee
+        distance:
+          value: 0.65
+          units: km
     - region: TN
       exchange: '327121'
       name: Seymour
@@ -5426,6 +6846,11 @@ rate_centers:
       ilec_name: SKYLINE TEL. MEMBERSHIP CORP.
       lat: '36.500277'
       long: "-81.94034"
+      closest_city:
+        name: Mountain City
+        distance:
+          value: 12.58
+          units: km
     - region: TN
       exchange: '186390'
       name: Sharon
@@ -5434,6 +6859,11 @@ rate_centers:
       ilec_name: CITIZENS COMM CO TN DBA FRONTIER COMM OF TN, LLC
       lat: '36.231926'
       long: "-88.82734"
+      closest_city:
+        name: Sharon
+        distance:
+          value: 0.38
+          units: km
     - region: TN
       exchange: '186400'
       name: Sharps Chapel
@@ -5442,6 +6872,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF CLAIRBORNE DBA CENTURYLINK-CLAIBORNE
       lat: '36.350966'
       long: "-83.765456"
+      closest_city:
+        name: Maynardville
+        distance:
+          value: 12.11
+          units: km
     - region: TN
       exchange: '326312'
       name: Shawanee
@@ -5458,6 +6893,11 @@ rate_centers:
       ilec_name: MILLINGTON TEL. CO., INC.
       lat: '35.333581'
       long: "-89.98941"
+      closest_city:
+        name: Millington
+        distance:
+          value: 8.19
+          units: km
     - region: TN
       exchange: '186420'
       name: Shelbyville
@@ -5466,6 +6906,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.484231'
       long: "-86.4553"
+      closest_city:
+        name: Shelbyville
+        distance:
+          value: 1.64
+          units: km
     - region: TN
       exchange: '326972'
       name: Shellmound
@@ -5490,6 +6935,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF ADAMSVILLE DBA CENTURYLINK-ADAMSVILL
       lat: '35.057743'
       long: "-88.26977"
+      closest_city:
+        name: Counce
+        distance:
+          value: 1.94
+          units: km
     - region: TN
       exchange: '362279'
       name: Shouns
@@ -5506,6 +6956,11 @@ rate_centers:
       ilec_name: CITIZENS COMM CO TN DBA FRONTIER COMM OF TN, LLC
       lat: '36.250934'
       long: "-88.898255"
+      closest_city:
+        name: Sharon
+        distance:
+          value: 6.79
+          units: km
     - region: TN
       exchange: '184111'
       name: Signal Mountain
@@ -5538,6 +6993,11 @@ rate_centers:
       ilec_name: DEKALB TEL. COOP.
       lat: '35.958343'
       long: "-85.811333"
+      closest_city:
+        name: Smithville
+        distance:
+          value: 0.88
+          units: km
     - region: TN
       exchange: '186460'
       name: Smyrna
@@ -5546,6 +7006,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.983459'
       long: "-86.516515"
+      closest_city:
+        name: Smyrna
+        distance:
+          value: 1.87
+          units: km
     - region: TN
       exchange: '186470'
       name: Sneedville
@@ -5554,6 +7019,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.534007'
       long: "-83.217483"
+      closest_city:
+        name: Sneedville
+        distance:
+          value: 0.74
+          units: km
     - region: TN
       exchange: '186480'
       name: Soddy Daisy
@@ -5562,6 +7032,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.242613'
       long: "-85.188001"
+      closest_city:
+        name: Soddy-Daisy
+        distance:
+          value: 2.06
+          units: km
     - region: TN
       exchange: '186490'
       name: Solway
@@ -5570,6 +7045,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.977435'
       long: "-84.181624"
+      closest_city:
+        name: Karns
+        distance:
+          value: 6.53
+          units: km
     - region: TN
       exchange: '186500'
       name: Somerville
@@ -5578,6 +7058,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.241726'
       long: "-89.349713"
+      closest_city:
+        name: Somerville
+        distance:
+          value: 3.45
+          units: km
     - region: TN
       exchange: '326833'
       name: South Carthage
@@ -5594,6 +7079,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.358263'
       long: "-87.376588"
+      closest_city:
+        name: Slayden
+        distance:
+          value: 10.91
+          units: km
     - region: TN
       exchange: '186520'
       name: South Fredonia
@@ -5602,6 +7092,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.441875'
       long: "-87.218836"
+      closest_city:
+        name: Pleasant View
+        distance:
+          value: 16.58
+          units: km
     - region: TN
       exchange: '186530'
       name: South Fulton
@@ -5610,6 +7105,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.500839'
       long: "-88.875647"
+      closest_city:
+        name: South Fulton
+        distance:
+          value: 1.11
+          units: km
     - region: TN
       exchange: '186540'
       name: South Guthrie
@@ -5618,6 +7118,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.643368'
       long: "-87.176746"
+      closest_city:
+        name: Adams
+        distance:
+          value: 12.03
+          units: km
     - region: TN
       exchange: '186550'
       name: South Hazel
@@ -5626,6 +7131,11 @@ rate_centers:
       ilec_name: WEST KENTUCKY RURAL TEL
       lat: '36.500437'
       long: "-88.325368"
+      closest_city:
+        name: Puryear
+        distance:
+          value: 6.61
+          units: km
     - region: TN
       exchange: '186560'
       name: South Oak Grove
@@ -5634,6 +7144,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.634024'
       long: "-87.434876"
+      closest_city:
+        name: Clarksville
+        distance:
+          value: 11.03
+          units: km
     - region: TN
       exchange: '186570'
       name: South Pittsburg
@@ -5642,6 +7157,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '34.999428'
       long: "-85.7163"
+      closest_city:
+        name: South Pittsburg
+        distance:
+          value: 1.31
+          units: km
     - region: TN
       exchange: '326836'
       name: Southport
@@ -5666,6 +7186,11 @@ rate_centers:
       ilec_name: CITIZENS COMM CO TN DBA FRONTIER COMM OF TN, LLC
       lat: '35.923753'
       long: "-85.466334"
+      closest_city:
+        name: Sparta
+        distance:
+          value: 1.34
+          units: km
     - region: TN
       exchange: '186581'
       name: Sparta Rural
@@ -5674,6 +7199,11 @@ rate_centers:
       ilec_name: BEN LOMAND RURAL TEL. COOP., INC.
       lat: '35.923753'
       long: "-85.466334"
+      closest_city:
+        name: Sparta
+        distance:
+          value: 1.34
+          units: km
     - region: TN
       exchange: '327125'
       name: Speedwell
@@ -5690,6 +7220,11 @@ rate_centers:
       ilec_name: BEN LOMAND RURAL TEL. COOP., INC.
       lat: '35.740129'
       long: "-85.468423"
+      closest_city:
+        name: Spencer
+        distance:
+          value: 1.13
+          units: km
     - region: TN
       exchange: '186600'
       name: Spencer Mill
@@ -5698,6 +7233,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.923597'
       long: "-87.325699"
+      closest_city:
+        name: Bon Aqua Junction
+        distance:
+          value: 1.3
+          units: km
     - region: TN
       exchange: '186610'
       name: Spring City
@@ -5706,6 +7246,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.691656'
       long: "-84.855245"
+      closest_city:
+        name: Spring City
+        distance:
+          value: 0.74
+          units: km
     - region: TN
       exchange: '186620'
       name: Spring Hill
@@ -5714,6 +7259,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.748076'
       long: "-86.934523"
+      closest_city:
+        name: Spring Hill
+        distance:
+          value: 2.13
+          units: km
     - region: TN
       exchange: '186630'
       name: Springfield
@@ -5722,6 +7272,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.508994'
       long: "-86.8905"
+      closest_city:
+        name: Springfield
+        distance:
+          value: 2.34
+          units: km
     - region: TN
       exchange: '326518'
       name: Springville
@@ -5738,6 +7293,11 @@ rate_centers:
       ilec_name: LORETTO TEL. CO., INC.
       lat: '35.042985'
       long: "-87.509942"
+      closest_city:
+        name: St. Joseph
+        distance:
+          value: 1.38
+          units: km
     - region: TN
       exchange: '186650'
       name: Stanton
@@ -5746,6 +7306,11 @@ rate_centers:
       ilec_name: MILLINGTON TEL. CO., INC.
       lat: '35.465025'
       long: "-89.402175"
+      closest_city:
+        name: Stanton
+        distance:
+          value: 0.42
+          units: km
     - region: TN
       exchange: '326520'
       name: Stantonville
@@ -5786,6 +7351,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE-SOUTHEAST-TN DBA CENTURYLINK - TN
       lat: '36.407177'
       long: "-82.090213"
+      closest_city:
+        name: Hunter
+        distance:
+          value: 5.55
+          units: km
     - region: TN
       exchange: '327126'
       name: Strawberry Plains
@@ -5810,6 +7380,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE-SOUTHEAST-TN DBA CENTURYLINK - TN
       lat: '36.474387'
       long: "-82.591864"
+      closest_city:
+        name: Sullivan Gardens
+        distance:
+          value: 1.48
+          units: km
     - region: TN
       exchange: '362282'
       name: Sulphur Springs
@@ -5826,6 +7401,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.433465'
       long: "-87.291678"
+      closest_city:
+        name: Summertown
+        distance:
+          value: 1.52
+          units: km
     - region: TN
       exchange: '326850'
       name: Summitville
@@ -5842,6 +7422,11 @@ rate_centers:
       ilec_name: HIGHLAND TEL. COOP, INC.
       lat: '36.240965'
       long: "-84.669024"
+      closest_city:
+        name: Sunbright
+        distance:
+          value: 0.99
+          units: km
     - region: TN
       exchange: '186700'
       name: Surgoinsville
@@ -5850,6 +7435,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.475588'
       long: "-82.849679"
+      closest_city:
+        name: Surgoinsville
+        distance:
+          value: 0.87
+          units: km
     - region: TN
       exchange: '186710'
       name: Sweetwater
@@ -5858,6 +7448,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.600524'
       long: "-84.464907"
+      closest_city:
+        name: Sweetwater
+        distance:
+          value: 0.66
+          units: km
     - region: TN
       exchange: '326851'
       name: Sylvia
@@ -5898,6 +7493,11 @@ rate_centers:
       ilec_name: CITIZENS COMM CO TN DBA FRONTIER COMM OF TN, LLC
       lat: '35.866801'
       long: "-85.052049"
+      closest_city:
+        name: Lake Tansi
+        distance:
+          value: 0.92
+          units: km
     - region: TN
       exchange: '326854'
       name: Tarpley
@@ -5914,6 +7514,11 @@ rate_centers:
       ilec_name: CITIZENS TELECOM VOL ST LLC DBA FRONTIER VOL STATE
       lat: '36.332436'
       long: "-83.377155"
+      closest_city:
+        name: Bean Station
+        distance:
+          value: 8.24
+          units: km
     - region: TN
       exchange: '327133'
       name: Tazewell
@@ -5938,14 +7543,24 @@ rate_centers:
       ilec_name: TELLICO TEL. CO., INC.
       lat: '35.359914'
       long: "-84.30197"
+      closest_city:
+        name: Tellico Plains
+        distance:
+          value: 0.81
+          units: km
     - region: TN
       exchange: '186457'
       name: Temperance Hall
-      short_name:
+      short_name: Temperance Hall
       lata: '470'
       ilec_name: DEKALB TEL. COOP.
       lat: '36.083068'
       long: "-85.901604"
+      closest_city:
+        name: Hickman
+        distance:
+          value: 7.76
+          units: km
     - region: TN
       exchange: '326855'
       name: Temperance Hall
@@ -5978,6 +7593,11 @@ rate_centers:
       ilec_name: PEOPLES TEL. CO.
       lat: '36.30938'
       long: "-87.774495"
+      closest_city:
+        name: Tennessee Ridge
+        distance:
+          value: 1.51
+          units: km
     - region: TN
       exchange: '326858'
       name: Thompsons Station
@@ -6026,6 +7646,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.374568'
       long: "-89.477029"
+      closest_city:
+        name: Tiptonville
+        distance:
+          value: 1.49
+          units: km
     - region: TN
       exchange: '326525'
       name: Toone
@@ -6050,6 +7675,11 @@ rate_centers:
       ilec_name: BEN LOMAND RURAL TEL. COOP., INC.
       lat: '35.260125'
       long: "-85.734011"
+      closest_city:
+        name: Tracy City
+        distance:
+          value: 1.6
+          units: km
     - region: TN
       exchange: '362284'
       name: Trade
@@ -6074,6 +7704,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.974261'
       long: "-88.9436"
+      closest_city:
+        name: Trenton
+        distance:
+          value: 0.61
+          units: km
     - region: TN
       exchange: '186790'
       name: Trezevant
@@ -6082,6 +7717,11 @@ rate_centers:
       ilec_name: WEST TENNESSEE TEL. CO., INC.
       lat: '36.015576'
       long: "-88.619267"
+      closest_city:
+        name: Trezevant
+        distance:
+          value: 0.52
+          units: km
     - region: TN
       exchange: '186800'
       name: Trimble
@@ -6090,6 +7730,11 @@ rate_centers:
       ilec_name: WEST KENTUCKY RURAL TELEPHONE COOPERATIVE, INC.
       lat: '36.198408'
       long: "-89.185433"
+      closest_city:
+        name: Trimble
+        distance:
+          value: 0.46
+          units: km
     - region: TN
       exchange: '186810'
       name: Triune
@@ -6098,6 +7743,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.857055'
       long: "-86.657941"
+      closest_city:
+        name: Nolensville
+        distance:
+          value: 11.21
+          units: km
     - region: TN
       exchange: '186820'
       name: Troy
@@ -6106,6 +7756,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.340953'
       long: "-89.166933"
+      closest_city:
+        name: Troy
+        distance:
+          value: 0.78
+          units: km
     - region: TN
       exchange: '186830'
       name: Tullahoma
@@ -6114,6 +7769,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.357493'
       long: "-86.206567"
+      closest_city:
+        name: Tullahoma
+        distance:
+          value: 1.89
+          units: km
     - region: TN
       exchange: '326978'
       name: Turtletown
@@ -6154,6 +7814,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.427317'
       long: "-89.049397"
+      closest_city:
+        name: Union City
+        distance:
+          value: 0.19
+          units: km
     - region: TN
       exchange: '186850'
       name: Unionville
@@ -6162,6 +7827,11 @@ rate_centers:
       ilec_name: UNITED TELEPHONE COMPANY DBA UNITED COMMUNICATIONS
       lat: '35.652575'
       long: "-86.574744"
+      closest_city:
+        name: Unionville
+        distance:
+          value: 4.55
+          units: km
     - region: TN
       exchange: '186860'
       name: Vanleer
@@ -6170,6 +7840,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.233451'
       long: "-87.438581"
+      closest_city:
+        name: Vanleer
+        distance:
+          value: 0.6
+          units: km
     - region: TN
       exchange: '327138'
       name: Vasper
@@ -6194,6 +7869,11 @@ rate_centers:
       ilec_name: BEN LOMAND RURAL TEL. COOP., INC.
       lat: '35.542914'
       long: "-85.858896"
+      closest_city:
+        name: Viola
+        distance:
+          value: 0.49
+          units: km
     - region: TN
       exchange: '186880'
       name: Vonore
@@ -6202,6 +7882,11 @@ rate_centers:
       ilec_name: TELLICO TEL. CO., INC.
       lat: '35.592432'
       long: "-84.243561"
+      closest_city:
+        name: Vonore
+        distance:
+          value: 0.87
+          units: km
     - region: TN
       exchange: '327140'
       name: Vose
@@ -6282,6 +7967,11 @@ rate_centers:
       ilec_name: HIGHLAND TEL. COOP, INC.
       lat: '36.10791'
       long: "-84.598887"
+      closest_city:
+        name: Wartburg
+        distance:
+          value: 1.25
+          units: km
     - region: TN
       exchange: '186910'
       name: Wartrace
@@ -6290,6 +7980,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.534529'
       long: "-86.332526"
+      closest_city:
+        name: Wartrace
+        distance:
+          value: 1.05
+          units: km
     - region: TN
       exchange: '186920'
       name: Washburn
@@ -6298,6 +7993,11 @@ rate_centers:
       ilec_name: CITIZENS TELECOM VOL ST LLC DBA FRONTIER VOL STATE
       lat: '36.292672'
       long: "-83.596821"
+      closest_city:
+        name: Rutledge
+        distance:
+          value: 6.19
+          units: km
     - region: TN
       exchange: '362288'
       name: Washington College
@@ -6322,6 +8022,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.102681'
       long: "-86.13398"
+      closest_city:
+        name: Watertown
+        distance:
+          value: 0.53
+          units: km
     - region: TN
       exchange: '326980'
       name: Watts Bar Dam
@@ -6338,6 +8043,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.082452'
       long: "-87.792456"
+      closest_city:
+        name: Waverly
+        distance:
+          value: 1.45
+          units: km
     - region: TN
       exchange: '186950'
       name: Waynesboro
@@ -6346,6 +8056,11 @@ rate_centers:
       ilec_name: TENNESSEE TEL. CO.
       lat: '35.315706'
       long: "-87.766655"
+      closest_city:
+        name: Waynesboro
+        distance:
+          value: 1.09
+          units: km
     - region: TN
       exchange: '326876'
       name: West Point
@@ -6362,6 +8077,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.600524'
       long: "-84.464907"
+      closest_city:
+        name: Sweetwater
+        distance:
+          value: 0.66
+          units: km
     - region: TN
       exchange: '186890'
       name: West Vanleer
@@ -6370,6 +8090,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.233451'
       long: "-87.438581"
+      closest_city:
+        name: Vanleer
+        distance:
+          value: 0.6
+          units: km
     - region: TN
       exchange: '186970'
       name: West Whiteville
@@ -6378,6 +8103,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.324027'
       long: "-89.148902"
+      closest_city:
+        name: Whiteville
+        distance:
+          value: 0.68
+          units: km
     - region: TN
       exchange: '327144'
       name: Westbourne
@@ -6394,6 +8124,11 @@ rate_centers:
       ilec_name: NORTH CENTRAL TEL. COOP., INC.
       lat: '36.564425'
       long: "-86.250767"
+      closest_city:
+        name: Westmoreland
+        distance:
+          value: 0.5
+          units: km
     - region: TN
       exchange: '326532'
       name: Westport
@@ -6418,6 +8153,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.109507'
       long: "-87.223993"
+      closest_city:
+        name: White Bluff
+        distance:
+          value: 1.49
+          units: km
     - region: TN
       exchange: '187000'
       name: White House
@@ -6426,6 +8166,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.46587'
       long: "-86.64748"
+      closest_city:
+        name: White House
+        distance:
+          value: 1.71
+          units: km
     - region: TN
       exchange: '187010'
       name: White Pine
@@ -6434,6 +8179,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '36.106534'
       long: "-83.283782"
+      closest_city:
+        name: White Pine
+        distance:
+          value: 1.21
+          units: km
     - region: TN
       exchange: '185822'
       name: Whites Creek
@@ -6466,6 +8216,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.324027'
       long: "-89.148902"
+      closest_city:
+        name: Whiteville
+        distance:
+          value: 0.68
+          units: km
     - region: TN
       exchange: '326882'
       name: Whitleyville
@@ -6490,6 +8245,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.199061'
       long: "-85.518814"
+      closest_city:
+        name: Whitwell
+        distance:
+          value: 0.84
+          units: km
     - region: TN
       exchange: '326883'
       name: Wilder
@@ -6522,6 +8282,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.692394'
       long: "-87.226351"
+      closest_city:
+        name: Mount Pleasant
+        distance:
+          value: 16.41
+          units: km
     - region: TN
       exchange: '326537'
       name: Williston
@@ -6538,6 +8303,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '35.185519'
       long: "-86.115976"
+      closest_city:
+        name: Winchester
+        distance:
+          value: 0.91
+          units: km
     - region: TN
       exchange: '326885'
       name: Winchester Springs
@@ -6563,6 +8333,19 @@ rate_centers:
       lat:
       long:
     - region: TN
+      exchange: '186458'
+      name: Woodbury
+      short_name: Woodbury
+      lata: '470'
+      ilec_name: DEKALB TEL. COOP.
+      lat: '35.824284'
+      long: "-86.075548"
+      closest_city:
+        name: Woodbury
+        distance:
+          value: 0.3
+          units: km
+    - region: TN
       exchange: '326887'
       name: Woodbury
       short_name: WOODBURY
@@ -6571,29 +8354,31 @@ rate_centers:
       lat:
       long:
     - region: TN
-      exchange: '186458'
-      name: Woodbury
-      short_name:
-      lata: '470'
-      ilec_name: DEKALB TEL. COOP.
-      lat: '35.824284'
-      long: "-86.075548"
-    - region: TN
       exchange: 18645B
       name: Woodbury (Rutherford)
-      short_name:
+      short_name: Woodbury (Rutherford)
       lata: '470'
       ilec_name: DEKALB TEL. COOP.
       lat: '35.824284'
       long: "-86.075548"
+      closest_city:
+        name: Woodbury
+        distance:
+          value: 0.3
+          units: km
     - region: TN
       exchange: '186459'
       name: Woodland
-      short_name:
+      short_name: Woodland
       lata: '470'
       ilec_name: DEKALB TEL. COOP.
       lat: '35.695772'
       long: "-86.058564"
+      closest_city:
+        name: Lakewood Park
+        distance:
+          value: 8.75
+          units: km
     - region: TN
       exchange: '326538'
       name: Woodland Mills
@@ -6658,6 +8443,11 @@ rate_centers:
       ilec_name: WEST KENTUCKY RURAL TELEPHONE COOPERATIVE, INC.
       lat: '36.098999'
       long: "-89.12002"
+      closest_city:
+        name: Yorkville
+        distance:
+          value: 0.22
+          units: km
     - region: TN
       exchange: '326541'
       name: Yuma

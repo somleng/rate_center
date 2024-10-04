@@ -1,7 +1,7 @@
 ---
 rate_centers:
-  us:
-    ks:
+  US:
+    KS:
     - region: KS
       exchange: '332889'
       name: Abbyville
@@ -18,6 +18,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '37.964393'
       long: "-98.257328"
+      closest_city:
+        name: Plevna
+        distance:
+          value: 4.65
+          units: km
     - region: KS
       exchange: '061650'
       name: Abilene
@@ -26,6 +31,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '38.917862'
       long: "-97.210471"
+      closest_city:
+        name: Abilene
+        distance:
+          value: 1.4
+          units: km
     - region: KS
       exchange: '333353'
       name: Achilles
@@ -66,6 +76,11 @@ rate_centers:
       ilec_name: J.B.N. TEL. CO., INC.
       lat: '39.709082'
       long: "-97.430289"
+      closest_city:
+        name: Agenda
+        distance:
+          value: 0.32
+          units: km
     - region: KS
       exchange: '061670'
       name: Agra
@@ -74,6 +89,11 @@ rate_centers:
       ilec_name: RURAL TEL. SERVICE CO., INC. DBA NEX-TECH
       lat: '39.757975'
       long: "-99.116578"
+      closest_city:
+        name: Agra
+        distance:
+          value: 0.44
+          units: km
     - region: KS
       exchange: '333358'
       name: Agricola
@@ -98,6 +118,11 @@ rate_centers:
       ilec_name: GOLDEN BELT TEL. ASSN., INC.
       lat: '38.460096'
       long: "-99.009983"
+      closest_city:
+        name: Albert
+        distance:
+          value: 0.68
+          units: km
     - region: KS
       exchange: '061690'
       name: Alden
@@ -106,6 +131,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '38.243271'
       long: "-98.308553"
+      closest_city:
+        name: Alden
+        distance:
+          value: 0.31
+          units: km
     - region: KS
       exchange: '061700'
       name: Alexander
@@ -114,6 +144,11 @@ rate_centers:
       ilec_name: GOLDEN BELT TEL. ASSN., INC.
       lat: '38.466376'
       long: "-99.550121"
+      closest_city:
+        name: Alexander
+        distance:
+          value: 0.43
+          units: km
     - region: KS
       exchange: '333360'
       name: Aliceville
@@ -130,6 +165,11 @@ rate_centers:
       ilec_name: S & A TEL. CO., INC.
       lat: '38.651588'
       long: "-96.175177"
+      closest_city:
+        name: Allen
+        distance:
+          value: 0.61
+          units: km
     - region: KS
       exchange: '333361'
       name: Allison
@@ -146,6 +186,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF KANSAS DBA CENTURYLINK
       lat: '39.01437'
       long: "-96.289694"
+      closest_city:
+        name: Alma
+        distance:
+          value: 0.24
+          units: km
     - region: KS
       exchange: '061730'
       name: Almena
@@ -154,6 +199,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '39.884709'
       long: "-99.710816"
+      closest_city:
+        name: Almena
+        distance:
+          value: 0.74
+          units: km
     - region: KS
       exchange: '061740'
       name: Alta Vista
@@ -162,6 +212,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '38.865307'
       long: "-96.495062"
+      closest_city:
+        name: Alta Vista
+        distance:
+          value: 0.61
+          units: km
     - region: KS
       exchange: '061750'
       name: Altamont
@@ -170,6 +225,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF KANSAS DBA CENTURYLINK
       lat: '37.191099'
       long: "-95.289606"
+      closest_city:
+        name: Altamont
+        distance:
+          value: 0.4
+          units: km
     - region: KS
       exchange: '061760'
       name: Alton
@@ -178,6 +238,11 @@ rate_centers:
       ilec_name: RURAL TEL. SERVICE CO., INC. DBA NEX-TECH
       lat: '39.46757'
       long: "-98.952613"
+      closest_city:
+        name: Alton
+        distance:
+          value: 0.35
+          units: km
     - region: KS
       exchange: '061770'
       name: Altoona
@@ -186,6 +251,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '37.524209'
       long: "-95.664325"
+      closest_city:
+        name: Altoona
+        distance:
+          value: 0.26
+          units: km
     - region: KS
       exchange: '061780'
       name: Americus
@@ -194,6 +264,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF KANSAS COMPANY - KS
       lat: '38.507843'
       long: "-96.256842"
+      closest_city:
+        name: Americus
+        distance:
+          value: 0.43
+          units: km
     - region: KS
       exchange: '333366'
       name: Ames
@@ -218,14 +293,24 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.789936'
       long: "-97.633088"
+      closest_city:
+        name: Andale
+        distance:
+          value: 0.52
+          units: km
     - region: KS
       exchange: '06179E'
       name: Andale Metro
-      short_name:
+      short_name: Andale Metro
       lata: '532'
       ilec_name: SOUTHWESTERN BELL
       lat: '37.789936'
       long: "-97.633088"
+      closest_city:
+        name: Andale
+        distance:
+          value: 0.52
+          units: km
     - region: KS
       exchange: '061800'
       name: Andover
@@ -234,6 +319,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.716168'
       long: "-97.133956"
+      closest_city:
+        name: Andover
+        distance:
+          value: 3.21
+          units: km
     - region: KS
       exchange: '332902'
       name: Angola
@@ -266,6 +356,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.15992'
       long: "-98.034931"
+      closest_city:
+        name: Anthony
+        distance:
+          value: 0.62
+          units: km
     - region: KS
       exchange: '333367'
       name: Antonino
@@ -282,6 +377,11 @@ rate_centers:
       ilec_name: CRAW-KAN TEL. COOP.,INC. - KS
       lat: '37.643507'
       long: "-94.627058"
+      closest_city:
+        name: Arcadia
+        distance:
+          value: 0.37
+          units: km
     - region: KS
       exchange: '330732'
       name: Argentine
@@ -298,6 +398,11 @@ rate_centers:
       ilec_name: HAVILAND TEL. CO., INC.
       lat: '37.26486'
       long: "-97.767723"
+      closest_city:
+        name: Argonia
+        distance:
+          value: 0.54
+          units: km
     - region: KS
       exchange: '061840'
       name: Arkansas City
@@ -306,6 +411,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.067881'
       long: "-97.042986"
+      closest_city:
+        name: Arkansas City
+        distance:
+          value: 0.66
+          units: km
     - region: KS
       exchange: '061850'
       name: Arlington
@@ -314,6 +424,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '37.901483'
       long: "-98.182156"
+      closest_city:
+        name: Arlington
+        distance:
+          value: 0.69
+          units: km
     - region: KS
       exchange: '061860'
       name: Arma
@@ -322,6 +437,11 @@ rate_centers:
       ilec_name: CRAW-KAN TEL. COOP.,INC. - KS
       lat: '37.548871'
       long: "-94.70351"
+      closest_city:
+        name: Arma
+        distance:
+          value: 0.67
+          units: km
     - region: KS
       exchange: '333368'
       name: Arnold
@@ -362,6 +482,11 @@ rate_centers:
       ilec_name: UNITED TEL. ASSN., INC.
       lat: '37.190568'
       long: "-99.777544"
+      closest_city:
+        name: Ashland
+        distance:
+          value: 0.82
+          units: km
     - region: KS
       exchange: '332912'
       name: Ashton
@@ -378,6 +503,11 @@ rate_centers:
       ilec_name: HOME TEL. CO., INC.
       lat: '38.681476'
       long: "-97.601996"
+      closest_city:
+        name: Assaria
+        distance:
+          value: 0.22
+          units: km
     - region: KS
       exchange: '061890'
       name: Atchison
@@ -386,6 +516,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '39.556774'
       long: "-95.125346"
+      closest_city:
+        name: Atchison
+        distance:
+          value: 1.16
+          units: km
     - region: KS
       exchange: '061900'
       name: Athol
@@ -394,6 +529,11 @@ rate_centers:
       ilec_name: RURAL TEL. SERVICE CO., INC. DBA NEX-TECH
       lat: '39.759459'
       long: "-98.918538"
+      closest_city:
+        name: Athol
+        distance:
+          value: 0.77
+          units: km
     - region: KS
       exchange: '061910'
       name: Atlanta
@@ -402,6 +542,11 @@ rate_centers:
       ilec_name: SOUTHERN KANSAS TEL. CO., INC.
       lat: '37.432678'
       long: "-96.766321"
+      closest_city:
+        name: Atlanta
+        distance:
+          value: 0.35
+          units: km
     - region: KS
       exchange: '061920'
       name: Attica
@@ -410,6 +555,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.242439'
       long: "-98.235465"
+      closest_city:
+        name: Attica
+        distance:
+          value: 0.7
+          units: km
     - region: KS
       exchange: '061930'
       name: Atwood
@@ -418,6 +568,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '39.798477'
       long: "-101.043676"
+      closest_city:
+        name: Atwood
+        distance:
+          value: 1.3
+          units: km
     - region: KS
       exchange: '333375'
       name: Auburn
@@ -434,6 +589,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.685086'
       long: "-96.974999"
+      closest_city:
+        name: Augusta
+        distance:
+          value: 1.88
+          units: km
     - region: KS
       exchange: '332916'
       name: Aulne
@@ -450,6 +610,11 @@ rate_centers:
       ilec_name: TWIN VALLEY TEL., INC.
       lat: '39.450973'
       long: "-97.530127"
+      closest_city:
+        name: Aurora
+        distance:
+          value: 0.11
+          units: km
     - region: KS
       exchange: '061960'
       name: Axtell
@@ -458,6 +623,11 @@ rate_centers:
       ilec_name: BLUE VALLEY TELE-COMMUNICATIONS, INC.
       lat: '39.866733'
       long: "-96.261459"
+      closest_city:
+        name: Axtell
+        distance:
+          value: 0.64
+          units: km
     - region: KS
       exchange: '333378'
       name: Baileyville
@@ -474,6 +644,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF KANSAS DBA CENTURYLINK
       lat: '38.774006'
       long: "-95.193367"
+      closest_city:
+        name: Baldwin City
+        distance:
+          value: 0.66
+          units: km
     - region: KS
       exchange: '333380'
       name: Banner Creek
@@ -498,6 +673,11 @@ rate_centers:
       ilec_name: TWIN VALLEY TEL., INC.
       lat: '39.190297'
       long: "-98.042946"
+      closest_city:
+        name: Barnard
+        distance:
+          value: 0.17
+          units: km
     - region: KS
       exchange: '061990'
       name: Barnes
@@ -506,6 +686,11 @@ rate_centers:
       ilec_name: J.B.N. TEL. CO., INC.
       lat: '39.705664'
       long: "-96.874203"
+      closest_city:
+        name: Barnes
+        distance:
+          value: 0.66
+          units: km
     - region: KS
       exchange: '062000'
       name: Bartlett
@@ -514,6 +699,11 @@ rate_centers:
       ilec_name: CRAW-KAN TEL. COOP.,INC. - KS
       lat: '37.058207'
       long: "-95.210121"
+      closest_city:
+        name: Bartlett
+        distance:
+          value: 0.38
+          units: km
     - region: KS
       exchange: '062010'
       name: Basehor
@@ -522,14 +712,24 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '39.14251'
       long: "-94.940882"
+      closest_city:
+        name: Basehor
+        distance:
+          value: 1.22
+          units: km
     - region: KS
       exchange: 06201E
       name: Basehor Metro
-      short_name:
+      short_name: Basehor Metro
       lata: '524'
       ilec_name: SOUTHWESTERN BELL
       lat: '39.14251'
       long: "-94.940882"
+      closest_city:
+        name: Basehor
+        distance:
+          value: 1.22
+          units: km
     - region: KS
       exchange: '333384'
       name: Bavaria
@@ -546,6 +746,11 @@ rate_centers:
       ilec_name: EMBARQ MISSOURI, INC. DBA CENTURYLINK - KS
       lat: '37.024998'
       long: "-94.734829"
+      closest_city:
+        name: Baxter Springs
+        distance:
+          value: 0.61
+          units: km
     - region: KS
       exchange: '332919'
       name: Bazaar
@@ -562,6 +767,11 @@ rate_centers:
       ilec_name: GOLDEN BELT TEL. ASSN., INC.
       lat: '38.443545'
       long: "-99.691712"
+      closest_city:
+        name: Bazine
+        distance:
+          value: 0.32
+          units: km
     - region: KS
       exchange: '330735'
       name: Beagle
@@ -586,6 +796,11 @@ rate_centers:
       ilec_name: BLUE VALLEY TELE-COMMUNICATIONS, INC.
       lat: '39.855781'
       long: "-96.415639"
+      closest_city:
+        name: Beattie
+        distance:
+          value: 0.76
+          units: km
     - region: KS
       exchange: '062050'
       name: Beaumont
@@ -594,6 +809,11 @@ rate_centers:
       ilec_name: SOUTHERN KANSAS TEL. CO., INC.
       lat: '37.656901'
       long: "-96.533635"
+      closest_city:
+        name: Beaumont
+        distance:
+          value: 0.18
+          units: km
     - region: KS
       exchange: '332921'
       name: Beaver
@@ -610,6 +830,11 @@ rate_centers:
       ilec_name: GOLDEN BELT TEL. ASSN., INC.
       lat: '38.443099'
       long: "-100.202282"
+      closest_city:
+        name: Utica
+        distance:
+          value: 22.37
+          units: km
     - region: KS
       exchange: '332922'
       name: Bel Aire
@@ -634,6 +859,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '37.390261'
       long: "-97.284678"
+      closest_city:
+        name: Belle Plaine
+        distance:
+          value: 0.58
+          units: km
     - region: KS
       exchange: '062080'
       name: Belleville
@@ -642,6 +872,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '39.824447'
       long: "-97.627591"
+      closest_city:
+        name: Belleville
+        distance:
+          value: 0.52
+          units: km
     - region: KS
       exchange: '332924'
       name: Belmont
@@ -658,6 +893,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '39.457939'
       long: "-98.106288"
+      closest_city:
+        name: Beloit
+        distance:
+          value: 0.75
+          units: km
     - region: KS
       exchange: '062100'
       name: Belpre
@@ -666,6 +906,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '37.947108'
       long: "-99.098405"
+      closest_city:
+        name: Belpre
+        distance:
+          value: 0.42
+          units: km
     - region: KS
       exchange: '332926'
       name: Belvidere
@@ -690,6 +935,11 @@ rate_centers:
       ilec_name: RAINBOW TELECOMMUNICATIONS ASSOCIATION, INC.
       lat: '39.742595'
       long: "-95.184726"
+      closest_city:
+        name: Bendena
+        distance:
+          value: 0.33
+          units: km
     - region: KS
       exchange: '062120'
       name: Benedict
@@ -698,6 +948,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '37.625796'
       long: "-95.742561"
+      closest_city:
+        name: Benedict
+        distance:
+          value: 0.14
+          units: km
     - region: KS
       exchange: '062130'
       name: Bennington
@@ -706,6 +961,11 @@ rate_centers:
       ilec_name: TWIN VALLEY TEL., INC.
       lat: '39.034739'
       long: "-97.601181"
+      closest_city:
+        name: Bennington
+        distance:
+          value: 0.71
+          units: km
     - region: KS
       exchange: '332928'
       name: Bentley
@@ -722,6 +982,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.792672'
       long: "-97.107921"
+      closest_city:
+        name: Benton
+        distance:
+          value: 0.5
+          units: km
     - region: KS
       exchange: '333395'
       name: Bern
@@ -746,6 +1011,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '39.149021'
       long: "-94.750853"
+      closest_city:
+        name: Kansas City
+        distance:
+          value: 2.89
+          units: km
     - region: KS
       exchange: '062160'
       name: Beverly
@@ -754,6 +1024,11 @@ rate_centers:
       ilec_name: TWIN VALLEY TEL., INC.
       lat: '39.01631'
       long: "-97.977683"
+      closest_city:
+        name: Beverly
+        distance:
+          value: 0.34
+          units: km
     - region: KS
       exchange: '062170'
       name: Big Bow
@@ -762,6 +1037,11 @@ rate_centers:
       ilec_name: PIONEER TEL. ASSN., INC.
       lat: '37.56793'
       long: "-101.560462"
+      closest_city:
+        name: Big Bow
+        distance:
+          value: 0.83
+          units: km
     - region: KS
       exchange: '333398'
       name: Big Springs
@@ -778,6 +1058,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '39.741753'
       long: "-101.523353"
+      closest_city:
+        name: Bird City
+        distance:
+          value: 1.18
+          units: km
     - region: KS
       exchange: '062190'
       name: Bison
@@ -786,6 +1071,11 @@ rate_centers:
       ilec_name: GOLDEN BELT TEL. ASSN., INC.
       lat: '38.516998'
       long: "-99.201583"
+      closest_city:
+        name: Bison
+        distance:
+          value: 0.48
+          units: km
     - region: KS
       exchange: '333401'
       name: Blaine
@@ -842,6 +1132,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '38.092409'
       long: "-95.009257"
+      closest_city:
+        name: Blue Mound
+        distance:
+          value: 0.38
+          units: km
     - region: KS
       exchange: '333406'
       name: Blue Rapids
@@ -858,6 +1153,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '39.639793'
       long: "-96.696806"
+      closest_city:
+        name: Blue Rapids
+        distance:
+          value: 5.42
+          units: km
     - region: KS
       exchange: '062220'
       name: Bluff City
@@ -866,6 +1166,11 @@ rate_centers:
       ilec_name: KANOKLA TEL ASSN
       lat: '37.074228'
       long: "-97.873192"
+      closest_city:
+        name: Bluff City
+        distance:
+          value: 0.25
+          units: km
     - region: KS
       exchange: '333407'
       name: Bogue
@@ -898,6 +1203,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '39.058031'
       long: "-94.884574"
+      closest_city:
+        name: Bonner Springs
+        distance:
+          value: 2.7
+          units: km
     - region: KS
       exchange: '332933'
       name: Boyd
@@ -930,6 +1240,11 @@ rate_centers:
       ilec_name: CRAW-KAN TEL. COOP.,INC. - KS
       lat: '37.555772'
       long: "-94.957591"
+      closest_city:
+        name: Girard
+        distance:
+          value: 11.14
+          units: km
     - region: KS
       exchange: '333410'
       name: Bremen
@@ -962,6 +1277,11 @@ rate_centers:
       ilec_name: S & T TEL. COOP. ASSN.
       lat: '39.357325'
       long: "-101.386746"
+      closest_city:
+        name: Brewster
+        distance:
+          value: 1.05
+          units: km
     - region: KS
       exchange: '333413'
       name: Bridgeport
@@ -978,6 +1298,11 @@ rate_centers:
       ilec_name: CRAW-KAN TEL. COOP.,INC. - KS
       lat: '37.898471'
       long: "-95.075819"
+      closest_city:
+        name: Bronson
+        distance:
+          value: 0.38
+          units: km
     - region: KS
       exchange: '062270'
       name: Brookville
@@ -986,6 +1311,11 @@ rate_centers:
       ilec_name: WILSON TEL. CO., INC.
       lat: '38.772964'
       long: "-97.865264"
+      closest_city:
+        name: Brookville
+        distance:
+          value: 0.1
+          units: km
     - region: KS
       exchange: '333415'
       name: Broughton
@@ -1002,6 +1332,11 @@ rate_centers:
       ilec_name: GOLDEN BELT TEL. ASSN., INC.
       lat: '38.642585'
       long: "-99.748408"
+      closest_city:
+        name: Brownell
+        distance:
+          value: 0.42
+          units: km
     - region: KS
       exchange: '062290'
       name: Buckeye
@@ -1010,6 +1345,11 @@ rate_centers:
       ilec_name: TRI-COUNTY TEL. ASSN., INC.
       lat: '39.040784'
       long: "-97.173038"
+      closest_city:
+        name: Talmage
+        distance:
+          value: 7.65
+          units: km
     - region: KS
       exchange: '062300'
       name: Bucklin
@@ -1018,6 +1358,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.547256'
       long: "-99.63164"
+      closest_city:
+        name: Bucklin
+        distance:
+          value: 0.29
+          units: km
     - region: KS
       exchange: '062310'
       name: Bucyrus
@@ -1026,14 +1371,24 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '38.723613'
       long: "-94.716131"
+      closest_city:
+        name: Bucyrus
+        distance:
+          value: 0.19
+          units: km
     - region: KS
       exchange: 06231E
       name: Bucyrus Metro
-      short_name:
+      short_name: Bucyrus Metro
       lata: '524'
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '38.723613'
       long: "-94.716131"
+      closest_city:
+        name: Bucyrus
+        distance:
+          value: 0.19
+          units: km
     - region: KS
       exchange: '062320'
       name: Buffalo
@@ -1042,6 +1397,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '37.706938'
       long: "-95.699948"
+      closest_city:
+        name: Buffalo
+        distance:
+          value: 0.35
+          units: km
     - region: KS
       exchange: '333418'
       name: Buffalo Park
@@ -1058,6 +1418,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF KANSAS DBA CENTURYLINK
       lat: '38.135726'
       long: "-97.767526"
+      closest_city:
+        name: Buhler
+        distance:
+          value: 0.39
+          units: km
     - region: KS
       exchange: '333419'
       name: Bunker Hill
@@ -1074,6 +1439,11 @@ rate_centers:
       ilec_name: SOUTHERN KANSAS TEL. CO., INC.
       lat: '37.317417'
       long: "-96.750096"
+      closest_city:
+        name: Burden
+        distance:
+          value: 0.54
+          units: km
     - region: KS
       exchange: '062350'
       name: Burdett
@@ -1082,6 +1452,11 @@ rate_centers:
       ilec_name: GOLDEN BELT TEL. ASSN., INC.
       lat: '38.202114'
       long: "-99.524656"
+      closest_city:
+        name: Burdett
+        distance:
+          value: 0.97
+          units: km
     - region: KS
       exchange: '333420'
       name: Burdick
@@ -1098,6 +1473,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF KANSAS DBA CENTURYLINK
       lat: '38.74958'
       long: "-95.831118"
+      closest_city:
+        name: Burlingame
+        distance:
+          value: 0.42
+          units: km
     - region: KS
       exchange: '062370'
       name: Burlington
@@ -1106,6 +1486,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF KANSAS DBA CENTURYLINK
       lat: '38.198371'
       long: "-95.743011"
+      closest_city:
+        name: Burlington
+        distance:
+          value: 0.62
+          units: km
     - region: KS
       exchange: '062380'
       name: Burns
@@ -1114,6 +1499,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '38.089805'
       long: "-96.882245"
+      closest_city:
+        name: Burns
+        distance:
+          value: 0.48
+          units: km
     - region: KS
       exchange: '062390'
       name: Burr Oak
@@ -1122,6 +1512,11 @@ rate_centers:
       ilec_name: RURAL TEL. SERVICE CO., INC. DBA NEX-TECH
       lat: '39.866866'
       long: "-98.310393"
+      closest_city:
+        name: Burr Oak
+        distance:
+          value: 0.54
+          units: km
     - region: KS
       exchange: '062400'
       name: Burrton
@@ -1130,6 +1525,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF KANSAS DBA CENTURYLINK
       lat: '38.024476'
       long: "-97.666451"
+      closest_city:
+        name: Burrton
+        distance:
+          value: 0.45
+          units: km
     - region: KS
       exchange: '330743'
       name: Bush City
@@ -1154,6 +1554,11 @@ rate_centers:
       ilec_name: H & B COMMUNICATIONS, INC.
       lat: '38.514789'
       long: "-98.401399"
+      closest_city:
+        name: Bushton
+        distance:
+          value: 0.55
+          units: km
     - region: KS
       exchange: '332947'
       name: Buxton
@@ -1194,6 +1599,11 @@ rate_centers:
       ilec_name: KANOKLA TEL ASSN
       lat: '37.035195'
       long: "-97.608737"
+      closest_city:
+        name: Caldwell
+        distance:
+          value: 0.03
+          units: km
     - region: KS
       exchange: '333423'
       name: Calvert
@@ -1210,6 +1620,11 @@ rate_centers:
       ilec_name: SOUTHERN KANSAS TEL. CO., INC.
       lat: '37.316246'
       long: "-96.66991"
+      closest_city:
+        name: Cambridge
+        distance:
+          value: 0.28
+          units: km
     - region: KS
       exchange: '332952'
       name: Canada
@@ -1226,6 +1641,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.01756'
       long: "-95.934514"
+      closest_city:
+        name: Caney
+        distance:
+          value: 0.48
+          units: km
     - region: KS
       exchange: '062450'
       name: Canton
@@ -1234,6 +1654,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '38.392364'
       long: "-97.426186"
+      closest_city:
+        name: Canton
+        distance:
+          value: 0.82
+          units: km
     - region: KS
       exchange: '333424'
       name: Carbondale
@@ -1250,6 +1675,11 @@ rate_centers:
       ilec_name: TRI-COUNTY TEL. ASSN., INC.
       lat: '38.694314'
       long: "-97.292566"
+      closest_city:
+        name: Carlton
+        distance:
+          value: 0.86
+          units: km
     - region: KS
       exchange: '332955'
       name: Carlyle
@@ -1274,6 +1704,11 @@ rate_centers:
       ilec_name: WHEAT STATE TEL., INC.
       lat: '38.042573'
       long: "-96.642798"
+      closest_city:
+        name: Cassoday
+        distance:
+          value: 0.57
+          units: km
     - region: KS
       exchange: '332958'
       name: Castleton
@@ -1306,6 +1741,11 @@ rate_centers:
       ilec_name: CUNNINGHAM TEL. CO., INC.
       lat: '39.50634'
       long: "-98.432045"
+      closest_city:
+        name: Cawker City
+        distance:
+          value: 0.36
+          units: km
     - region: KS
       exchange: '333428'
       name: Cedar
@@ -1322,6 +1762,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF KANSAS COMPANY - KS
       lat: '38.258114'
       long: "-96.815132"
+      closest_city:
+        name: Cedar Point
+        distance:
+          value: 0.68
+          units: km
     - region: KS
       exchange: '062500'
       name: Cedar Vale
@@ -1330,6 +1775,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.110781'
       long: "-96.501135"
+      closest_city:
+        name: Cedar Vale
+        distance:
+          value: 0.52
+          units: km
     - region: KS
       exchange: '330745'
       name: Centerville
@@ -1346,6 +1796,11 @@ rate_centers:
       ilec_name: BLUE VALLEY TELE-COMMUNICATIONS, INC.
       lat: '39.724716'
       long: "-96.13093"
+      closest_city:
+        name: Centralia
+        distance:
+          value: 0.08
+          units: km
     - region: KS
       exchange: '062520'
       name: Centropolis
@@ -1354,6 +1809,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '38.716429'
       long: "-95.352102"
+      closest_city:
+        name: Centropolis
+        distance:
+          value: 0.2
+          units: km
     - region: KS
       exchange: '062530'
       name: Chanute
@@ -1362,6 +1822,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.682164'
       long: "-95.461904"
+      closest_city:
+        name: Chanute
+        distance:
+          value: 1.41
+          units: km
     - region: KS
       exchange: '062540'
       name: Chapman
@@ -1370,6 +1835,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '38.965932'
       long: "-97.014585"
+      closest_city:
+        name: Chapman
+        distance:
+          value: 1.24
+          units: km
     - region: KS
       exchange: '332963'
       name: Charleston
@@ -1386,6 +1856,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '38.357272'
       long: "-98.340475"
+      closest_city:
+        name: Chase
+        distance:
+          value: 0.77
+          units: km
     - region: KS
       exchange: '332965'
       name: Chautauqua
@@ -1402,14 +1877,24 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.633588'
       long: "-97.784934"
+      closest_city:
+        name: Cheney
+        distance:
+          value: 0.5
+          units: km
     - region: KS
       exchange: 06256E
       name: Cheney Metro
-      short_name:
+      short_name: Cheney Metro
       lata: '532'
       ilec_name: SOUTHWESTERN BELL
       lat: '37.633588'
       long: "-97.784934"
+      closest_city:
+        name: Cheney
+        distance:
+          value: 0.5
+          units: km
     - region: KS
       exchange: '062570'
       name: Cherokee
@@ -1418,6 +1903,11 @@ rate_centers:
       ilec_name: CRAW-KAN TEL. COOP.,INC. - KS
       lat: '37.344218'
       long: "-94.826363"
+      closest_city:
+        name: Cherokee
+        distance:
+          value: 0.44
+          units: km
     - region: KS
       exchange: '062580'
       name: Cherryvale
@@ -1426,6 +1916,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.264723'
       long: "-95.550484"
+      closest_city:
+        name: Cherryvale
+        distance:
+          value: 0.55
+          units: km
     - region: KS
       exchange: '062590'
       name: Chetopa
@@ -1434,6 +1929,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.032917'
       long: "-95.092574"
+      closest_city:
+        name: Chetopa
+        distance:
+          value: 0.52
+          units: km
     - region: KS
       exchange: '333432'
       name: Cheyenne
@@ -1458,6 +1958,11 @@ rate_centers:
       ilec_name: UNITED TEL. ASSN., INC.
       lat: '37.808981'
       long: "-100.343073"
+      closest_city:
+        name: Cimarron
+        distance:
+          value: 0.21
+          units: km
     - region: KS
       exchange: '062610'
       name: Circleville
@@ -1466,6 +1971,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '39.507164'
       long: "-95.861245"
+      closest_city:
+        name: Circleville
+        distance:
+          value: 0.56
+          units: km
     - region: KS
       exchange: '062620'
       name: Claflin
@@ -1474,6 +1984,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '38.525294'
       long: "-98.534198"
+      closest_city:
+        name: Claflin
+        distance:
+          value: 0.23
+          units: km
     - region: KS
       exchange: '330747'
       name: Clare
@@ -1490,6 +2005,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '39.374254'
       long: "-97.122802"
+      closest_city:
+        name: Clay Center
+        distance:
+          value: 0.88
+          units: km
     - region: KS
       exchange: '333435'
       name: Clayton
@@ -1506,6 +2026,11 @@ rate_centers:
       ilec_name: SOUTHERN KANSAS TEL. CO., INC.
       lat: '37.505844'
       long: "-97.506503"
+      closest_city:
+        name: Clearwater
+        distance:
+          value: 0.9
+          units: km
     - region: KS
       exchange: '332973'
       name: Clements
@@ -1522,6 +2047,11 @@ rate_centers:
       ilec_name: TWIN VALLEY TEL., INC.
       lat: '39.569264'
       long: "-97.284431"
+      closest_city:
+        name: Clifton
+        distance:
+          value: 0.33
+          units: km
     - region: KS
       exchange: '332974'
       name: Climax
@@ -1538,6 +2068,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '38.909543'
       long: "-95.388267"
+      closest_city:
+        name: Lawrence
+        distance:
+          value: 12.09
+          units: km
     - region: KS
       exchange: '332975'
       name: Clonmel
@@ -1554,6 +2089,11 @@ rate_centers:
       ilec_name: TWIN VALLEY TEL., INC.
       lat: '39.590552'
       long: "-97.40141"
+      closest_city:
+        name: Clyde
+        distance:
+          value: 0.17
+          units: km
     - region: KS
       exchange: '062680'
       name: Coats
@@ -1562,6 +2102,11 @@ rate_centers:
       ilec_name: HAVILAND TEL. CO., INC.
       lat: '37.514858'
       long: "-98.814571"
+      closest_city:
+        name: Coats
+        distance:
+          value: 1.05
+          units: km
     - region: KS
       exchange: '333439'
       name: Codell
@@ -1578,6 +2123,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.030904'
       long: "-95.616806"
+      closest_city:
+        name: Coffeyville
+        distance:
+          value: 2.34
+          units: km
     - region: KS
       exchange: '062700'
       name: Colby
@@ -1586,6 +2136,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '39.390443'
       long: "-101.058204"
+      closest_city:
+        name: Colby
+        distance:
+          value: 1.28
+          units: km
     - region: KS
       exchange: '062710'
       name: Coldwater
@@ -1594,6 +2149,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.265353'
       long: "-99.332172"
+      closest_city:
+        name: Coldwater
+        distance:
+          value: 0.94
+          units: km
     - region: KS
       exchange: '062720'
       name: Collyer
@@ -1602,6 +2162,11 @@ rate_centers:
       ilec_name: RURAL TEL. SERVICE CO., INC. DBA NEX-TECH
       lat: '39.03427'
       long: "-100.116734"
+      closest_city:
+        name: Collyer
+        distance:
+          value: 0.36
+          units: km
     - region: KS
       exchange: '062730'
       name: Colony
@@ -1610,6 +2175,11 @@ rate_centers:
       ilec_name: CRAW-KAN TEL. COOP.,INC. - KS
       lat: '38.066706'
       long: "-95.364497"
+      closest_city:
+        name: Colony
+        distance:
+          value: 0.52
+          units: km
     - region: KS
       exchange: '062740'
       name: Columbus
@@ -1618,6 +2188,11 @@ rate_centers:
       ilec_name: COLUMBUS TEL. CO.
       lat: '37.173434'
       long: "-94.842807"
+      closest_city:
+        name: Columbus
+        distance:
+          value: 0.23
+          units: km
     - region: KS
       exchange: '062750'
       name: Columbus Rural
@@ -1626,6 +2201,11 @@ rate_centers:
       ilec_name: CRAW-KAN TEL. COOP.,INC. - KS
       lat: '37.164295'
       long: "-94.816427"
+      closest_city:
+        name: Columbus
+        distance:
+          value: 2.57
+          units: km
     - region: KS
       exchange: '332982'
       name: Colwich
@@ -1642,6 +2222,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.781683'
       long: "-97.543744"
+      closest_city:
+        name: Colwich
+        distance:
+          value: 0.65
+          units: km
     - region: KS
       exchange: '062770'
       name: Concordia
@@ -1650,6 +2235,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '39.575092'
       long: "-97.658496"
+      closest_city:
+        name: Concordia
+        distance:
+          value: 1.36
+          units: km
     - region: KS
       exchange: '062780'
       name: Conway
@@ -1658,6 +2248,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '38.365144'
       long: "-97.785192"
+      closest_city:
+        name: McPherson
+        distance:
+          value: 10.89
+          units: km
     - region: KS
       exchange: '062790'
       name: Conway Springs
@@ -1666,6 +2261,11 @@ rate_centers:
       ilec_name: HAVILAND TEL. CO., INC.
       lat: '37.390126'
       long: "-97.644301"
+      closest_city:
+        name: Conway Springs
+        distance:
+          value: 0.12
+          units: km
     - region: KS
       exchange: '062800'
       name: Coolidge
@@ -1674,6 +2274,11 @@ rate_centers:
       ilec_name: PIONEER TEL. ASSN., INC.
       lat: '38.040437'
       long: "-102.018241"
+      closest_city:
+        name: Coolidge
+        distance:
+          value: 0.92
+          units: km
     - region: KS
       exchange: '062810'
       name: Copeland
@@ -1682,6 +2287,11 @@ rate_centers:
       ilec_name: UNITED TEL. ASSN., INC.
       lat: '37.543301'
       long: "-100.634809"
+      closest_city:
+        name: Copeland
+        distance:
+          value: 0.61
+          units: km
     - region: KS
       exchange: '062820'
       name: Corbin
@@ -1690,6 +2300,11 @@ rate_centers:
       ilec_name: KANOKLA TEL ASSN
       lat: '37.126548'
       long: "-97.551481"
+      closest_city:
+        name: Caldwell
+        distance:
+          value: 11.38
+          units: km
     - region: KS
       exchange: '062830'
       name: Corning
@@ -1698,6 +2313,11 @@ rate_centers:
       ilec_name: J.B.N. TEL. CO., INC.
       lat: '39.660125'
       long: "-96.023761"
+      closest_city:
+        name: Corning
+        distance:
+          value: 0.55
+          units: km
     - region: KS
       exchange: '332989'
       name: Corwin
@@ -1714,6 +2334,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '38.364429'
       long: "-96.539935"
+      closest_city:
+        name: Cottonwood Falls
+        distance:
+          value: 0.51
+          units: km
     - region: KS
       exchange: '062850'
       name: Council Grove
@@ -1722,6 +2347,11 @@ rate_centers:
       ilec_name: COUNCIL GROVE TEL. CO.
       lat: '38.666691'
       long: "-96.484312"
+      closest_city:
+        name: Council Grove
+        distance:
+          value: 0.8
+          units: km
     - region: KS
       exchange: '330748'
       name: Countryside
@@ -1738,6 +2368,11 @@ rate_centers:
       ilec_name: RURAL TEL. SERVICE CO., INC. DBA NEX-TECH
       lat: '39.782615'
       long: "-97.898565"
+      closest_city:
+        name: Courtland
+        distance:
+          value: 0.23
+          units: km
     - region: KS
       exchange: '333445'
       name: Covert
@@ -1754,6 +2389,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '37.683521'
       long: "-95.900369"
+      closest_city:
+        name: Coyville
+        distance:
+          value: 0.58
+          units: km
     - region: KS
       exchange: '330749'
       name: Craig
@@ -1770,6 +2410,11 @@ rate_centers:
       ilec_name: CRAW-KAN TEL. COOP.,INC. - KS
       lat: '37.17385'
       long: "-94.698667"
+      closest_city:
+        name: Crestline
+        distance:
+          value: 0.81
+          units: km
     - region: KS
       exchange: '332994'
       name: Croft
@@ -1794,6 +2439,11 @@ rate_centers:
       ilec_name: J.B.N. TEL. CO., INC.
       lat: '39.80268'
       long: "-97.459219"
+      closest_city:
+        name: Cuba
+        distance:
+          value: 0.14
+          units: km
     - region: KS
       exchange: '062900'
       name: Cullison
@@ -1802,6 +2452,11 @@ rate_centers:
       ilec_name: HAVILAND TEL. CO., INC.
       lat: '37.634808'
       long: "-98.89969"
+      closest_city:
+        name: Cullison
+        distance:
+          value: 0.71
+          units: km
     - region: KS
       exchange: '333447'
       name: Culver
@@ -1826,6 +2481,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '37.651332'
       long: "-98.43383"
+      closest_city:
+        name: Cunningham
+        distance:
+          value: 0.77
+          units: km
     - region: KS
       exchange: '062920'
       name: Damar
@@ -1834,6 +2494,11 @@ rate_centers:
       ilec_name: RURAL TEL. SERVICE CO., INC. DBA NEX-TECH
       lat: '39.315024'
       long: "-99.582427"
+      closest_city:
+        name: Damar
+        distance:
+          value: 0.49
+          units: km
     - region: KS
       exchange: '332998'
       name: Danville
@@ -1850,14 +2515,24 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '38.972976'
       long: "-94.97616"
+      closest_city:
+        name: De Soto
+        distance:
+          value: 1.9
+          units: km
     - region: KS
       exchange: '06293E'
       name: De Soto Metro
-      short_name:
+      short_name: De Soto Metro
       lata: '524'
       ilec_name: SOUTHWESTERN BELL
       lat: '38.972976'
       long: "-94.97616"
+      closest_city:
+        name: De Soto
+        distance:
+          value: 1.9
+          units: km
     - region: KS
       exchange: '332999'
       name: Dearing
@@ -1874,6 +2549,11 @@ rate_centers:
       ilec_name: PIONEER TEL. ASSN., INC.
       lat: '37.983618'
       long: "-101.133137"
+      closest_city:
+        name: Deerfield
+        distance:
+          value: 0.19
+          units: km
     - region: KS
       exchange: '062950'
       name: Delavan
@@ -1882,6 +2562,11 @@ rate_centers:
       ilec_name: TRI-COUNTY TEL. ASSN., INC.
       lat: '38.659505'
       long: "-96.804626"
+      closest_city:
+        name: Herington
+        distance:
+          value: 6.17
+          units: km
     - region: KS
       exchange: '062960'
       name: Delia
@@ -1890,6 +2575,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '39.250447'
       long: "-95.966572"
+      closest_city:
+        name: Delia
+        distance:
+          value: 1.23
+          units: km
     - region: KS
       exchange: '333451'
       name: Dellvale
@@ -1906,6 +2596,11 @@ rate_centers:
       ilec_name: TWIN VALLEY TEL., INC.
       lat: '39.274625'
       long: "-97.765832"
+      closest_city:
+        name: Delphos
+        distance:
+          value: 0.05
+          units: km
     - region: KS
       exchange: '062980'
       name: Denison
@@ -1914,6 +2609,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '39.392665'
       long: "-95.633594"
+      closest_city:
+        name: Denison
+        distance:
+          value: 0.46
+          units: km
     - region: KS
       exchange: '062990'
       name: Denmark
@@ -1922,6 +2622,11 @@ rate_centers:
       ilec_name: WILSON TEL. CO., INC.
       lat: '39.089339'
       long: "-98.283005"
+      closest_city:
+        name: Lincoln Center
+        distance:
+          value: 12.84
+          units: km
     - region: KS
       exchange: '333001'
       name: Dennis
@@ -1946,6 +2651,11 @@ rate_centers:
       ilec_name: RAINBOW TELECOMMUNICATIONS ASSOCIATION, INC.
       lat: '39.724179'
       long: "-95.266042"
+      closest_city:
+        name: Denton
+        distance:
+          value: 0.92
+          units: km
     - region: KS
       exchange: '063010'
       name: Derby
@@ -1954,6 +2664,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.549328'
       long: "-97.267412"
+      closest_city:
+        name: Derby
+        distance:
+          value: 1.39
+          units: km
     - region: KS
       exchange: '063020'
       name: Devon
@@ -1962,6 +2677,11 @@ rate_centers:
       ilec_name: CRAW-KAN TEL. COOP.,INC. - KS
       lat: '37.916739'
       long: "-94.819676"
+      closest_city:
+        name: Devon
+        distance:
+          value: 0.74
+          units: km
     - region: KS
       exchange: '063030'
       name: Dexter
@@ -1970,6 +2690,11 @@ rate_centers:
       ilec_name: SOUTHERN KANSAS TEL. CO., INC.
       lat: '37.182321'
       long: "-96.719138"
+      closest_city:
+        name: Dexter
+        distance:
+          value: 0.42
+          units: km
     - region: KS
       exchange: '333457'
       name: Diamond Springs
@@ -1986,6 +2711,11 @@ rate_centers:
       ilec_name: S & T TEL. COOP. ASSN.
       lat: '38.477199'
       long: "-100.460183"
+      closest_city:
+        name: Dighton
+        distance:
+          value: 0.68
+          units: km
     - region: KS
       exchange: '333006'
       name: Dillwyn
@@ -2002,6 +2732,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.758376'
       long: "-100.014898"
+      closest_city:
+        name: Dodge City
+        distance:
+          value: 0.42
+          units: km
     - region: KS
       exchange: '333458'
       name: Doniphan
@@ -2018,6 +2753,11 @@ rate_centers:
       ilec_name: H & B COMMUNICATIONS, INC.
       lat: '38.849528'
       long: "-98.589944"
+      closest_city:
+        name: Dorrance
+        distance:
+          value: 0.29
+          units: km
     - region: KS
       exchange: '063070'
       name: Douglass
@@ -2026,14 +2766,24 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.516633'
       long: "-97.010126"
+      closest_city:
+        name: Douglass
+        distance:
+          value: 0.04
+          units: km
     - region: KS
       exchange: 06307E
       name: Douglass Metro
-      short_name:
+      short_name: Douglass Metro
       lata: '532'
       ilec_name: SOUTHWESTERN BELL
       lat: '37.516633'
       long: "-97.010126"
+      closest_city:
+        name: Douglass
+        distance:
+          value: 0.04
+          units: km
     - region: KS
       exchange: '333460'
       name: Dover
@@ -2050,6 +2800,11 @@ rate_centers:
       ilec_name: RURAL TEL. SERVICE CO., INC. DBA NEX-TECH
       lat: '39.508537'
       long: "-98.53902"
+      closest_city:
+        name: Downs
+        distance:
+          value: 0.83
+          units: km
     - region: KS
       exchange: '333462'
       name: Dresden
@@ -2090,6 +2845,11 @@ rate_centers:
       ilec_name: TRI-COUNTY TEL. ASSN., INC.
       lat: '38.573983'
       long: "-96.367909"
+      closest_city:
+        name: Dunlap
+        distance:
+          value: 0.26
+          units: km
     - region: KS
       exchange: '333011'
       name: Duquoin
@@ -2106,6 +2866,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '38.482062'
       long: "-97.236174"
+      closest_city:
+        name: Durham
+        distance:
+          value: 0.86
+          units: km
     - region: KS
       exchange: '063110'
       name: Dwight
@@ -2114,6 +2879,11 @@ rate_centers:
       ilec_name: TRI-COUNTY TEL. ASSN., INC.
       lat: '38.848661'
       long: "-96.599009"
+      closest_city:
+        name: Dwight
+        distance:
+          value: 0.73
+          units: km
     - region: KS
       exchange: '333013'
       name: Earlton
@@ -2138,6 +2908,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '39.341695'
       long: "-95.114519"
+      closest_city:
+        name: Easton
+        distance:
+          value: 0.49
+          units: km
     - region: KS
       exchange: '063130'
       name: Edgerton
@@ -2146,14 +2921,24 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '38.765744'
       long: "-95.019032"
+      closest_city:
+        name: Edgerton
+        distance:
+          value: 4.25
+          units: km
     - region: KS
       exchange: 06313E
       name: Edgerton Metro
-      short_name:
+      short_name: Edgerton Metro
       lata: '524'
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '38.765744'
       long: "-95.019032"
+      closest_city:
+        name: Edgerton
+        distance:
+          value: 4.25
+          units: km
     - region: KS
       exchange: '063140'
       name: Edmond
@@ -2162,6 +2947,11 @@ rate_centers:
       ilec_name: RURAL TEL. SERVICE CO., INC. DBA NEX-TECH
       lat: '39.623613'
       long: "-99.815585"
+      closest_city:
+        name: Edmond
+        distance:
+          value: 0.54
+          units: km
     - region: KS
       exchange: '063150'
       name: Edna
@@ -2170,6 +2960,11 @@ rate_centers:
       ilec_name: CRAW-KAN TEL. COOP.,INC. - KS
       lat: '37.058943'
       long: "-95.359313"
+      closest_city:
+        name: Edna
+        distance:
+          value: 0.03
+          units: km
     - region: KS
       exchange: '333466'
       name: Edson
@@ -2194,6 +2989,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '39.516552'
       long: "-95.399011"
+      closest_city:
+        name: Effingham
+        distance:
+          value: 0.72
+          units: km
     - region: KS
       exchange: '063170'
       name: El Dorado
@@ -2202,14 +3002,24 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.817237'
       long: "-96.858085"
+      closest_city:
+        name: El Dorado
+        distance:
+          value: 0.5
+          units: km
     - region: KS
       exchange: 06317E
       name: El Dorado Metro
-      short_name:
+      short_name: El Dorado Metro
       lata: '532'
       ilec_name: SOUTHWESTERN BELL
       lat: '37.817237'
       long: "-96.858085"
+      closest_city:
+        name: El Dorado
+        distance:
+          value: 0.5
+          units: km
     - region: KS
       exchange: '333016'
       name: Elbing
@@ -2226,6 +3036,11 @@ rate_centers:
       ilec_name: TOTAH COMMUNICATIONS, INC.
       lat: '37.006088'
       long: "-96.275492"
+      closest_city:
+        name: Elgin
+        distance:
+          value: 0.65
+          units: km
     - region: KS
       exchange: '063190'
       name: Elk City
@@ -2234,6 +3049,11 @@ rate_centers:
       ilec_name: TOTAH COMMUNICATIONS, INC.
       lat: '37.290728'
       long: "-95.911191"
+      closest_city:
+        name: Elk City
+        distance:
+          value: 0.17
+          units: km
     - region: KS
       exchange: '063200'
       name: Elk Falls
@@ -2242,6 +3062,11 @@ rate_centers:
       ilec_name: SOUTHERN KANSAS TEL. CO., INC.
       lat: '37.374264'
       long: "-96.192112"
+      closest_city:
+        name: Elk Falls
+        distance:
+          value: 0.16
+          units: km
     - region: KS
       exchange: '333020'
       name: Elkader
@@ -2258,6 +3083,11 @@ rate_centers:
       ilec_name: ELKHART TEL. CO., INC.
       lat: '37.00105'
       long: "-101.901299"
+      closest_city:
+        name: Elkhart
+        distance:
+          value: 0.68
+          units: km
     - region: KS
       exchange: '063220'
       name: Ellinwood
@@ -2266,6 +3096,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF KANSAS DBA CENTURYLINK
       lat: '38.359723'
       long: "-98.576978"
+      closest_city:
+        name: Ellinwood
+        distance:
+          value: 0.64
+          units: km
     - region: KS
       exchange: '063230'
       name: Ellis
@@ -2274,6 +3109,11 @@ rate_centers:
       ilec_name: GOLDEN BELT TEL. ASSN., INC.
       lat: '38.932194'
       long: "-99.55596"
+      closest_city:
+        name: Ellis
+        distance:
+          value: 0.28
+          units: km
     - region: KS
       exchange: '063240'
       name: Ellsworth
@@ -2282,6 +3122,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '38.731404'
       long: "-98.232387"
+      closest_city:
+        name: Ellsworth
+        distance:
+          value: 0.37
+          units: km
     - region: KS
       exchange: '333023'
       name: Elmdale
@@ -2322,6 +3167,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '39.758588'
       long: "-94.884307"
+      closest_city:
+        name: Elwood
+        distance:
+          value: 0.84
+          units: km
     - region: KS
       exchange: '333025'
       name: Elyria
@@ -2338,6 +3188,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '39.308011'
       long: "-96.051204"
+      closest_city:
+        name: Emmett
+        distance:
+          value: 0.58
+          units: km
     - region: KS
       exchange: '063270'
       name: Emporia
@@ -2346,6 +3201,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '38.398061'
       long: "-96.181425"
+      closest_city:
+        name: Emporia
+        distance:
+          value: 1.15
+          units: km
     - region: KS
       exchange: '063280'
       name: Englewood
@@ -2354,6 +3214,11 @@ rate_centers:
       ilec_name: UNITED TEL. ASSN., INC.
       lat: '37.034265'
       long: "-99.98341"
+      closest_city:
+        name: Englewood
+        distance:
+          value: 0.79
+          units: km
     - region: KS
       exchange: '063290'
       name: Ensign
@@ -2362,6 +3227,11 @@ rate_centers:
       ilec_name: UNITED TEL. ASSN., INC.
       lat: '37.651463'
       long: "-100.223756"
+      closest_city:
+        name: Ensign
+        distance:
+          value: 0.83
+          units: km
     - region: KS
       exchange: '333472'
       name: Enterprise
@@ -2378,6 +3248,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.566892'
       long: "-95.240555"
+      closest_city:
+        name: Erie
+        distance:
+          value: 0.55
+          units: km
     - region: KS
       exchange: '063310'
       name: Esbon
@@ -2386,6 +3261,11 @@ rate_centers:
       ilec_name: RURAL TEL. SERVICE CO., INC. DBA NEX-TECH
       lat: '39.824308'
       long: "-98.433823"
+      closest_city:
+        name: Esbon
+        distance:
+          value: 0.27
+          units: km
     - region: KS
       exchange: '063320'
       name: Eskridge
@@ -2394,6 +3274,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF KANSAS DBA CENTURYLINK
       lat: '38.860745'
       long: "-96.109519"
+      closest_city:
+        name: Eskridge
+        distance:
+          value: 0.42
+          units: km
     - region: KS
       exchange: '063330'
       name: Eudora
@@ -2402,6 +3287,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '38.944317'
       long: "-95.100725"
+      closest_city:
+        name: Eudora
+        distance:
+          value: 1.18
+          units: km
     - region: KS
       exchange: '063340'
       name: Eureka
@@ -2410,6 +3300,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.822977'
       long: "-96.291721"
+      closest_city:
+        name: Eureka
+        distance:
+          value: 0.42
+          units: km
     - region: KS
       exchange: '063350'
       name: Everest
@@ -2418,6 +3313,11 @@ rate_centers:
       ilec_name: RAINBOW TELECOMMUNICATIONS ASSOCIATION, INC.
       lat: '39.675049'
       long: "-95.422245"
+      closest_city:
+        name: Everest
+        distance:
+          value: 0.31
+          units: km
     - region: KS
       exchange: '333477'
       name: Fairport
@@ -2434,6 +3334,11 @@ rate_centers:
       ilec_name: J.B.N. TEL. CO., INC.
       lat: '39.839915'
       long: "-95.726805"
+      closest_city:
+        name: Fairview
+        distance:
+          value: 0.12
+          units: km
     - region: KS
       exchange: '330758'
       name: Fairway
@@ -2450,6 +3355,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '37.610038'
       long: "-96.026343"
+      closest_city:
+        name: Fall River
+        distance:
+          value: 0.32
+          units: km
     - region: KS
       exchange: '333479'
       name: Falun
@@ -2474,6 +3384,11 @@ rate_centers:
       ilec_name: CRAW-KAN TEL. COOP.,INC. - KS
       lat: '37.617728'
       long: "-94.82993"
+      closest_city:
+        name: Farlington
+        distance:
+          value: 0.69
+          units: km
     - region: KS
       exchange: '330759'
       name: Farlinville
@@ -2498,6 +3413,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '38.242907'
       long: "-96.923529"
+      closest_city:
+        name: Florence
+        distance:
+          value: 0.47
+          units: km
     - region: KS
       exchange: '333481'
       name: Flush
@@ -2514,6 +3434,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '38.4236'
       long: "-94.842193"
+      closest_city:
+        name: Fontana
+        distance:
+          value: 0.17
+          units: km
     - region: KS
       exchange: '063410'
       name: Ford
@@ -2522,6 +3447,11 @@ rate_centers:
       ilec_name: UNITED TEL. ASSN., INC.
       lat: '37.63226'
       long: "-99.752463"
+      closest_city:
+        name: Ford
+        distance:
+          value: 0.5
+          units: km
     - region: KS
       exchange: '063420'
       name: Formoso
@@ -2530,6 +3460,11 @@ rate_centers:
       ilec_name: CUNNINGHAM TEL. CO., INC.
       lat: '39.775959'
       long: "-97.99147"
+      closest_city:
+        name: Formoso
+        distance:
+          value: 0.29
+          units: km
     - region: KS
       exchange: '333037'
       name: Fort Dodge
@@ -2562,6 +3497,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.841203'
       long: "-94.702695"
+      closest_city:
+        name: Fort Scott
+        distance:
+          value: 1.44
+          units: km
     - region: KS
       exchange: '333483'
       name: Fostoria
@@ -2578,6 +3518,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.382995'
       long: "-100.198241"
+      closest_city:
+        name: Fowler
+        distance:
+          value: 0.22
+          units: km
     - region: KS
       exchange: '063450'
       name: Frankfort
@@ -2586,6 +3531,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '39.700222'
       long: "-96.414363"
+      closest_city:
+        name: Frankfort
+        distance:
+          value: 0.46
+          units: km
     - region: KS
       exchange: '333040'
       name: Franklin
@@ -2602,6 +3552,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF KANSAS DBA CENTURYLINK
       lat: '37.532188'
       long: "-95.822879"
+      closest_city:
+        name: Fredonia
+        distance:
+          value: 0.1
+          units: km
     - region: KS
       exchange: '063470'
       name: Freeport
@@ -2610,6 +3565,11 @@ rate_centers:
       ilec_name: KANOKLA TEL ASSN
       lat: '37.199831'
       long: "-97.86129"
+      closest_city:
+        name: Danville
+        distance:
+          value: 9.96
+          units: km
     - region: KS
       exchange: '333043'
       name: Friend
@@ -2642,6 +3602,11 @@ rate_centers:
       ilec_name: CRAW-KAN TEL. COOP.,INC. - KS
       lat: '38.008364'
       long: "-94.719328"
+      closest_city:
+        name: Fulton
+        distance:
+          value: 0.16
+          units: km
     - region: KS
       exchange: '333047'
       name: Furley
@@ -2658,6 +3623,11 @@ rate_centers:
       ilec_name: RURAL TEL. SERVICE CO., INC. DBA NEX-TECH
       lat: '38.643142'
       long: "-98.959838"
+      closest_city:
+        name: Galatia
+        distance:
+          value: 0.29
+          units: km
     - region: KS
       exchange: '063500'
       name: Galena
@@ -2666,6 +3636,11 @@ rate_centers:
       ilec_name: EMBARQ MISSOURI, INC. DBA CENTURYLINK - KS
       lat: '37.073398'
       long: "-94.627588"
+      closest_city:
+        name: Galena
+        distance:
+          value: 0.72
+          units: km
     - region: KS
       exchange: '063510'
       name: Galesburg
@@ -2674,6 +3649,11 @@ rate_centers:
       ilec_name: CRAW-KAN TEL. COOP.,INC. - KS
       lat: '37.475942'
       long: "-95.357823"
+      closest_city:
+        name: Galesburg
+        distance:
+          value: 0.45
+          units: km
     - region: KS
       exchange: '063520'
       name: Galva
@@ -2682,6 +3662,11 @@ rate_centers:
       ilec_name: HOME TEL. CO., INC.
       lat: '38.384284'
       long: "-97.543356"
+      closest_city:
+        name: Galva
+        distance:
+          value: 0.46
+          units: km
     - region: KS
       exchange: '063530'
       name: Garden City
@@ -2690,6 +3675,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.974367'
       long: "-100.872434"
+      closest_city:
+        name: Garden City
+        distance:
+          value: 1.73
+          units: km
     - region: KS
       exchange: '063540'
       name: Garden Plain
@@ -2698,14 +3688,24 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.657307'
       long: "-97.686253"
+      closest_city:
+        name: Garden Plain
+        distance:
+          value: 0.86
+          units: km
     - region: KS
       exchange: 06354E
       name: Garden Plain Metro
-      short_name:
+      short_name: Garden Plain Metro
       lata: '532'
       ilec_name: SOUTHWESTERN BELL
       lat: '37.657307'
       long: "-97.686253"
+      closest_city:
+        name: Garden Plain
+        distance:
+          value: 0.86
+          units: km
     - region: KS
       exchange: '063550'
       name: Gardner
@@ -2714,14 +3714,24 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '38.809518'
       long: "-94.924802"
+      closest_city:
+        name: Gardner
+        distance:
+          value: 0.38
+          units: km
     - region: KS
       exchange: 06355E
       name: Gardner Metro
-      short_name:
+      short_name: Gardner Metro
       lata: '524'
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '38.809518'
       long: "-94.924802"
+      closest_city:
+        name: Gardner
+        distance:
+          value: 0.38
+          units: km
     - region: KS
       exchange: '063560'
       name: Garfield
@@ -2730,6 +3740,11 @@ rate_centers:
       ilec_name: GOLDEN BELT TEL. ASSN., INC.
       lat: '38.074365'
       long: "-99.243062"
+      closest_city:
+        name: Garfield
+        distance:
+          value: 0.32
+          units: km
     - region: KS
       exchange: '333055'
       name: Garland
@@ -2746,6 +3761,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF KANSAS DBA CENTURYLINK
       lat: '38.282246'
       long: "-95.242668"
+      closest_city:
+        name: Garnett
+        distance:
+          value: 0.3
+          units: km
     - region: KS
       exchange: '333056'
       name: Gas
@@ -2762,6 +3782,11 @@ rate_centers:
       ilec_name: RURAL TEL. SERVICE CO., INC. DBA NEX-TECH
       lat: '39.648829'
       long: "-98.845284"
+      closest_city:
+        name: Gaylord
+        distance:
+          value: 0.33
+          units: km
     - region: KS
       exchange: '333488'
       name: Gem
@@ -2778,6 +3803,11 @@ rate_centers:
       ilec_name: HOME TEL. CO., INC.
       lat: '38.514623'
       long: "-98.156813"
+      closest_city:
+        name: Geneseo
+        distance:
+          value: 0.33
+          units: km
     - region: KS
       exchange: '063600'
       name: Geuda Springs
@@ -2786,6 +3816,11 @@ rate_centers:
       ilec_name: KANOKLA TEL ASSN
       lat: '37.116939'
       long: "-97.148364"
+      closest_city:
+        name: Geuda Springs
+        distance:
+          value: 0.64
+          units: km
     - region: KS
       exchange: '063610'
       name: Girard
@@ -2794,6 +3829,11 @@ rate_centers:
       ilec_name: CRAW-KAN TEL. COOP.,INC. - KS
       lat: '37.508951'
       long: "-94.850789"
+      closest_city:
+        name: Girard
+        distance:
+          value: 0.46
+          units: km
     - region: KS
       exchange: '333489'
       name: Glade
@@ -2810,6 +3850,11 @@ rate_centers:
       ilec_name: TWIN VALLEY TEL., INC.
       lat: '39.359341'
       long: "-97.831269"
+      closest_city:
+        name: Glasco
+        distance:
+          value: 0.54
+          units: km
     - region: KS
       exchange: '063630'
       name: Glen Elder
@@ -2818,6 +3863,11 @@ rate_centers:
       ilec_name: CUNNINGHAM TEL. CO., INC.
       lat: '39.499054'
       long: "-98.30847"
+      closest_city:
+        name: Glen Elder
+        distance:
+          value: 0.2
+          units: km
     - region: KS
       exchange: '333492'
       name: Globe
@@ -2834,6 +3884,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.656919'
       long: "-97.574535"
+      closest_city:
+        name: Goddard
+        distance:
+          value: 1.46
+          units: km
     - region: KS
       exchange: '063650'
       name: Goessel
@@ -2842,6 +3897,11 @@ rate_centers:
       ilec_name: MOUNDRIDGE TEL. CO.
       lat: '38.248941'
       long: "-97.36643"
+      closest_city:
+        name: Goessel
+        distance:
+          value: 1.85
+          units: km
     - region: KS
       exchange: '063660'
       name: Goff
@@ -2850,6 +3910,11 @@ rate_centers:
       ilec_name: J.B.N. TEL. CO., INC.
       lat: '39.666976'
       long: "-95.936335"
+      closest_city:
+        name: Goff
+        distance:
+          value: 0.51
+          units: km
     - region: KS
       exchange: '063670'
       name: Goodland
@@ -2858,6 +3923,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '39.34078'
       long: "-101.707264"
+      closest_city:
+        name: Goodland
+        distance:
+          value: 1.09
+          units: km
     - region: KS
       exchange: '330763'
       name: Goodrich
@@ -2882,6 +3952,11 @@ rate_centers:
       ilec_name: GORHAM TEL. CO., INC.
       lat: '38.885353'
       long: "-99.025516"
+      closest_city:
+        name: Gorham
+        distance:
+          value: 0.55
+          units: km
     - region: KS
       exchange: '063690'
       name: Gove
@@ -2890,6 +3965,11 @@ rate_centers:
       ilec_name: RURAL TEL. SERVICE CO., INC. DBA NEX-TECH
       lat: '38.956258'
       long: "-100.484634"
+      closest_city:
+        name: Gove City
+        distance:
+          value: 0.42
+          units: km
     - region: KS
       exchange: '063700'
       name: Grainfield
@@ -2898,6 +3978,11 @@ rate_centers:
       ilec_name: RURAL TEL. SERVICE CO., INC. DBA NEX-TECH
       lat: '39.118412'
       long: "-100.466678"
+      closest_city:
+        name: Grainfield
+        distance:
+          value: 0.48
+          units: km
     - region: KS
       exchange: '333498'
       name: Grantville
@@ -2922,6 +4007,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '38.36751'
       long: "-98.766966"
+      closest_city:
+        name: Great Bend
+        distance:
+          value: 3.15
+          units: km
     - region: KS
       exchange: '063720'
       name: Greeley
@@ -2930,6 +4020,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '38.366351'
       long: "-95.133895"
+      closest_city:
+        name: Greeley
+        distance:
+          value: 0.6
+          units: km
     - region: KS
       exchange: '063730'
       name: Green
@@ -2938,6 +4033,11 @@ rate_centers:
       ilec_name: TWIN VALLEY TEL., INC.
       lat: '39.425728'
       long: "-97.000433"
+      closest_city:
+        name: Green
+        distance:
+          value: 0.49
+          units: km
     - region: KS
       exchange: '063740'
       name: Greenleaf
@@ -2946,6 +4046,11 @@ rate_centers:
       ilec_name: TWIN VALLEY TEL., INC.
       lat: '39.725641'
       long: "-96.985765"
+      closest_city:
+        name: Greenleaf
+        distance:
+          value: 0.53
+          units: km
     - region: KS
       exchange: '063750'
       name: Greensburg
@@ -2954,6 +4059,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.608385'
       long: "-99.288872"
+      closest_city:
+        name: Greensburg
+        distance:
+          value: 0.39
+          units: km
     - region: KS
       exchange: '333066'
       name: Greenwich
@@ -2970,6 +4080,11 @@ rate_centers:
       ilec_name: SOUTHERN KANSAS TEL. CO., INC.
       lat: '37.348623'
       long: "-96.448183"
+      closest_city:
+        name: Grenola
+        distance:
+          value: 0.25
+          units: km
     - region: KS
       exchange: '063770'
       name: Gridley
@@ -2978,6 +4093,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '38.099433'
       long: "-95.883532"
+      closest_city:
+        name: Gridley
+        distance:
+          value: 0.16
+          units: km
     - region: KS
       exchange: '063780'
       name: Grinnell
@@ -2986,6 +4106,11 @@ rate_centers:
       ilec_name: S & T TEL. COOP. ASSN.
       lat: '39.125539'
       long: "-100.632656"
+      closest_city:
+        name: Grinnell
+        distance:
+          value: 0.18
+          units: km
     - region: KS
       exchange: '333069'
       name: Gross
@@ -3018,6 +4143,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '38.706104'
       long: "-97.425527"
+      closest_city:
+        name: Gypsum
+        distance:
+          value: 0.1
+          units: km
     - region: KS
       exchange: '063800'
       name: Haddam
@@ -3026,6 +4156,11 @@ rate_centers:
       ilec_name: J.B.N. TEL. CO., INC.
       lat: '39.858855'
       long: "-97.301997"
+      closest_city:
+        name: Haddam
+        distance:
+          value: 0.45
+          units: km
     - region: KS
       exchange: '333071'
       name: Haggard
@@ -3050,6 +4185,11 @@ rate_centers:
       ilec_name: CRAW-KAN TEL. COOP.,INC. - KS
       lat: '37.176475'
       long: "-94.997506"
+      closest_city:
+        name: Hallowell
+        distance:
+          value: 0.58
+          units: km
     - region: KS
       exchange: '333073'
       name: Halls Summit
@@ -3066,14 +4206,24 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '38.008758'
       long: "-97.50555"
+      closest_city:
+        name: Halstead
+        distance:
+          value: 1.07
+          units: km
     - region: KS
       exchange: '06382E'
       name: Halstead Metro
-      short_name:
+      short_name: Halstead Metro
       lata: '532'
       ilec_name: SOUTHWESTERN BELL
       lat: '38.008758'
       long: "-97.50555"
+      closest_city:
+        name: Halstead
+        distance:
+          value: 1.07
+          units: km
     - region: KS
       exchange: '063830'
       name: Hamilton
@@ -3082,6 +4232,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.981857'
       long: "-96.16536"
+      closest_city:
+        name: Hamilton
+        distance:
+          value: 0.2
+          units: km
     - region: KS
       exchange: '333507'
       name: Hamlin
@@ -3114,6 +4269,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '39.89043'
       long: "-96.87411"
+      closest_city:
+        name: Hanover
+        distance:
+          value: 0.35
+          units: km
     - region: KS
       exchange: '063850'
       name: Hanston
@@ -3122,6 +4282,11 @@ rate_centers:
       ilec_name: UNITED TEL. ASSN., INC.
       lat: '38.123301'
       long: "-99.710434"
+      closest_city:
+        name: Hanston
+        distance:
+          value: 0.2
+          units: km
     - region: KS
       exchange: '063860'
       name: Hardtner
@@ -3130,6 +4295,11 @@ rate_centers:
       ilec_name: KANOKLA TEL ASSN
       lat: '37.018465'
       long: "-98.650257"
+      closest_city:
+        name: Hardtner
+        distance:
+          value: 0.46
+          units: km
     - region: KS
       exchange: '333510'
       name: Harlan
@@ -3146,6 +4316,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.29153'
       long: "-98.026553"
+      closest_city:
+        name: Harper
+        distance:
+          value: 0.72
+          units: km
     - region: KS
       exchange: '333511'
       name: Harris
@@ -3162,6 +4337,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '38.309113'
       long: "-95.956292"
+      closest_city:
+        name: Hartford
+        distance:
+          value: 0.08
+          units: km
     - region: KS
       exchange: '063890'
       name: Harveyville
@@ -3170,6 +4350,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '38.794035'
       long: "-95.966604"
+      closest_city:
+        name: Harveyville
+        distance:
+          value: 0.61
+          units: km
     - region: KS
       exchange: '063900'
       name: Havana
@@ -3178,6 +4363,11 @@ rate_centers:
       ilec_name: TOTAH COMMUNICATIONS, INC.
       lat: '37.100178'
       long: "-95.941492"
+      closest_city:
+        name: Havana
+        distance:
+          value: 0.9
+          units: km
     - region: KS
       exchange: '063910'
       name: Haven
@@ -3186,6 +4376,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF KANSAS DBA CENTURYLINK
       lat: '37.907816'
       long: "-97.786637"
+      closest_city:
+        name: Haven
+        distance:
+          value: 0.76
+          units: km
     - region: KS
       exchange: '063920'
       name: Havensville
@@ -3194,6 +4389,11 @@ rate_centers:
       ilec_name: J.B.N. TEL. CO., INC.
       lat: '39.499122'
       long: "-96.084092"
+      closest_city:
+        name: Havensville
+        distance:
+          value: 1.53
+          units: km
     - region: KS
       exchange: '333083'
       name: Haverhill
@@ -3210,6 +4410,11 @@ rate_centers:
       ilec_name: HAVILAND TEL. CO., INC.
       lat: '37.616075'
       long: "-99.100085"
+      closest_city:
+        name: Haviland
+        distance:
+          value: 0.53
+          units: km
     - region: KS
       exchange: '063940'
       name: Hays
@@ -3218,6 +4423,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '38.874896'
       long: "-99.325763"
+      closest_city:
+        name: Hays
+        distance:
+          value: 0.86
+          units: km
     - region: KS
       exchange: '333085'
       name: Haysville
@@ -3234,6 +4444,11 @@ rate_centers:
       ilec_name: SOUTH CENTRAL TEL ASSN INC
       lat: '37.090273'
       long: "-98.400994"
+      closest_city:
+        name: Hazelton
+        distance:
+          value: 0.11
+          units: km
     - region: KS
       exchange: '063960'
       name: Healy
@@ -3242,6 +4457,11 @@ rate_centers:
       ilec_name: S & T TEL. COOP. ASSN.
       lat: '38.599847'
       long: "-100.615837"
+      closest_city:
+        name: Healy
+        distance:
+          value: 0.38
+          units: km
     - region: KS
       exchange: '333088'
       name: Heizer
@@ -3258,6 +4478,11 @@ rate_centers:
       ilec_name: CRAW-KAN TEL. COOP.,INC. - KS
       lat: '37.659094'
       long: "-94.964994"
+      closest_city:
+        name: Hepler
+        distance:
+          value: 0.66
+          units: km
     - region: KS
       exchange: '063980'
       name: Herington
@@ -3266,6 +4491,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '38.67359'
       long: "-96.942878"
+      closest_city:
+        name: Herington
+        distance:
+          value: 6.74
+          units: km
     - region: KS
       exchange: '333516'
       name: Herkimer
@@ -3282,6 +4512,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '39.898966'
       long: "-100.782824"
+      closest_city:
+        name: Herndon
+        distance:
+          value: 1.18
+          units: km
     - region: KS
       exchange: '064000'
       name: Hesston
@@ -3290,6 +4525,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '38.140483'
       long: "-97.433418"
+      closest_city:
+        name: Hesston
+        distance:
+          value: 0.56
+          units: km
     - region: KS
       exchange: '064010'
       name: Hewins
@@ -3298,6 +4538,11 @@ rate_centers:
       ilec_name: TOTAH COMMUNICATIONS, INC.
       lat: '37.039701'
       long: "-96.407116"
+      closest_city:
+        name: Cedar Vale
+        distance:
+          value: 11.18
+          units: km
     - region: KS
       exchange: '064020'
       name: Hiattville
@@ -3306,6 +4551,11 @@ rate_centers:
       ilec_name: CRAW-KAN TEL. COOP.,INC. - KS
       lat: '37.723511'
       long: "-94.873641"
+      closest_city:
+        name: Hepler
+        distance:
+          value: 10.75
+          units: km
     - region: KS
       exchange: '064030'
       name: Hiawatha
@@ -3314,6 +4564,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF KANSAS DBA CENTURYLINK
       lat: '39.853771'
       long: "-95.538109"
+      closest_city:
+        name: Hiawatha
+        distance:
+          value: 0.21
+          units: km
     - region: KS
       exchange: '333093'
       name: Hickok
@@ -3330,6 +4585,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF KANSAS DBA CENTURYLINK
       lat: '39.859071'
       long: "-95.263128"
+      closest_city:
+        name: Highland
+        distance:
+          value: 0.2
+          units: km
     - region: KS
       exchange: '064050'
       name: Hill City
@@ -3338,6 +4598,11 @@ rate_centers:
       ilec_name: RURAL TEL. SERVICE CO., INC. DBA NEX-TECH
       lat: '39.366694'
       long: "-99.848226"
+      closest_city:
+        name: Hill City
+        distance:
+          value: 0.19
+          units: km
     - region: KS
       exchange: '064060'
       name: Hillsboro
@@ -3346,6 +4611,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF KANSAS DBA CENTURYLINK
       lat: '38.355726'
       long: "-97.199461"
+      closest_city:
+        name: Hillsboro
+        distance:
+          value: 0.34
+          units: km
     - region: KS
       exchange: '064070'
       name: Hillsdale
@@ -3354,6 +4624,11 @@ rate_centers:
       ilec_name: MO-KAN DIAL INC
       lat: '38.667894'
       long: "-94.848943"
+      closest_city:
+        name: Hillsdale
+        distance:
+          value: 1.14
+          units: km
     - region: KS
       exchange: '064080'
       name: Hoisington
@@ -3362,6 +4637,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '38.518684'
       long: "-98.775436"
+      closest_city:
+        name: Hoisington
+        distance:
+          value: 0.18
+          units: km
     - region: KS
       exchange: '063531'
       name: Holcomb
@@ -3394,6 +4674,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF KANSAS DBA CENTURYLINK
       lat: '39.466155'
       long: "-95.73539"
+      closest_city:
+        name: Holton
+        distance:
+          value: 0.51
+          units: km
     - region: KS
       exchange: '064100'
       name: Holyrood
@@ -3402,6 +4687,11 @@ rate_centers:
       ilec_name: H & B COMMUNICATIONS, INC.
       lat: '38.59122'
       long: "-98.407988"
+      closest_city:
+        name: Holyrood
+        distance:
+          value: 0.53
+          units: km
     - region: KS
       exchange: '064110'
       name: Home
@@ -3410,6 +4700,11 @@ rate_centers:
       ilec_name: BLUE VALLEY TELE-COMMUNICATIONS, INC.
       lat: '39.840961'
       long: "-96.526608"
+      closest_city:
+        name: Home
+        distance:
+          value: 0.58
+          units: km
     - region: KS
       exchange: '333525'
       name: Homer
@@ -3426,6 +4721,11 @@ rate_centers:
       ilec_name: TRI-COUNTY TEL. ASSN., INC.
       lat: '38.690081'
       long: "-97.073548"
+      closest_city:
+        name: Hope
+        distance:
+          value: 0.28
+          units: km
     - region: KS
       exchange: '333097'
       name: Hopewell
@@ -3450,6 +4750,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF KANSAS DBA CENTURYLINK
       lat: '39.667916'
       long: "-95.52301"
+      closest_city:
+        name: Horton
+        distance:
+          value: 0.96
+          units: km
     - region: KS
       exchange: '064140'
       name: Howard
@@ -3458,6 +4763,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.46945'
       long: "-96.267791"
+      closest_city:
+        name: Howard
+        distance:
+          value: 0.41
+          units: km
     - region: KS
       exchange: '333100'
       name: Howell
@@ -3474,6 +4784,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '39.352139'
       long: "-100.440851"
+      closest_city:
+        name: Hoxie
+        distance:
+          value: 0.42
+          units: km
     - region: KS
       exchange: '064160'
       name: Hoyt
@@ -3482,6 +4797,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '39.251819'
       long: "-95.709497"
+      closest_city:
+        name: Hoyt
+        distance:
+          value: 0.31
+          units: km
     - region: KS
       exchange: '064170'
       name: Hudson
@@ -3490,6 +4810,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '38.107621'
       long: "-98.661267"
+      closest_city:
+        name: Hudson
+        distance:
+          value: 0.3
+          units: km
     - region: KS
       exchange: '064180'
       name: Hugoton
@@ -3498,6 +4823,11 @@ rate_centers:
       ilec_name: PIONEER TEL. ASSN., INC.
       lat: '37.181085'
       long: "-101.350346"
+      closest_city:
+        name: Hugoton
+        distance:
+          value: 0.89
+          units: km
     - region: KS
       exchange: '064190'
       name: Humboldt
@@ -3506,6 +4836,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.805649'
       long: "-95.440443"
+      closest_city:
+        name: Humboldt
+        distance:
+          value: 0.84
+          units: km
     - region: KS
       exchange: '333104'
       name: Hunnewell
@@ -3522,6 +4857,11 @@ rate_centers:
       ilec_name: WILSON TEL. CO., INC.
       lat: '39.241207'
       long: "-98.391607"
+      closest_city:
+        name: Hunter
+        distance:
+          value: 0.8
+          units: km
     - region: KS
       exchange: '333105'
       name: Huntsville
@@ -3538,6 +4878,11 @@ rate_centers:
       ilec_name: RAINBOW TELECOMMUNICATIONS ASSOCIATION, INC.
       lat: '39.630964'
       long: "-95.349446"
+      closest_city:
+        name: Huron
+        distance:
+          value: 0.84
+          units: km
     - region: KS
       exchange: '333532'
       name: Huscher
@@ -3554,6 +4899,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '38.055674'
       long: "-97.925817"
+      closest_city:
+        name: Hutchinson
+        distance:
+          value: 2.01
+          units: km
     - region: KS
       exchange: '333533'
       name: Idana
@@ -3570,6 +4920,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.223003'
       long: "-95.709562"
+      closest_city:
+        name: Independence
+        distance:
+          value: 2.39
+          units: km
     - region: KS
       exchange: '333534'
       name: Industry
@@ -3586,6 +4941,11 @@ rate_centers:
       ilec_name: UNITED TEL. ASSN., INC.
       lat: '37.825637'
       long: "-100.452565"
+      closest_city:
+        name: Ingalls
+        distance:
+          value: 0.35
+          units: km
     - region: KS
       exchange: '064250'
       name: Inman
@@ -3594,6 +4954,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '38.235438'
       long: "-97.76813"
+      closest_city:
+        name: Inman
+        distance:
+          value: 0.46
+          units: km
     - region: KS
       exchange: '064260'
       name: Iola
@@ -3602,6 +4967,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.925526'
       long: "-95.408215"
+      closest_city:
+        name: Iola
+        distance:
+          value: 0.7
+          units: km
     - region: KS
       exchange: '064270'
       name: Ionia
@@ -3610,6 +4980,11 @@ rate_centers:
       ilec_name: RURAL TEL. SERVICE CO., INC. DBA NEX-TECH
       lat: '39.660209'
       long: "-98.349428"
+      closest_city:
+        name: Ionia
+        distance:
+          value: 0.54
+          units: km
     - region: KS
       exchange: '333536'
       name: Iowa Point
@@ -3626,6 +5001,11 @@ rate_centers:
       ilec_name: HAVILAND TEL. CO., INC.
       lat: '37.467736'
       long: "-98.546808"
+      closest_city:
+        name: Isabel
+        distance:
+          value: 0.42
+          units: km
     - region: KS
       exchange: '064290'
       name: Iuka
@@ -3634,6 +5014,11 @@ rate_centers:
       ilec_name: SOUTH CENTRAL TEL ASSN INC
       lat: '37.733509'
       long: "-98.735107"
+      closest_city:
+        name: Iuka
+        distance:
+          value: 0.54
+          units: km
     - region: KS
       exchange: '064300'
       name: Jamestown
@@ -3642,6 +5027,11 @@ rate_centers:
       ilec_name: CUNNINGHAM TEL. CO., INC.
       lat: '39.60069'
       long: "-97.856211"
+      closest_city:
+        name: Jamestown
+        distance:
+          value: 0.45
+          units: km
     - region: KS
       exchange: '330766'
       name: Jarbalo
@@ -3666,6 +5056,11 @@ rate_centers:
       ilec_name: RURAL TEL. SERVICE CO., INC. DBA NEX-TECH
       lat: '39.674382'
       long: "-100.291689"
+      closest_city:
+        name: Jennings
+        distance:
+          value: 0.71
+          units: km
     - region: KS
       exchange: '064320'
       name: Jetmore
@@ -3674,6 +5069,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF KANSAS COMPANY
       lat: '38.082146'
       long: "-99.890668"
+      closest_city:
+        name: Jetmore
+        distance:
+          value: 6.02
+          units: km
     - region: KS
       exchange: '064330'
       name: Jewell
@@ -3682,6 +5082,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '39.676666'
       long: "-98.156276"
+      closest_city:
+        name: Jewell
+        distance:
+          value: 0.66
+          units: km
     - region: KS
       exchange: '064340'
       name: Johnson
@@ -3690,6 +5095,11 @@ rate_centers:
       ilec_name: PIONEER TEL. ASSN., INC.
       lat: '37.56792'
       long: "-101.755947"
+      closest_city:
+        name: Johnson City
+        distance:
+          value: 1.03
+          units: km
     - region: KS
       exchange: '333116'
       name: Joy
@@ -3706,6 +5116,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF KANSAS DBA CENTURYLINK
       lat: '39.027453'
       long: "-96.830377"
+      closest_city:
+        name: Junction City
+        distance:
+          value: 1.76
+          units: km
     - region: KS
       exchange: '333541'
       name: Kackley
@@ -3746,6 +5161,11 @@ rate_centers:
       ilec_name: S & T TEL. COOP. ASSN.
       lat: '39.335074'
       long: "-102.035024"
+      closest_city:
+        name: Kanorado
+        distance:
+          value: 0.26
+          units: km
     - region: KS
       exchange: '064370'
       name: Kansas City
@@ -3754,6 +5174,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '39.114735'
       long: "-94.634764"
+      closest_city:
+        name: Westwood
+        distance:
+          value: 8.54
+          units: km
     - region: KS
       exchange: '333545'
       name: Keats
@@ -3770,6 +5195,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.800351'
       long: "-97.272571"
+      closest_city:
+        name: Kechi
+        distance:
+          value: 2.95
+          units: km
     - region: KS
       exchange: '333546'
       name: Keene
@@ -3794,6 +5224,11 @@ rate_centers:
       ilec_name: PIONEER TEL. ASSN., INC.
       lat: '37.932046'
       long: "-101.530854"
+      closest_city:
+        name: Syracuse
+        distance:
+          value: 21.94
+          units: km
     - region: KS
       exchange: '064400'
       name: Kensington
@@ -3802,6 +5237,11 @@ rate_centers:
       ilec_name: RURAL TEL. SERVICE CO., INC. DBA NEX-TECH
       lat: '39.76879'
       long: "-99.03496"
+      closest_city:
+        name: Kensington
+        distance:
+          value: 0.29
+          units: km
     - region: KS
       exchange: '333120'
       name: Kimbal
@@ -3818,6 +5258,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF KANSAS DBA CENTURYLINK
       lat: '38.083096'
       long: "-95.159788"
+      closest_city:
+        name: Kincaid
+        distance:
+          value: 0.44
+          units: km
     - region: KS
       exchange: '064420'
       name: Kingman
@@ -3826,6 +5271,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.648428'
       long: "-98.119068"
+      closest_city:
+        name: Kingman
+        distance:
+          value: 0.21
+          units: km
     - region: KS
       exchange: '333123'
       name: Kingsdown
@@ -3842,6 +5292,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.918031'
       long: "-99.415791"
+      closest_city:
+        name: Kinsley
+        distance:
+          value: 0.62
+          units: km
     - region: KS
       exchange: '064440'
       name: Kiowa
@@ -3850,6 +5305,11 @@ rate_centers:
       ilec_name: SOUTH CENTRAL TEL ASSN INC
       lat: '37.017089'
       long: "-98.485151"
+      closest_city:
+        name: Kiowa
+        distance:
+          value: 0.05
+          units: km
     - region: KS
       exchange: '333549'
       name: Kiro
@@ -3882,6 +5342,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '38.531508'
       long: "-99.300924"
+      closest_city:
+        name: La Crosse
+        distance:
+          value: 0.75
+          units: km
     - region: KS
       exchange: '064460'
       name: La Cygne
@@ -3890,6 +5355,11 @@ rate_centers:
       ilec_name: PEOPLES TELECOMMUNICATIONS, LLC - KS
       lat: '38.35241'
       long: "-94.766541"
+      closest_city:
+        name: La Cygne
+        distance:
+          value: 0.68
+          units: km
     - region: KS
       exchange: '064470'
       name: La Harpe
@@ -3898,6 +5368,11 @@ rate_centers:
       ilec_name: LA HARPE TEL. CO., INC.
       lat: '37.918638'
       long: "-95.298411"
+      closest_city:
+        name: La Harpe
+        distance:
+          value: 0.41
+          units: km
     - region: KS
       exchange: '333128'
       name: Labette
@@ -3922,6 +5397,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '37.398294'
       long: "-95.842747"
+      closest_city:
+        name: Lafontaine
+        distance:
+          value: 0.24
+          units: km
     - region: KS
       exchange: '333553'
       name: Laird
@@ -3938,6 +5418,11 @@ rate_centers:
       ilec_name: SOUTH CENTRAL TEL ASSN INC
       lat: '37.359331'
       long: "-98.808243"
+      closest_city:
+        name: Lake City
+        distance:
+          value: 1.76
+          units: km
     - region: KS
       exchange: '330777'
       name: Lake Of The Forest
@@ -3962,6 +5447,11 @@ rate_centers:
       ilec_name: PIONEER TEL. ASSN., INC.
       lat: '37.939658'
       long: "-101.257119"
+      closest_city:
+        name: Lakin
+        distance:
+          value: 0.13
+          units: km
     - region: KS
       exchange: '333554'
       name: Lamar
@@ -3986,14 +5476,24 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '39.575214'
       long: "-95.302467"
+      closest_city:
+        name: Lancaster
+        distance:
+          value: 0.48
+          units: km
     - region: KS
       exchange: 06451E
       name: Lancaster Metro
-      short_name:
+      short_name: Lancaster Metro
       lata: '524'
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '39.575214'
       long: "-95.302467"
+      closest_city:
+        name: Lancaster
+        distance:
+          value: 0.48
+          units: km
     - region: KS
       exchange: '064520'
       name: Lane
@@ -4002,6 +5502,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '38.435097'
       long: "-95.084005"
+      closest_city:
+        name: Lane
+        distance:
+          value: 0.55
+          units: km
     - region: KS
       exchange: '064530'
       name: Langdon
@@ -4010,6 +5515,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '37.857084'
       long: "-98.328136"
+      closest_city:
+        name: Langdon
+        distance:
+          value: 0.56
+          units: km
     - region: KS
       exchange: '333556'
       name: Langley
@@ -4042,6 +5552,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '38.182774'
       long: "-99.092258"
+      closest_city:
+        name: Larned
+        distance:
+          value: 0.78
+          units: km
     - region: KS
       exchange: '064550'
       name: Latham
@@ -4050,6 +5565,11 @@ rate_centers:
       ilec_name: SOUTHERN KANSAS TEL. CO., INC.
       lat: '37.531915'
       long: "-96.64116"
+      closest_city:
+        name: Latham
+        distance:
+          value: 0.44
+          units: km
     - region: KS
       exchange: '333558'
       name: Latimer
@@ -4066,6 +5586,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '38.966525'
       long: "-95.242273"
+      closest_city:
+        name: Lawrence
+        distance:
+          value: 2.04
+          units: km
     - region: KS
       exchange: '064570'
       name: Lawton
@@ -4074,6 +5599,11 @@ rate_centers:
       ilec_name: CRAW-KAN TEL. COOP.,INC. - MO
       lat: '37.226581'
       long: "-94.632691"
+      closest_city:
+        name: Crestline
+        distance:
+          value: 9.07
+          units: km
     - region: KS
       exchange: '064580'
       name: Leavenworth
@@ -4082,14 +5612,24 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '39.309599'
       long: "-94.913203"
+      closest_city:
+        name: Leavenworth
+        distance:
+          value: 1.84
+          units: km
     - region: KS
       exchange: '06458E'
       name: Leavenworth Metro
-      short_name:
+      short_name: Leavenworth Metro
       lata: '524'
       ilec_name: SOUTHWESTERN BELL
       lat: '39.309599'
       long: "-94.913203"
+      closest_city:
+        name: Leavenworth
+        distance:
+          value: 1.84
+          units: km
     - region: KS
       exchange: '330772'
       name: Leawood
@@ -4106,6 +5646,11 @@ rate_centers:
       ilec_name: RURAL TEL. SERVICE CO., INC. DBA NEX-TECH
       lat: '39.809209'
       long: "-98.549844"
+      closest_city:
+        name: Lebanon
+        distance:
+          value: 0.64
+          units: km
     - region: KS
       exchange: '064600'
       name: Lebo
@@ -4114,6 +5659,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '38.41633'
       long: "-95.855452"
+      closest_city:
+        name: Lebo
+        distance:
+          value: 0.59
+          units: km
     - region: KS
       exchange: '064610'
       name: Lecompton
@@ -4122,6 +5672,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '39.039537'
       long: "-95.401127"
+      closest_city:
+        name: Lecompton
+        distance:
+          value: 0.82
+          units: km
     - region: KS
       exchange: '064620'
       name: Lehigh
@@ -4130,6 +5685,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '38.373684'
       long: "-97.303573"
+      closest_city:
+        name: Lehigh
+        distance:
+          value: 0.13
+          units: km
     - region: KS
       exchange: '330773'
       name: Lenape
@@ -4154,6 +5714,11 @@ rate_centers:
       ilec_name: RURAL TEL. SERVICE CO., INC. DBA NEX-TECH
       lat: '39.607156'
       long: "-100.000535"
+      closest_city:
+        name: Lenora
+        distance:
+          value: 0.42
+          units: km
     - region: KS
       exchange: '064640'
       name: Leon
@@ -4162,14 +5727,24 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.693228'
       long: "-96.783656"
+      closest_city:
+        name: Leon
+        distance:
+          value: 0.38
+          units: km
     - region: KS
       exchange: 06464E
       name: Leon Metro
-      short_name:
+      short_name: Leon Metro
       lata: '532'
       ilec_name: SOUTHWESTERN BELL
       lat: '37.693228'
       long: "-96.783656"
+      closest_city:
+        name: Leon
+        distance:
+          value: 0.38
+          units: km
     - region: KS
       exchange: '333563'
       name: Leona
@@ -4186,6 +5761,11 @@ rate_centers:
       ilec_name: TWIN VALLEY TEL., INC.
       lat: '39.36789'
       long: "-96.864279"
+      closest_city:
+        name: Leonardville
+        distance:
+          value: 0.57
+          units: km
     - region: KS
       exchange: '064660'
       name: Leoti
@@ -4194,6 +5774,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF KANSAS COMPANY
       lat: '38.482117'
       long: "-101.357454"
+      closest_city:
+        name: Leoti
+        distance:
+          value: 0.15
+          units: km
     - region: KS
       exchange: '333565'
       name: Leoville
@@ -4210,6 +5795,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '38.081782'
       long: "-95.63426"
+      closest_city:
+        name: LeRoy
+        distance:
+          value: 0.51
+          units: km
     - region: KS
       exchange: '064680'
       name: Levant
@@ -4218,6 +5808,11 @@ rate_centers:
       ilec_name: S & T TEL. COOP. ASSN.
       lat: '39.365726'
       long: "-101.201129"
+      closest_city:
+        name: Levant
+        distance:
+          value: 2.55
+          units: km
     - region: KS
       exchange: '064690'
       name: Lewis
@@ -4226,6 +5821,11 @@ rate_centers:
       ilec_name: GOLDEN BELT TEL. ASSN., INC.
       lat: '37.932419'
       long: "-99.247956"
+      closest_city:
+        name: Lewis
+        distance:
+          value: 0.78
+          units: km
     - region: KS
       exchange: '064700'
       name: Liberal
@@ -4234,6 +5834,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.041226'
       long: "-100.924855"
+      closest_city:
+        name: Liberal
+        distance:
+          value: 0.73
+          units: km
     - region: KS
       exchange: '064710'
       name: Liberty
@@ -4242,6 +5847,11 @@ rate_centers:
       ilec_name: TOTAH COMMUNICATIONS, INC.
       lat: '37.156227'
       long: "-95.601109"
+      closest_city:
+        name: Liberty
+        distance:
+          value: 0.3
+          units: km
     - region: KS
       exchange: '333567'
       name: Liebenthal
@@ -4266,6 +5876,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '39.049309'
       long: "-98.151033"
+      closest_city:
+        name: Lincoln Center
+        distance:
+          value: 0.79
+          units: km
     - region: KS
       exchange: '064730'
       name: Lincolnville
@@ -4274,6 +5889,11 @@ rate_centers:
       ilec_name: TRI-COUNTY TEL. ASSN., INC.
       lat: '38.491404'
       long: "-96.966678"
+      closest_city:
+        name: Lincolnville
+        distance:
+          value: 0.57
+          units: km
     - region: KS
       exchange: '064740'
       name: Lindsborg
@@ -4282,6 +5902,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '38.574582'
       long: "-97.674475"
+      closest_city:
+        name: Lindsborg
+        distance:
+          value: 0.32
+          units: km
     - region: KS
       exchange: '064750'
       name: Linn
@@ -4290,6 +5915,11 @@ rate_centers:
       ilec_name: BLUE VALLEY TELE-COMMUNICATIONS, INC.
       lat: '39.681909'
       long: "-97.085441"
+      closest_city:
+        name: Linn
+        distance:
+          value: 0.32
+          units: km
     - region: KS
       exchange: '330775'
       name: Linn Valley
@@ -4306,14 +5936,24 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '39.001509'
       long: "-95.031046"
+      closest_city:
+        name: Linwood
+        distance:
+          value: 0.45
+          units: km
     - region: KS
       exchange: 06476E
       name: Linwood Metro
-      short_name:
+      short_name: Linwood Metro
       lata: '524'
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '39.001509'
       long: "-95.031046"
+      closest_city:
+        name: Linwood
+        distance:
+          value: 0.45
+          units: km
     - region: KS
       exchange: '064770'
       name: Little River
@@ -4322,6 +5962,11 @@ rate_centers:
       ilec_name: MUTUAL TEL. CO.
       lat: '38.402298'
       long: "-98.017682"
+      closest_city:
+        name: Little River
+        distance:
+          value: 0.51
+          units: km
     - region: KS
       exchange: '064780'
       name: Logan
@@ -4330,6 +5975,11 @@ rate_centers:
       ilec_name: RURAL TEL. SERVICE CO., INC. DBA NEX-TECH
       lat: '39.666042'
       long: "-99.567318"
+      closest_city:
+        name: Logan
+        distance:
+          value: 0.48
+          units: km
     - region: KS
       exchange: '333573'
       name: Lone Star
@@ -4346,6 +5996,11 @@ rate_centers:
       ilec_name: RURAL TEL. SERVICE CO., INC. DBA NEX-TECH
       lat: '39.95213'
       long: "-99.532254"
+      closest_city:
+        name: Long Island
+        distance:
+          value: 0.68
+          units: km
     - region: KS
       exchange: '064800'
       name: Longford
@@ -4354,6 +6009,11 @@ rate_centers:
       ilec_name: TWIN VALLEY TEL., INC.
       lat: '39.169565'
       long: "-97.329638"
+      closest_city:
+        name: Longford
+        distance:
+          value: 0.29
+          units: km
     - region: KS
       exchange: '064810'
       name: Longton
@@ -4362,6 +6022,11 @@ rate_centers:
       ilec_name: SOUTHERN KANSAS TEL. CO., INC.
       lat: '37.382737'
       long: "-96.081742"
+      closest_city:
+        name: Longton
+        distance:
+          value: 0.54
+          units: km
     - region: KS
       exchange: '333576'
       name: Lorraine
@@ -4378,6 +6043,11 @@ rate_centers:
       ilec_name: TRI-COUNTY TEL. ASSN., INC.
       lat: '38.566186'
       long: "-96.9663"
+      closest_city:
+        name: Lost Springs
+        distance:
+          value: 0.06
+          units: km
     - region: KS
       exchange: '064830'
       name: Louisburg
@@ -4386,6 +6056,11 @@ rate_centers:
       ilec_name: MO-KAN DIAL INC
       lat: '38.617206'
       long: "-94.68518"
+      closest_city:
+        name: Louisburg
+        distance:
+          value: 0.78
+          units: km
     - region: KS
       exchange: '333578'
       name: Louisville
@@ -4410,6 +6085,11 @@ rate_centers:
       ilec_name: WILSON TEL. CO., INC.
       lat: '39.065953'
       long: "-98.534658"
+      closest_city:
+        name: Lucas
+        distance:
+          value: 0.85
+          units: km
     - region: KS
       exchange: '333581'
       name: Ludell
@@ -4426,6 +6106,11 @@ rate_centers:
       ilec_name: GORHAM TEL. CO., INC.
       lat: '39.118094'
       long: "-98.692335"
+      closest_city:
+        name: Luray
+        distance:
+          value: 0.33
+          units: km
     - region: KS
       exchange: '333147'
       name: Lydia
@@ -4450,6 +6135,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF KANSAS DBA CENTURYLINK
       lat: '38.610243'
       long: "-95.682726"
+      closest_city:
+        name: Lyndon
+        distance:
+          value: 0.24
+          units: km
     - region: KS
       exchange: '064870'
       name: Lyons
@@ -4458,6 +6148,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '38.349189'
       long: "-98.200456"
+      closest_city:
+        name: Lyons
+        distance:
+          value: 0.48
+          units: km
     - region: KS
       exchange: '064880'
       name: Macksville
@@ -4466,6 +6161,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '37.95784'
       long: "-98.969209"
+      closest_city:
+        name: Macksville
+        distance:
+          value: 0.08
+          units: km
     - region: KS
       exchange: '064890'
       name: Madison
@@ -4474,6 +6174,11 @@ rate_centers:
       ilec_name: MADISON TELEPHONE, LLC - KS
       lat: '38.138955'
       long: "-96.140124"
+      closest_city:
+        name: Madison
+        distance:
+          value: 0.65
+          units: km
     - region: KS
       exchange: '064900'
       name: Mahaska
@@ -4482,6 +6187,11 @@ rate_centers:
       ilec_name: J.B.N. TEL. CO., INC.
       lat: '39.982533'
       long: "-97.34747"
+      closest_city:
+        name: Mahaska
+        distance:
+          value: 0.75
+          units: km
     - region: KS
       exchange: '333151'
       name: Maize
@@ -4506,6 +6216,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '39.176012'
       long: "-96.574784"
+      closest_city:
+        name: Manhattan
+        distance:
+          value: 2.94
+          units: km
     - region: KS
       exchange: '064920'
       name: Mankato
@@ -4514,6 +6229,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '39.782735'
       long: "-98.211788"
+      closest_city:
+        name: Mankato
+        distance:
+          value: 0.57
+          units: km
     - region: KS
       exchange: '333152'
       name: Manning
@@ -4530,6 +6250,11 @@ rate_centers:
       ilec_name: PIONEER TEL. ASSN., INC.
       lat: '37.524797'
       long: "-101.884325"
+      closest_city:
+        name: Manter
+        distance:
+          value: 0.09
+          units: km
     - region: KS
       exchange: '333154'
       name: Maple City
@@ -4554,6 +6279,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '38.01524'
       long: "-94.886463"
+      closest_city:
+        name: Mapleton
+        distance:
+          value: 0.27
+          units: km
     - region: KS
       exchange: '064950'
       name: Marienthal
@@ -4562,6 +6292,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF KANSAS COMPANY
       lat: '38.484953'
       long: "-101.207529"
+      closest_city:
+        name: Marienthal
+        distance:
+          value: 1.18
+          units: km
     - region: KS
       exchange: '333590'
       name: Marietta
@@ -4578,6 +6313,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '38.347062'
       long: "-97.01512"
+      closest_city:
+        name: Marion
+        distance:
+          value: 1.04
+          units: km
     - region: KS
       exchange: '064970'
       name: Marquette
@@ -4586,6 +6326,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '38.548824'
       long: "-97.832039"
+      closest_city:
+        name: Marquette
+        distance:
+          value: 0.77
+          units: km
     - region: KS
       exchange: '064980'
       name: Marysville
@@ -4594,6 +6339,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '39.839838'
       long: "-96.649577"
+      closest_city:
+        name: Marysville
+        distance:
+          value: 1.0
+          units: km
     - region: KS
       exchange: '064990'
       name: Matfield Green
@@ -4602,6 +6352,11 @@ rate_centers:
       ilec_name: WHEAT STATE TEL., INC.
       lat: '38.157392'
       long: "-96.564912"
+      closest_city:
+        name: Matfield Green
+        distance:
+          value: 0.34
+          units: km
     - region: KS
       exchange: '065000'
       name: Mayetta
@@ -4610,6 +6365,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '39.331935'
       long: "-95.724145"
+      closest_city:
+        name: Mayetta
+        distance:
+          value: 0.77
+          units: km
     - region: KS
       exchange: '065010'
       name: Mayfield
@@ -4618,6 +6378,11 @@ rate_centers:
       ilec_name: KANOKLA TEL ASSN
       lat: '37.265832'
       long: "-97.55082"
+      closest_city:
+        name: Mayfield
+        distance:
+          value: 0.97
+          units: km
     - region: KS
       exchange: '333160'
       name: McConnell AFB
@@ -4634,6 +6399,11 @@ rate_centers:
       ilec_name: GOLDEN BELT TEL. ASSN., INC.
       lat: '38.583871'
       long: "-99.563567"
+      closest_city:
+        name: McCracken
+        distance:
+          value: 0.46
+          units: km
     - region: KS
       exchange: '065030'
       name: McCune
@@ -4642,6 +6412,11 @@ rate_centers:
       ilec_name: CRAW-KAN TEL. COOP.,INC. - KS
       lat: '37.349691'
       long: "-95.017723"
+      closest_city:
+        name: McCune
+        distance:
+          value: 0.47
+          units: km
     - region: KS
       exchange: '065040'
       name: McDonald
@@ -4650,6 +6425,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '39.784363'
       long: "-101.37194"
+      closest_city:
+        name: McDonald
+        distance:
+          value: 0.16
+          units: km
     - region: KS
       exchange: '333596'
       name: McFarland
@@ -4666,6 +6446,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '39.202373'
       long: "-95.210035"
+      closest_city:
+        name: McLouth
+        distance:
+          value: 0.71
+          units: km
     - region: KS
       exchange: '065060'
       name: McPherson
@@ -4674,6 +6459,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '38.367469'
       long: "-97.664798"
+      closest_city:
+        name: McPherson
+        distance:
+          value: 0.58
+          units: km
     - region: KS
       exchange: '065070'
       name: Meade
@@ -4682,6 +6472,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.284661'
       long: "-100.334519"
+      closest_city:
+        name: Meade
+        distance:
+          value: 0.76
+          units: km
     - region: KS
       exchange: '065080'
       name: Medicine Lodge
@@ -4690,6 +6485,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.282552'
       long: "-98.573701"
+      closest_city:
+        name: Medicine Lodge
+        distance:
+          value: 0.72
+          units: km
     - region: KS
       exchange: '333165'
       name: Medora
@@ -4714,6 +6514,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '38.984215'
       long: "-94.681339"
+      closest_city:
+        name: Prairie Village
+        distance:
+          value: 3.92
+          units: km
     - region: KS
       exchange: '065100'
       name: Melvern
@@ -4722,6 +6527,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF KANSAS DBA CENTURYLINK
       lat: '38.509046'
       long: "-95.635047"
+      closest_city:
+        name: Melvern
+        distance:
+          value: 0.3
+          units: km
     - region: KS
       exchange: '065110'
       name: Menlo
@@ -4730,6 +6540,11 @@ rate_centers:
       ilec_name: S & T TEL. COOP. ASSN.
       lat: '39.347943'
       long: "-100.725714"
+      closest_city:
+        name: Menlo
+        distance:
+          value: 0.92
+          units: km
     - region: KS
       exchange: '333599'
       name: Mentor
@@ -4754,6 +6569,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '39.184613'
       long: "-95.566175"
+      closest_city:
+        name: Meriden
+        distance:
+          value: 0.59
+          units: km
     - region: KS
       exchange: '330782'
       name: Merriam
@@ -4770,6 +6590,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '38.682201'
       long: "-95.536132"
+      closest_city:
+        name: Vassar
+        distance:
+          value: 7.48
+          units: km
     - region: KS
       exchange: '333167'
       name: Milan
@@ -4802,6 +6627,11 @@ rate_centers:
       ilec_name: TWIN VALLEY TEL., INC.
       lat: '39.167743'
       long: "-96.910571"
+      closest_city:
+        name: Milford
+        distance:
+          value: 0.57
+          units: km
     - region: KS
       exchange: '333605'
       name: Miller
@@ -4834,6 +6664,11 @@ rate_centers:
       ilec_name: TWIN VALLEY TEL., INC.
       lat: '39.350664'
       long: "-97.447339"
+      closest_city:
+        name: Miltonvale
+        distance:
+          value: 0.44
+          units: km
     - region: KS
       exchange: '065160'
       name: Minneapolis
@@ -4842,6 +6677,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '39.125406'
       long: "-97.701306"
+      closest_city:
+        name: Minneapolis
+        distance:
+          value: 0.19
+          units: km
     - region: KS
       exchange: '065170'
       name: Minneola
@@ -4850,6 +6690,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.440431'
       long: "-100.006525"
+      closest_city:
+        name: Minneola
+        distance:
+          value: 0.61
+          units: km
     - region: KS
       exchange: '330783'
       name: Mission
@@ -4890,6 +6735,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.365683'
       long: "-96.302458"
+      closest_city:
+        name: Moline
+        distance:
+          value: 0.22
+          units: km
     - region: KS
       exchange: '333609'
       name: Mont Ida
@@ -4906,6 +6756,11 @@ rate_centers:
       ilec_name: UNITED TEL. ASSN., INC.
       lat: '37.601472'
       long: "-100.443023"
+      closest_city:
+        name: Montezuma
+        distance:
+          value: 1.17
+          units: km
     - region: KS
       exchange: '330786'
       name: Monticello
@@ -4946,6 +6801,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF KANSAS DBA CENTURYLINK
       lat: '37.91654'
       long: "-95.173387"
+      closest_city:
+        name: Moran
+        distance:
+          value: 0.16
+          units: km
     - region: KS
       exchange: '333175'
       name: Morehead
@@ -4962,6 +6822,11 @@ rate_centers:
       ilec_name: TWIN VALLEY TEL., INC.
       lat: '39.466199'
       long: "-97.209572"
+      closest_city:
+        name: Morganville
+        distance:
+          value: 0.5
+          units: km
     - region: KS
       exchange: '065220'
       name: Morland
@@ -4970,6 +6835,11 @@ rate_centers:
       ilec_name: RURAL TEL. SERVICE CO., INC. DBA NEX-TECH
       lat: '39.342269'
       long: "-100.073993"
+      closest_city:
+        name: Morland
+        distance:
+          value: 0.74
+          units: km
     - region: KS
       exchange: '065230'
       name: Morrill
@@ -4978,6 +6848,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF KANSAS DBA CENTURYLINK
       lat: '39.933124'
       long: "-95.689145"
+      closest_city:
+        name: Morrill
+        distance:
+          value: 0.63
+          units: km
     - region: KS
       exchange: '065240'
       name: Morrowville
@@ -4986,6 +6861,11 @@ rate_centers:
       ilec_name: J.B.N. TEL. CO., INC.
       lat: '39.840048'
       long: "-97.176835"
+      closest_city:
+        name: Morrowville
+        distance:
+          value: 0.69
+          units: km
     - region: KS
       exchange: '330788'
       name: Morse
@@ -5002,6 +6882,11 @@ rate_centers:
       ilec_name: PIONEER TEL. ASSN., INC.
       lat: '37.32298'
       long: "-101.209267"
+      closest_city:
+        name: Moscow
+        distance:
+          value: 0.3
+          units: km
     - region: KS
       exchange: '065260'
       name: Mound City
@@ -5010,6 +6895,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '38.139156'
       long: "-94.80656"
+      closest_city:
+        name: Mound City
+        distance:
+          value: 3.92
+          units: km
     - region: KS
       exchange: '065270'
       name: Mound Valley
@@ -5018,6 +6908,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF KANSAS DBA CENTURYLINK
       lat: '37.205856'
       long: "-95.406669"
+      closest_city:
+        name: Mound Valley
+        distance:
+          value: 0.23
+          units: km
     - region: KS
       exchange: '065280'
       name: Moundridge
@@ -5026,6 +6921,11 @@ rate_centers:
       ilec_name: MOUNDRIDGE TEL. CO.
       lat: '38.201282'
       long: "-97.515757"
+      closest_city:
+        name: Moundridge
+        distance:
+          value: 0.11
+          units: km
     - region: KS
       exchange: '065290'
       name: Mount Hope
@@ -5034,14 +6934,24 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.8749'
       long: "-97.665761"
+      closest_city:
+        name: Mount Hope
+        distance:
+          value: 0.37
+          units: km
     - region: KS
       exchange: '06529E'
       name: Mount Hope Metro
-      short_name:
+      short_name: Mount Hope Metro
       lata: '532'
       ilec_name: SOUTHWESTERN BELL
       lat: '37.8749'
       long: "-97.665761"
+      closest_city:
+        name: Mount Hope
+        distance:
+          value: 0.37
+          units: km
     - region: KS
       exchange: '065300'
       name: Mulberry
@@ -5050,6 +6960,11 @@ rate_centers:
       ilec_name: CRAW-KAN TEL. COOP.,INC. - KS
       lat: '37.556587'
       long: "-94.623819"
+      closest_city:
+        name: Mulberry
+        distance:
+          value: 0.06
+          units: km
     - region: KS
       exchange: '065310'
       name: Mullinville
@@ -5058,6 +6973,11 @@ rate_centers:
       ilec_name: HAVILAND TEL. CO., INC.
       lat: '37.584142'
       long: "-99.472851"
+      closest_city:
+        name: Mullinville
+        distance:
+          value: 0.53
+          units: km
     - region: KS
       exchange: '065320'
       name: Mulvane
@@ -5066,6 +6986,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.476276'
       long: "-97.241759"
+      closest_city:
+        name: Mulvane
+        distance:
+          value: 2.72
+          units: km
     - region: KS
       exchange: '330790'
       name: Muncie
@@ -5082,6 +7007,11 @@ rate_centers:
       ilec_name: J.B.N. TEL. CO., INC.
       lat: '39.915884'
       long: "-97.535958"
+      closest_city:
+        name: Munden
+        distance:
+          value: 0.42
+          units: km
     - region: KS
       exchange: '065340'
       name: Murdock
@@ -5090,6 +7020,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '37.610314'
       long: "-97.932937"
+      closest_city:
+        name: Murdock
+        distance:
+          value: 0.15
+          units: km
     - region: KS
       exchange: '065350'
       name: Muscotah
@@ -5098,6 +7033,11 @@ rate_centers:
       ilec_name: RAINBOW TELECOMMUNICATIONS ASSOCIATION, INC.
       lat: '39.55007'
       long: "-95.516135"
+      closest_city:
+        name: Muscotah
+        distance:
+          value: 0.53
+          units: km
     - region: KS
       exchange: '065360'
       name: Narka
@@ -5106,6 +7046,11 @@ rate_centers:
       ilec_name: J.B.N. TEL. CO., INC.
       lat: '39.956592'
       long: "-97.425129"
+      closest_city:
+        name: Narka
+        distance:
+          value: 0.38
+          units: km
     - region: KS
       exchange: '065370'
       name: Nashville
@@ -5114,6 +7059,11 @@ rate_centers:
       ilec_name: HAVILAND TEL. CO., INC.
       lat: '37.442606'
       long: "-98.416786"
+      closest_city:
+        name: Nashville
+        distance:
+          value: 0.7
+          units: km
     - region: KS
       exchange: '065380'
       name: Natoma
@@ -5122,6 +7072,11 @@ rate_centers:
       ilec_name: RURAL TEL. SERVICE CO., INC. DBA NEX-TECH
       lat: '39.191399'
       long: "-99.023029"
+      closest_city:
+        name: Natoma
+        distance:
+          value: 0.34
+          units: km
     - region: KS
       exchange: '333185'
       name: Natrona
@@ -5138,6 +7093,11 @@ rate_centers:
       ilec_name: TRI-COUNTY TEL. ASSN., INC.
       lat: '38.791524'
       long: "-97.110287"
+      closest_city:
+        name: Navarre
+        distance:
+          value: 0.87
+          units: km
     - region: KS
       exchange: '066231'
       name: Nekoma
@@ -5154,6 +7114,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.425599'
       long: "-95.684763"
+      closest_city:
+        name: Neodesha
+        distance:
+          value: 0.17
+          units: km
     - region: KS
       exchange: '065410'
       name: Neosho Falls
@@ -5162,6 +7127,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '38.006844'
       long: "-95.560443"
+      closest_city:
+        name: Neosho Falls
+        distance:
+          value: 0.44
+          units: km
     - region: KS
       exchange: '333188'
       name: Neosho Rapids
@@ -5178,6 +7148,11 @@ rate_centers:
       ilec_name: GOLDEN BELT TEL. ASSN., INC.
       lat: '38.449892'
       long: "-99.90051"
+      closest_city:
+        name: Ness City
+        distance:
+          value: 0.58
+          units: km
     - region: KS
       exchange: '065430'
       name: Netawaka
@@ -5186,6 +7161,11 @@ rate_centers:
       ilec_name: J.B.N. TEL. CO., INC.
       lat: '39.599978'
       long: "-95.714667"
+      closest_city:
+        name: Netawaka
+        distance:
+          value: 0.49
+          units: km
     - region: KS
       exchange: '333189'
       name: Nettleton
@@ -5282,14 +7262,24 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '38.051276'
       long: "-97.34041"
+      closest_city:
+        name: Newton
+        distance:
+          value: 1.66
+          units: km
     - region: KS
       exchange: 06544E
       name: Newton Metro
-      short_name:
+      short_name: Newton Metro
       lata: '532'
       ilec_name: SOUTHWESTERN BELL
       lat: '38.051276'
       long: "-97.34041"
+      closest_city:
+        name: Newton
+        distance:
+          value: 1.66
+          units: km
     - region: KS
       exchange: '065450'
       name: Nickerson
@@ -5298,6 +7288,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '38.149896'
       long: "-98.085575"
+      closest_city:
+        name: Nickerson
+        distance:
+          value: 0.27
+          units: km
     - region: KS
       exchange: '333628'
       name: Niles
@@ -5322,6 +7317,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '39.831927'
       long: "-100.186546"
+      closest_city:
+        name: Norcatur
+        distance:
+          value: 0.36
+          units: km
     - region: KS
       exchange: '065470'
       name: North Manchester
@@ -5330,6 +7330,11 @@ rate_centers:
       ilec_name: KANOKLA TEL ASSN
       lat: '37.010328'
       long: "-98.033527"
+      closest_city:
+        name: Waldron
+        distance:
+          value: 13.26
+          units: km
     - region: KS
       exchange: '333198'
       name: North Newton
@@ -5362,6 +7367,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '39.833227'
       long: "-99.894067"
+      closest_city:
+        name: Norton
+        distance:
+          value: 0.39
+          units: km
     - region: KS
       exchange: '065500'
       name: Nortonville
@@ -5370,6 +7380,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '39.4141'
       long: "-95.332466"
+      closest_city:
+        name: Nortonville
+        distance:
+          value: 0.27
+          units: km
     - region: KS
       exchange: '065510'
       name: Norwich
@@ -5378,6 +7393,11 @@ rate_centers:
       ilec_name: HAVILAND TEL. CO., INC.
       lat: '37.460395'
       long: "-97.851365"
+      closest_city:
+        name: Norwich
+        distance:
+          value: 0.46
+          units: km
     - region: KS
       exchange: '333632'
       name: Oak Hill
@@ -5410,6 +7430,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '39.134754'
       long: "-100.860232"
+      closest_city:
+        name: Oakley
+        distance:
+          value: 1.84
+          units: km
     - region: KS
       exchange: '065530'
       name: Oberlin
@@ -5418,6 +7443,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '39.817442'
       long: "-100.522762"
+      closest_city:
+        name: Oberlin
+        distance:
+          value: 0.92
+          units: km
     - region: KS
       exchange: '330795'
       name: Ocheltree
@@ -5474,6 +7504,11 @@ rate_centers:
       ilec_name: BLUE VALLEY TELE-COMMUNICATIONS, INC.
       lat: '39.965095'
       long: "-96.602853"
+      closest_city:
+        name: Oketo
+        distance:
+          value: 0.4
+          units: km
     - region: KS
       exchange: '065550'
       name: Olathe
@@ -5482,6 +7517,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '38.874469'
       long: "-94.818777"
+      closest_city:
+        name: Olathe
+        distance:
+          value: 0.99
+          units: km
     - region: KS
       exchange: '333205'
       name: Olivet
@@ -5498,6 +7538,11 @@ rate_centers:
       ilec_name: RURAL TEL. SERVICE CO., INC. DBA NEX-TECH
       lat: '38.516338'
       long: "-98.933026"
+      closest_city:
+        name: Olmitz
+        distance:
+          value: 0.32
+          units: km
     - region: KS
       exchange: '065570'
       name: Olpe
@@ -5506,6 +7551,11 @@ rate_centers:
       ilec_name: WHEAT STATE TEL., INC.
       lat: '38.257814'
       long: "-96.166328"
+      closest_city:
+        name: Olpe
+        distance:
+          value: 0.56
+          units: km
     - region: KS
       exchange: '065580'
       name: Olsburg
@@ -5514,6 +7564,11 @@ rate_centers:
       ilec_name: TWIN VALLEY TEL., INC.
       lat: '39.434917'
       long: "-96.618259"
+      closest_city:
+        name: Olsburg
+        distance:
+          value: 0.39
+          units: km
     - region: KS
       exchange: '065590'
       name: Onaga
@@ -5522,6 +7577,11 @@ rate_centers:
       ilec_name: BLUE VALLEY TELE-COMMUNICATIONS, INC.
       lat: '39.490393'
       long: "-96.16581"
+      closest_city:
+        name: Onaga
+        distance:
+          value: 0.41
+          units: km
     - region: KS
       exchange: '333640'
       name: Oneida
@@ -5554,6 +7614,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '38.631732'
       long: "-95.823791"
+      closest_city:
+        name: Osage City
+        distance:
+          value: 0.28
+          units: km
     - region: KS
       exchange: '065610'
       name: Osawatomie
@@ -5562,14 +7627,24 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF KANSAS DBA CENTURYLINK
       lat: '38.499604'
       long: "-94.947183"
+      closest_city:
+        name: Osawatomie
+        distance:
+          value: 0.75
+          units: km
     - region: KS
       exchange: 06561E
       name: Osawatomie Metro
-      short_name:
+      short_name: Osawatomie Metro
       lata: '524'
       ilec_name: UNITED TEL. CO. OF KANSAS DBA CENTURYLINK
       lat: '38.499604'
       long: "-94.947183"
+      closest_city:
+        name: Osawatomie
+        distance:
+          value: 0.75
+          units: km
     - region: KS
       exchange: '065620'
       name: Osborne
@@ -5578,6 +7653,11 @@ rate_centers:
       ilec_name: RURAL TEL. SERVICE CO., INC. DBA NEX-TECH
       lat: '39.434426'
       long: "-98.689712"
+      closest_city:
+        name: Osborne
+        distance:
+          value: 1.06
+          units: km
     - region: KS
       exchange: '065630'
       name: Oskaloosa
@@ -5586,6 +7666,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF KANSAS DBA CENTURYLINK
       lat: '39.215426'
       long: "-95.324938"
+      closest_city:
+        name: Oskaloosa
+        distance:
+          value: 0.9
+          units: km
     - region: KS
       exchange: '065640'
       name: Oswego
@@ -5594,6 +7679,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF KANSAS DBA CENTURYLINK
       lat: '37.166609'
       long: "-95.115231"
+      closest_city:
+        name: Oswego
+        distance:
+          value: 0.27
+          units: km
     - region: KS
       exchange: '065650'
       name: Otis
@@ -5602,6 +7692,11 @@ rate_centers:
       ilec_name: GOLDEN BELT TEL. ASSN., INC.
       lat: '38.531636'
       long: "-99.050811"
+      closest_city:
+        name: Otis
+        distance:
+          value: 0.4
+          units: km
     - region: KS
       exchange: '065660'
       name: Ottawa
@@ -5610,6 +7705,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '38.61704'
       long: "-95.265572"
+      closest_city:
+        name: Ottawa
+        distance:
+          value: 1.95
+          units: km
     - region: KS
       exchange: '065670'
       name: Overbrook
@@ -5618,6 +7718,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '38.784794'
       long: "-95.557556"
+      closest_city:
+        name: Overbrook
+        distance:
+          value: 0.6
+          units: km
     - region: KS
       exchange: '330798'
       name: Overland Park
@@ -5634,6 +7739,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '37.273414'
       long: "-97.169345"
+      closest_city:
+        name: Oxford
+        distance:
+          value: 0.08
+          units: km
     - region: KS
       exchange: '065690'
       name: Ozawkie
@@ -5642,6 +7752,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '39.231297'
       long: "-95.463967"
+      closest_city:
+        name: Ozawkie
+        distance:
+          value: 0.49
+          units: km
     - region: KS
       exchange: '333649'
       name: Page City
@@ -5658,6 +7773,11 @@ rate_centers:
       ilec_name: RURAL TEL. SERVICE CO., INC. DBA NEX-TECH
       lat: '39.251712'
       long: "-99.568301"
+      closest_city:
+        name: Palco
+        distance:
+          value: 0.45
+          units: km
     - region: KS
       exchange: '333651'
       name: Palermo
@@ -5674,6 +7794,11 @@ rate_centers:
       ilec_name: BLUE VALLEY TELE-COMMUNICATIONS, INC.
       lat: '39.634659'
       long: "-97.141927"
+      closest_city:
+        name: Palmer
+        distance:
+          value: 0.23
+          units: km
     - region: KS
       exchange: '065720'
       name: Paola
@@ -5682,14 +7807,24 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '38.568866'
       long: "-94.883938"
+      closest_city:
+        name: Paola
+        distance:
+          value: 2.23
+          units: km
     - region: KS
       exchange: 06572E
       name: Paola Metro
-      short_name:
+      short_name: Paola Metro
       lata: '524'
       ilec_name: SOUTHWESTERN BELL
       lat: '38.568866'
       long: "-94.883938"
+      closest_city:
+        name: Paola
+        distance:
+          value: 2.23
+          units: km
     - region: KS
       exchange: '065730'
       name: Paradise
@@ -5698,6 +7833,11 @@ rate_centers:
       ilec_name: GORHAM TEL. CO., INC.
       lat: '39.118161'
       long: "-98.925871"
+      closest_city:
+        name: Paradise
+        distance:
+          value: 0.76
+          units: km
     - region: KS
       exchange: '333654'
       name: Park
@@ -5722,6 +7862,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '38.325177'
       long: "-94.997426"
+      closest_city:
+        name: Parker
+        distance:
+          value: 0.75
+          units: km
     - region: KS
       exchange: '333655'
       name: Parkerville
@@ -5738,6 +7883,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.333416'
       long: "-95.264284"
+      closest_city:
+        name: Parsons
+        distance:
+          value: 2.9
+          units: km
     - region: KS
       exchange: '065760'
       name: Partridge
@@ -5746,6 +7896,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '37.968446'
       long: "-98.093397"
+      closest_city:
+        name: Partridge
+        distance:
+          value: 0.23
+          units: km
     - region: KS
       exchange: '065770'
       name: Pauline
@@ -5754,6 +7909,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '38.949904'
       long: "-95.692348"
+      closest_city:
+        name: Wakarusa
+        distance:
+          value: 6.57
+          units: km
     - region: KS
       exchange: '065780'
       name: Pawnee Rock
@@ -5762,6 +7922,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '38.268832'
       long: "-98.982764"
+      closest_city:
+        name: Pawnee Rock
+        distance:
+          value: 0.44
+          units: km
     - region: KS
       exchange: '065790'
       name: Paxico
@@ -5770,6 +7935,11 @@ rate_centers:
       ilec_name: WAMEGO TEL. CO., INC.
       lat: '39.064962'
       long: "-96.167349"
+      closest_city:
+        name: Paxico
+        distance:
+          value: 0.44
+          units: km
     - region: KS
       exchange: '065800'
       name: Peabody
@@ -5778,6 +7948,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '38.166617'
       long: "-97.106772"
+      closest_city:
+        name: Peabody
+        distance:
+          value: 0.29
+          units: km
     - region: KS
       exchange: '333217'
       name: Peck
@@ -5818,6 +7993,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '39.077243'
       long: "-95.393522"
+      closest_city:
+        name: Perry
+        distance:
+          value: 0.75
+          units: km
     - region: KS
       exchange: '333219'
       name: Peru
@@ -5850,6 +8030,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '39.75615'
       long: "-99.314609"
+      closest_city:
+        name: Phillipsburg
+        distance:
+          value: 0.78
+          units: km
     - region: KS
       exchange: '065830'
       name: Piedmont
@@ -5858,6 +8043,11 @@ rate_centers:
       ilec_name: SOUTHERN KANSAS TEL. CO., INC.
       lat: '37.62751'
       long: "-96.367514"
+      closest_city:
+        name: Piedmont
+        distance:
+          value: 0.82
+          units: km
     - region: KS
       exchange: '333222'
       name: Pierceville
@@ -5890,6 +8080,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '37.927367'
       long: "-95.533261"
+      closest_city:
+        name: Piqua
+        distance:
+          value: 0.7
+          units: km
     - region: KS
       exchange: '065850'
       name: Pittsburg
@@ -5898,6 +8093,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.406032'
       long: "-94.698963"
+      closest_city:
+        name: Pittsburg
+        distance:
+          value: 0.76
+          units: km
     - region: KS
       exchange: '065860'
       name: Plains
@@ -5906,6 +8106,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.260005'
       long: "-100.590092"
+      closest_city:
+        name: Plains
+        distance:
+          value: 0.47
+          units: km
     - region: KS
       exchange: '065870'
       name: Plainville
@@ -5914,6 +8119,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '39.232976'
       long: "-99.299703"
+      closest_city:
+        name: Plainville
+        distance:
+          value: 0.16
+          units: km
     - region: KS
       exchange: '065880'
       name: Pleasanton
@@ -5922,6 +8132,11 @@ rate_centers:
       ilec_name: CRAW-KAN TEL. COOP.,INC. - KS
       lat: '38.176685'
       long: "-94.710006"
+      closest_city:
+        name: Pleasanton
+        distance:
+          value: 0.49
+          units: km
     - region: KS
       exchange: '333227'
       name: Plevna
@@ -5938,6 +8153,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF KANSAS DBA CENTURYLINK
       lat: '38.607203'
       long: "-95.461812"
+      closest_city:
+        name: Pomona
+        distance:
+          value: 0.87
+          units: km
     - region: KS
       exchange: '333665'
       name: Portis
@@ -5962,6 +8182,11 @@ rate_centers:
       ilec_name: WHEAT STATE TEL., INC.
       lat: '37.94218'
       long: "-97.013642"
+      closest_city:
+        name: Potwin
+        distance:
+          value: 0.58
+          units: km
     - region: KS
       exchange: '065910'
       name: Powhattan
@@ -5970,6 +8195,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF KANSAS DBA CENTURYLINK
       lat: '39.759676'
       long: "-95.634601"
+      closest_city:
+        name: Powhattan
+        distance:
+          value: 0.25
+          units: km
     - region: KS
       exchange: '065920'
       name: Prairie View
@@ -5978,6 +8208,11 @@ rate_centers:
       ilec_name: RURAL TEL. SERVICE CO., INC. DBA NEX-TECH
       lat: '39.832862'
       long: "-99.56388"
+      closest_city:
+        name: Prairie View
+        distance:
+          value: 0.8
+          units: km
     - region: KS
       exchange: '330804'
       name: Prairie Village
@@ -5994,6 +8229,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.641422'
       long: "-98.741938"
+      closest_city:
+        name: Pratt
+        distance:
+          value: 3.91
+          units: km
     - region: KS
       exchange: '065940'
       name: Prescott
@@ -6002,6 +8242,11 @@ rate_centers:
       ilec_name: CRAW-KAN TEL. COOP.,INC. - KS
       lat: '38.065441'
       long: "-94.694578"
+      closest_city:
+        name: Prescott
+        distance:
+          value: 0.31
+          units: km
     - region: KS
       exchange: '065950'
       name: Preston
@@ -6010,6 +8255,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '37.758214'
       long: "-98.555924"
+      closest_city:
+        name: Preston
+        distance:
+          value: 0.17
+          units: km
     - region: KS
       exchange: '065960'
       name: Pretty Prairie
@@ -6018,6 +8268,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '37.785097'
       long: "-98.015079"
+      closest_city:
+        name: Pretty Prairie
+        distance:
+          value: 0.86
+          units: km
     - region: KS
       exchange: '065970'
       name: Princeton
@@ -6026,6 +8281,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '38.483927'
       long: "-95.273755"
+      closest_city:
+        name: Princeton
+        distance:
+          value: 0.52
+          units: km
     - region: KS
       exchange: '065980'
       name: Protection
@@ -6034,6 +8294,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.206478'
       long: "-99.482233"
+      closest_city:
+        name: Protection
+        distance:
+          value: 0.69
+          units: km
     - region: KS
       exchange: '065990'
       name: Quenemo
@@ -6042,6 +8307,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF KANSAS DBA CENTURYLINK
       lat: '38.58499'
       long: "-95.530953"
+      closest_city:
+        name: Quenemo
+        distance:
+          value: 0.66
+          units: km
     - region: KS
       exchange: '066000'
       name: Quincy
@@ -6050,6 +8320,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '37.883926'
       long: "-95.990195"
+      closest_city:
+        name: Neal
+        distance:
+          value: 9.73
+          units: km
     - region: KS
       exchange: '066010'
       name: Quinter
@@ -6058,6 +8333,11 @@ rate_centers:
       ilec_name: RURAL TEL. SERVICE CO., INC. DBA NEX-TECH
       lat: '39.067313'
       long: "-100.233125"
+      closest_city:
+        name: Quinter
+        distance:
+          value: 0.16
+          units: km
     - region: KS
       exchange: '333234'
       name: Radium
@@ -6090,6 +8370,11 @@ rate_centers:
       ilec_name: TRI-COUNTY TEL. ASSN., INC.
       lat: '38.598967'
       long: "-97.069519"
+      closest_city:
+        name: Ramona
+        distance:
+          value: 0.52
+          units: km
     - region: KS
       exchange: '066030'
       name: Randall
@@ -6098,6 +8383,11 @@ rate_centers:
       ilec_name: CUNNINGHAM TEL. CO., INC.
       lat: '39.640566'
       long: "-98.053121"
+      closest_city:
+        name: Randall
+        distance:
+          value: 0.66
+          units: km
     - region: KS
       exchange: '333673'
       name: Randolph
@@ -6114,6 +8404,11 @@ rate_centers:
       ilec_name: GOLDEN BELT TEL. ASSN., INC.
       lat: '38.634961'
       long: "-99.926782"
+      closest_city:
+        name: Ransom
+        distance:
+          value: 0.56
+          units: km
     - region: KS
       exchange: '066050'
       name: Rantoul
@@ -6122,6 +8417,11 @@ rate_centers:
       ilec_name: MO-KAN DIAL INC
       lat: '38.550544'
       long: "-95.09779"
+      closest_city:
+        name: Rantoul
+        distance:
+          value: 0.38
+          units: km
     - region: KS
       exchange: '333237'
       name: Ray
@@ -6146,6 +8446,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '38.516331'
       long: "-95.961023"
+      closest_city:
+        name: Reading
+        distance:
+          value: 0.45
+          units: km
     - region: KS
       exchange: '333676'
       name: Reager
@@ -6178,6 +8483,11 @@ rate_centers:
       ilec_name: SOUTHERN KANSAS TEL. CO., INC.
       lat: '37.799116'
       long: "-96.448129"
+      closest_city:
+        name: Eureka
+        distance:
+          value: 14.3
+          units: km
     - region: KS
       exchange: '330806'
       name: Reno
@@ -6194,6 +8504,11 @@ rate_centers:
       ilec_name: RURAL TEL. SERVICE CO., INC. DBA NEX-TECH
       lat: '39.914551'
       long: "-97.825373"
+      closest_city:
+        name: Republic
+        distance:
+          value: 1.04
+          units: km
     - region: KS
       exchange: '333678'
       name: Reserve
@@ -6210,6 +8525,11 @@ rate_centers:
       ilec_name: RURAL TEL. SERVICE CO., INC. DBA NEX-TECH
       lat: '39.465242'
       long: "-100.741362"
+      closest_city:
+        name: Rexford
+        distance:
+          value: 0.62
+          units: km
     - region: KS
       exchange: '333680'
       name: Rice
@@ -6226,6 +8546,11 @@ rate_centers:
       ilec_name: PIONEER TEL. ASSN., INC.
       lat: '37.266655'
       long: "-101.781778"
+      closest_city:
+        name: Richfield
+        distance:
+          value: 0.18
+          units: km
     - region: KS
       exchange: '066110'
       name: Richmond
@@ -6234,6 +8559,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '38.397678'
       long: "-95.256686"
+      closest_city:
+        name: Richmond
+        distance:
+          value: 0.51
+          units: km
     - region: KS
       exchange: '066120'
       name: Riley
@@ -6242,6 +8572,11 @@ rate_centers:
       ilec_name: TWIN VALLEY TEL., INC.
       lat: '39.29815'
       long: "-96.817476"
+      closest_city:
+        name: Riley
+        distance:
+          value: 0.88
+          units: km
     - region: KS
       exchange: '066130'
       name: Riverdale
@@ -6250,6 +8585,11 @@ rate_centers:
       ilec_name: HAVILAND TEL. CO., INC.
       lat: '37.364294'
       long: "-97.390619"
+      closest_city:
+        name: Belle Plaine
+        distance:
+          value: 10.34
+          units: km
     - region: KS
       exchange: '066140'
       name: Riverton
@@ -6258,6 +8598,11 @@ rate_centers:
       ilec_name: EMBARQ MISSOURI, INC. DBA CENTURYLINK - KS
       lat: '37.057172'
       long: "-94.711322"
+      closest_city:
+        name: Lowell
+        distance:
+          value: 1.0
+          units: km
     - region: KS
       exchange: '066150'
       name: Robinson
@@ -6266,6 +8611,11 @@ rate_centers:
       ilec_name: RAINBOW TELECOMMUNICATIONS ASSOCIATION, INC.
       lat: '39.818473'
       long: "-95.414974"
+      closest_city:
+        name: Robinson
+        distance:
+          value: 0.42
+          units: km
     - region: KS
       exchange: '066160'
       name: Rock
@@ -6274,6 +8624,11 @@ rate_centers:
       ilec_name: WHEAT STATE TEL., INC.
       lat: '37.45043'
       long: "-97.006131"
+      closest_city:
+        name: Rock
+        distance:
+          value: 0.97
+          units: km
     - region: KS
       exchange: '333684'
       name: Rock Creek
@@ -6298,6 +8653,11 @@ rate_centers:
       ilec_name: PIONEER TEL. ASSN., INC.
       lat: '37.117792'
       long: "-101.633013"
+      closest_city:
+        name: Rolla
+        distance:
+          value: 0.11
+          units: km
     - region: KS
       exchange: '066180'
       name: Rosalia
@@ -6306,6 +8666,11 @@ rate_centers:
       ilec_name: SOUTHERN KANSAS TEL. CO., INC.
       lat: '37.817269'
       long: "-96.626623"
+      closest_city:
+        name: Rosalia
+        distance:
+          value: 0.22
+          units: km
     - region: KS
       exchange: '066190'
       name: Rose Hill
@@ -6314,6 +8679,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.556265'
       long: "-97.133315"
+      closest_city:
+        name: Rose Hill
+        distance:
+          value: 1.57
+          units: km
     - region: KS
       exchange: '330808'
       name: Rosedale
@@ -6330,6 +8700,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '39.139388'
       long: "-95.948978"
+      closest_city:
+        name: Rossville
+        distance:
+          value: 0.4
+          units: km
     - region: KS
       exchange: '066210'
       name: Roxbury
@@ -6338,6 +8713,11 @@ rate_centers:
       ilec_name: HOME TEL. CO., INC.
       lat: '38.550535'
       long: "-97.422052"
+      closest_city:
+        name: Roxbury
+        distance:
+          value: 0.47
+          units: km
     - region: KS
       exchange: '066220'
       name: Rozel
@@ -6346,6 +8726,11 @@ rate_centers:
       ilec_name: GOLDEN BELT TEL. ASSN., INC.
       lat: '38.200315'
       long: "-99.401192"
+      closest_city:
+        name: Rozel
+        distance:
+          value: 0.57
+          units: km
     - region: KS
       exchange: '066230'
       name: Rush Center
@@ -6354,6 +8739,11 @@ rate_centers:
       ilec_name: GOLDEN BELT TEL. ASSN., INC.
       lat: '38.464325'
       long: "-99.307766"
+      closest_city:
+        name: Rush Center
+        distance:
+          value: 0.29
+          units: km
     - region: KS
       exchange: '066240'
       name: Russell
@@ -6362,6 +8752,11 @@ rate_centers:
       ilec_name: RURAL TEL. SERVICE CO., INC. DBA NEX-TECH
       lat: '38.890525'
       long: "-98.859519"
+      closest_city:
+        name: Russell
+        distance:
+          value: 0.78
+          units: km
     - region: KS
       exchange: '066250'
       name: Russell Springs
@@ -6370,6 +8765,11 @@ rate_centers:
       ilec_name: S & T TEL. COOP. ASSN.
       lat: '38.923628'
       long: "-101.1801"
+      closest_city:
+        name: Russell Springs
+        distance:
+          value: 1.26
+          units: km
     - region: KS
       exchange: '333690'
       name: Rydal
@@ -6386,6 +8786,11 @@ rate_centers:
       ilec_name: PIONEER TEL. ASSN., INC.
       lat: '37.525223'
       long: "-101.108295"
+      closest_city:
+        name: Satanta
+        distance:
+          value: 14.39
+          units: km
     - region: KS
       exchange: '066270'
       name: Sabetha
@@ -6394,6 +8799,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '39.898357'
       long: "-95.798631"
+      closest_city:
+        name: Sabetha
+        distance:
+          value: 1.74
+          units: km
     - region: KS
       exchange: '066280'
       name: Saffordville
@@ -6402,6 +8812,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF KANSAS COMPANY - KS
       lat: '38.422884'
       long: "-96.395989"
+      closest_city:
+        name: Strong City
+        distance:
+          value: 12.66
+          units: km
     - region: KS
       exchange: '333716'
       name: Saint Benedict
@@ -6418,6 +8833,11 @@ rate_centers:
       ilec_name: HOME TEL. CO., INC.
       lat: '38.689678'
       long: "-97.692469"
+      closest_city:
+        name: Falun
+        distance:
+          value: 5.36
+          units: km
     - region: KS
       exchange: '066300'
       name: Salina
@@ -6426,6 +8846,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '38.843038'
       long: "-97.609173"
+      closest_city:
+        name: Salina
+        distance:
+          value: 3.3
+          units: km
     - region: KS
       exchange: '333253'
       name: Sanford
@@ -6442,6 +8867,11 @@ rate_centers:
       ilec_name: PIONEER TEL. ASSN., INC.
       lat: '37.432956'
       long: "-100.989957"
+      closest_city:
+        name: Satanta
+        distance:
+          value: 0.57
+          units: km
     - region: KS
       exchange: '333255'
       name: Saunders
@@ -6458,6 +8888,11 @@ rate_centers:
       ilec_name: CRAW-KAN TEL. COOP.,INC. - KS
       lat: '37.750068'
       long: "-95.142801"
+      closest_city:
+        name: Savonburg
+        distance:
+          value: 0.13
+          units: km
     - region: KS
       exchange: '066330'
       name: Sawyer
@@ -6466,6 +8901,11 @@ rate_centers:
       ilec_name: HAVILAND TEL. CO., INC.
       lat: '37.500337'
       long: "-98.685635"
+      closest_city:
+        name: Sawyer
+        distance:
+          value: 0.31
+          units: km
     - region: KS
       exchange: '333258'
       name: Saxman
@@ -6482,6 +8922,11 @@ rate_centers:
       ilec_name: EMBARQ MISSOURI, INC. DBA CENTURYLINK - KS
       lat: '37.273712'
       long: "-94.826611"
+      closest_city:
+        name: Scammon
+        distance:
+          value: 0.58
+          units: km
     - region: KS
       exchange: '066350'
       name: Scandia
@@ -6490,6 +8935,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '39.80137'
       long: "-97.780264"
+      closest_city:
+        name: Scandia
+        distance:
+          value: 0.59
+          units: km
     - region: KS
       exchange: '333260'
       name: Schaffer
@@ -6514,6 +8964,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '38.485671'
       long: "-100.909603"
+      closest_city:
+        name: Scott City
+        distance:
+          value: 0.94
+          units: km
     - region: KS
       exchange: '333697'
       name: Scottsville
@@ -6530,6 +8985,11 @@ rate_centers:
       ilec_name: S & A TEL. CO., INC.
       lat: '38.781912'
       long: "-95.731136"
+      closest_city:
+        name: Scranton
+        distance:
+          value: 0.91
+          units: km
     - region: KS
       exchange: '066380'
       name: Sedan
@@ -6538,6 +8998,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.125711'
       long: "-96.183133"
+      closest_city:
+        name: Sedan
+        distance:
+          value: 0.33
+          units: km
     - region: KS
       exchange: '066390'
       name: Sedgwick
@@ -6546,6 +9011,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.918717'
       long: "-97.425558"
+      closest_city:
+        name: Sedgwick
+        distance:
+          value: 0.49
+          units: km
     - region: KS
       exchange: '066400'
       name: Selden
@@ -6554,6 +9024,11 @@ rate_centers:
       ilec_name: RURAL TEL. SERVICE CO., INC. DBA NEX-TECH
       lat: '39.532673'
       long: "-100.559283"
+      closest_city:
+        name: Selden
+        distance:
+          value: 1.18
+          units: km
     - region: KS
       exchange: '333264'
       name: Selkirk
@@ -6570,6 +9045,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '39.840911'
       long: "-96.055809"
+      closest_city:
+        name: Seneca
+        distance:
+          value: 1.22
+          units: km
     - region: KS
       exchange: '333701'
       name: Severance
@@ -6586,6 +9066,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.623061'
       long: "-96.232278"
+      closest_city:
+        name: Severy
+        distance:
+          value: 0.45
+          units: km
     - region: KS
       exchange: '333266'
       name: Seward
@@ -6618,6 +9103,11 @@ rate_centers:
       ilec_name: SOUTH CENTRAL TEL ASSN INC
       lat: '37.249155'
       long: "-98.417163"
+      closest_city:
+        name: Sharon
+        distance:
+          value: 0.09
+          units: km
     - region: KS
       exchange: '066440'
       name: Sharon Springs
@@ -6626,6 +9116,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF KANSAS COMPANY
       lat: '38.891943'
       long: "-101.748299"
+      closest_city:
+        name: Sharon Springs
+        distance:
+          value: 0.36
+          units: km
     - region: KS
       exchange: '330809'
       name: Shawnee
@@ -6682,6 +9177,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '39.100618'
       long: "-95.86095"
+      closest_city:
+        name: Silver Lake
+        distance:
+          value: 0.42
+          units: km
     - region: KS
       exchange: '333273'
       name: Silverdale
@@ -6698,6 +9198,11 @@ rate_centers:
       ilec_name: CUNNINGHAM TEL. CO., INC.
       lat: '39.385338'
       long: "-97.9327"
+      closest_city:
+        name: Simpson
+        distance:
+          value: 0.13
+          units: km
     - region: KS
       exchange: '333274'
       name: Sitka
@@ -6714,6 +9219,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '39.777023'
       long: "-98.776164"
+      closest_city:
+        name: Smith Center
+        distance:
+          value: 0.68
+          units: km
     - region: KS
       exchange: '333707'
       name: Smolan
@@ -6730,6 +9240,11 @@ rate_centers:
       ilec_name: J.B.N. TEL. CO., INC.
       lat: '39.53239'
       long: "-95.969902"
+      closest_city:
+        name: Soldier
+        distance:
+          value: 0.64
+          units: km
     - region: KS
       exchange: '066490'
       name: Solomon
@@ -6738,6 +9253,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '38.917668'
       long: "-97.368978"
+      closest_city:
+        name: Solomon
+        distance:
+          value: 0.43
+          units: km
     - region: KS
       exchange: '333710'
       name: Solomon Rapids
@@ -6762,6 +9282,11 @@ rate_centers:
       ilec_name: CITIZENS TELECOM OF NE LLC DBA FRONTIER COM OF NE
       lat: '39.991643'
       long: "-99.360298"
+      closest_city:
+        name: Woodruff
+        distance:
+          value: 6.09
+          units: km
     - region: KS
       exchange: '066510'
       name: South Barneston
@@ -6770,6 +9295,11 @@ rate_centers:
       ilec_name: WINDSTREAM NEBRASKA, INC.
       lat: '39.991606'
       long: "-96.575932"
+      closest_city:
+        name: Oketo
+        distance:
+          value: 3.72
+          units: km
     - region: KS
       exchange: '066520'
       name: South Benkelman
@@ -6778,6 +9308,11 @@ rate_centers:
       ilec_name: BENKELMAN TEL. CO., INC.
       lat: '39.993406'
       long: "-101.530967"
+      closest_city:
+        name: McDonald
+        distance:
+          value: 26.95
+          units: km
     - region: KS
       exchange: '066530'
       name: South Bloomington
@@ -6786,6 +9321,11 @@ rate_centers:
       ilec_name: CITIZENS TELECOM OF NE LLC DBA FRONTIER COM OF NE
       lat: '39.993015'
       long: "-99.040547"
+      closest_city:
+        name: Kensington
+        distance:
+          value: 25.17
+          units: km
     - region: KS
       exchange: '066540'
       name: South Byron
@@ -6794,6 +9334,11 @@ rate_centers:
       ilec_name: GREAT PLAINS COMMUNICATIONS, INC.
       lat: '39.991361'
       long: "-97.767099"
+      closest_city:
+        name: Republic
+        distance:
+          value: 8.96
+          units: km
     - region: KS
       exchange: '066550'
       name: South Chester
@@ -6802,6 +9347,11 @@ rate_centers:
       ilec_name: GREAT PLAINS COMMUNICATIONS, INC.
       lat: '39.991197'
       long: "-97.619451"
+      closest_city:
+        name: Munden
+        distance:
+          value: 11.14
+          units: km
     - region: KS
       exchange: '066560'
       name: South Danbury
@@ -6810,6 +9360,11 @@ rate_centers:
       ilec_name: HARTMAN TEL. EXCH., INC.
       lat: '39.989489'
       long: "-100.398597"
+      closest_city:
+        name: Oberlin
+        distance:
+          value: 21.68
+          units: km
     - region: KS
       exchange: '066570'
       name: South Du Bois
@@ -6818,6 +9373,11 @@ rate_centers:
       ilec_name: WINDSTREAM NEBRASKA, INC.
       lat: '39.990421'
       long: "-96.053054"
+      closest_city:
+        name: Bern
+        distance:
+          value: 7.69
+          units: km
     - region: KS
       exchange: '066580'
       name: South Franklin
@@ -6826,6 +9386,11 @@ rate_centers:
       ilec_name: CITIZENS TELECOM OF NE LLC DBA FRONTIER COM OF NE
       lat: '39.991855'
       long: "-98.951692"
+      closest_city:
+        name: Athol
+        distance:
+          value: 25.23
+          units: km
     - region: KS
       exchange: '066590'
       name: South Haigler
@@ -6834,6 +9399,11 @@ rate_centers:
       ilec_name: HARTMAN TEL. EXCH., INC.
       lat: '39.99285'
       long: "-101.935519"
+      closest_city:
+        name: St. Francis
+        distance:
+          value: 27.15
+          units: km
     - region: KS
       exchange: '066600'
       name: South Hardy
@@ -6842,6 +9412,11 @@ rate_centers:
       ilec_name: WINDSTREAM NEBRASKA, INC.
       lat: '39.990388'
       long: "-97.92806"
+      closest_city:
+        name: Webber
+        distance:
+          value: 11.04
+          units: km
     - region: KS
       exchange: '066610'
       name: South Haven
@@ -6850,6 +9425,11 @@ rate_centers:
       ilec_name: KANOKLA TEL ASSN
       lat: '37.047885'
       long: "-97.398903"
+      closest_city:
+        name: South Haven
+        distance:
+          value: 0.28
+          units: km
     - region: KS
       exchange: '333275'
       name: South Hutchinson
@@ -6866,6 +9446,11 @@ rate_centers:
       ilec_name: WINDSTREAM NEBRASKA, INC.
       lat: '39.992839'
       long: "-96.484884"
+      closest_city:
+        name: Oketo
+        distance:
+          value: 10.26
+          units: km
     - region: KS
       exchange: '333277'
       name: South Mound
@@ -6882,6 +9467,11 @@ rate_centers:
       ilec_name: CITIZENS TELECOM OF NE LLC DBA FRONTIER COM OF NE
       lat: '39.993019'
       long: "-99.1427"
+      closest_city:
+        name: Woodruff
+        distance:
+          value: 24.62
+          units: km
     - region: KS
       exchange: '066640'
       name: South Odell
@@ -6890,6 +9480,11 @@ rate_centers:
       ilec_name: DILLER TEL. CO.
       lat: '39.992499'
       long: "-96.801285"
+      closest_city:
+        name: Bremen
+        distance:
+          value: 10.69
+          units: km
     - region: KS
       exchange: '066650'
       name: South Pawnee City
@@ -6898,6 +9493,11 @@ rate_centers:
       ilec_name: WINDSTREAM NEBRASKA, INC.
       lat: '39.99306'
       long: "-96.155148"
+      closest_city:
+        name: Saint Benedict
+        distance:
+          value: 12.01
+          units: km
     - region: KS
       exchange: '066660'
       name: South Red Cloud
@@ -6906,6 +9506,11 @@ rate_centers:
       ilec_name: GREAT PLAINS COMMUNICATIONS, INC.
       lat: '39.989992'
       long: "-98.524208"
+      closest_city:
+        name: Lebanon
+        distance:
+          value: 20.2
+          units: km
     - region: KS
       exchange: '066670'
       name: South Republican City
@@ -6914,6 +9519,11 @@ rate_centers:
       ilec_name: CITIZENS TELECOM OF NE LLC DBA FRONTIER COM OF NE
       lat: '39.991831'
       long: "-99.258147"
+      closest_city:
+        name: Woodruff
+        distance:
+          value: 14.78
+          units: km
     - region: KS
       exchange: '066680'
       name: South Superior
@@ -6922,6 +9532,11 @@ rate_centers:
       ilec_name: WINDSTREAM NEBRASKA, INC.
       lat: '39.992798'
       long: "-98.067962"
+      closest_city:
+        name: Webber
+        distance:
+          value: 7.07
+          units: km
     - region: KS
       exchange: '066690'
       name: South Topeka
@@ -6930,6 +9545,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '38.819245'
       long: "-95.692084"
+      closest_city:
+        name: Carbondale
+        distance:
+          value: 0.1
+          units: km
     - region: KS
       exchange: '066700'
       name: South Wilsonville
@@ -6938,6 +9558,11 @@ rate_centers:
       ilec_name: CITIZENS TELECOM OF NE LLC DBA FRONTIER COM OF NE
       lat: '39.991333'
       long: "-100.10545"
+      closest_city:
+        name: Norcatur
+        distance:
+          value: 18.81
+          units: km
     - region: KS
       exchange: '333711'
       name: Sparks
@@ -6954,6 +9579,11 @@ rate_centers:
       ilec_name: UNITED TEL. ASSN., INC.
       lat: '37.843029'
       long: "-99.747596"
+      closest_city:
+        name: Spearville
+        distance:
+          value: 0.85
+          units: km
     - region: KS
       exchange: '333712'
       name: Speed
@@ -6978,14 +9608,24 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '38.749905'
       long: "-94.823175"
+      closest_city:
+        name: Spring Hill
+        distance:
+          value: 0.78
+          units: km
     - region: KS
       exchange: 06672E
       name: Spring Hill Metro
-      short_name:
+      short_name: Spring Hill Metro
       lata: '524'
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '38.749905'
       long: "-94.823175"
+      closest_city:
+        name: Spring Hill
+        distance:
+          value: 0.78
+          units: km
     - region: KS
       exchange: '333280'
       name: Springvale
@@ -7002,6 +9642,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '39.766982'
       long: "-101.801842"
+      closest_city:
+        name: St. Francis
+        distance:
+          value: 0.49
+          units: km
     - region: KS
       exchange: '066740'
       name: St George
@@ -7010,6 +9655,11 @@ rate_centers:
       ilec_name: WAMEGO TEL. CO., INC.
       lat: '39.200032'
       long: "-96.415378"
+      closest_city:
+        name: St. George
+        distance:
+          value: 0.99
+          units: km
     - region: KS
       exchange: '066750'
       name: St John
@@ -7018,6 +9668,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '37.997987'
       long: "-98.757477"
+      closest_city:
+        name: St. John
+        distance:
+          value: 0.39
+          units: km
     - region: KS
       exchange: '066760'
       name: St Marys
@@ -7026,6 +9681,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '39.19727'
       long: "-96.065288"
+      closest_city:
+        name: St. Marys
+        distance:
+          value: 0.35
+          units: km
     - region: KS
       exchange: '066770'
       name: St Paul
@@ -7034,6 +9694,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.514175'
       long: "-95.174493"
+      closest_city:
+        name: St. Paul
+        distance:
+          value: 0.49
+          units: km
     - region: KS
       exchange: '066780'
       name: Stafford
@@ -7042,6 +9707,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.964859'
       long: "-98.599315"
+      closest_city:
+        name: Stafford
+        distance:
+          value: 0.27
+          units: km
     - region: KS
       exchange: '066790'
       name: Stanley
@@ -7050,6 +9720,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '38.852894'
       long: "-94.65128"
+      closest_city:
+        name: Overland Park
+        distance:
+          value: 4.89
+          units: km
     - region: KS
       exchange: '333284'
       name: Stark
@@ -7066,6 +9741,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '38.209936'
       long: "-98.199858"
+      closest_city:
+        name: Sterling
+        distance:
+          value: 0.57
+          units: km
     - region: KS
       exchange: '333286'
       name: Stickney
@@ -7090,6 +9770,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '39.431263'
       long: "-99.267863"
+      closest_city:
+        name: Stockton
+        distance:
+          value: 1.0
+          units: km
     - region: KS
       exchange: '333287'
       name: Strong City
@@ -7130,6 +9815,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.483535'
       long: "-100.839102"
+      closest_city:
+        name: Sublette
+        distance:
+          value: 0.68
+          units: km
     - region: KS
       exchange: '066830'
       name: Summerfield
@@ -7138,6 +9828,11 @@ rate_centers:
       ilec_name: BLUE VALLEY TELE-COMMUNICATIONS, INC.
       lat: '39.990274'
       long: "-96.350586"
+      closest_city:
+        name: Summerfield
+        distance:
+          value: 0.73
+          units: km
     - region: KS
       exchange: '066840'
       name: Sun City
@@ -7146,6 +9841,11 @@ rate_centers:
       ilec_name: SOUTH CENTRAL TEL ASSN INC
       lat: '37.374199'
       long: "-98.90593"
+      closest_city:
+        name: Sun City
+        distance:
+          value: 1.06
+          units: km
     - region: KS
       exchange: '330815'
       name: Sunflower
@@ -7178,6 +9878,11 @@ rate_centers:
       ilec_name: WILSON TEL. CO., INC.
       lat: '39.018573'
       long: "-98.393713"
+      closest_city:
+        name: Sylvan Grove
+        distance:
+          value: 0.7
+          units: km
     - region: KS
       exchange: '066860'
       name: Sylvia
@@ -7186,6 +9891,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '37.956787'
       long: "-98.410402"
+      closest_city:
+        name: Sylvia
+        distance:
+          value: 0.29
+          units: km
     - region: KS
       exchange: '066870'
       name: Syracuse
@@ -7194,6 +9904,11 @@ rate_centers:
       ilec_name: PIONEER TEL. ASSN., INC.
       lat: '37.981954'
       long: "-101.748699"
+      closest_city:
+        name: Syracuse
+        distance:
+          value: 3.41
+          units: km
     - region: KS
       exchange: '333723'
       name: Talmage
@@ -7226,6 +9941,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '39.052602'
       long: "-95.592477"
+      closest_city:
+        name: Tecumseh
+        distance:
+          value: 1.57
+          units: km
     - region: KS
       exchange: '066890'
       name: Tescott
@@ -7234,6 +9954,11 @@ rate_centers:
       ilec_name: TWIN VALLEY TEL., INC.
       lat: '39.015273'
       long: "-97.876962"
+      closest_city:
+        name: Tescott
+        distance:
+          value: 0.27
+          units: km
     - region: KS
       exchange: '066900'
       name: Thayer
@@ -7242,6 +9967,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '37.492428'
       long: "-95.480663"
+      closest_city:
+        name: Thayer
+        distance:
+          value: 0.88
+          units: km
     - region: KS
       exchange: '066910'
       name: Timken
@@ -7250,6 +9980,11 @@ rate_centers:
       ilec_name: GOLDEN BELT TEL. ASSN., INC.
       lat: '38.476923'
       long: "-99.183149"
+      closest_city:
+        name: Timken
+        distance:
+          value: 0.62
+          units: km
     - region: KS
       exchange: '066920'
       name: Tipton
@@ -7258,6 +9993,11 @@ rate_centers:
       ilec_name: WILSON TEL. CO., INC.
       lat: '39.334852'
       long: "-98.472215"
+      closest_city:
+        name: Tipton
+        distance:
+          value: 0.53
+          units: km
     - region: KS
       exchange: '066930'
       name: Tonganoxie
@@ -7266,14 +10006,24 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '39.109015'
       long: "-95.08127"
+      closest_city:
+        name: Tonganoxie
+        distance:
+          value: 0.03
+          units: km
     - region: KS
       exchange: '06693E'
       name: Tonganoxie Metro
-      short_name:
+      short_name: Tonganoxie Metro
       lata: '524'
       ilec_name: SOUTHWESTERN BELL
       lat: '39.109015'
       long: "-95.08127"
+      closest_city:
+        name: Tonganoxie
+        distance:
+          value: 0.03
+          units: km
     - region: KS
       exchange: '066940'
       name: Topeka
@@ -7282,6 +10032,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '39.050275'
       long: "-95.67688"
+      closest_city:
+        name: Topeka
+        distance:
+          value: 2.37
+          units: km
     - region: KS
       exchange: '066950'
       name: Topeka Greenfield
@@ -7290,6 +10045,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '39.034746'
       long: "-95.813039"
+      closest_city:
+        name: Silver Lake
+        distance:
+          value: 8.1
+          units: km
     - region: KS
       exchange: '066960'
       name: Toronto
@@ -7298,6 +10058,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '37.800998'
       long: "-95.951891"
+      closest_city:
+        name: Toronto
+        distance:
+          value: 0.33
+          units: km
     - region: KS
       exchange: '066970'
       name: Towanda
@@ -7306,14 +10071,24 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.801191'
       long: "-97.00995"
+      closest_city:
+        name: Towanda
+        distance:
+          value: 1.36
+          units: km
     - region: KS
       exchange: '06697E'
       name: Towanda Metro
-      short_name:
+      short_name: Towanda Metro
       lata: '532'
       ilec_name: SOUTHWESTERN BELL
       lat: '37.801191'
       long: "-97.00995"
+      closest_city:
+        name: Towanda
+        distance:
+          value: 1.36
+          units: km
     - region: KS
       exchange: '330817'
       name: Trading Post
@@ -7338,6 +10113,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.009322'
       long: "-94.849355"
+      closest_city:
+        name: Baxter Springs
+        distance:
+          value: 10.21
+          units: km
     - region: KS
       exchange: '066990'
       name: Tribune
@@ -7346,6 +10126,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF KANSAS COMPANY
       lat: '38.466224'
       long: "-101.748034"
+      closest_city:
+        name: Tribune
+        distance:
+          value: 0.86
+          units: km
     - region: KS
       exchange: '333298'
       name: Trousdale
@@ -7362,6 +10147,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF KANSAS DBA CENTURYLINK
       lat: '39.782231'
       long: "-95.091611"
+      closest_city:
+        name: Troy
+        distance:
+          value: 0.32
+          units: km
     - region: KS
       exchange: '330818'
       name: Turner
@@ -7378,6 +10168,11 @@ rate_centers:
       ilec_name: SOUTH CENTRAL TEL ASSN INC
       lat: '37.807882'
       long: "-98.4265"
+      closest_city:
+        name: Turon
+        distance:
+          value: 0.12
+          units: km
     - region: KS
       exchange: '067020'
       name: Tyro
@@ -7386,6 +10181,11 @@ rate_centers:
       ilec_name: TOTAH COMMUNICATIONS, INC.
       lat: '37.032551'
       long: "-95.81492"
+      closest_city:
+        name: Tyro
+        distance:
+          value: 0.77
+          units: km
     - region: KS
       exchange: '067030'
       name: Udall
@@ -7394,6 +10194,11 @@ rate_centers:
       ilec_name: WHEAT STATE TEL., INC.
       lat: '37.380878'
       long: "-97.115597"
+      closest_city:
+        name: Udall
+        distance:
+          value: 0.91
+          units: km
     - region: KS
       exchange: '067040'
       name: Ulysses
@@ -7402,6 +10207,11 @@ rate_centers:
       ilec_name: PIONEER TEL. ASSN., INC.
       lat: '37.585088'
       long: "-101.357345"
+      closest_city:
+        name: Ulysses
+        distance:
+          value: 0.89
+          units: km
     - region: KS
       exchange: '067050'
       name: Uniontown
@@ -7410,6 +10220,11 @@ rate_centers:
       ilec_name: CRAW-KAN TEL. COOP.,INC. - KS
       lat: '37.840814'
       long: "-94.980651"
+      closest_city:
+        name: Uniontown
+        distance:
+          value: 0.83
+          units: km
     - region: KS
       exchange: '333734'
       name: Upland
@@ -7434,6 +10249,11 @@ rate_centers:
       ilec_name: GOLDEN BELT TEL. ASSN., INC.
       lat: '38.640044'
       long: "-100.167721"
+      closest_city:
+        name: Utica
+        distance:
+          value: 0.35
+          units: km
     - region: KS
       exchange: '333305'
       name: Valeda
@@ -7458,6 +10278,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.832862'
       long: "-97.374839"
+      closest_city:
+        name: Valley Center
+        distance:
+          value: 0.9
+          units: km
     - region: KS
       exchange: '067080'
       name: Valley Falls
@@ -7466,6 +10291,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF KANSAS DBA CENTURYLINK
       lat: '39.339492'
       long: "-95.45669"
+      closest_city:
+        name: Valley Falls
+        distance:
+          value: 0.41
+          units: km
     - region: KS
       exchange: '333307'
       name: Varner
@@ -7490,6 +10320,11 @@ rate_centers:
       ilec_name: BLUE VALLEY TELE-COMMUNICATIONS, INC.
       lat: '39.717215'
       long: "-96.263755"
+      closest_city:
+        name: Vermillion
+        distance:
+          value: 0.22
+          units: km
     - region: KS
       exchange: '333740'
       name: Vesper
@@ -7506,6 +10341,11 @@ rate_centers:
       ilec_name: RURAL TEL. SERVICE CO., INC. DBA NEX-TECH
       lat: '38.848004'
       long: "-99.150234"
+      closest_city:
+        name: Victoria
+        distance:
+          value: 0.69
+          units: km
     - region: KS
       exchange: '333308'
       name: Vilas
@@ -7562,6 +10402,11 @@ rate_centers:
       ilec_name: RURAL TEL. SERVICE CO., INC. DBA NEX-TECH
       lat: '39.026338'
       long: "-99.882023"
+      closest_city:
+        name: WaKeeney
+        distance:
+          value: 0.33
+          units: km
     - region: KS
       exchange: '333746'
       name: Wabaunsee
@@ -7602,6 +10447,11 @@ rate_centers:
       ilec_name: TWIN VALLEY TEL., INC.
       lat: '39.216905'
       long: "-97.018963"
+      closest_city:
+        name: Wakefield
+        distance:
+          value: 0.06
+          units: km
     - region: KS
       exchange: '067130'
       name: Waldo
@@ -7610,6 +10460,11 @@ rate_centers:
       ilec_name: GORHAM TEL. CO., INC.
       lat: '39.115727'
       long: "-98.800828"
+      closest_city:
+        name: Waldo
+        distance:
+          value: 0.52
+          units: km
     - region: KS
       exchange: '067140'
       name: Waldron
@@ -7618,6 +10473,11 @@ rate_centers:
       ilec_name: KANOKLA TEL ASSN
       lat: '36.998714'
       long: "-98.186739"
+      closest_city:
+        name: Waldron
+        distance:
+          value: 0.51
+          units: km
     - region: KS
       exchange: '333751'
       name: Walker
@@ -7634,6 +10494,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF KANSAS COMPANY
       lat: '38.905561'
       long: "-101.59924"
+      closest_city:
+        name: Wallace
+        distance:
+          value: 0.96
+          units: km
     - region: KS
       exchange: '067160'
       name: Walnut
@@ -7642,6 +10507,11 @@ rate_centers:
       ilec_name: CRAW-KAN TEL. COOP.,INC. - KS
       lat: '37.599428'
       long: "-95.085023"
+      closest_city:
+        name: Walnut
+        distance:
+          value: 0.98
+          units: km
     - region: KS
       exchange: '067170'
       name: Walton
@@ -7650,6 +10520,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '38.117582'
       long: "-97.250696"
+      closest_city:
+        name: Walton
+        distance:
+          value: 0.67
+          units: km
     - region: KS
       exchange: '067180'
       name: Wamego
@@ -7658,6 +10533,11 @@ rate_centers:
       ilec_name: WAMEGO TEL. CO., INC.
       lat: '39.198389'
       long: "-96.301252"
+      closest_city:
+        name: Wamego
+        distance:
+          value: 1.08
+          units: km
     - region: KS
       exchange: '067190'
       name: Washington
@@ -7666,6 +10546,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '39.815087'
       long: "-97.048444"
+      closest_city:
+        name: Washington
+        distance:
+          value: 0.1
+          units: km
     - region: KS
       exchange: '333755'
       name: Waterville
@@ -7682,6 +10567,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF KANSAS DBA CENTURYLINK
       lat: '39.767725'
       long: "-94.95704"
+      closest_city:
+        name: Wathena
+        distance:
+          value: 1.71
+          units: km
     - region: KS
       exchange: '333757'
       name: Watson
@@ -7706,6 +10596,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF KANSAS DBA CENTURYLINK
       lat: '38.392552'
       long: "-95.60198"
+      closest_city:
+        name: Waverly
+        distance:
+          value: 0.47
+          units: km
     - region: KS
       exchange: '333759'
       name: Wayne
@@ -7730,6 +10625,11 @@ rate_centers:
       ilec_name: RURAL TEL. SERVICE CO., INC. DBA NEX-TECH
       lat: '39.932907'
       long: "-98.034036"
+      closest_city:
+        name: Webber
+        distance:
+          value: 0.19
+          units: km
     - region: KS
       exchange: '067230'
       name: Weir City
@@ -7738,6 +10638,11 @@ rate_centers:
       ilec_name: CRAW-KAN TEL. COOP.,INC. - KS
       lat: '37.308919'
       long: "-94.782638"
+      closest_city:
+        name: Weir
+        distance:
+          value: 0.76
+          units: km
     - region: KS
       exchange: '333761'
       name: Welda
@@ -7754,6 +10659,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.266272'
       long: "-97.395886"
+      closest_city:
+        name: Wellington
+        distance:
+          value: 2.7
+          units: km
     - region: KS
       exchange: '333762'
       name: Wells
@@ -7778,6 +10688,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '38.717069'
       long: "-95.083855"
+      closest_city:
+        name: Wellsville
+        distance:
+          value: 0.53
+          units: km
     - region: KS
       exchange: '067260'
       name: Weskan
@@ -7786,6 +10701,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF KANSAS COMPANY
       lat: '38.866736'
       long: "-101.964379"
+      closest_city:
+        name: Weskan
+        distance:
+          value: 0.36
+          units: km
     - region: KS
       exchange: '067270'
       name: West Cleveland
@@ -7794,14 +10714,24 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF MISSOURI COMPANY
       lat: '38.684481'
       long: "-94.616193"
+      closest_city:
+        name: Louisburg
+        distance:
+          value: 8.89
+          units: km
     - region: KS
       exchange: 06727E
       name: West Cleveland Metro
-      short_name:
+      short_name: West Cleveland Metro
       lata: '524'
       ilec_name: CONSOLIDATED COMMUNICATIONS OF MISSOURI COMPANY
       lat: '38.684481'
       long: "-94.616193"
+      closest_city:
+        name: Louisburg
+        distance:
+          value: 8.89
+          units: km
     - region: KS
       exchange: '067280'
       name: West Drexel
@@ -7810,14 +10740,24 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF MISSOURI COMPANY
       lat: '38.485188'
       long: "-94.623748"
+      closest_city:
+        name: Linn Valley
+        distance:
+          value: 14.39
+          units: km
     - region: KS
       exchange: '06728E'
       name: West Drexel Metro
-      short_name:
+      short_name: West Drexel Metro
       lata: '524'
       ilec_name: CONSOLIDATED COMMUNICATIONS OF MISSOURI COMPANY
       lat: '38.485188'
       long: "-94.623748"
+      closest_city:
+        name: Linn Valley
+        distance:
+          value: 14.39
+          units: km
     - region: KS
       exchange: '067290'
       name: West Hume
@@ -7826,6 +10766,11 @@ rate_centers:
       ilec_name: CRAW-KAN TEL. COOP.,INC. - MO
       lat: '38.091401'
       long: "-94.623364"
+      closest_city:
+        name: Prescott
+        distance:
+          value: 6.86
+          units: km
     - region: KS
       exchange: '067300'
       name: West Mineral
@@ -7834,6 +10779,11 @@ rate_centers:
       ilec_name: CRAW-KAN TEL. COOP.,INC. - KS
       lat: '37.285301'
       long: "-94.933136"
+      closest_city:
+        name: West Mineral
+        distance:
+          value: 0.58
+          units: km
     - region: KS
       exchange: '067310'
       name: West Topeka
@@ -7842,6 +10792,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '38.964216'
       long: "-95.965522"
+      closest_city:
+        name: Auburn
+        distance:
+          value: 14.39
+          units: km
     - region: KS
       exchange: '333765'
       name: Westfall
@@ -7858,6 +10813,11 @@ rate_centers:
       ilec_name: BLUE VALLEY TELE-COMMUNICATIONS, INC.
       lat: '39.401165'
       long: "-96.418266"
+      closest_city:
+        name: Westmoreland
+        distance:
+          value: 0.88
+          units: km
     - region: KS
       exchange: '067330'
       name: Westphalia
@@ -7866,6 +10826,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF KANSAS DBA CENTURYLINK
       lat: '38.184677'
       long: "-95.49116"
+      closest_city:
+        name: Westphalia
+        distance:
+          value: 0.32
+          units: km
     - region: KS
       exchange: '330825'
       name: Westwood
@@ -7890,6 +10855,11 @@ rate_centers:
       ilec_name: J.B.N. TEL. CO., INC.
       lat: '39.63459'
       long: "-95.805543"
+      closest_city:
+        name: Wetmore
+        distance:
+          value: 0.5
+          units: km
     - region: KS
       exchange: '067350'
       name: Wheaton
@@ -7898,6 +10868,11 @@ rate_centers:
       ilec_name: BLUE VALLEY TELE-COMMUNICATIONS, INC.
       lat: '39.501963'
       long: "-96.326563"
+      closest_city:
+        name: Wheaton
+        distance:
+          value: 0.66
+          units: km
     - region: KS
       exchange: '333770'
       name: Wheeler
@@ -7914,6 +10889,11 @@ rate_centers:
       ilec_name: TRI-COUNTY TEL. ASSN., INC.
       lat: '38.799459'
       long: "-96.75776"
+      closest_city:
+        name: White City
+        distance:
+          value: 2.08
+          units: km
     - region: KS
       exchange: '067370'
       name: White Cloud
@@ -7922,6 +10902,11 @@ rate_centers:
       ilec_name: UNITED TEL. CO. OF KANSAS DBA CENTURYLINK
       lat: '39.977441'
       long: "-95.301769"
+      closest_city:
+        name: White Cloud
+        distance:
+          value: 0.41
+          units: km
     - region: KS
       exchange: '067380'
       name: White Water
@@ -7930,6 +10915,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.966331'
       long: "-97.151617"
+      closest_city:
+        name: Whitewater
+        distance:
+          value: 0.58
+          units: km
     - region: KS
       exchange: '067390'
       name: Whiting
@@ -7938,6 +10928,11 @@ rate_centers:
       ilec_name: RAINBOW TELECOMMUNICATIONS ASSOCIATION, INC.
       lat: '39.590896'
       long: "-95.610009"
+      closest_city:
+        name: Whiting
+        distance:
+          value: 0.36
+          units: km
     - region: KS
       exchange: '333321'
       name: Whitman
@@ -7954,6 +10949,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.69023'
       long: "-97.333917"
+      closest_city:
+        name: Wichita
+        distance:
+          value: 0.92
+          units: km
     - region: KS
       exchange: '067410'
       name: Wichita Jackson
@@ -7962,6 +10962,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.60082'
       long: "-97.334988"
+      closest_city:
+        name: Oaklawn-Sunview
+        distance:
+          value: 3.33
+          units: km
     - region: KS
       exchange: '067420'
       name: Wichita Parkview
@@ -7970,6 +10975,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.70709'
       long: "-97.481182"
+      closest_city:
+        name: Maize
+        distance:
+          value: 7.73
+          units: km
     - region: KS
       exchange: '333325'
       name: Wilburton
@@ -8002,6 +11012,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '38.482602'
       long: "-95.46506"
+      closest_city:
+        name: Williamsburg
+        distance:
+          value: 0.34
+          units: km
     - region: KS
       exchange: '333776'
       name: Williamstown
@@ -8018,6 +11033,11 @@ rate_centers:
       ilec_name: RAINBOW TELECOMMUNICATIONS ASSOCIATION, INC.
       lat: '39.725151'
       long: "-95.498294"
+      closest_city:
+        name: Willis
+        distance:
+          value: 0.7
+          units: km
     - region: KS
       exchange: '333326'
       name: Willowbrook
@@ -8034,6 +11054,11 @@ rate_centers:
       ilec_name: HAVILAND TEL. CO., INC.
       lat: '37.333765'
       long: "-99.214208"
+      closest_city:
+        name: Wilmore
+        distance:
+          value: 0.38
+          units: km
     - region: KS
       exchange: '067460'
       name: Wilsey
@@ -8042,6 +11067,11 @@ rate_centers:
       ilec_name: TRI-COUNTY TEL. ASSN., INC.
       lat: '38.635871'
       long: "-96.683937"
+      closest_city:
+        name: Wilsey
+        distance:
+          value: 0.65
+          units: km
     - region: KS
       exchange: '067470'
       name: Wilson
@@ -8050,6 +11080,11 @@ rate_centers:
       ilec_name: WILSON TEL. CO., INC.
       lat: '38.825116'
       long: "-98.47596"
+      closest_city:
+        name: Wilson
+        distance:
+          value: 0.09
+          units: km
     - region: KS
       exchange: '067480'
       name: Winchester
@@ -8058,6 +11093,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '39.326197'
       long: "-95.264584"
+      closest_city:
+        name: Winchester
+        distance:
+          value: 0.54
+          units: km
     - region: KS
       exchange: '067490'
       name: Windom
@@ -8066,6 +11106,11 @@ rate_centers:
       ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
       lat: '38.383308'
       long: "-97.907913"
+      closest_city:
+        name: Windom
+        distance:
+          value: 0.22
+          units: km
     - region: KS
       exchange: '067500'
       name: Winfield
@@ -8074,6 +11119,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.241496'
       long: "-96.993169"
+      closest_city:
+        name: Winfield
+        distance:
+          value: 5.26
+          units: km
     - region: KS
       exchange: '333780'
       name: Winifred
@@ -8090,6 +11140,11 @@ rate_centers:
       ilec_name: S & T TEL. COOP. ASSN.
       lat: '39.064824'
       long: "-101.248125"
+      closest_city:
+        name: Winona
+        distance:
+          value: 0.44
+          units: km
     - region: KS
       exchange: '330828'
       name: Wolcott
@@ -8106,6 +11161,11 @@ rate_centers:
       ilec_name: TRI-COUNTY TEL. ASSN., INC.
       lat: '38.79309'
       long: "-96.957509"
+      closest_city:
+        name: Woodbine
+        distance:
+          value: 0.32
+          units: km
     - region: KS
       exchange: '067530'
       name: Woodruff
@@ -8114,6 +11174,11 @@ rate_centers:
       ilec_name: RURAL TEL. SERVICE CO., INC. DBA NEX-TECH
       lat: '39.993124'
       long: "-99.416974"
+      closest_city:
+        name: Woodruff
+        distance:
+          value: 1.39
+          units: km
     - region: KS
       exchange: '067540'
       name: Woodston
@@ -8122,6 +11187,11 @@ rate_centers:
       ilec_name: RURAL TEL. SERVICE CO., INC. DBA NEX-TECH
       lat: '39.45142'
       long: "-99.099861"
+      closest_city:
+        name: Woodston
+        distance:
+          value: 0.31
+          units: km
     - region: KS
       exchange: '333785'
       name: Worden
@@ -8154,6 +11224,11 @@ rate_centers:
       ilec_name: SOUTHWESTERN BELL
       lat: '37.883594'
       long: "-95.73264"
+      closest_city:
+        name: Yates Center
+        distance:
+          value: 2.64
+          units: km
     - region: KS
       exchange: '333786'
       name: Yocemento
@@ -8186,6 +11261,11 @@ rate_centers:
       ilec_name: ZENDA TEL. CO., INC.
       lat: '37.450896'
       long: "-98.283001"
+      closest_city:
+        name: Zenda
+        distance:
+          value: 0.77
+          units: km
     - region: KS
       exchange: '333333'
       name: Zenith
@@ -8202,3 +11282,8 @@ rate_centers:
       ilec_name: RURAL TEL. SERVICE CO., INC. DBA NEX-TECH
       lat: '39.234865'
       long: "-99.42497"
+      closest_city:
+        name: Zurich
+        distance:
+          value: 0.89
+          units: km

@@ -1,7 +1,7 @@
 ---
 rate_centers:
-  us:
-    fl:
+  US:
+    FL:
     - region: FL
       exchange: '029420'
       name: Alachua
@@ -10,6 +10,11 @@ rate_centers:
       ilec_name: WINDSTREAM FLORIDA, INC.
       lat: '29.792562'
       long: "-82.490107"
+      closest_city:
+        name: Alachua
+        distance:
+          value: 1.76
+          units: km
     - region: FL
       exchange: '324156'
       name: Alafaya
@@ -34,6 +39,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (CENTRAL)
       lat: '30.697846'
       long: "-85.388732"
+      closest_city:
+        name: Alford
+        distance:
+          value: 0.64
+          units: km
     - region: FL
       exchange: '324128'
       name: Allandale
@@ -50,6 +60,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF FLORIDA COMPANY
       lat: '29.914393'
       long: "-84.371156"
+      closest_city:
+        name: Panacea
+        distance:
+          value: 12.84
+          units: km
     - region: FL
       exchange: '324221'
       name: Aloma
@@ -74,6 +89,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF FLORIDA COMPANY
       lat: '30.576826'
       long: "-85.125519"
+      closest_city:
+        name: Altha
+        distance:
+          value: 0.53
+          units: km
     - region: FL
       exchange: '324045'
       name: Altoona
@@ -154,6 +174,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF FLORIDA COMPANY
       lat: '29.716859'
       long: "-84.989258"
+      closest_city:
+        name: Apalachicola
+        distance:
+          value: 1.35
+          units: km
     - region: FL
       exchange: '362046'
       name: Apollo Beach
@@ -170,6 +195,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '28.683884'
       long: "-81.501474"
+      closest_city:
+        name: South Apopka
+        distance:
+          value: 3.02
+          units: km
     - region: FL
       exchange: '029480'
       name: Arcadia
@@ -178,6 +208,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '27.217245'
       long: "-81.858722"
+      closest_city:
+        name: Arcadia
+        distance:
+          value: 0.47
+          units: km
     - region: FL
       exchange: '029490'
       name: Archer
@@ -186,6 +221,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '29.523887'
       long: "-82.515675"
+      closest_city:
+        name: Archer
+        distance:
+          value: 1.81
+          units: km
     - region: FL
       exchange: '323780'
       name: Argyle
@@ -218,6 +258,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '29.15502'
       long: "-81.544462"
+      closest_city:
+        name: Astor
+        distance:
+          value: 1.32
+          units: km
     - region: FL
       exchange: '324049'
       name: Astor Park
@@ -282,6 +327,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '27.613867'
       long: "-81.50491"
+      closest_city:
+        name: Avon Park
+        distance:
+          value: 2.68
+          units: km
     - region: FL
       exchange: '324157'
       name: Azalea Park
@@ -330,6 +380,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (CENTRAL)
       lat: '30.79953'
       long: "-86.68487"
+      closest_city:
+        name: Crestview
+        distance:
+          value: 11.68
+          units: km
     - region: FL
       exchange: '324263'
       name: Bal Harbour
@@ -346,6 +401,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '30.297968'
       long: "-81.973742"
+      closest_city:
+        name: Baldwin
+        distance:
+          value: 0.81
+          units: km
     - region: FL
       exchange: '362050'
       name: Balm
@@ -394,6 +454,11 @@ rate_centers:
       ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
       lat: '27.889937'
       long: "-81.833094"
+      closest_city:
+        name: Bartow
+        distance:
+          value: 1.2
+          units: km
     - region: FL
       exchange: '323873'
       name: Bascom
@@ -514,6 +579,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '26.682646'
       long: "-80.672667"
+      closest_city:
+        name: Belle Glade
+        distance:
+          value: 1.22
+          units: km
     - region: FL
       exchange: '324158'
       name: Belle Isle
@@ -562,6 +632,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '29.064082'
       long: "-82.060848"
+      closest_city:
+        name: Belleview
+        distance:
+          value: 0.56
+          units: km
     - region: FL
       exchange: '323758'
       name: Bellview
@@ -586,6 +661,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '28.928004'
       long: "-82.453057"
+      closest_city:
+        name: Beverly Hills
+        distance:
+          value: 1.16
+          units: km
     - region: FL
       exchange: '029580'
       name: Big Pine
@@ -594,6 +674,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '24.673009'
       long: "-81.350008"
+      closest_city:
+        name: Big Pine Key
+        distance:
+          value: 2.54
+          units: km
     - region: FL
       exchange: '324266'
       name: Big Torch Key
@@ -634,6 +719,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF FLORIDA COMPANY
       lat: '30.439713'
       long: "-85.048406"
+      closest_city:
+        name: Blountstown
+        distance:
+          value: 0.46
+          units: km
     - region: FL
       exchange: '324268'
       name: Boca Chica
@@ -650,6 +740,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '26.739792'
       long: "-82.259762"
+      closest_city:
+        name: Bokeelia
+        distance:
+          value: 13.55
+          units: km
     - region: FL
       exchange: '029610'
       name: Boca Raton
@@ -658,6 +753,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '26.349553'
       long: "-80.089281"
+      closest_city:
+        name: Boca Raton
+        distance:
+          value: 3.41
+          units: km
     - region: FL
       exchange: '361581'
       name: Bokeelia
@@ -674,6 +774,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (CENTRAL)
       lat: '30.790323'
       long: "-85.682187"
+      closest_city:
+        name: Bonifay
+        distance:
+          value: 1.36
+          units: km
     - region: FL
       exchange: '029630'
       name: Bonita Springs
@@ -682,6 +787,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '26.331599'
       long: "-81.783041"
+      closest_city:
+        name: Bonita Springs
+        distance:
+          value: 2.71
+          units: km
     - region: FL
       exchange: '323892'
       name: Bostwick
@@ -706,6 +816,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '27.631038'
       long: "-81.816603"
+      closest_city:
+        name: Bowling Green
+        distance:
+          value: 1.09
+          units: km
     - region: FL
       exchange: '362210'
       name: Boyd
@@ -722,6 +837,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '26.52408'
       long: "-80.056553"
+      closest_city:
+        name: Ocean Ridge
+        distance:
+          value: 0.83
+          units: km
     - region: FL
       exchange: '323963'
       name: Boys Ranch
@@ -746,6 +866,11 @@ rate_centers:
       ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
       lat: '27.490942'
       long: "-82.56818"
+      closest_city:
+        name: Bradenton
+        distance:
+          value: 0.75
+          units: km
     - region: FL
       exchange: '029661'
       name: Bradenton Bay
@@ -770,6 +895,11 @@ rate_centers:
       ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
       lat: '27.900657'
       long: "-81.963853"
+      closest_city:
+        name: Mulberry
+        distance:
+          value: 2.37
+          units: km
     - region: FL
       exchange: '031921'
       name: Brandon
@@ -786,6 +916,11 @@ rate_centers:
       ilec_name: WINDSTREAM FLORIDA, INC.
       lat: '29.966852'
       long: "-82.923665"
+      closest_city:
+        name: Branford
+        distance:
+          value: 0.51
+          units: km
     - region: FL
       exchange: '362063'
       name: Brewster
@@ -818,6 +953,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF FLORIDA COMPANY
       lat: '30.435208'
       long: "-84.984663"
+      closest_city:
+        name: Bristol
+        distance:
+          value: 1.29
+          units: km
     - region: FL
       exchange: '029690'
       name: Bronson
@@ -826,6 +966,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '29.450404'
       long: "-82.630905"
+      closest_city:
+        name: Bronson
+        distance:
+          value: 0.79
+          units: km
     - region: FL
       exchange: '029700'
       name: Brooker
@@ -834,6 +979,11 @@ rate_centers:
       ilec_name: WINDSTREAM FLORIDA, INC.
       lat: '29.892091'
       long: "-82.332327"
+      closest_city:
+        name: Brooker
+        distance:
+          value: 0.49
+          units: km
     - region: FL
       exchange: '029710'
       name: Brooksville
@@ -842,6 +992,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '28.556462'
       long: "-82.382445"
+      closest_city:
+        name: Brooksville
+        distance:
+          value: 1.94
+          units: km
     - region: FL
       exchange: '361556'
       name: Brownville
@@ -906,6 +1061,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '29.458505'
       long: "-81.260112"
+      closest_city:
+        name: Bunnell
+        distance:
+          value: 7.5
+          units: km
     - region: FL
       exchange: '029730'
       name: Bushnell
@@ -914,6 +1074,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '28.666819'
       long: "-82.105301"
+      closest_city:
+        name: Bushnell
+        distance:
+          value: 2.4
+          units: km
     - region: FL
       exchange: '029740'
       name: Callahan
@@ -922,6 +1087,11 @@ rate_centers:
       ilec_name: WINDSTREAM FLORIDA, INC.
       lat: '30.556795'
       long: "-81.834863"
+      closest_city:
+        name: Callahan
+        distance:
+          value: 1.01
+          units: km
     - region: FL
       exchange: '323814'
       name: Callaway
@@ -970,6 +1140,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '30.60782'
       long: "-87.32276"
+      closest_city:
+        name: Gonzalez
+        distance:
+          value: 4.19
+          units: km
     - region: FL
       exchange: '324161'
       name: Cape Canaveral
@@ -986,6 +1161,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '26.55607'
       long: "-81.934364"
+      closest_city:
+        name: McGregor
+        distance:
+          value: 2.16
+          units: km
     - region: FL
       exchange: '029770'
       name: Cape Haze
@@ -994,6 +1174,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '26.857265'
       long: "-82.29126"
+      closest_city:
+        name: Rotonda
+        distance:
+          value: 3.25
+          units: km
     - region: FL
       exchange: '323851'
       name: Cape San Blas
@@ -1034,6 +1219,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF FLORIDA COMPANY
       lat: '29.848532'
       long: "-84.666145"
+      closest_city:
+        name: Carrabelle
+        distance:
+          value: 0.81
+          units: km
     - region: FL
       exchange: '031916'
       name: Carrollwood
@@ -1098,6 +1288,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '29.131253'
       long: "-83.032875"
+      closest_city:
+        name: Cedar Key
+        distance:
+          value: 1.74
+          units: km
     - region: FL
       exchange: '029800'
       name: Celebration
@@ -1106,6 +1301,11 @@ rate_centers:
       ilec_name: SMART CITY TELECOM LLC DBA SMART CITY TELECOM
       lat: '28.334397'
       long: "-81.546493"
+      closest_city:
+        name: Celebration
+        distance:
+          value: 2.73
+          units: km
     - region: FL
       exchange: '324056'
       name: Center Hill
@@ -1122,6 +1322,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
       lat: '30.96638'
       long: "-87.263949"
+      closest_city:
+        name: Century
+        distance:
+          value: 1.15
+          units: km
     - region: FL
       exchange: '362065'
       name: Champions Gate
@@ -1146,6 +1351,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF FLORIDA COMPANY
       lat: '30.691741'
       long: "-84.840401"
+      closest_city:
+        name: Chattahoochee
+        distance:
+          value: 0.9
+          units: km
     - region: FL
       exchange: '029830'
       name: Cherry Lake
@@ -1154,6 +1364,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (CENTRAL)
       lat: '30.576483'
       long: "-83.426773"
+      closest_city:
+        name: Madison
+        distance:
+          value: 11.74
+          units: km
     - region: FL
       exchange: '029840'
       name: Chiefland
@@ -1162,6 +1377,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '29.484036'
       long: "-82.851502"
+      closest_city:
+        name: Chiefland
+        distance:
+          value: 1.86
+          units: km
     - region: FL
       exchange: '361558'
       name: Childs
@@ -1178,6 +1398,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '30.783404'
       long: "-85.535078"
+      closest_city:
+        name: Chipley
+        distance:
+          value: 1.05
+          units: km
     - region: FL
       exchange: '323796'
       name: Choctaw Beach
@@ -1226,6 +1451,11 @@ rate_centers:
       ilec_name: WINDSTREAM FLORIDA, INC.
       lat: '29.418386'
       long: "-82.117232"
+      closest_city:
+        name: Reddick
+        distance:
+          value: 9.55
+          units: km
     - region: FL
       exchange: '324058'
       name: Citrus Hills
@@ -1298,6 +1528,11 @@ rate_centers:
       ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
       lat: '27.966674'
       long: "-82.799465"
+      closest_city:
+        name: Belleair
+        distance:
+          value: 3.55
+          units: km
     - region: FL
       exchange: '362069'
       name: Clearwater Beach
@@ -1314,6 +1549,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '28.557808'
       long: "-81.766711"
+      closest_city:
+        name: Clermont
+        distance:
+          value: 5.29
+          units: km
     - region: FL
       exchange: '361590'
       name: Cleveland
@@ -1330,6 +1570,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '26.750466'
       long: "-80.913766"
+      closest_city:
+        name: Clewiston
+        distance:
+          value: 2.61
+          units: km
     - region: FL
       exchange: '324399'
       name: Cloud Lake
@@ -1354,6 +1599,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '28.348393'
       long: "-80.726666"
+      closest_city:
+        name: Rockledge
+        distance:
+          value: 3.25
+          units: km
     - region: FL
       exchange: '029910'
       name: Cocoa Beach
@@ -1362,6 +1612,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '28.316534'
       long: "-80.608714"
+      closest_city:
+        name: Cocoa Beach
+        distance:
+          value: 2.56
+          units: km
     - region: FL
       exchange: '324271'
       name: Coconut Creek
@@ -1434,6 +1689,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '26.257693'
       long: "-80.251292"
+      closest_city:
+        name: Coral Springs
+        distance:
+          value: 1.59
+          units: km
     - region: FL
       exchange: '324132'
       name: Coronado Beach
@@ -1474,6 +1734,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (CENTRAL)
       lat: '30.80095'
       long: "-85.384631"
+      closest_city:
+        name: Cottondale
+        distance:
+          value: 2.34
+          units: km
     - region: FL
       exchange: '029874'
       name: Countryside
@@ -1498,6 +1763,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (CENTRAL)
       lat: '30.174649'
       long: "-84.374838"
+      closest_city:
+        name: Crawfordville
+        distance:
+          value: 2.98
+          units: km
     - region: FL
       exchange: '029950'
       name: Crescent City
@@ -1506,6 +1776,11 @@ rate_centers:
       ilec_name: WINDSTREAM FLORIDA, INC.
       lat: '29.435021'
       long: "-81.508435"
+      closest_city:
+        name: Crescent City
+        distance:
+          value: 0.9
+          units: km
     - region: FL
       exchange: '029960'
       name: Crestview
@@ -1514,6 +1789,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (CENTRAL)
       lat: '30.759785'
       long: "-86.576596"
+      closest_city:
+        name: Crestview
+        distance:
+          value: 1.36
+          units: km
     - region: FL
       exchange: '029970'
       name: Cross City
@@ -1522,6 +1802,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '29.63358'
       long: "-83.123729"
+      closest_city:
+        name: Cross City
+        distance:
+          value: 0.57
+          units: km
     - region: FL
       exchange: '323995'
       name: Cross Creek
@@ -1554,6 +1839,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '28.900982'
       long: "-82.585411"
+      closest_city:
+        name: Crystal River
+        distance:
+          value: 1.43
+          units: km
     - region: FL
       exchange: '362072'
       name: Crystal Springs
@@ -1610,6 +1900,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '28.367189'
       long: "-82.193289"
+      closest_city:
+        name: Dade City
+        distance:
+          value: 1.19
+          units: km
     - region: FL
       exchange: '324281'
       name: Dania
@@ -1650,6 +1945,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE SOUTH, LLC - FL
       lat: '30.883636'
       long: "-87.505731"
+      closest_city:
+        name: Century
+        distance:
+          value: 25.37
+          units: km
     - region: FL
       exchange: '323965'
       name: Day
@@ -1666,6 +1966,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '29.231596'
       long: "-81.035058"
+      closest_city:
+        name: Holly Hill
+        distance:
+          value: 1.79
+          units: km
     - region: FL
       exchange: '324137'
       name: Daytona Beach Shores
@@ -1690,6 +1995,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '28.875771'
       long: "-81.300127"
+      closest_city:
+        name: DeBary
+        distance:
+          value: 2.41
+          units: km
     - region: FL
       exchange: '030020'
       name: DeFuniak Springs
@@ -1698,6 +2008,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (CENTRAL)
       lat: '30.716691'
       long: "-86.114704"
+      closest_city:
+        name: DeFuniak Springs
+        distance:
+          value: 0.76
+          units: km
     - region: FL
       exchange: '030060'
       name: DeLand
@@ -1706,6 +2021,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '29.031926'
       long: "-81.292343"
+      closest_city:
+        name: DeLand
+        distance:
+          value: 1.15
+          units: km
     - region: FL
       exchange: '030030'
       name: DeLeon Springs
@@ -1714,6 +2034,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '29.115022'
       long: "-81.358167"
+      closest_city:
+        name: De Leon Springs
+        distance:
+          value: 0.67
+          units: km
     - region: FL
       exchange: '361594'
       name: Deep Lake
@@ -1738,6 +2063,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '26.311964'
       long: "-80.108295"
+      closest_city:
+        name: Deerfield Beach
+        distance:
+          value: 2.08
+          units: km
     - region: FL
       exchange: '324135'
       name: Deland Highlands
@@ -1762,6 +2092,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '26.458773'
       long: "-80.064287"
+      closest_city:
+        name: Delray Beach
+        distance:
+          value: 2.64
+          units: km
     - region: FL
       exchange: '324401'
       name: Delray Dunes
@@ -1794,6 +2129,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (CENTRAL)
       lat: '30.410846'
       long: "-86.50044"
+      closest_city:
+        name: Destin
+        distance:
+          value: 3.4
+          units: km
     - region: FL
       exchange: '323899'
       name: Dinsmore
@@ -1842,6 +2182,11 @@ rate_centers:
       ilec_name: WINDSTREAM FLORIDA, INC.
       lat: '30.252578'
       long: "-83.236016"
+      closest_city:
+        name: Day
+        distance:
+          value: 8.29
+          units: km
     - region: FL
       exchange: '362213'
       name: Drifton
@@ -1906,6 +2251,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '29.048015'
       long: "-82.458996"
+      closest_city:
+        name: Dunnellon
+        distance:
+          value: 3.1
+          units: km
     - region: FL
       exchange: '361595'
       name: Dupont
@@ -1946,6 +2296,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '28.532709'
       long: "-81.008711"
+      closest_city:
+        name: Christmas
+        distance:
+          value: 3.28
+          units: km
     - region: FL
       exchange: '323901'
       name: East Palatka
@@ -1970,6 +2325,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF FLORIDA COMPANY
       lat: '29.729352'
       long: "-84.88536"
+      closest_city:
+        name: Eastpoint
+        distance:
+          value: 3.17
+          units: km
     - region: FL
       exchange: '324229'
       name: Eatonville
@@ -1986,6 +2346,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '28.125888'
       long: "-80.622483"
+      closest_city:
+        name: Indian Harbour Beach
+        distance:
+          value: 3.87
+          units: km
     - region: FL
       exchange: '323817'
       name: Ebro
@@ -2106,6 +2471,11 @@ rate_centers:
       ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
       lat: '26.956292'
       long: "-82.3582"
+      closest_city:
+        name: Englewood
+        distance:
+          value: 1.81
+          units: km
     - region: FL
       exchange: '324172'
       name: Enterprise
@@ -2138,6 +2508,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '28.856923'
       long: "-81.677019"
+      closest_city:
+        name: Eustis
+        distance:
+          value: 0.07
+          units: km
     - region: FL
       exchange: '362214'
       name: Eva
@@ -2154,6 +2529,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '25.860945'
       long: "-81.384011"
+      closest_city:
+        name: Everglades
+        distance:
+          value: 0.39
+          units: km
     - region: FL
       exchange: '324000'
       name: Evinston
@@ -2242,6 +2622,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '30.664657'
       long: "-81.457533"
+      closest_city:
+        name: Fernandina Beach
+        distance:
+          value: 1.04
+          units: km
     - region: FL
       exchange: '324231'
       name: Ferndale
@@ -2258,6 +2643,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '29.477448'
       long: "-81.124717"
+      closest_city:
+        name: Flagler Beach
+        distance:
+          value: 0.85
+          units: km
     - region: FL
       exchange: '324289'
       name: Flamingo Lodge
@@ -2282,14 +2672,24 @@ rate_centers:
       ilec_name: WINDSTREAM FLORIDA, INC.
       lat: '29.72899'
       long: "-81.885104"
+      closest_city:
+        name: Interlachen
+        distance:
+          value: 12.13
+          units: km
     - region: FL
       exchange: '030191'
       name: Florahome (Clay)
-      short_name:
+      short_name: Florahome (Clay)
       lata: '45204'
       ilec_name: WINDSTREAM FLORIDA, INC.
       lat: '29.72899'
       long: "-81.885104"
+      closest_city:
+        name: Interlachen
+        distance:
+          value: 12.13
+          units: km
     - region: FL
       exchange: '324067'
       name: Floral City
@@ -2322,6 +2722,11 @@ rate_centers:
       ilec_name: WINDSTREAM FLORIDA, INC.
       lat: '30.425788'
       long: "-83.011804"
+      closest_city:
+        name: Jasper
+        distance:
+          value: 10.51
+          units: km
     - region: FL
       exchange: '362216'
       name: Foley
@@ -2338,6 +2743,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '29.182818'
       long: "-81.890896"
+      closest_city:
+        name: Silver Springs Shores
+        distance:
+          value: 14.35
+          units: km
     - region: FL
       exchange: '324232'
       name: Forest City
@@ -2370,6 +2780,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '26.116924'
       long: "-80.142417"
+      closest_city:
+        name: Fort Lauderdale
+        distance:
+          value: 2.73
+          units: km
     - region: FL
       exchange: '324069'
       name: Fort McCoy
@@ -2386,6 +2801,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '27.751076'
       long: "-81.792113"
+      closest_city:
+        name: Fort Meade
+        distance:
+          value: 2.01
+          units: km
     - region: FL
       exchange: '030240'
       name: Fort Myers
@@ -2394,6 +2814,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '26.641662'
       long: "-81.855951"
+      closest_city:
+        name: Fort Myers
+        distance:
+          value: 3.56
+          units: km
     - region: FL
       exchange: '030250'
       name: Fort Myers Beach
@@ -2402,6 +2827,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '26.44781'
       long: "-81.950422"
+      closest_city:
+        name: Fort Myers Beach
+        distance:
+          value: 4.04
+          units: km
     - region: FL
       exchange: '361561'
       name: Fort Ogden
@@ -2418,6 +2848,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '27.443324'
       long: "-80.333918"
+      closest_city:
+        name: Fort Pierce
+        distance:
+          value: 2.18
+          units: km
     - region: FL
       exchange: '030270'
       name: Fort Walton Beach
@@ -2426,6 +2861,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (CENTRAL)
       lat: '30.41124'
       long: "-86.602176"
+      closest_city:
+        name: Cinco Bayou
+        distance:
+          value: 1.41
+          units: km
     - region: FL
       exchange: '030280'
       name: Fort White
@@ -2434,6 +2874,11 @@ rate_centers:
       ilec_name: WINDSTREAM FLORIDA, INC.
       lat: '29.916684'
       long: "-82.70067"
+      closest_city:
+        name: Fort White
+        distance:
+          value: 1.39
+          units: km
     - region: FL
       exchange: '323819'
       name: Fountain
@@ -2450,6 +2895,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (CENTRAL)
       lat: '30.500328'
       long: "-86.133287"
+      closest_city:
+        name: Freeport
+        distance:
+          value: 0.68
+          units: km
     - region: FL
       exchange: '030300'
       name: Frostproof
@@ -2458,6 +2908,11 @@ rate_centers:
       ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
       lat: '27.741736'
       long: "-81.534752"
+      closest_city:
+        name: Frostproof
+        distance:
+          value: 1.27
+          units: km
     - region: FL
       exchange: '323908'
       name: Fruit Cove
@@ -2498,6 +2953,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '29.658416'
       long: "-82.323088"
+      closest_city:
+        name: Gainesville
+        distance:
+          value: 3.29
+          units: km
     - region: FL
       exchange: '031841'
       name: Gandy
@@ -2538,6 +2998,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '28.736005'
       long: "-81.108552"
+      closest_city:
+        name: Geneva
+        distance:
+          value: 0.59
+          units: km
     - region: FL
       exchange: '323909'
       name: Georgetown
@@ -2586,6 +3051,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (CENTRAL)
       lat: '30.859288'
       long: "-86.117329"
+      closest_city:
+        name: DeFuniak Springs
+        distance:
+          value: 16.35
+          units: km
     - region: FL
       exchange: '324141'
       name: Glenwood
@@ -2690,6 +3160,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '30.958302'
       long: "-85.516448"
+      closest_city:
+        name: Graceville
+        distance:
+          value: 0.49
+          units: km
     - region: FL
       exchange: '324004'
       name: Graham
@@ -2714,6 +3189,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (CENTRAL)
       lat: '30.719322'
       long: "-85.017313"
+      closest_city:
+        name: Grand Ridge
+        distance:
+          value: 1.27
+          units: km
     - region: FL
       exchange: '323821'
       name: Grande Pointe
@@ -2770,6 +3250,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '29.991643'
       long: "-81.683214"
+      closest_city:
+        name: Green Cove Springs
+        distance:
+          value: 0.28
+          units: km
     - region: FL
       exchange: '030370'
       name: Greensboro
@@ -2778,6 +3263,11 @@ rate_centers:
       ilec_name: QUINCY TEL CO
       lat: '30.568299'
       long: "-84.748791"
+      closest_city:
+        name: Greensboro
+        distance:
+          value: 1.59
+          units: km
     - region: FL
       exchange: '030380'
       name: Greenville
@@ -2786,6 +3276,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (CENTRAL)
       lat: '30.469196'
       long: "-83.625371"
+      closest_city:
+        name: Greenville
+        distance:
+          value: 0.98
+          units: km
     - region: FL
       exchange: '030390'
       name: Greenwood
@@ -2794,6 +3289,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (CENTRAL)
       lat: '30.871676'
       long: "-85.170026"
+      closest_city:
+        name: Greenwood
+        distance:
+          value: 0.85
+          units: km
     - region: FL
       exchange: '030400'
       name: Gretna
@@ -2802,6 +3302,11 @@ rate_centers:
       ilec_name: QUINCY TEL CO
       lat: '30.614137'
       long: "-84.658851"
+      closest_city:
+        name: Gretna
+        distance:
+          value: 3.63
+          units: km
     - region: FL
       exchange: '361606'
       name: Grove City
@@ -2826,6 +3331,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '28.557715'
       long: "-81.857338"
+      closest_city:
+        name: Groveland
+        distance:
+          value: 6.62
+          units: km
     - region: FL
       exchange: '030420'
       name: Gulf Breeze
@@ -2834,6 +3344,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '30.356721'
       long: "-87.14977"
+      closest_city:
+        name: Gulf Breeze
+        distance:
+          value: 2.64
+          units: km
     - region: FL
       exchange: '324006'
       name: Gulf Hammock
@@ -2874,6 +3389,11 @@ rate_centers:
       ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
       lat: '28.11033'
       long: "-81.616333"
+      closest_city:
+        name: Haines City
+        distance:
+          value: 0.06
+          units: km
     - region: FL
       exchange: '324073'
       name: Haines Creek
@@ -2938,6 +3458,11 @@ rate_centers:
       ilec_name: WINDSTREAM FLORIDA, INC.
       lat: '29.717454'
       long: "-81.507074"
+      closest_city:
+        name: Hastings
+        distance:
+          value: 0.85
+          units: km
     - region: FL
       exchange: '030450'
       name: Havana
@@ -2946,6 +3471,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '30.616062'
       long: "-84.414307"
+      closest_city:
+        name: Havana
+        distance:
+          value: 1.53
+          units: km
     - region: FL
       exchange: '324411'
       name: Haverhill
@@ -2962,6 +3492,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '29.591368'
       long: "-82.081153"
+      closest_city:
+        name: Hawthorne
+        distance:
+          value: 1.31
+          units: km
     - region: FL
       exchange: '324178'
       name: Heathrow
@@ -3026,6 +3561,11 @@ rate_centers:
       ilec_name: WINDSTREAM FLORIDA, INC.
       lat: '29.833769'
       long: "-82.590865"
+      closest_city:
+        name: High Springs
+        distance:
+          value: 3.01
+          units: km
     - region: FL
       exchange: '323914'
       name: Highland
@@ -3066,6 +3606,11 @@ rate_centers:
       ilec_name: WINDSTREAM FLORIDA, INC.
       lat: '30.690199'
       long: "-81.916985"
+      closest_city:
+        name: Hilliard
+        distance:
+          value: 0.57
+          units: km
     - region: FL
       exchange: '324300'
       name: Hillsboro Beach
@@ -3082,6 +3627,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '27.060197'
       long: "-80.134641"
+      closest_city:
+        name: Hobe Sound
+        distance:
+          value: 1.61
+          units: km
     - region: FL
       exchange: '324009'
       name: Holder
@@ -3106,6 +3656,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '30.450995'
       long: "-86.901798"
+      closest_city:
+        name: Holley
+        distance:
+          value: 0.38
+          units: km
     - region: FL
       exchange: '323916'
       name: Hollister
@@ -3130,6 +3685,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '26.008235'
       long: "-80.148961"
+      closest_city:
+        name: Hallandale Beach
+        distance:
+          value: 2.62
+          units: km
     - region: FL
       exchange: '362094'
       name: Holmes Beach
@@ -3170,6 +3730,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '25.468394'
       long: "-80.484789"
+      closest_city:
+        name: Florida City
+        distance:
+          value: 3.38
+          units: km
     - region: FL
       exchange: '324302'
       name: Homestead AFB
@@ -3194,6 +3759,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '28.797539'
       long: "-82.58052"
+      closest_city:
+        name: Homosassa
+        distance:
+          value: 3.02
+          units: km
     - region: FL
       exchange: '324010'
       name: Horseshoe Beach
@@ -3210,6 +3780,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF FLORIDA COMPANY
       lat: '30.386531'
       long: "-84.797431"
+      closest_city:
+        name: Hosford
+        distance:
+          value: 1.05
+          units: km
     - region: FL
       exchange: '030550'
       name: Howey-in-the-Hills
@@ -3218,6 +3793,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '28.706974'
       long: "-81.776693"
+      closest_city:
+        name: Howey-in-the-Hills
+        distance:
+          value: 0.44
+          units: km
     - region: FL
       exchange: '030560'
       name: Hudson
@@ -3226,6 +3806,11 @@ rate_centers:
       ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
       lat: '28.364478'
       long: "-82.687172"
+      closest_city:
+        name: Hudson
+        distance:
+          value: 0.59
+          units: km
     - region: FL
       exchange: '361562'
       name: Hull
@@ -3274,6 +3859,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '26.415801'
       long: "-81.416207"
+      closest_city:
+        name: Immokalee
+        distance:
+          value: 1.38
+          units: km
     - region: FL
       exchange: '324180'
       name: Indialantic
@@ -3314,6 +3904,11 @@ rate_centers:
       ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
       lat: '27.810052'
       long: "-81.333781"
+      closest_city:
+        name: Indian Lake Estates
+        distance:
+          value: 2.54
+          units: km
     - region: FL
       exchange: '362100'
       name: Indian Lake Estates
@@ -3362,6 +3957,11 @@ rate_centers:
       ilec_name: ITS TELECOM SYSTEMS, LLC DBA BLUE STREAM FIBER
       lat: '27.017589'
       long: "-80.474683"
+      closest_city:
+        name: Indiantown
+        distance:
+          value: 2.75
+          units: km
     - region: FL
       exchange: '324419'
       name: Indrio
@@ -3410,6 +4010,11 @@ rate_centers:
       ilec_name: WINDSTREAM FLORIDA, INC.
       lat: '29.625603'
       long: "-81.88119"
+      closest_city:
+        name: Interlachen
+        distance:
+          value: 1.58
+          units: km
     - region: FL
       exchange: '324236'
       name: Intersession City
@@ -3426,8 +4031,13 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '28.83234'
       long: "-82.34064"
+      closest_city:
+        name: Inverness
+        distance:
+          value: 1.04
+          units: km
     - region: FL
-      exchange: '427143'
+      exchange: '030243'
       name: Iona
       short_name: IONA
       lata: '93902'
@@ -3435,7 +4045,7 @@ rate_centers:
       lat:
       long:
     - region: FL
-      exchange: '030243'
+      exchange: '427143'
       name: Iona
       short_name: IONA
       lata: '93902'
@@ -3458,6 +4068,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '24.914343'
       long: "-80.649114"
+      closest_city:
+        name: Islamorada, Village of Islands
+        distance:
+          value: 4.93
+          units: km
     - region: FL
       exchange: '324014'
       name: Island Grove
@@ -3474,6 +4089,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '30.324565'
       long: "-81.666047"
+      closest_city:
+        name: Jacksonville
+        distance:
+          value: 1.2
+          units: km
     - region: FL
       exchange: '030640'
       name: Jacksonville Beach
@@ -3482,6 +4102,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '30.282602'
       long: "-81.392291"
+      closest_city:
+        name: Jacksonville Beach
+        distance:
+          value: 1.27
+          units: km
     - region: FL
       exchange: '323920'
       name: Jacksonville Naval Air Station
@@ -3506,6 +4131,11 @@ rate_centers:
       ilec_name: WINDSTREAM FLORIDA, INC.
       lat: '30.516559'
       long: "-82.939383"
+      closest_city:
+        name: Jasper
+        distance:
+          value: 1.82
+          units: km
     - region: FL
       exchange: '030660'
       name: Jay
@@ -3514,6 +4144,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '30.956013'
       long: "-87.149882"
+      closest_city:
+        name: Jay
+        distance:
+          value: 0.67
+          units: km
     - region: FL
       exchange: '030670'
       name: Jennings
@@ -3522,6 +4157,11 @@ rate_centers:
       ilec_name: WINDSTREAM FLORIDA, INC.
       lat: '30.597892'
       long: "-83.100162"
+      closest_city:
+        name: Jennings
+        distance:
+          value: 0.67
+          units: km
     - region: FL
       exchange: '030680'
       name: Jensen Beach
@@ -3530,6 +4170,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '27.244996'
       long: "-80.226682"
+      closest_city:
+        name: Ocean Breeze
+        distance:
+          value: 0.44
+          units: km
     - region: FL
       exchange: '361609'
       name: Jerome
@@ -3562,6 +4207,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '30.117771'
       long: "-81.628262"
+      closest_city:
+        name: Fruit Cove
+        distance:
+          value: 2.51
+          units: km
     - region: FL
       exchange: '324422'
       name: Juno Beach
@@ -3578,6 +4228,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '26.939975'
       long: "-80.10137"
+      closest_city:
+        name: Tequesta
+        distance:
+          value: 2.43
+          units: km
     - region: FL
       exchange: '324424'
       name: Jupiter Inlet
@@ -3610,6 +4265,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF FLORIDA COMPANY
       lat: '29.831743'
       long: "-83.589229"
+      closest_city:
+        name: Steinhatchee
+        distance:
+          value: 26.08
+          units: km
     - region: FL
       exchange: '030720'
       name: Kenansville
@@ -3618,6 +4278,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '27.875628'
       long: "-80.989598"
+      closest_city:
+        name: Yeehaw Junction
+        distance:
+          value: 22.05
+          units: km
     - region: FL
       exchange: '324306'
       name: Kendall
@@ -3682,6 +4347,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '25.167056'
       long: "-80.374805"
+      closest_city:
+        name: Key Largo
+        distance:
+          value: 6.22
+          units: km
     - region: FL
       exchange: '030740'
       name: Key West
@@ -3690,6 +4360,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '24.558691'
       long: "-81.792363"
+      closest_city:
+        name: Key West
+        distance:
+          value: 1.62
+          units: km
     - region: FL
       exchange: '324307'
       name: Key West Naval Air Station
@@ -3706,6 +4381,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '24.70767'
       long: "-81.084084"
+      closest_city:
+        name: Marathon
+        distance:
+          value: 5.15
+          units: km
     - region: FL
       exchange: '031951'
       name: Keystone
@@ -3722,6 +4402,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '29.784078'
       long: "-82.031613"
+      closest_city:
+        name: Keystone Heights
+        distance:
+          value: 0.39
+          units: km
     - region: FL
       exchange: '362105'
       name: Keysville
@@ -3762,6 +4447,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (CENTRAL)
       lat: '29.982239'
       long: "-82.002582"
+      closest_city:
+        name: Lawtey
+        distance:
+          value: 9.97
+          units: km
     - region: FL
       exchange: '030770'
       name: Kissimmee
@@ -3770,6 +4460,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '28.299404'
       long: "-81.400774"
+      closest_city:
+        name: Kissimmee
+        distance:
+          value: 1.66
+          units: km
     - region: FL
       exchange: '030780'
       name: LaBelle
@@ -3778,6 +4473,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '26.766231'
       long: "-81.444093"
+      closest_city:
+        name: LaBelle
+        distance:
+          value: 4.97
+          units: km
     - region: FL
       exchange: '324081'
       name: Lacoochee
@@ -3802,6 +4502,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '28.923083'
       long: "-81.923976"
+      closest_city:
+        name: Lady Lake
+        distance:
+          value: 0.59
+          units: km
     - region: FL
       exchange: '323824'
       name: Laguna Beach
@@ -3842,6 +4547,11 @@ rate_centers:
       ilec_name: SMART CITY TELECOM LLC DBA SMART CITY TELECOM
       lat: '28.391195'
       long: "-81.532959"
+      closest_city:
+        name: Lake Buena Vista
+        distance:
+          value: 1.51
+          units: km
     - region: FL
       exchange: '030810'
       name: Lake Butler
@@ -3850,6 +4560,11 @@ rate_centers:
       ilec_name: WINDSTREAM FLORIDA, INC.
       lat: '30.01443'
       long: "-82.342414"
+      closest_city:
+        name: Raiford
+        distance:
+          value: 11.36
+          units: km
     - region: FL
       exchange: '030820'
       name: Lake City
@@ -3858,6 +4573,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '30.191242'
       long: "-82.634671"
+      closest_city:
+        name: Lake City
+        distance:
+          value: 1.2
+          units: km
     - region: FL
       exchange: '324429'
       name: Lake Clarke
@@ -3970,6 +4690,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '27.290129'
       long: "-81.358512"
+      closest_city:
+        name: Lake Placid
+        distance:
+          value: 1.95
+          units: km
     - region: FL
       exchange: '361612'
       name: Lake Suzy
@@ -3986,6 +4711,11 @@ rate_centers:
       ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
       lat: '27.905914'
       long: "-81.582747"
+      closest_city:
+        name: Lake Wales
+        distance:
+          value: 2.0
+          units: km
     - region: FL
       exchange: '324085'
       name: Lake Weir
@@ -4010,6 +4740,11 @@ rate_centers:
       ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
       lat: '28.031758'
       long: "-81.950178"
+      closest_city:
+        name: Lakeland
+        distance:
+          value: 2.7
+          units: km
     - region: FL
       exchange: '361563'
       name: Lakemont
@@ -4130,6 +4865,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF FLORIDA COMPANY
       lat: '30.963597'
       long: "-86.464037"
+      closest_city:
+        name: Laurel Hill
+        distance:
+          value: 0.54
+          units: km
     - region: FL
       exchange: '030870'
       name: Lawtey
@@ -4138,6 +4878,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (CENTRAL)
       lat: '30.051565'
       long: "-82.08471"
+      closest_city:
+        name: Lawtey
+        distance:
+          value: 1.23
+          units: km
     - region: FL
       exchange: '324260'
       name: Lazy Lake
@@ -4170,6 +4915,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (CENTRAL)
       lat: '30.416953'
       long: "-83.299117"
+      closest_city:
+        name: Lee
+        distance:
+          value: 0.63
+          units: km
     - region: FL
       exchange: '030890'
       name: Leesburg
@@ -4178,6 +4928,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '28.806335'
       long: "-81.8742"
+      closest_city:
+        name: Leesburg
+        distance:
+          value: 4.85
+          units: km
     - region: FL
       exchange: '030900'
       name: Lehigh Acres
@@ -4186,6 +4941,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '26.60668'
       long: "-81.641966"
+      closest_city:
+        name: Lehigh Acres
+        distance:
+          value: 0.67
+          units: km
     - region: FL
       exchange: '324318'
       name: Leisure City
@@ -4226,6 +4986,11 @@ rate_centers:
       ilec_name: WINDSTREAM FLORIDA, INC.
       lat: '30.29879'
       long: "-82.991723"
+      closest_city:
+        name: Live Oak
+        distance:
+          value: 0.76
+          units: km
     - region: FL
       exchange: '362222'
       name: Lloyd
@@ -4370,6 +5135,11 @@ rate_centers:
       ilec_name: WINDSTREAM FLORIDA, INC.
       lat: '30.190695'
       long: "-83.124069"
+      closest_city:
+        name: Day
+        distance:
+          value: 16.04
+          units: km
     - region: FL
       exchange: '031933'
       name: Lutz
@@ -4386,6 +5156,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '30.250245'
       long: "-85.649516"
+      closest_city:
+        name: Lynn Haven
+        distance:
+          value: 2.2
+          units: km
     - region: FL
       exchange: '362120'
       name: MacDill Air Force Base
@@ -4402,6 +5177,11 @@ rate_centers:
       ilec_name: NORTHEAST FLORIDA TEL. CO., INC.
       lat: '30.282773'
       long: "-82.11935"
+      closest_city:
+        name: Macclenny
+        distance:
+          value: 0.61
+          units: km
     - region: FL
       exchange: '362121'
       name: Madeira Beach
@@ -4418,6 +5198,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (CENTRAL)
       lat: '30.466094'
       long: "-83.407466"
+      closest_city:
+        name: Madison
+        distance:
+          value: 0.81
+          units: km
     - region: FL
       exchange: '324242'
       name: Magnolia Square
@@ -4450,6 +5235,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (CENTRAL)
       lat: '30.964442'
       long: "-85.166064"
+      closest_city:
+        name: Malone
+        distance:
+          value: 0.72
+          units: km
     - region: FL
       exchange: '324435'
       name: Manalapan
@@ -4498,6 +5288,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '24.70767'
       long: "-81.084084"
+      closest_city:
+        name: Marathon
+        distance:
+          value: 5.15
+          units: km
     - region: FL
       exchange: '324323'
       name: Marathon Shores
@@ -4514,6 +5309,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '25.948057'
       long: "-81.72188"
+      closest_city:
+        name: Marco Island
+        distance:
+          value: 2.81
+          units: km
     - region: FL
       exchange: '323931'
       name: Margaretta
@@ -4538,6 +5338,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (CENTRAL)
       lat: '30.774814'
       long: "-85.23118"
+      closest_city:
+        name: Marianna
+        distance:
+          value: 2.22
+          units: km
     - region: FL
       exchange: '323932'
       name: Marietta
@@ -4610,6 +5415,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '30.199281'
       long: "-82.009717"
+      closest_city:
+        name: Baldwin
+        distance:
+          value: 12.26
+          units: km
     - region: FL
       exchange: '031010'
       name: Mayo
@@ -4618,6 +5428,11 @@ rate_centers:
       ilec_name: WINDSTREAM FLORIDA, INC.
       lat: '30.051039'
       long: "-83.17305"
+      closest_city:
+        name: Mayo
+        distance:
+          value: 0.36
+          units: km
     - region: FL
       exchange: '323935'
       name: Mayport
@@ -4658,6 +5473,11 @@ rate_centers:
       ilec_name: WINDSTREAM FLORIDA, INC.
       lat: '29.410163'
       long: "-82.21396"
+      closest_city:
+        name: McIntosh
+        distance:
+          value: 4.42
+          units: km
     - region: FL
       exchange: '324022'
       name: McMeekin
@@ -4682,6 +5502,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '28.081619'
       long: "-80.609998"
+      closest_city:
+        name: Indialantic
+        distance:
+          value: 3.97
+          units: km
     - region: FL
       exchange: '324187'
       name: Melbourne Beach
@@ -4706,6 +5531,11 @@ rate_centers:
       ilec_name: WINDSTREAM FLORIDA, INC.
       lat: '29.719315'
       long: "-82.050553"
+      closest_city:
+        name: Keystone Heights
+        distance:
+          value: 7.06
+          units: km
     - region: FL
       exchange: '362124'
       name: Memphis
@@ -4738,6 +5568,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '25.774612'
       long: "-80.190315"
+      closest_city:
+        name: Miami
+        distance:
+          value: 2.24
+          units: km
     - region: FL
       exchange: '324332'
       name: Miami Beach
@@ -4786,6 +5621,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '29.509368'
       long: "-82.281977"
+      closest_city:
+        name: Micanopy
+        distance:
+          value: 0.4
+          units: km
     - region: FL
       exchange: '031731'
       name: Micco
@@ -4818,6 +5658,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '30.065979'
       long: "-81.86631"
+      closest_city:
+        name: Middleburg
+        distance:
+          value: 3.78
+          units: km
     - region: FL
       exchange: '362225'
       name: Midway
@@ -4834,6 +5679,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '30.625139'
       long: "-87.03075"
+      closest_city:
+        name: Milton
+        distance:
+          value: 2.09
+          units: km
     - region: FL
       exchange: '324191'
       name: Mims
@@ -4882,6 +5732,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE SOUTH, LLC - FL
       lat: '30.725544'
       long: "-87.318304"
+      closest_city:
+        name: Molino
+        distance:
+          value: 1.57
+          units: km
     - region: FL
       exchange: '361618'
       name: Monroe
@@ -4898,6 +5753,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (CENTRAL)
       lat: '30.541053'
       long: "-83.865465"
+      closest_city:
+        name: Monticello
+        distance:
+          value: 0.66
+          units: km
     - region: FL
       exchange: '031110'
       name: Montverde
@@ -4906,6 +5766,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '28.602806'
       long: "-81.670419"
+      closest_city:
+        name: Montverde
+        distance:
+          value: 1.02
+          units: km
     - region: FL
       exchange: '030561'
       name: Moon Lake
@@ -4922,6 +5787,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '26.831755'
       long: "-81.09252"
+      closest_city:
+        name: Moore Haven
+        distance:
+          value: 0.63
+          units: km
     - region: FL
       exchange: '324025'
       name: Morriston
@@ -4954,6 +5824,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '28.807955'
       long: "-81.624774"
+      closest_city:
+        name: Mount Dora
+        distance:
+          value: 1.17
+          units: km
     - region: FL
       exchange: '323870'
       name: Mount Pleasant
@@ -4986,6 +5861,11 @@ rate_centers:
       ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
       lat: '27.900657'
       long: "-81.963853"
+      closest_city:
+        name: Mulberry
+        distance:
+          value: 2.37
+          units: km
     - region: FL
       exchange: '031150'
       name: Munson
@@ -4994,8 +5874,13 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '30.85131'
       long: "-86.876169"
+      closest_city:
+        name: Munson
+        distance:
+          value: 1.48
+          units: km
     - region: FL
-      exchange: '427155'
+      exchange: '031571'
       name: Murdock
       short_name: MURDOCK
       lata: '93902'
@@ -5003,7 +5888,7 @@ rate_centers:
       lat:
       long:
     - region: FL
-      exchange: '031571'
+      exchange: '427155'
       name: Murdock
       short_name: MURDOCK
       lata: '93902'
@@ -5018,6 +5903,11 @@ rate_centers:
       ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
       lat: '27.352551'
       long: "-82.163796"
+      closest_city:
+        name: Old Miakka
+        distance:
+          value: 11.82
+          units: km
     - region: FL
       exchange: '362128'
       name: Myakka City
@@ -5042,6 +5932,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '26.142837'
       long: "-81.797573"
+      closest_city:
+        name: Naples
+        distance:
+          value: 0.93
+          units: km
     - region: FL
       exchange: '324336'
       name: Naranja
@@ -5074,6 +5969,11 @@ rate_centers:
       ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
       lat: '28.241827'
       long: "-82.706396"
+      closest_city:
+        name: New Port Richey
+        distance:
+          value: 1.18
+          units: km
     - region: FL
       exchange: '324143'
       name: New Smyrna
@@ -5090,6 +5990,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '29.023408'
       long: "-80.926187"
+      closest_city:
+        name: New Smyrna Beach
+        distance:
+          value: 3.8
+          units: km
     - region: FL
       exchange: '031200'
       name: Newberry
@@ -5098,6 +6003,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '29.6512'
       long: "-82.608009"
+      closest_city:
+        name: Newberry
+        distance:
+          value: 1.46
+          units: km
     - region: FL
       exchange: '362227'
       name: Newport
@@ -5178,6 +6088,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '26.635001'
       long: "-81.942917"
+      closest_city:
+        name: Lochmoor Waterway Estates
+        distance:
+          value: 3.46
+          units: km
     - region: FL
       exchange: '031220'
       name: North Dade
@@ -5186,6 +6101,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '25.92243'
       long: "-80.158141"
+      closest_city:
+        name: North Miami Beach
+        distance:
+          value: 1.16
+          units: km
     - region: FL
       exchange: '031230'
       name: North Fort Myers
@@ -5194,6 +6114,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '26.666046'
       long: "-81.881683"
+      closest_city:
+        name: Palmona Park
+        distance:
+          value: 2.87
+          units: km
     - region: FL
       exchange: '031844'
       name: North Gulf Beach
@@ -5210,6 +6135,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '25.318363'
       long: "-80.282361"
+      closest_city:
+        name: North Key Largo
+        distance:
+          value: 7.98
+          units: km
     - region: FL
       exchange: '362134'
       name: North Lakeland
@@ -5227,7 +6157,7 @@ rate_centers:
       lat:
       long:
     - region: FL
-      exchange: '324342'
+      exchange: '031053'
       name: North Miami
       short_name: NORTHMIAMI
       lata: '46017'
@@ -5235,7 +6165,7 @@ rate_centers:
       lat:
       long:
     - region: FL
-      exchange: '031053'
+      exchange: '324342'
       name: North Miami
       short_name: NORTHMIAMI
       lata: '46017'
@@ -5258,6 +6188,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '26.26519'
       long: "-81.807791"
+      closest_city:
+        name: Naples Park
+        distance:
+          value: 0.26
+          units: km
     - region: FL
       exchange: '324438'
       name: North Palm Beach
@@ -5274,6 +6209,11 @@ rate_centers:
       ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
       lat: '27.047994'
       long: "-82.240518"
+      closest_city:
+        name: Warm Mineral Springs
+        distance:
+          value: 2.94
+          units: km
     - region: FL
       exchange: '362129'
       name: North Redington Beach
@@ -5330,6 +6270,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '28.84854'
       long: "-80.849849"
+      closest_city:
+        name: Oak Hill
+        distance:
+          value: 3.59
+          units: km
     - region: FL
       exchange: '324245'
       name: Oakland
@@ -5354,6 +6299,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '29.186235'
       long: "-82.131579"
+      closest_city:
+        name: Ocala
+        distance:
+          value: 2.1
+          units: km
     - region: FL
       exchange: '324097'
       name: Ocala National Forest
@@ -5410,6 +6360,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '29.043057'
       long: "-81.92923"
+      closest_city:
+        name: Ocklawaha
+        distance:
+          value: 0.47
+          units: km
     - region: FL
       exchange: '324246'
       name: Ocoee
@@ -5458,6 +6413,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '27.240482'
       long: "-80.823382"
+      closest_city:
+        name: Okeechobee
+        distance:
+          value: 0.64
+          units: km
     - region: FL
       exchange: '031310'
       name: Old Town
@@ -5466,6 +6426,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '29.600498'
       long: "-82.975483"
+      closest_city:
+        name: Fanning Springs
+        distance:
+          value: 5.14
+          units: km
     - region: FL
       exchange: '031952'
       name: Oldsmar
@@ -5522,6 +6487,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '28.951464'
       long: "-81.291768"
+      closest_city:
+        name: Orange City
+        distance:
+          value: 1.89
+          units: km
     - region: FL
       exchange: '324030'
       name: Orange Lake
@@ -5538,6 +6508,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '30.166044'
       long: "-81.700069"
+      closest_city:
+        name: Orange Park
+        distance:
+          value: 0.64
+          units: km
     - region: FL
       exchange: '031340'
       name: Orange Springs
@@ -5546,6 +6521,11 @@ rate_centers:
       ilec_name: WINDSTREAM FLORIDA, INC.
       lat: '29.510313'
       long: "-81.946235"
+      closest_city:
+        name: Interlachen
+        distance:
+          value: 13.15
+          units: km
     - region: FL
       exchange: '324441'
       name: Orchid
@@ -5562,6 +6542,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '28.540751'
       long: "-81.372955"
+      closest_city:
+        name: Holden Heights
+        distance:
+          value: 4.62
+          units: km
     - region: FL
       exchange: '324193'
       name: Orlo Vista
@@ -5618,6 +6603,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '28.666279'
       long: "-81.197974"
+      closest_city:
+        name: Oviedo
+        distance:
+          value: 1.4
+          units: km
     - region: FL
       exchange: '324099'
       name: Oxford
@@ -5642,6 +6632,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '30.600532'
       long: "-87.147441"
+      closest_city:
+        name: Floridatown
+        distance:
+          value: 2.38
+          units: km
     - region: FL
       exchange: '031380'
       name: Pahokee
@@ -5650,6 +6645,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '26.81823'
       long: "-80.666619"
+      closest_city:
+        name: Pahokee
+        distance:
+          value: 0.5
+          units: km
     - region: FL
       exchange: '324100'
       name: Paisley
@@ -5666,6 +6666,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '29.644401'
       long: "-81.64227"
+      closest_city:
+        name: Palatka
+        distance:
+          value: 2.78
+          units: km
     - region: FL
       exchange: '324196'
       name: Palm Bay
@@ -5714,6 +6719,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '29.574154'
       long: "-81.205935"
+      closest_city:
+        name: Palm Coast
+        distance:
+          value: 5.49
+          units: km
     - region: FL
       exchange: '362147'
       name: Palm Harbor
@@ -5778,6 +6788,11 @@ rate_centers:
       ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
       lat: '27.513826'
       long: "-82.571375"
+      closest_city:
+        name: Palmetto
+        distance:
+          value: 1.3
+          units: km
     - region: FL
       exchange: '324347'
       name: Palmetto Bay
@@ -5794,6 +6809,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (CENTRAL)
       lat: '30.032733'
       long: "-84.386564"
+      closest_city:
+        name: Panacea
+        distance:
+          value: 0.84
+          units: km
     - region: FL
       exchange: '031430'
       name: Panama City
@@ -5802,6 +6822,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '30.15963'
       long: "-85.657446"
+      closest_city:
+        name: Cedar Grove
+        distance:
+          value: 3.8
+          units: km
     - region: FL
       exchange: '031440'
       name: Panama City Beach
@@ -5810,6 +6835,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '30.174421'
       long: "-85.798554"
+      closest_city:
+        name: Lower Grand Lagoon
+        distance:
+          value: 5.54
+          units: km
     - region: FL
       exchange: '324198'
       name: Paola
@@ -5882,6 +6912,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF FLORIDA COMPANY
       lat: '30.965842'
       long: "-86.311579"
+      closest_city:
+        name: Paxton
+        distance:
+          value: 0.99
+          units: km
     - region: FL
       exchange: '361569'
       name: Pembroke
@@ -5899,17 +6934,17 @@ rate_centers:
       lat:
       long:
     - region: FL
-      exchange: '324350'
+      exchange: '030512'
       name: Pembroke Pines
-      short_name: PEMBROKEPN
+      short_name: PMBRKPINES
       lata: '46017'
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat:
       long:
     - region: FL
-      exchange: '030512'
+      exchange: '324350'
       name: Pembroke Pines
-      short_name: PMBRKPINES
+      short_name: PEMBROKEPN
       lata: '46017'
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat:
@@ -5930,6 +6965,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '30.417849'
       long: "-87.214854"
+      closest_city:
+        name: Goulding
+        distance:
+          value: 2.82
+          units: km
     - region: FL
       exchange: '323774'
       name: Pensacola Beach
@@ -5954,6 +6994,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '25.602047'
       long: "-80.350605"
+      closest_city:
+        name: West Perrine
+        distance:
+          value: 1.41
+          units: km
     - region: FL
       exchange: '031480'
       name: Perry
@@ -5962,6 +7007,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF FLORIDA COMPANY
       lat: '30.115803'
       long: "-83.575138"
+      closest_city:
+        name: Perry
+        distance:
+          value: 1.01
+          units: km
     - region: FL
       exchange: '362151'
       name: Pierce
@@ -5978,6 +7028,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '29.232149'
       long: "-81.468215"
+      closest_city:
+        name: Pierson
+        distance:
+          value: 1.49
+          units: km
     - region: FL
       exchange: '324201'
       name: Pine Castle
@@ -6002,6 +7057,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '26.616777'
       long: "-82.108002"
+      closest_city:
+        name: Pine Island Center
+        distance:
+          value: 2.67
+          units: km
     - region: FL
       exchange: '324101'
       name: Pine Ridge
@@ -6066,6 +7126,11 @@ rate_centers:
       ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
       lat: '28.01847'
       long: "-82.126651"
+      closest_city:
+        name: Plant City
+        distance:
+          value: 0.81
+          units: km
     - region: FL
       exchange: '030221'
       name: Plantation
@@ -6098,6 +7163,11 @@ rate_centers:
       ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
       lat: '28.11033'
       long: "-81.616333"
+      closest_city:
+        name: Haines City
+        distance:
+          value: 0.06
+          units: km
     - region: FL
       exchange: '323807'
       name: Point Washington
@@ -6114,6 +7184,11 @@ rate_centers:
       ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
       lat: '28.180443'
       long: "-81.828737"
+      closest_city:
+        name: Polk City
+        distance:
+          value: 0.08
+          units: km
     - region: FL
       exchange: '031530'
       name: Pomona Park
@@ -6122,6 +7197,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '29.492826'
       long: "-81.597765"
+      closest_city:
+        name: Pomona Park
+        distance:
+          value: 1.05
+          units: km
     - region: FL
       exchange: '031540'
       name: Pompano Beach
@@ -6130,6 +7210,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '26.232501'
       long: "-80.119368"
+      closest_city:
+        name: Pompano Beach
+        distance:
+          value: 1.64
+          units: km
     - region: FL
       exchange: '324149'
       name: Ponce Inlet
@@ -6146,6 +7231,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (CENTRAL)
       lat: '30.715563'
       long: "-85.934265"
+      closest_city:
+        name: Ponce de Leon
+        distance:
+          value: 0.92
+          units: km
     - region: FL
       exchange: '323948'
       name: Ponte Vedra
@@ -6162,6 +7252,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '30.232052'
       long: "-81.377572"
+      closest_city:
+        name: Palm Valley
+        distance:
+          value: 3.82
+          units: km
     - region: FL
       exchange: '324202'
       name: Port Canaveral
@@ -6178,6 +7273,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '26.965829'
       long: "-82.115472"
+      closest_city:
+        name: Port Charlotte
+        distance:
+          value: 2.89
+          units: km
     - region: FL
       exchange: '324358'
       name: Port Everglades
@@ -6242,6 +7342,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF FLORIDA COMPANY
       lat: '29.808776'
       long: "-85.298162"
+      closest_city:
+        name: Port St. Joe
+        distance:
+          value: 2.26
+          units: km
     - region: FL
       exchange: '031590'
       name: Port St Lucie
@@ -6250,6 +7355,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '27.266191'
       long: "-80.284545"
+      closest_city:
+        name: Jensen Beach
+        distance:
+          value: 4.87
+          units: km
     - region: FL
       exchange: '362156'
       name: Port Tampa
@@ -6274,6 +7384,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '26.930642'
       long: "-82.049213"
+      closest_city:
+        name: Solana
+        distance:
+          value: 2.32
+          units: km
     - region: FL
       exchange: '361631'
       name: Punta Rassa
@@ -6306,6 +7421,11 @@ rate_centers:
       ilec_name: QUINCY TEL CO
       lat: '30.582012'
       long: "-84.582094"
+      closest_city:
+        name: Quincy
+        distance:
+          value: 1.8
+          units: km
     - region: FL
       exchange: '323775'
       name: Quintette
@@ -6322,6 +7442,11 @@ rate_centers:
       ilec_name: WINDSTREAM FLORIDA, INC.
       lat: '30.065375'
       long: "-82.234832"
+      closest_city:
+        name: Raiford
+        distance:
+          value: 0.45
+          units: km
     - region: FL
       exchange: '324102'
       name: Raleigh
@@ -6386,6 +7511,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '28.347083'
       long: "-81.610468"
+      closest_city:
+        name: Bay Lake
+        distance:
+          value: 5.63
+          units: km
     - region: FL
       exchange: '324250'
       name: Reunion
@@ -6402,6 +7532,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (CENTRAL)
       lat: '30.917118'
       long: "-85.906039"
+      closest_city:
+        name: Westville
+        distance:
+          value: 17.35
+          units: km
     - region: FL
       exchange: '324103'
       name: Richland
@@ -6618,6 +7753,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '29.362012'
       long: "-81.734572"
+      closest_city:
+        name: Lake Kerr
+        distance:
+          value: 3.91
+          units: km
     - region: FL
       exchange: '362165'
       name: Samoset
@@ -6634,6 +7774,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '28.347796'
       long: "-82.278044"
+      closest_city:
+        name: San Antonio
+        distance:
+          value: 0.92
+          units: km
     - region: FL
       exchange: '030241'
       name: San Carlos Park
@@ -6666,6 +7811,11 @@ rate_centers:
       ilec_name: NORTHEAST FLORIDA TEL. CO., INC.
       lat: '30.253155'
       long: "-82.268321"
+      closest_city:
+        name: Glen St. Mary
+        distance:
+          value: 10.65
+          units: km
     - region: FL
       exchange: '323808'
       name: Sandestin
@@ -6682,6 +7832,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '28.81091'
       long: "-81.258651"
+      closest_city:
+        name: Sanford
+        distance:
+          value: 2.94
+          units: km
     - region: FL
       exchange: '031690'
       name: Sanibel-Captiva Islands
@@ -6690,6 +7845,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '26.450595'
       long: "-82.025241"
+      closest_city:
+        name: Punta Rassa
+        distance:
+          value: 6.41
+          units: km
     - region: FL
       exchange: '323982'
       name: Santa Fe
@@ -6706,6 +7866,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (CENTRAL)
       lat: '30.383483'
       long: "-86.240949"
+      closest_city:
+        name: Miramar Beach
+        distance:
+          value: 9.91
+          units: km
     - region: FL
       exchange: '031710'
       name: Sarasota
@@ -6714,6 +7879,11 @@ rate_centers:
       ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
       lat: '27.340347'
       long: "-82.533769"
+      closest_city:
+        name: Sarasota
+        distance:
+          value: 0.95
+          units: km
     - region: FL
       exchange: '031712'
       name: Sarasota Springs
@@ -6770,6 +7940,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (CENTRAL)
       lat: '30.316113'
       long: "-86.11999"
+      closest_city:
+        name: Laguna Beach
+        distance:
+          value: 17.58
+          units: km
     - region: FL
       exchange: '031730'
       name: Sebastian
@@ -6778,6 +7953,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '27.816872'
       long: "-80.468219"
+      closest_city:
+        name: Roseland
+        distance:
+          value: 2.92
+          units: km
     - region: FL
       exchange: '031740'
       name: Sebring
@@ -6786,6 +7966,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '27.501731'
       long: "-81.434892"
+      closest_city:
+        name: Sebring
+        distance:
+          value: 3.28
+          units: km
     - region: FL
       exchange: '362233'
       name: Secotan
@@ -6826,6 +8011,11 @@ rate_centers:
       ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
       lat: '28.241827'
       long: "-82.706396"
+      closest_city:
+        name: New Port Richey
+        distance:
+          value: 1.18
+          units: km
     - region: FL
       exchange: '324151'
       name: Seville
@@ -6866,6 +8056,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (CENTRAL)
       lat: '30.441931'
       long: "-86.589565"
+      closest_city:
+        name: Shalimar
+        distance:
+          value: 0.65
+          units: km
     - region: FL
       exchange: '324036'
       name: Shamrock
@@ -6930,6 +8125,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '29.093431'
       long: "-82.004994"
+      closest_city:
+        name: Silver Springs Shores
+        distance:
+          value: 2.34
+          units: km
     - region: FL
       exchange: '324457'
       name: Singer Island
@@ -6970,6 +8170,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (CENTRAL)
       lat: '30.707581'
       long: "-84.927566"
+      closest_city:
+        name: Sneads
+        distance:
+          value: 0.27
+          units: km
     - region: FL
       exchange: '031780'
       name: Sopchoppy
@@ -6978,6 +8183,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (CENTRAL)
       lat: '30.066478'
       long: "-84.498128"
+      closest_city:
+        name: Sopchoppy
+        distance:
+          value: 1.43
+          units: km
     - region: FL
       exchange: '324109'
       name: Sorrento
@@ -7082,6 +8292,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '27.433719'
       long: "-81.347979"
+      closest_city:
+        name: Sebring
+        distance:
+          value: 11.43
+          units: km
     - region: FL
       exchange: '323834'
       name: Springfield
@@ -7114,6 +8329,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '29.899688'
       long: "-81.315469"
+      closest_city:
+        name: St. Augustine
+        distance:
+          value: 0.58
+          units: km
     - region: FL
       exchange: '031810'
       name: St Cloud
@@ -7122,6 +8342,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '28.251701'
       long: "-81.281618"
+      closest_city:
+        name: St. Cloud
+        distance:
+          value: 1.75
+          units: km
     - region: FL
       exchange: '029876'
       name: St George
@@ -7138,6 +8363,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '29.962692'
       long: "-81.475457"
+      closest_city:
+        name: World Golf Village
+        distance:
+          value: 1.4
+          units: km
     - region: FL
       exchange: '031830'
       name: St Marks
@@ -7146,6 +8376,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (CENTRAL)
       lat: '30.156415'
       long: "-84.198642"
+      closest_city:
+        name: St. Marks
+        distance:
+          value: 1.35
+          units: km
     - region: FL
       exchange: '031840'
       name: St Petersburg
@@ -7154,6 +8389,11 @@ rate_centers:
       ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
       lat: '27.773892'
       long: "-82.642872"
+      closest_city:
+        name: St. Petersburg
+        distance:
+          value: 3.06
+          units: km
     - region: FL
       exchange: '031850'
       name: Starke
@@ -7162,6 +8402,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (CENTRAL)
       lat: '29.941791'
       long: "-82.109423"
+      closest_city:
+        name: Starke
+        distance:
+          value: 0.71
+          units: km
     - region: FL
       exchange: '324038'
       name: Steinhatchee
@@ -7186,6 +8431,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '27.193258'
       long: "-80.249404"
+      closest_city:
+        name: Stuart
+        distance:
+          value: 0.58
+          units: km
     - region: FL
       exchange: '031870'
       name: Sugarloaf Key
@@ -7194,6 +8444,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '24.648873'
       long: "-81.568169"
+      closest_city:
+        name: Cudjoe Key
+        distance:
+          value: 7.59
+          units: km
     - region: FL
       exchange: '031918'
       name: Sulphur Springs
@@ -7266,6 +8521,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '30.549624'
       long: "-85.584221"
+      closest_city:
+        name: Wausau
+        distance:
+          value: 9.32
+          units: km
     - region: FL
       exchange: '324371'
       name: Sunny Isles
@@ -7346,6 +8606,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (CENTRAL)
       lat: '30.442716'
       long: "-84.27613"
+      closest_city:
+        name: Tallahassee
+        distance:
+          value: 2.63
+          units: km
     - region: FL
       exchange: '031542'
       name: Tamarac
@@ -7362,6 +8627,11 @@ rate_centers:
       ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
       lat: '27.948508'
       long: "-82.45907"
+      closest_city:
+        name: Tampa
+        distance:
+          value: 5.31
+          units: km
     - region: FL
       exchange: '031920'
       name: Tampa East
@@ -7370,6 +8640,11 @@ rate_centers:
       ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
       lat: '27.965605'
       long: "-82.268713"
+      closest_city:
+        name: Seffner
+        distance:
+          value: 3.64
+          units: km
     - region: FL
       exchange: '031930'
       name: Tampa North
@@ -7378,6 +8653,11 @@ rate_centers:
       ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
       lat: '28.274227'
       long: "-82.421902"
+      closest_city:
+        name: Connerton
+        distance:
+          value: 5.04
+          units: km
     - region: FL
       exchange: '362180'
       name: Tampa Palms
@@ -7394,6 +8674,11 @@ rate_centers:
       ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
       lat: '27.714011'
       long: "-82.335781"
+      closest_city:
+        name: Sun City Center
+        distance:
+          value: 2.08
+          units: km
     - region: FL
       exchange: '031950'
       name: Tampa West
@@ -7402,6 +8687,11 @@ rate_centers:
       ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
       lat: '28.11167'
       long: "-82.59887"
+      closest_city:
+        name: Keystone
+        distance:
+          value: 2.17
+          units: km
     - region: FL
       exchange: '324115'
       name: Tangerine
@@ -7418,6 +8708,11 @@ rate_centers:
       ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
       lat: '28.143395'
       long: "-82.751785"
+      closest_city:
+        name: Tarpon Springs
+        distance:
+          value: 1.22
+          units: km
     - region: FL
       exchange: '031970'
       name: Tavares
@@ -7426,6 +8721,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '28.808797'
       long: "-81.727235"
+      closest_city:
+        name: Tavares
+        distance:
+          value: 2.02
+          units: km
     - region: FL
       exchange: '324377'
       name: Tavernier
@@ -7458,6 +8758,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF FLORIDA COMPANY
       lat: '29.950979'
       long: "-85.408068"
+      closest_city:
+        name: Mexico Beach
+        distance:
+          value: 0.8
+          units: km
     - region: FL
       exchange: '324117'
       name: The Villages
@@ -7514,6 +8819,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '28.616367'
       long: "-80.806458"
+      closest_city:
+        name: Titusville
+        distance:
+          value: 5.01
+          units: km
     - region: FL
       exchange: '362195'
       name: Town N Country
@@ -7554,6 +8864,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '29.616278'
       long: "-82.819451"
+      closest_city:
+        name: Trenton
+        distance:
+          value: 0.91
+          units: km
     - region: FL
       exchange: '324119'
       name: Trilby
@@ -7570,6 +8885,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '28.463568'
       long: "-82.184403"
+      closest_city:
+        name: Trilby
+        distance:
+          value: 1.23
+          units: km
     - region: FL
       exchange: '362194'
       name: Trinity
@@ -7586,6 +8906,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF FLORIDA COMPANY
       lat: '30.066328'
       long: "-85.582917"
+      closest_city:
+        name: Tyndall AFB
+        distance:
+          value: 3.19
+          units: km
     - region: FL
       exchange: '324378'
       name: Uleta
@@ -7602,6 +8927,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '28.932676'
       long: "-81.668974"
+      closest_city:
+        name: Umatilla
+        distance:
+          value: 0.71
+          units: km
     - region: FL
       exchange: '324212'
       name: Union Park
@@ -7650,6 +8980,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (CENTRAL)
       lat: '30.505642'
       long: "-86.490821"
+      closest_city:
+        name: Valparaiso
+        distance:
+          value: 2.19
+          units: km
     - region: FL
       exchange: '362197'
       name: Valrico
@@ -7674,6 +9009,11 @@ rate_centers:
       ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
       lat: '27.101752'
       long: "-82.442989"
+      closest_city:
+        name: Nokomis
+        distance:
+          value: 2.6
+          units: km
     - region: FL
       exchange: '361574'
       name: Venus
@@ -7690,6 +9030,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '30.617961'
       long: "-85.716906"
+      closest_city:
+        name: Vernon
+        distance:
+          value: 1.04
+          units: km
     - region: FL
       exchange: '032070'
       name: Vero Beach
@@ -7698,6 +9043,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '27.640345'
       long: "-80.400125"
+      closest_city:
+        name: Vero Beach
+        distance:
+          value: 0.96
+          units: km
     - region: FL
       exchange: '324214'
       name: Viera
@@ -7802,6 +9152,11 @@ rate_centers:
       ilec_name: WINDSTREAM FLORIDA, INC.
       lat: '29.790858'
       long: "-82.16768"
+      closest_city:
+        name: Waldo
+        distance:
+          value: 0.23
+          units: km
     - region: FL
       exchange: '03191B'
       name: Wallcraft
@@ -7818,6 +9173,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF THE SOUTH, LLC - FL
       lat: '30.881495'
       long: "-87.501009"
+      closest_city:
+        name: Century
+        distance:
+          value: 25.06
+          units: km
     - region: FL
       exchange: '362206'
       name: Warm Mineral Springs
@@ -7850,6 +9210,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '27.552112'
       long: "-81.808276"
+      closest_city:
+        name: Wauchula
+        distance:
+          value: 0.61
+          units: km
     - region: FL
       exchange: '323838'
       name: Wausau
@@ -7882,6 +9247,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '28.533668'
       long: "-82.583651"
+      closest_city:
+        name: Weeki Wachee Gardens
+        distance:
+          value: 3.65
+          units: km
     - region: FL
       exchange: '032120'
       name: Weirsdale
@@ -7890,6 +9260,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '28.989464'
       long: "-81.867781"
+      closest_city:
+        name: Silver Springs Shores East
+        distance:
+          value: 6.96
+          units: km
     - region: FL
       exchange: '324253'
       name: Wekiva Springs
@@ -7906,6 +9281,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '29.481104'
       long: "-81.666758"
+      closest_city:
+        name: Welaka
+        distance:
+          value: 0.15
+          units: km
     - region: FL
       exchange: '032140'
       name: Wellborn
@@ -7914,6 +9294,11 @@ rate_centers:
       ilec_name: WINDSTREAM FLORIDA, INC.
       lat: '30.230907'
       long: "-82.816418"
+      closest_city:
+        name: White Springs
+        distance:
+          value: 12.61
+          units: km
     - region: FL
       exchange: '324468'
       name: Wellington
@@ -7962,6 +9347,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '28.346938'
       long: "-81.489904"
+      closest_city:
+        name: Lake Buena Vista
+        distance:
+          value: 5.03
+          units: km
     - region: FL
       exchange: '324215'
       name: West Melbourne
@@ -7986,6 +9376,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '26.69117'
       long: "-80.058465"
+      closest_city:
+        name: Palm Beach
+        distance:
+          value: 1.79
+          units: km
     - region: FL
       exchange: '324385'
       name: West Park
@@ -8026,6 +9421,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (CENTRAL)
       lat: '30.785252'
       long: "-85.848743"
+      closest_city:
+        name: Westville
+        distance:
+          value: 1.74
+          units: km
     - region: FL
       exchange: '032180'
       name: Wewahitchka
@@ -8034,6 +9434,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF FLORIDA COMPANY
       lat: '30.119162'
       long: "-85.201173"
+      closest_city:
+        name: Wewahitchka
+        distance:
+          value: 0.88
+          units: km
     - region: FL
       exchange: '324387'
       name: Whale Harbor
@@ -8050,6 +9455,11 @@ rate_centers:
       ilec_name: WINDSTREAM FLORIDA, INC.
       lat: '30.334852'
       long: "-82.759669"
+      closest_city:
+        name: White Springs
+        distance:
+          value: 0.48
+          units: km
     - region: FL
       exchange: '362203'
       name: Whitfield Estates
@@ -8082,6 +9492,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '28.868374'
       long: "-82.032852"
+      closest_city:
+        name: The Villages
+        distance:
+          value: 5.8
+          units: km
     - region: FL
       exchange: '324216'
       name: Williams Point
@@ -8098,6 +9513,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '29.393993'
       long: "-82.449514"
+      closest_city:
+        name: Williston
+        distance:
+          value: 2.37
+          units: km
     - region: FL
       exchange: '323866'
       name: Wilma
@@ -8130,6 +9550,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '28.498513'
       long: "-81.534163"
+      closest_city:
+        name: Windermere
+        distance:
+          value: 0.59
+          units: km
     - region: FL
       exchange: '324469'
       name: Winter Beach
@@ -8146,6 +9571,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '28.56802'
       long: "-81.584687"
+      closest_city:
+        name: Winter Garden
+        distance:
+          value: 3.11
+          units: km
     - region: FL
       exchange: '032240'
       name: Winter Haven
@@ -8154,6 +9584,11 @@ rate_centers:
       ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
       lat: '28.035326'
       long: "-81.725801"
+      closest_city:
+        name: Winter Haven
+        distance:
+          value: 3.55
+          units: km
     - region: FL
       exchange: '032250'
       name: Winter Park
@@ -8162,6 +9597,11 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '28.599066'
       long: "-81.352157"
+      closest_city:
+        name: Winter Park
+        distance:
+          value: 0.78
+          units: km
     - region: FL
       exchange: '324217'
       name: Winter Springs
@@ -8202,6 +9642,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '29.032594'
       long: "-82.716817"
+      closest_city:
+        name: Yankeetown
+        distance:
+          value: 1.54
+          units: km
     - region: FL
       exchange: '031913'
       name: Ybor City
@@ -8242,6 +9687,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '30.367305'
       long: "-85.444248"
+      closest_city:
+        name: Lynn Haven
+        distance:
+          value: 23.73
+          units: km
     - region: FL
       exchange: '032280'
       name: Yulee
@@ -8250,6 +9700,11 @@ rate_centers:
       ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
       lat: '30.633655'
       long: "-81.602836"
+      closest_city:
+        name: Yulee
+        distance:
+          value: 3.36
+          units: km
     - region: FL
       exchange: '324259'
       name: Zellwood
@@ -8266,6 +9721,11 @@ rate_centers:
       ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
       lat: '28.23457'
       long: "-82.183742"
+      closest_city:
+        name: Zephyrhills
+        distance:
+          value: 0.81
+          units: km
     - region: FL
       exchange: '032300'
       name: Zolfo Springs
@@ -8274,3 +9734,8 @@ rate_centers:
       ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
       lat: '27.501618'
       long: "-81.793386"
+      closest_city:
+        name: Zolfo Springs
+        distance:
+          value: 1.19
+          units: km

@@ -1,7 +1,7 @@
 ---
 rate_centers:
-  us:
-    wi:
+  US:
+    WI:
     - region: WI
       exchange: '318971'
       name: Abbotsford
@@ -18,6 +18,11 @@ rate_centers:
       ilec_name: BAYLAND TEL., INC.
       lat: '44.775188'
       long: "-88.046371"
+      closest_city:
+        name: Abrams
+        distance:
+          value: 1.21
+          units: km
     - region: WI
       exchange: '319805'
       name: Ackerville
@@ -34,6 +39,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.960163'
       long: "-89.814796"
+      closest_city:
+        name: Adams
+        distance:
+          value: 0.56
+          units: km
     - region: WI
       exchange: '319806'
       name: Adell
@@ -58,6 +68,11 @@ rate_centers:
       ilec_name: UTELCO, INC.
       lat: '42.710279'
       long: "-89.433505"
+      closest_city:
+        name: Albany
+        distance:
+          value: 0.46
+          units: km
     - region: WI
       exchange: '319550'
       name: Albion
@@ -74,6 +89,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '44.601164'
       long: "-87.440807"
+      closest_city:
+        name: Algoma
+        distance:
+          value: 0.68
+          units: km
     - region: WI
       exchange: '319807'
       name: Allens Grove
@@ -90,6 +110,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.415558'
       long: "-88.34492"
+      closest_city:
+        name: Allenton
+        distance:
+          value: 0.69
+          units: km
     - region: WI
       exchange: '318974'
       name: Allenville
@@ -114,6 +139,11 @@ rate_centers:
       ilec_name: TENNEY TEL. CO.
       lat: '44.325593'
       long: "-91.914149"
+      closest_city:
+        name: Alma
+        distance:
+          value: 1.46
+          units: km
     - region: WI
       exchange: '209390'
       name: Alma Center
@@ -122,6 +152,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL WISCONSIN LLC DBA CENTURYLINK
       lat: '44.432995'
       long: "-90.919664"
+      closest_city:
+        name: Alma Center
+        distance:
+          value: 0.7
+          units: km
     - region: WI
       exchange: '209400'
       name: Almena
@@ -130,6 +165,11 @@ rate_centers:
       ilec_name: CHIBARDUN TEL. COOP., INC.
       lat: '45.424943'
       long: "-92.032849"
+      closest_city:
+        name: Almena
+        distance:
+          value: 1.2
+          units: km
     - region: WI
       exchange: '209410'
       name: Almond
@@ -138,6 +178,11 @@ rate_centers:
       ilec_name: UNION TEL. CO.
       lat: '44.256403'
       long: "-89.406562"
+      closest_city:
+        name: Almond
+        distance:
+          value: 0.51
+          units: km
     - region: WI
       exchange: '319307'
       name: Altoona
@@ -162,6 +207,11 @@ rate_centers:
       ilec_name: CENTURYTEL MW-WI-CENCOM DBA CENTURYLINK - CENCOM
       lat: '45.508765'
       long: "-87.993289"
+      closest_city:
+        name: Amberg
+        distance:
+          value: 0.55
+          units: km
     - region: WI
       exchange: '209430'
       name: Amery
@@ -170,6 +220,11 @@ rate_centers:
       ilec_name: AMERY TELECOM, INC.
       lat: '45.309681'
       long: "-92.346758"
+      closest_city:
+        name: Amery
+        distance:
+          value: 1.43
+          units: km
     - region: WI
       exchange: '209440'
       name: Amherst
@@ -178,6 +233,11 @@ rate_centers:
       ilec_name: AMHERST TEL. CO.
       lat: '44.449828'
       long: "-89.283142"
+      closest_city:
+        name: Amherst
+        distance:
+          value: 0.26
+          units: km
     - region: WI
       exchange: '318980'
       name: Amherst Junction
@@ -218,6 +278,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '45.144533'
       long: "-89.151265"
+      closest_city:
+        name: Antigo
+        distance:
+          value: 0.5
+          units: km
     - region: WI
       exchange: '209460'
       name: Appleton
@@ -226,6 +291,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '44.256146'
       long: "-88.400717"
+      closest_city:
+        name: Appleton
+        distance:
+          value: 2.6
+          units: km
     - region: WI
       exchange: '318984'
       name: Arbor Vitae
@@ -242,6 +312,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL WISCONSIN LLC DBA CENTURYLINK
       lat: '44.249145'
       long: "-91.497882"
+      closest_city:
+        name: Arcadia
+        distance:
+          value: 0.5
+          units: km
     - region: WI
       exchange: '209480'
       name: Arena
@@ -250,6 +325,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.165263'
       long: "-89.918985"
+      closest_city:
+        name: Arena
+        distance:
+          value: 0.73
+          units: km
     - region: WI
       exchange: '209490'
       name: Argonne
@@ -258,6 +338,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF WISCONSIN LLC
       lat: '45.65823'
       long: "-88.876561"
+      closest_city:
+        name: Argonne
+        distance:
+          value: 0.09
+          units: km
     - region: WI
       exchange: '209500'
       name: Argyle
@@ -266,6 +351,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL WISCONSIN LLC DBA CENTURYLINK
       lat: '42.700663'
       long: "-89.865499"
+      closest_city:
+        name: Argyle
+        distance:
+          value: 0.08
+          units: km
     - region: WI
       exchange: '209510'
       name: Arkansaw
@@ -274,6 +364,11 @@ rate_centers:
       ilec_name: NELSON COMMUNICATIONS COOPERATIVE
       lat: '44.631503'
       long: "-92.031337"
+      closest_city:
+        name: Arkansaw
+        distance:
+          value: 0.77
+          units: km
     - region: WI
       exchange: '319555'
       name: Arkdale
@@ -330,6 +425,11 @@ rate_centers:
       ilec_name: CENTURYTEL MIDWEST-KENDALL LLC DBA CENTURYLINK
       lat: '46.593179'
       long: "-90.883897"
+      closest_city:
+        name: Ashland
+        distance:
+          value: 1.76
+          units: km
     - region: WI
       exchange: '318989'
       name: Ashwaubenon
@@ -362,6 +462,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '45.033638'
       long: "-90.079908"
+      closest_city:
+        name: Athens
+        distance:
+          value: 0.15
+          units: km
     - region: WI
       exchange: '319313'
       name: Atlas
@@ -378,6 +483,11 @@ rate_centers:
       ilec_name: CENTRAL STATE TEL. CO
       lat: '44.635274'
       long: "-89.992856"
+      closest_city:
+        name: Auburndale
+        distance:
+          value: 1.96
+          units: km
     - region: WI
       exchange: '209550'
       name: Augusta
@@ -386,6 +496,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL WISCONSIN LLC DBA CENTURYLINK
       lat: '44.685166'
       long: "-91.126301"
+      closest_city:
+        name: Augusta
+        distance:
+          value: 0.89
+          units: km
     - region: WI
       exchange: '209560'
       name: Aurora
@@ -394,6 +509,11 @@ rate_centers:
       ilec_name: NIAGARA TEL. CO.
       lat: '45.79924'
       long: "-88.098247"
+      closest_city:
+        name: Niagara
+        distance:
+          value: 7.98
+          units: km
     - region: WI
       exchange: '318993'
       name: Auroraville
@@ -418,6 +538,11 @@ rate_centers:
       ilec_name: CENTURYTEL MIDWEST-WI LLC NW DBA CENTURYLINK - NW
       lat: '43.18299'
       long: "-90.320391"
+      closest_city:
+        name: Avoca
+        distance:
+          value: 0.96
+          units: km
     - region: WI
       exchange: '318994'
       name: Babcock
@@ -434,6 +559,11 @@ rate_centers:
       ilec_name: GRANTLAND TELECOM, INC.
       lat: '42.908826'
       long: "-91.102752"
+      closest_city:
+        name: Bagley
+        distance:
+          value: 0.94
+          units: km
     - region: WI
       exchange: '209590'
       name: Baileys Harbor
@@ -442,6 +572,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '45.066494'
       long: "-87.121997"
+      closest_city:
+        name: Baileys Harbor
+        distance:
+          value: 0.87
+          units: km
     - region: WI
       exchange: '209600'
       name: Baldwin
@@ -450,6 +585,11 @@ rate_centers:
       ilec_name: BALDWIN TELECOM, INC.
       lat: '44.966091'
       long: "-92.373147"
+      closest_city:
+        name: Baldwin
+        distance:
+          value: 1.36
+          units: km
     - region: WI
       exchange: '209610'
       name: Balsam Lake
@@ -458,6 +598,11 @@ rate_centers:
       ilec_name: TELEPHONE USA OF WISCONSIN, LLC DBA CENTURYLINK
       lat: '45.45026'
       long: "-92.447569"
+      closest_city:
+        name: Balsam Lake
+        distance:
+          value: 1.0
+          units: km
     - region: WI
       exchange: '318996'
       name: Bancroft
@@ -474,6 +619,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL WISCONSIN LLC DBA CENTURYLINK
       lat: '43.889227'
       long: "-90.982592"
+      closest_city:
+        name: Bangor
+        distance:
+          value: 1.0
+          units: km
     - region: WI
       exchange: '209630'
       name: Baraboo
@@ -482,6 +632,11 @@ rate_centers:
       ilec_name: CENTURYTEL MIDWEST-KENDALL LLC DBA CENTURYLINK
       lat: '43.466654'
       long: "-89.739645"
+      closest_city:
+        name: Baraboo
+        distance:
+          value: 0.36
+          units: km
     - region: WI
       exchange: '319317'
       name: Barksdale
@@ -498,6 +653,11 @@ rate_centers:
       ilec_name: CHEQUAMEGON COMMUNICATIONS COOPERATIVE, INC.
       lat: '46.347803'
       long: "-91.498233"
+      closest_city:
+        name: Drummond
+        distance:
+          value: 19.06
+          units: km
     - region: WI
       exchange: '319562'
       name: Barneveld
@@ -522,6 +682,11 @@ rate_centers:
       ilec_name: TELEPHONE USA OF WISCONSIN, LLC DBA CENTURYLINK
       lat: '45.407357'
       long: "-91.843002"
+      closest_city:
+        name: Barron
+        distance:
+          value: 0.74
+          units: km
     - region: WI
       exchange: '319320'
       name: Barronett
@@ -562,6 +727,11 @@ rate_centers:
       ilec_name: HAGER TELECOM, INC.
       lat: '44.584161'
       long: "-92.452415"
+      closest_city:
+        name: Bay City
+        distance:
+          value: 0.52
+          units: km
     - region: WI
       exchange: '319812'
       name: Bay View
@@ -578,6 +748,11 @@ rate_centers:
       ilec_name: CENTURYTEL MIDWEST-KENDALL LLC DBA CENTURYLINK
       lat: '46.808309'
       long: "-90.819512"
+      closest_city:
+        name: Bayfield
+        distance:
+          value: 0.7
+          units: km
     - region: WI
       exchange: '319813'
       name: Bayside
@@ -594,6 +769,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF WISCONSIN LLC
       lat: '44.53427'
       long: "-88.724712"
+      closest_city:
+        name: Bear Creek
+        distance:
+          value: 0.4
+          units: km
     - region: WI
       exchange: '318998'
       name: Beaver
@@ -610,6 +790,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '43.457939'
       long: "-88.825938"
+      closest_city:
+        name: Beaver Dam
+        distance:
+          value: 1.27
+          units: km
     - region: WI
       exchange: '209700'
       name: Beetown
@@ -618,6 +803,11 @@ rate_centers:
       ilec_name: FARMERS TEL. CO.
       lat: '42.819273'
       long: "-90.967499"
+      closest_city:
+        name: Glen Haven
+        distance:
+          value: 7.93
+          units: km
     - region: WI
       exchange: '319324'
       name: Beldenville
@@ -634,6 +824,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.49905'
       long: "-87.856783"
+      closest_city:
+        name: Belgium
+        distance:
+          value: 0.8
+          units: km
     - region: WI
       exchange: '319566'
       name: Bell Center
@@ -650,6 +845,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '42.857183'
       long: "-89.535049"
+      closest_city:
+        name: Belleville
+        distance:
+          value: 0.9
+          units: km
     - region: WI
       exchange: '318999'
       name: Bellevue
@@ -666,6 +866,11 @@ rate_centers:
       ilec_name: BELMONT TEL. CO.
       lat: '42.732704'
       long: "-90.330868"
+      closest_city:
+        name: Belmont
+        distance:
+          value: 0.65
+          units: km
     - region: WI
       exchange: '209740'
       name: Beloit
@@ -674,6 +879,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '42.507888'
       long: "-89.022005"
+      closest_city:
+        name: Beloit
+        distance:
+          value: 1.71
+          units: km
     - region: WI
       exchange: '319816'
       name: Benet Lake
@@ -690,6 +900,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW WISCONSIN LLC DBA CENTURYLINK
       lat: '46.45063'
       long: "-91.838177"
+      closest_city:
+        name: Solon Springs
+        distance:
+          value: 11.32
+          units: km
     - region: WI
       exchange: '209760'
       name: Benoit
@@ -698,6 +913,11 @@ rate_centers:
       ilec_name: CHEQUAMEGON COMMUNICATIONS COOPERATIVE, INC.
       lat: '46.498776'
       long: "-91.076284"
+      closest_city:
+        name: Mason
+        distance:
+          value: 7.15
+          units: km
     - region: WI
       exchange: '209770'
       name: Benton
@@ -706,6 +926,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL WISCONSIN LLC DBA CENTURYLINK
       lat: '42.575511'
       long: "-90.380593"
+      closest_city:
+        name: Benton
+        distance:
+          value: 0.66
+          units: km
     - region: WI
       exchange: '209780'
       name: Bergen
@@ -714,6 +939,11 @@ rate_centers:
       ilec_name: BERGEN TEL. CO. - WI
       lat: '42.500523'
       long: "-88.866584"
+      closest_city:
+        name: Clinton
+        distance:
+          value: 6.33
+          units: km
     - region: WI
       exchange: '209790'
       name: Berlin
@@ -722,6 +952,11 @@ rate_centers:
       ilec_name: CENTURYTEL MIDWEST-KENDALL LLC DBA CENTURYLINK
       lat: '43.964582'
       long: "-88.941769"
+      closest_city:
+        name: Berlin
+        distance:
+          value: 0.95
+          units: km
     - region: WI
       exchange: '209800'
       name: Big Bend
@@ -730,6 +965,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '42.883374'
       long: "-88.210086"
+      closest_city:
+        name: Big Bend
+        distance:
+          value: 2.09
+          units: km
     - region: WI
       exchange: '319001'
       name: Big Falls
@@ -746,6 +986,11 @@ rate_centers:
       ilec_name: TELEPHONE USA OF WISCONSIN, LLC DBA CENTURYLINK
       lat: '45.667642'
       long: "-91.550752"
+      closest_city:
+        name: Birchwood
+        distance:
+          value: 1.11
+          units: km
     - region: WI
       exchange: '209820'
       name: Birnamwood
@@ -754,6 +999,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '44.932353'
       long: "-89.210678"
+      closest_city:
+        name: Birnamwood
+        distance:
+          value: 0.11
+          units: km
     - region: WI
       exchange: '319003'
       name: Biron
@@ -770,6 +1020,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL WISCONSIN LLC DBA CENTURYLINK
       lat: '44.467212'
       long: "-88.448369"
+      closest_city:
+        name: Black Creek
+        distance:
+          value: 0.8
+          units: km
     - region: WI
       exchange: '209840'
       name: Black Earth
@@ -778,6 +1033,11 @@ rate_centers:
       ilec_name: BLACK EARTH TEL. CO.
       lat: '43.134248'
       long: "-89.750814"
+      closest_city:
+        name: Black Earth
+        distance:
+          value: 0.31
+          units: km
     - region: WI
       exchange: '319571'
       name: Black Hawk
@@ -794,6 +1054,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL WISCONSIN LLC DBA CENTURYLINK
       lat: '44.299218'
       long: "-90.86122"
+      closest_city:
+        name: Black River Falls
+        distance:
+          value: 1.53
+          units: km
     - region: WI
       exchange: '319005'
       name: Blackwell
@@ -810,6 +1075,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL WISCONSIN LLC DBA CENTURYLINK
       lat: '44.291563'
       long: "-91.235667"
+      closest_city:
+        name: Blair
+        distance:
+          value: 1.94
+          units: km
     - region: WI
       exchange: '209870'
       name: Blanchardville
@@ -818,6 +1088,11 @@ rate_centers:
       ilec_name: UTELCO, INC.
       lat: '42.816304'
       long: "-89.856499"
+      closest_city:
+        name: Blanchardville
+        distance:
+          value: 0.84
+          units: km
     - region: WI
       exchange: '319006'
       name: Blenker
@@ -834,6 +1109,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.490125'
       long: "-90.456127"
+      closest_city:
+        name: Yuba
+        distance:
+          value: 5.67
+          units: km
     - region: WI
       exchange: '209890'
       name: Bloomer
@@ -842,6 +1122,11 @@ rate_centers:
       ilec_name: BLOOMER TEL. CO.
       lat: '45.106636'
       long: "-91.485077"
+      closest_city:
+        name: Bloomer
+        distance:
+          value: 0.63
+          units: km
     - region: WI
       exchange: '319577'
       name: Bloomingdale
@@ -858,6 +1143,11 @@ rate_centers:
       ilec_name: GRANTLAND TELECOM, INC.
       lat: '42.883776'
       long: "-90.917968"
+      closest_city:
+        name: Bloomington
+        distance:
+          value: 1.24
+          units: km
     - region: WI
       exchange: '319580'
       name: Blue Mounds
@@ -874,6 +1164,11 @@ rate_centers:
       ilec_name: RICHLAND-GRANT TEL. COOP., INC.
       lat: '43.183869'
       long: "-90.564665"
+      closest_city:
+        name: Blue River
+        distance:
+          value: 0.59
+          units: km
     - region: WI
       exchange: '319575'
       name: Bluff Siding
@@ -898,6 +1193,11 @@ rate_centers:
       ilec_name: RICHLAND-GRANT TEL. COOP., INC.
       lat: '43.334865'
       long: "-90.526017"
+      closest_city:
+        name: Boaz
+        distance:
+          value: 0.57
+          units: km
     - region: WI
       exchange: '209930'
       name: Bohners Lake
@@ -906,6 +1206,11 @@ rate_centers:
       ilec_name: BURLINGTON, BRIGHTON & WHEATLAND TEL. CO.
       lat: '42.632671'
       long: "-88.290377"
+      closest_city:
+        name: Bohners Lake
+        distance:
+          value: 0.97
+          units: km
     - region: WI
       exchange: '319820'
       name: Boltonville
@@ -922,6 +1227,11 @@ rate_centers:
       ilec_name: BONDUEL TEL. CO.
       lat: '44.731255'
       long: "-88.44275"
+      closest_city:
+        name: Bonduel
+        distance:
+          value: 0.87
+          units: km
     - region: WI
       exchange: '209950'
       name: Boscobel
@@ -930,6 +1240,11 @@ rate_centers:
       ilec_name: CENTURYTEL MIDWEST-WI LLC NW DBA CENTURYLINK - NW
       lat: '43.135472'
       long: "-90.70189"
+      closest_city:
+        name: Boscobel
+        distance:
+          value: 1.08
+          units: km
     - region: WI
       exchange: '209960'
       name: Boulder Junction
@@ -938,6 +1253,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW WISCONSIN LLC DBA CENTURYLINK
       lat: '46.11474'
       long: "-89.639407"
+      closest_city:
+        name: Boulder Junction
+        distance:
+          value: 0.73
+          units: km
     - region: WI
       exchange: '209970'
       name: Bowler
@@ -946,6 +1266,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF WISCONSIN LLC
       lat: '44.86671'
       long: "-88.975282"
+      closest_city:
+        name: Bowler
+        distance:
+          value: 0.66
+          units: km
     - region: WI
       exchange: '209980'
       name: Boyceville
@@ -954,6 +1279,11 @@ rate_centers:
       ilec_name: TELEPHONE USA OF WISCONSIN, LLC DBA CENTURYLINK
       lat: '45.05098'
       long: "-92.03135"
+      closest_city:
+        name: Boyceville
+        distance:
+          value: 1.07
+          units: km
     - region: WI
       exchange: '209990'
       name: Boyd
@@ -962,6 +1292,11 @@ rate_centers:
       ilec_name: CENTURYTEL MIDWEST-WI LLC NW DBA CENTURYLINK - NW
       lat: '44.956595'
       long: "-91.034268"
+      closest_city:
+        name: Boyd
+        distance:
+          value: 0.57
+          units: km
     - region: WI
       exchange: '319821'
       name: Branch
@@ -978,6 +1313,11 @@ rate_centers:
       ilec_name: CENTURYTEL FAIRWATER-BRANDON-ALTO DBA CENTURYLINK
       lat: '43.734136'
       long: "-88.785401"
+      closest_city:
+        name: Brandon
+        distance:
+          value: 0.31
+          units: km
     - region: WI
       exchange: '210010'
       name: Brantwood
@@ -986,6 +1326,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW WISCONSIN LLC DBA CENTURYLINK
       lat: '45.547623'
       long: "-90.100186"
+      closest_city:
+        name: Prentice
+        distance:
+          value: 14.78
+          units: km
     - region: WI
       exchange: '319583'
       name: Bridgeport
@@ -1002,6 +1347,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.658369'
       long: "-89.58518"
+      closest_city:
+        name: Briggsville
+        distance:
+          value: 0.44
+          units: km
     - region: WI
       exchange: '319333'
       name: Brill
@@ -1018,6 +1368,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '44.183223'
       long: "-88.057649"
+      closest_city:
+        name: Brillion
+        distance:
+          value: 1.33
+          units: km
     - region: WI
       exchange: '210040'
       name: Bristol
@@ -1026,6 +1381,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '42.559069'
       long: "-88.04787"
+      closest_city:
+        name: Bristol
+        distance:
+          value: 3.59
+          units: km
     - region: WI
       exchange: '210050'
       name: Brodhead
@@ -1034,6 +1394,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '42.617114'
       long: "-89.365061"
+      closest_city:
+        name: Brodhead
+        distance:
+          value: 0.86
+          units: km
     - region: WI
       exchange: '212692'
       name: Brookfield
@@ -1058,6 +1423,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '42.850413'
       long: "-89.364751"
+      closest_city:
+        name: Brooklyn
+        distance:
+          value: 0.65
+          units: km
     - region: WI
       exchange: '210070'
       name: Brooks
@@ -1066,6 +1436,11 @@ rate_centers:
       ilec_name: MARQUETTE-ADAMS TEL. COOP., INC.
       lat: '43.819531'
       long: "-89.642887"
+      closest_city:
+        name: Oxford
+        distance:
+          value: 7.6
+          units: km
     - region: WI
       exchange: '319826'
       name: Brown Deer
@@ -1090,6 +1465,11 @@ rate_centers:
       ilec_name: UTELCO, INC.
       lat: '42.57469'
       long: "-89.791076"
+      closest_city:
+        name: Browntown
+        distance:
+          value: 0.48
+          units: km
     - region: WI
       exchange: '210090'
       name: Bruce
@@ -1098,6 +1478,11 @@ rate_centers:
       ilec_name: BRUCE TEL. CO., INC.
       lat: '45.468568'
       long: "-91.267057"
+      closest_city:
+        name: Ladysmith
+        distance:
+          value: 13.27
+          units: km
     - region: WI
       exchange: '319335'
       name: Brule
@@ -1114,6 +1499,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF FORESTVILLE, LLC DBA CENTURYLINK
       lat: '44.726388'
       long: "-87.616158"
+      closest_city:
+        name: Forestville
+        distance:
+          value: 11.56
+          units: km
     - region: WI
       exchange: '319012'
       name: Bryant
@@ -1154,6 +1544,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '42.673749'
       long: "-88.275212"
+      closest_city:
+        name: Burlington
+        distance:
+          value: 0.26
+          units: km
     - region: WI
       exchange: '210120'
       name: Burnett
@@ -1162,6 +1557,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '43.502253'
       long: "-88.709176"
+      closest_city:
+        name: Burnett
+        distance:
+          value: 0.48
+          units: km
     - region: WI
       exchange: '319591'
       name: Busseyville
@@ -1194,6 +1594,11 @@ rate_centers:
       ilec_name: TELEPHONE USA OF WISCONSIN, LLC DBA CENTURYLINK
       lat: '46.017272'
       long: "-90.497503"
+      closest_city:
+        name: Butternut
+        distance:
+          value: 0.44
+          units: km
     - region: WI
       exchange: '319831'
       name: Byron
@@ -1210,6 +1615,11 @@ rate_centers:
       ilec_name: CHEQUAMEGON COMMUNICATIONS COOPERATIVE, INC.
       lat: '46.209609'
       long: "-91.300897"
+      closest_city:
+        name: Cable
+        distance:
+          value: 1.1
+          units: km
     - region: WI
       exchange: '210150'
       name: Cadott
@@ -1218,6 +1628,11 @@ rate_centers:
       ilec_name: CENTURYTEL MIDWEST-WI LLC NW DBA CENTURYLINK - NW
       lat: '44.949336'
       long: "-91.146918"
+      closest_city:
+        name: Cadott
+        distance:
+          value: 0.5
+          units: km
     - region: WI
       exchange: '210160'
       name: Caledonia
@@ -1226,6 +1641,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '42.807206'
       long: "-87.947287"
+      closest_city:
+        name: Raymond
+        distance:
+          value: 5.32
+          units: km
     - region: WI
       exchange: '319833'
       name: Calumet Harbor
@@ -1250,6 +1670,11 @@ rate_centers:
       ilec_name: CENTURYTEL SOUTHERN WISCONSIN LLC DBA CENTURYLINK
       lat: '43.542659'
       long: "-89.106384"
+      closest_city:
+        name: Cambria
+        distance:
+          value: 0.37
+          units: km
     - region: WI
       exchange: '210180'
       name: Cambridge
@@ -1258,6 +1683,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '42.999156'
       long: "-89.015563"
+      closest_city:
+        name: Cambridge
+        distance:
+          value: 1.0
+          units: km
     - region: WI
       exchange: '210190'
       name: Cameron
@@ -1266,6 +1696,11 @@ rate_centers:
       ilec_name: CHIBARDUN TEL. COOP., INC.
       lat: '45.417231'
       long: "-91.735429"
+      closest_city:
+        name: Cameron
+        distance:
+          value: 1.37
+          units: km
     - region: WI
       exchange: '210200'
       name: Camp Douglas
@@ -1274,6 +1709,11 @@ rate_centers:
       ilec_name: LEMONWEIR VALLEY TEL. CO.
       lat: '43.91629'
       long: "-90.264063"
+      closest_city:
+        name: Camp Douglas
+        distance:
+          value: 0.59
+          units: km
     - region: WI
       exchange: '319836'
       name: Camp Lake
@@ -1290,6 +1730,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.600464'
       long: "-88.282592"
+      closest_city:
+        name: Campbellsport
+        distance:
+          value: 0.34
+          units: km
     - region: WI
       exchange: '210220'
       name: Canton
@@ -1298,6 +1743,11 @@ rate_centers:
       ilec_name: CITIZENS TEL. COOP., INC.
       lat: '45.43495'
       long: "-91.651297"
+      closest_city:
+        name: Cameron
+        distance:
+          value: 7.8
+          units: km
     - region: WI
       exchange: '319014'
       name: Caroline
@@ -1322,6 +1772,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.658412'
       long: "-88.011841"
+      closest_city:
+        name: Cascade
+        distance:
+          value: 0.42
+          units: km
     - region: WI
       exchange: '210240'
       name: Casco
@@ -1330,6 +1785,11 @@ rate_centers:
       ilec_name: CENTURYTEL MW-WISCONSIN DBA CENTURYLINK- CASCO
       lat: '44.549019'
       long: "-87.618587"
+      closest_city:
+        name: Casco
+        distance:
+          value: 0.76
+          units: km
     - region: WI
       exchange: '210250'
       name: Cashton
@@ -1338,6 +1798,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF MONROE COUNTY, LLC DBA CENTURYLINK
       lat: '43.742138'
       long: "-90.785473"
+      closest_city:
+        name: Cashton
+        distance:
+          value: 0.14
+          units: km
     - region: WI
       exchange: '210260'
       name: Cassville
@@ -1346,6 +1811,11 @@ rate_centers:
       ilec_name: FARMERS TEL. CO.
       lat: '42.715715'
       long: "-90.994128"
+      closest_city:
+        name: Cassville
+        distance:
+          value: 0.42
+          units: km
     - region: WI
       exchange: '210270'
       name: Cataract
@@ -1354,6 +1824,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF MONROE COUNTY, LLC DBA CENTURYLINK
       lat: '44.090674'
       long: "-90.853718"
+      closest_city:
+        name: Cataract
+        distance:
+          value: 1.31
+          units: km
     - region: WI
       exchange: '319343'
       name: Catawba
@@ -1394,6 +1869,11 @@ rate_centers:
       ilec_name: LA VALLE TEL. COOP.
       lat: '43.515906'
       long: "-90.185218"
+      closest_city:
+        name: Cazenovia
+        distance:
+          value: 1.42
+          units: km
     - region: WI
       exchange: '210290'
       name: Cecil
@@ -1402,6 +1882,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF WISCONSIN LLC
       lat: '44.807711'
       long: "-88.451792"
+      closest_city:
+        name: Cecil
+        distance:
+          value: 0.43
+          units: km
     - region: WI
       exchange: '319842'
       name: Cedar Creek
@@ -1418,6 +1903,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.5645'
       long: "-87.82313"
+      closest_city:
+        name: Cedar Grove
+        distance:
+          value: 0.42
+          units: km
     - region: WI
       exchange: '319840'
       name: Cedar Lake
@@ -1434,6 +1924,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '43.300923'
       long: "-87.979843"
+      closest_city:
+        name: Cedarburg
+        distance:
+          value: 0.75
+          units: km
     - region: WI
       exchange: '319018'
       name: Center Valley
@@ -1450,6 +1945,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL WISCONSIN LLC DBA CENTURYLINK
       lat: '44.074133'
       long: "-91.451798"
+      closest_city:
+        name: Galesville
+        distance:
+          value: 7.57
+          units: km
     - region: WI
       exchange: '210330'
       name: Centuria
@@ -1458,6 +1958,11 @@ rate_centers:
       ilec_name: TELEPHONE USA OF WISCONSIN, LLC DBA CENTURYLINK
       lat: '45.458466'
       long: "-92.549921"
+      closest_city:
+        name: Centuria
+        distance:
+          value: 1.15
+          units: km
     - region: WI
       exchange: '210340'
       name: Chaseburg
@@ -1466,6 +1971,11 @@ rate_centers:
       ilec_name: COON VALLEY FARMERS TEL. CO.
       lat: '43.658786'
       long: "-91.101696"
+      closest_city:
+        name: Chaseburg
+        distance:
+          value: 0.41
+          units: km
     - region: WI
       exchange: '319019'
       name: Chelsea
@@ -1490,6 +2000,11 @@ rate_centers:
       ilec_name: CENTURYTEL MIDWEST-WI LLC NW DBA CENTURYLINK - NW
       lat: '45.325537'
       long: "-91.646123"
+      closest_city:
+        name: Chetek
+        distance:
+          value: 1.2
+          units: km
     - region: WI
       exchange: '210360'
       name: Chili
@@ -1498,6 +2013,11 @@ rate_centers:
       ilec_name: BADGER TELECOM, INC.
       lat: '44.624243'
       long: "-90.352255"
+      closest_city:
+        name: Chili
+        distance:
+          value: 0.76
+          units: km
     - region: WI
       exchange: '210370'
       name: Chilton
@@ -1506,6 +2026,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '44.032202'
       long: "-88.168647"
+      closest_city:
+        name: Chilton
+        distance:
+          value: 0.59
+          units: km
     - region: WI
       exchange: '210380'
       name: Chippewa Falls
@@ -1514,6 +2039,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '44.940491'
       long: "-91.389572"
+      closest_city:
+        name: Chippewa Falls
+        distance:
+          value: 0.52
+          units: km
     - region: WI
       exchange: '319348'
       name: Clam Falls
@@ -1546,6 +2076,11 @@ rate_centers:
       ilec_name: AMERY TELECOM, INC.
       lat: '45.331671'
       long: "-92.167067"
+      closest_city:
+        name: Clayton
+        distance:
+          value: 0.7
+          units: km
     - region: WI
       exchange: '210400'
       name: Clear Lake
@@ -1554,6 +2089,11 @@ rate_centers:
       ilec_name: CLEAR LAKE TEL. CO., INC.
       lat: '45.249403'
       long: "-92.257618"
+      closest_city:
+        name: Clear Lake
+        distance:
+          value: 0.77
+          units: km
     - region: WI
       exchange: '319021'
       name: Clearwater Lake
@@ -1570,6 +2110,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL WISCONSIN LLC DBA CENTURYLINK
       lat: '44.657164'
       long: "-91.416462"
+      closest_city:
+        name: Eleva
+        distance:
+          value: 9.95
+          units: km
     - region: WI
       exchange: '210420'
       name: Cleveland
@@ -1578,6 +2123,11 @@ rate_centers:
       ilec_name: EASTCOAST TELECOM, INC.
       lat: '43.918079'
       long: "-87.749153"
+      closest_city:
+        name: Cleveland
+        distance:
+          value: 0.19
+          units: km
     - region: WI
       exchange: '210430'
       name: Clinton
@@ -1586,6 +2136,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '42.558337'
       long: "-88.868165"
+      closest_city:
+        name: Clinton
+        distance:
+          value: 0.11
+          units: km
     - region: WI
       exchange: '210440'
       name: Clintonville
@@ -1594,6 +2149,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF WISCONSIN LLC
       lat: '44.617075'
       long: "-88.751186"
+      closest_city:
+        name: Clintonville
+        distance:
+          value: 0.57
+          units: km
     - region: WI
       exchange: '210450'
       name: Clyman
@@ -1602,6 +2162,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.316546'
       long: "-88.713831"
+      closest_city:
+        name: Clyman
+        distance:
+          value: 0.94
+          units: km
     - region: WI
       exchange: '210460'
       name: Cobb
@@ -1610,6 +2175,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '42.966189'
       long: "-90.306111"
+      closest_city:
+        name: Cobb
+        distance:
+          value: 1.91
+          units: km
     - region: WI
       exchange: '210470'
       name: Cochrane
@@ -1618,6 +2188,11 @@ rate_centers:
       ilec_name: COCHRANE COOP. TEL. CO.
       lat: '44.231835'
       long: "-91.834594"
+      closest_city:
+        name: Cochrane
+        distance:
+          value: 0.51
+          units: km
     - region: WI
       exchange: '319023'
       name: Coddington
@@ -1634,6 +2209,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '44.907209'
       long: "-90.320326"
+      closest_city:
+        name: Colby
+        distance:
+          value: 0.52
+          units: km
     - region: WI
       exchange: '210490'
       name: Coleman
@@ -1642,6 +2222,11 @@ rate_centers:
       ilec_name: CENTURYTEL MW-WI-CENCOM DBA CENTURYLINK - CENCOM
       lat: '45.067914'
       long: "-88.031828"
+      closest_city:
+        name: Coleman
+        distance:
+          value: 0.32
+          units: km
     - region: WI
       exchange: '210500'
       name: Colfax
@@ -1650,6 +2235,11 @@ rate_centers:
       ilec_name: TELEPHONE USA OF WISCONSIN, LLC DBA CENTURYLINK
       lat: '44.998031'
       long: "-91.723224"
+      closest_city:
+        name: Colfax
+        distance:
+          value: 0.27
+          units: km
     - region: WI
       exchange: '319848'
       name: Colgate
@@ -1666,6 +2256,11 @@ rate_centers:
       ilec_name: EASTCOAST TELECOM, INC.
       lat: '44.09123'
       long: "-87.981282"
+      closest_city:
+        name: Collins
+        distance:
+          value: 0.63
+          units: km
     - region: WI
       exchange: '210520'
       name: Coloma
@@ -1674,6 +2269,11 @@ rate_centers:
       ilec_name: UNION TEL. CO.
       lat: '44.042137'
       long: "-89.515168"
+      closest_city:
+        name: Coloma
+        distance:
+          value: 1.33
+          units: km
     - region: WI
       exchange: '210530'
       name: Columbus
@@ -1682,6 +2282,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '43.331486'
       long: "-89.014639"
+      closest_city:
+        name: Columbus
+        distance:
+          value: 1.32
+          units: km
     - region: WI
       exchange: '319027'
       name: Combined Locks
@@ -1738,6 +2343,11 @@ rate_centers:
       ilec_name: COON VALLEY FARMERS TEL. CO.
       lat: '43.698917'
       long: "-91.011624"
+      closest_city:
+        name: Coon Valley
+        distance:
+          value: 0.39
+          units: km
     - region: WI
       exchange: '319029'
       name: Cooperstown
@@ -1754,6 +2364,11 @@ rate_centers:
       ilec_name: CENTURYTEL MIDWEST-KENDALL LLC DBA CENTURYLINK
       lat: '45.176495'
       long: "-91.149752"
+      closest_city:
+        name: Cornell
+        distance:
+          value: 1.48
+          units: km
     - region: WI
       exchange: '210560'
       name: Cornucopia
@@ -1762,6 +2377,11 @@ rate_centers:
       ilec_name: CHEQUAMEGON COMMUNICATIONS COOPERATIVE, INC.
       lat: '46.859806'
       long: "-91.109573"
+      closest_city:
+        name: Cornucopia
+        distance:
+          value: 0.37
+          units: km
     - region: WI
       exchange: '210570'
       name: Cottage Grove
@@ -1770,6 +2390,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.074652'
       long: "-89.201902"
+      closest_city:
+        name: Cottage Grove
+        distance:
+          value: 1.97
+          units: km
     - region: WI
       exchange: '319359'
       name: Couderay
@@ -1786,6 +2411,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF WISCONSIN LLC
       lat: '45.56765'
       long: "-88.899474"
+      closest_city:
+        name: Crandon
+        distance:
+          value: 0.2
+          units: km
     - region: WI
       exchange: '319031'
       name: Cranmoor
@@ -1802,6 +2432,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF WISCONSIN LLC
       lat: '45.608821'
       long: "-89.544426"
+      closest_city:
+        name: Rhinelander
+        distance:
+          value: 9.68
+          units: km
     - region: WI
       exchange: '210600'
       name: Crivitz
@@ -1810,6 +2445,11 @@ rate_centers:
       ilec_name: CENTURYTEL MW-WI-CENCOM DBA CENTURYLINK - CENCOM
       lat: '45.232614'
       long: "-88.010614"
+      closest_city:
+        name: Crivitz
+        distance:
+          value: 0.33
+          units: km
     - region: WI
       exchange: '210610'
       name: Cross Plains
@@ -1818,6 +2458,11 @@ rate_centers:
       ilec_name: MID-PLAINS TEL., INC.
       lat: '43.117591'
       long: "-89.649971"
+      closest_city:
+        name: Cross Plains
+        distance:
+          value: 0.38
+          units: km
     - region: WI
       exchange: '210620'
       name: Cuba City
@@ -1826,6 +2471,11 @@ rate_centers:
       ilec_name: CUBA CITY TEL. EXCH. CO., INC.
       lat: '42.61037'
       long: "-90.43356"
+      closest_city:
+        name: Cuba City
+        distance:
+          value: 0.77
+          units: km
     - region: WI
       exchange: '319851'
       name: Cudahy
@@ -1842,6 +2492,11 @@ rate_centers:
       ilec_name: CENTURYTEL MW-WI-CENCOM DBA CENTURYLINK - CENCOM
       lat: '45.532628'
       long: "-92.01826"
+      closest_city:
+        name: Cumberland
+        distance:
+          value: 0.92
+          units: km
     - region: WI
       exchange: '319034'
       name: Curtiss
@@ -1858,6 +2513,11 @@ rate_centers:
       ilec_name: LAKELAND COMMUNICATIONS GROUP, LLC
       lat: '45.567906'
       long: "-92.650289"
+      closest_city:
+        name: Milltown
+        distance:
+          value: 12.48
+          units: km
     - region: WI
       exchange: '319035'
       name: Custer
@@ -1890,6 +2550,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW WISCONSIN LLC DBA CENTURYLINK
       lat: '46.1611'
       long: "-92.232888"
+      closest_city:
+        name: Danbury
+        distance:
+          value: 20.29
+          units: km
     - region: WI
       exchange: '319036'
       name: Dale
@@ -1906,6 +2571,11 @@ rate_centers:
       ilec_name: CHIBARDUN TEL. COOP., INC.
       lat: '45.267413'
       long: "-91.807673"
+      closest_city:
+        name: Dallas
+        distance:
+          value: 1.06
+          units: km
     - region: WI
       exchange: '319852'
       name: Dalton
@@ -1922,6 +2592,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW WISCONSIN LLC DBA CENTURYLINK
       lat: '46.009877'
       long: "-92.363741"
+      closest_city:
+        name: Danbury
+        distance:
+          value: 1.08
+          units: km
     - region: WI
       exchange: '319037'
       name: Dancy
@@ -1954,6 +2629,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '42.600241'
       long: "-88.705924"
+      closest_city:
+        name: Darien
+        distance:
+          value: 0.57
+          units: km
     - region: WI
       exchange: '210681'
       name: Darien (Sharon Telephone)
@@ -1962,6 +2642,11 @@ rate_centers:
       ilec_name: SHARON TELEPHONE COMPANY
       lat: '42.600241'
       long: "-88.705924"
+      closest_city:
+        name: Darien
+        distance:
+          value: 0.57
+          units: km
     - region: WI
       exchange: '210690'
       name: Darlington
@@ -1970,6 +2655,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL WISCONSIN LLC DBA CENTURYLINK
       lat: '42.683834'
       long: "-90.1135"
+      closest_city:
+        name: Darlington
+        distance:
+          value: 0.98
+          units: km
     - region: WI
       exchange: '210700'
       name: De Forest
@@ -1978,6 +2668,11 @@ rate_centers:
       ilec_name: CENTURYTEL MIDWEST-WI LLC NW DBA CENTURYLINK - NW
       lat: '43.250815'
       long: "-89.339506"
+      closest_city:
+        name: DeForest
+        distance:
+          value: 2.32
+          units: km
     - region: WI
       exchange: '210710'
       name: De Pere
@@ -1986,6 +2681,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '44.440977'
       long: "-88.047857"
+      closest_city:
+        name: De Pere
+        distance:
+          value: 2.68
+          units: km
     - region: WI
       exchange: '210720'
       name: De Soto
@@ -1994,6 +2694,11 @@ rate_centers:
       ilec_name: VERNON TEL. COOP.
       lat: '43.474448'
       long: "-91.147207"
+      closest_city:
+        name: De Soto
+        distance:
+          value: 6.48
+          units: km
     - region: WI
       exchange: '210730'
       name: Deer Park
@@ -2002,6 +2707,11 @@ rate_centers:
       ilec_name: AMERY TELECOM, INC.
       lat: '45.193277'
       long: "-92.3807"
+      closest_city:
+        name: Deer Park
+        distance:
+          value: 0.76
+          units: km
     - region: WI
       exchange: '319039'
       name: Deerbrook
@@ -2018,6 +2728,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.049133'
       long: "-89.079038"
+      closest_city:
+        name: Deerfield
+        distance:
+          value: 0.23
+          units: km
     - region: WI
       exchange: '210750'
       name: Delafield
@@ -2026,6 +2741,11 @@ rate_centers:
       ilec_name: CENTURYTEL MIDWEST-WI LLC NW DBA CENTURYLINK - NW
       lat: '43.065557'
       long: "-88.411658"
+      closest_city:
+        name: Delafield
+        distance:
+          value: 1.8
+          units: km
     - region: WI
       exchange: '210760'
       name: Delavan
@@ -2034,6 +2754,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '42.632628'
       long: "-88.641139"
+      closest_city:
+        name: Delavan
+        distance:
+          value: 0.87
+          units: km
     - region: WI
       exchange: '319367'
       name: Delta
@@ -2050,6 +2775,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL WISCONSIN LLC DBA CENTURYLINK
       lat: '44.348722'
       long: "-87.833826"
+      closest_city:
+        name: Denmark
+        distance:
+          value: 0.21
+          units: km
     - region: WI
       exchange: '319368'
       name: Deronda
@@ -2074,6 +2804,11 @@ rate_centers:
       ilec_name: DICKEYVILLE TEL. CORP.
       lat: '42.634216'
       long: "-90.597867"
+      closest_city:
+        name: Dickeyville
+        distance:
+          value: 1.19
+          units: km
     - region: WI
       exchange: '319616'
       name: Dodge
@@ -2090,6 +2825,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '42.956416'
       long: "-90.124258"
+      closest_city:
+        name: Dodgeville
+        distance:
+          value: 1.15
+          units: km
     - region: WI
       exchange: '319370'
       name: Donald
@@ -2106,6 +2846,11 @@ rate_centers:
       ilec_name: MIDWAY TEL. CO.
       lat: '45.010394'
       long: "-90.334651"
+      closest_city:
+        name: Dorchester
+        distance:
+          value: 0.93
+          units: km
     - region: WI
       exchange: '210810'
       name: Dousman
@@ -2114,6 +2859,11 @@ rate_centers:
       ilec_name: CENTURYTEL MIDWEST-WI LLC NW DBA CENTURYLINK - NW
       lat: '43.016778'
       long: "-88.474693"
+      closest_city:
+        name: Dousman
+        distance:
+          value: 0.87
+          units: km
     - region: WI
       exchange: '319371'
       name: Downing
@@ -2130,6 +2880,11 @@ rate_centers:
       ilec_name: WEST WISCONSIN TELCOM COOP., INC.
       lat: '44.777793'
       long: "-91.934496"
+      closest_city:
+        name: Downsville
+        distance:
+          value: 1.03
+          units: km
     - region: WI
       exchange: '319858'
       name: Doylestown
@@ -2146,6 +2901,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW WISCONSIN LLC DBA CENTURYLINK
       lat: '45.349125'
       long: "-92.636222"
+      closest_city:
+        name: Dresser
+        distance:
+          value: 1.39
+          units: km
     - region: WI
       exchange: '210840'
       name: Drummond
@@ -2154,6 +2914,11 @@ rate_centers:
       ilec_name: CHEQUAMEGON COMMUNICATIONS COOPERATIVE, INC.
       lat: '46.33811'
       long: "-91.255309"
+      closest_city:
+        name: Drummond
+        distance:
+          value: 0.74
+          units: km
     - region: WI
       exchange: '319042'
       name: Dunbar
@@ -2186,6 +2951,11 @@ rate_centers:
       ilec_name: NELSON COMMUNICATIONS COOPERATIVE
       lat: '44.624374'
       long: "-91.965011"
+      closest_city:
+        name: Durand
+        distance:
+          value: 0.45
+          units: km
     - region: WI
       exchange: '319044'
       name: Duvall
@@ -2210,6 +2980,11 @@ rate_centers:
       ilec_name: CENTURYTEL MIDWEST-WI LLC NW DBA CENTURYLINK - NW
       lat: '42.882667'
       long: "-88.478423"
+      closest_city:
+        name: Eagle
+        distance:
+          value: 0.82
+          units: km
     - region: WI
       exchange: '210870'
       name: Eagle Point
@@ -2218,6 +2993,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW WISCONSIN LLC DBA CENTURYLINK
       lat: '45.041582'
       long: "-91.399939"
+      closest_city:
+        name: Bloomer
+        distance:
+          value: 9.94
+          units: km
     - region: WI
       exchange: '210880'
       name: Eagle River
@@ -2226,6 +3006,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '45.919002'
       long: "-89.251429"
+      closest_city:
+        name: Eagle River
+        distance:
+          value: 0.76
+          units: km
     - region: WI
       exchange: '319618'
       name: East Bristol
@@ -2242,6 +3027,11 @@ rate_centers:
       ilec_name: CENTURYTEL MIDWEST-WI LLC NW DBA CENTURYLINK - NW
       lat: '42.790953'
       long: "-88.402804"
+      closest_city:
+        name: East Troy
+        distance:
+          value: 0.84
+          units: km
     - region: WI
       exchange: '210900'
       name: Eastman
@@ -2250,6 +3040,11 @@ rate_centers:
       ilec_name: TELEPHONE USA OF WISCONSIN, LLC DBA CENTURYLINK
       lat: '43.165887'
       long: "-91.016495"
+      closest_city:
+        name: Eastman
+        distance:
+          value: 0.83
+          units: km
     - region: WI
       exchange: '319047'
       name: Eaton
@@ -2266,6 +3061,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '44.806991'
       long: "-91.494035"
+      closest_city:
+        name: Eau Claire
+        distance:
+          value: 1.41
+          units: km
     - region: WI
       exchange: '210920'
       name: Eau Galle
@@ -2274,6 +3074,11 @@ rate_centers:
       ilec_name: WEST WISCONSIN TELCOM COOP., INC.
       lat: '44.697897'
       long: "-92.015902"
+      closest_city:
+        name: Arkansaw
+        distance:
+          value: 7.19
+          units: km
     - region: WI
       exchange: '210930'
       name: Eden
@@ -2282,6 +3087,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.690313'
       long: "-88.367441"
+      closest_city:
+        name: Eden
+        distance:
+          value: 0.38
+          units: km
     - region: WI
       exchange: '210940'
       name: Edgar
@@ -2290,6 +3100,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '44.924295'
       long: "-89.96205"
+      closest_city:
+        name: Edgar
+        distance:
+          value: 0.16
+          units: km
     - region: WI
       exchange: '210950'
       name: Edgerton
@@ -2298,6 +3113,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '42.832314'
       long: "-89.069017"
+      closest_city:
+        name: Edgerton
+        distance:
+          value: 0.69
+          units: km
     - region: WI
       exchange: '319621'
       name: Edmund
@@ -2314,6 +3134,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '45.041089'
       long: "-87.274054"
+      closest_city:
+        name: Egg Harbor
+        distance:
+          value: 1.47
+          units: km
     - region: WI
       exchange: '319863'
       name: El Dorado
@@ -2346,6 +3171,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF WISCONSIN LLC
       lat: '45.433588'
       long: "-89.174094"
+      closest_city:
+        name: Elcho
+        distance:
+          value: 0.96
+          units: km
     - region: WI
       exchange: '210980'
       name: Elderon
@@ -2354,6 +3184,11 @@ rate_centers:
       ilec_name: WITTENBERG TEL. CO.
       lat: '44.783883'
       long: "-89.230925"
+      closest_city:
+        name: Elderon
+        distance:
+          value: 1.35
+          units: km
     - region: WI
       exchange: '210990'
       name: Eleva
@@ -2362,6 +3197,11 @@ rate_centers:
       ilec_name: TRI-COUNTY TEL. COOP., INC.
       lat: '44.576004'
       long: "-91.463882"
+      closest_city:
+        name: Eleva
+        distance:
+          value: 0.53
+          units: km
     - region: WI
       exchange: '319381'
       name: Elk Creek
@@ -2378,6 +3218,11 @@ rate_centers:
       ilec_name: WEST WISCONSIN TELCOM COOP., INC.
       lat: '44.825501'
       long: "-91.653032"
+      closest_city:
+        name: Elk Mound
+        distance:
+          value: 6.03
+          units: km
     - region: WI
       exchange: '211010'
       name: Elk Mound
@@ -2386,6 +3231,11 @@ rate_centers:
       ilec_name: TELEPHONE USA OF WISCONSIN, LLC DBA CENTURYLINK
       lat: '44.874533'
       long: "-91.691602"
+      closest_city:
+        name: Elk Mound
+        distance:
+          value: 0.43
+          units: km
     - region: WI
       exchange: '211020'
       name: Elkhart Lake
@@ -2394,6 +3244,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.842081'
       long: "-88.01351"
+      closest_city:
+        name: Elkhart Lake
+        distance:
+          value: 1.1
+          units: km
     - region: WI
       exchange: '211030'
       name: Elkhorn
@@ -2402,6 +3257,11 @@ rate_centers:
       ilec_name: STATE LONG DISTANCE TEL. CO.
       lat: '42.672867'
       long: "-88.542658"
+      closest_city:
+        name: Elkhorn
+        distance:
+          value: 0.44
+          units: km
     - region: WI
       exchange: '319053'
       name: Ellis
@@ -2426,6 +3286,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '44.732331'
       long: "-92.483488"
+      closest_city:
+        name: Ellsworth
+        distance:
+          value: 0.51
+          units: km
     - region: WI
       exchange: '319866'
       name: Elm Grove
@@ -2450,6 +3315,11 @@ rate_centers:
       ilec_name: TELEPHONE USA OF WISCONSIN, LLC DBA CENTURYLINK
       lat: '44.782396'
       long: "-92.145058"
+      closest_city:
+        name: Elmwood
+        distance:
+          value: 0.42
+          units: km
     - region: WI
       exchange: '211060'
       name: Elroy
@@ -2458,6 +3328,11 @@ rate_centers:
       ilec_name: CENTURYTEL MIDWEST-WI LLC NW DBA CENTURYLINK - NW
       lat: '43.740768'
       long: "-90.264176"
+      closest_city:
+        name: Elroy
+        distance:
+          value: 0.52
+          units: km
     - region: WI
       exchange: '319056'
       name: Elton
@@ -2498,6 +3373,11 @@ rate_centers:
       ilec_name: MARQUETTE-ADAMS TEL. COOP., INC.
       lat: '43.71787'
       long: "-89.465548"
+      closest_city:
+        name: Endeavor
+        distance:
+          value: 0.43
+          units: km
     - region: WI
       exchange: '319058'
       name: Enterprise
@@ -2530,6 +3410,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL WISCONSIN LLC DBA CENTURYLINK
       lat: '44.169322'
       long: "-91.268098"
+      closest_city:
+        name: Ettrick
+        distance:
+          value: 0.24
+          units: km
     - region: WI
       exchange: '319060'
       name: Eureka
@@ -2546,6 +3431,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '42.773736'
       long: "-89.298829"
+      closest_city:
+        name: Evansville
+        distance:
+          value: 0.52
+          units: km
     - region: WI
       exchange: '319627'
       name: Excelsior
@@ -2562,6 +3452,11 @@ rate_centers:
       ilec_name: INDIANHEAD TEL. CO.
       lat: '45.673364'
       long: "-91.234806"
+      closest_city:
+        name: Exeland
+        distance:
+          value: 0.93
+          units: km
     - region: WI
       exchange: '211110'
       name: Fairchild
@@ -2570,6 +3465,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL WISCONSIN LLC DBA CENTURYLINK
       lat: '44.599862'
       long: "-90.970059"
+      closest_city:
+        name: Fairchild
+        distance:
+          value: 1.06
+          units: km
     - region: WI
       exchange: '211120'
       name: Fairplay
@@ -2578,6 +3478,11 @@ rate_centers:
       ilec_name: CITIZENS TELECOM CO ILLINOIS-FRONTIER CITIZENS -IL
       lat: '42.541523'
       long: "-90.555587"
+      closest_city:
+        name: Sandy Hook
+        distance:
+          value: 5.05
+          units: km
     - region: WI
       exchange: '319867'
       name: Fairwater
@@ -2594,6 +3499,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL WISCONSIN LLC DBA CENTURYLINK
       lat: '44.768272'
       long: "-91.277185"
+      closest_city:
+        name: Fall Creek
+        distance:
+          value: 0.49
+          units: km
     - region: WI
       exchange: '211140'
       name: Fall River
@@ -2602,6 +3512,11 @@ rate_centers:
       ilec_name: CENTURYTEL SOUTHERN WISCONSIN LLC DBA CENTURYLINK
       lat: '43.381278'
       long: "-89.050259"
+      closest_city:
+        name: Fall River
+        distance:
+          value: 0.62
+          units: km
     - region: WI
       exchange: '211150'
       name: Falun
@@ -2610,6 +3525,11 @@ rate_centers:
       ilec_name: FARMERS INDEPENDENT TEL. CO.
       lat: '45.774986'
       long: "-92.53495"
+      closest_city:
+        name: Grantsburg
+        distance:
+          value: 11.55
+          units: km
     - region: WI
       exchange: '319628'
       name: Fargo
@@ -2634,6 +3554,11 @@ rate_centers:
       ilec_name: GRANTLAND TELECOM, INC.
       lat: '42.98297'
       long: "-90.650378"
+      closest_city:
+        name: Fennimore
+        distance:
+          value: 0.41
+          units: km
     - region: WI
       exchange: '319062'
       name: Fenwood
@@ -2690,6 +3615,11 @@ rate_centers:
       ilec_name: NIAGARA TEL. CO.
       lat: '45.9232'
       long: "-88.248944"
+      closest_city:
+        name: Florence
+        distance:
+          value: 0.43
+          units: km
     - region: WI
       exchange: '211180'
       name: Fond du Lac
@@ -2698,6 +3628,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '43.773884'
       long: "-88.449876"
+      closest_city:
+        name: Fond du Lac
+        distance:
+          value: 0.85
+          units: km
     - region: WI
       exchange: '319871'
       name: Fontana
@@ -2714,6 +3649,11 @@ rate_centers:
       ilec_name: CENTURYTEL MW-WI-WAYSIDE DBA CENTURYLINK-WAYSIDE
       lat: '42.665914'
       long: "-89.205683"
+      closest_city:
+        name: Footville
+        distance:
+          value: 0.66
+          units: km
     - region: WI
       exchange: '319064'
       name: Forest Junction
@@ -2730,6 +3670,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF FORESTVILLE, LLC DBA CENTURYLINK
       lat: '44.682306'
       long: "-87.474248"
+      closest_city:
+        name: Forestville
+        distance:
+          value: 1.01
+          units: km
     - region: WI
       exchange: '211210'
       name: Fort Atkinson
@@ -2738,6 +3683,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '42.93581'
       long: "-88.83498"
+      closest_city:
+        name: Fort Atkinson
+        distance:
+          value: 1.39
+          units: km
     - region: WI
       exchange: '319633'
       name: Fort McCoy
@@ -2754,6 +3704,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL WISCONSIN LLC DBA CENTURYLINK
       lat: '44.134503'
       long: "-91.715268"
+      closest_city:
+        name: Fountain City
+        distance:
+          value: 2.16
+          units: km
     - region: WI
       exchange: '211230'
       name: Fox Creek
@@ -2762,6 +3717,11 @@ rate_centers:
       ilec_name: LAKELAND COMMUNICATIONS GROUP, LLC
       lat: '45.483557'
       long: "-92.332011"
+      closest_city:
+        name: Balsam Lake
+        distance:
+          value: 9.82
+          units: km
     - region: WI
       exchange: '211240'
       name: Fox Lake
@@ -2770,6 +3730,11 @@ rate_centers:
       ilec_name: CENTURYTEL SOUTHERN WISCONSIN LLC DBA CENTURYLINK
       lat: '43.557737'
       long: "-88.911174"
+      closest_city:
+        name: Fox Lake
+        distance:
+          value: 0.49
+          units: km
     - region: WI
       exchange: '319873'
       name: Fox Point
@@ -2818,6 +3783,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW WISCONSIN LLC DBA CENTURYLINK
       lat: '45.666805'
       long: "-92.469631"
+      closest_city:
+        name: Frederic
+        distance:
+          value: 1.39
+          units: km
     - region: WI
       exchange: '319877'
       name: Fredonia
@@ -2842,6 +3812,11 @@ rate_centers:
       ilec_name: CENTURYTEL MW-WI-CENCOM DBA CENTURYLINK - CENCOM
       lat: '44.265288'
       long: "-88.869154"
+      closest_city:
+        name: Fremont
+        distance:
+          value: 0.6
+          units: km
     - region: WI
       exchange: '319635'
       name: Friendship
@@ -2882,6 +3857,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL WISCONSIN LLC DBA CENTURYLINK
       lat: '44.083535'
       long: "-91.360797"
+      closest_city:
+        name: Galesville
+        distance:
+          value: 0.23
+          units: km
     - region: WI
       exchange: '319068'
       name: Galloway
@@ -2906,6 +3886,11 @@ rate_centers:
       ilec_name: RICHLAND-GRANT TEL. COOP., INC.
       lat: '43.318165'
       long: "-90.852347"
+      closest_city:
+        name: Gays Mills
+        distance:
+          value: 0.51
+          units: km
     - region: WI
       exchange: '211290'
       name: Genesee
@@ -2914,6 +3899,11 @@ rate_centers:
       ilec_name: CENTURYTEL MIDWEST-WI LLC NW DBA CENTURYLINK - NW
       lat: '42.965974'
       long: "-88.369765"
+      closest_city:
+        name: Wales
+        distance:
+          value: 4.26
+          units: km
     - region: WI
       exchange: '211300'
       name: Genoa
@@ -2922,6 +3912,11 @@ rate_centers:
       ilec_name: VERNON TEL. COOP.
       lat: '43.552912'
       long: "-91.151137"
+      closest_city:
+        name: Genoa
+        distance:
+          value: 6.46
+          units: km
     - region: WI
       exchange: '211310'
       name: Genoa City
@@ -2930,6 +3925,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '42.501063'
       long: "-88.327644"
+      closest_city:
+        name: Genoa City
+        distance:
+          value: 0.92
+          units: km
     - region: WI
       exchange: '319070'
       name: Germania
@@ -2962,6 +3962,11 @@ rate_centers:
       ilec_name: TELEPHONE USA OF WISCONSIN, LLC DBA CENTURYLINK
       lat: '44.89047'
       long: "-88.310448"
+      closest_city:
+        name: Gillett
+        distance:
+          value: 0.34
+          units: km
     - region: WI
       exchange: '319640'
       name: Gillingham
@@ -2994,6 +3999,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW WISCONSIN LLC DBA CENTURYLINK
       lat: '45.166963'
       long: "-90.810209"
+      closest_city:
+        name: Gilman
+        distance:
+          value: 0.25
+          units: km
     - region: WI
       exchange: '211340'
       name: Gilmanton
@@ -3002,6 +4012,11 @@ rate_centers:
       ilec_name: NELSON COMMUNICATIONS COOPERATIVE
       lat: '44.467606'
       long: "-91.685558"
+      closest_city:
+        name: Gilmanton
+        distance:
+          value: 0.89
+          units: km
     - region: WI
       exchange: '211350'
       name: Gleason
@@ -3010,6 +4025,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW WISCONSIN LLC DBA CENTURYLINK
       lat: '45.30937'
       long: "-89.490868"
+      closest_city:
+        name: Merrill
+        distance:
+          value: 21.61
+          units: km
     - region: WI
       exchange: '211360'
       name: Glen Flora
@@ -3018,6 +4038,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW WISCONSIN LLC DBA CENTURYLINK
       lat: '45.49883'
       long: "-90.891118"
+      closest_city:
+        name: Tony
+        distance:
+          value: 8.51
+          units: km
     - region: WI
       exchange: '319641'
       name: Glen Haven
@@ -3058,6 +4083,11 @@ rate_centers:
       ilec_name: TELEPHONE USA OF WISCONSIN, LLC DBA CENTURYLINK
       lat: '45.060959'
       long: "-92.167753"
+      closest_city:
+        name: Glenwood City
+        distance:
+          value: 1.0
+          units: km
     - region: WI
       exchange: '211380'
       name: Glidden
@@ -3066,6 +4096,11 @@ rate_centers:
       ilec_name: TELEPHONE USA OF WISCONSIN, LLC DBA CENTURYLINK
       lat: '46.142851'
       long: "-90.577159"
+      closest_city:
+        name: Glidden
+        distance:
+          value: 1.0
+          units: km
     - region: WI
       exchange: '211390'
       name: Goodman
@@ -3074,6 +4109,11 @@ rate_centers:
       ilec_name: CENTURYTEL MW-WI-CENCOM DBA CENTURYLINK - CENCOM
       lat: '45.62545'
       long: "-88.348111"
+      closest_city:
+        name: Goodman
+        distance:
+          value: 0.4
+          units: km
     - region: WI
       exchange: '211400'
       name: Gordon
@@ -3082,6 +4122,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW WISCONSIN LLC DBA CENTURYLINK
       lat: '46.242601'
       long: "-91.797891"
+      closest_city:
+        name: Gordon
+        distance:
+          value: 0.23
+          units: km
     - region: WI
       exchange: '319642'
       name: Gotham
@@ -3122,6 +4167,11 @@ rate_centers:
       ilec_name: CHEQUAMEGON COMMUNICATIONS COOPERATIVE, INC.
       lat: '46.368343'
       long: "-91.116487"
+      closest_city:
+        name: Grand View
+        distance:
+          value: 0.99
+          units: km
     - region: WI
       exchange: '211420'
       name: Granton
@@ -3130,6 +4180,11 @@ rate_centers:
       ilec_name: BADGER TELECOM, INC.
       lat: '44.584595'
       long: "-90.458558"
+      closest_city:
+        name: Granton
+        distance:
+          value: 0.5
+          units: km
     - region: WI
       exchange: '211430'
       name: Grantsburg
@@ -3138,6 +4193,11 @@ rate_centers:
       ilec_name: FARMERS INDEPENDENT TEL. CO.
       lat: '45.777967'
       long: "-92.684613"
+      closest_city:
+        name: Grantsburg
+        distance:
+          value: 0.38
+          units: km
     - region: WI
       exchange: '211440'
       name: Gratiot
@@ -3146,6 +4206,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL WISCONSIN LLC DBA CENTURYLINK
       lat: '42.574545'
       long: "-90.027439"
+      closest_city:
+        name: Gratiot
+        distance:
+          value: 0.67
+          units: km
     - region: WI
       exchange: '211450'
       name: Green Bay
@@ -3154,6 +4219,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '44.508386'
       long: "-88.005078"
+      closest_city:
+        name: Green Bay
+        distance:
+          value: 1.43
+          units: km
     - region: WI
       exchange: '211460'
       name: Green Lake
@@ -3162,6 +4232,11 @@ rate_centers:
       ilec_name: CENTURYTEL MIDWEST-KENDALL LLC DBA CENTURYLINK
       lat: '43.840882'
       long: "-88.958725"
+      closest_city:
+        name: Green Lake
+        distance:
+          value: 0.42
+          units: km
     - region: WI
       exchange: '319082'
       name: Green Valley
@@ -3178,6 +4253,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.775081'
       long: "-88.084066"
+      closest_city:
+        name: Greenbush
+        distance:
+          value: 0.61
+          units: km
     - region: WI
       exchange: '319888'
       name: Greendale
@@ -3218,6 +4298,11 @@ rate_centers:
       ilec_name: BADGER TELECOM, INC.
       lat: '44.767691'
       long: "-90.59712"
+      closest_city:
+        name: Greenwood
+        distance:
+          value: 0.28
+          units: km
     - region: WI
       exchange: '211490'
       name: Gresham
@@ -3226,6 +4311,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF WISCONSIN LLC
       lat: '44.848522'
       long: "-88.785246"
+      closest_city:
+        name: Gresham
+        distance:
+          value: 0.08
+          units: km
     - region: WI
       exchange: '319405'
       name: Gurney
@@ -3242,6 +4332,11 @@ rate_centers:
       ilec_name: HAGER TELECOM, INC.
       lat: '44.60104'
       long: "-92.533484"
+      closest_city:
+        name: Hager City
+        distance:
+          value: 0.02
+          units: km
     - region: WI
       exchange: '319890'
       name: Hales Corners
@@ -3274,6 +4369,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW WISCONSIN LLC DBA CENTURYLINK
       lat: '44.975245'
       long: "-92.4313"
+      closest_city:
+        name: Hammond
+        distance:
+          value: 0.88
+          units: km
     - region: WI
       exchange: '211520'
       name: Hancock
@@ -3282,6 +4382,11 @@ rate_centers:
       ilec_name: UNION TEL. CO.
       lat: '44.130905'
       long: "-89.516835"
+      closest_city:
+        name: Hancock
+        distance:
+          value: 0.42
+          units: km
     - region: WI
       exchange: '319409'
       name: Hannibal
@@ -3306,6 +4411,11 @@ rate_centers:
       ilec_name: CENTURYTEL MW-WI-CENCOM DBA CENTURYLINK - CENCOM
       lat: '45.099251'
       long: "-87.810242"
+      closest_city:
+        name: Peshtigo
+        distance:
+          value: 6.91
+          units: km
     - region: WI
       exchange: '319646'
       name: Harrisville
@@ -3330,6 +4440,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '43.32522'
       long: "-88.381486"
+      closest_city:
+        name: Hartford
+        distance:
+          value: 0.41
+          units: km
     - region: WI
       exchange: '211550'
       name: Hartland
@@ -3338,6 +4453,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '43.099894'
       long: "-88.351759"
+      closest_city:
+        name: Hartland
+        distance:
+          value: 1.04
+          units: km
     - region: WI
       exchange: '211560'
       name: Hatley
@@ -3346,6 +4466,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '44.881415'
       long: "-89.327189"
+      closest_city:
+        name: Hatley
+        distance:
+          value: 0.97
+          units: km
     - region: WI
       exchange: '319410'
       name: Haugen
@@ -3370,6 +4495,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW WISCONSIN LLC DBA CENTURYLINK
       lat: '45.516522'
       long: "-90.719067"
+      closest_city:
+        name: Hawkins
+        distance:
+          value: 0.65
+          units: km
     - region: WI
       exchange: '319412'
       name: Hawthorne
@@ -3386,6 +4516,11 @@ rate_centers:
       ilec_name: TELEPHONE USA OF WISCONSIN, LLC DBA CENTURYLINK
       lat: '46.015437'
       long: "-91.486588"
+      closest_city:
+        name: Hayward
+        distance:
+          value: 0.74
+          units: km
     - region: WI
       exchange: '211590'
       name: Hazel Green
@@ -3394,6 +4529,11 @@ rate_centers:
       ilec_name: CENTURYTEL MW-WI-PLATTEVL DBA CENTURYLINK PLATTEVL
       lat: '42.533931'
       long: "-90.436047"
+      closest_city:
+        name: Hazel Green
+        distance:
+          value: 0.02
+          units: km
     - region: WI
       exchange: '319091'
       name: Hazelhurst
@@ -3466,6 +4606,11 @@ rate_centers:
       ilec_name: CENTURYTEL MIDWEST-WI LLC NW DBA CENTURYLINK - NW
       lat: '43.042333'
       long: "-90.373437"
+      closest_city:
+        name: Highland
+        distance:
+          value: 0.79
+          units: km
     - region: WI
       exchange: '211610'
       name: Hilbert
@@ -3474,6 +4619,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '44.141547'
       long: "-88.167614"
+      closest_city:
+        name: Hilbert
+        distance:
+          value: 0.52
+          units: km
     - region: WI
       exchange: '319094'
       name: Hiles
@@ -3498,6 +4648,11 @@ rate_centers:
       ilec_name: HILLSBORO TEL. CO., INC.
       lat: '43.649642'
       long: "-90.340597"
+      closest_city:
+        name: Hillsboro
+        distance:
+          value: 0.78
+          units: km
     - region: WI
       exchange: '319418'
       name: Hillsdale
@@ -3530,6 +4685,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL WISCONSIN LLC DBA CENTURYLINK
       lat: '44.390818'
       long: "-91.019493"
+      closest_city:
+        name: Hixton
+        distance:
+          value: 0.94
+          units: km
     - region: WI
       exchange: '319096'
       name: Hobart
@@ -3546,6 +4706,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW WISCONSIN LLC DBA CENTURYLINK
       lat: '45.226392'
       long: "-91.11552"
+      closest_city:
+        name: Holcombe
+        distance:
+          value: 0.49
+          units: km
     - region: WI
       exchange: '211650'
       name: Hollandale
@@ -3554,6 +4719,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '42.876159'
       long: "-89.934391"
+      closest_city:
+        name: Hollandale
+        distance:
+          value: 0.06
+          units: km
     - region: WI
       exchange: '211660'
       name: Holmen
@@ -3562,6 +4732,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL WISCONSIN LLC DBA CENTURYLINK
       lat: '43.95677'
       long: "-91.24775"
+      closest_city:
+        name: Holmen
+        distance:
+          value: 2.09
+          units: km
     - region: WI
       exchange: '319896'
       name: Holy Hill
@@ -3578,6 +4753,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '43.447832'
       long: "-88.634406"
+      closest_city:
+        name: Horicon
+        distance:
+          value: 0.55
+          units: km
     - region: WI
       exchange: '211680'
       name: Hortonville
@@ -3586,6 +4766,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '44.333149'
       long: "-88.632873"
+      closest_city:
+        name: Hortonville
+        distance:
+          value: 0.48
+          units: km
     - region: WI
       exchange: '211690'
       name: Houlton
@@ -3594,6 +4779,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '45.058297'
       long: "-92.790429"
+      closest_city:
+        name: Houlton
+        distance:
+          value: 0.29
+          units: km
     - region: WI
       exchange: '319098'
       name: Howard
@@ -3610,6 +4800,11 @@ rate_centers:
       ilec_name: EASTCOAST TELECOM, INC.
       lat: '43.834705'
       long: "-87.817928"
+      closest_city:
+        name: Howards Grove
+        distance:
+          value: 1.05
+          units: km
     - region: WI
       exchange: '211710'
       name: Hubertus
@@ -3618,6 +4813,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '43.234439'
       long: "-88.226816"
+      closest_city:
+        name: Richfield
+        distance:
+          value: 1.21
+          units: km
     - region: WI
       exchange: '211720'
       name: Hudson
@@ -3626,6 +4826,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '44.982824'
       long: "-92.746889"
+      closest_city:
+        name: North Hudson
+        distance:
+          value: 1.77
+          units: km
     - region: WI
       exchange: '319423'
       name: Humbird
@@ -3650,6 +4855,11 @@ rate_centers:
       ilec_name: CENTURYTEL MIDWEST-KENDALL LLC DBA CENTURYLINK
       lat: '46.447474'
       long: "-90.174115"
+      closest_city:
+        name: Hurley
+        distance:
+          value: 1.86
+          units: km
     - region: WI
       exchange: '211740'
       name: Hustisford
@@ -3658,6 +4868,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.340124'
       long: "-88.59782"
+      closest_city:
+        name: Hustisford
+        distance:
+          value: 0.61
+          units: km
     - region: WI
       exchange: '319654'
       name: Hustler
@@ -3682,6 +4897,11 @@ rate_centers:
       ilec_name: TRI-COUNTY TEL. COOP., INC.
       lat: '44.357505'
       long: "-91.425534"
+      closest_city:
+        name: Independence
+        distance:
+          value: 2.83
+          units: km
     - region: WI
       exchange: '319656'
       name: Indianford
@@ -3714,6 +4934,11 @@ rate_centers:
       ilec_name: SCANDINAVIA TEL. CO.
       lat: '44.498366'
       long: "-89.118747"
+      closest_city:
+        name: Iola
+        distance:
+          value: 1.29
+          units: km
     - region: WI
       exchange: '319101'
       name: Irma
@@ -3746,6 +4971,11 @@ rate_centers:
       ilec_name: CHEQUAMEGON COMMUNICATIONS COOPERATIVE, INC.
       lat: '46.557314'
       long: "-91.418613"
+      closest_city:
+        name: Iron River
+        distance:
+          value: 1.41
+          units: km
     - region: WI
       exchange: '319657'
       name: Ironton
@@ -3762,6 +4992,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.344265'
       long: "-90.267081"
+      closest_city:
+        name: Sextonville
+        distance:
+          value: 7.49
+          units: km
     - region: WI
       exchange: '319902'
       name: Ixonia
@@ -3778,6 +5013,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '43.326467'
       long: "-88.167516"
+      closest_city:
+        name: Jackson
+        distance:
+          value: 0.36
+          units: km
     - region: WI
       exchange: '211800'
       name: Jacksonport
@@ -3786,6 +5026,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '44.973271'
       long: "-87.193733"
+      closest_city:
+        name: Egg Harbor
+        distance:
+          value: 11.27
+          units: km
     - region: WI
       exchange: '211810'
       name: Janesville
@@ -3794,6 +5039,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '42.683339'
       long: "-89.018768"
+      closest_city:
+        name: Janesville
+        distance:
+          value: 0.49
+          units: km
     - region: WI
       exchange: '211820'
       name: Jefferson
@@ -3802,6 +5052,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '43.007796'
       long: "-88.805382"
+      closest_city:
+        name: Jefferson
+        distance:
+          value: 0.45
+          units: km
     - region: WI
       exchange: '319904'
       name: Jefferson Junction
@@ -3834,6 +5089,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW WISCONSIN LLC DBA CENTURYLINK
       lat: '45.051393'
       long: "-91.264015"
+      closest_city:
+        name: Jim Falls
+        distance:
+          value: 0.73
+          units: km
     - region: WI
       exchange: '211840'
       name: Johnsburg
@@ -3842,6 +5102,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.885338'
       long: "-88.290273"
+      closest_city:
+        name: St. Peter
+        distance:
+          value: 6.96
+          units: km
     - region: WI
       exchange: '211850'
       name: Johnson Creek
@@ -3850,6 +5115,11 @@ rate_centers:
       ilec_name: RIVERSIDE TELCOM, INC.
       lat: '43.083873'
       long: "-88.772808"
+      closest_city:
+        name: Johnson Creek
+        distance:
+          value: 0.36
+          units: km
     - region: WI
       exchange: '319908'
       name: Johnsonville
@@ -3874,6 +5144,11 @@ rate_centers:
       ilec_name: UTELCO, INC.
       lat: '42.592822'
       long: "-89.507241"
+      closest_city:
+        name: Juda
+        distance:
+          value: 0.35
+          units: km
     - region: WI
       exchange: '211870'
       name: Jump River
@@ -3882,6 +5157,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW WISCONSIN LLC DBA CENTURYLINK
       lat: '45.350873'
       long: "-90.791037"
+      closest_city:
+        name: Jump River
+        distance:
+          value: 0.67
+          units: km
     - region: WI
       exchange: '211880'
       name: Junction City
@@ -3890,6 +5170,11 @@ rate_centers:
       ilec_name: CENTRAL STATE TEL. CO
       lat: '44.593857'
       long: "-89.748895"
+      closest_city:
+        name: Junction City
+        distance:
+          value: 1.51
+          units: km
     - region: WI
       exchange: '211890'
       name: Juneau
@@ -3898,6 +5183,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '43.407282'
       long: "-88.705931"
+      closest_city:
+        name: Juneau
+        distance:
+          value: 0.27
+          units: km
     - region: WI
       exchange: '319910'
       name: Kansasville
@@ -3914,6 +5204,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '44.283244'
       long: "-88.265465"
+      closest_city:
+        name: Kaukauna
+        distance:
+          value: 0.67
+          units: km
     - region: WI
       exchange: '319911'
       name: Kekoskee
@@ -3946,6 +5241,11 @@ rate_centers:
       ilec_name: CENTURYTEL MIDWEST-KENDALL LLC DBA CENTURYLINK
       lat: '43.792045'
       long: "-90.363388"
+      closest_city:
+        name: Kendall
+        distance:
+          value: 0.35
+          units: km
     - region: WI
       exchange: '211920'
       name: Kennan
@@ -3954,6 +5254,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW WISCONSIN LLC DBA CENTURYLINK
       lat: '45.53172'
       long: "-90.584857"
+      closest_city:
+        name: Kennan
+        distance:
+          value: 0.24
+          units: km
     - region: WI
       exchange: '211930'
       name: Kenosha
@@ -3962,6 +5267,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '42.592656'
       long: "-87.826922"
+      closest_city:
+        name: Kenosha
+        distance:
+          value: 4.18
+          units: km
     - region: WI
       exchange: '211940'
       name: Keshena
@@ -3970,6 +5280,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF WISCONSIN LLC
       lat: '44.886176'
       long: "-88.634058"
+      closest_city:
+        name: Keshena
+        distance:
+          value: 3.24
+          units: km
     - region: WI
       exchange: '211950'
       name: Kewaskum
@@ -3978,6 +5293,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.519325'
       long: "-88.234389"
+      closest_city:
+        name: Kewaskum
+        distance:
+          value: 0.35
+          units: km
     - region: WI
       exchange: '211960'
       name: Kewaunee
@@ -3986,6 +5306,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '44.449946'
       long: "-87.511267"
+      closest_city:
+        name: Kewaunee
+        distance:
+          value: 1.21
+          units: km
     - region: WI
       exchange: '211970'
       name: Kiel
@@ -3994,6 +5319,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.916631'
       long: "-88.030606"
+      closest_city:
+        name: Kiel
+        distance:
+          value: 0.32
+          units: km
     - region: WI
       exchange: '338662'
       name: Kieler
@@ -4026,6 +5356,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL WISCONSIN LLC DBA CENTURYLINK
       lat: '43.693522'
       long: "-89.134639"
+      closest_city:
+        name: Kingston
+        distance:
+          value: 0.34
+          units: km
     - region: WI
       exchange: '319663'
       name: Klevenville
@@ -4042,6 +5377,11 @@ rate_centers:
       ilec_name: TELEPHONE USA OF WISCONSIN, LLC DBA CENTURYLINK
       lat: '44.957286'
       long: "-92.07215"
+      closest_city:
+        name: Knapp
+        distance:
+          value: 0.75
+          units: km
     - region: WI
       exchange: '319917'
       name: Knowles
@@ -4074,6 +5414,11 @@ rate_centers:
       ilec_name: NORTHEAST TEL. CO.
       lat: '44.757572'
       long: "-88.248807"
+      closest_city:
+        name: Krakow
+        distance:
+          value: 0.98
+          units: km
     - region: WI
       exchange: '212010'
       name: La Crosse
@@ -4082,6 +5427,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WISCONSIN, LLC DBA CENTURYLINK
       lat: '43.818347'
       long: "-91.248466"
+      closest_city:
+        name: La Crosse
+        distance:
+          value: 1.85
+          units: km
     - region: WI
       exchange: '212020'
       name: La Farge
@@ -4090,6 +5440,11 @@ rate_centers:
       ilec_name: VERNON TEL. COOP.
       lat: '43.57383'
       long: "-90.631545"
+      closest_city:
+        name: La Farge
+        distance:
+          value: 0.72
+          units: km
     - region: WI
       exchange: '319919'
       name: La Grange
@@ -4106,6 +5461,11 @@ rate_centers:
       ilec_name: CHEQUAMEGON COMMUNICATIONS COOPERATIVE, INC.
       lat: '46.783705'
       long: "-90.792542"
+      closest_city:
+        name: Bayfield
+        distance:
+          value: 4.1
+          units: km
     - region: WI
       exchange: '212040'
       name: La Valle
@@ -4114,6 +5474,11 @@ rate_centers:
       ilec_name: LA VALLE TEL. COOP.
       lat: '43.58212'
       long: "-90.125776"
+      closest_city:
+        name: La Valle
+        distance:
+          value: 0.38
+          units: km
     - region: WI
       exchange: '212050'
       name: Lac du Flambeau
@@ -4122,6 +5487,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '45.966639'
       long: "-89.894557"
+      closest_city:
+        name: Lac du Flambeau
+        distance:
+          value: 0.5
+          units: km
     - region: WI
       exchange: '212060'
       name: Ladysmith
@@ -4130,6 +5500,11 @@ rate_centers:
       ilec_name: CENTURYTEL MIDWEST-KENDALL LLC DBA CENTURYLINK
       lat: '45.466146'
       long: "-91.094982"
+      closest_city:
+        name: Ladysmith
+        distance:
+          value: 0.64
+          units: km
     - region: WI
       exchange: '319922'
       name: Lake Beulah
@@ -4154,6 +5529,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '42.599373'
       long: "-88.433279"
+      closest_city:
+        name: Lake Geneva
+        distance:
+          value: 1.93
+          units: km
     - region: WI
       exchange: '319924'
       name: Lake Keesus
@@ -4178,6 +5558,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.082969'
       long: "-88.907401"
+      closest_city:
+        name: Lake Mills
+        distance:
+          value: 0.63
+          units: km
     - region: WI
       exchange: '212090'
       name: Lake Nebagamon
@@ -4186,6 +5571,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW WISCONSIN LLC DBA CENTURYLINK
       lat: '46.499572'
       long: "-91.738359"
+      closest_city:
+        name: Lake Nebagamon
+        distance:
+          value: 3.28
+          units: km
     - region: WI
       exchange: '319668'
       name: Lake Ripley
@@ -4202,6 +5592,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF WISCONSIN LLC
       lat: '45.817418'
       long: "-89.590974"
+      closest_city:
+        name: Lake Tomahawk
+        distance:
+          value: 0.77
+          units: km
     - region: WI
       exchange: '319676'
       name: Lake Waubesa
@@ -4218,6 +5613,11 @@ rate_centers:
       ilec_name: TELEPHONE USA OF WISCONSIN, LLC DBA CENTURYLINK
       lat: '45.233528'
       long: "-88.516091"
+      closest_city:
+        name: Mountain
+        distance:
+          value: 6.46
+          units: km
     - region: WI
       exchange: '319925'
       name: Lamartine
@@ -4234,6 +5634,11 @@ rate_centers:
       ilec_name: FARMERS TEL. CO.
       lat: '42.850343'
       long: "-90.710921"
+      closest_city:
+        name: Lancaster
+        distance:
+          value: 0.49
+          units: km
     - region: WI
       exchange: '212130'
       name: Land O'Lakes
@@ -4242,6 +5647,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '46.16639'
       long: "-89.21654"
+      closest_city:
+        name: Eagle River
+        distance:
+          value: 27.01
+          units: km
     - region: WI
       exchange: '319115'
       name: Langlade
@@ -4266,6 +5676,11 @@ rate_centers:
       ilec_name: TELEPHONE USA OF WISCONSIN, LLC DBA CENTURYLINK
       lat: '45.565348'
       long: "-88.665824"
+      closest_city:
+        name: Laona
+        distance:
+          value: 0.7
+          units: km
     - region: WI
       exchange: '212150'
       name: Larsen
@@ -4274,6 +5689,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF LARSEN-READFIELD DBA CENTURYLINK
       lat: '44.198903'
       long: "-88.622388"
+      closest_city:
+        name: Winchester
+        distance:
+          value: 2.99
+          units: km
     - region: WI
       exchange: '319437'
       name: Lawton
@@ -4298,6 +5718,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.25789'
       long: "-88.628126"
+      closest_city:
+        name: Lebanon
+        distance:
+          value: 0.13
+          units: km
     - region: WI
       exchange: '212170'
       name: Lena
@@ -4306,6 +5731,11 @@ rate_centers:
       ilec_name: CENTURYTEL MW-WI-CENCOM DBA CENTURYLINK - CENCOM
       lat: '44.950441'
       long: "-88.039433"
+      closest_city:
+        name: Lena
+        distance:
+          value: 0.7
+          units: km
     - region: WI
       exchange: '319120'
       name: Leopolis
@@ -4330,6 +5760,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW WISCONSIN LLC DBA CENTURYLINK
       lat: '45.709579'
       long: "-92.397889"
+      closest_city:
+        name: Lewis
+        distance:
+          value: 0.71
+          units: km
     - region: WI
       exchange: '319671'
       name: Leyden
@@ -4346,6 +5781,11 @@ rate_centers:
       ilec_name: VERNON TEL. COOP.
       lat: '43.484948'
       long: "-90.915996"
+      closest_city:
+        name: Viroqua
+        distance:
+          value: 8.73
+          units: km
     - region: WI
       exchange: '319121'
       name: Lily
@@ -4370,6 +5810,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.466434'
       long: "-90.148622"
+      closest_city:
+        name: Lime Ridge
+        distance:
+          value: 0.74
+          units: km
     - region: WI
       exchange: '319122'
       name: Lincoln
@@ -4394,6 +5839,11 @@ rate_centers:
       ilec_name: CENTRAL STATE TEL. CO
       lat: '44.550116'
       long: "-90.289113"
+      closest_city:
+        name: Chili
+        distance:
+          value: 10.4
+          units: km
     - region: WI
       exchange: '319930'
       name: Lisbon
@@ -4410,6 +5860,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '44.283828'
       long: "-88.308333"
+      closest_city:
+        name: Little Chute
+        distance:
+          value: 1.25
+          units: km
     - region: WI
       exchange: '212230'
       name: Little Sturgeon
@@ -4418,6 +5873,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF FORESTVILLE, LLC DBA CENTURYLINK
       lat: '44.816116'
       long: "-87.562926"
+      closest_city:
+        name: Little Sturgeon
+        distance:
+          value: 3.04
+          units: km
     - region: WI
       exchange: '319130'
       name: Little Suamico
@@ -4442,6 +5902,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.315505'
       long: "-89.527078"
+      closest_city:
+        name: Lodi
+        distance:
+          value: 0.78
+          units: km
     - region: WI
       exchange: '212250'
       name: Loganville
@@ -4450,6 +5915,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.439795'
       long: "-90.033083"
+      closest_city:
+        name: Loganville
+        distance:
+          value: 0.34
+          units: km
     - region: WI
       exchange: '319125'
       name: Lohrville
@@ -4466,6 +5936,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.592313'
       long: "-88.452474"
+      closest_city:
+        name: Lomira
+        distance:
+          value: 0.87
+          units: km
     - region: WI
       exchange: '319679'
       name: London
@@ -4482,6 +5957,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.183406'
       long: "-90.194045"
+      closest_city:
+        name: Lone Rock
+        distance:
+          value: 0.63
+          units: km
     - region: WI
       exchange: '212280'
       name: Long Lake
@@ -4490,6 +5970,11 @@ rate_centers:
       ilec_name: CITIZENS TEL. COOP., INC.
       lat: '45.249567'
       long: "-91.452799"
+      closest_city:
+        name: New Auburn
+        distance:
+          value: 10.55
+          units: km
     - region: WI
       exchange: '319441'
       name: Loretta
@@ -4522,6 +6007,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '44.735187'
       long: "-90.490445"
+      closest_city:
+        name: Loyal
+        distance:
+          value: 0.44
+          units: km
     - region: WI
       exchange: '319442'
       name: Lublin
@@ -4538,6 +6028,11 @@ rate_centers:
       ilec_name: LAKELAND COMMUNICATIONS GROUP, LLC
       lat: '45.575819'
       long: "-92.47233"
+      closest_city:
+        name: Luck
+        distance:
+          value: 0.63
+          units: km
     - region: WI
       exchange: '212310'
       name: Luxemburg
@@ -4546,6 +6041,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL WISCONSIN LLC DBA CENTURYLINK
       lat: '44.534102'
       long: "-87.702552"
+      closest_city:
+        name: Luxemburg
+        distance:
+          value: 1.22
+          units: km
     - region: WI
       exchange: '319132'
       name: Lyndhurst
@@ -4562,6 +6062,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.716568'
       long: "-89.898866"
+      closest_city:
+        name: Lyndon Station
+        distance:
+          value: 0.96
+          units: km
     - region: WI
       exchange: '319682'
       name: Lynxville
@@ -4602,6 +6107,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '43.075525'
       long: "-89.384085"
+      closest_city:
+        name: Madison
+        distance:
+          value: 1.04
+          units: km
     - region: WI
       exchange: '319684'
       name: Magnolia
@@ -4618,6 +6128,11 @@ rate_centers:
       ilec_name: TELEPHONE USA OF WISCONSIN, LLC DBA CENTURYLINK
       lat: '44.566426'
       long: "-92.308167"
+      closest_city:
+        name: Maiden Rock
+        distance:
+          value: 0.06
+          units: km
     - region: WI
       exchange: '319935'
       name: Malone
@@ -4634,6 +6149,11 @@ rate_centers:
       ilec_name: MANAWA TEL. CO., INC.
       lat: '44.459681'
       long: "-88.915981"
+      closest_city:
+        name: Manawa
+        distance:
+          value: 0.39
+          units: km
     - region: WI
       exchange: '319936'
       name: Manchester
@@ -4658,6 +6178,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW WISCONSIN LLC DBA CENTURYLINK
       lat: '46.115163'
       long: "-89.831078"
+      closest_city:
+        name: Boulder Junction
+        distance:
+          value: 14.06
+          units: km
     - region: WI
       exchange: '212370'
       name: Manitowoc
@@ -4666,6 +6191,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '44.099876'
       long: "-87.650232"
+      closest_city:
+        name: Manitowoc
+        distance:
+          value: 2.47
+          units: km
     - region: WI
       exchange: '212380'
       name: Maple
@@ -4674,6 +6204,11 @@ rate_centers:
       ilec_name: CHEQUAMEGON COMMUNICATIONS COOPERATIVE, INC.
       lat: '46.592693'
       long: "-91.725473"
+      closest_city:
+        name: Poplar
+        distance:
+          value: 4.58
+          units: km
     - region: WI
       exchange: '212390'
       name: Mapleton
@@ -4682,6 +6217,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.183629'
       long: "-88.447518"
+      closest_city:
+        name: Okauchee Lake
+        distance:
+          value: 6.49
+          units: km
     - region: WI
       exchange: '319137'
       name: Maplewood
@@ -4698,6 +6238,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '44.934559'
       long: "-89.831939"
+      closest_city:
+        name: Edgar
+        distance:
+          value: 10.37
+          units: km
     - region: WI
       exchange: '212410'
       name: Marengo
@@ -4706,6 +6251,11 @@ rate_centers:
       ilec_name: CHEQUAMEGON COMMUNICATIONS COOPERATIVE, INC.
       lat: '46.416079'
       long: "-90.817581"
+      closest_city:
+        name: Marengo
+        distance:
+          value: 0.97
+          units: km
     - region: WI
       exchange: '319139'
       name: Maribel
@@ -4722,6 +6272,11 @@ rate_centers:
       ilec_name: CENTURYTEL MIDWEST-KENDALL LLC DBA CENTURYLINK
       lat: '45.091412'
       long: "-87.610571"
+      closest_city:
+        name: Marinette
+        distance:
+          value: 1.87
+          units: km
     - region: WI
       exchange: '212430'
       name: Marion
@@ -4730,6 +6285,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF WISCONSIN LLC
       lat: '44.665757'
       long: "-88.882211"
+      closest_city:
+        name: Marion
+        distance:
+          value: 1.15
+          units: km
     - region: WI
       exchange: '212440'
       name: Markesan
@@ -4738,6 +6298,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL WISCONSIN LLC DBA CENTURYLINK
       lat: '43.706965'
       long: "-88.989964"
+      closest_city:
+        name: Markesan
+        distance:
+          value: 0.32
+          units: km
     - region: WI
       exchange: '319940'
       name: Marquette
@@ -4754,6 +6319,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.168771'
       long: "-89.065589"
+      closest_city:
+        name: Marshall
+        distance:
+          value: 0.55
+          units: km
     - region: WI
       exchange: '212460'
       name: Marshfield
@@ -4762,6 +6332,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '44.663956'
       long: "-90.173895"
+      closest_city:
+        name: Marshfield
+        distance:
+          value: 0.16
+          units: km
     - region: WI
       exchange: '319448'
       name: Martell
@@ -4786,6 +6361,11 @@ rate_centers:
       ilec_name: CHEQUAMEGON COMMUNICATIONS COOPERATIVE, INC.
       lat: '46.432812'
       long: "-91.063786"
+      closest_city:
+        name: Mason
+        distance:
+          value: 0.42
+          units: km
     - region: WI
       exchange: '319450'
       name: Mason Lake
@@ -4810,6 +6390,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '45.007486'
       long: "-89.03266"
+      closest_city:
+        name: Mattoon
+        distance:
+          value: 0.74
+          units: km
     - region: WI
       exchange: '212490'
       name: Mauston
@@ -4818,6 +6403,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.792819'
       long: "-90.079842"
+      closest_city:
+        name: Mauston
+        distance:
+          value: 0.77
+          units: km
     - region: WI
       exchange: '212500'
       name: Mayville
@@ -4826,6 +6416,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '43.498496'
       long: "-88.54839"
+      closest_city:
+        name: Mayville
+        distance:
+          value: 0.08
+          units: km
     - region: WI
       exchange: '212510'
       name: Mazomanie
@@ -4834,6 +6429,11 @@ rate_centers:
       ilec_name: CENTURYTEL MIDWEST-KENDALL LLC DBA CENTURYLINK
       lat: '43.175577'
       long: "-89.792599"
+      closest_city:
+        name: Mazomanie
+        distance:
+          value: 0.36
+          units: km
     - region: WI
       exchange: '319144'
       name: McAllister
@@ -4850,6 +6450,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.015252'
       long: "-89.29249"
+      closest_city:
+        name: McFarland
+        distance:
+          value: 0.97
+          units: km
     - region: WI
       exchange: '319145'
       name: McNaughton
@@ -4866,6 +6471,11 @@ rate_centers:
       ilec_name: MIDWAY TEL. CO.
       lat: '45.152823'
       long: "-90.343164"
+      closest_city:
+        name: Medford
+        distance:
+          value: 1.82
+          units: km
     - region: WI
       exchange: '319147'
       name: Medina
@@ -4882,6 +6492,11 @@ rate_centers:
       ilec_name: TELEPHONE USA OF WISCONSIN, LLC DBA CENTURYLINK
       lat: '46.324058'
       long: "-90.669121"
+      closest_city:
+        name: Mellen
+        distance:
+          value: 0.66
+          units: km
     - region: WI
       exchange: '212550'
       name: Melrose
@@ -4890,6 +6505,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL WISCONSIN LLC DBA CENTURYLINK
       lat: '44.132786'
       long: "-91.002353"
+      closest_city:
+        name: Melrose
+        distance:
+          value: 0.45
+          units: km
     - region: WI
       exchange: '319148'
       name: Menasha
@@ -4906,6 +6526,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '43.181266'
       long: "-88.116201"
+      closest_city:
+        name: Menomonee Falls
+        distance:
+          value: 3.66
+          units: km
     - region: WI
       exchange: '212570'
       name: Menomonie
@@ -4914,6 +6539,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '44.877122'
       long: "-91.925524"
+      closest_city:
+        name: Menomonie
+        distance:
+          value: 1.91
+          units: km
     - region: WI
       exchange: '319944'
       name: Mequon
@@ -4930,6 +6560,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW WISCONSIN LLC DBA CENTURYLINK
       lat: '46.168939'
       long: "-90.057721"
+      closest_city:
+        name: Mercer
+        distance:
+          value: 0.71
+          units: km
     - region: WI
       exchange: '212590'
       name: Merrill
@@ -4938,6 +6573,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '45.18201'
       long: "-89.684419"
+      closest_city:
+        name: Merrill
+        distance:
+          value: 1.17
+          units: km
     - region: WI
       exchange: '212600'
       name: Merrillan
@@ -4946,6 +6586,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL WISCONSIN LLC DBA CENTURYLINK
       lat: '44.452196'
       long: "-90.842449"
+      closest_city:
+        name: Merrillan
+        distance:
+          value: 0.77
+          units: km
     - region: WI
       exchange: '212610'
       name: Merrimac
@@ -4954,6 +6599,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.375611'
       long: "-89.619312"
+      closest_city:
+        name: Merrimac
+        distance:
+          value: 0.66
+          units: km
     - region: WI
       exchange: '212620'
       name: Merton
@@ -4962,6 +6612,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '43.150923'
       long: "-88.308113"
+      closest_city:
+        name: Merton
+        distance:
+          value: 1.04
+          units: km
     - region: WI
       exchange: '319151'
       name: Middle Inlet
@@ -4978,6 +6633,11 @@ rate_centers:
       ilec_name: MID-PLAINS TEL., INC.
       lat: '43.092448'
       long: "-89.498808"
+      closest_city:
+        name: Middleton
+        distance:
+          value: 1.65
+          units: km
     - region: WI
       exchange: '319693'
       name: Midway
@@ -5018,6 +6678,11 @@ rate_centers:
       ilec_name: NORTHEAST TEL. CO.
       lat: '44.585131'
       long: "-88.165859"
+      closest_city:
+        name: Howard
+        distance:
+          value: 6.02
+          units: km
     - region: WI
       exchange: '212650'
       name: Mill Creek
@@ -5026,6 +6691,11 @@ rate_centers:
       ilec_name: CENTRAL STATE TEL. CO
       lat: '44.626852'
       long: "-90.142397"
+      closest_city:
+        name: Hewitt
+        distance:
+          value: 3.45
+          units: km
     - region: WI
       exchange: '319154'
       name: Milladore
@@ -5050,6 +6720,11 @@ rate_centers:
       ilec_name: LAKELAND COMMUNICATIONS GROUP, LLC
       lat: '45.533914'
       long: "-92.500079"
+      closest_city:
+        name: Milltown
+        distance:
+          value: 0.88
+          units: km
     - region: WI
       exchange: '212670'
       name: Milton
@@ -5058,6 +6733,11 @@ rate_centers:
       ilec_name: CENTURYTEL MW-WI-CENCOM DBA CENTURYLINK - CENCOM
       lat: '42.773606'
       long: "-88.941752"
+      closest_city:
+        name: Milton
+        distance:
+          value: 0.18
+          units: km
     - region: WI
       exchange: '319946'
       name: Milwaukee
@@ -5074,6 +6754,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '43.042456'
       long: "-87.947166"
+      closest_city:
+        name: Milwaukee
+        distance:
+          value: 2.93
+          units: km
     - region: WI
       exchange: '212690'
       name: Milwaukee Zone 2
@@ -5082,6 +6767,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '43.042456'
       long: "-87.947166"
+      closest_city:
+        name: Milwaukee
+        distance:
+          value: 2.93
+          units: km
     - region: WI
       exchange: '212700'
       name: Milwaukee Zone 3
@@ -5090,6 +6780,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '43.042456'
       long: "-87.947166"
+      closest_city:
+        name: Milwaukee
+        distance:
+          value: 2.93
+          units: km
     - region: WI
       exchange: '212710'
       name: Milwaukee Zone 4
@@ -5098,6 +6793,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '43.042456'
       long: "-87.947166"
+      closest_city:
+        name: Milwaukee
+        distance:
+          value: 2.93
+          units: km
     - region: WI
       exchange: '212720'
       name: Milwaukee Zone 5
@@ -5106,6 +6806,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '43.042456'
       long: "-87.947166"
+      closest_city:
+        name: Milwaukee
+        distance:
+          value: 2.93
+          units: km
     - region: WI
       exchange: '212730'
       name: Mindoro
@@ -5114,6 +6819,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL WISCONSIN LLC DBA CENTURYLINK
       lat: '44.018239'
       long: "-91.100691"
+      closest_city:
+        name: Mindoro
+        distance:
+          value: 0.24
+          units: km
     - region: WI
       exchange: '212740'
       name: Mineral Point
@@ -5122,6 +6832,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '42.859202'
       long: "-90.183066"
+      closest_city:
+        name: Mineral Point
+        distance:
+          value: 0.46
+          units: km
     - region: WI
       exchange: '212750'
       name: Minocqua
@@ -5130,6 +6845,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '45.877581'
       long: "-89.701646"
+      closest_city:
+        name: Minocqua
+        distance:
+          value: 0.27
+          units: km
     - region: WI
       exchange: '212760'
       name: Minong
@@ -5138,6 +6858,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW WISCONSIN LLC DBA CENTURYLINK
       lat: '46.097622'
       long: "-91.824097"
+      closest_city:
+        name: Minong
+        distance:
+          value: 0.17
+          units: km
     - region: WI
       exchange: '212770'
       name: Mishicot
@@ -5146,6 +6871,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '44.242273'
       long: "-87.652493"
+      closest_city:
+        name: Mishicot
+        distance:
+          value: 1.56
+          units: km
     - region: WI
       exchange: '319458'
       name: Modena
@@ -5170,6 +6900,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF WISCONSIN LLC
       lat: '44.569105'
       long: "-91.667686"
+      closest_city:
+        name: Mondovi
+        distance:
+          value: 0.24
+          units: km
     - region: WI
       exchange: '319157'
       name: Monico
@@ -5194,6 +6929,11 @@ rate_centers:
       ilec_name: UTELCO, INC.
       lat: '42.601379'
       long: "-89.640683"
+      closest_city:
+        name: Monroe
+        distance:
+          value: 0.28
+          units: km
     - region: WI
       exchange: '212800'
       name: Monroe Center
@@ -5202,6 +6942,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '44.081999'
       long: "-89.865065"
+      closest_city:
+        name: Arkdale
+        distance:
+          value: 6.52
+          units: km
     - region: WI
       exchange: '212810'
       name: Mont du Lac
@@ -5210,6 +6955,11 @@ rate_centers:
       ilec_name: QWEST CORPORATION
       lat: '46.752181'
       long: "-92.101629"
+      closest_city:
+        name: Superior
+        distance:
+          value: 6.62
+          units: km
     - region: WI
       exchange: '212820'
       name: Montello
@@ -5218,6 +6968,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.791613'
       long: "-89.328442"
+      closest_city:
+        name: Montello
+        distance:
+          value: 0.47
+          units: km
     - region: WI
       exchange: '319954'
       name: Monterey
@@ -5234,6 +6989,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL WISCONSIN LLC DBA CENTURYLINK
       lat: '42.973932'
       long: "-90.42645"
+      closest_city:
+        name: Montfort
+        distance:
+          value: 0.72
+          units: km
     - region: WI
       exchange: '212840'
       name: Monticello
@@ -5242,6 +7002,11 @@ rate_centers:
       ilec_name: UTELCO, INC.
       lat: '42.74996'
       long: "-89.594755"
+      closest_city:
+        name: Monticello
+        distance:
+          value: 0.63
+          units: km
     - region: WI
       exchange: '319460'
       name: Montreal
@@ -5298,6 +7063,11 @@ rate_centers:
       ilec_name: MOSINEE TEL. CO.
       lat: '44.800197'
       long: "-89.703465"
+      closest_city:
+        name: Mosinee
+        distance:
+          value: 2.1
+          units: km
     - region: WI
       exchange: '212860'
       name: Mount Calvary
@@ -5306,6 +7076,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.833192'
       long: "-88.249418"
+      closest_city:
+        name: Mount Calvary
+        distance:
+          value: 0.81
+          units: km
     - region: WI
       exchange: '212870'
       name: Mount Hope
@@ -5314,6 +7089,11 @@ rate_centers:
       ilec_name: GRANTLAND TELECOM, INC.
       lat: '42.967012'
       long: "-90.848934"
+      closest_city:
+        name: Mount Hope
+        distance:
+          value: 0.92
+          units: km
     - region: WI
       exchange: '212880'
       name: Mount Horeb
@@ -5322,6 +7102,11 @@ rate_centers:
       ilec_name: MT. HOREB TEL. CO.
       lat: '43.008277'
       long: "-89.732189"
+      closest_city:
+        name: Mount Horeb
+        distance:
+          value: 0.26
+          units: km
     - region: WI
       exchange: '319957'
       name: Mount Pleasant
@@ -5354,6 +7139,11 @@ rate_centers:
       ilec_name: MT. VERNON TEL. CO.
       lat: '42.950365'
       long: "-89.659914"
+      closest_city:
+        name: Mount Horeb
+        distance:
+          value: 8.5
+          units: km
     - region: WI
       exchange: '212900'
       name: Mount Zion
@@ -5362,6 +7152,11 @@ rate_centers:
       ilec_name: CENTURYTEL MIDWEST-WI LLC NW DBA CENTURYLINK - NW
       lat: '43.259202'
       long: "-90.730903"
+      closest_city:
+        name: Bell Center
+        distance:
+          value: 8.48
+          units: km
     - region: WI
       exchange: '319161'
       name: Mountain
@@ -5378,6 +7173,11 @@ rate_centers:
       ilec_name: CENTURYTEL MIDWEST-WI LLC NW DBA CENTURYLINK - NW
       lat: '42.868513'
       long: "-88.333512"
+      closest_city:
+        name: Mukwonago
+        distance:
+          value: 1.39
+          units: km
     - region: WI
       exchange: '212920'
       name: Muscoda
@@ -5386,6 +7186,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL WISCONSIN LLC DBA CENTURYLINK
       lat: '43.192833'
       long: "-90.432728"
+      closest_city:
+        name: Muscoda
+        distance:
+          value: 0.63
+          units: km
     - region: WI
       exchange: '212930'
       name: Muskego
@@ -5394,6 +7199,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '42.904952'
       long: "-88.131107"
+      closest_city:
+        name: Muskego
+        distance:
+          value: 2.11
+          units: km
     - region: WI
       exchange: '319960'
       name: Nabob
@@ -5410,6 +7220,11 @@ rate_centers:
       ilec_name: CHEQUAMEGON COMMUNICATIONS COOPERATIVE, INC.
       lat: '46.20155'
       long: "-91.064519"
+      closest_city:
+        name: Clam Lake
+        distance:
+          value: 13.16
+          units: km
     - region: WI
       exchange: '319961'
       name: Nashotah
@@ -5434,6 +7249,11 @@ rate_centers:
       ilec_name: CENTRAL STATE TEL. CO
       lat: '44.026155'
       long: "-90.067574"
+      closest_city:
+        name: Necedah
+        distance:
+          value: 0.46
+          units: km
     - region: WI
       exchange: '212960'
       name: Neenah
@@ -5442,6 +7262,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '44.18466'
       long: "-88.460092"
+      closest_city:
+        name: Neenah
+        distance:
+          value: 2.38
+          units: km
     - region: WI
       exchange: '212970'
       name: Neillsville
@@ -5450,6 +7275,11 @@ rate_centers:
       ilec_name: BADGER TELECOM, INC.
       lat: '44.559166'
       long: "-90.590609"
+      closest_city:
+        name: Neillsville
+        distance:
+          value: 0.15
+          units: km
     - region: WI
       exchange: '212980'
       name: Nekoosa
@@ -5458,6 +7288,11 @@ rate_centers:
       ilec_name: WOOD COUNTY TEL. CO.
       lat: '44.315296'
       long: "-89.894708"
+      closest_city:
+        name: Nekoosa
+        distance:
+          value: 1.02
+          units: km
     - region: WI
       exchange: '319166'
       name: Nelma
@@ -5474,6 +7309,11 @@ rate_centers:
       ilec_name: NELSON COMMUNICATIONS COOPERATIVE
       lat: '44.419054'
       long: "-92.008261"
+      closest_city:
+        name: Nelson
+        distance:
+          value: 0.41
+          units: km
     - region: WI
       exchange: '319167'
       name: Nelsonville
@@ -5490,6 +7330,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF WISCONSIN LLC
       lat: '44.985007'
       long: "-88.816241"
+      closest_city:
+        name: Neopit
+        distance:
+          value: 0.59
+          units: km
     - region: WI
       exchange: '213010'
       name: Neosho
@@ -5498,6 +7343,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.308239'
       long: "-88.514255"
+      closest_city:
+        name: Neosho
+        distance:
+          value: 0.45
+          units: km
     - region: WI
       exchange: '213020'
       name: Neshkoro
@@ -5506,6 +7356,11 @@ rate_centers:
       ilec_name: CENTURYTEL MIDWEST-WI LLC NW DBA CENTURYLINK - NW
       lat: '43.968548'
       long: "-89.21754"
+      closest_city:
+        name: Neshkoro
+        distance:
+          value: 0.43
+          units: km
     - region: WI
       exchange: '319170'
       name: Neva
@@ -5522,6 +7377,11 @@ rate_centers:
       ilec_name: CITIZENS TEL. COOP., INC.
       lat: '45.20896'
       long: "-91.559512"
+      closest_city:
+        name: New Auburn
+        distance:
+          value: 1.26
+          units: km
     - region: WI
       exchange: '319963'
       name: New Berlin
@@ -5546,6 +7406,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL WISCONSIN LLC DBA CENTURYLINK
       lat: '44.523958'
       long: "-87.826463"
+      closest_city:
+        name: Luxemburg
+        distance:
+          value: 9.78
+          units: km
     - region: WI
       exchange: '213050'
       name: New Glarus
@@ -5554,6 +7419,11 @@ rate_centers:
       ilec_name: MT. VERNON TEL. CO.
       lat: '42.816109'
       long: "-89.63319"
+      closest_city:
+        name: New Glarus
+        distance:
+          value: 0.33
+          units: km
     - region: WI
       exchange: '213060'
       name: New Holstein
@@ -5562,6 +7432,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.95682'
       long: "-88.094516"
+      closest_city:
+        name: New Holstein
+        distance:
+          value: 0.86
+          units: km
     - region: WI
       exchange: '213070'
       name: New Lisbon
@@ -5570,6 +7445,11 @@ rate_centers:
       ilec_name: LEMONWEIR VALLEY TEL. CO.
       lat: '43.875253'
       long: "-90.164719"
+      closest_city:
+        name: New Lisbon
+        distance:
+          value: 0.37
+          units: km
     - region: WI
       exchange: '213080'
       name: New London
@@ -5578,6 +7458,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '44.381662'
       long: "-88.734581"
+      closest_city:
+        name: New London
+        distance:
+          value: 1.52
+          units: km
     - region: WI
       exchange: '319465'
       name: New Post
@@ -5594,6 +7479,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF WISCONSIN LLC
       lat: '45.117699'
       long: "-92.537655"
+      closest_city:
+        name: New Richmond
+        distance:
+          value: 0.81
+          units: km
     - region: WI
       exchange: '319172'
       name: New Rome
@@ -5618,6 +7508,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '43.431998'
       long: "-88.048336"
+      closest_city:
+        name: Newburg
+        distance:
+          value: 0.05
+          units: km
     - region: WI
       exchange: '319716'
       name: Newry
@@ -5634,6 +7529,11 @@ rate_centers:
       ilec_name: LAKEFIELD TEL. CO.
       lat: '43.989979'
       long: "-87.731897"
+      closest_city:
+        name: Cleveland
+        distance:
+          value: 8.13
+          units: km
     - region: WI
       exchange: '213120'
       name: Newtonburg
@@ -5642,6 +7542,11 @@ rate_centers:
       ilec_name: LAKEFIELD TEL. CO.
       lat: '44.060486'
       long: "-87.75169"
+      closest_city:
+        name: Manitowoc
+        distance:
+          value: 7.08
+          units: km
     - region: WI
       exchange: '213130'
       name: Niagara
@@ -5650,6 +7555,11 @@ rate_centers:
       ilec_name: NIAGARA TEL. CO.
       lat: '45.772914'
       long: "-87.999624"
+      closest_city:
+        name: Niagara
+        distance:
+          value: 0.8
+          units: km
     - region: WI
       exchange: '213140'
       name: Nichols
@@ -5658,6 +7568,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL WISCONSIN LLC DBA CENTURYLINK
       lat: '44.558248'
       long: "-88.468439"
+      closest_city:
+        name: Nichols
+        distance:
+          value: 1.0
+          units: km
     - region: WI
       exchange: '319176'
       name: Norrie
@@ -5674,6 +7589,11 @@ rate_centers:
       ilec_name: ILLINOIS BELL TEL CO
       lat: '42.491785'
       long: "-88.10291"
+      closest_city:
+        name: Salem Lakes
+        distance:
+          value: 5.48
+          units: km
     - region: WI
       exchange: '213160'
       name: North Apple River
@@ -5682,6 +7602,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH, INC. - IL
       lat: '42.508317'
       long: "-90.09983"
+      closest_city:
+        name: Gratiot
+        distance:
+          value: 10.11
+          units: km
     - region: WI
       exchange: '319717'
       name: North Clayton
@@ -5706,6 +7631,11 @@ rate_centers:
       ilec_name: CENTURYTEL MIDWEST-KENDALL LLC DBA CENTURYLINK
       lat: '43.458476'
       long: "-89.858162"
+      closest_city:
+        name: North Freedom
+        distance:
+          value: 0.18
+          units: km
     - region: WI
       exchange: '213180'
       name: North Lake
@@ -5714,6 +7644,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '43.157871'
       long: "-88.36685"
+      closest_city:
+        name: North Lake
+        distance:
+          value: 0.34
+          units: km
     - region: WI
       exchange: '213190'
       name: North Prairie
@@ -5722,6 +7657,11 @@ rate_centers:
       ilec_name: CENTURYTEL MIDWEST-WI LLC NW DBA CENTURYLINK - NW
       lat: '42.935375'
       long: "-88.398641"
+      closest_city:
+        name: North Prairie
+        distance:
+          value: 0.41
+          units: km
     - region: WI
       exchange: '213200'
       name: North Warren
@@ -5730,6 +7670,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH, INC. - IL
       lat: '42.5168'
       long: "-89.969243"
+      closest_city:
+        name: Gratiot
+        distance:
+          value: 8.32
+          units: km
     - region: WI
       exchange: '319469'
       name: North Woods Beach
@@ -5754,6 +7699,11 @@ rate_centers:
       ilec_name: TRI-COUNTY TEL. COOP., INC.
       lat: '44.46028'
       long: "-91.100531"
+      closest_city:
+        name: Pigeon Falls
+        distance:
+          value: 9.42
+          units: km
     - region: WI
       exchange: '213220'
       name: Norwalk
@@ -5762,6 +7712,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF MONROE COUNTY, LLC DBA CENTURYLINK
       lat: '43.825897'
       long: "-90.615915"
+      closest_city:
+        name: Norwalk
+        distance:
+          value: 1.28
+          units: km
     - region: WI
       exchange: '319470'
       name: Nye
@@ -5794,6 +7749,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.682207'
       long: "-88.551711"
+      closest_city:
+        name: Oakfield
+        distance:
+          value: 0.4
+          units: km
     - region: WI
       exchange: '213240'
       name: Oconomowoc
@@ -5802,6 +7762,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '43.109948'
       long: "-88.500123"
+      closest_city:
+        name: Oconomowoc
+        distance:
+          value: 1.23
+          units: km
     - region: WI
       exchange: '213250'
       name: Oconto
@@ -5810,6 +7775,11 @@ rate_centers:
       ilec_name: CENTURYTEL MIDWEST-KENDALL LLC DBA CENTURYLINK
       lat: '44.891711'
       long: "-87.856889"
+      closest_city:
+        name: Oconto
+        distance:
+          value: 1.15
+          units: km
     - region: WI
       exchange: '213260'
       name: Oconto Falls
@@ -5818,6 +7788,11 @@ rate_centers:
       ilec_name: CENTURYTEL MIDWEST-KENDALL LLC DBA CENTURYLINK
       lat: '44.875536'
       long: "-88.131934"
+      closest_city:
+        name: Oconto Falls
+        distance:
+          value: 1.0
+          units: km
     - region: WI
       exchange: '319471'
       name: Odanah
@@ -5834,6 +7809,11 @@ rate_centers:
       ilec_name: MANAWA TEL. CO., INC.
       lat: '44.448168'
       long: "-89.025187"
+      closest_city:
+        name: Ogdensburg
+        distance:
+          value: 0.78
+          units: km
     - region: WI
       exchange: '213280'
       name: Ogema
@@ -5842,6 +7822,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW WISCONSIN LLC DBA CENTURYLINK
       lat: '45.439929'
       long: "-90.293187"
+      closest_city:
+        name: Ogema
+        distance:
+          value: 1.23
+          units: km
     - region: WI
       exchange: '319472'
       name: Ojibwa
@@ -5882,6 +7867,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '44.043224'
       long: "-88.734968"
+      closest_city:
+        name: Omro
+        distance:
+          value: 0.51
+          units: km
     - region: WI
       exchange: '319722'
       name: Onalaska
@@ -5898,6 +7888,11 @@ rate_centers:
       ilec_name: NORTHEAST TEL. CO.
       lat: '44.500918'
       long: "-88.191905"
+      closest_city:
+        name: Hobart
+        distance:
+          value: 2.56
+          units: km
     - region: WI
       exchange: '213310'
       name: Ontario
@@ -5906,6 +7901,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF MONROE COUNTY, LLC DBA CENTURYLINK
       lat: '43.724836'
       long: "-90.592735"
+      closest_city:
+        name: Ontario
+        distance:
+          value: 0.31
+          units: km
     - region: WI
       exchange: '213320'
       name: Oostburg
@@ -5914,6 +7914,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.617716'
       long: "-87.798378"
+      closest_city:
+        name: Oostburg
+        distance:
+          value: 1.02
+          units: km
     - region: WI
       exchange: '213330'
       name: Oregon
@@ -5922,6 +7927,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '42.924812'
       long: "-89.383315"
+      closest_city:
+        name: Oregon
+        distance:
+          value: 0.48
+          units: km
     - region: WI
       exchange: '213340'
       name: Orfordville
@@ -5930,6 +7940,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '42.631051'
       long: "-89.250762"
+      closest_city:
+        name: Orfordville
+        distance:
+          value: 0.56
+          units: km
     - region: WI
       exchange: '319183'
       name: Orihula
@@ -5946,6 +7961,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW WISCONSIN LLC DBA CENTURYLINK
       lat: '45.318788'
       long: "-92.699092"
+      closest_city:
+        name: Osceola
+        distance:
+          value: 0.43
+          units: km
     - region: WI
       exchange: '213360'
       name: Oshkosh
@@ -5954,6 +7974,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '44.014253'
       long: "-88.533635"
+      closest_city:
+        name: Oshkosh
+        distance:
+          value: 2.45
+          units: km
     - region: WI
       exchange: '213370'
       name: Osseo
@@ -5962,6 +7987,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL WISCONSIN LLC DBA CENTURYLINK
       lat: '44.585028'
       long: "-91.222721"
+      closest_city:
+        name: Osseo
+        distance:
+          value: 1.05
+          units: km
     - region: WI
       exchange: '319976'
       name: Otsego
@@ -5978,6 +8008,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '44.947499'
       long: "-90.565944"
+      closest_city:
+        name: Owen
+        distance:
+          value: 0.32
+          units: km
     - region: WI
       exchange: '213390'
       name: Oxford
@@ -5986,6 +8021,11 @@ rate_centers:
       ilec_name: MARQUETTE-ADAMS TEL. COOP., INC.
       lat: '43.784235'
       long: "-89.561046"
+      closest_city:
+        name: Oxford
+        distance:
+          value: 0.61
+          units: km
     - region: WI
       exchange: '213400'
       name: Packwaukee
@@ -5994,6 +8034,11 @@ rate_centers:
       ilec_name: MARQUETTE-ADAMS TEL. COOP., INC.
       lat: '43.783753'
       long: "-89.419293"
+      closest_city:
+        name: Packwaukee
+        distance:
+          value: 3.85
+          units: km
     - region: WI
       exchange: '319977'
       name: Paddock Lake
@@ -6010,6 +8055,11 @@ rate_centers:
       ilec_name: CENTURYTEL MIDWEST-WI LLC NW DBA CENTURYLINK - NW
       lat: '42.873595'
       long: "-88.59045"
+      closest_city:
+        name: Palmyra
+        distance:
+          value: 1.14
+          units: km
     - region: WI
       exchange: '319728'
       name: Paoli
@@ -6026,6 +8076,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.533396'
       long: "-89.290105"
+      closest_city:
+        name: Pardeeville
+        distance:
+          value: 0.92
+          units: km
     - region: WI
       exchange: '213430'
       name: Park Falls
@@ -6034,6 +8089,11 @@ rate_centers:
       ilec_name: TELEPHONE USA OF WISCONSIN, LLC DBA CENTURYLINK
       lat: '45.932827'
       long: "-90.447519"
+      closest_city:
+        name: Park Falls
+        distance:
+          value: 0.24
+          units: km
     - region: WI
       exchange: '213440'
       name: Parkside
@@ -6042,6 +8102,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '42.666995'
       long: "-87.829715"
+      closest_city:
+        name: Elmwood Park
+        distance:
+          value: 2.81
+          units: km
     - region: WI
       exchange: '319186'
       name: Parrish
@@ -6074,6 +8139,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF WISCONSIN LLC
       lat: '45.524332'
       long: "-89.166275"
+      closest_city:
+        name: Elcho
+        distance:
+          value: 10.01
+          units: km
     - region: WI
       exchange: '319980'
       name: Pell Lake
@@ -6090,6 +8160,11 @@ rate_centers:
       ilec_name: CENTURYTEL MW-WI-CENCOM DBA CENTURYLINK - CENCOM
       lat: '45.634609'
       long: "-87.993806"
+      closest_city:
+        name: Pembine
+        distance:
+          value: 0.31
+          units: km
     - region: WI
       exchange: '319478'
       name: Pence
@@ -6114,6 +8189,11 @@ rate_centers:
       ilec_name: TELEPHONE USA OF WISCONSIN, LLC DBA CENTURYLINK
       lat: '44.441325'
       long: "-92.149328"
+      closest_city:
+        name: Pepin
+        distance:
+          value: 0.16
+          units: km
     - region: WI
       exchange: '213480'
       name: Peshtigo
@@ -6122,6 +8202,11 @@ rate_centers:
       ilec_name: CENTURYTEL MIDWEST-KENDALL LLC DBA CENTURYLINK
       lat: '45.050747'
       long: "-87.751549"
+      closest_city:
+        name: Peshtigo
+        distance:
+          value: 0.68
+          units: km
     - region: WI
       exchange: '213490'
       name: Pewaukee
@@ -6130,6 +8215,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '43.0842'
       long: "-88.256898"
+      closest_city:
+        name: Sussex
+        distance:
+          value: 6.26
+          units: km
     - region: WI
       exchange: '213500'
       name: Phelps
@@ -6138,6 +8228,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '46.066418'
       long: "-89.083235"
+      closest_city:
+        name: Eagle River
+        distance:
+          value: 20.63
+          units: km
     - region: WI
       exchange: '213510'
       name: Phillips
@@ -6146,6 +8241,11 @@ rate_centers:
       ilec_name: PRICE COUNTY TEL. CO.
       lat: '45.69149'
       long: "-90.392015"
+      closest_city:
+        name: Phillips
+        distance:
+          value: 0.9
+          units: km
     - region: WI
       exchange: '319193'
       name: Phlox
@@ -6162,6 +8262,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '45.348932'
       long: "-88.899434"
+      closest_city:
+        name: Mole Lake
+        distance:
+          value: 16.55
+          units: km
     - region: WI
       exchange: '213530'
       name: Pickett
@@ -6170,6 +8275,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL WISCONSIN LLC DBA CENTURYLINK
       lat: '43.906995'
       long: "-88.732814"
+      closest_city:
+        name: Waukau
+        distance:
+          value: 9.31
+          units: km
     - region: WI
       exchange: '213540'
       name: Pigeon Falls
@@ -6178,6 +8288,11 @@ rate_centers:
       ilec_name: TRI-COUNTY TEL. COOP., INC.
       lat: '44.426122'
       long: "-91.20899"
+      closest_city:
+        name: Pigeon Falls
+        distance:
+          value: 0.17
+          units: km
     - region: WI
       exchange: '319983'
       name: Pike Lake
@@ -6218,6 +8333,11 @@ rate_centers:
       ilec_name: CENTRAL STATE TEL. CO
       lat: '44.434872'
       long: "-90.125915"
+      closest_city:
+        name: Pittsville
+        distance:
+          value: 0.57
+          units: km
     - region: WI
       exchange: '213560'
       name: Plain
@@ -6226,6 +8346,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.276657'
       long: "-90.039307"
+      closest_city:
+        name: Plain
+        distance:
+          value: 0.28
+          units: km
     - region: WI
       exchange: '213570'
       name: Plainfield
@@ -6234,6 +8359,11 @@ rate_centers:
       ilec_name: UNION TEL. CO.
       lat: '44.217489'
       long: "-89.484258"
+      closest_city:
+        name: Plainfield
+        distance:
+          value: 1.01
+          units: km
     - region: WI
       exchange: '319731'
       name: Plainville
@@ -6250,6 +8380,11 @@ rate_centers:
       ilec_name: CENTURYTEL MW-WI-PLATTEVL DBA CENTURYLINK PLATTEVL
       lat: '42.734084'
       long: "-90.475832"
+      closest_city:
+        name: Platteville
+        distance:
+          value: 0.93
+          units: km
     - region: WI
       exchange: '211931'
       name: Pleasant Prairie
@@ -6266,6 +8401,11 @@ rate_centers:
       ilec_name: TRI-COUNTY TEL. COOP., INC.
       lat: '44.458153'
       long: "-91.301181"
+      closest_city:
+        name: Pigeon Falls
+        distance:
+          value: 8.27
+          units: km
     - region: WI
       exchange: '319199'
       name: Plover
@@ -6282,6 +8422,11 @@ rate_centers:
       ilec_name: TELEPHONE USA OF WISCONSIN, LLC DBA CENTURYLINK
       lat: '44.632562'
       long: "-92.201028"
+      closest_city:
+        name: Plum City
+        distance:
+          value: 0.74
+          units: km
     - region: WI
       exchange: '213610'
       name: Plymouth
@@ -6290,6 +8435,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.75076'
       long: "-87.980066"
+      closest_city:
+        name: Plymouth
+        distance:
+          value: 1.32
+          units: km
     - region: WI
       exchange: '213620'
       name: Polonia
@@ -6298,6 +8448,11 @@ rate_centers:
       ilec_name: AMHERST TEL. CO.
       lat: '44.568079'
       long: "-89.407387"
+      closest_city:
+        name: Polonia
+        distance:
+          value: 0.91
+          units: km
     - region: WI
       exchange: '213630'
       name: Poplar
@@ -6306,6 +8461,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW WISCONSIN LLC DBA CENTURYLINK
       lat: '46.58132'
       long: "-91.799568"
+      closest_city:
+        name: Poplar
+        distance:
+          value: 1.23
+          units: km
     - region: WI
       exchange: '319202'
       name: Popple River
@@ -6322,6 +8482,11 @@ rate_centers:
       ilec_name: WOOD COUNTY TEL. CO.
       lat: '44.335923'
       long: "-89.85164"
+      closest_city:
+        name: Port Edwards
+        distance:
+          value: 1.4
+          units: km
     - region: WI
       exchange: '213650'
       name: Port Washington
@@ -6330,6 +8495,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '43.392109'
       long: "-87.877856"
+      closest_city:
+        name: Port Washington
+        distance:
+          value: 1.04
+          units: km
     - region: WI
       exchange: '213660'
       name: Port Wing
@@ -6338,6 +8508,11 @@ rate_centers:
       ilec_name: CHEQUAMEGON COMMUNICATIONS COOPERATIVE, INC.
       lat: '46.782757'
       long: "-91.386309"
+      closest_city:
+        name: Port Wing
+        distance:
+          value: 0.89
+          units: km
     - region: WI
       exchange: '213670'
       name: Portage
@@ -6346,6 +8521,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.540272'
       long: "-89.44814"
+      closest_city:
+        name: Portage
+        distance:
+          value: 1.72
+          units: km
     - region: WI
       exchange: '319203'
       name: Porterfield
@@ -6370,6 +8550,11 @@ rate_centers:
       ilec_name: FARMERS TEL. CO.
       lat: '42.689242'
       long: "-90.706858"
+      closest_city:
+        name: Potosi
+        distance:
+          value: 0.35
+          units: km
     - region: WI
       exchange: '319987'
       name: Potter
@@ -6402,6 +8587,11 @@ rate_centers:
       ilec_name: CENTURYTEL MW-WI-CENCOM DBA CENTURYLINK - CENCOM
       lat: '44.140428'
       long: "-88.994812"
+      closest_city:
+        name: Poy Sippi
+        distance:
+          value: 0.51
+          units: km
     - region: WI
       exchange: '213700'
       name: Poynette
@@ -6410,6 +8600,11 @@ rate_centers:
       ilec_name: CENTURYTEL MIDWEST-WI LLC NW DBA CENTURYLINK - NW
       lat: '43.393524'
       long: "-89.402194"
+      closest_city:
+        name: Poynette
+        distance:
+          value: 0.33
+          units: km
     - region: WI
       exchange: '213720'
       name: Prairie Farm
@@ -6418,6 +8613,11 @@ rate_centers:
       ilec_name: CHIBARDUN TEL. COOP., INC.
       lat: '45.242016'
       long: "-91.975575"
+      closest_city:
+        name: Prairie Farm
+        distance:
+          value: 0.69
+          units: km
     - region: WI
       exchange: '213710'
       name: Prairie du Chien
@@ -6426,6 +8626,11 @@ rate_centers:
       ilec_name: TELEPHONE USA OF WISCONSIN, LLC DBA CENTURYLINK
       lat: '43.048821'
       long: "-91.149531"
+      closest_city:
+        name: Prairie du Chien
+        distance:
+          value: 1.2
+          units: km
     - region: WI
       exchange: '319737'
       name: Prarie Du Sac
@@ -6442,6 +8647,11 @@ rate_centers:
       ilec_name: PRICE COUNTY TEL. CO.
       lat: '45.547285'
       long: "-90.289982"
+      closest_city:
+        name: Prentice
+        distance:
+          value: 0.71
+          units: km
     - region: WI
       exchange: '213740'
       name: Prescott
@@ -6450,6 +8660,11 @@ rate_centers:
       ilec_name: TELEPHONE USA OF WISCONSIN, LLC DBA CENTURYLINK
       lat: '44.750085'
       long: "-92.798217"
+      closest_city:
+        name: Prescott
+        distance:
+          value: 0.83
+          units: km
     - region: WI
       exchange: '213750'
       name: Presque Isle
@@ -6458,6 +8673,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW WISCONSIN LLC DBA CENTURYLINK
       lat: '46.232743'
       long: "-89.797186"
+      closest_city:
+        name: Boulder Junction
+        distance:
+          value: 17.5
+          units: km
     - region: WI
       exchange: '213760'
       name: Princeton
@@ -6466,6 +8686,11 @@ rate_centers:
       ilec_name: CENTURYTEL MIDWEST-KENDALL LLC DBA CENTURYLINK
       lat: '43.84831'
       long: "-89.131701"
+      closest_city:
+        name: Princeton
+        distance:
+          value: 0.49
+          units: km
     - region: WI
       exchange: '319989'
       name: Prospect
@@ -6482,6 +8707,11 @@ rate_centers:
       ilec_name: NORTHEAST TEL. CO.
       lat: '44.677025'
       long: "-88.243051"
+      closest_city:
+        name: Pulaski
+        distance:
+          value: 1.15
+          units: km
     - region: WI
       exchange: '319210'
       name: Pulcifer
@@ -6498,6 +8728,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '42.726225'
       long: "-87.794033"
+      closest_city:
+        name: Racine
+        distance:
+          value: 1.6
+          units: km
     - region: WI
       exchange: '213790'
       name: Radisson
@@ -6506,6 +8741,11 @@ rate_centers:
       ilec_name: INDIANHEAD TEL. CO.
       lat: '45.774753'
       long: "-91.21563"
+      closest_city:
+        name: Radisson
+        distance:
+          value: 0.79
+          units: km
     - region: WI
       exchange: '213800'
       name: Randolph
@@ -6514,6 +8754,11 @@ rate_centers:
       ilec_name: CENTURYTEL SOUTHERN WISCONSIN LLC DBA CENTURYLINK
       lat: '43.541973'
       long: "-89.007548"
+      closest_city:
+        name: Randolph
+        distance:
+          value: 0.45
+          units: km
     - region: WI
       exchange: '213810'
       name: Random Lake
@@ -6522,6 +8767,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.552473'
       long: "-87.96771"
+      closest_city:
+        name: Random Lake
+        distance:
+          value: 1.06
+          units: km
     - region: WI
       exchange: '319211'
       name: Rankin
@@ -6538,6 +8788,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF LARSEN-READFIELD DBA CENTURYLINK
       lat: '44.274687'
       long: "-88.76888"
+      closest_city:
+        name: Dale
+        distance:
+          value: 7.63
+          units: km
     - region: WI
       exchange: '213830'
       name: Readstown
@@ -6546,6 +8801,11 @@ rate_centers:
       ilec_name: VERNON TEL. COOP.
       lat: '43.44904'
       long: "-90.757716"
+      closest_city:
+        name: Readstown
+        distance:
+          value: 0.12
+          units: km
     - region: WI
       exchange: '319739'
       name: Red Mound
@@ -6562,6 +8822,11 @@ rate_centers:
       ilec_name: CENTURYTEL MIDWEST-KENDALL LLC DBA CENTURYLINK
       lat: '44.04007'
       long: "-89.102358"
+      closest_city:
+        name: Redgranite
+        distance:
+          value: 1.28
+          units: km
     - region: WI
       exchange: '213850'
       name: Reedsburg
@@ -6570,6 +8835,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.530688'
       long: "-89.99885"
+      closest_city:
+        name: Reedsburg
+        distance:
+          value: 0.49
+          units: km
     - region: WI
       exchange: '213860'
       name: Reedsville
@@ -6578,6 +8848,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '44.161013'
       long: "-87.958604"
+      closest_city:
+        name: Reedsville
+        distance:
+          value: 1.11
+          units: km
     - region: WI
       exchange: '213870'
       name: Reeseville
@@ -6586,6 +8861,11 @@ rate_centers:
       ilec_name: RIVERSIDE TELCOM, INC.
       lat: '43.307396'
       long: "-88.840675"
+      closest_city:
+        name: Reeseville
+        distance:
+          value: 0.34
+          units: km
     - region: WI
       exchange: '319741'
       name: Retreat
@@ -6610,6 +8890,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF WISCONSIN LLC
       lat: '45.641251'
       long: "-89.403524"
+      closest_city:
+        name: Rhinelander
+        distance:
+          value: 1.86
+          units: km
     - region: WI
       exchange: '319215'
       name: Rib Falls
@@ -6626,6 +8911,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF WISCONSIN LLC
       lat: '45.324535'
       long: "-90.20039"
+      closest_city:
+        name: Rib Lake
+        distance:
+          value: 0.6
+          units: km
     - region: WI
       exchange: '213900'
       name: Rice Lake
@@ -6634,6 +8924,11 @@ rate_centers:
       ilec_name: TELEPHONE USA OF WISCONSIN, LLC DBA CENTURYLINK
       lat: '45.497856'
       long: "-91.731376"
+      closest_city:
+        name: Rice Lake
+        distance:
+          value: 1.64
+          units: km
     - region: WI
       exchange: '319996'
       name: Richfield
@@ -6650,6 +8945,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.335554'
       long: "-90.385292"
+      closest_city:
+        name: Sextonville
+        distance:
+          value: 9.76
+          units: km
     - region: WI
       exchange: '213920'
       name: Richmond
@@ -6658,6 +8958,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '42.716255'
       long: "-88.750576"
+      closest_city:
+        name: Lake Lorraine
+        distance:
+          value: 2.15
+          units: km
     - region: WI
       exchange: '213930'
       name: Ridgeland
@@ -6666,6 +8971,11 @@ rate_centers:
       ilec_name: CHIBARDUN TEL. COOP., INC.
       lat: '45.208275'
       long: "-91.890485"
+      closest_city:
+        name: Ridgeland
+        distance:
+          value: 0.8
+          units: km
     - region: WI
       exchange: '213940'
       name: Ridgeway
@@ -6674,6 +8984,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.00001'
       long: "-89.98981"
+      closest_city:
+        name: Ridgeway
+        distance:
+          value: 0.3
+          units: km
     - region: WI
       exchange: '319217'
       name: Ringle
@@ -6690,6 +9005,11 @@ rate_centers:
       ilec_name: CENTURYTEL SOUTHERN WISCONSIN LLC DBA CENTURYLINK
       lat: '43.450539'
       long: "-89.235021"
+      closest_city:
+        name: Rio
+        distance:
+          value: 0.32
+          units: km
     - region: WI
       exchange: '319218'
       name: Rio Creek
@@ -6706,6 +9026,11 @@ rate_centers:
       ilec_name: CENTURYTEL MIDWEST-WI LLC NW DBA CENTURYLINK - NW
       lat: '43.844037'
       long: "-88.842289"
+      closest_city:
+        name: Ripon
+        distance:
+          value: 0.3
+          units: km
     - region: WI
       exchange: '213970'
       name: River Falls
@@ -6714,6 +9039,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '44.855389'
       long: "-92.623495"
+      closest_city:
+        name: River Falls
+        distance:
+          value: 0.62
+          units: km
     - region: WI
       exchange: '319998'
       name: River Hills
@@ -6730,6 +9060,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '44.982831'
       long: "-92.561738"
+      closest_city:
+        name: Roberts
+        distance:
+          value: 1.38
+          units: km
     - region: WI
       exchange: '319999'
       name: Rochester
@@ -6754,6 +9089,11 @@ rate_centers:
       ilec_name: WEST WISCONSIN TELCOM COOP., INC.
       lat: '44.715458'
       long: "-91.691006"
+      closest_city:
+        name: Rock Falls
+        distance:
+          value: 0.61
+          units: km
     - region: WI
       exchange: '319746'
       name: Rock Springs
@@ -6818,6 +9158,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL WISCONSIN LLC DBA CENTURYLINK
       lat: '43.807364'
       long: "-88.675803"
+      closest_city:
+        name: Rosendale
+        distance:
+          value: 0.22
+          units: km
     - region: WI
       exchange: '214010'
       name: Rosholt
@@ -6826,6 +9171,11 @@ rate_centers:
       ilec_name: AMHERST TEL. CO.
       lat: '44.633623'
       long: "-89.302822"
+      closest_city:
+        name: Rosholt
+        distance:
+          value: 0.44
+          units: km
     - region: WI
       exchange: '319221'
       name: Rosiere
@@ -6874,6 +9224,11 @@ rate_centers:
       ilec_name: WOOD COUNTY TEL. CO.
       lat: '44.490701'
       long: "-89.79298"
+      closest_city:
+        name: Rudolph
+        distance:
+          value: 1.01
+          units: km
     - region: WI
       exchange: '319225'
       name: Rush Lake
@@ -6890,6 +9245,11 @@ rate_centers:
       ilec_name: RICHLAND-GRANT TEL. COOP., INC.
       lat: '43.431713'
       long: "-90.565891"
+      closest_city:
+        name: Boaz
+        distance:
+          value: 11.73
+          units: km
     - region: WI
       exchange: '320020'
       name: Saint Francis
@@ -6914,6 +9274,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '42.55173'
       long: "-88.109289"
+      closest_city:
+        name: Paddock Lake
+        distance:
+          value: 2.15
+          units: km
     - region: WI
       exchange: '319497'
       name: Salmo
@@ -6946,6 +9311,11 @@ rate_centers:
       ilec_name: CHIBARDUN TEL. COOP., INC.
       lat: '45.174207'
       long: "-91.683612"
+      closest_city:
+        name: New Auburn
+        distance:
+          value: 9.57
+          units: km
     - region: WI
       exchange: '214060'
       name: Sarona
@@ -6954,6 +9324,11 @@ rate_centers:
       ilec_name: CENTURYTEL MW-WI-WAYSIDE DBA CENTURYLINK-WAYSIDE
       lat: '45.715814'
       long: "-91.800593"
+      closest_city:
+        name: Shell Lake
+        distance:
+          value: 8.18
+          units: km
     - region: WI
       exchange: '214070'
       name: Sauk City
@@ -6962,6 +9337,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.274621'
       long: "-89.724388"
+      closest_city:
+        name: Sauk City
+        distance:
+          value: 0.61
+          units: km
     - region: WI
       exchange: '320006'
       name: Saukville
@@ -6994,6 +9374,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '45.992609'
       long: "-89.529406"
+      closest_city:
+        name: Sayner
+        distance:
+          value: 0.34
+          units: km
     - region: WI
       exchange: '214090'
       name: Scandinavia
@@ -7002,6 +9387,11 @@ rate_centers:
       ilec_name: SCANDINAVIA TEL. CO.
       lat: '44.457191'
       long: "-89.133932"
+      closest_city:
+        name: Scandinavia
+        distance:
+          value: 1.05
+          units: km
     - region: WI
       exchange: '319228'
       name: Schofield
@@ -7026,6 +9416,11 @@ rate_centers:
       ilec_name: TELEPHONE USA OF WISCONSIN, LLC DBA CENTURYLINK
       lat: '43.314776'
       long: "-91.001441"
+      closest_city:
+        name: Mount Sterling
+        distance:
+          value: 5.85
+          units: km
     - region: WI
       exchange: '319755'
       name: Sextonville
@@ -7042,6 +9437,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL WISCONSIN LLC DBA CENTURYLINK
       lat: '44.515166'
       long: "-88.326293"
+      closest_city:
+        name: Seymour
+        distance:
+          value: 0.13
+          units: km
     - region: WI
       exchange: '214120'
       name: Sharon
@@ -7050,6 +9450,11 @@ rate_centers:
       ilec_name: SHARON TEL. CO. - WI
       lat: '42.499302'
       long: "-88.72772"
+      closest_city:
+        name: Sharon
+        distance:
+          value: 1.2
+          units: km
     - region: WI
       exchange: '214130'
       name: Shawano
@@ -7058,6 +9463,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF WISCONSIN LLC
       lat: '44.774376'
       long: "-88.599886"
+      closest_city:
+        name: Shawano
+        distance:
+          value: 1.23
+          units: km
     - region: WI
       exchange: '214140'
       name: Sheboygan
@@ -7066,6 +9476,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '43.760516'
       long: "-87.707523"
+      closest_city:
+        name: Sheboygan
+        distance:
+          value: 2.97
+          units: km
     - region: WI
       exchange: '214150'
       name: Sheboygan Falls
@@ -7074,6 +9489,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '43.731366'
       long: "-87.807939"
+      closest_city:
+        name: Sheboygan Falls
+        distance:
+          value: 1.52
+          units: km
     - region: WI
       exchange: '214160'
       name: Sheldon
@@ -7082,6 +9502,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW WISCONSIN LLC DBA CENTURYLINK
       lat: '45.31871'
       long: "-90.950811"
+      closest_city:
+        name: Sheldon
+        distance:
+          value: 0.89
+          units: km
     - region: WI
       exchange: '214170'
       name: Shell Lake
@@ -7090,6 +9515,11 @@ rate_centers:
       ilec_name: CENTURYTEL MW-WI-WAYSIDE DBA CENTURYLINK-WAYSIDE
       lat: '45.751138'
       long: "-91.921559"
+      closest_city:
+        name: Shell Lake
+        distance:
+          value: 2.54
+          units: km
     - region: WI
       exchange: '319756'
       name: Shennington
@@ -7114,6 +9544,11 @@ rate_centers:
       ilec_name: STOCKBRIDGE & SHERWOOD TEL. CO.
       lat: '44.175841'
       long: "-88.257724"
+      closest_city:
+        name: Sherwood
+        distance:
+          value: 1.43
+          units: km
     - region: WI
       exchange: '214190'
       name: Shiocton
@@ -7122,6 +9557,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL WISCONSIN LLC DBA CENTURYLINK
       lat: '44.431569'
       long: "-88.575608"
+      closest_city:
+        name: Shiocton
+        distance:
+          value: 1.49
+          units: km
     - region: WI
       exchange: '319757'
       name: Shopiere
@@ -7146,6 +9586,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL WISCONSIN LLC DBA CENTURYLINK
       lat: '42.574023'
       long: "-90.235993"
+      closest_city:
+        name: Shullsburg
+        distance:
+          value: 0.13
+          units: km
     - region: WI
       exchange: '319234'
       name: Silver Cliff
@@ -7162,6 +9607,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '42.548444'
       long: "-88.167784"
+      closest_city:
+        name: Salem Lakes
+        distance:
+          value: 3.32
+          units: km
     - region: WI
       exchange: '338663'
       name: Sinsinawa
@@ -7178,6 +9628,11 @@ rate_centers:
       ilec_name: SIREN TEL. CO., INC.
       lat: '45.782147'
       long: "-92.385645"
+      closest_city:
+        name: Siren
+        distance:
+          value: 0.26
+          units: km
     - region: WI
       exchange: '214230'
       name: Sister Bay
@@ -7186,6 +9641,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '45.186039'
       long: "-87.118205"
+      closest_city:
+        name: Sister Bay
+        distance:
+          value: 0.75
+          units: km
     - region: WI
       exchange: '214240'
       name: Slinger
@@ -7194,6 +9654,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.332306'
       long: "-88.291189"
+      closest_city:
+        name: Slinger
+        distance:
+          value: 0.92
+          units: km
     - region: WI
       exchange: '319236'
       name: Slovan
@@ -7218,6 +9683,11 @@ rate_centers:
       ilec_name: RICHLAND-GRANT TEL. COOP., INC.
       lat: '43.399321'
       long: "-90.777046"
+      closest_city:
+        name: Soldiers Grove
+        distance:
+          value: 0.84
+          units: km
     - region: WI
       exchange: '214260'
       name: Solon Springs
@@ -7226,6 +9696,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW WISCONSIN LLC DBA CENTURYLINK
       lat: '46.35178'
       long: "-91.818121"
+      closest_city:
+        name: Solon Springs
+        distance:
+          value: 0.32
+          units: km
     - region: WI
       exchange: '214270'
       name: Somers
@@ -7234,6 +9709,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '42.641303'
       long: "-87.897507"
+      closest_city:
+        name: Somers
+        distance:
+          value: 0.46
+          units: km
     - region: WI
       exchange: '214280'
       name: Somerset
@@ -7242,6 +9722,11 @@ rate_centers:
       ilec_name: SOMERSET TEL. CO., INC.
       lat: '45.12485'
       long: "-92.682908"
+      closest_city:
+        name: Somerset
+        distance:
+          value: 0.78
+          units: km
     - region: WI
       exchange: '214290'
       name: Soo Lake
@@ -7250,6 +9735,11 @@ rate_centers:
       ilec_name: PRICE COUNTY TEL. CO.
       lat: '45.684597'
       long: "-90.564705"
+      closest_city:
+        name: Phillips
+        distance:
+          value: 12.71
+          units: km
     - region: WI
       exchange: '319238'
       name: Soperton
@@ -7290,6 +9780,11 @@ rate_centers:
       ilec_name: UTELCO, INC.
       lat: '42.564368'
       long: "-89.87455"
+      closest_city:
+        name: South Wayne
+        distance:
+          value: 0.39
+          units: km
     - region: WI
       exchange: '214310'
       name: Sparta
@@ -7298,6 +9793,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF MONROE COUNTY, LLC DBA CENTURYLINK
       lat: '43.950586'
       long: "-90.807009"
+      closest_city:
+        name: Sparta
+        distance:
+          value: 1.51
+          units: km
     - region: WI
       exchange: '214320'
       name: Spencer
@@ -7306,6 +9806,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '44.76068'
       long: "-90.300332"
+      closest_city:
+        name: Spencer
+        distance:
+          value: 0.72
+          units: km
     - region: WI
       exchange: '214330'
       name: Spider Lake
@@ -7314,6 +9819,11 @@ rate_centers:
       ilec_name: TELEPHONE USA OF WISCONSIN, LLC DBA CENTURYLINK
       lat: '46.026836'
       long: "-91.201181"
+      closest_city:
+        name: Little Round Lake
+        distance:
+          value: 14.23
+          units: km
     - region: WI
       exchange: '214340'
       name: Spooner
@@ -7322,6 +9832,11 @@ rate_centers:
       ilec_name: CENTURYTEL MIDWEST-WI LLC NW DBA CENTURYLINK - NW
       lat: '45.823876'
       long: "-91.89404"
+      closest_city:
+        name: Spooner
+        distance:
+          value: 0.72
+          units: km
     - region: WI
       exchange: '319763'
       name: Sprague
@@ -7338,6 +9853,11 @@ rate_centers:
       ilec_name: NIAGARA TEL. CO.
       lat: '45.882155'
       long: "-88.124204"
+      closest_city:
+        name: Florence
+        distance:
+          value: 10.66
+          units: km
     - region: WI
       exchange: '214360'
       name: Spring Green
@@ -7346,6 +9866,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.183688'
       long: "-90.067698"
+      closest_city:
+        name: Spring Green
+        distance:
+          value: 0.68
+          units: km
     - region: WI
       exchange: '214370'
       name: Spring Lake
@@ -7354,6 +9879,11 @@ rate_centers:
       ilec_name: WEST WISCONSIN TELCOM COOP., INC.
       lat: '44.881219'
       long: "-92.165298"
+      closest_city:
+        name: Spring Valley
+        distance:
+          value: 7.13
+          units: km
     - region: WI
       exchange: '214380'
       name: Spring Valley
@@ -7362,6 +9892,11 @@ rate_centers:
       ilec_name: SPRING VALLEY TEL. CO., INC.
       lat: '44.84889'
       long: "-92.236488"
+      closest_city:
+        name: Spring Valley
+        distance:
+          value: 0.62
+          units: km
     - region: WI
       exchange: '214390'
       name: Springbrook
@@ -7370,6 +9905,11 @@ rate_centers:
       ilec_name: TELEPHONE USA OF WISCONSIN, LLC DBA CENTURYLINK
       lat: '45.950808'
       long: "-91.691307"
+      closest_city:
+        name: Springbrook
+        distance:
+          value: 0.47
+          units: km
     - region: WI
       exchange: '320018'
       name: Springfield
@@ -7386,6 +9926,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW WISCONSIN LLC DBA CENTURYLINK
       lat: '46.024418'
       long: "-90.117714"
+      closest_city:
+        name: Mercer
+        distance:
+          value: 16.26
+          units: km
     - region: WI
       exchange: '214410'
       name: St Cloud
@@ -7394,6 +9939,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.825964'
       long: "-88.175876"
+      closest_city:
+        name: St. Cloud
+        distance:
+          value: 0.6
+          units: km
     - region: WI
       exchange: '214420'
       name: St Croix Falls
@@ -7402,6 +9952,11 @@ rate_centers:
       ilec_name: TELEPHONE USA OF WISCONSIN, LLC DBA CENTURYLINK
       lat: '45.417213'
       long: "-92.641694"
+      closest_city:
+        name: St. Croix Falls
+        distance:
+          value: 1.43
+          units: km
     - region: WI
       exchange: '214430'
       name: St Nazianz
@@ -7410,6 +9965,11 @@ rate_centers:
       ilec_name: EASTCOAST TELECOM, INC.
       lat: '44.009741'
       long: "-87.918944"
+      closest_city:
+        name: St. Nazianz
+        distance:
+          value: 0.56
+          units: km
     - region: WI
       exchange: '214440'
       name: Stanley
@@ -7418,6 +9978,11 @@ rate_centers:
       ilec_name: CENTURYTEL MIDWEST-KENDALL LLC DBA CENTURYLINK
       lat: '44.967785'
       long: "-90.933192"
+      closest_city:
+        name: Stanley
+        distance:
+          value: 1.15
+          units: km
     - region: WI
       exchange: '319515'
       name: Stanton
@@ -7434,6 +9999,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF WISCONSIN LLC
       lat: '45.198369'
       long: "-92.534749"
+      closest_city:
+        name: Star Prairie
+        distance:
+          value: 0.23
+          units: km
     - region: WI
       exchange: '319243'
       name: Starlake
@@ -7458,6 +10028,11 @@ rate_centers:
       ilec_name: MIDWAY TEL. CO.
       lat: '45.082699'
       long: "-90.320075"
+      closest_city:
+        name: Stetsonville
+        distance:
+          value: 0.76
+          units: km
     - region: WI
       exchange: '214470'
       name: Steuben
@@ -7466,6 +10041,11 @@ rate_centers:
       ilec_name: CENTURYTEL MIDWEST-WI LLC NW DBA CENTURYLINK - NW
       lat: '43.181767'
       long: "-90.859459"
+      closest_city:
+        name: Steuben
+        distance:
+          value: 0.27
+          units: km
     - region: WI
       exchange: '214480'
       name: Stevens Point
@@ -7474,6 +10054,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '44.517064'
       long: "-89.566033"
+      closest_city:
+        name: Stevens Point
+        distance:
+          value: 1.45
+          units: km
     - region: WI
       exchange: '319247'
       name: Stiles
@@ -7498,6 +10083,11 @@ rate_centers:
       ilec_name: STOCKBRIDGE & SHERWOOD TEL. CO.
       lat: '44.077386'
       long: "-88.300975"
+      closest_city:
+        name: Stockbridge
+        distance:
+          value: 0.98
+          units: km
     - region: WI
       exchange: '319518'
       name: Stockholm
@@ -7522,6 +10112,11 @@ rate_centers:
       ilec_name: COON VALLEY FARMERS TEL. CO.
       lat: '43.667909'
       long: "-91.21501"
+      closest_city:
+        name: Stoddard
+        distance:
+          value: 0.66
+          units: km
     - region: WI
       exchange: '214510'
       name: Stone Lake
@@ -7530,6 +10125,11 @@ rate_centers:
       ilec_name: TELEPHONE USA OF WISCONSIN, LLC DBA CENTURYLINK
       lat: '45.843354'
       long: "-91.539363"
+      closest_city:
+        name: Stone Lake
+        distance:
+          value: 0.85
+          units: km
     - region: WI
       exchange: '214520'
       name: Stoughton
@@ -7538,6 +10138,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '42.917818'
       long: "-89.212852"
+      closest_city:
+        name: Stoughton
+        distance:
+          value: 1.02
+          units: km
     - region: WI
       exchange: '214530'
       name: Stratford
@@ -7546,6 +10151,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '44.802419'
       long: "-90.08403"
+      closest_city:
+        name: Stratford
+        distance:
+          value: 0.95
+          units: km
     - region: WI
       exchange: '214540'
       name: Strum
@@ -7554,6 +10164,11 @@ rate_centers:
       ilec_name: TRI-COUNTY TEL. COOP., INC.
       lat: '44.550081'
       long: "-91.388755"
+      closest_city:
+        name: Strum
+        distance:
+          value: 0.35
+          units: km
     - region: WI
       exchange: '214550'
       name: Sturgeon Bay
@@ -7562,6 +10177,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '44.834748'
       long: "-87.365756"
+      closest_city:
+        name: Sturgeon Bay
+        distance:
+          value: 1.33
+          units: km
     - region: WI
       exchange: '213781'
       name: Sturtevant
@@ -7594,6 +10214,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF WISCONSIN LLC
       lat: '45.781123'
       long: "-89.315928"
+      closest_city:
+        name: Three Lakes
+        distance:
+          value: 11.55
+          units: km
     - region: WI
       exchange: '214570'
       name: Sullivan
@@ -7602,6 +10227,11 @@ rate_centers:
       ilec_name: CENTURYTEL MIDWEST-WI LLC NW DBA CENTURYLINK - NW
       lat: '43.01591'
       long: "-88.581146"
+      closest_city:
+        name: Sullivan
+        distance:
+          value: 0.87
+          units: km
     - region: WI
       exchange: '320024'
       name: Summit
@@ -7626,6 +10256,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.184146'
       long: "-89.216929"
+      closest_city:
+        name: Sun Prairie
+        distance:
+          value: 1.57
+          units: km
     - region: WI
       exchange: '214590'
       name: Superior
@@ -7634,6 +10269,11 @@ rate_centers:
       ilec_name: CENTURYTEL MIDWEST-KENDALL LLC DBA CENTURYLINK
       lat: '46.733498'
       long: "-92.107077"
+      closest_city:
+        name: Superior
+        distance:
+          value: 4.77
+          units: km
     - region: WI
       exchange: '214600'
       name: Suring
@@ -7642,6 +10282,11 @@ rate_centers:
       ilec_name: TELEPHONE USA OF WISCONSIN, LLC DBA CENTURYLINK
       lat: '45.00058'
       long: "-88.367327"
+      closest_city:
+        name: Suring
+        distance:
+          value: 0.15
+          units: km
     - region: WI
       exchange: '214610'
       name: Sussex
@@ -7650,6 +10295,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '43.133247'
       long: "-88.221668"
+      closest_city:
+        name: Sussex
+        distance:
+          value: 0.17
+          units: km
     - region: WI
       exchange: '319769'
       name: Sylvan
@@ -7682,6 +10332,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL WISCONSIN LLC DBA CENTURYLINK
       lat: '44.315425'
       long: "-91.127337"
+      closest_city:
+        name: Taylor
+        distance:
+          value: 0.89
+          units: km
     - region: WI
       exchange: '214630'
       name: Theresa
@@ -7690,6 +10345,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.516016'
       long: "-88.457553"
+      closest_city:
+        name: Theresa
+        distance:
+          value: 0.28
+          units: km
     - region: WI
       exchange: '214640'
       name: Thiensville
@@ -7698,6 +10358,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '43.234974'
       long: "-87.985061"
+      closest_city:
+        name: Mequon
+        distance:
+          value: 0.1
+          units: km
     - region: WI
       exchange: '214650'
       name: Thorp
@@ -7706,6 +10371,11 @@ rate_centers:
       ilec_name: CENTURYTEL MW-WI LLC - THORP DBA CENTURYLINK-THORP
       lat: '44.966748'
       long: "-90.797294"
+      closest_city:
+        name: Thorp
+        distance:
+          value: 1.06
+          units: km
     - region: WI
       exchange: '214660'
       name: Three Lakes
@@ -7714,6 +10384,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '45.800856'
       long: "-89.168883"
+      closest_city:
+        name: Three Lakes
+        distance:
+          value: 0.45
+          units: km
     - region: WI
       exchange: '319770'
       name: Tiffany
@@ -7730,6 +10405,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF WISCONSIN LLC
       lat: '44.74147'
       long: "-89.058911"
+      closest_city:
+        name: Tigerton
+        distance:
+          value: 1.03
+          units: km
     - region: WI
       exchange: '319260'
       name: Tilleda
@@ -7754,6 +10434,11 @@ rate_centers:
       ilec_name: STOCKBRIDGE & SHERWOOD TEL. CO.
       lat: '44.326352'
       long: "-87.625849"
+      closest_city:
+        name: Mishicot
+        distance:
+          value: 10.76
+          units: km
     - region: WI
       exchange: '214690'
       name: Tomah
@@ -7762,6 +10447,11 @@ rate_centers:
       ilec_name: CENTURYTEL MIDWEST-WI LLC NW DBA CENTURYLINK - NW
       lat: '43.975229'
       long: "-90.500061"
+      closest_city:
+        name: Tomah
+        distance:
+          value: 1.41
+          units: km
     - region: WI
       exchange: '214700'
       name: Tomahawk
@@ -7770,6 +10460,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '45.475175'
       long: "-89.721492"
+      closest_city:
+        name: Tomahawk
+        distance:
+          value: 0.12
+          units: km
     - region: WI
       exchange: '319524'
       name: Tony
@@ -7794,6 +10489,11 @@ rate_centers:
       ilec_name: FARMERS INDEPENDENT TEL. CO.
       lat: '45.692134'
       long: "-92.640336"
+      closest_city:
+        name: Grantsburg
+        distance:
+          value: 10.47
+          units: km
     - region: WI
       exchange: '319526'
       name: Trego
@@ -7810,6 +10510,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL WISCONSIN LLC DBA CENTURYLINK
       lat: '44.006189'
       long: "-91.433466"
+      closest_city:
+        name: Trempealeau
+        distance:
+          value: 0.55
+          units: km
     - region: WI
       exchange: '214730'
       name: Trevor
@@ -7818,6 +10523,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '42.508532'
       long: "-88.119035"
+      closest_city:
+        name: Salem Lakes
+        distance:
+          value: 3.26
+          units: km
     - region: WI
       exchange: '319264'
       name: Tripoli
@@ -7858,6 +10568,11 @@ rate_centers:
       ilec_name: CENTURYTEL MW-WI-WAYSIDE DBA CENTURYLINK-WAYSIDE
       lat: '45.400296'
       long: "-92.142877"
+      closest_city:
+        name: Turtle Lake
+        distance:
+          value: 0.8
+          units: km
     - region: WI
       exchange: '319265'
       name: Tustin
@@ -7882,6 +10597,11 @@ rate_centers:
       ilec_name: CENTURYTEL MW-WI-CENCOM DBA CENTURYLINK - CENCOM
       lat: '45.334527'
       long: "-88.198493"
+      closest_city:
+        name: Crivitz
+        distance:
+          value: 18.73
+          units: km
     - region: WI
       exchange: '214760'
       name: Twin Lakes
@@ -7890,6 +10610,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '42.533052'
       long: "-88.248882"
+      closest_city:
+        name: Twin Lakes
+        distance:
+          value: 1.56
+          units: km
     - region: WI
       exchange: '214770'
       name: Two Rivers
@@ -7898,6 +10623,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '44.151934'
       long: "-87.56803"
+      closest_city:
+        name: Two Rivers
+        distance:
+          value: 1.25
+          units: km
     - region: WI
       exchange: '319267'
       name: Underhill
@@ -7930,6 +10660,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '42.691209'
       long: "-88.051752"
+      closest_city:
+        name: Union Grove
+        distance:
+          value: 0.56
+          units: km
     - region: WI
       exchange: '319268'
       name: Unity
@@ -7962,6 +10697,11 @@ rate_centers:
       ilec_name: EASTCOAST TELECOM, INC.
       lat: '44.066804'
       long: "-87.876798"
+      closest_city:
+        name: Valders
+        distance:
+          value: 0.78
+          units: km
     - region: WI
       exchange: '319777'
       name: Valley
@@ -7978,6 +10718,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '43.881797'
       long: "-88.500572"
+      closest_city:
+        name: Van Dyne
+        distance:
+          value: 0.49
+          units: km
     - region: WI
       exchange: '320037'
       name: Vernon
@@ -7994,6 +10739,11 @@ rate_centers:
       ilec_name: MT. VERNON TEL. CO.
       lat: '42.991383'
       long: "-89.533581"
+      closest_city:
+        name: Verona
+        distance:
+          value: 0.45
+          units: km
     - region: WI
       exchange: '214820'
       name: Vesper
@@ -8002,6 +10752,11 @@ rate_centers:
       ilec_name: CENTRAL STATE TEL. CO
       lat: '44.480451'
       long: "-89.965144"
+      closest_city:
+        name: Vesper
+        distance:
+          value: 0.19
+          units: km
     - region: WI
       exchange: '319779'
       name: Victory
@@ -8018,6 +10773,11 @@ rate_centers:
       ilec_name: VERNON TEL. COOP.
       lat: '43.509568'
       long: "-90.66787"
+      closest_city:
+        name: Viola
+        distance:
+          value: 0.54
+          units: km
     - region: WI
       exchange: '214840'
       name: Viroqua
@@ -8026,6 +10786,11 @@ rate_centers:
       ilec_name: FRONTIER COMMUNICATIONS OF WISCONSIN LLC
       lat: '43.559619'
       long: "-90.880045"
+      closest_city:
+        name: Viroqua
+        distance:
+          value: 0.47
+          units: km
     - region: WI
       exchange: '214850'
       name: Wabeno
@@ -8034,6 +10799,11 @@ rate_centers:
       ilec_name: TELEPHONE USA OF WISCONSIN, LLC DBA CENTURYLINK
       lat: '45.439311'
       long: "-88.649269"
+      closest_city:
+        name: Wabeno
+        distance:
+          value: 0.68
+          units: km
     - region: WI
       exchange: '319530'
       name: Waino
@@ -8074,6 +10844,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '42.533116'
       long: "-88.599096"
+      closest_city:
+        name: Walworth
+        distance:
+          value: 0.52
+          units: km
     - region: WI
       exchange: '319531'
       name: Wanderoos
@@ -8090,6 +10865,11 @@ rate_centers:
       ilec_name: CENTURYTEL MIDWEST-WI LLC NW DBA CENTURYLINK - NW
       lat: '44.134253'
       long: "-90.497671"
+      closest_city:
+        name: Warrens
+        distance:
+          value: 1.56
+          units: km
     - region: WI
       exchange: '319532'
       name: Wascott
@@ -8106,6 +10886,11 @@ rate_centers:
       ilec_name: CENTURYTEL MIDWEST-KENDALL LLC DBA CENTURYLINK
       lat: '46.673629'
       long: "-90.893318"
+      closest_city:
+        name: Washburn
+        distance:
+          value: 0.75
+          units: km
     - region: WI
       exchange: '214890'
       name: Washington Island
@@ -8114,6 +10899,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '45.35872'
       long: "-86.924922"
+      closest_city:
+        name: Ellison Bay
+        distance:
+          value: 16.33
+          units: km
     - region: WI
       exchange: '214900'
       name: Waterford
@@ -8122,6 +10912,11 @@ rate_centers:
       ilec_name: SOUTHEAST TEL. CO. OF WISCONSIN, INC.
       lat: '42.759601'
       long: "-88.214012"
+      closest_city:
+        name: Waterford
+        distance:
+          value: 0.57
+          units: km
     - region: WI
       exchange: '214910'
       name: Waterloo
@@ -8130,6 +10925,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.184705'
       long: "-88.983855"
+      closest_city:
+        name: Waterloo
+        distance:
+          value: 0.51
+          units: km
     - region: WI
       exchange: '214920'
       name: Watertown
@@ -8138,6 +10938,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '43.205173'
       long: "-88.722199"
+      closest_city:
+        name: Watertown
+        distance:
+          value: 1.84
+          units: km
     - region: WI
       exchange: '214930'
       name: Waubeka
@@ -8146,6 +10951,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.472362'
       long: "-87.990452"
+      closest_city:
+        name: Waubeka
+        distance:
+          value: 0.25
+          units: km
     - region: WI
       exchange: '320045'
       name: Waucousta
@@ -8170,6 +10980,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '43.009479'
       long: "-88.225645"
+      closest_city:
+        name: Waukesha
+        distance:
+          value: 1.69
+          units: km
     - region: WI
       exchange: '214950'
       name: Waumandee
@@ -8178,6 +10993,11 @@ rate_centers:
       ilec_name: COCHRANE COOP. TEL. CO.
       lat: '44.308309'
       long: "-91.699202"
+      closest_city:
+        name: Waumandee
+        distance:
+          value: 0.81
+          units: km
     - region: WI
       exchange: '214960'
       name: Waunakee
@@ -8186,6 +11006,11 @@ rate_centers:
       ilec_name: WAUNAKEE TEL. CO.
       lat: '43.19345'
       long: "-89.449865"
+      closest_city:
+        name: Waunakee
+        distance:
+          value: 1.25
+          units: km
     - region: WI
       exchange: '214970'
       name: Waupaca
@@ -8194,6 +11019,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '44.359833'
       long: "-89.081519"
+      closest_city:
+        name: Waupaca
+        distance:
+          value: 1.28
+          units: km
     - region: WI
       exchange: '214980'
       name: Waupun
@@ -8202,6 +11032,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '43.624212'
       long: "-88.728696"
+      closest_city:
+        name: Waupun
+        distance:
+          value: 1.1
+          units: km
     - region: WI
       exchange: '214990'
       name: Wausau
@@ -8210,6 +11045,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '44.950673'
       long: "-89.617887"
+      closest_city:
+        name: Wausau
+        distance:
+          value: 2.54
+          units: km
     - region: WI
       exchange: '215000'
       name: Wausaukee
@@ -8218,6 +11058,11 @@ rate_centers:
       ilec_name: CENTURYTEL MW-WI-CENCOM DBA CENTURYLINK - CENCOM
       lat: '45.375966'
       long: "-87.946431"
+      closest_city:
+        name: Wausaukee
+        distance:
+          value: 0.73
+          units: km
     - region: WI
       exchange: '215010'
       name: Wautoma
@@ -8226,6 +11071,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL WISCONSIN LLC DBA CENTURYLINK
       lat: '44.076244'
       long: "-89.283961"
+      closest_city:
+        name: Wautoma
+        distance:
+          value: 1.21
+          units: km
     - region: WI
       exchange: '320048'
       name: Wauwatosa
@@ -8242,6 +11092,11 @@ rate_centers:
       ilec_name: TELEPHONE USA OF WISCONSIN, LLC DBA CENTURYLINK
       lat: '43.084541'
       long: "-90.87532"
+      closest_city:
+        name: Wauzeka
+        distance:
+          value: 1.96
+          units: km
     - region: WI
       exchange: '319534'
       name: Waverly
@@ -8258,6 +11113,11 @@ rate_centers:
       ilec_name: CENTURYTEL MW-WI-WAYSIDE DBA CENTURYLINK-WAYSIDE
       lat: '44.297657'
       long: "-87.987545"
+      closest_city:
+        name: Greenleaf
+        distance:
+          value: 8.99
+          units: km
     - region: WI
       exchange: '215040'
       name: Webb Lake
@@ -8266,6 +11126,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW WISCONSIN LLC DBA CENTURYLINK
       lat: '46.010279'
       long: "-92.116457"
+      closest_city:
+        name: Danbury
+        distance:
+          value: 20.18
+          units: km
     - region: WI
       exchange: '215050'
       name: Webster
@@ -8274,6 +11139,11 @@ rate_centers:
       ilec_name: CENTURYTEL NW WISCONSIN LLC DBA CENTURYLINK
       lat: '45.883738'
       long: "-92.368443"
+      closest_city:
+        name: Webster
+        distance:
+          value: 0.62
+          units: km
     - region: WI
       exchange: '319537'
       name: Wentworth
@@ -8298,6 +11168,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '43.425714'
       long: "-88.181079"
+      closest_city:
+        name: West Bend
+        distance:
+          value: 0.94
+          units: km
     - region: WI
       exchange: '319271'
       name: West Bloomfield
@@ -8346,6 +11221,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF WISCONSIN, LLC DBA CENTURYLINK
       lat: '43.898612'
       long: "-91.082111"
+      closest_city:
+        name: West Salem
+        distance:
+          value: 0.49
+          units: km
     - region: WI
       exchange: '319282'
       name: Westboro
@@ -8362,6 +11242,11 @@ rate_centers:
       ilec_name: VERNON TEL. COOP.
       lat: '43.65897'
       long: "-90.855541"
+      closest_city:
+        name: Westby
+        distance:
+          value: 0.7
+          units: km
     - region: WI
       exchange: '215090'
       name: Westfield
@@ -8370,6 +11255,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.891345'
       long: "-89.485902"
+      closest_city:
+        name: Westfield
+        distance:
+          value: 0.88
+          units: km
     - region: WI
       exchange: '319283'
       name: Weston
@@ -8402,6 +11292,11 @@ rate_centers:
       ilec_name: CENTURYTEL MW-WI-CENCOM DBA CENTURYLINK - CENCOM
       lat: '44.317359'
       long: "-88.925091"
+      closest_city:
+        name: Weyauwega
+        distance:
+          value: 0.99
+          units: km
     - region: WI
       exchange: '215110'
       name: Weyerhaeuser
@@ -8410,6 +11305,11 @@ rate_centers:
       ilec_name: INDIANHEAD TEL. CO.
       lat: '45.433957'
       long: "-91.406461"
+      closest_city:
+        name: Chetek
+        distance:
+          value: 23.31
+          units: km
     - region: WI
       exchange: '215120'
       name: Wheatland
@@ -8418,6 +11318,11 @@ rate_centers:
       ilec_name: BURLINGTON, BRIGHTON & WHEATLAND TEL. CO.
       lat: '42.600601'
       long: "-88.207862"
+      closest_city:
+        name: New Munster
+        distance:
+          value: 3.35
+          units: km
     - region: WI
       exchange: '215130'
       name: Wheeler
@@ -8426,6 +11331,11 @@ rate_centers:
       ilec_name: TELEPHONE USA OF WISCONSIN, LLC DBA CENTURYLINK
       lat: '45.050941'
       long: "-91.909725"
+      closest_city:
+        name: Wheeler
+        distance:
+          value: 0.9
+          units: km
     - region: WI
       exchange: '215140'
       name: White Lake
@@ -8434,6 +11344,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '45.157814'
       long: "-88.762246"
+      closest_city:
+        name: White Lake
+        distance:
+          value: 0.77
+          units: km
     - region: WI
       exchange: '320052'
       name: Whitefish Bay
@@ -8450,6 +11365,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL WISCONSIN LLC DBA CENTURYLINK
       lat: '44.367045'
       long: "-91.31979"
+      closest_city:
+        name: Whitehall
+        distance:
+          value: 1.6
+          units: km
     - region: WI
       exchange: '215160'
       name: Whitelaw
@@ -8458,6 +11378,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '44.150453'
       long: "-87.822059"
+      closest_city:
+        name: Whitelaw
+        distance:
+          value: 0.73
+          units: km
     - region: WI
       exchange: '215170'
       name: Whitewater
@@ -8466,6 +11391,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '42.831613'
       long: "-88.725571"
+      closest_city:
+        name: Whitewater
+        distance:
+          value: 0.93
+          units: km
     - region: WI
       exchange: '319286'
       name: Whittlesey
@@ -8482,6 +11412,11 @@ rate_centers:
       ilec_name: CENTURYTEL MIDWEST-WI LLC NW DBA CENTURYLINK - NW
       lat: '44.173077'
       long: "-89.250906"
+      closest_city:
+        name: Wild Rose
+        distance:
+          value: 0.83
+          units: km
     - region: WI
       exchange: '319289'
       name: Willard
@@ -8498,6 +11433,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '42.582135'
       long: "-88.550583"
+      closest_city:
+        name: Williams Bay
+        distance:
+          value: 0.55
+          units: km
     - region: WI
       exchange: '320056'
       name: Wilmot
@@ -8522,6 +11462,11 @@ rate_centers:
       ilec_name: CENTURYTEL OF MONROE COUNTY, LLC DBA CENTURYLINK
       lat: '43.818164'
       long: "-90.522266"
+      closest_city:
+        name: Wilton
+        distance:
+          value: 0.66
+          units: km
     - region: WI
       exchange: '319290'
       name: Winchester
@@ -8554,6 +11499,11 @@ rate_centers:
       ilec_name: SOUTHEAST TEL. CO. OF WISCONSIN, INC.
       lat: '42.808444'
       long: "-88.165008"
+      closest_city:
+        name: Wind Lake
+        distance:
+          value: 1.86
+          units: km
     - region: WI
       exchange: '320058'
       name: Wind Point
@@ -8586,6 +11536,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '44.117272'
       long: "-88.710222"
+      closest_city:
+        name: Winneconne
+        distance:
+          value: 0.7
+          units: km
     - region: WI
       exchange: '215230'
       name: Winter
@@ -8594,6 +11549,11 @@ rate_centers:
       ilec_name: TELEPHONE USA OF WISCONSIN, LLC DBA CENTURYLINK
       lat: '45.817941'
       long: "-91.01083"
+      closest_city:
+        name: Winter
+        distance:
+          value: 0.49
+          units: km
     - region: WI
       exchange: '215240'
       name: Wiota
@@ -8602,6 +11562,11 @@ rate_centers:
       ilec_name: CENTURYTEL CENTRAL WISCONSIN LLC DBA CENTURYLINK
       lat: '42.642797'
       long: "-89.946532"
+      closest_city:
+        name: Wiota
+        distance:
+          value: 0.7
+          units: km
     - region: WI
       exchange: '215250'
       name: Wisconsin Dells
@@ -8610,6 +11575,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.631854'
       long: "-89.766483"
+      closest_city:
+        name: Wisconsin Dells
+        distance:
+          value: 0.73
+          units: km
     - region: WI
       exchange: '215260'
       name: Wisconsin Rapids
@@ -8618,6 +11588,11 @@ rate_centers:
       ilec_name: WOOD COUNTY TEL. CO.
       lat: '44.375122'
       long: "-89.816963"
+      closest_city:
+        name: Wisconsin Rapids
+        distance:
+          value: 2.1
+          units: km
     - region: WI
       exchange: '319296'
       name: Withee
@@ -8634,6 +11609,11 @@ rate_centers:
       ilec_name: WITTENBERG TEL. CO.
       lat: '44.822698'
       long: "-89.166711"
+      closest_city:
+        name: Wittenberg
+        distance:
+          value: 0.48
+          units: km
     - region: WI
       exchange: '215280'
       name: Witwen
@@ -8642,6 +11622,11 @@ rate_centers:
       ilec_name: FRONTIER NORTH INC. - WI
       lat: '43.29123'
       long: "-89.881752"
+      closest_city:
+        name: Prairie du Sac
+        distance:
+          value: 11.85
+          units: km
     - region: WI
       exchange: '215290'
       name: Wonewoc
@@ -8650,6 +11635,11 @@ rate_centers:
       ilec_name: CENTURYTEL MIDWEST-WI LLC NW DBA CENTURYLINK - NW
       lat: '43.650056'
       long: "-90.213297"
+      closest_city:
+        name: Wonewoc
+        distance:
+          value: 0.92
+          units: km
     - region: WI
       exchange: '215300'
       name: Woodford
@@ -8658,6 +11648,11 @@ rate_centers:
       ilec_name: UTELCO, INC.
       lat: '42.651104'
       long: "-89.857409"
+      closest_city:
+        name: Woodford
+        distance:
+          value: 0.44
+          units: km
     - region: WI
       exchange: '320060'
       name: Woodland
@@ -8674,6 +11669,11 @@ rate_centers:
       ilec_name: GRANTLAND TELECOM, INC.
       lat: '43.093426'
       long: "-90.79971"
+      closest_city:
+        name: Woodman
+        distance:
+          value: 0.19
+          units: km
     - region: WI
       exchange: '319298'
       name: Woodruff
@@ -8690,6 +11690,11 @@ rate_centers:
       ilec_name: BALDWIN TELECOM, INC.
       lat: '44.957471'
       long: "-92.286116"
+      closest_city:
+        name: Woodville
+        distance:
+          value: 1.02
+          units: km
     - region: WI
       exchange: '320061'
       name: Woodworth
@@ -8706,6 +11711,11 @@ rate_centers:
       ilec_name: WISCONSIN BELL INC
       lat: '44.325003'
       long: "-88.155298"
+      closest_city:
+        name: Wrightstown
+        distance:
+          value: 1.62
+          units: km
     - region: WI
       exchange: '319800'
       name: Wyeville
@@ -8738,6 +11748,11 @@ rate_centers:
       ilec_name: VERNON TEL. COOP.
       lat: '43.541888'
       long: "-90.428038"
+      closest_city:
+        name: Yuba
+        distance:
+          value: 0.62
+          units: km
     - region: WI
       exchange: '319300'
       name: Zachow

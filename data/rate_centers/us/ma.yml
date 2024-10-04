@@ -1,7 +1,7 @@
 ---
 rate_centers:
-  us:
-    ma:
+  US:
+    MA:
     - region: MA
       exchange: '301913'
       name: Abington
@@ -34,6 +34,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.475602'
       long: "-71.45511"
+      closest_city:
+        name: West Concord
+        distance:
+          value: 5.0
+          units: km
     - region: MA
       exchange: '075671'
       name: Acushnet
@@ -50,6 +55,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.622868'
       long: "-73.126033"
+      closest_city:
+        name: North Adams
+        distance:
+          value: 6.89
+          units: km
     - region: MA
       exchange: '301743'
       name: Adamsville
@@ -98,6 +108,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.853092'
       long: "-70.935436"
+      closest_city:
+        name: Newburyport
+        distance:
+          value: 5.96
+          units: km
     - region: MA
       exchange: '074150'
       name: Amherst
@@ -106,6 +121,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.373948'
       long: "-72.518119"
+      closest_city:
+        name: South Deerfield
+        distance:
+          value: 13.31
+          units: km
     - region: MA
       exchange: '074151'
       name: Amherst (Franklin County)
@@ -114,6 +134,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.373948'
       long: "-72.518119"
+      closest_city:
+        name: South Deerfield
+        distance:
+          value: 13.31
+          units: km
     - region: MA
       exchange: '074160'
       name: Andover
@@ -122,6 +147,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.657701'
       long: "-71.139799"
+      closest_city:
+        name: Lawrence
+        distance:
+          value: 5.08
+          units: km
     - region: MA
       exchange: '301922'
       name: Annisquam
@@ -146,6 +176,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.415023'
       long: "-71.155079"
+      closest_city:
+        name: Medford
+        distance:
+          value: 3.92
+          units: km
     - region: MA
       exchange: '074180'
       name: Ashburnham
@@ -154,6 +189,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.632383'
       long: "-71.911827"
+      closest_city:
+        name: South Ashburnham
+        distance:
+          value: 3.0
+          units: km
     - region: MA
       exchange: '074190'
       name: Ashby
@@ -162,6 +202,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.678516'
       long: "-71.821115"
+      closest_city:
+        name: Fitchburg
+        distance:
+          value: 9.72
+          units: km
     - region: MA
       exchange: '074200'
       name: Ashfield
@@ -170,6 +215,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.527033'
       long: "-72.795136"
+      closest_city:
+        name: Shelburne Falls
+        distance:
+          value: 9.77
+          units: km
     - region: MA
       exchange: '074912'
       name: Ashland
@@ -202,6 +252,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.796729'
       long: "-71.069543"
+      closest_city:
+        name: Fall River
+        distance:
+          value: 9.62
+          units: km
     - region: MA
       exchange: '074220'
       name: Athol
@@ -210,6 +265,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.593255'
       long: "-72.225067"
+      closest_city:
+        name: Baldwinville
+        distance:
+          value: 12.18
+          units: km
     - region: MA
       exchange: '074221'
       name: Athol (Franklin County)
@@ -218,6 +278,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.593255'
       long: "-72.225067"
+      closest_city:
+        name: Baldwinville
+        distance:
+          value: 12.18
+          units: km
     - region: MA
       exchange: '074230'
       name: Attleboro
@@ -226,6 +291,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.947655'
       long: "-71.28328"
+      closest_city:
+        name: Attleboro
+        distance:
+          value: 2.08
+          units: km
     - region: MA
       exchange: '301932'
       name: Attleboro Falls
@@ -242,6 +312,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.193214'
       long: "-71.837352"
+      closest_city:
+        name: Worcester
+        distance:
+          value: 8.93
+          units: km
     - region: MA
       exchange: '301935'
       name: Auburndale
@@ -266,6 +341,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.561545'
       long: "-71.591303"
+      closest_city:
+        name: Devens
+        distance:
+          value: 2.74
+          units: km
     - region: MA
       exchange: '301938'
       name: Babson Park
@@ -306,6 +386,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.702007'
       long: "-70.301605"
+      closest_city:
+        name: Yarmouth Port
+        distance:
+          value: 6.61
+          units: km
     - region: MA
       exchange: '074270'
       name: Barre
@@ -314,6 +399,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.419342'
       long: "-72.105363"
+      closest_city:
+        name: Baldwinville
+        distance:
+          value: 20.75
+          units: km
     - region: MA
       exchange: '301944'
       name: Barrowsville
@@ -354,6 +444,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.328788'
       long: "-73.085226"
+      closest_city:
+        name: Lenox Dale
+        distance:
+          value: 13.52
+          units: km
     - region: MA
       exchange: '075321'
       name: Bedford
@@ -370,6 +465,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.27757'
       long: "-72.401238"
+      closest_city:
+        name: West Warren
+        distance:
+          value: 15.14
+          units: km
     - region: MA
       exchange: '074300'
       name: Bellingham
@@ -378,6 +478,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.113098'
       long: "-71.473681"
+      closest_city:
+        name: Millis-Clicquot
+        distance:
+          value: 11.39
+          units: km
     - region: MA
       exchange: '074310'
       name: Belmont
@@ -386,6 +491,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.397425'
       long: "-71.174716"
+      closest_city:
+        name: Watertown Town
+        distance:
+          value: 3.06
+          units: km
     - region: MA
       exchange: '301950'
       name: Berkley
@@ -410,6 +520,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.383827'
       long: "-71.636242"
+      closest_city:
+        name: South Lancaster
+        distance:
+          value: 7.5
+          units: km
     - region: MA
       exchange: '074330'
       name: Bernardston
@@ -418,6 +533,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.671565'
       long: "-72.552352"
+      closest_city:
+        name: Turners Falls
+        distance:
+          value: 8.25
+          units: km
     - region: MA
       exchange: '074340'
       name: Beverly
@@ -426,6 +546,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.554801'
       long: "-70.878002"
+      closest_city:
+        name: Beverly
+        distance:
+          value: 1.94
+          units: km
     - region: MA
       exchange: '301952'
       name: Beverly Farms
@@ -442,6 +567,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.561335'
       long: "-71.263757"
+      closest_city:
+        name: Pinehurst
+        distance:
+          value: 3.95
+          units: km
     - region: MA
       exchange: '074360'
       name: Blackstone
@@ -450,6 +580,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.02461'
       long: "-71.491659"
+      closest_city:
+        name: Whitinsville
+        distance:
+          value: 17.72
+          units: km
     - region: MA
       exchange: '074370'
       name: Blandford
@@ -458,6 +593,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.178769'
       long: "-72.923218"
+      closest_city:
+        name: Westfield
+        distance:
+          value: 14.49
+          units: km
     - region: MA
       exchange: '074380'
       name: Bolton
@@ -466,6 +606,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.43693'
       long: "-71.617471"
+      closest_city:
+        name: South Lancaster
+        distance:
+          value: 6.12
+          units: km
     - region: MA
       exchange: '301756'
       name: Bondsville
@@ -482,6 +627,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.357889'
       long: "-71.058993"
+      closest_city:
+        name: Chelsea
+        distance:
+          value: 4.75
+          units: km
     - region: MA
       exchange: '301958'
       name: Bourne
@@ -530,6 +680,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.342768'
       long: "-71.744973"
+      closest_city:
+        name: Worcester
+        distance:
+          value: 9.56
+          units: km
     - region: MA
       exchange: '301964'
       name: Bradford
@@ -546,6 +701,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.217425'
       long: "-71.000185"
+      closest_city:
+        name: Quincy
+        distance:
+          value: 3.99
+          units: km
     - region: MA
       exchange: '301966'
       name: Brant Rock
@@ -570,6 +730,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.762755'
       long: "-70.073627"
+      closest_city:
+        name: East Harwich
+        distance:
+          value: 6.91
+          units: km
     - region: MA
       exchange: '074430'
       name: Bridgewater
@@ -578,6 +743,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.987308'
       long: "-70.977579"
+      closest_city:
+        name: Raynham Center
+        distance:
+          value: 8.14
+          units: km
     - region: MA
       exchange: '074440'
       name: Brighton
@@ -586,6 +756,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.347761'
       long: "-71.150203"
+      closest_city:
+        name: Watertown Town
+        distance:
+          value: 3.33
+          units: km
     - region: MA
       exchange: '074450'
       name: Brimfield
@@ -594,6 +769,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.123367'
       long: "-72.205218"
+      closest_city:
+        name: Fiskdale
+        distance:
+          value: 7.94
+          units: km
     - region: MA
       exchange: '074460'
       name: Brockton
@@ -602,6 +782,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.080946'
       long: "-71.016708"
+      closest_city:
+        name: Brockton
+        distance:
+          value: 0.63
+          units: km
     - region: MA
       exchange: '301971'
       name: Brookfield
@@ -618,6 +803,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.340521'
       long: "-71.118341"
+      closest_city:
+        name: Boston
+        distance:
+          value: 3.64
+          units: km
     - region: MA
       exchange: '074480'
       name: Bryantville
@@ -626,6 +816,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.042331'
       long: "-70.844701"
+      closest_city:
+        name: North Pembroke
+        distance:
+          value: 8.13
+          units: km
     - region: MA
       exchange: '301758'
       name: Buckland
@@ -642,6 +837,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.502269'
       long: "-71.193639"
+      closest_city:
+        name: Woburn
+        distance:
+          value: 3.65
+          units: km
     - region: MA
       exchange: '074500'
       name: Buzzards Bay
@@ -650,6 +850,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.751072'
       long: "-70.604666"
+      closest_city:
+        name: Buzzards Bay
+        distance:
+          value: 0.8
+          units: km
     - region: MA
       exchange: '301976'
       name: Byfield
@@ -666,6 +871,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.373054'
       long: "-71.113997"
+      closest_city:
+        name: Cambridge
+        distance:
+          value: 0.49
+          units: km
     - region: MA
       exchange: '301978'
       name: Campello
@@ -682,6 +892,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.158056'
       long: "-71.145957"
+      closest_city:
+        name: Brockton
+        distance:
+          value: 13.12
+          units: km
     - region: MA
       exchange: '301980'
       name: Carlisle
@@ -698,6 +913,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.883984'
       long: "-70.766527"
+      closest_city:
+        name: West Wareham
+        distance:
+          value: 10.49
+          units: km
     - region: MA
       exchange: '301982'
       name: Caryville
@@ -714,6 +934,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.66696'
       long: "-70.611036"
+      closest_city:
+        name: Pocasset
+        distance:
+          value: 2.41
+          units: km
     - region: MA
       exchange: '301984'
       name: Centerville
@@ -730,6 +955,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.627078'
       long: "-72.86923"
+      closest_city:
+        name: Shelburne Falls
+        distance:
+          value: 10.54
+          units: km
     - region: MA
       exchange: '074560'
       name: Charlestown
@@ -738,6 +968,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.377011'
       long: "-71.061606"
+      closest_city:
+        name: Chelsea
+        distance:
+          value: 3.18
+          units: km
     - region: MA
       exchange: '074570'
       name: Charlton
@@ -746,6 +981,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.136979'
       long: "-71.969718"
+      closest_city:
+        name: Fiskdale
+        distance:
+          value: 11.58
+          units: km
     - region: MA
       exchange: '301987'
       name: Chartley
@@ -762,6 +1002,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.683466'
       long: "-69.963605"
+      closest_city:
+        name: West Chatham
+        distance:
+          value: 2.37
+          units: km
     - region: MA
       exchange: '301989'
       name: Chatham Port
@@ -786,6 +1031,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.395243'
       long: "-71.033211"
+      closest_city:
+        name: Chelsea
+        distance:
+          value: 0.09
+          units: km
     - region: MA
       exchange: '301992'
       name: Cherry Valley
@@ -810,6 +1060,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.277551'
       long: "-72.975009"
+      closest_city:
+        name: Lenox Dale
+        distance:
+          value: 23.43
+          units: km
     - region: MA
       exchange: '074610'
       name: Chesterfield
@@ -818,6 +1073,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.390391'
       long: "-72.839086"
+      closest_city:
+        name: Northampton
+        distance:
+          value: 15.27
+          units: km
     - region: MA
       exchange: '301993'
       name: Chestnut Hill
@@ -834,6 +1094,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.147108'
       long: "-72.596366"
+      closest_city:
+        name: Chicopee
+        distance:
+          value: 3.83
+          units: km
     - region: MA
       exchange: '074630'
       name: Chilmark
@@ -842,6 +1107,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.341896'
       long: "-70.741622"
+      closest_city:
+        name: Vineyard Haven
+        distance:
+          value: 17.04
+          units: km
     - region: MA
       exchange: '301764'
       name: Clarksburg
@@ -866,6 +1136,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.415724'
       long: "-71.680645"
+      closest_city:
+        name: South Lancaster
+        distance:
+          value: 2.57
+          units: km
     - region: MA
       exchange: '301997'
       name: Cochesett
@@ -890,6 +1165,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.241542'
       long: "-70.80543"
+      closest_city:
+        name: North Scituate
+        distance:
+          value: 4.66
+          units: km
     - region: MA
       exchange: '302000'
       name: Collinsville
@@ -906,6 +1186,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.671134'
       long: "-72.703265"
+      closest_city:
+        name: Shelburne Falls
+        distance:
+          value: 7.93
+          units: km
     - region: MA
       exchange: '074670'
       name: Concord
@@ -914,6 +1199,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.458295'
       long: "-71.346597"
+      closest_city:
+        name: West Concord
+        distance:
+          value: 4.73
+          units: km
     - region: MA
       exchange: '074680'
       name: Conway
@@ -922,6 +1212,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.512978'
       long: "-72.699797"
+      closest_city:
+        name: South Deerfield
+        distance:
+          value: 9.39
+          units: km
     - region: MA
       exchange: '302002'
       name: Cordaville
@@ -962,6 +1257,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.460122'
       long: "-72.890428"
+      closest_city:
+        name: Shelburne Falls
+        distance:
+          value: 20.22
+          units: km
     - region: MA
       exchange: '301768'
       name: Cushman
@@ -973,7 +1273,7 @@ rate_centers:
     - region: MA
       exchange: '075672'
       name: Cutty Hunk (Coast Guard Station)
-      short_name:
+      short_name: Cutty Hunk (Coast Guard Station)
       lata: '128'
       ilec_name: VERIZON NEW ENGLAND INC.
       lat:
@@ -986,6 +1286,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.476072'
       long: "-73.172131"
+      closest_city:
+        name: Pittsfield
+        distance:
+          value: 7.74
+          units: km
     - region: MA
       exchange: '074710'
       name: Danvers
@@ -994,6 +1299,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.563692'
       long: "-70.932265"
+      closest_city:
+        name: Peabody
+        distance:
+          value: 4.7
+          units: km
     - region: MA
       exchange: '302007'
       name: Dartmouth
@@ -1010,6 +1320,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.245961'
       long: "-71.175756"
+      closest_city:
+        name: Newton
+        distance:
+          value: 9.9
+          units: km
     - region: MA
       exchange: '302009'
       name: Deer Island
@@ -1034,6 +1349,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.668126'
       long: "-70.188337"
+      closest_city:
+        name: South Yarmouth
+        distance:
+          value: 1.02
+          units: km
     - region: MA
       exchange: '302011'
       name: Dennisport
@@ -1058,6 +1378,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.814698'
       long: "-71.128881"
+      closest_city:
+        name: Taunton
+        distance:
+          value: 10.29
+          units: km
     - region: MA
       exchange: '302014'
       name: Dodgeville
@@ -1074,6 +1399,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.302722'
       long: "-71.064669"
+      closest_city:
+        name: Boston
+        distance:
+          value: 2.46
+          units: km
     - region: MA
       exchange: '302016'
       name: Dorchester Center
@@ -1098,6 +1428,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.24427'
       long: "-71.281189"
+      closest_city:
+        name: Millis-Clicquot
+        distance:
+          value: 10.7
+          units: km
     - region: MA
       exchange: '075362'
       name: Dracut
@@ -1146,6 +1481,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.025465'
       long: "-70.680178"
+      closest_city:
+        name: South Duxbury
+        distance:
+          value: 1.08
+          units: km
     - region: MA
       exchange: '301772'
       name: Dwight
@@ -1178,6 +1518,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.375465'
       long: "-71.03934"
+      closest_city:
+        name: Chelsea
+        distance:
+          value: 2.34
+          units: km
     - region: MA
       exchange: '302025'
       name: East Boxford
@@ -1202,6 +1547,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.027516'
       long: "-70.956751"
+      closest_city:
+        name: Brockton
+        distance:
+          value: 8.24
+          units: km
     - region: MA
       exchange: '302027'
       name: East Brookfield
@@ -1250,6 +1600,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.071474'
       long: "-71.709298"
+      closest_city:
+        name: East Douglas
+        distance:
+          value: 0.75
+          units: km
     - region: MA
       exchange: '302030'
       name: East Falmouth
@@ -1306,6 +1661,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.064067'
       long: "-72.512575"
+      closest_city:
+        name: Springfield
+        distance:
+          value: 6.14
+          units: km
     - region: MA
       exchange: '302043'
       name: East Lynn
@@ -1450,6 +1810,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.269927'
       long: "-72.66917"
+      closest_city:
+        name: Northampton
+        distance:
+          value: 6.32
+          units: km
     - region: MA
       exchange: '074830'
       name: Easton
@@ -1458,6 +1823,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.06796'
       long: "-71.102726"
+      closest_city:
+        name: Brockton
+        distance:
+          value: 6.67
+          units: km
     - region: MA
       exchange: '302049'
       name: Eastondale
@@ -1474,6 +1844,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.390961'
       long: "-70.513783"
+      closest_city:
+        name: Oak Bluffs
+        distance:
+          value: 8.34
+          units: km
     - region: MA
       exchange: '301777'
       name: Egremont
@@ -1522,6 +1897,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.632549'
       long: "-70.782084"
+      closest_city:
+        name: Gloucester
+        distance:
+          value: 7.59
+          units: km
     - region: MA
       exchange: '074860'
       name: Everett
@@ -1530,6 +1910,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.40668'
       long: "-71.052421"
+      closest_city:
+        name: Everett
+        distance:
+          value: 0.17
+          units: km
     - region: MA
       exchange: '302064'
       name: Fairhaven
@@ -1546,6 +1931,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.706503'
       long: "-71.153069"
+      closest_city:
+        name: Fall River
+        distance:
+          value: 4.35
+          units: km
     - region: MA
       exchange: '074880'
       name: Falmouth
@@ -1554,6 +1944,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.55098'
       long: "-70.613132"
+      closest_city:
+        name: Teaticket
+        distance:
+          value: 2.6
+          units: km
     - region: MA
       exchange: '301780'
       name: Farnams
@@ -1610,6 +2005,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.582888'
       long: "-71.806975"
+      closest_city:
+        name: Fitchburg
+        distance:
+          value: 1.16
+          units: km
     - region: MA
       exchange: '301782'
       name: Florence
@@ -1666,6 +2066,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.062937'
       long: "-71.251294"
+      closest_city:
+        name: Mansfield Center
+        distance:
+          value: 5.27
+          units: km
     - region: MA
       exchange: '074910'
       name: Framingham
@@ -1674,6 +2079,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.281516'
       long: "-71.423011"
+      closest_city:
+        name: Framingham
+        distance:
+          value: 3.21
+          units: km
     - region: MA
       exchange: '074920'
       name: Franklin
@@ -1682,6 +2092,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.086746'
       long: "-71.399596"
+      closest_city:
+        name: Millis-Clicquot
+        distance:
+          value: 9.45
+          units: km
     - region: MA
       exchange: '302079'
       name: Freetown
@@ -1698,6 +2113,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.576967'
       long: "-71.996575"
+      closest_city:
+        name: Gardner
+        distance:
+          value: 1.16
+          units: km
     - region: MA
       exchange: '302081'
       name: Gay Head
@@ -1714,6 +2134,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.723321'
       long: "-70.993549"
+      closest_city:
+        name: Haverhill
+        distance:
+          value: 10.18
+          units: km
     - region: MA
       exchange: '074950'
       name: Gilbertville
@@ -1722,6 +2147,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.310497'
       long: "-72.207836"
+      closest_city:
+        name: West Warren
+        distance:
+          value: 10.68
+          units: km
     - region: MA
       exchange: '301785'
       name: Gill
@@ -1754,6 +2184,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.612341'
       long: "-70.659935"
+      closest_city:
+        name: Gloucester
+        distance:
+          value: 2.87
+          units: km
     - region: MA
       exchange: '301787'
       name: Goshen
@@ -1778,6 +2213,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.208898'
       long: "-71.68558"
+      closest_city:
+        name: Whitinsville
+        distance:
+          value: 10.58
+          units: km
     - region: MA
       exchange: '074980'
       name: Granby
@@ -1786,6 +2226,11 @@ rate_centers:
       ilec_name: GRANBY TELEPHONE LLC
       lat: '42.257648'
       long: "-72.517178"
+      closest_city:
+        name: Chicopee
+        distance:
+          value: 10.1
+          units: km
     - region: MA
       exchange: '302087'
       name: Graniteville
@@ -1802,6 +2247,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.068027'
       long: "-72.860753"
+      closest_city:
+        name: Westfield
+        distance:
+          value: 11.64
+          units: km
     - region: MA
       exchange: '075000'
       name: Great Barrington
@@ -1810,6 +2260,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.192306'
       long: "-73.362135"
+      closest_city:
+        name: Housatonic
+        distance:
+          value: 6.27
+          units: km
     - region: MA
       exchange: '302088'
       name: Green Harbor
@@ -1842,6 +2297,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.589655'
       long: "-72.601366"
+      closest_city:
+        name: Turners Falls
+        distance:
+          value: 3.71
+          units: km
     - region: MA
       exchange: '302090'
       name: Greenwood
@@ -1866,6 +2326,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.608255'
       long: "-71.571472"
+      closest_city:
+        name: East Pepperell
+        distance:
+          value: 6.39
+          units: km
     - region: MA
       exchange: '302092'
       name: Grove Hall
@@ -1906,6 +2371,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.609938'
       long: "-70.872062"
+      closest_city:
+        name: Beverly
+        distance:
+          value: 4.71
+          units: km
     - region: MA
       exchange: '075040'
       name: Hampden
@@ -1914,6 +2384,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.066164'
       long: "-72.416161"
+      closest_city:
+        name: Monson Center
+        distance:
+          value: 9.89
+          units: km
     - region: MA
       exchange: '075050'
       name: Hancock
@@ -1922,6 +2397,11 @@ rate_centers:
       ilec_name: TACONIC TEL. CORP.
       lat: '42.542969'
       long: "-73.321007"
+      closest_city:
+        name: Pittsfield
+        distance:
+          value: 11.3
+          units: km
     - region: MA
       exchange: '075060'
       name: Hanover
@@ -1930,6 +2410,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.112149'
       long: "-70.814552"
+      closest_city:
+        name: North Pembroke
+        distance:
+          value: 3.04
+          units: km
     - region: MA
       exchange: '302097'
       name: Hanscom AFB
@@ -1978,6 +2463,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.500634'
       long: "-71.586922"
+      closest_city:
+        name: Devens
+        distance:
+          value: 5.32
+          units: km
     - region: MA
       exchange: '075080'
       name: Harwich
@@ -1986,6 +2476,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.685706'
       long: "-70.072844"
+      closest_city:
+        name: Harwich Center
+        distance:
+          value: 0.79
+          units: km
     - region: MA
       exchange: '302102'
       name: Harwich Port
@@ -2010,6 +2505,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.37616'
       long: "-72.602445"
+      closest_city:
+        name: Northampton
+        distance:
+          value: 8.09
+          units: km
     - region: MA
       exchange: '302104'
       name: Hathorne
@@ -2026,6 +2526,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.778347'
       long: "-71.076408"
+      closest_city:
+        name: Haverhill
+        distance:
+          value: 1.06
+          units: km
     - region: MA
       exchange: '301798'
       name: Hawley
@@ -2058,6 +2563,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.245644'
       long: "-70.88079"
+      closest_city:
+        name: North Scituate
+        distance:
+          value: 10.22
+          units: km
     - region: MA
       exchange: '075120'
       name: Hinsdale
@@ -2066,6 +2576,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.438315'
       long: "-73.125866"
+      closest_city:
+        name: Pittsfield
+        distance:
+          value: 11.15
+          units: km
     - region: MA
       exchange: '302107'
       name: Holbrook
@@ -2082,6 +2597,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.346217'
       long: "-71.860221"
+      closest_city:
+        name: Worcester
+        distance:
+          value: 9.45
+          units: km
     - region: MA
       exchange: '301802'
       name: Holland
@@ -2098,6 +2618,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.200114'
       long: "-71.433397"
+      closest_city:
+        name: Millis-Clicquot
+        distance:
+          value: 7.6
+          units: km
     - region: MA
       exchange: '075150'
       name: Holyoke
@@ -2106,6 +2631,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.203707'
       long: "-72.61433"
+      closest_city:
+        name: Holyoke
+        distance:
+          value: 2.41
+          units: km
     - region: MA
       exchange: '302110'
       name: Hopedale
@@ -2122,6 +2652,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.228602'
       long: "-71.521133"
+      closest_city:
+        name: Cordaville
+        distance:
+          value: 4.9
+          units: km
     - region: MA
       exchange: '302112'
       name: Houghs Neck
@@ -2138,6 +2673,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.253287'
       long: "-73.368307"
+      closest_city:
+        name: Housatonic
+        distance:
+          value: 0.69
+          units: km
     - region: MA
       exchange: '075180'
       name: Hubbardston
@@ -2146,6 +2686,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.479151'
       long: "-72.00835"
+      closest_city:
+        name: Gardner
+        distance:
+          value: 11.85
+          units: km
     - region: MA
       exchange: '075190'
       name: Hudson
@@ -2154,6 +2699,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.392261'
       long: "-71.571245"
+      closest_city:
+        name: Marlborough
+        distance:
+          value: 5.17
+          units: km
     - region: MA
       exchange: '075200'
       name: Hull
@@ -2162,6 +2712,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.281667'
       long: "-70.872414"
+      closest_city:
+        name: North Scituate
+        distance:
+          value: 11.74
+          units: km
     - region: MA
       exchange: '302116'
       name: Humarock
@@ -2178,6 +2733,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.234585'
       long: "-72.879578"
+      closest_city:
+        name: Westfield
+        distance:
+          value: 14.78
+          units: km
     - region: MA
       exchange: '075220'
       name: Hyannis
@@ -2186,6 +2746,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.651635'
       long: "-70.28649"
+      closest_city:
+        name: West Yarmouth
+        distance:
+          value: 3.15
+          units: km
     - region: MA
       exchange: '302118'
       name: Hyannis Port
@@ -2202,6 +2767,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.25633'
       long: "-71.124358"
+      closest_city:
+        name: Boston
+        distance:
+          value: 7.66
+          units: km
     - region: MA
       exchange: '076271'
       name: Indian Orchard
@@ -2226,6 +2796,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.67336'
       long: "-70.840609"
+      closest_city:
+        name: Beverly
+        distance:
+          value: 11.84
+          units: km
     - region: MA
       exchange: '302121'
       name: Island Creek
@@ -2250,6 +2825,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.312169'
       long: "-71.11003"
+      closest_city:
+        name: Boston
+        distance:
+          value: 2.17
+          units: km
     - region: MA
       exchange: '302124'
       name: Jefferson
@@ -2274,6 +2854,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.993296'
       long: "-70.724148"
+      closest_city:
+        name: North Plymouth
+        distance:
+          value: 3.71
+          units: km
     - region: MA
       exchange: '301816'
       name: Lake Pleasant
@@ -2322,6 +2907,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.707375'
       long: "-71.164341"
+      closest_city:
+        name: Lawrence
+        distance:
+          value: 0.81
+          units: km
     - region: MA
       exchange: '075280'
       name: Lee
@@ -2330,6 +2920,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.306803'
       long: "-73.249425"
+      closest_city:
+        name: Lenox Dale
+        distance:
+          value: 3.01
+          units: km
     - region: MA
       exchange: '301810'
       name: Leeds
@@ -2346,6 +2941,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.241983'
       long: "-71.910737"
+      closest_city:
+        name: Worcester
+        distance:
+          value: 9.04
+          units: km
     - region: MA
       exchange: '075300'
       name: Lenox
@@ -2354,6 +2954,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.355317'
       long: "-73.284285"
+      closest_city:
+        name: Lenox Dale
+        distance:
+          value: 3.71
+          units: km
     - region: MA
       exchange: '301812'
       name: Lenox Dale
@@ -2370,6 +2975,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.528357'
       long: "-71.763506"
+      closest_city:
+        name: Leominster
+        distance:
+          value: 1.07
+          units: km
     - region: MA
       exchange: '301813'
       name: Leverett
@@ -2386,6 +2996,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.447934'
       long: "-71.230289"
+      closest_city:
+        name: Hanscom AFB
+        distance:
+          value: 4.18
+          units: km
     - region: MA
       exchange: '301814'
       name: Leyden
@@ -2402,6 +3017,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.422756'
       long: "-71.306262"
+      closest_city:
+        name: Hanscom AFB
+        distance:
+          value: 4.52
+          units: km
     - region: MA
       exchange: '302135'
       name: Linwood
@@ -2426,6 +3046,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.545038'
       long: "-71.473859"
+      closest_city:
+        name: Littleton Common
+        distance:
+          value: 1.1
+          units: km
     - region: MA
       exchange: '302137'
       name: Long Island
@@ -2442,6 +3067,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.057853'
       long: "-72.581941"
+      closest_city:
+        name: Springfield
+        distance:
+          value: 7.3
+          units: km
     - region: MA
       exchange: '075360'
       name: Lowell
@@ -2450,6 +3080,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.641516'
       long: "-71.310367"
+      closest_city:
+        name: Lowell
+        distance:
+          value: 0.97
+          units: km
     - region: MA
       exchange: '302139'
       name: Lowell Junction
@@ -2466,6 +3101,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.160756'
       long: "-72.479646"
+      closest_city:
+        name: Springfield
+        distance:
+          value: 7.05
+          units: km
     - region: MA
       exchange: '075380'
       name: Lunenburg
@@ -2474,6 +3114,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.592815'
       long: "-71.724274"
+      closest_city:
+        name: Fitchburg
+        distance:
+          value: 7.48
+          units: km
     - region: MA
       exchange: '075390'
       name: Lynn
@@ -2482,6 +3127,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.465497'
       long: "-70.954435"
+      closest_city:
+        name: Lynn
+        distance:
+          value: 1.71
+          units: km
     - region: MA
       exchange: '075400'
       name: Lynnfield
@@ -2490,6 +3140,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.538988'
       long: "-71.048348"
+      closest_city:
+        name: Peabody
+        distance:
+          value: 6.24
+          units: km
     - region: MA
       exchange: '301819'
       name: Lyonsville
@@ -2514,6 +3169,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.427347'
       long: "-71.077313"
+      closest_city:
+        name: Malden
+        distance:
+          value: 1.66
+          units: km
     - region: MA
       exchange: '302145'
       name: Manchaug
@@ -2530,6 +3190,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.575819'
       long: "-70.765784"
+      closest_city:
+        name: Beverly
+        distance:
+          value: 7.98
+          units: km
     - region: MA
       exchange: '302178'
       name: Manchester By The Sea
@@ -2554,6 +3219,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.030241'
       long: "-71.215977"
+      closest_city:
+        name: Mansfield Center
+        distance:
+          value: 0.88
+          units: km
     - region: MA
       exchange: '075440'
       name: Marblehead
@@ -2562,6 +3232,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.49457'
       long: "-70.865562"
+      closest_city:
+        name: Salem
+        distance:
+          value: 3.62
+          units: km
     - region: MA
       exchange: '075450'
       name: Marion
@@ -2570,6 +3245,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.700737'
       long: "-70.763832"
+      closest_city:
+        name: Marion Center
+        distance:
+          value: 0.39
+          units: km
     - region: MA
       exchange: '075460'
       name: Marlboro
@@ -2578,6 +3258,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.346189'
       long: "-71.542519"
+      closest_city:
+        name: Marlborough
+        distance:
+          value: 0.5
+          units: km
     - region: MA
       exchange: '075470'
       name: Marshfield
@@ -2586,6 +3271,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.102914'
       long: "-70.721115"
+      closest_city:
+        name: Ocean Bluff-Brant Rock
+        distance:
+          value: 4.83
+          units: km
     - region: MA
       exchange: '302153'
       name: Marstons Mills
@@ -2634,6 +3324,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.661488'
       long: "-70.815254"
+      closest_city:
+        name: Mattapoisett Center
+        distance:
+          value: 0.98
+          units: km
     - region: MA
       exchange: '075490'
       name: Maynard
@@ -2642,6 +3337,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.433823'
       long: "-71.453569"
+      closest_city:
+        name: West Concord
+        distance:
+          value: 4.56
+          units: km
     - region: MA
       exchange: '075500'
       name: Medfield
@@ -2650,6 +3350,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.187716'
       long: "-71.304032"
+      closest_city:
+        name: Millis-Clicquot
+        distance:
+          value: 4.87
+          units: km
     - region: MA
       exchange: '075510'
       name: Medford
@@ -2658,6 +3363,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.418335'
       long: "-71.111393"
+      closest_city:
+        name: Medford
+        distance:
+          value: 0.61
+          units: km
     - region: MA
       exchange: '075520'
       name: Medway
@@ -2666,6 +3376,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.139899'
       long: "-71.420382"
+      closest_city:
+        name: Millis-Clicquot
+        distance:
+          value: 6.1
+          units: km
     - region: MA
       exchange: '302162'
       name: Megansett
@@ -2682,6 +3397,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.457017'
       long: "-71.068119"
+      closest_city:
+        name: Melrose
+        distance:
+          value: 0.76
+          units: km
     - region: MA
       exchange: '302164'
       name: Mendon
@@ -2706,6 +3426,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.832328'
       long: "-70.99931"
+      closest_city:
+        name: Haverhill
+        distance:
+          value: 8.97
+          units: km
     - region: MA
       exchange: '302167'
       name: Methuen
@@ -2722,6 +3447,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.892764'
       long: "-70.907755"
+      closest_city:
+        name: Middleborough Center
+        distance:
+          value: 1.52
+          units: km
     - region: MA
       exchange: '301820'
       name: Middlefield
@@ -2746,6 +3476,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.137964'
       long: "-71.525629"
+      closest_city:
+        name: Whitinsville
+        distance:
+          value: 12.09
+          units: km
     - region: MA
       exchange: '301821'
       name: Mill River
@@ -2770,6 +3505,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.189747'
       long: "-71.761995"
+      closest_city:
+        name: Worcester
+        distance:
+          value: 9.74
+          units: km
     - region: MA
       exchange: '075580'
       name: Millers Falls
@@ -2778,6 +3518,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.579771'
       long: "-72.49337"
+      closest_city:
+        name: Millers Falls
+        distance:
+          value: 0.1
+          units: km
     - region: MA
       exchange: '075590'
       name: Millis
@@ -2786,6 +3531,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.167353'
       long: "-71.358334"
+      closest_city:
+        name: Millis-Clicquot
+        distance:
+          value: 0.43
+          units: km
     - region: MA
       exchange: '302174'
       name: Millville
@@ -2802,6 +3552,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.270192'
       long: "-71.069021"
+      closest_city:
+        name: Quincy
+        distance:
+          value: 4.68
+          units: km
     - region: MA
       exchange: '302176'
       name: Minot
@@ -2834,6 +3589,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.719499'
       long: "-72.991161"
+      closest_city:
+        name: North Adams
+        distance:
+          value: 10.97
+          units: km
     - region: MA
       exchange: '075620'
       name: Monson
@@ -2842,6 +3602,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.103623'
       long: "-72.320923"
+      closest_city:
+        name: Monson Center
+        distance:
+          value: 1.43
+          units: km
     - region: MA
       exchange: '075630'
       name: Montague
@@ -2850,6 +3615,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.534106'
       long: "-72.534849"
+      closest_city:
+        name: Millers Falls
+        distance:
+          value: 6.1
+          units: km
     - region: MA
       exchange: '301826'
       name: Montague City
@@ -2962,6 +3732,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.282434'
       long: "-70.096537"
+      closest_city:
+        name: Madaket
+        distance:
+          value: 7.43
+          units: km
     - region: MA
       exchange: '075650'
       name: Natick
@@ -2970,6 +3745,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.284822'
       long: "-71.339761"
+      closest_city:
+        name: Cochituate
+        distance:
+          value: 5.13
+          units: km
     - region: MA
       exchange: '074881'
       name: Naushon Island
@@ -2986,6 +3766,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.280187'
       long: "-71.233371"
+      closest_city:
+        name: Newton
+        distance:
+          value: 6.07
+          units: km
     - region: MA
       exchange: '302194'
       name: Needham Heights
@@ -3010,6 +3795,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.63389'
       long: "-70.924868"
+      closest_city:
+        name: Bliss Corner
+        distance:
+          value: 3.49
+          units: km
     - region: MA
       exchange: '301833'
       name: New Boston
@@ -3066,6 +3856,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.809442'
       long: "-70.8719"
+      closest_city:
+        name: Newburyport
+        distance:
+          value: 1.34
+          units: km
     - region: MA
       exchange: '075690'
       name: Newton
@@ -3074,6 +3869,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.352987'
       long: "-71.208256"
+      closest_city:
+        name: Newton
+        distance:
+          value: 2.38
+          units: km
     - region: MA
       exchange: '302202'
       name: Newton Center
@@ -3154,6 +3954,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.695438'
       long: "-73.111615"
+      closest_city:
+        name: North Adams
+        distance:
+          value: 1.29
+          units: km
     - region: MA
       exchange: '301838'
       name: North Agawam
@@ -3186,6 +3991,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.982492'
       long: "-71.332064"
+      closest_city:
+        name: Attleboro
+        distance:
+          value: 6.48
+          units: km
     - region: MA
       exchange: '302224'
       name: North Billerica
@@ -3202,6 +4012,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.266333'
       long: "-72.081932"
+      closest_city:
+        name: West Warren
+        distance:
+          value: 13.87
+          units: km
     - region: MA
       exchange: '302207'
       name: North Cambridge
@@ -3418,6 +4233,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.574611'
       long: "-71.088588"
+      closest_city:
+        name: Peabody
+        distance:
+          value: 10.55
+          units: km
     - region: MA
       exchange: '302241'
       name: North Scituate
@@ -3450,6 +4270,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.771339'
       long: "-71.271424"
+      closest_city:
+        name: Ocean Grove
+        distance:
+          value: 7.02
+          units: km
     - region: MA
       exchange: '302237'
       name: North Truro
@@ -3506,6 +4331,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.318464'
       long: "-72.632893"
+      closest_city:
+        name: Northampton
+        distance:
+          value: 3.54
+          units: km
     - region: MA
       exchange: '075760'
       name: Northboro
@@ -3514,6 +4344,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.319375'
       long: "-71.635667"
+      closest_city:
+        name: Marlborough
+        distance:
+          value: 8.03
+          units: km
     - region: MA
       exchange: '302236'
       name: Northbridge
@@ -3530,6 +4365,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.696309'
       long: "-72.454143"
+      closest_city:
+        name: Millers Falls
+        distance:
+          value: 13.39
+          units: km
     - region: MA
       exchange: '301837'
       name: Northfield Mount Hermon
@@ -3546,6 +4386,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.964994'
       long: "-71.184909"
+      closest_city:
+        name: Norton Center
+        distance:
+          value: 0.84
+          units: km
     - region: MA
       exchange: '075790'
       name: Norwell
@@ -3554,6 +4399,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.161552'
       long: "-70.799178"
+      closest_city:
+        name: Marshfield Hills
+        distance:
+          value: 5.76
+          units: km
     - region: MA
       exchange: '075800'
       name: Norwood
@@ -3562,6 +4412,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.192289'
       long: "-71.203492"
+      closest_city:
+        name: Millis-Clicquot
+        distance:
+          value: 12.81
+          units: km
     - region: MA
       exchange: '302245'
       name: Nutting Lake
@@ -3594,6 +4449,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.353629'
       long: "-72.04232"
+      closest_city:
+        name: Worcester
+        distance:
+          value: 21.38
+          units: km
     - region: MA
       exchange: '302250'
       name: Ocean Bluff
@@ -3626,6 +4486,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.589333'
       long: "-72.308682"
+      closest_city:
+        name: Millers Falls
+        distance:
+          value: 15.09
+          units: km
     - region: MA
       exchange: '302254'
       name: Orient Heights
@@ -3642,6 +4507,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.787721'
       long: "-69.989391"
+      closest_city:
+        name: North Eastham
+        distance:
+          value: 7.38
+          units: km
     - region: MA
       exchange: '075840'
       name: Osterville
@@ -3650,6 +4520,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.625188'
       long: "-70.387678"
+      closest_city:
+        name: Mashpee Neck
+        distance:
+          value: 6.72
+          units: km
     - region: MA
       exchange: '075850'
       name: Otis
@@ -3658,6 +4533,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.19246'
       long: "-73.088664"
+      closest_city:
+        name: Lenox Dale
+        distance:
+          value: 20.56
+          units: km
     - region: MA
       exchange: '302257'
       name: Otis ANGB
@@ -3674,6 +4554,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.113103'
       long: "-71.869345"
+      closest_city:
+        name: East Douglas
+        distance:
+          value: 13.55
+          units: km
     - region: MA
       exchange: '075870'
       name: Palmer
@@ -3682,6 +4567,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.158193'
       long: "-72.325108"
+      closest_city:
+        name: Monson Center
+        distance:
+          value: 6.79
+          units: km
     - region: MA
       exchange: '302259'
       name: Paxton
@@ -3698,6 +4588,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.525448'
       long: "-70.92714"
+      closest_city:
+        name: Salem
+        distance:
+          value: 2.48
+          units: km
     - region: MA
       exchange: '301851'
       name: Pelham
@@ -3730,6 +4625,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.66563'
       long: "-71.579735"
+      closest_city:
+        name: East Pepperell
+        distance:
+          value: 1.33
+          units: km
     - region: MA
       exchange: '301852'
       name: Peru
@@ -3746,6 +4646,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.48992'
       long: "-72.18697"
+      closest_city:
+        name: Baldwinville
+        distance:
+          value: 15.63
+          units: km
     - region: MA
       exchange: '302265'
       name: Phillipston
@@ -3778,6 +4683,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.448712'
       long: "-73.256059"
+      closest_city:
+        name: Pittsfield
+        distance:
+          value: 0.49
+          units: km
     - region: MA
       exchange: '301854'
       name: Plainfield
@@ -3818,6 +4728,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.958861'
       long: "-70.667016"
+      closest_city:
+        name: North Plymouth
+        distance:
+          value: 2.38
+          units: km
     - region: MA
       exchange: '302272'
       name: Plympton
@@ -3858,6 +4773,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.448221'
       long: "-71.87546"
+      closest_city:
+        name: Leominster
+        distance:
+          value: 11.73
+          units: km
     - region: MA
       exchange: '075940'
       name: Provincetown
@@ -3866,6 +4786,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.05054'
       long: "-70.187932"
+      closest_city:
+        name: North Eastham
+        distance:
+          value: 26.98
+          units: km
     - region: MA
       exchange: '075950'
       name: Quincy
@@ -3874,6 +4799,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.255669'
       long: "-71.005393"
+      closest_city:
+        name: Quincy
+        distance:
+          value: 1.23
+          units: km
     - region: MA
       exchange: '302279'
       name: Quissett
@@ -3890,6 +4820,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.166008'
       long: "-71.041539"
+      closest_city:
+        name: Brockton
+        distance:
+          value: 9.44
+          units: km
     - region: MA
       exchange: '302281'
       name: Raynham
@@ -3914,6 +4849,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.525159'
       long: "-71.103947"
+      closest_city:
+        name: Woburn
+        distance:
+          value: 5.93
+          units: km
     - region: MA
       exchange: '302284'
       name: Readville
@@ -3930,6 +4870,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.841329'
       long: "-71.241974"
+      closest_city:
+        name: North Seekonk
+        distance:
+          value: 8.95
+          units: km
     - region: MA
       exchange: '075990'
       name: Revere
@@ -3938,6 +4883,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.406439'
       long: "-71.012671"
+      closest_city:
+        name: Revere
+        distance:
+          value: 1.56
+          units: km
     - region: MA
       exchange: '076000'
       name: Richmond
@@ -3946,6 +4896,11 @@ rate_centers:
       ilec_name: MAGNA5 RTC LLC DBA RICHMOND TELEPHONE COMPANY
       lat: '42.379693'
       long: "-73.368125"
+      closest_city:
+        name: Lenox Dale
+        distance:
+          value: 10.99
+          units: km
     - region: MA
       exchange: '302287'
       name: Rings Island
@@ -3978,6 +4933,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.780245'
       long: "-70.905572"
+      closest_city:
+        name: North Lakeville
+        distance:
+          value: 9.56
+          units: km
     - region: MA
       exchange: '076020'
       name: Rockland
@@ -3986,6 +4946,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.130544'
       long: "-70.913658"
+      closest_city:
+        name: Brockton
+        distance:
+          value: 10.59
+          units: km
     - region: MA
       exchange: '076030'
       name: Rockport
@@ -3994,6 +4959,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.66006'
       long: "-70.621824"
+      closest_city:
+        name: Gloucester
+        distance:
+          value: 6.72
+          units: km
     - region: MA
       exchange: '302293'
       name: Roslindale
@@ -4018,6 +4988,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.718932'
       long: "-70.877667"
+      closest_city:
+        name: Newburyport
+        distance:
+          value: 10.43
+          units: km
     - region: MA
       exchange: '076050'
       name: Roxbury
@@ -4026,6 +5001,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.324043'
       long: "-71.080811"
+      closest_city:
+        name: Boston
+        distance:
+          value: 0.69
+          units: km
     - region: MA
       exchange: '302296'
       name: Roxbury Crossing
@@ -4050,6 +5030,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.18797'
       long: "-72.85862"
+      closest_city:
+        name: Westfield
+        distance:
+          value: 10.1
+          units: km
     - region: MA
       exchange: '076070'
       name: Rutland
@@ -4058,6 +5043,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.374411'
       long: "-71.94833"
+      closest_city:
+        name: Worcester
+        distance:
+          value: 16.33
+          units: km
     - region: MA
       exchange: '076080'
       name: Sagamore
@@ -4066,6 +5056,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.769461'
       long: "-70.52848"
+      closest_city:
+        name: Sagamore
+        distance:
+          value: 1.68
+          units: km
     - region: MA
       exchange: '302299'
       name: Sagamore Beach
@@ -4082,6 +5077,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.51814'
       long: "-70.89522"
+      closest_city:
+        name: Salem
+        distance:
+          value: 0.81
+          units: km
     - region: MA
       exchange: '302302'
       name: Salisbury
@@ -4106,6 +5106,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.096015'
       long: "-73.081146"
+      closest_city:
+        name: Westfield
+        distance:
+          value: 27.22
+          units: km
     - region: MA
       exchange: '302304'
       name: Sandwich
@@ -4130,6 +5135,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.45171'
       long: "-71.009985"
+      closest_city:
+        name: Revere
+        distance:
+          value: 3.68
+          units: km
     - region: MA
       exchange: '302307'
       name: Saundersville
@@ -4162,6 +5172,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.200115'
       long: "-70.755943"
+      closest_city:
+        name: North Scituate
+        distance:
+          value: 1.54
+          units: km
     - region: MA
       exchange: '076130'
       name: Seekonk
@@ -4170,6 +5185,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.811172'
       long: "-71.338307"
+      closest_city:
+        name: North Seekonk
+        distance:
+          value: 8.61
+          units: km
     - region: MA
       exchange: '302311'
       name: Segreganset
@@ -4186,6 +5206,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.123512'
       long: "-71.176318"
+      closest_city:
+        name: Mansfield Center
+        distance:
+          value: 11.75
+          units: km
     - region: MA
       exchange: '301860'
       name: Shattuckville
@@ -4202,6 +5227,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.108593'
       long: "-73.356417"
+      closest_city:
+        name: Housatonic
+        distance:
+          value: 15.59
+          units: km
     - region: MA
       exchange: '301863'
       name: Shelburne
@@ -4218,6 +5248,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.603463'
       long: "-72.736668"
+      closest_city:
+        name: Shelburne Falls
+        distance:
+          value: 0.65
+          units: km
     - region: MA
       exchange: '302313'
       name: Sheldonville
@@ -4242,6 +5277,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.543904'
       long: "-71.650714"
+      closest_city:
+        name: Devens
+        distance:
+          value: 2.96
+          units: km
     - region: MA
       exchange: '302316'
       name: Shirley Center
@@ -4258,6 +5298,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.29673'
       long: "-71.716131"
+      closest_city:
+        name: Worcester
+        distance:
+          value: 8.09
+          units: km
     - region: MA
       exchange: '301864'
       name: Shutesbury
@@ -4274,6 +5319,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.262348'
       long: "-69.968436"
+      closest_city:
+        name: Siasconset
+        distance:
+          value: 0.31
+          units: km
     - region: MA
       exchange: '302319'
       name: Silver Lake
@@ -4306,6 +5356,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.387124'
       long: "-71.098283"
+      closest_city:
+        name: Somerville
+        distance:
+          value: 0.48
+          units: km
     - region: MA
       exchange: '302351'
       name: South Acton
@@ -4362,6 +5417,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.335908'
       long: "-71.05158"
+      closest_city:
+        name: Boston
+        distance:
+          value: 3.36
+          units: km
     - region: MA
       exchange: '302344'
       name: South Bridgewater
@@ -4418,6 +5478,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.476145'
       long: "-72.605275"
+      closest_city:
+        name: South Deerfield
+        distance:
+          value: 0.94
+          units: km
     - region: MA
       exchange: '302326'
       name: South Dennis
@@ -4658,6 +5723,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.073731'
       long: "-72.030445"
+      closest_city:
+        name: Fiskdale
+        distance:
+          value: 8.47
+          units: km
     - region: MA
       exchange: '301873'
       name: Southfield
@@ -4674,6 +5744,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.899041'
       long: "-71.368373"
+      closest_city:
+        name: North Seekonk
+        distance:
+          value: 3.42
+          units: km
     - region: MA
       exchange: '302356'
       name: Southville
@@ -4690,6 +5765,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.056876'
       long: "-72.770916"
+      closest_city:
+        name: Westfield
+        distance:
+          value: 9.13
+          units: km
     - region: MA
       exchange: '076260'
       name: Spencer
@@ -4698,6 +5778,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.244626'
       long: "-71.994866"
+      closest_city:
+        name: Worcester
+        distance:
+          value: 15.65
+          units: km
     - region: MA
       exchange: '076270'
       name: Springfield
@@ -4706,6 +5791,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.105278'
       long: "-72.594007"
+      closest_city:
+        name: Springfield
+        distance:
+          value: 4.64
+          units: km
     - region: MA
       exchange: '302362'
       name: Squantum
@@ -4730,6 +5820,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.438394'
       long: "-71.759085"
+      closest_city:
+        name: South Lancaster
+        distance:
+          value: 5.51
+          units: km
     - region: MA
       exchange: '302364'
       name: Still River
@@ -4746,6 +5841,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.278261'
       long: "-73.31079"
+      closest_city:
+        name: Housatonic
+        distance:
+          value: 5.38
+          units: km
     - region: MA
       exchange: '076300'
       name: Stoneham
@@ -4754,6 +5854,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.477023'
       long: "-71.101777"
+      closest_city:
+        name: Melrose
+        distance:
+          value: 4.24
+          units: km
     - region: MA
       exchange: '076310'
       name: Stoughton
@@ -4762,6 +5867,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.119617'
       long: "-71.101082"
+      closest_city:
+        name: Brockton
+        distance:
+          value: 7.59
+          units: km
     - region: MA
       exchange: '302367'
       name: Stow
@@ -4778,6 +5888,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.108291'
       long: "-72.079711"
+      closest_city:
+        name: Fiskdale
+        distance:
+          value: 2.9
+          units: km
     - region: MA
       exchange: '076330'
       name: Sudbury
@@ -4786,6 +5901,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.362915'
       long: "-71.412563"
+      closest_city:
+        name: Cochituate
+        distance:
+          value: 5.88
+          units: km
     - region: MA
       exchange: '301878'
       name: Sunderland
@@ -4834,6 +5954,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.904422'
       long: "-71.093229"
+      closest_city:
+        name: Taunton
+        distance:
+          value: 0.13
+          units: km
     - region: MA
       exchange: '302374'
       name: Teaticket
@@ -4850,6 +5975,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.605822'
       long: "-72.076282"
+      closest_city:
+        name: Baldwinville
+        distance:
+          value: 0.13
+          units: km
     - region: MA
       exchange: '075364'
       name: Tewksbury
@@ -4898,6 +6028,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.639534'
       long: "-70.95128"
+      closest_city:
+        name: Beverly
+        distance:
+          value: 10.75
+          units: km
     - region: MA
       exchange: '302379'
       name: Touisset
@@ -4914,6 +6049,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.665057'
       long: "-71.708249"
+      closest_city:
+        name: East Pepperell
+        distance:
+          value: 11.84
+          units: km
     - region: MA
       exchange: '302381'
       name: Truro
@@ -4930,6 +6070,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.606269'
       long: "-72.559676"
+      closest_city:
+        name: Turners Falls
+        distance:
+          value: 0.99
+          units: km
     - region: MA
       exchange: '076390'
       name: Tyngsboro
@@ -4938,6 +6083,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.674481'
       long: "-71.425812"
+      closest_city:
+        name: Lowell
+        distance:
+          value: 9.39
+          units: km
     - region: MA
       exchange: '301884'
       name: Tyringham
@@ -4962,6 +6112,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.170618'
       long: "-71.600749"
+      closest_city:
+        name: Whitinsville
+        distance:
+          value: 8.38
+          units: km
     - region: MA
       exchange: '076410'
       name: Uxbridge
@@ -4970,6 +6125,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.077851'
       long: "-71.631152"
+      closest_city:
+        name: Whitinsville
+        distance:
+          value: 5.13
+          units: km
     - region: MA
       exchange: '302387'
       name: Village Of Nagog Woods
@@ -4986,6 +6146,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.451882'
       long: "-70.604352"
+      closest_city:
+        name: Vineyard Haven
+        distance:
+          value: 0.63
+          units: km
     - region: MA
       exchange: '302411'
       name: Waban
@@ -5002,6 +6167,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.501636'
       long: "-71.074208"
+      closest_city:
+        name: Melrose
+        distance:
+          value: 5.27
+          units: km
     - region: MA
       exchange: '301889'
       name: Wales
@@ -5018,6 +6188,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.14363'
       long: "-71.249453"
+      closest_city:
+        name: Millis-Clicquot
+        distance:
+          value: 8.97
+          units: km
     - region: MA
       exchange: '076450'
       name: Waltham
@@ -5026,6 +6201,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.376475'
       long: "-71.237993"
+      closest_city:
+        name: Waltham
+        distance:
+          value: 1.43
+          units: km
     - region: MA
       exchange: '302415'
       name: Waquoit
@@ -5050,6 +6230,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.259312'
       long: "-72.239585"
+      closest_city:
+        name: West Warren
+        distance:
+          value: 4.73
+          units: km
     - region: MA
       exchange: '076470'
       name: Wareham
@@ -5058,6 +6243,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.75557'
       long: "-70.718787"
+      closest_city:
+        name: Wareham Center
+        distance:
+          value: 0.66
+          units: km
     - region: MA
       exchange: '076480'
       name: Warren
@@ -5066,6 +6256,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.211305'
       long: "-72.196862"
+      closest_city:
+        name: West Warren
+        distance:
+          value: 3.33
+          units: km
     - region: MA
       exchange: '302418'
       name: Warwick
@@ -5090,6 +6285,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.36774'
       long: "-71.18384"
+      closest_city:
+        name: Watertown Town
+        distance:
+          value: 0.59
+          units: km
     - region: MA
       exchange: '302420'
       name: Waterville
@@ -5114,6 +6314,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.363484'
       long: "-71.364113"
+      closest_city:
+        name: Cochituate
+        distance:
+          value: 3.87
+          units: km
     - region: MA
       exchange: '076510'
       name: Webster
@@ -5122,6 +6327,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.047904'
       long: "-71.87712"
+      closest_city:
+        name: East Douglas
+        distance:
+          value: 14.03
+          units: km
     - region: MA
       exchange: '302426'
       name: Wedgemere
@@ -5138,6 +6348,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.305841'
       long: "-71.276619"
+      closest_city:
+        name: Newton
+        distance:
+          value: 6.29
+          units: km
     - region: MA
       exchange: '302429'
       name: Wellesley Hills
@@ -5154,6 +6369,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.93889'
       long: "-70.034042"
+      closest_city:
+        name: North Eastham
+        distance:
+          value: 9.94
+          units: km
     - region: MA
       exchange: '302430'
       name: Wendell
@@ -5226,6 +6446,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.365419'
       long: "-71.783629"
+      closest_city:
+        name: Worcester
+        distance:
+          value: 10.74
+          units: km
     - region: MA
       exchange: '302391'
       name: West Brewster
@@ -5442,6 +6667,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.800457'
       long: "-70.995034"
+      closest_city:
+        name: Haverhill
+        distance:
+          value: 7.74
+          units: km
     - region: MA
       exchange: '302446'
       name: West Newton
@@ -5498,6 +6728,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.334231'
       long: "-73.369092"
+      closest_city:
+        name: Housatonic
+        distance:
+          value: 9.53
+          units: km
     - region: MA
       exchange: '302406'
       name: West Tisbury
@@ -5570,6 +6805,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.272617'
       long: "-71.615621"
+      closest_city:
+        name: Cordaville
+        distance:
+          value: 7.69
+          units: km
     - region: MA
       exchange: '302439'
       name: Westdale
@@ -5586,6 +6826,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.123008'
       long: "-72.75538"
+      closest_city:
+        name: Westfield
+        distance:
+          value: 1.69
+          units: km
     - region: MA
       exchange: '076590'
       name: Westford
@@ -5594,6 +6839,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.586715'
       long: "-71.435527"
+      closest_city:
+        name: Littleton Common
+        distance:
+          value: 6.49
+          units: km
     - region: MA
       exchange: '301898'
       name: Westhampton
@@ -5610,6 +6860,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.548784'
       long: "-71.90819"
+      closest_city:
+        name: Gardner
+        distance:
+          value: 7.56
+          units: km
     - region: MA
       exchange: '302447'
       name: Weston
@@ -5634,6 +6889,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '41.570971'
       long: "-71.07306"
+      closest_city:
+        name: North Westport
+        distance:
+          value: 9.38
+          units: km
     - region: MA
       exchange: '302450'
       name: Westport Harbor
@@ -5666,6 +6926,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.221991'
       long: "-70.939209"
+      closest_city:
+        name: Quincy
+        distance:
+          value: 7.28
+          units: km
     - region: MA
       exchange: '301902'
       name: Whately
@@ -5690,6 +6955,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.11044'
       long: "-71.6667"
+      closest_city:
+        name: Whitinsville
+        distance:
+          value: 0.49
+          units: km
     - region: MA
       exchange: '076640'
       name: Whitman
@@ -5698,6 +6968,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.080464'
       long: "-70.937618"
+      closest_city:
+        name: Brockton
+        distance:
+          value: 7.15
+          units: km
     - region: MA
       exchange: '302456'
       name: Wianno
@@ -5714,6 +6989,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.132722'
       long: "-72.431145"
+      closest_city:
+        name: Springfield
+        distance:
+          value: 9.14
+          units: km
     - region: MA
       exchange: '302457'
       name: Wilkinsonvile
@@ -5738,6 +7018,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.390715'
       long: "-72.728587"
+      closest_city:
+        name: Northampton
+        distance:
+          value: 8.4
+          units: km
     - region: MA
       exchange: '076670'
       name: Williamstown
@@ -5746,6 +7031,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.706402'
       long: "-73.202392"
+      closest_city:
+        name: North Adams
+        distance:
+          value: 7.43
+          units: km
     - region: MA
       exchange: '301907'
       name: Willimansett
@@ -5762,6 +7052,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.548884'
       long: "-71.173545"
+      closest_city:
+        name: Pinehurst
+        distance:
+          value: 5.24
+          units: km
     - region: MA
       exchange: '076690'
       name: Winchendon
@@ -5770,6 +7065,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.682433'
       long: "-72.047993"
+      closest_city:
+        name: Baldwinville
+        distance:
+          value: 8.95
+          units: km
     - region: MA
       exchange: '076700'
       name: Winchester
@@ -5778,6 +7078,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.455258'
       long: "-71.13413"
+      closest_city:
+        name: Woburn
+        distance:
+          value: 3.89
+          units: km
     - region: MA
       exchange: '301908'
       name: Windsor
@@ -5802,6 +7107,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.376526'
       long: "-70.982145"
+      closest_city:
+        name: Chelsea
+        distance:
+          value: 4.66
+          units: km
     - region: MA
       exchange: '076720'
       name: Woburn
@@ -5810,6 +7120,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.482949'
       long: "-71.151195"
+      closest_city:
+        name: Woburn
+        distance:
+          value: 0.51
+          units: km
     - region: MA
       exchange: '302466'
       name: Wollaston
@@ -5842,6 +7157,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.266932'
       long: "-71.804295"
+      closest_city:
+        name: Worcester
+        distance:
+          value: 0.5
+          units: km
     - region: MA
       exchange: '301909'
       name: Woronoco
@@ -5858,6 +7178,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.410692'
       long: "-72.935339"
+      closest_city:
+        name: Northampton
+        distance:
+          value: 23.38
+          units: km
     - region: MA
       exchange: '076750'
       name: Wrentham
@@ -5866,6 +7191,11 @@ rate_centers:
       ilec_name: VERIZON NEW ENGLAND INC.
       lat: '42.063198'
       long: "-71.330363"
+      closest_city:
+        name: Mansfield Center
+        distance:
+          value: 10.32
+          units: km
     - region: MA
       exchange: '302471'
       name: Yarmouth-Yarmouthport

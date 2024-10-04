@@ -43,6 +43,8 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "ostruct"
   spec.add_development_dependency "rubyzip"
   spec.add_development_dependency "csv"
+  spec.add_development_dependency "geocoder"
+  spec.add_development_dependency "logger"
 
   # For more information and examples about making a new gem, check out our
   # guide at: https://bundler.io/guides/creating_gem.html

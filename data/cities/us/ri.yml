@@ -1,128 +1,531 @@
 ---
 cities:
-  us:
+  US:
     RI:
     - name: Ashaway
       region: RI
       lat: '41.4260'
       long: "-71.7852"
+      closest_rate_centers:
+      - name: Westerly
+        distance:
+          value: 6.73
+          units: km
+      - name: Carolina
+        distance:
+          value: 10.82
+          units: km
+      - name: Hope Valley
+        distance:
+          value: 11.07
+          units: km
     - name: Bradford
       region: RI
       lat: '41.3944'
       long: "-71.7541"
+      closest_rate_centers:
+      - name: Westerly
+        distance:
+          value: 6.82
+          units: km
+      - name: Carolina
+        distance:
+          value: 10.3
+          units: km
+      - name: Hope Valley
+        distance:
+          value: 13.27
+          units: km
     - name: Carolina
       region: RI
       lat: '41.4625'
       long: "-71.6585"
+      closest_rate_centers:
+      - name: Carolina
+        distance:
+          value: 0.78
+          units: km
+      - name: Hope Valley
+        distance:
+          value: 6.95
+          units: km
+      - name: Narragansett
+        distance:
+          value: 14.26
+          units: km
     - name: Central Falls
       region: RI
       lat: '41.8901'
       long: "-71.3934"
+      closest_rate_centers:
+      - name: Pawtucket
+        distance:
+          value: 1.55
+          units: km
+      - name: Providence
+        distance:
+          value: 7.85
+          units: km
+      - name: Centredale
+        distance:
+          value: 8.41
+          units: km
     - name: Chepachet
       region: RI
       lat: '41.9104'
       long: "-71.6654"
+      closest_rate_centers:
+      - name: Pascoag
+        distance:
+          value: 5.86
+          units: km
+      - name: West Glocester
+        distance:
+          value: 10.46
+          units: km
+      - name: Scituate
+        distance:
+          value: 10.61
+          units: km
     - name: Clayville
       region: RI
       lat: '41.7734'
       long: "-71.6854"
+      closest_rate_centers:
+      - name: Coventry
+        distance:
+          value: 8.11
+          units: km
+      - name: Scituate
+        distance:
+          value: 10.25
+          units: km
+      - name: West Warwick
+        distance:
+          value: 15.43
+          units: km
     - name: Cranston
       region: RI
       lat: '41.7658'
       long: "-71.4858"
+      closest_rate_centers:
+      - name: West Warwick
+        distance:
+          value: 6.88
+          units: km
+      - name: Providence
+        distance:
+          value: 8.56
+          units: km
+      - name: Warwick
+        distance:
+          value: 8.95
+          units: km
     - name: Cumberland Hill
       region: RI
       lat: '41.9736'
       long: "-71.4605"
+      closest_rate_centers:
+      - name: Cumberland Hill
+        distance:
+          value: 0.3
+          units: km
+      - name: Woonsocket
+        distance:
+          value: 5.58
+          units: km
+      - name: Pawtucket
+        distance:
+          value: 12.36
+          units: km
     - name: East Providence
       region: RI
       lat: '41.8065'
       long: "-71.3565"
+      closest_rate_centers:
+      - name: Providence
+        distance:
+          value: 5.05
+          units: km
+      - name: Pawtucket
+        distance:
+          value: 8.3
+          units: km
+      - name: Warren
+        distance:
+          value: 11.17
+          units: km
     - name: Foster Center
       region: RI
       lat: '41.7898'
       long: "-71.7328"
+      closest_rate_centers:
+      - name: Coventry
+        distance:
+          value: 11.88
+          units: km
+      - name: Scituate
+        distance:
+          value: 12.7
+          units: km
+      - name: West Glocester
+        distance:
+          value: 14.88
+          units: km
     - name: Greene
       region: RI
       lat: '41.6988'
       long: "-71.7339"
+      closest_rate_centers:
+      - name: Coventry
+        distance:
+          value: 8.03
+          units: km
+      - name: West Warwick
+        distance:
+          value: 17.77
+          units: km
+      - name: Scituate
+        distance:
+          value: 19.05
+          units: km
     - name: Greenville
       region: RI
       lat: '41.8820'
       long: "-71.5549"
+      closest_rate_centers:
+      - name: Scituate
+        distance:
+          value: 6.23
+          units: km
+      - name: Centredale
+        distance:
+          value: 6.4
+          units: km
+      - name: Cumberland Hill
+        distance:
+          value: 13.13
+          units: km
     - name: Harmony
       region: RI
       lat: '41.8964'
       long: "-71.6052"
+      closest_rate_centers:
+      - name: Scituate
+        distance:
+          value: 7.17
+          units: km
+      - name: Pascoag
+        distance:
+          value: 10.33
+          units: km
+      - name: Centredale
+        distance:
+          value: 10.85
+          units: km
     - name: Harrisville
       region: RI
       lat: '41.9687'
       long: "-71.6768"
+      closest_rate_centers:
+      - name: Pascoag
+        distance:
+          value: 2.45
+          units: km
+      - name: West Glocester
+        distance:
+          value: 11.14
+          units: km
+      - name: Woonsocket
+        distance:
+          value: 14.34
+          units: km
     - name: Hope Valley
       region: RI
       lat: '41.5151'
       long: "-71.7201"
+      closest_rate_centers:
+      - name: Hope Valley
+        distance:
+          value: 0.83
+          units: km
+      - name: Carolina
+        distance:
+          value: 8.18
+          units: km
+      - name: Westerly
+        distance:
+          value: 17.99
+          units: km
     - name: Kingston
       region: RI
       lat: '41.4738'
       long: "-71.5236"
+      closest_rate_centers:
+      - name: Narragansett
+        distance:
+          value: 4.6
+          units: km
+      - name: Carolina
+        distance:
+          value: 11.68
+          units: km
+      - name: North Kingstown
+        distance:
+          value: 12.24
+          units: km
     - name: Melville
       region: RI
       lat: '41.5611'
       long: "-71.2937"
+      closest_rate_centers:
+      - name: Portsmouth
+        distance:
+          value: 6.75
+          units: km
+      - name: Newport
+        distance:
+          value: 7.9
+          units: km
+      - name: Jamestown
+        distance:
+          value: 9.47
+          units: km
     - name: Misquamicut
       region: RI
       lat: '41.3237'
       long: "-71.8220"
+      closest_rate_centers:
+      - name: Westerly
+        distance:
+          value: 5.99
+          units: km
+      - name: Carolina
+        distance:
+          value: 19.87
+          units: km
+      - name: Hope Valley
+        distance:
+          value: 22.58
+          units: km
     - name: Narragansett Pier
       region: RI
       lat: '41.4281'
       long: "-71.4668"
+      closest_rate_centers:
+      - name: Narragansett
+        distance:
+          value: 2.4
+          units: km
+      - name: Jamestown
+        distance:
+          value: 11.23
+          units: km
+      - name: Newport
+        distance:
+          value: 14.83
+          units: km
     - name: Newport
       region: RI
       lat: '41.4801'
       long: "-71.3203"
+      closest_rate_centers:
+      - name: Newport
+        distance:
+          value: 1.49
+          units: km
+      - name: Jamestown
+        distance:
+          value: 4.3
+          units: km
+      - name: Little Compton
+        distance:
+          value: 11.53
+          units: km
     - name: Newport East
       region: RI
       lat: '41.5159'
       long: "-71.2878"
+      closest_rate_centers:
+      - name: Newport
+        distance:
+          value: 3.32
+          units: km
+      - name: Jamestown
+        distance:
+          value: 6.97
+          units: km
+      - name: Little Compton
+        distance:
+          value: 8.61
+          units: km
     - name: Pascoag
       region: RI
       lat: '41.9520'
       long: "-71.7042"
+      closest_rate_centers:
+      - name: Pascoag
+        distance:
+          value: 0.52
+          units: km
+      - name: West Glocester
+        distance:
+          value: 8.25
+          units: km
+      - name: Scituate
+        distance:
+          value: 16.24
+          units: km
     - name: Pawtucket
       region: RI
       lat: '41.8744'
       long: "-71.3743"
+      closest_rate_centers:
+      - name: Pawtucket
+        distance:
+          value: 0.85
+          units: km
+      - name: Providence
+        distance:
+          value: 6.77
+          units: km
+      - name: Centredale
+        distance:
+          value: 9.36
+          units: km
     - name: Providence
       region: RI
       lat: '41.8230'
       long: "-71.4187"
+      closest_rate_centers:
+      - name: Providence
+        distance:
+          value: 0.43
+          units: km
+      - name: Centredale
+        distance:
+          value: 6.7
+          units: km
+      - name: Pawtucket
+        distance:
+          value: 6.85
+          units: km
     - name: Quonochontaug
       region: RI
       lat: '41.3447'
       long: "-71.7059"
+      closest_rate_centers:
+      - name: Westerly
+        distance:
+          value: 11.16
+          units: km
+      - name: Carolina
+        distance:
+          value: 12.91
+          units: km
+      - name: Hope Valley
+        distance:
+          value: 18.36
+          units: km
     - name: Valley Falls
       region: RI
       lat: '41.9233'
       long: "-71.3924"
+      closest_rate_centers:
+      - name: Pawtucket
+        distance:
+          value: 5.04
+          units: km
+      - name: Cumberland Hill
+        distance:
+          value: 7.98
+          units: km
+      - name: Centredale
+        distance:
+          value: 10.6
+          units: km
     - name: Warwick
       region: RI
       lat: '41.7062'
       long: "-71.4334"
+      closest_rate_centers:
+      - name: Warwick
+        distance:
+          value: 1.54
+          units: km
+      - name: Greenwich
+        distance:
+          value: 5.02
+          units: km
+      - name: West Warwick
+        distance:
+          value: 7.22
+          units: km
     - name: Watch Hill
       region: RI
       lat: '41.3157'
       long: "-71.8486"
+      closest_rate_centers:
+      - name: Westerly
+        distance:
+          value: 6.95
+          units: km
+      - name: Carolina
+        distance:
+          value: 22.05
+          units: km
+      - name: Hope Valley
+        distance:
+          value: 24.35
+          units: km
     - name: Weekapaug
       region: RI
       lat: '41.3359'
       long: "-71.7633"
+      closest_rate_centers:
+      - name: Westerly
+        distance:
+          value: 7.36
+          units: km
+      - name: Carolina
+        distance:
+          value: 15.81
+          units: km
+      - name: Hope Valley
+        distance:
+          value: 19.77
+          units: km
     - name: Woonsocket
       region: RI
       lat: '42.0010'
       long: "-71.4993"
+      closest_rate_centers:
+      - name: Woonsocket
+        distance:
+          value: 1.17
+          units: km
+      - name: Cumberland Hill
+        distance:
+          value: 4.41
+          units: km
+      - name: Centredale
+        distance:
+          value: 16.0
+          units: km
     - name: Wyoming
       region: RI
       lat: '41.5143'
       long: "-71.6903"
+      closest_rate_centers:
+      - name: Hope Valley
+        distance:
+          value: 1.98
+          units: km
+      - name: Carolina
+        distance:
+          value: 6.92
+          units: km
+      - name: Narragansett
+        distance:
+          value: 18.58
+          units: km

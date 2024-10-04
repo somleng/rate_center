@@ -1,7 +1,7 @@
 ---
 rate_centers:
-  us:
-    me:
+  US:
+    ME:
     - region: ME
       exchange: '300000'
       name: Abbot
@@ -18,6 +18,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '43.501339'
       long: "-70.95856"
+      closest_city:
+        name: Sanford
+        distance:
+          value: 18.36
+          units: km
     - region: ME
       exchange: '300002'
       name: Addison
@@ -42,6 +47,11 @@ rate_centers:
       ilec_name: UNITY TEL. CO., INC.
       lat: '44.534523'
       long: "-69.441103"
+      closest_city:
+        name: Waterville
+        distance:
+          value: 17.57
+          units: km
     - region: ME
       exchange: '300005'
       name: Alexander
@@ -82,6 +92,11 @@ rate_centers:
       ilec_name: MID-MAINE TELECOM LLC
       lat: '45.02899'
       long: "-68.723335"
+      closest_city:
+        name: Old Town
+        distance:
+          value: 8.88
+          units: km
     - region: ME
       exchange: '300010'
       name: Amherst
@@ -106,6 +121,11 @@ rate_centers:
       ilec_name: OXFORD WEST TELEPHONE COMPANY
       lat: '44.634556'
       long: "-70.749588"
+      closest_city:
+        name: Bethel
+        distance:
+          value: 25.82
+          units: km
     - region: ME
       exchange: '300013'
       name: Anson
@@ -154,6 +174,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '46.633753'
       long: "-68.405734"
+      closest_city:
+        name: Presque Isle
+        distance:
+          value: 32.47
+          units: km
     - region: ME
       exchange: '300019'
       name: Ashville
@@ -170,6 +195,11 @@ rate_centers:
       ilec_name: SOMERSET TEL. CO.
       lat: '44.92518'
       long: "-69.673602"
+      closest_city:
+        name: North Anson
+        distance:
+          value: 19.01
+          units: km
     - region: ME
       exchange: '300021'
       name: Atkinson
@@ -210,6 +240,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.313489'
       long: "-69.777531"
+      closest_city:
+        name: Hallowell
+        distance:
+          value: 3.87
+          units: km
     - region: ME
       exchange: '080850'
       name: Aurora
@@ -218,6 +253,11 @@ rate_centers:
       ilec_name: UNION RIVER TEL. CO.
       lat: '44.858738'
       long: "-68.328028"
+      closest_city:
+        name: Bradley
+        distance:
+          value: 24.12
+          units: km
     - region: ME
       exchange: '300027'
       name: Avon
@@ -266,6 +306,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.803086'
       long: "-68.767589"
+      closest_city:
+        name: Brewer
+        distance:
+          value: 3.36
+          units: km
     - region: ME
       exchange: '080870'
       name: Bar Harbor
@@ -274,6 +319,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.388082'
       long: "-68.211989"
+      closest_city:
+        name: Northeast Harbor
+        distance:
+          value: 12.26
+          units: km
     - region: ME
       exchange: '080880'
       name: Bar Mills
@@ -282,6 +332,11 @@ rate_centers:
       ilec_name: SACO RIVER TELEPHONE LLC
       lat: '43.613835'
       long: "-70.54153"
+      closest_city:
+        name: Saco
+        distance:
+          value: 10.48
+          units: km
     - region: ME
       exchange: '300035'
       name: Baring
@@ -314,6 +369,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '43.913139'
       long: "-69.824189"
+      closest_city:
+        name: Bath
+        distance:
+          value: 2.53
+          units: km
     - region: ME
       exchange: '300039'
       name: Bayville
@@ -346,6 +406,11 @@ rate_centers:
       ilec_name: UNION RIVER TEL. CO.
       lat: '44.830914'
       long: "-68.087625"
+      closest_city:
+        name: Milbridge
+        distance:
+          value: 36.49
+          units: km
     - region: ME
       exchange: '080910'
       name: Belfast
@@ -354,6 +419,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.426488'
       long: "-69.006755"
+      closest_city:
+        name: Belfast
+        distance:
+          value: 2.05
+          units: km
     - region: ME
       exchange: '080920'
       name: Belgrade
@@ -362,6 +432,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.528224'
       long: "-69.887475"
+      closest_city:
+        name: Waterville
+        distance:
+          value: 17.93
+          units: km
     - region: ME
       exchange: '300045'
       name: Belgrade Lakes
@@ -410,6 +485,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '43.260681'
       long: "-70.859851"
+      closest_city:
+        name: South Berwick
+        distance:
+          value: 6.05
+          units: km
     - region: ME
       exchange: '080940'
       name: Bethel
@@ -418,6 +498,11 @@ rate_centers:
       ilec_name: OXFORD WEST TELEPHONE COMPANY
       lat: '44.406619'
       long: "-70.794253"
+      closest_city:
+        name: Bethel
+        distance:
+          value: 0.71
+          units: km
     - region: ME
       exchange: '080950'
       name: Biddeford
@@ -426,6 +511,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '43.494044'
       long: "-70.459352"
+      closest_city:
+        name: Biddeford
+        distance:
+          value: 3.05
+          units: km
     - region: ME
       exchange: '300053'
       name: Biddeford Pool
@@ -450,6 +540,11 @@ rate_centers:
       ilec_name: SOMERSET TEL. CO.
       lat: '45.069317'
       long: "-70.328687"
+      closest_city:
+        name: Kingfield
+        distance:
+          value: 18.17
+          units: km
     - region: ME
       exchange: '080970'
       name: Bingham
@@ -458,6 +553,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '45.060764'
       long: "-69.881056"
+      closest_city:
+        name: North Anson
+        distance:
+          value: 22.21
+          units: km
     - region: ME
       exchange: '300057'
       name: Birch Harbor
@@ -506,6 +606,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.41838'
       long: "-68.59197"
+      closest_city:
+        name: Ellsworth
+        distance:
+          value: 20.27
+          units: km
     - region: ME
       exchange: '300063'
       name: Bolsters Mills
@@ -538,6 +643,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '43.854242'
       long: "-69.6282"
+      closest_city:
+        name: Bath
+        distance:
+          value: 18.8
+          units: km
     - region: ME
       exchange: '300067'
       name: Bowdoin
@@ -554,6 +664,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.011283'
       long: "-69.898393"
+      closest_city:
+        name: Bath
+        distance:
+          value: 9.94
+          units: km
     - region: ME
       exchange: '300069'
       name: Bowerbank
@@ -570,6 +685,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '45.069687'
       long: "-68.938508"
+      closest_city:
+        name: Old Town
+        distance:
+          value: 21.49
+          units: km
     - region: ME
       exchange: '300071'
       name: Bradley
@@ -586,6 +706,11 @@ rate_centers:
       ilec_name: TIDEWATER TELECOM, INC.
       lat: '43.995942'
       long: "-69.449092"
+      closest_city:
+        name: Rockland
+        distance:
+          value: 28.91
+          units: km
     - region: ME
       exchange: '080861'
       name: Brewer
@@ -610,6 +735,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.05622'
       long: "-70.700412"
+      closest_city:
+        name: South Paris
+        distance:
+          value: 23.57
+          units: km
     - region: ME
       exchange: '300076'
       name: Bristol
@@ -634,6 +764,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
       lat: '44.551607'
       long: "-69.123531"
+      closest_city:
+        name: Belfast
+        distance:
+          value: 15.54
+          units: km
     - region: ME
       exchange: '300080'
       name: Brooksville
@@ -666,6 +801,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '45.308008'
       long: "-69.034033"
+      closest_city:
+        name: Brownville Junction
+        distance:
+          value: 4.84
+          units: km
     - region: ME
       exchange: '300084'
       name: Brownville Junction
@@ -682,6 +822,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '43.914244'
       long: "-69.964305"
+      closest_city:
+        name: Bath
+        distance:
+          value: 10.63
+          units: km
     - region: ME
       exchange: '081070'
       name: Bryant Pond
@@ -690,6 +835,11 @@ rate_centers:
       ilec_name: OXFORD WEST TELEPHONE COMPANY
       lat: '44.3879'
       long: "-70.641578"
+      closest_city:
+        name: Bethel
+        distance:
+          value: 11.63
+          units: km
     - region: ME
       exchange: '081080'
       name: Buckfield
@@ -698,6 +848,11 @@ rate_centers:
       ilec_name: OXFORD COUNTY TEL. & TEL. CO.
       lat: '44.284428'
       long: "-70.356072"
+      closest_city:
+        name: Turner
+        distance:
+          value: 8.34
+          units: km
     - region: ME
       exchange: '300088'
       name: Bucks Harbor
@@ -714,6 +869,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.571658'
       long: "-68.792444"
+      closest_city:
+        name: Brewer
+        distance:
+          value: 23.99
+          units: km
     - region: ME
       exchange: '300090'
       name: Burkettville
@@ -778,6 +938,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '45.187502'
       long: "-67.276748"
+      closest_city:
+        name: Calais
+        distance:
+          value: 7.25
+          units: km
     - region: ME
       exchange: '300097'
       name: Cambridge
@@ -794,6 +959,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.209157'
       long: "-69.063103"
+      closest_city:
+        name: Rockland
+        distance:
+          value: 10.83
+          units: km
     - region: ME
       exchange: '300099'
       name: Canaan
@@ -810,6 +980,11 @@ rate_centers:
       ilec_name: OXFORD COUNTY TEL. & TEL. CO.
       lat: '44.437918'
       long: "-70.314979"
+      closest_city:
+        name: Chisholm
+        distance:
+          value: 11.42
+          units: km
     - region: ME
       exchange: '300101'
       name: Cape Cottage
@@ -874,6 +1049,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '46.859683'
       long: "-68.014226"
+      closest_city:
+        name: Caribou
+        distance:
+          value: 1.84
+          units: km
     - region: ME
       exchange: '300109'
       name: Carmel
@@ -890,6 +1070,11 @@ rate_centers:
       ilec_name: SOMERSET TEL. CO.
       lat: '45.076587'
       long: "-70.209751"
+      closest_city:
+        name: Kingfield
+        distance:
+          value: 13.75
+          units: km
     - region: ME
       exchange: '300111'
       name: Carroll
@@ -922,6 +1107,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
       lat: '43.98773'
       long: "-70.474666"
+      closest_city:
+        name: North Windham
+        distance:
+          value: 18.64
+          units: km
     - region: ME
       exchange: '081160'
       name: Castine
@@ -930,6 +1120,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.392491'
       long: "-68.794312"
+      closest_city:
+        name: Belfast
+        distance:
+          value: 19.33
+          units: km
     - region: ME
       exchange: '300115'
       name: Castle Hill
@@ -1066,6 +1261,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
       lat: '44.473164'
       long: "-69.507743"
+      closest_city:
+        name: Waterville
+        distance:
+          value: 14.58
+          units: km
     - region: ME
       exchange: '300131'
       name: Chisholm
@@ -1122,6 +1322,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.643229'
       long: "-69.502438"
+      closest_city:
+        name: Waterville
+        distance:
+          value: 16.79
+          units: km
     - region: ME
       exchange: '081190'
       name: Coburn Gore
@@ -1130,6 +1335,11 @@ rate_centers:
       ilec_name: SOMERSET TEL. CO.
       lat: '45.379222'
       long: "-70.808891"
+      closest_city:
+        name: Rangeley
+        distance:
+          value: 47.86
+          units: km
     - region: ME
       exchange: '300139'
       name: Codyville
@@ -1146,6 +1356,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.643161'
       long: "-67.767208"
+      closest_city:
+        name: Milbridge
+        distance:
+          value: 15.54
+          units: km
     - region: ME
       exchange: '300141'
       name: Columbia Falls
@@ -1202,6 +1417,11 @@ rate_centers:
       ilec_name: WEST PENOBSCOT TEL. & TEL. CO
       lat: '44.922088'
       long: "-69.260082"
+      closest_city:
+        name: Corinna
+        distance:
+          value: 0.22
+          units: km
     - region: ME
       exchange: '081220'
       name: Corinth
@@ -1210,6 +1430,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '45.001439'
       long: "-69.024197"
+      closest_city:
+        name: Corinna
+        distance:
+          value: 20.73
+          units: km
     - region: ME
       exchange: '081230'
       name: Cornish
@@ -1218,6 +1443,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '43.804827'
       long: "-70.804288"
+      closest_city:
+        name: Cornish
+        distance:
+          value: 0.62
+          units: km
     - region: ME
       exchange: '300150'
       name: Cornville
@@ -1282,6 +1512,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '43.793145'
       long: "-70.257104"
+      closest_city:
+        name: Cumberland Center
+        distance:
+          value: 0.61
+          units: km
     - region: ME
       exchange: '300159'
       name: Cumberland Center
@@ -1362,6 +1597,11 @@ rate_centers:
       ilec_name: TIDEWATER TELECOM, INC.
       lat: '44.032995'
       long: "-69.52985"
+      closest_city:
+        name: Bath
+        distance:
+          value: 26.72
+          units: km
     - region: ME
       exchange: '300170'
       name: Damariscotta Mills
@@ -1378,6 +1618,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '45.659851'
       long: "-67.867322"
+      closest_city:
+        name: Danforth
+        distance:
+          value: 0.08
+          units: km
     - region: ME
       exchange: '300172'
       name: Danville
@@ -1394,6 +1639,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.26512'
       long: "-68.909677"
+      closest_city:
+        name: Belfast
+        distance:
+          value: 20.57
+          units: km
     - region: ME
       exchange: '300174'
       name: Dayton
@@ -1442,6 +1692,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.225527'
       long: "-68.679201"
+      closest_city:
+        name: Northeast Harbor
+        distance:
+          value: 31.8
+          units: km
     - region: ME
       exchange: '300179'
       name: Deering
@@ -1458,6 +1713,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
       lat: '43.968904'
       long: "-70.80259"
+      closest_city:
+        name: Cornish
+        distance:
+          value: 18.73
+          units: km
     - region: ME
       exchange: '300182'
       name: Dennistown
@@ -1498,6 +1758,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '45.023026'
       long: "-69.288274"
+      closest_city:
+        name: Corinna
+        distance:
+          value: 11.38
+          units: km
     - region: ME
       exchange: '300187'
       name: Diamond Cove
@@ -1530,6 +1795,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.538189'
       long: "-70.454545"
+      closest_city:
+        name: Chisholm
+        distance:
+          value: 21.43
+          units: km
     - region: ME
       exchange: '300191'
       name: Dixmont
@@ -1554,6 +1824,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '45.183126'
       long: "-69.225426"
+      closest_city:
+        name: Brownville Junction
+        distance:
+          value: 22.72
+          units: km
     - region: ME
       exchange: '300194'
       name: Dresden
@@ -1602,6 +1877,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
       lat: '47.040772'
       long: "-68.597483"
+      closest_city:
+        name: Grand Isle
+        distance:
+          value: 44.62
+          units: km
     - region: ME
       exchange: '300199'
       name: East Andover
@@ -1754,6 +2034,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '45.627'
       long: "-68.575395"
+      closest_city:
+        name: Mattawamkeag
+        distance:
+          value: 21.2
+          units: km
     - region: ME
       exchange: '300211'
       name: East Moxie Township
@@ -1874,6 +2159,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
       lat: '44.448433'
       long: "-69.605391"
+      closest_city:
+        name: Waterville
+        distance:
+          value: 11.56
+          units: km
     - region: ME
       exchange: '300255'
       name: East Waterboro
@@ -1930,6 +2220,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '46.64019'
       long: "-67.914614"
+      closest_city:
+        name: Presque Isle
+        distance:
+          value: 7.6
+          units: km
     - region: ME
       exchange: '081370'
       name: Eastport
@@ -1938,6 +2233,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.904376'
       long: "-66.984154"
+      closest_city:
+        name: Eastport
+        distance:
+          value: 2.88
+          units: km
     - region: ME
       exchange: '300233'
       name: Eaton
@@ -1962,6 +2262,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.736233'
       long: "-68.628972"
+      closest_city:
+        name: Brewer
+        distance:
+          value: 9.9
+          units: km
     - region: ME
       exchange: '300237'
       name: Edgecomb
@@ -1994,6 +2299,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '43.180336'
       long: "-70.813634"
+      closest_city:
+        name: South Berwick
+        distance:
+          value: 5.92
+          units: km
     - region: ME
       exchange: '300244'
       name: Elliottsville
@@ -2010,6 +2320,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.541501'
       long: "-68.420477"
+      closest_city:
+        name: Ellsworth
+        distance:
+          value: 7.16
+          units: km
     - region: ME
       exchange: '300246'
       name: Ellsworth Falls
@@ -2034,6 +2349,11 @@ rate_centers:
       ilec_name: SOMERSET TEL. CO.
       lat: '44.931466'
       long: "-69.954445"
+      closest_city:
+        name: North Anson
+        distance:
+          value: 8.99
+          units: km
     - region: ME
       exchange: '300251'
       name: Enfield
@@ -2058,6 +2378,11 @@ rate_centers:
       ilec_name: HAMPDEN TEL. CO.
       lat: '44.808697'
       long: "-69.102446"
+      closest_city:
+        name: Corinna
+        distance:
+          value: 17.87
+          units: km
     - region: ME
       exchange: '300254'
       name: Eustis
@@ -2074,6 +2399,11 @@ rate_centers:
       ilec_name: WEST PENOBSCOT TEL. & TEL. CO
       lat: '44.969909'
       long: "-69.140696"
+      closest_city:
+        name: Corinna
+        distance:
+          value: 10.97
+          units: km
     - region: ME
       exchange: '081440'
       name: Fairfield
@@ -2082,6 +2412,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.586677'
       long: "-69.597072"
+      closest_city:
+        name: Waterville
+        distance:
+          value: 7.01
+          units: km
     - region: ME
       exchange: '300259'
       name: Fairmount
@@ -2122,6 +2457,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.672781'
       long: "-70.150289"
+      closest_city:
+        name: Chisholm
+        distance:
+          value: 20.42
+          units: km
     - region: ME
       exchange: '300264'
       name: Farmington Falls
@@ -2194,6 +2534,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '46.770851'
       long: "-67.828345"
+      closest_city:
+        name: Presque Isle
+        distance:
+          value: 15.31
+          units: km
     - region: ME
       exchange: '081470'
       name: Fort Kent
@@ -2202,6 +2547,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
       lat: '47.251612'
       long: "-68.594187"
+      closest_city:
+        name: Grand Isle
+        distance:
+          value: 33.67
+          units: km
     - region: ME
       exchange: '300272'
       name: Foxcroft
@@ -2226,6 +2576,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.588335'
       long: "-68.232875"
+      closest_city:
+        name: Ellsworth
+        distance:
+          value: 20.17
+          units: km
     - region: ME
       exchange: '081490'
       name: Freedom
@@ -2234,6 +2589,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
       lat: '44.526276'
       long: "-69.298901"
+      closest_city:
+        name: Belfast
+        distance:
+          value: 23.8
+          units: km
     - region: ME
       exchange: '300277'
       name: Freeman Township
@@ -2250,6 +2610,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '43.857269'
       long: "-70.106752"
+      closest_city:
+        name: Cousins Island
+        distance:
+          value: 10.82
+          units: km
     - region: ME
       exchange: '081510'
       name: Frenchboro
@@ -2258,6 +2623,11 @@ rate_centers:
       ilec_name: THE ISLAND TELEPHONE COMPANY
       lat: '44.118882'
       long: "-68.370825"
+      closest_city:
+        name: Northeast Harbor
+        distance:
+          value: 20.43
+          units: km
     - region: ME
       exchange: '300275'
       name: Frenchtown Township
@@ -2274,6 +2644,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '47.28257'
       long: "-68.381233"
+      closest_city:
+        name: Grand Isle
+        distance:
+          value: 17.25
+          units: km
     - region: ME
       exchange: '300281'
       name: Friendship
@@ -2306,6 +2681,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
       lat: '44.014437'
       long: "-70.980441"
+      closest_city:
+        name: Kezar Falls
+        distance:
+          value: 24.24
+          units: km
     - region: ME
       exchange: '081540'
       name: Gardiner
@@ -2314,6 +2694,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.230137'
       long: "-69.777551"
+      closest_city:
+        name: Gardiner
+        distance:
+          value: 4.5
+          units: km
     - region: ME
       exchange: '300288'
       name: Garland
@@ -2370,6 +2755,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '43.508247'
       long: "-70.582299"
+      closest_city:
+        name: Saco
+        distance:
+          value: 10.25
+          units: km
     - region: ME
       exchange: '300295'
       name: Goose Rocks Beach
@@ -2386,6 +2776,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '43.678344'
       long: "-70.441496"
+      closest_city:
+        name: Little Falls
+        distance:
+          value: 5.95
+          units: km
     - region: ME
       exchange: '300297'
       name: Gouldsboro
@@ -2410,6 +2805,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '47.304119'
       long: "-68.153082"
+      closest_city:
+        name: Grand Isle
+        distance:
+          value: 0.31
+          units: km
     - region: ME
       exchange: '300311'
       name: Grand Lake Stream
@@ -2426,6 +2826,11 @@ rate_centers:
       ilec_name: PINE TREE TELEPHONE LLC
       lat: '43.887585'
       long: "-70.336035"
+      closest_city:
+        name: North Windham
+        distance:
+          value: 10.34
+          units: km
     - region: ME
       exchange: '300314'
       name: Great Chebeague Island
@@ -2474,6 +2879,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
       lat: '44.192082'
       long: "-70.140905"
+      closest_city:
+        name: Greene
+        distance:
+          value: 0.26
+          units: km
     - region: ME
       exchange: '300305'
       name: Greenfield
@@ -2490,6 +2900,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '45.457582'
       long: "-69.603655"
+      closest_city:
+        name: Brownville Junction
+        distance:
+          value: 44.47
+          units: km
     - region: ME
       exchange: '300307'
       name: Greenville Junction
@@ -2538,6 +2953,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '45.171522'
       long: "-69.38567"
+      closest_city:
+        name: Corinna
+        distance:
+          value: 29.35
+          units: km
     - region: ME
       exchange: '300317'
       name: Hall Quarry
@@ -2578,6 +2998,11 @@ rate_centers:
       ilec_name: HAMPDEN TEL. CO.
       lat: '44.745171'
       long: "-68.840182"
+      closest_city:
+        name: Brewer
+        distance:
+          value: 9.32
+          units: km
     - region: ME
       exchange: '300321'
       name: Hancock
@@ -2610,6 +3035,11 @@ rate_centers:
       ilec_name: HARTLAND & ST. ALBANS TEL. CO.
       lat: '44.973959'
       long: "-69.54541"
+      closest_city:
+        name: Corinna
+        distance:
+          value: 22.97
+          units: km
     - region: ME
       exchange: '081640'
       name: Harpswell
@@ -2618,6 +3048,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '43.745819'
       long: "-69.990232"
+      closest_city:
+        name: Littlejohn Island
+        distance:
+          value: 11.21
+          units: km
     - region: ME
       exchange: '300326'
       name: Harrington
@@ -2634,6 +3069,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.112515'
       long: "-70.675706"
+      closest_city:
+        name: South Paris
+        distance:
+          value: 17.67
+          units: km
     - region: ME
       exchange: '300328'
       name: Hartford
@@ -2650,6 +3090,11 @@ rate_centers:
       ilec_name: HARTLAND & ST. ALBANS TEL. CO.
       lat: '44.883409'
       long: "-69.444411"
+      closest_city:
+        name: Corinna
+        distance:
+          value: 14.94
+          units: km
     - region: ME
       exchange: '300330'
       name: Haynesville
@@ -2682,6 +3127,11 @@ rate_centers:
       ilec_name: OXFORD WEST TELEPHONE COMPANY
       lat: '44.19463'
       long: "-70.404441"
+      closest_city:
+        name: South Paris
+        distance:
+          value: 8.94
+          units: km
     - region: ME
       exchange: '081680'
       name: Hermon
@@ -2690,6 +3140,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.812041'
       long: "-68.910373"
+      closest_city:
+        name: Bangor
+        distance:
+          value: 9.71
+          units: km
     - region: ME
       exchange: '300335'
       name: Hersey
@@ -2786,6 +3241,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '46.126341'
       long: "-67.843119"
+      closest_city:
+        name: Oakfield
+        distance:
+          value: 23.95
+          units: km
     - region: ME
       exchange: '300346'
       name: Howland
@@ -2858,6 +3318,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
       lat: '46.010593'
       long: "-68.27004"
+      closest_city:
+        name: Island Falls
+        distance:
+          value: 0.49
+          units: km
     - region: ME
       exchange: '300355'
       name: Isle Of Springs
@@ -2874,6 +3339,11 @@ rate_centers:
       ilec_name: THE ISLAND TELEPHONE COMPANY
       lat: '44.077921'
       long: "-68.625099"
+      closest_city:
+        name: Northeast Harbor
+        distance:
+          value: 35.82
+          units: km
     - region: ME
       exchange: '300358'
       name: Islesboro
@@ -2898,6 +3368,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '45.631541'
       long: "-70.262776"
+      closest_city:
+        name: Kingfield
+        distance:
+          value: 75.31
+          units: km
     - region: ME
       exchange: '300361'
       name: Jackson
@@ -2946,6 +3421,11 @@ rate_centers:
       ilec_name: WEST PENOBSCOT TEL. & TEL. CO
       lat: '44.664108'
       long: "-67.558753"
+      closest_city:
+        name: Jonesport
+        distance:
+          value: 15.16
+          units: km
     - region: ME
       exchange: '081740'
       name: Jonesport
@@ -2954,6 +3434,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.531443'
       long: "-67.608717"
+      closest_city:
+        name: Jonesport
+        distance:
+          value: 0.58
+          units: km
     - region: ME
       exchange: '300368'
       name: Keegan
@@ -2994,6 +3479,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '43.382595'
       long: "-70.539697"
+      closest_city:
+        name: West Kennebunk
+        distance:
+          value: 4.85
+          units: km
     - region: ME
       exchange: '300370'
       name: Kennebunk Beach
@@ -3010,6 +3500,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '43.361308'
       long: "-70.474348"
+      closest_city:
+        name: West Kennebunk
+        distance:
+          value: 10.43
+          units: km
     - region: ME
       exchange: '300375'
       name: Kents Hill
@@ -3042,6 +3537,11 @@ rate_centers:
       ilec_name: SOMERSET TEL. CO.
       lat: '44.957727'
       long: "-70.159547"
+      closest_city:
+        name: Kingfield
+        distance:
+          value: 0.06
+          units: km
     - region: ME
       exchange: '081780'
       name: Kingman
@@ -3050,6 +3550,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
       lat: '45.54761'
       long: "-68.197911"
+      closest_city:
+        name: Mattawamkeag
+        distance:
+          value: 12.48
+          units: km
     - region: ME
       exchange: '300380'
       name: Kingman Township
@@ -3074,6 +3579,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '43.085608'
       long: "-70.743343"
+      closest_city:
+        name: Kittery Point
+        distance:
+          value: 3.63
+          units: km
     - region: ME
       exchange: '300383'
       name: Kittery Point
@@ -3162,6 +3672,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '43.414285'
       long: "-70.870904"
+      closest_city:
+        name: Sanford
+        distance:
+          value: 9.24
+          units: km
     - region: ME
       exchange: '081810'
       name: Lee
@@ -3170,6 +3685,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
       lat: '45.358753'
       long: "-68.285181"
+      closest_city:
+        name: Mattawamkeag
+        distance:
+          value: 18.43
+          units: km
     - region: ME
       exchange: '081820'
       name: Leeds
@@ -3178,6 +3698,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
       lat: '44.292913'
       long: "-70.170689"
+      closest_city:
+        name: Turner
+        distance:
+          value: 7.96
+          units: km
     - region: ME
       exchange: '300396'
       name: Leeds Junction
@@ -3194,6 +3719,11 @@ rate_centers:
       ilec_name: MID-MAINE TELECOM LLC
       lat: '44.907094'
       long: "-68.928254"
+      closest_city:
+        name: Bangor
+        distance:
+          value: 13.67
+          units: km
     - region: ME
       exchange: '081840'
       name: Lewiston
@@ -3202,6 +3732,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.094321'
       long: "-70.21572"
+      closest_city:
+        name: Auburn
+        distance:
+          value: 2.86
+          units: km
     - region: ME
       exchange: '300399'
       name: Lexington Twp
@@ -3218,6 +3753,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
       lat: '44.397423'
       long: "-69.313344"
+      closest_city:
+        name: Belfast
+        distance:
+          value: 22.56
+          units: km
     - region: ME
       exchange: '300401'
       name: Lille
@@ -3242,6 +3782,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '43.686601'
       long: "-70.793692"
+      closest_city:
+        name: Lake Arrowhead
+        distance:
+          value: 5.15
+          units: km
     - region: ME
       exchange: '081870'
       name: Limestone
@@ -3250,6 +3795,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '46.911123'
       long: "-67.827624"
+      closest_city:
+        name: Caribou
+        distance:
+          value: 13.45
+          units: km
     - region: ME
       exchange: '081880'
       name: Limington
@@ -3258,6 +3808,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
       lat: '43.745579'
       long: "-70.68404"
+      closest_city:
+        name: Steep Falls
+        distance:
+          value: 6.75
+          units: km
     - region: ME
       exchange: '081890'
       name: Lincoln
@@ -3266,6 +3821,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '45.361739'
       long: "-68.507273"
+      closest_city:
+        name: Mattawamkeag
+        distance:
+          value: 21.14
+          units: km
     - region: ME
       exchange: '300407'
       name: Lincoln Center
@@ -3282,6 +3842,11 @@ rate_centers:
       ilec_name: LINCOLNVILLE TEL. CO.
       lat: '44.296403'
       long: "-69.107889"
+      closest_city:
+        name: Belfast
+        distance:
+          value: 15.8
+          units: km
     - region: ME
       exchange: '081910'
       name: Lincolnville Beach
@@ -3290,6 +3855,11 @@ rate_centers:
       ilec_name: LINCOLNVILLE TEL. CO.
       lat: '44.295247'
       long: "-69.00787"
+      closest_city:
+        name: Belfast
+        distance:
+          value: 14.88
+          units: km
     - region: ME
       exchange: '300410'
       name: Linneus
@@ -3322,6 +3892,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.001371'
       long: "-70.060105"
+      closest_city:
+        name: Lisbon Falls
+        distance:
+          value: 0.84
+          units: km
     - region: ME
       exchange: '081930'
       name: Litchfield
@@ -3330,6 +3905,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
       lat: '44.191506'
       long: "-69.941195"
+      closest_city:
+        name: Gardiner
+        distance:
+          value: 11.89
+          units: km
     - region: ME
       exchange: '300425'
       name: Little Cranberry Island
@@ -3386,6 +3966,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.474802'
       long: "-70.187063"
+      closest_city:
+        name: Chisholm
+        distance:
+          value: 1.91
+          units: km
     - region: ME
       exchange: '081950'
       name: Locke Mills
@@ -3394,6 +3979,11 @@ rate_centers:
       ilec_name: OXFORD WEST TELEPHONE COMPANY
       lat: '44.399933'
       long: "-70.702285"
+      closest_city:
+        name: Bethel
+        distance:
+          value: 6.69
+          units: km
     - region: ME
       exchange: '300421'
       name: Long Island
@@ -3418,6 +4008,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
       lat: '44.126801'
       long: "-70.890675"
+      closest_city:
+        name: Bethel
+        distance:
+          value: 31.9
+          units: km
     - region: ME
       exchange: '300423'
       name: Lowell
@@ -3442,6 +4037,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.859887'
       long: "-66.981557"
+      closest_city:
+        name: Eastport
+        distance:
+          value: 6.65
+          units: km
     - region: ME
       exchange: '300429'
       name: Ludlow
@@ -3466,6 +4066,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.715427'
       long: "-67.466372"
+      closest_city:
+        name: Jonesport
+        distance:
+          value: 23.38
+          units: km
     - region: ME
       exchange: '300432'
       name: Machiasport
@@ -3498,6 +4103,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '47.354816'
       long: "-68.328826"
+      closest_city:
+        name: Grand Isle
+        distance:
+          value: 14.15
+          units: km
     - region: ME
       exchange: '082000'
       name: Madison
@@ -3506,6 +4116,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.800872'
       long: "-69.885181"
+      closest_city:
+        name: North Anson
+        distance:
+          value: 6.8
+          units: km
     - region: ME
       exchange: '300437'
       name: Madrid
@@ -3578,6 +4193,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '46.514359'
       long: "-67.868658"
+      closest_city:
+        name: Presque Isle
+        distance:
+          value: 21.21
+          units: km
     - region: ME
       exchange: '300446'
       name: Marshfield
@@ -3610,6 +4230,11 @@ rate_centers:
       ilec_name: THE ISLAND TELEPHONE COMPANY
       lat: '43.859639'
       long: "-68.893781"
+      closest_city:
+        name: Rockland
+        distance:
+          value: 35.56
+          units: km
     - region: ME
       exchange: '300450'
       name: Mattamiscontis Township
@@ -3626,6 +4251,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
       lat: '45.518443'
       long: "-68.357895"
+      closest_city:
+        name: Mattawamkeag
+        distance:
+          value: 0.44
+          units: km
     - region: ME
       exchange: '300452'
       name: Maxfield
@@ -3650,6 +4280,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.111783'
       long: "-70.394529"
+      closest_city:
+        name: Auburn
+        distance:
+          value: 11.98
+          units: km
     - region: ME
       exchange: '300455'
       name: Meddybemps
@@ -3690,6 +4325,11 @@ rate_centers:
       ilec_name: SOMERSET TEL. CO.
       lat: '44.67607'
       long: "-69.935666"
+      closest_city:
+        name: North Anson
+        distance:
+          value: 20.83
+          units: km
     - region: ME
       exchange: '300460'
       name: Mere Point
@@ -3730,6 +4370,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.54553'
       long: "-67.892185"
+      closest_city:
+        name: Milbridge
+        distance:
+          value: 1.26
+          units: km
     - region: ME
       exchange: '300465'
       name: Milford
@@ -3746,6 +4391,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '45.652927'
       long: "-68.707618"
+      closest_city:
+        name: Mattawamkeag
+        distance:
+          value: 31.47
+          units: km
     - region: ME
       exchange: '300467'
       name: Milltown
@@ -3762,6 +4412,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '45.25298'
       long: "-68.982834"
+      closest_city:
+        name: Brownville Junction
+        distance:
+          value: 12.08
+          units: km
     - region: ME
       exchange: '300469'
       name: Milton Twp
@@ -3810,6 +4465,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
       lat: '44.236992'
       long: "-70.03709"
+      closest_city:
+        name: Greene
+        distance:
+          value: 9.86
+          units: km
     - region: ME
       exchange: '082100'
       name: Monroe
@@ -3818,6 +4478,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.611618'
       long: "-69.015183"
+      closest_city:
+        name: Belfast
+        distance:
+          value: 20.47
+          units: km
     - region: ME
       exchange: '082110'
       name: Monson
@@ -3826,6 +4491,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '45.280274'
       long: "-69.507205"
+      closest_city:
+        name: Brownville Junction
+        distance:
+          value: 36.13
+          units: km
     - region: ME
       exchange: '300477'
       name: Monticello
@@ -3874,6 +4544,11 @@ rate_centers:
       ilec_name: SOMERSET TEL. CO.
       lat: '45.284431'
       long: "-70.584565"
+      closest_city:
+        name: Rangeley
+        distance:
+          value: 35.93
+          units: km
     - region: ME
       exchange: '300483'
       name: Moro
@@ -3890,6 +4565,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
       lat: '44.422333'
       long: "-69.147438"
+      closest_city:
+        name: Belfast
+        distance:
+          value: 9.15
+          units: km
     - region: ME
       exchange: '300485'
       name: Moscow
@@ -3922,6 +4602,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
       lat: '44.499707'
       long: "-69.989238"
+      closest_city:
+        name: Chisholm
+        distance:
+          value: 16.13
+          units: km
     - region: ME
       exchange: '300486'
       name: Moxie Gore
@@ -3938,6 +4623,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
       lat: '43.969539'
       long: "-70.603623"
+      closest_city:
+        name: Steep Falls
+        distance:
+          value: 20.0
+          units: km
     - region: ME
       exchange: '300491'
       name: New Canada
@@ -3954,6 +4644,11 @@ rate_centers:
       ilec_name: PINE TREE TELEPHONE LLC
       lat: '43.961728'
       long: "-70.281597"
+      closest_city:
+        name: Auburn
+        distance:
+          value: 13.96
+          units: km
     - region: ME
       exchange: '082170'
       name: New Harbor
@@ -3962,6 +4657,11 @@ rate_centers:
       ilec_name: TIDEWATER TELECOM, INC.
       lat: '43.874262'
       long: "-69.504038"
+      closest_city:
+        name: Bath
+        distance:
+          value: 27.32
+          units: km
     - region: ME
       exchange: '300501'
       name: New Limerick
@@ -3994,6 +4694,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '46.941821'
       long: "-68.119418"
+      closest_city:
+        name: Caribou
+        distance:
+          value: 12.82
+          units: km
     - region: ME
       exchange: '082190'
       name: New Vineyard
@@ -4002,6 +4707,11 @@ rate_centers:
       ilec_name: SOMERSET TEL. CO.
       lat: '44.805899'
       long: "-70.124108"
+      closest_city:
+        name: Kingfield
+        distance:
+          value: 17.16
+          units: km
     - region: ME
       exchange: '300496'
       name: Newagen
@@ -4018,6 +4728,11 @@ rate_centers:
       ilec_name: UNITY TEL. CO., INC.
       lat: '44.709153'
       long: "-69.047243"
+      closest_city:
+        name: Bangor
+        distance:
+          value: 24.45
+          units: km
     - region: ME
       exchange: '300498'
       name: Newcastle
@@ -4042,6 +4757,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.834904'
       long: "-69.274513"
+      closest_city:
+        name: Corinna
+        distance:
+          value: 9.76
+          units: km
     - region: ME
       exchange: '300503'
       name: Newry
@@ -4074,6 +4794,11 @@ rate_centers:
       ilec_name: SOMERSET TEL. CO.
       lat: '44.713519'
       long: "-69.788751"
+      closest_city:
+        name: North Anson
+        distance:
+          value: 18.55
+          units: km
     - region: ME
       exchange: '300541'
       name: North Amity
@@ -4090,6 +4815,11 @@ rate_centers:
       ilec_name: SOMERSET TEL. CO.
       lat: '44.854762'
       long: "-69.895608"
+      closest_city:
+        name: North Anson
+        distance:
+          value: 0.75
+          units: km
     - region: ME
       exchange: '300506'
       name: North Baldwin
@@ -4122,6 +4852,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '43.304797'
       long: "-70.735817"
+      closest_city:
+        name: South Berwick
+        distance:
+          value: 9.45
+          units: km
     - region: ME
       exchange: '300526'
       name: North Bridgton
@@ -4202,6 +4937,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
       lat: '44.120556'
       long: "-70.980601"
+      closest_city:
+        name: Bethel
+        distance:
+          value: 35.09
+          units: km
     - region: ME
       exchange: '300511'
       name: North Gorham
@@ -4258,6 +4998,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
       lat: '44.174917'
       long: "-70.892289"
+      closest_city:
+        name: Bethel
+        distance:
+          value: 26.81
+          units: km
     - region: ME
       exchange: '300547'
       name: North Lubec
@@ -4282,6 +5027,11 @@ rate_centers:
       ilec_name: SOMERSET TEL. CO.
       lat: '44.924238'
       long: "-70.022558"
+      closest_city:
+        name: Kingfield
+        distance:
+          value: 11.4
+          units: km
     - region: ME
       exchange: '300535'
       name: North Newcastle
@@ -4306,6 +5056,11 @@ rate_centers:
       ilec_name: OXFORD WEST TELEPHONE COMPANY
       lat: '44.26043'
       long: "-70.625908"
+      closest_city:
+        name: South Paris
+        distance:
+          value: 10.23
+          units: km
     - region: ME
       exchange: '300536'
       name: North Orrington
@@ -4378,6 +5133,11 @@ rate_centers:
       ilec_name: OXFORD COUNTY TEL. & TEL. CO.
       lat: '44.278552'
       long: "-70.246293"
+      closest_city:
+        name: Turner
+        distance:
+          value: 2.46
+          units: km
     - region: ME
       exchange: '300555'
       name: North Vassalboro
@@ -4426,6 +5186,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.222033'
       long: "-69.586068"
+      closest_city:
+        name: Gardiner
+        distance:
+          value: 16.78
+          units: km
     - region: ME
       exchange: '300522'
       name: North Windham
@@ -4450,6 +5215,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.304647'
       long: "-68.291387"
+      closest_city:
+        name: Northeast Harbor
+        distance:
+          value: 1.23
+          units: km
     - region: ME
       exchange: '300558'
       name: Northern Maine Junction
@@ -4482,6 +5252,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.209018'
       long: "-70.528758"
+      closest_city:
+        name: South Paris
+        distance:
+          value: 1.78
+          units: km
     - region: ME
       exchange: '300559'
       name: Oakfield
@@ -4498,6 +5273,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.544653'
       long: "-69.715873"
+      closest_city:
+        name: Waterville
+        distance:
+          value: 4.24
+          units: km
     - region: ME
       exchange: '300561'
       name: Ocean Park
@@ -4538,6 +5318,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '43.518492'
       long: "-70.381556"
+      closest_city:
+        name: Dunstan
+        distance:
+          value: 5.65
+          units: km
     - region: ME
       exchange: '082340'
       name: Old Town
@@ -4546,6 +5331,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.933574'
       long: "-68.646134"
+      closest_city:
+        name: Bradley
+        distance:
+          value: 2.87
+          units: km
     - region: ME
       exchange: '082341'
       name: Old Town Rural
@@ -4554,6 +5344,11 @@ rate_centers:
       ilec_name: MID-MAINE TELECOM LLC
       lat: '45.123725'
       long: "-68.611908"
+      closest_city:
+        name: Old Town
+        distance:
+          value: 21.35
+          units: km
     - region: ME
       exchange: '300568'
       name: Onawa
@@ -4602,6 +5397,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.884312'
       long: "-68.673958"
+      closest_city:
+        name: Bradley
+        distance:
+          value: 5.01
+          units: km
     - region: ME
       exchange: '082360'
       name: Orrington
@@ -4610,6 +5410,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.729928'
       long: "-68.825075"
+      closest_city:
+        name: Brewer
+        distance:
+          value: 9.27
+          units: km
     - region: ME
       exchange: '300575'
       name: Orrs Island
@@ -4634,6 +5439,11 @@ rate_centers:
       ilec_name: UNION RIVER TEL. CO.
       lat: '44.697647'
       long: "-68.429086"
+      closest_city:
+        name: Ellsworth
+        distance:
+          value: 13.38
+          units: km
     - region: ME
       exchange: '300578'
       name: Otisfield
@@ -4674,6 +5484,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.127938'
       long: "-70.491686"
+      closest_city:
+        name: South Paris
+        distance:
+          value: 10.25
+          units: km
     - region: ME
       exchange: '082390'
       name: Palermo
@@ -4682,6 +5497,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
       lat: '44.408052'
       long: "-69.469147"
+      closest_city:
+        name: Waterville
+        distance:
+          value: 21.54
+          units: km
     - region: ME
       exchange: '300584'
       name: Palmyra
@@ -4746,6 +5566,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
       lat: '45.99675'
       long: "-68.446598"
+      closest_city:
+        name: Patten
+        distance:
+          value: 0.89
+          units: km
     - region: ME
       exchange: '082463'
       name: Peaks Island
@@ -4794,6 +5619,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.945755'
       long: "-67.174562"
+      closest_city:
+        name: Eastport
+        distance:
+          value: 12.81
+          units: km
     - region: ME
       exchange: '300597'
       name: Penobscot
@@ -4850,6 +5680,11 @@ rate_centers:
       ilec_name: SOMERSET TEL. CO.
       lat: '44.82489'
       long: "-70.337233"
+      closest_city:
+        name: Kingfield
+        distance:
+          value: 20.41
+          units: km
     - region: ME
       exchange: '080892'
       name: Phippsburg
@@ -4882,6 +5717,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.784465'
       long: "-69.379489"
+      closest_city:
+        name: Corinna
+        distance:
+          value: 17.87
+          units: km
     - region: ME
       exchange: '300608'
       name: Pittston
@@ -4922,6 +5762,11 @@ rate_centers:
       ilec_name: MID-MAINE TELECOM LLC
       lat: '44.767736'
       long: "-69.212997"
+      closest_city:
+        name: Corinna
+        distance:
+          value: 17.63
+          units: km
     - region: ME
       exchange: '082450'
       name: Poland
@@ -4930,6 +5775,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
       lat: '44.063696'
       long: "-70.3933"
+      closest_city:
+        name: Auburn
+        distance:
+          value: 11.76
+          units: km
     - region: ME
       exchange: '300614'
       name: Poland Spring
@@ -4986,6 +5836,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '43.654696'
       long: "-70.263156"
+      closest_city:
+        name: Portland
+        distance:
+          value: 2.6
+          units: km
     - region: ME
       exchange: '082470'
       name: Pownal
@@ -4994,6 +5849,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '43.89678'
       long: "-70.192614"
+      closest_city:
+        name: Cumberland Center
+        distance:
+          value: 12.02
+          units: km
     - region: ME
       exchange: '300622'
       name: Prentiss
@@ -5010,6 +5870,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '46.681198'
       long: "-68.011879"
+      closest_city:
+        name: Presque Isle
+        distance:
+          value: 1.97
+          units: km
     - region: ME
       exchange: '082490'
       name: Princeton
@@ -5018,6 +5883,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '45.221436'
       long: "-67.573757"
+      closest_city:
+        name: Calais
+        distance:
+          value: 29.09
+          units: km
     - region: ME
       exchange: '300626'
       name: Prospect
@@ -5066,6 +5936,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.96279'
       long: "-70.642935"
+      closest_city:
+        name: Rangeley
+        distance:
+          value: 0.34
+          units: km
     - region: ME
       exchange: '082510'
       name: Raymond
@@ -5074,6 +5949,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
       lat: '43.901398'
       long: "-70.468688"
+      closest_city:
+        name: North Windham
+        distance:
+          value: 9.24
+          units: km
     - region: ME
       exchange: '082520'
       name: Readfield
@@ -5082,6 +5962,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.385564'
       long: "-69.967405"
+      closest_city:
+        name: Hallowell
+        distance:
+          value: 16.14
+          units: km
     - region: ME
       exchange: '300634'
       name: Red Beach
@@ -5098,6 +5983,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.090761'
       long: "-69.803107"
+      closest_city:
+        name: Gardiner
+        distance:
+          value: 11.18
+          units: km
     - region: ME
       exchange: '300636'
       name: Ridlonville
@@ -5146,6 +6036,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.107344'
       long: "-69.112062"
+      closest_city:
+        name: Rockland
+        distance:
+          value: 2.98
+          units: km
     - region: ME
       exchange: '300642'
       name: Rockport
@@ -5162,6 +6057,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '45.67742'
       long: "-69.742058"
+      closest_city:
+        name: Brownville Junction
+        distance:
+          value: 64.78
+          units: km
     - region: ME
       exchange: '082560'
       name: Rome
@@ -5170,6 +6070,11 @@ rate_centers:
       ilec_name: SOMERSET TEL. CO.
       lat: '44.58717'
       long: "-69.866529"
+      closest_city:
+        name: Waterville
+        distance:
+          value: 16.87
+          units: km
     - region: ME
       exchange: '300645'
       name: Roque Bluffs
@@ -5202,6 +6107,11 @@ rate_centers:
       ilec_name: OXFORD WEST TELEPHONE COMPANY
       lat: '44.642246'
       long: "-70.681917"
+      closest_city:
+        name: Bethel
+        distance:
+          value: 27.78
+          units: km
     - region: ME
       exchange: '082580'
       name: Rumford
@@ -5210,6 +6120,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.545089'
       long: "-70.546694"
+      closest_city:
+        name: Bethel
+        distance:
+          value: 24.66
+          units: km
     - region: ME
       exchange: '300650'
       name: Rumford Center
@@ -5234,6 +6149,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.120204'
       long: "-70.109961"
+      closest_city:
+        name: Sabattus
+        distance:
+          value: 0.25
+          units: km
     - region: ME
       exchange: '300653'
       name: Saco
@@ -5290,6 +6210,11 @@ rate_centers:
       ilec_name: SOMERSET TEL. CO.
       lat: '44.902975'
       long: "-70.268204"
+      closest_city:
+        name: Kingfield
+        distance:
+          value: 10.55
+          units: km
     - region: ME
       exchange: '300655'
       name: Salmon Falls
@@ -5330,6 +6255,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '43.44028'
       long: "-70.775607"
+      closest_city:
+        name: Sanford
+        distance:
+          value: 2.3
+          units: km
     - region: ME
       exchange: '300660'
       name: Sangerville
@@ -5354,6 +6284,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '43.592112'
       long: "-70.33658"
+      closest_city:
+        name: Dunstan
+        distance:
+          value: 4.9
+          units: km
     - region: ME
       exchange: '300663'
       name: Schoodic
@@ -5394,6 +6329,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.459092'
       long: "-68.932447"
+      closest_city:
+        name: Belfast
+        distance:
+          value: 8.67
+          units: km
     - region: ME
       exchange: '082640'
       name: Sebago
@@ -5402,6 +6342,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
       lat: '43.857574'
       long: "-70.643942"
+      closest_city:
+        name: Steep Falls
+        distance:
+          value: 7.57
+          units: km
     - region: ME
       exchange: '300669'
       name: Sebago Lake
@@ -5466,6 +6411,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.308415'
       long: "-68.618582"
+      closest_city:
+        name: Northeast Harbor
+        distance:
+          value: 26.09
+          units: km
     - region: ME
       exchange: '300677'
       name: Shapleigh
@@ -5490,6 +6440,11 @@ rate_centers:
       ilec_name: TIDEWATER TELECOM, INC.
       lat: '44.047964'
       long: "-69.603823"
+      closest_city:
+        name: Gardiner
+        distance:
+          value: 21.88
+          units: km
     - region: ME
       exchange: '300680'
       name: Sheridan
@@ -5514,6 +6469,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
       lat: '45.87484'
       long: "-68.385761"
+      closest_city:
+        name: Patten
+        distance:
+          value: 15.05
+          units: km
     - region: ME
       exchange: '300683'
       name: Sherman Station
@@ -5538,6 +6498,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
       lat: '44.423909'
       long: "-69.753076"
+      closest_city:
+        name: Augusta
+        distance:
+          value: 10.13
+          units: km
     - region: ME
       exchange: '300686'
       name: Silver Ridge
@@ -5578,6 +6543,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.768668'
       long: "-69.721371"
+      closest_city:
+        name: North Anson
+        distance:
+          value: 17.3
+          units: km
     - region: ME
       exchange: '082700'
       name: Smithfield
@@ -5586,6 +6556,11 @@ rate_centers:
       ilec_name: SOMERSET TEL. CO.
       lat: '44.628056'
       long: "-69.825284"
+      closest_city:
+        name: Waterville
+        distance:
+          value: 15.92
+          units: km
     - region: ME
       exchange: '082710'
       name: Smyrna Mills
@@ -5594,6 +6569,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
       lat: '46.129708'
       long: "-68.166505"
+      closest_city:
+        name: Oakfield
+        distance:
+          value: 3.28
+          units: km
     - region: ME
       exchange: '300710'
       name: Soldier Pond
@@ -5626,6 +6606,11 @@ rate_centers:
       ilec_name: SOMERSET TEL. CO.
       lat: '44.950061'
       long: "-69.855381"
+      closest_city:
+        name: North Anson
+        distance:
+          value: 10.4
+          units: km
     - region: ME
       exchange: '300714'
       name: Somerville
@@ -5674,6 +6659,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '43.235453'
       long: "-70.807384"
+      closest_city:
+        name: South Berwick
+        distance:
+          value: 0.97
+          units: km
     - region: ME
       exchange: '300696'
       name: South Brewer
@@ -5690,6 +6680,11 @@ rate_centers:
       ilec_name: TIDEWATER TELECOM, INC.
       lat: '43.858419'
       long: "-69.556483"
+      closest_city:
+        name: Bath
+        distance:
+          value: 23.84
+          units: km
     - region: ME
       exchange: '300704'
       name: South Brooksville
@@ -5714,6 +6709,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
       lat: '44.396086'
       long: "-69.568028"
+      closest_city:
+        name: Augusta
+        distance:
+          value: 14.74
+          units: km
     - region: ME
       exchange: '300726'
       name: South Eliot
@@ -5786,6 +6786,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '43.338481'
       long: "-70.94165"
+      closest_city:
+        name: South Berwick
+        distance:
+          value: 16.68
+          units: km
     - region: ME
       exchange: '300728'
       name: South Leeds
@@ -5906,6 +6911,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.283898'
       long: "-68.325953"
+      closest_city:
+        name: Northeast Harbor
+        distance:
+          value: 2.95
+          units: km
     - region: ME
       exchange: '300732'
       name: Spaulding
@@ -5954,6 +6964,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
       lat: '47.168551'
       long: "-68.893547"
+      closest_city:
+        name: Grand Isle
+        distance:
+          value: 57.81
+          units: km
     - region: ME
       exchange: '300743'
       name: Stacyville
@@ -5970,6 +6985,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
       lat: '43.738412'
       long: "-70.552457"
+      closest_city:
+        name: Steep Falls
+        distance:
+          value: 8.36
+          units: km
     - region: ME
       exchange: '300745'
       name: Starks
@@ -5986,6 +7006,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
       lat: '43.793233'
       long: "-70.64493"
+      closest_city:
+        name: Steep Falls
+        distance:
+          value: 1.43
+          units: km
     - region: ME
       exchange: '082810'
       name: Stetson
@@ -5994,6 +7019,11 @@ rate_centers:
       ilec_name: WEST PENOBSCOT TEL. & TEL. CO
       lat: '44.889598'
       long: "-69.146822"
+      closest_city:
+        name: Corinna
+        distance:
+          value: 9.83
+          units: km
     - region: ME
       exchange: '300748'
       name: Steuben
@@ -6026,6 +7056,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
       lat: '44.49164'
       long: "-68.858051"
+      closest_city:
+        name: Belfast
+        distance:
+          value: 15.55
+          units: km
     - region: ME
       exchange: '300752'
       name: Stoneham
@@ -6058,6 +7093,11 @@ rate_centers:
       ilec_name: SOMERSET TEL. CO.
       lat: '45.142446'
       long: "-70.443171"
+      closest_city:
+        name: Rangeley
+        distance:
+          value: 25.46
+          units: km
     - region: ME
       exchange: '082840'
       name: Strong
@@ -6066,6 +7106,11 @@ rate_centers:
       ilec_name: SOMERSET TEL. CO.
       lat: '44.809629'
       long: "-70.220818"
+      closest_city:
+        name: Kingfield
+        distance:
+          value: 17.22
+          units: km
     - region: ME
       exchange: '300757'
       name: Stroudwater
@@ -6090,6 +7135,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.530657'
       long: "-68.237295"
+      closest_city:
+        name: Ellsworth
+        distance:
+          value: 20.71
+          units: km
     - region: ME
       exchange: '082860'
       name: Sumner
@@ -6098,6 +7148,11 @@ rate_centers:
       ilec_name: OXFORD COUNTY TEL. & TEL. CO.
       lat: '44.35685'
       long: "-70.378297"
+      closest_city:
+        name: Turner
+        distance:
+          value: 14.57
+          units: km
     - region: ME
       exchange: '300761'
       name: Sunset
@@ -6122,6 +7177,11 @@ rate_centers:
       ilec_name: THE ISLAND TELEPHONE COMPANY
       lat: '44.163862'
       long: "-68.433557"
+      closest_city:
+        name: Northeast Harbor
+        distance:
+          value: 18.34
+          units: km
     - region: ME
       exchange: '300764'
       name: Swanville
@@ -6170,6 +7230,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '43.967782'
       long: "-69.206722"
+      closest_city:
+        name: Rockland
+        distance:
+          value: 18.61
+          units: km
     - region: ME
       exchange: '082890'
       name: The Forks
@@ -6178,6 +7243,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '45.337925'
       long: "-69.966213"
+      closest_city:
+        name: Kingfield
+        distance:
+          value: 44.85
+          units: km
     - region: ME
       exchange: '082900'
       name: Thomaston
@@ -6186,6 +7256,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.078001'
       long: "-69.181578"
+      closest_city:
+        name: Rockland
+        distance:
+          value: 6.55
+          units: km
     - region: ME
       exchange: '082910'
       name: Thorndike
@@ -6194,6 +7269,11 @@ rate_centers:
       ilec_name: UNITY TEL. CO., INC.
       lat: '44.578693'
       long: "-69.276736"
+      closest_city:
+        name: Belfast
+        distance:
+          value: 25.62
+          units: km
     - region: ME
       exchange: '300773'
       name: Tomhegan Township
@@ -6266,6 +7346,11 @@ rate_centers:
       ilec_name: OXFORD COUNTY TEL. & TEL. CO.
       lat: '44.278552'
       long: "-70.246293"
+      closest_city:
+        name: Turner
+        distance:
+          value: 2.46
+          units: km
     - region: ME
       exchange: '082930'
       name: Union
@@ -6274,6 +7359,11 @@ rate_centers:
       ilec_name: TIDEWATER TELECOM, INC.
       lat: '44.213707'
       long: "-69.276709"
+      closest_city:
+        name: Rockland
+        distance:
+          value: 14.71
+          units: km
     - region: ME
       exchange: '082940'
       name: Unity
@@ -6282,6 +7372,11 @@ rate_centers:
       ilec_name: UNITY TEL. CO., INC.
       lat: '44.613972'
       long: "-69.335026"
+      closest_city:
+        name: Waterville
+        distance:
+          value: 27.07
+          units: km
     - region: ME
       exchange: '300784'
       name: Upper Frenchville
@@ -6306,6 +7401,11 @@ rate_centers:
       ilec_name: OXFORD WEST TELEPHONE COMPANY
       lat: '44.693877'
       long: "-71.013389"
+      closest_city:
+        name: Bethel
+        distance:
+          value: 36.94
+          units: km
     - region: ME
       exchange: '082960'
       name: Van Buren
@@ -6314,6 +7414,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '47.156136'
       long: "-67.928582"
+      closest_city:
+        name: Grand Isle
+        distance:
+          value: 23.92
+          units: km
     - region: ME
       exchange: '082970'
       name: Vanceboro
@@ -6322,6 +7427,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '45.564472'
       long: "-67.429508"
+      closest_city:
+        name: Vanceboro
+        distance:
+          value: 0.33
+          units: km
     - region: ME
       exchange: '300789'
       name: Vassalboro
@@ -6362,6 +7472,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.048451'
       long: "-68.830416"
+      closest_city:
+        name: Rockland
+        distance:
+          value: 26.0
+          units: km
     - region: ME
       exchange: '300810'
       name: Wade
@@ -6394,6 +7509,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.096034'
       long: "-69.378033"
+      closest_city:
+        name: Rockland
+        distance:
+          value: 19.56
+          units: km
     - region: ME
       exchange: '300814'
       name: Wales
@@ -6434,6 +7554,11 @@ rate_centers:
       ilec_name: WARREN TEL. CO.
       lat: '44.119649'
       long: "-69.240065"
+      closest_city:
+        name: Rockland
+        distance:
+          value: 8.28
+          units: km
     - region: ME
       exchange: '083010'
       name: Washburn
@@ -6442,6 +7567,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '46.790302'
       long: "-68.161317"
+      closest_city:
+        name: Caribou
+        distance:
+          value: 15.4
+          units: km
     - region: ME
       exchange: '083020'
       name: Washington
@@ -6450,6 +7580,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
       lat: '44.272441'
       long: "-69.373422"
+      closest_city:
+        name: Rockland
+        distance:
+          value: 24.81
+          units: km
     - region: ME
       exchange: '083030'
       name: Waterboro
@@ -6458,6 +7593,11 @@ rate_centers:
       ilec_name: SACO RIVER TELEPHONE LLC
       lat: '43.53795'
       long: "-70.711778"
+      closest_city:
+        name: Sanford
+        distance:
+          value: 13.15
+          units: km
     - region: ME
       exchange: '300822'
       name: Waterford
@@ -6474,6 +7614,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.552769'
       long: "-69.630035"
+      closest_city:
+        name: Waterville
+        distance:
+          value: 2.74
+          units: km
     - region: ME
       exchange: '300824'
       name: Wayne
@@ -6506,6 +7651,11 @@ rate_centers:
       ilec_name: SOMERSET TEL. CO.
       lat: '44.700986'
       long: "-70.418976"
+      closest_city:
+        name: Chisholm
+        distance:
+          value: 29.4
+          units: km
     - region: ME
       exchange: '300828'
       name: Wellington
@@ -6522,6 +7672,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '43.272282'
       long: "-70.601945"
+      closest_city:
+        name: Cape Neddick
+        distance:
+          value: 11.42
+          units: km
     - region: ME
       exchange: '300830'
       name: Wells Beach
@@ -6570,6 +7725,11 @@ rate_centers:
       ilec_name: OXFORD WEST TELEPHONE COMPANY
       lat: '44.405213'
       long: "-70.862436"
+      closest_city:
+        name: Bethel
+        distance:
+          value: 6.05
+          units: km
     - region: ME
       exchange: '300798'
       name: West Boothbay Harbor
@@ -6602,6 +7762,11 @@ rate_centers:
       ilec_name: SACO RIVER TELEPHONE LLC
       lat: '43.613835'
       long: "-70.54153"
+      closest_city:
+        name: Saco
+        distance:
+          value: 10.48
+          units: km
     - region: ME
       exchange: '083080'
       name: West Enfield
@@ -6610,6 +7775,11 @@ rate_centers:
       ilec_name: MID-MAINE TELECOM LLC
       lat: '45.237026'
       long: "-68.649212"
+      closest_city:
+        name: Old Town
+        distance:
+          value: 32.56
+          units: km
     - region: ME
       exchange: '300800'
       name: West Falmouth
@@ -6642,6 +7812,11 @@ rate_centers:
       ilec_name: COBBOSSEECONTEE TEL. CO.
       lat: '44.246814'
       long: "-69.87472"
+      closest_city:
+        name: Hallowell
+        distance:
+          value: 6.85
+          units: km
     - region: ME
       exchange: '300802'
       name: West Gouldsboro
@@ -6658,6 +7833,11 @@ rate_centers:
       ilec_name: PINE TREE TELEPHONE LLC
       lat: '43.877131'
       long: "-70.398"
+      closest_city:
+        name: North Windham
+        distance:
+          value: 6.49
+          units: km
     - region: ME
       exchange: '300868'
       name: West Jonesport
@@ -6682,6 +7862,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '43.416568'
       long: "-70.974337"
+      closest_city:
+        name: Sanford
+        distance:
+          value: 17.55
+          units: km
     - region: ME
       exchange: '300835'
       name: West Minot
@@ -6706,6 +7891,11 @@ rate_centers:
       ilec_name: OXFORD COUNTY TEL. & TEL. CO.
       lat: '44.325443'
       long: "-70.565652"
+      closest_city:
+        name: South Paris
+        distance:
+          value: 12.6
+          units: km
     - region: ME
       exchange: '300805'
       name: West Pembroke
@@ -6738,6 +7928,11 @@ rate_centers:
       ilec_name: HARTLAND & ST. ALBANS TEL. CO.
       lat: '44.989264'
       long: "-69.381501"
+      closest_city:
+        name: Corinna
+        distance:
+          value: 11.95
+          units: km
     - region: ME
       exchange: '300806'
       name: West Rockport
@@ -6810,6 +8005,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '43.68016'
       long: "-70.365202"
+      closest_city:
+        name: Westbrook
+        distance:
+          value: 1.92
+          units: km
     - region: ME
       exchange: '300841'
       name: Westfield
@@ -6906,6 +8106,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.862489'
       long: "-71.03955"
+      closest_city:
+        name: Rangeley
+        distance:
+          value: 32.94
+          units: km
     - region: ME
       exchange: '083160'
       name: Wilton
@@ -6914,6 +8119,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.587257'
       long: "-70.236511"
+      closest_city:
+        name: Chisholm
+        distance:
+          value: 11.2
+          units: km
     - region: ME
       exchange: '083170'
       name: Windham
@@ -6922,6 +8132,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '43.789631'
       long: "-70.409982"
+      closest_city:
+        name: North Windham
+        distance:
+          value: 4.05
+          units: km
     - region: ME
       exchange: '300859'
       name: Windsor
@@ -6962,6 +8177,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.393685'
       long: "-68.085174"
+      closest_city:
+        name: Northeast Harbor
+        distance:
+          value: 19.82
+          units: km
     - region: ME
       exchange: '083190'
       name: Winterport
@@ -6970,6 +8190,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.638988'
       long: "-68.853352"
+      closest_city:
+        name: Brewer
+        distance:
+          value: 18.58
+          units: km
     - region: ME
       exchange: '300865'
       name: Winterville
@@ -6986,6 +8211,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
       lat: '44.305101'
       long: "-69.972065"
+      closest_city:
+        name: Hallowell
+        distance:
+          value: 12.68
+          units: km
     - region: ME
       exchange: '083210'
       name: Wiscasset
@@ -6994,6 +8224,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '44.002632'
       long: "-69.666802"
+      closest_city:
+        name: Bath
+        distance:
+          value: 15.41
+          units: km
     - region: ME
       exchange: '300870'
       name: Woodfords
@@ -7010,6 +8245,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '45.154187'
       long: "-67.40816"
+      closest_city:
+        name: Calais
+        distance:
+          value: 14.62
+          units: km
     - region: ME
       exchange: '300872'
       name: Woodland Center
@@ -7042,6 +8282,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '45.645028'
       long: "-68.079896"
+      closest_city:
+        name: Danforth
+        distance:
+          value: 16.53
+          units: km
     - region: ME
       exchange: '083240'
       name: Yarmouth
@@ -7050,6 +8295,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '43.800627'
       long: "-70.190358"
+      closest_city:
+        name: Cumberland Center
+        distance:
+          value: 5.12
+          units: km
     - region: ME
       exchange: '083250'
       name: York
@@ -7058,6 +8308,11 @@ rate_centers:
       ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
       lat: '43.143407'
       long: "-70.652612"
+      closest_city:
+        name: York Harbor
+        distance:
+          value: 0.29
+          units: km
     - region: ME
       exchange: '300881'
       name: York Beach

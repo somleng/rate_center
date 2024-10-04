@@ -1,636 +1,2690 @@
 ---
 cities:
-  us:
+  US:
     HI:
     - name: Ahuimanu
       region: HI
       lat: '21.4379'
       long: "-157.8404"
+      closest_rate_centers:
+      - name: Honolulu
+        distance:
+          value: 13.95
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 92.82
+          units: km
+      - name: Lanai City
+        distance:
+          value: 117.23
+          units: km
     - name: Aiea
       region: HI
       lat: '21.3865'
       long: "-157.9232"
+      closest_rate_centers:
+      - name: Honolulu
+        distance:
+          value: 10.14
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 98.64
+          units: km
+      - name: Lanai City
+        distance:
+          value: 121.3
+          units: km
     - name: Ainaloa
       region: HI
       lat: '19.5215'
       long: "-154.9944"
+      closest_rate_centers:
+      - name: Hilo
+        distance:
+          value: 25.02
+          units: km
+      - name: Wailuku
+        distance:
+          value: 222.09
+          units: km
+      - name: Lanai City
+        distance:
+          value: 247.85
+          units: km
     - name: Anahola
       region: HI
       lat: '22.1455'
       long: "-159.3151"
+      closest_rate_centers:
+      - name: Lihue
+        distance:
+          value: 19.58
+          units: km
+      - name: Honolulu
+        distance:
+          value: 176.14
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 264.12
+          units: km
     - name: Black Sands
       region: HI
       lat: '19.4136'
       long: "-154.9588"
+      closest_rate_centers:
+      - name: Hilo
+        distance:
+          value: 37.52
+          units: km
+      - name: Wailuku
+        distance:
+          value: 233.3
+          units: km
+      - name: Lanai City
+        distance:
+          value: 258.05
+          units: km
     - name: Captain Cook
       region: HI
       lat: '19.4995'
       long: "-155.8937"
+      closest_rate_centers:
+      - name: Hilo
+        distance:
+          value: 87.72
+          units: km
+      - name: Wailuku
+        distance:
+          value: 171.4
+          units: km
+      - name: Lanai City
+        distance:
+          value: 182.26
+          units: km
     - name: Discovery Harbour
       region: HI
       lat: '19.0415'
       long: "-155.6254"
+      closest_rate_centers:
+      - name: Hilo
+        distance:
+          value: 94.56
+          units: km
+      - name: Wailuku
+        distance:
+          value: 229.23
+          units: km
+      - name: Lanai City
+        distance:
+          value: 240.14
+          units: km
     - name: East Honolulu
       region: HI
       lat: '21.2975'
       long: "-157.7211"
+      closest_rate_centers:
+      - name: Honolulu
+        distance:
+          value: 14.87
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 75.65
+          units: km
+      - name: Lanai City
+        distance:
+          value: 98.28
+          units: km
     - name: East Kapolei
       region: HI
       lat: '21.3633'
       long: "-158.0410"
+      closest_rate_centers:
+      - name: Honolulu
+        distance:
+          value: 19.18
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 109.49
+          units: km
+      - name: Lanai City
+        distance:
+          value: 130.73
+          units: km
     - name: Eden Roc
       region: HI
       lat: '19.4917'
       long: "-155.0958"
+      closest_rate_centers:
+      - name: Hilo
+        distance:
+          value: 26.16
+          units: km
+      - name: Wailuku
+        distance:
+          value: 217.17
+          units: km
+      - name: Lanai City
+        distance:
+          value: 241.38
+          units: km
     - name: Eleele
       region: HI
       lat: '21.9087'
       long: "-159.5802"
+      closest_rate_centers:
+      - name: Lihue
+        distance:
+          value: 22.85
+          units: km
+      - name: Honolulu
+        distance:
+          value: 189.38
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 279.47
+          units: km
     - name: Ewa Beach
       region: HI
       lat: '21.3181'
       long: "-158.0073"
+      closest_rate_centers:
+      - name: Honolulu
+        distance:
+          value: 14.9
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 104.82
+          units: km
+      - name: Lanai City
+        distance:
+          value: 125.37
+          units: km
     - name: Ewa Gentry
       region: HI
       lat: '21.3344'
       long: "-158.0262"
+      closest_rate_centers:
+      - name: Honolulu
+        distance:
+          value: 17.0
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 107.16
+          units: km
+      - name: Lanai City
+        distance:
+          value: 127.93
+          units: km
     - name: Ewa Villages
       region: HI
       lat: '21.3417'
       long: "-158.0389"
+      closest_rate_centers:
+      - name: Honolulu
+        distance:
+          value: 18.42
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 108.64
+          units: km
+      - name: Lanai City
+        distance:
+          value: 129.46
+          units: km
     - name: Fern Acres
       region: HI
       lat: '19.5080'
       long: "-155.0787"
+      closest_rate_centers:
+      - name: Hilo
+        distance:
+          value: 24.38
+          units: km
+      - name: Wailuku
+        distance:
+          value: 217.05
+          units: km
+      - name: Lanai City
+        distance:
+          value: 241.68
+          units: km
     - name: Fern Forest
       region: HI
       lat: '19.4648'
       long: "-155.1324"
+      closest_rate_centers:
+      - name: Hilo
+        distance:
+          value: 29.46
+          units: km
+      - name: Wailuku
+        distance:
+          value: 216.85
+          units: km
+      - name: Lanai City
+        distance:
+          value: 240.26
+          units: km
     - name: Haena
       region: HI
       lat: '22.2186'
       long: "-159.5610"
+      closest_rate_centers:
+      - name: Lihue
+        distance:
+          value: 33.18
+          units: km
+      - name: Honolulu
+        distance:
+          value: 202.09
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 290.47
+          units: km
     - name: Haiku-Pauwela
       region: HI
       lat: '20.9156'
       long: "-156.3022"
+      closest_rate_centers:
+      - name: Wailuku
+        distance:
+          value: 20.87
+          units: km
+      - name: Lanai City
+        distance:
+          value: 65.03
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 77.62
+          units: km
     - name: Halaula
       region: HI
       lat: '20.2233'
       long: "-155.7739"
+      closest_rate_centers:
+      - name: Hilo
+        distance:
+          value: 90.15
+          units: km
+      - name: Wailuku
+        distance:
+          value: 109.3
+          units: km
+      - name: Lanai City
+        distance:
+          value: 136.89
+          units: km
     - name: Halawa
       region: HI
       lat: '21.3753'
       long: "-157.9185"
+      closest_rate_centers:
+      - name: Honolulu
+        distance:
+          value: 8.86
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 97.78
+          units: km
+      - name: Lanai City
+        distance:
+          value: 120.25
+          units: km
     - name: Haleiwa
       region: HI
       lat: '21.5965'
       long: "-158.1003"
+      closest_rate_centers:
+      - name: Honolulu
+        distance:
+          value: 39.82
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 124.7
+          units: km
+      - name: Lihue
+        distance:
+          value: 137.91
+          units: km
     - name: Haliimaile
       region: HI
       lat: '20.8671'
       long: "-156.3381"
+      closest_rate_centers:
+      - name: Wailuku
+        distance:
+          value: 18.5
+          units: km
+      - name: Lanai City
+        distance:
+          value: 60.7
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 75.62
+          units: km
     - name: Hana
       region: HI
       lat: '20.7720'
       long: "-156.0107"
+      closest_rate_centers:
+      - name: Wailuku
+        distance:
+          value: 54.07
+          units: km
+      - name: Lanai City
+        distance:
+          value: 94.76
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 111.23
+          units: km
     - name: Hanalei
       region: HI
       lat: '22.2041'
       long: "-159.4977"
+      closest_rate_centers:
+      - name: Lihue
+        distance:
+          value: 28.37
+          units: km
+      - name: Honolulu
+        distance:
+          value: 195.63
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 283.89
+          units: km
     - name: Hanamaulu
       region: HI
       lat: '21.9953'
       long: "-159.3494"
+      closest_rate_centers:
+      - name: Lihue
+        distance:
+          value: 3.02
+          units: km
+      - name: Honolulu
+        distance:
+          value: 171.22
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 260.52
+          units: km
     - name: Hanapepe
       region: HI
       lat: '21.9141'
       long: "-159.5874"
+      closest_rate_centers:
+      - name: Lihue
+        distance:
+          value: 23.36
+          units: km
+      - name: Honolulu
+        distance:
+          value: 190.28
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 280.37
+          units: km
     - name: Hauula
       region: HI
       lat: '21.6111'
       long: "-157.9118"
+      closest_rate_centers:
+      - name: Honolulu
+        distance:
+          value: 33.38
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 108.5
+          units: km
+      - name: Lanai City
+        distance:
+          value: 134.88
+          units: km
     - name: Hawaiian Acres
       region: HI
       lat: '19.5324'
       long: "-155.0498"
+      closest_rate_centers:
+      - name: Hilo
+        distance:
+          value: 22.07
+          units: km
+      - name: Wailuku
+        distance:
+          value: 217.16
+          units: km
+      - name: Lanai City
+        distance:
+          value: 242.46
+          units: km
     - name: Hawaiian Beaches
       region: HI
       lat: '19.5447'
       long: "-154.9288"
+      closest_rate_centers:
+      - name: Hilo
+        distance:
+          value: 26.5
+          units: km
+      - name: Wailuku
+        distance:
+          value: 225.21
+          units: km
+      - name: Lanai City
+        distance:
+          value: 251.95
+          units: km
     - name: Hawaiian Ocean View
       region: HI
       lat: '19.0959'
       long: "-155.7750"
+      closest_rate_centers:
+      - name: Hilo
+        distance:
+          value: 100.29
+          units: km
+      - name: Wailuku
+        distance:
+          value: 217.76
+          units: km
+      - name: Lanai City
+        distance:
+          value: 226.52
+          units: km
     - name: Hawaiian Paradise Park
       region: HI
       lat: '19.5828'
       long: "-154.9695"
+      closest_rate_centers:
+      - name: Hilo
+        distance:
+          value: 20.51
+          units: km
+      - name: Wailuku
+        distance:
+          value: 219.2
+          units: km
+      - name: Lanai City
+        distance:
+          value: 246.04
+          units: km
     - name: Hawi
       region: HI
       lat: '20.2263'
       long: "-155.8389"
+      closest_rate_centers:
+      - name: Hilo
+        distance:
+          value: 95.81
+          units: km
+      - name: Wailuku
+        distance:
+          value: 104.47
+          units: km
+      - name: Lanai City
+        distance:
+          value: 130.85
+          units: km
     - name: Heeia
       region: HI
       lat: '21.4205'
       long: "-157.8205"
+      closest_rate_centers:
+      - name: Honolulu
+        distance:
+          value: 12.62
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 90.15
+          units: km
+      - name: Lanai City
+        distance:
+          value: 114.43
+          units: km
     - name: Helemano
       region: HI
       lat: '21.5362'
       long: "-158.0194"
+      closest_rate_centers:
+      - name: Honolulu
+        distance:
+          value: 29.49
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 114.23
+          units: km
+      - name: Lanai City
+        distance:
+          value: 138.67
+          units: km
     - name: Hickam Housing
       region: HI
       lat: '21.3311'
       long: "-157.9474"
+      closest_rate_centers:
+      - name: Honolulu
+        distance:
+          value: 8.89
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 99.19
+          units: km
+      - name: Lanai City
+        distance:
+          value: 120.48
+          units: km
     - name: Hilo
       region: HI
       lat: '19.6883'
       long: "-155.0863"
+      closest_rate_centers:
+      - name: Hilo
+        distance:
+          value: 4.33
+          units: km
+      - name: Wailuku
+        distance:
+          value: 202.25
+          units: km
+      - name: Lanai City
+        distance:
+          value: 229.33
+          units: km
     - name: Holualoa
       region: HI
       lat: '19.6548'
       long: "-155.9207"
+      closest_rate_centers:
+      - name: Hilo
+        distance:
+          value: 87.15
+          units: km
+      - name: Wailuku
+        distance:
+          value: 154.35
+          units: km
+      - name: Lanai City
+        distance:
+          value: 166.79
+          units: km
     - name: Honalo
       region: HI
       lat: '19.5810'
       long: "-155.8985"
+      closest_rate_centers:
+      - name: Hilo
+        distance:
+          value: 86.02
+          units: km
+      - name: Wailuku
+        distance:
+          value: 162.81
+          units: km
+      - name: Lanai City
+        distance:
+          value: 174.69
+          units: km
     - name: Honaunau-Napoopoo
       region: HI
       lat: '19.4538'
       long: "-155.8588"
+      closest_rate_centers:
+      - name: Hilo
+        distance:
+          value: 85.9
+          units: km
+      - name: Wailuku
+        distance:
+          value: 177.47
+          units: km
+      - name: Lanai City
+        distance:
+          value: 188.52
+          units: km
     - name: Honokaa
       region: HI
       lat: '20.0776'
       long: "-155.4644"
+      closest_rate_centers:
+      - name: Hilo
+        distance:
+          value: 55.12
+          units: km
+      - name: Wailuku
+        distance:
+          value: 143.86
+          units: km
+      - name: Lanai City
+        distance:
+          value: 172.99
+          units: km
     - name: Honolulu
       region: HI
       lat: '21.3294'
       long: "-157.8460"
+      closest_rate_centers:
+      - name: Honolulu
+        distance:
+          value: 2.47
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 89.06
+          units: km
+      - name: Lanai City
+        distance:
+          value: 111.19
+          units: km
     - name: Honomu
       region: HI
       lat: '19.8697'
       long: "-155.1123"
+      closest_rate_centers:
+      - name: Hilo
+        distance:
+          value: 16.02
+          units: km
+      - name: Wailuku
+        distance:
+          value: 186.87
+          units: km
+      - name: Lanai City
+        distance:
+          value: 216.4
+          units: km
     - name: Iroquois Point
       region: HI
       lat: '21.3218'
       long: "-157.9803"
+      closest_rate_centers:
+      - name: Honolulu
+        distance:
+          value: 12.13
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 102.21
+          units: km
+      - name: Lanai City
+        distance:
+          value: 123.04
+          units: km
     - name: Kaaawa
       region: HI
       lat: '21.5485'
       long: "-157.8534"
+      closest_rate_centers:
+      - name: Honolulu
+        distance:
+          value: 26.07
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 99.72
+          units: km
+      - name: Lanai City
+        distance:
+          value: 125.79
+          units: km
     - name: Kaanapali
       region: HI
       lat: '20.9277'
       long: "-156.6794"
+      closest_rate_centers:
+      - name: Wailuku
+        distance:
+          value: 18.39
+          units: km
+      - name: Lanai City
+        distance:
+          value: 27.52
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 40.26
+          units: km
     - name: Kahaluu
       region: HI
       lat: '21.4575'
       long: "-157.8453"
+      closest_rate_centers:
+      - name: Honolulu
+        distance:
+          value: 16.04
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 94.21
+          units: km
+      - name: Lanai City
+        distance:
+          value: 118.92
+          units: km
     - name: Kahaluu-Keauhou
       region: HI
       lat: '19.5669'
       long: "-155.9533"
+      closest_rate_centers:
+      - name: Hilo
+        distance:
+          value: 91.96
+          units: km
+      - name: Wailuku
+        distance:
+          value: 162.15
+          units: km
+      - name: Lanai City
+        distance:
+          value: 172.53
+          units: km
     - name: Kahuku
       region: HI
       lat: '21.6793'
       long: "-157.9473"
+      closest_rate_centers:
+      - name: Honolulu
+        distance:
+          value: 41.51
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 115.72
+          units: km
+      - name: Lanai City
+        distance:
+          value: 142.62
+          units: km
     - name: Kahului
       region: HI
       lat: '20.8715'
       long: "-156.4603"
+      closest_rate_centers:
+      - name: Wailuku
+        distance:
+          value: 7.95
+          units: km
+      - name: Lanai City
+        distance:
+          value: 48.1
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 63.57
+          units: km
     - name: Kailua
       region: HI
       lat: '21.3920'
       long: "-157.7396"
+      closest_rate_centers:
+      - name: Honolulu
+        distance:
+          value: 15.47
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 81.21
+          units: km
+      - name: Lanai City
+        distance:
+          value: 105.79
+          units: km
     - name: Kalaeloa
       region: HI
       lat: '21.3136'
       long: "-158.0650"
+      closest_rate_centers:
+      - name: Honolulu
+        distance:
+          value: 20.87
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 110.52
+          units: km
+      - name: Lanai City
+        distance:
+          value: 130.58
+          units: km
     - name: Kalaheo
       region: HI
       lat: '21.9159'
       long: "-159.5236"
+      closest_rate_centers:
+      - name: Lihue
+        distance:
+          value: 17.12
+          units: km
+      - name: Honolulu
+        distance:
+          value: 184.19
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 274.2
+          units: km
     - name: Kalapana
       region: HI
       lat: '19.3566'
       long: "-154.9752"
+      closest_rate_centers:
+      - name: Hilo
+        distance:
+          value: 42.95
+          units: km
+      - name: Wailuku
+        distance:
+          value: 236.79
+          units: km
+      - name: Lanai City
+        distance:
+          value: 260.64
+          units: km
     - name: Kalihiwai
       region: HI
       lat: '22.2165'
       long: "-159.4405"
+      closest_rate_centers:
+      - name: Lihue
+        distance:
+          value: 27.53
+          units: km
+      - name: Honolulu
+        distance:
+          value: 191.27
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 279.19
+          units: km
     - name: Kaloko
       region: HI
       lat: '19.7216'
       long: "-155.9505"
+      closest_rate_centers:
+      - name: Hilo
+        distance:
+          value: 89.88
+          units: km
+      - name: Wailuku
+        distance:
+          value: 146.29
+          units: km
+      - name: Lanai City
+        distance:
+          value: 159.05
+          units: km
     - name: Kamaili
       region: HI
       lat: '19.4391'
       long: "-154.9189"
+      closest_rate_centers:
+      - name: Hilo
+        distance:
+          value: 36.78
+          units: km
+      - name: Wailuku
+        distance:
+          value: 234.17
+          units: km
+      - name: Lanai City
+        distance:
+          value: 259.66
+          units: km
     - name: Kaneohe
       region: HI
       lat: '21.4062'
       long: "-157.7904"
+      closest_rate_centers:
+      - name: Honolulu
+        distance:
+          value: 12.72
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 86.66
+          units: km
+      - name: Lanai City
+        distance:
+          value: 110.97
+          units: km
     - name: Kapaa
       region: HI
       lat: '22.0910'
       long: "-159.3521"
+      closest_rate_centers:
+      - name: Lihue
+        distance:
+          value: 12.79
+          units: km
+      - name: Honolulu
+        distance:
+          value: 176.38
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 264.99
+          units: km
     - name: Kapaau
       region: HI
       lat: '20.2340'
       long: "-155.8028"
+      closest_rate_centers:
+      - name: Hilo
+        distance:
+          value: 93.27
+          units: km
+      - name: Wailuku
+        distance:
+          value: 106.36
+          units: km
+      - name: Lanai City
+        distance:
+          value: 133.68
+          units: km
     - name: Kapalua
       region: HI
       lat: '20.9959'
       long: "-156.6418"
+      closest_rate_centers:
+      - name: Wailuku
+        distance:
+          value: 16.16
+          units: km
+      - name: Lanai City
+        distance:
+          value: 34.62
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 41.24
+          units: km
     - name: Kapolei
       region: HI
       lat: '21.3399'
       long: "-158.0677"
+      closest_rate_centers:
+      - name: Honolulu
+        distance:
+          value: 21.34
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 111.48
+          units: km
+      - name: Lanai City
+        distance:
+          value: 132.06
+          units: km
     - name: Kaumakani
       region: HI
       lat: '21.9187'
       long: "-159.6240"
+      closest_rate_centers:
+      - name: Lihue
+        distance:
+          value: 26.85
+          units: km
+      - name: Honolulu
+        distance:
+          value: 194.0
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 284.11
+          units: km
     - name: Kaunakakai
       region: HI
       lat: '21.0905'
       long: "-156.9981"
+      closest_rate_centers:
+      - name: Kaunakakai
+        distance:
+          value: 2.93
+          units: km
+      - name: Lanai City
+        distance:
+          value: 30.58
+          units: km
+      - name: Wailuku
+        distance:
+          value: 54.42
+          units: km
     - name: Kawela Bay
       region: HI
       lat: '21.6991'
       long: "-158.0026"
+      closest_rate_centers:
+      - name: Honolulu
+        distance:
+          value: 45.15
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 121.69
+          units: km
+      - name: Lihue
+        distance:
+          value: 144.63
+          units: km
     - name: Keaau
       region: HI
       lat: '19.6233'
       long: "-155.0483"
+      closest_rate_centers:
+      - name: Hilo
+        distance:
+          value: 12.39
+          units: km
+      - name: Wailuku
+        distance:
+          value: 210.12
+          units: km
+      - name: Lanai City
+        distance:
+          value: 236.69
+          units: km
     - name: Kealakekua
       region: HI
       lat: '19.5286'
       long: "-155.9112"
+      closest_rate_centers:
+      - name: Hilo
+        distance:
+          value: 88.61
+          units: km
+      - name: Wailuku
+        distance:
+          value: 167.71
+          units: km
+      - name: Lanai City
+        distance:
+          value: 178.56
+          units: km
     - name: Kekaha
       region: HI
       lat: '21.9684'
       long: "-159.7141"
+      closest_rate_centers:
+      - name: Lihue
+        distance:
+          value: 35.35
+          units: km
+      - name: Honolulu
+        distance:
+          value: 204.63
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 294.68
+          units: km
     - name: Keokea
       region: HI
       lat: '20.7211'
       long: "-156.3625"
+      closest_rate_centers:
+      - name: Wailuku
+        distance:
+          value: 27.51
+          units: km
+      - name: Lanai City
+        distance:
+          value: 59.16
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 80.21
+          units: km
     - name: Kihei
       region: HI
       lat: '20.7653'
       long: "-156.4454"
+      closest_rate_centers:
+      - name: Wailuku
+        distance:
+          value: 19.37
+          units: km
+      - name: Lanai City
+        distance:
+          value: 49.84
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 70.29
+          units: km
     - name: Kilauea
       region: HI
       lat: '22.2108'
       long: "-159.3965"
+      closest_rate_centers:
+      - name: Lihue
+        distance:
+          value: 26.09
+          units: km
+      - name: Honolulu
+        distance:
+          value: 187.08
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 274.85
+          units: km
     - name: Ko Olina
       region: HI
       lat: '21.3378'
       long: "-158.1188"
+      closest_rate_centers:
+      - name: Honolulu
+        distance:
+          value: 26.57
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 116.56
+          units: km
+      - name: Lanai City
+        distance:
+          value: 136.76
+          units: km
     - name: Koloa
       region: HI
       lat: '21.9031'
       long: "-159.4611"
+      closest_rate_centers:
+      - name: Lihue
+        distance:
+          value: 12.4
+          units: km
+      - name: Honolulu
+        distance:
+          value: 177.66
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 267.65
+          units: km
     - name: Kualapuu
       region: HI
       lat: '21.1564'
       long: "-157.0591"
+      closest_rate_centers:
+      - name: Kaunakakai
+        distance:
+          value: 8.17
+          units: km
+      - name: Lanai City
+        distance:
+          value: 39.53
+          units: km
+      - name: Wailuku
+        distance:
+          value: 62.97
+          units: km
     - name: Kukuihaele
       region: HI
       lat: '20.1195'
       long: "-155.5654"
+      closest_rate_centers:
+      - name: Hilo
+        distance:
+          value: 66.01
+          units: km
+      - name: Wailuku
+        distance:
+          value: 132.91
+          units: km
+      - name: Lanai City
+        distance:
+          value: 161.51
+          units: km
     - name: Kula
       region: HI
       lat: '20.7706'
       long: "-156.3284"
+      closest_rate_centers:
+      - name: Wailuku
+        distance:
+          value: 25.41
+          units: km
+      - name: Lanai City
+        distance:
+          value: 61.85
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 80.7
+          units: km
     - name: Kurtistown
       region: HI
       lat: '19.5860'
       long: "-155.0713"
+      closest_rate_centers:
+      - name: Hilo
+        distance:
+          value: 15.82
+          units: km
+      - name: Wailuku
+        distance:
+          value: 211.32
+          units: km
+      - name: Lanai City
+        distance:
+          value: 237.11
+          units: km
     - name: Lahaina
       region: HI
       lat: '20.8848'
       long: "-156.6618"
+      closest_rate_centers:
+      - name: Wailuku
+        distance:
+          value: 17.34
+          units: km
+      - name: Lanai City
+        distance:
+          value: 27.69
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 44.17
+          units: km
     - name: Laie
       region: HI
       lat: '21.6442'
       long: "-157.9279"
+      closest_rate_centers:
+      - name: Honolulu
+        distance:
+          value: 37.29
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 111.89
+          units: km
+      - name: Lanai City
+        distance:
+          value: 138.54
+          units: km
     - name: Lanai City
       region: HI
       lat: '20.8279'
       long: "-156.9147"
+      closest_rate_centers:
+      - name: Lanai City
+        distance:
+          value: 0.68
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 31.33
+          units: km
+      - name: Wailuku
+        distance:
+          value: 44.35
+          units: km
     - name: Launiupoko
       region: HI
       lat: '20.8541'
       long: "-156.6424"
+      closest_rate_centers:
+      - name: Wailuku
+        distance:
+          value: 16.88
+          units: km
+      - name: Lanai City
+        distance:
+          value: 29.08
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 47.7
+          units: km
     - name: Laupahoehoe
       region: HI
       lat: '19.9723'
       long: "-155.2345"
+      closest_rate_centers:
+      - name: Hilo
+        distance:
+          value: 31.1
+          units: km
+      - name: Wailuku
+        distance:
+          value: 169.76
+          units: km
+      - name: Lanai City
+        distance:
+          value: 199.68
+          units: km
     - name: Lawai
       region: HI
       lat: '21.9204'
       long: "-159.5006"
+      closest_rate_centers:
+      - name: Lihue
+        distance:
+          value: 14.75
+          units: km
+      - name: Honolulu
+        distance:
+          value: 182.16
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 272.13
+          units: km
     - name: Leilani Estates
       region: HI
       lat: '19.4659'
       long: "-154.9157"
+      closest_rate_centers:
+      - name: Hilo
+        distance:
+          value: 34.39
+          units: km
+      - name: Wailuku
+        distance:
+          value: 232.3
+          units: km
+      - name: Lanai City
+        distance:
+          value: 258.16
+          units: km
     - name: Lihue
       region: HI
       lat: '21.9721'
       long: "-159.3564"
+      closest_rate_centers:
+      - name: Lihue
+        distance:
+          value: 1.65
+          units: km
+      - name: Honolulu
+        distance:
+          value: 170.76
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 260.22
+          units: km
     - name: Maalaea
       region: HI
       lat: '20.8047'
       long: "-156.4898"
+      closest_rate_centers:
+      - name: Wailuku
+        distance:
+          value: 14.12
+          units: km
+      - name: Lanai City
+        distance:
+          value: 44.83
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 64.09
+          units: km
     - name: Mahinahina
       region: HI
       lat: '20.9540'
       long: "-156.6564"
+      closest_rate_centers:
+      - name: Wailuku
+        distance:
+          value: 16.19
+          units: km
+      - name: Lanai City
+        distance:
+          value: 30.95
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 41.25
+          units: km
     - name: Maili
       region: HI
       lat: '21.4133'
       long: "-158.1701"
+      closest_rate_centers:
+      - name: Honolulu
+        distance:
+          value: 33.61
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 123.88
+          units: km
+      - name: Lihue
+        distance:
+          value: 139.06
+          units: km
     - name: Makaha
       region: HI
       lat: '21.4739'
       long: "-158.2102"
+      closest_rate_centers:
+      - name: Honolulu
+        distance:
+          value: 40.04
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 129.89
+          units: km
+      - name: Lihue
+        distance:
+          value: 132.37
+          units: km
     - name: Makaha Valley
       region: HI
       lat: '21.4844'
       long: "-158.1843"
+      closest_rate_centers:
+      - name: Honolulu
+        distance:
+          value: 38.22
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 127.75
+          units: km
+      - name: Lihue
+        distance:
+          value: 134.31
+          units: km
     - name: Makakilo
       region: HI
       lat: '21.3591'
       long: "-158.0813"
+      closest_rate_centers:
+      - name: Honolulu
+        distance:
+          value: 23.1
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 113.38
+          units: km
+      - name: Lanai City
+        distance:
+          value: 134.26
+          units: km
     - name: Makawao
       region: HI
       lat: '20.8480'
       long: "-156.3190"
+      closest_rate_centers:
+      - name: Wailuku
+        distance:
+          value: 21.18
+          units: km
+      - name: Lanai City
+        distance:
+          value: 62.57
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 78.2
+          units: km
     - name: Makena
       region: HI
       lat: '20.6310'
       long: "-156.4252"
+      closest_rate_centers:
+      - name: Wailuku
+        distance:
+          value: 34.33
+          units: km
+      - name: Lanai City
+        distance:
+          value: 55.86
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 80.63
+          units: km
     - name: Manele
       region: HI
       lat: '20.7419'
       long: "-156.9012"
+      closest_rate_centers:
+      - name: Lanai City
+        distance:
+          value: 9.48
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 40.79
+          units: km
+      - name: Wailuku
+        distance:
+          value: 46.48
+          units: km
     - name: Mauna Loa Estates
       region: HI
       lat: '19.4274'
       long: "-155.2213"
+      closest_rate_centers:
+      - name: Hilo
+        distance:
+          value: 35.96
+          units: km
+      - name: Wailuku
+        distance:
+          value: 214.09
+          units: km
+      - name: Lanai City
+        distance:
+          value: 235.86
+          units: km
     - name: Maunaloa
       region: HI
       lat: '21.1334'
       long: "-157.2123"
+      closest_rate_centers:
+      - name: Kaunakakai
+        distance:
+          value: 19.9
+          units: km
+      - name: Lanai City
+        distance:
+          value: 45.74
+          units: km
+      - name: Honolulu
+        distance:
+          value: 70.43
+          units: km
     - name: Maunawili
       region: HI
       lat: '21.3667'
       long: "-157.7713"
+      closest_rate_centers:
+      - name: Honolulu
+        distance:
+          value: 11.19
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 83.14
+          units: km
+      - name: Lanai City
+        distance:
+          value: 106.84
+          units: km
     - name: Mililani Mauka
       region: HI
       lat: '21.4756'
       long: "-157.9948"
+      closest_rate_centers:
+      - name: Honolulu
+        distance:
+          value: 22.51
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 109.14
+          units: km
+      - name: Lanai City
+        distance:
+          value: 132.82
+          units: km
     - name: Mililani Town
       region: HI
       lat: '21.4465'
       long: "-158.0147"
+      closest_rate_centers:
+      - name: Honolulu
+        distance:
+          value: 21.48
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 109.84
+          units: km
+      - name: Lanai City
+        distance:
+          value: 132.85
+          units: km
     - name: Mokuleia
       region: HI
       lat: '21.5771'
       long: "-158.1714"
+      closest_rate_centers:
+      - name: Honolulu
+        distance:
+          value: 43.24
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 130.4
+          units: km
+      - name: Lihue
+        distance:
+          value: 131.66
+          units: km
     - name: Mountain View
       region: HI
       lat: '19.5366'
       long: "-155.1590"
+      closest_rate_centers:
+      - name: Hilo
+        distance:
+          value: 22.3
+          units: km
+      - name: Wailuku
+        distance:
+          value: 209.02
+          units: km
+      - name: Lanai City
+        distance:
+          value: 233.09
+          units: km
     - name: Naalehu
       region: HI
       lat: '19.0698'
       long: "-155.5751"
+      closest_rate_centers:
+      - name: Hilo
+        distance:
+          value: 88.93
+          units: km
+      - name: Wailuku
+        distance:
+          value: 228.53
+          units: km
+      - name: Lanai City
+        distance:
+          value: 240.57
+          units: km
     - name: Nanakuli
       region: HI
       lat: '21.3892'
       long: "-158.1445"
+      closest_rate_centers:
+      - name: Honolulu
+        distance:
+          value: 30.27
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 120.58
+          units: km
+      - name: Lanai City
+        distance:
+          value: 141.61
+          units: km
     - name: Nanawale Estates
       region: HI
       lat: '19.5035'
       long: "-154.9104"
+      closest_rate_centers:
+      - name: Hilo
+        distance:
+          value: 31.28
+          units: km
+      - name: Wailuku
+        distance:
+          value: 229.77
+          units: km
+      - name: Lanai City
+        distance:
+          value: 256.16
+          units: km
     - name: Napili-Honokowai
       region: HI
       lat: '20.9767'
       long: "-156.6646"
+      closest_rate_centers:
+      - name: Wailuku
+        distance:
+          value: 17.59
+          units: km
+      - name: Lanai City
+        distance:
+          value: 31.47
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 39.59
+          units: km
     - name: Ocean Pointe
       region: HI
       lat: '21.3145'
       long: "-158.0289"
+      closest_rate_centers:
+      - name: Honolulu
+        distance:
+          value: 17.13
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 106.9
+          units: km
+      - name: Lanai City
+        distance:
+          value: 127.22
+          units: km
     - name: Olinda
       region: HI
       lat: '20.8261'
       long: "-156.2917"
+      closest_rate_centers:
+      - name: Wailuku
+        distance:
+          value: 24.81
+          units: km
+      - name: Lanai City
+        distance:
+          value: 65.36
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 81.72
+          units: km
     - name: Olowalu
       region: HI
       lat: '20.8222'
       long: "-156.6169"
+      closest_rate_centers:
+      - name: Wailuku
+        distance:
+          value: 16.98
+          units: km
+      - name: Lanai City
+        distance:
+          value: 31.56
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 51.88
+          units: km
     - name: Omao
       region: HI
       lat: '21.9236'
       long: "-159.4814"
+      closest_rate_centers:
+      - name: Lihue
+        distance:
+          value: 12.82
+          units: km
+      - name: Honolulu
+        distance:
+          value: 180.45
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 270.38
+          units: km
     - name: Orchidlands Estates
       region: HI
       lat: '19.5570'
       long: "-155.0142"
+      closest_rate_centers:
+      - name: Hilo
+        distance:
+          value: 20.57
+          units: km
+      - name: Wailuku
+        distance:
+          value: 217.83
+          units: km
+      - name: Lanai City
+        distance:
+          value: 243.85
+          units: km
     - name: Paauilo
       region: HI
       lat: '20.0398'
       long: "-155.3708"
+      closest_rate_centers:
+      - name: Hilo
+        distance:
+          value: 45.4
+          units: km
+      - name: Wailuku
+        distance:
+          value: 154.0
+          units: km
+      - name: Lanai City
+        distance:
+          value: 183.58
+          units: km
     - name: Pahala
       region: HI
       lat: '19.1993'
       long: "-155.4772"
+      closest_rate_centers:
+      - name: Hilo
+        distance:
+          value: 71.24
+          units: km
+      - name: Wailuku
+        distance:
+          value: 220.34
+          units: km
+      - name: Lanai City
+        distance:
+          value: 235.43
+          units: km
     - name: Pahoa
       region: HI
       lat: '19.4960'
       long: "-154.9453"
+      closest_rate_centers:
+      - name: Hilo
+        distance:
+          value: 29.91
+          units: km
+      - name: Wailuku
+        distance:
+          value: 227.74
+          units: km
+      - name: Lanai City
+        distance:
+          value: 253.68
+          units: km
     - name: Paia
       region: HI
       lat: '20.9062'
       long: "-156.3677"
+      closest_rate_centers:
+      - name: Wailuku
+        distance:
+          value: 14.26
+          units: km
+      - name: Lanai City
+        distance:
+          value: 58.14
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 71.35
+          units: km
     - name: Pakala Village
       region: HI
       lat: '21.9445'
       long: "-159.6436"
+      closest_rate_centers:
+      - name: Lihue
+        distance:
+          value: 28.31
+          units: km
+      - name: Honolulu
+        distance:
+          value: 196.89
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 286.94
+          units: km
     - name: Papaikou
       region: HI
       lat: '19.7917'
       long: "-155.0963"
+      closest_rate_centers:
+      - name: Hilo
+        distance:
+          value: 7.22
+          units: km
+      - name: Wailuku
+        distance:
+          value: 193.75
+          units: km
+      - name: Lanai City
+        distance:
+          value: 222.25
+          units: km
     - name: Paukaa
       region: HI
       lat: '19.7625'
       long: "-155.0931"
+      closest_rate_centers:
+      - name: Hilo
+        distance:
+          value: 3.96
+          units: km
+      - name: Wailuku
+        distance:
+          value: 196.15
+          units: km
+      - name: Lanai City
+        distance:
+          value: 224.25
+          units: km
     - name: Pearl City
       region: HI
       lat: '21.4031'
       long: "-157.9566"
+      closest_rate_centers:
+      - name: Honolulu
+        distance:
+          value: 13.8
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 102.52
+          units: km
+      - name: Lanai City
+        distance:
+          value: 125.21
+          units: km
     - name: Pepeekeo
       region: HI
       lat: '19.8325'
       long: "-155.1056"
+      closest_rate_centers:
+      - name: Hilo
+        distance:
+          value: 11.83
+          units: km
+      - name: Wailuku
+        distance:
+          value: 190.06
+          units: km
+      - name: Lanai City
+        distance:
+          value: 219.08
+          units: km
     - name: Poipu
       region: HI
       lat: '21.8834'
       long: "-159.4600"
+      closest_rate_centers:
+      - name: Lihue
+        distance:
+          value: 13.88
+          units: km
+      - name: Honolulu
+        distance:
+          value: 176.77
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 266.82
+          units: km
     - name: Princeville
       region: HI
       lat: '22.2181'
       long: "-159.4801"
+      closest_rate_centers:
+      - name: Lihue
+        distance:
+          value: 29.02
+          units: km
+      - name: Honolulu
+        distance:
+          value: 194.86
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 282.93
+          units: km
     - name: Puako
       region: HI
       lat: '19.9628'
       long: "-155.8389"
+      closest_rate_centers:
+      - name: Hilo
+        distance:
+          value: 82.42
+          units: km
+      - name: Wailuku
+        distance:
+          value: 127.96
+          units: km
+      - name: Lanai City
+        distance:
+          value: 148.0
+          units: km
     - name: Puhi
       region: HI
       lat: '21.9622'
       long: "-159.3917"
+      closest_rate_centers:
+      - name: Lihue
+        distance:
+          value: 2.68
+          units: km
+      - name: Honolulu
+        distance:
+          value: 173.61
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 263.2
+          units: km
     - name: Pukalani
       region: HI
       lat: '20.8329'
       long: "-156.3415"
+      closest_rate_centers:
+      - name: Wailuku
+        distance:
+          value: 19.97
+          units: km
+      - name: Lanai City
+        distance:
+          value: 60.18
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 76.62
+          units: km
     - name: Punaluu
       region: HI
       lat: '21.5810'
       long: "-157.8901"
+      closest_rate_centers:
+      - name: Honolulu
+        distance:
+          value: 29.79
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 104.83
+          units: km
+      - name: Lanai City
+        distance:
+          value: 131.01
+          units: km
     - name: Pupukea
       region: HI
       lat: '21.6511'
       long: "-158.0437"
+      closest_rate_centers:
+      - name: Honolulu
+        distance:
+          value: 41.84
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 122.46
+          units: km
+      - name: Lihue
+        distance:
+          value: 141.78
+          units: km
     - name: Royal Hawaiian Estates
       region: HI
       lat: '19.4413'
       long: "-155.1841"
+      closest_rate_centers:
+      - name: Hilo
+        distance:
+          value: 33.2
+          units: km
+      - name: Wailuku
+        distance:
+          value: 215.34
+          units: km
+      - name: Lanai City
+        distance:
+          value: 237.79
+          units: km
     - name: Royal Kunia
       region: HI
       lat: '21.4053'
       long: "-158.0318"
+      closest_rate_centers:
+      - name: Honolulu
+        distance:
+          value: 20.16
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 109.96
+          units: km
+      - name: Lanai City
+        distance:
+          value: 132.09
+          units: km
     - name: Schofield Barracks
       region: HI
       lat: '21.4936'
       long: "-158.0617"
+      closest_rate_centers:
+      - name: Honolulu
+        distance:
+          value: 28.61
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 116.3
+          units: km
+      - name: Lanai City
+        distance:
+          value: 139.74
+          units: km
     - name: Seaview
       region: HI
       lat: '19.4067'
       long: "-154.9214"
+      closest_rate_centers:
+      - name: Hilo
+        distance:
+          value: 39.83
+          units: km
+      - name: Wailuku
+        distance:
+          value: 236.57
+          units: km
+      - name: Lanai City
+        distance:
+          value: 261.62
+          units: km
     - name: Tiki Gardens
       region: HI
       lat: '19.5287'
       long: "-155.0031"
+      closest_rate_centers:
+      - name: Hilo
+        distance:
+          value: 23.92
+          units: km
+      - name: Wailuku
+        distance:
+          value: 220.88
+          units: km
+      - name: Lanai City
+        distance:
+          value: 246.64
+          units: km
     - name: Ualapue
       region: HI
       lat: '21.0704'
       long: "-156.8355"
+      closest_rate_centers:
+      - name: Kaunakakai
+        distance:
+          value: 19.91
+          units: km
+      - name: Lanai City
+        distance:
+          value: 28.66
+          units: km
+      - name: Wailuku
+        distance:
+          value: 37.89
+          units: km
     - name: Volcano
       region: HI
       lat: '19.4864'
       long: "-155.2774"
+      closest_rate_centers:
+      - name: Hilo
+        distance:
+          value: 33.07
+          units: km
+      - name: Wailuku
+        distance:
+          value: 205.3
+          units: km
+      - name: Lanai City
+        distance:
+          value: 227.11
+          units: km
     - name: Volcano Golf Course
       region: HI
       lat: '19.4424'
       long: "-155.2789"
+      closest_rate_centers:
+      - name: Hilo
+        distance:
+          value: 37.22
+          units: km
+      - name: Wailuku
+        distance:
+          value: 209.06
+          units: km
+      - name: Lanai City
+        distance:
+          value: 230.25
+          units: km
     - name: Wahiawa
       region: HI
       lat: '21.5012'
       long: "-158.0178"
+      closest_rate_centers:
+      - name: Honolulu
+        distance:
+          value: 26.22
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 112.45
+          units: km
+      - name: Lanai City
+        distance:
+          value: 136.37
+          units: km
     - name: Waialua
       region: HI
       lat: '21.5660'
       long: "-158.1199"
+      closest_rate_centers:
+      - name: Honolulu
+        distance:
+          value: 38.57
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 125.05
+          units: km
+      - name: Lihue
+        distance:
+          value: 137.09
+          units: km
     - name: Waianae
       region: HI
       lat: '21.4568'
       long: "-158.1758"
+      closest_rate_centers:
+      - name: Honolulu
+        distance:
+          value: 36.01
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 125.91
+          units: km
+      - name: Lihue
+        distance:
+          value: 136.4
+          units: km
     - name: Waihee-Waiehu
       region: HI
       lat: '20.9188'
       long: "-156.5063"
+      closest_rate_centers:
+      - name: Wailuku
+        distance:
+          value: 1.43
+          units: km
+      - name: Lanai City
+        distance:
+          value: 44.28
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 57.23
+          units: km
     - name: Waikapu
       region: HI
       lat: '20.8391'
       long: "-156.5221"
+      closest_rate_centers:
+      - name: Wailuku
+        distance:
+          value: 10.44
+          units: km
+      - name: Lanai City
+        distance:
+          value: 41.44
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 59.3
+          units: km
     - name: Waikele
       region: HI
       lat: '21.4025'
       long: "-158.0058"
+      closest_rate_centers:
+      - name: Honolulu
+        distance:
+          value: 17.7
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 107.31
+          units: km
+      - name: Lanai City
+        distance:
+          value: 129.59
+          units: km
     - name: Waikoloa Beach Resort
       region: HI
       lat: '19.9279'
       long: "-155.8704"
+      closest_rate_centers:
+      - name: Hilo
+        distance:
+          value: 84.45
+          units: km
+      - name: Wailuku
+        distance:
+          value: 129.54
+          units: km
+      - name: Lanai City
+        distance:
+          value: 148.11
+          units: km
     - name: Waikoloa Village
       region: HI
       lat: '19.9443'
       long: "-155.8053"
+      closest_rate_centers:
+      - name: Hilo
+        distance:
+          value: 78.45
+          units: km
+      - name: Wailuku
+        distance:
+          value: 131.59
+          units: km
+      - name: Lanai City
+        distance:
+          value: 152.01
+          units: km
     - name: Wailea
       region: HI
       lat: '20.6873'
       long: "-156.4291"
+      closest_rate_centers:
+      - name: Wailuku
+        distance:
+          value: 28.17
+          units: km
+      - name: Lanai City
+        distance:
+          value: 53.35
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 76.49
+          units: km
     - name: Wailua
       region: HI
       lat: '22.0551'
       long: "-159.3401"
+      closest_rate_centers:
+      - name: Lihue
+        distance:
+          value: 9.23
+          units: km
+      - name: Honolulu
+        distance:
+          value: 173.39
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 262.24
+          units: km
     - name: Wailua Homesteads
       region: HI
       lat: '22.0650'
       long: "-159.3771"
+      closest_rate_centers:
+      - name: Lihue
+        distance:
+          value: 9.77
+          units: km
+      - name: Honolulu
+        distance:
+          value: 177.27
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 266.17
+          units: km
     - name: Wailuku
       region: HI
       lat: '20.8834'
       long: "-156.5059"
+      closest_rate_centers:
+      - name: Wailuku
+        distance:
+          value: 5.32
+          units: km
+      - name: Lanai City
+        distance:
+          value: 43.57
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 58.69
+          units: km
     - name: Waimalu
       region: HI
       lat: '21.3913'
       long: "-157.9345"
+      closest_rate_centers:
+      - name: Honolulu
+        distance:
+          value: 11.29
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 99.92
+          units: km
+      - name: Lanai City
+        distance:
+          value: 122.58
+          units: km
     - name: Waimanalo
       region: HI
       lat: '21.3421'
       long: "-157.7303"
+      closest_rate_centers:
+      - name: Honolulu
+        distance:
+          value: 14.14
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 78.19
+          units: km
+      - name: Lanai City
+        distance:
+          value: 101.79
+          units: km
     - name: Waimanalo Beach
       region: HI
       lat: '21.3288'
       long: "-157.6974"
+      closest_rate_centers:
+      - name: Honolulu
+        distance:
+          value: 17.28
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 74.48
+          units: km
+      - name: Lanai City
+        distance:
+          value: 98.14
+          units: km
     - name: Waimea
       region: HI
       lat: '20.0124'
       long: "-155.6381"
+      closest_rate_centers:
+      - name: Hilo
+        distance:
+          value: 65.36
+          units: km
+      - name: Wailuku
+        distance:
+          value: 136.17
+          units: km
+      - name: Lanai City
+        distance:
+          value: 161.33
+          units: km
     - name: Wainaku
       region: HI
       lat: '19.7449'
       long: "-155.0984"
+      closest_rate_centers:
+      - name: Hilo
+        distance:
+          value: 2.11
+          units: km
+      - name: Wailuku
+        distance:
+          value: 197.05
+          units: km
+      - name: Lanai City
+        distance:
+          value: 224.83
+          units: km
     - name: Wainiha
       region: HI
       lat: '22.1984'
       long: "-159.5458"
+      closest_rate_centers:
+      - name: Lihue
+        distance:
+          value: 30.45
+          units: km
+      - name: Honolulu
+        distance:
+          value: 199.62
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 288.1
+          units: km
     - name: Waiohinu
       region: HI
       lat: '19.0714'
       long: "-155.6145"
+      closest_rate_centers:
+      - name: Hilo
+        distance:
+          value: 91.21
+          units: km
+      - name: Wailuku
+        distance:
+          value: 226.65
+          units: km
+      - name: Lanai City
+        distance:
+          value: 238.04
+          units: km
     - name: Waipahu
       region: HI
       lat: '21.3859'
       long: "-158.0101"
+      closest_rate_centers:
+      - name: Honolulu
+        distance:
+          value: 17.15
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 107.15
+          units: km
+      - name: Lanai City
+        distance:
+          value: 129.08
+          units: km
     - name: Waipio
       region: HI
       lat: '21.4143'
       long: "-157.9966"
+      closest_rate_centers:
+      - name: Honolulu
+        distance:
+          value: 17.71
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 106.84
+          units: km
+      - name: Lanai City
+        distance:
+          value: 129.41
+          units: km
     - name: Waipio Acres
       region: HI
       lat: '21.4688'
       long: "-158.0173"
+      closest_rate_centers:
+      - name: Honolulu
+        distance:
+          value: 23.43
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 111.0
+          units: km
+      - name: Lanai City
+        distance:
+          value: 134.38
+          units: km
     - name: West Loch Estate
       region: HI
       lat: '21.3617'
       long: "-158.0246"
+      closest_rate_centers:
+      - name: Honolulu
+        distance:
+          value: 17.5
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 107.81
+          units: km
+      - name: Lanai City
+        distance:
+          value: 129.14
+          units: km
     - name: Wheeler AFB
       region: HI
       lat: '21.4756'
       long: "-158.0352"
+      closest_rate_centers:
+      - name: Honolulu
+        distance:
+          value: 25.26
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 113.0
+          units: km
+      - name: Lanai City
+        distance:
+          value: 136.35
+          units: km
     - name: Whitmore Village
       region: HI
       lat: '21.5119'
       long: "-158.0274"
+      closest_rate_centers:
+      - name: Honolulu
+        distance:
+          value: 27.76
+          units: km
+      - name: Kaunakakai
+        distance:
+          value: 113.84
+          units: km
+      - name: Lanai City
+        distance:
+          value: 137.85
+          units: km

@@ -1,1708 +1,7338 @@
 ---
 cities:
-  us:
+  US:
     MS:
     - name: Abbeville
       region: MS
       lat: '34.5034'
       long: "-89.5025"
+      closest_rate_centers:
+      - name: Oxford
+        distance:
+          value: 15.43
+          units: km
+      - name: Chulahoma
+        distance:
+          value: 21.62
+          units: km
+      - name: Holly Springs
+        distance:
+          value: 29.63
+          units: km
     - name: Aberdeen
       region: MS
       lat: '33.8287'
       long: "-88.5539"
+      closest_rate_centers:
+      - name: Aberdeen
+        distance:
+          value: 0.79
+          units: km
+      - name: Amory
+        distance:
+          value: 18.63
+          units: km
+      - name: Columbus AFB
+        distance:
+          value: 25.18
+          units: km
     - name: Ackerman
       region: MS
       lat: '33.3110'
       long: "-89.1711"
+      closest_rate_centers:
+      - name: Ackerman
+        distance:
+          value: 0.55
+          units: km
+      - name: Chester
+        distance:
+          value: 8.26
+          units: km
+      - name: McCool
+        distance:
+          value: 19.86
+          units: km
     - name: Agricola
       region: MS
       lat: '30.8120'
       long: "-88.5224"
+      closest_rate_centers:
+      - name: Lucedale
+        distance:
+          value: 14.26
+          units: km
+      - name: Hurley
+        distance:
+          value: 17.47
+          units: km
+      - name: Tanner-Williams
+        distance:
+          value: 21.24
+          units: km
     - name: Alcorn State University
       region: MS
       lat: '31.8804'
       long: "-91.1407"
+      closest_rate_centers:
+      - name: Port Gibson
+        distance:
+          value: 16.93
+          units: km
+      - name: Fayette
+        distance:
+          value: 19.83
+          units: km
+      - name: Hermanville
+        distance:
+          value: 29.21
+          units: km
     - name: Algoma
       region: MS
       lat: '34.1788'
       long: "-89.0336"
+      closest_rate_centers:
+      - name: Pontotoc
+        distance:
+          value: 8.75
+          units: km
+      - name: Houlka
+        distance:
+          value: 16.43
+          units: km
+      - name: Verona
+        distance:
+          value: 29.14
+          units: km
     - name: Alligator
       region: MS
       lat: '34.0899'
       long: "-90.7206"
+      closest_rate_centers:
+      - name: Duncan
+        distance:
+          value: 5.54
+          units: km
+      - name: Shelby
+        distance:
+          value: 16.01
+          units: km
+      - name: Clarksdale
+        distance:
+          value: 18.31
+          units: km
     - name: Amory
       region: MS
       lat: '33.9814'
       long: "-88.4823"
+      closest_rate_centers:
+      - name: Amory
+        distance:
+          value: 0.42
+          units: km
+      - name: Smithville
+        distance:
+          value: 11.89
+          units: km
+      - name: Nettleton
+        distance:
+          value: 17.47
+          units: km
     - name: Anguilla
       region: MS
       lat: '32.9719'
       long: "-90.8284"
+      closest_rate_centers:
+      - name: Rolling Fork
+        distance:
+          value: 8.45
+          units: km
+      - name: Glen Allan
+        distance:
+          value: 19.39
+          units: km
+      - name: Holly Bluff
+        distance:
+          value: 20.46
+          units: km
     - name: Arcola
       region: MS
       lat: '33.2705'
       long: "-90.8800"
+      closest_rate_centers:
+      - name: Hollandale
+        distance:
+          value: 11.75
+          units: km
+      - name: Leland
+        distance:
+          value: 15.57
+          units: km
+      - name: Greenville
+        distance:
+          value: 22.23
+          units: km
     - name: Arkabutla
       region: MS
       lat: '34.7003'
       long: "-90.1216"
+      closest_rate_centers:
+      - name: Coldwater
+        distance:
+          value: 14.44
+          units: km
+      - name: Senatobia
+        distance:
+          value: 16.84
+          units: km
+      - name: Hernando
+        distance:
+          value: 18.14
+          units: km
     - name: Arnold Line
       region: MS
       lat: '31.3372'
       long: "-89.3771"
+      closest_rate_centers:
+      - name: Hattiesburg
+        distance:
+          value: 8.26
+          units: km
+      - name: Sumrall
+        distance:
+          value: 17.9
+          units: km
+      - name: Purvis
+        distance:
+          value: 22.24
+          units: km
     - name: Artesia
       region: MS
       lat: '33.4164'
       long: "-88.6424"
+      closest_rate_centers:
+      - name: Artesia-Crawford
+        distance:
+          value: 6.35
+          units: km
+      - name: Starkville
+        distance:
+          value: 16.98
+          units: km
+      - name: West Point
+        distance:
+          value: 21.1
+          units: km
     - name: Ashland
       region: MS
       lat: '34.8341'
       long: "-89.1778"
+      closest_rate_centers:
+      - name: Ashland
+        distance:
+          value: 0.48
+          units: km
+      - name: Michigan City
+        distance:
+          value: 18.8
+          units: km
+      - name: South Moscow
+        distance:
+          value: 22.08
+          units: km
     - name: Austin
       region: MS
       lat: '34.6423'
       long: "-90.4480"
+      closest_rate_centers:
+      - name: Tunica
+        distance:
+          value: 7.7
+          units: km
+      - name: Lula
+        distance:
+          value: 21.79
+          units: km
+      - name: Crenshaw
+        distance:
+          value: 27.85
+          units: km
     - name: Baldwyn
       region: MS
       lat: '34.5071'
       long: "-88.6416"
+      closest_rate_centers:
+      - name: Baldwyn
+        distance:
+          value: 0.28
+          units: km
+      - name: Guntown
+        distance:
+          value: 6.99
+          units: km
+      - name: Booneville
+        distance:
+          value: 18.29
+          units: km
     - name: Bassfield
       region: MS
       lat: '31.4959'
       long: "-89.7449"
+      closest_rate_centers:
+      - name: Bassfield
+        distance:
+          value: 0.45
+          units: km
+      - name: Prentiss
+        distance:
+          value: 16.29
+          units: km
+      - name: Sumrall
+        distance:
+          value: 21.26
+          units: km
     - name: Batesville
       region: MS
       lat: '34.3148'
       long: "-89.9249"
+      closest_rate_centers:
+      - name: Batesville
+        distance:
+          value: 2.61
+          units: km
+      - name: Sardis
+        distance:
+          value: 13.09
+          units: km
+      - name: Como
+        distance:
+          value: 21.35
+          units: km
     - name: Baxterville
       region: MS
       lat: '31.0837'
       long: "-89.5891"
+      closest_rate_centers:
+      - name: Lumberton
+        distance:
+          value: 15.08
+          units: km
+      - name: Purvis
+        distance:
+          value: 18.36
+          units: km
+      - name: Poplarville
+        distance:
+          value: 26.58
+          units: km
     - name: Bay Springs
       region: MS
       lat: '31.9772'
       long: "-89.2792"
+      closest_rate_centers:
+      - name: Bay Springs
+        distance:
+          value: 0.7
+          units: km
+      - name: Sylvarena
+        distance:
+          value: 10.14
+          units: km
+      - name: Louin
+        distance:
+          value: 10.2
+          units: km
     - name: Bay St. Louis
       region: MS
       lat: '30.3281'
       long: "-89.3774"
+      closest_rate_centers:
+      - name: Bay St Louis
+        distance:
+          value: 4.76
+          units: km
+      - name: Pass Christian
+        distance:
+          value: 12.15
+          units: km
+      - name: Pearlington
+        distance:
+          value: 23.72
+          units: km
     - name: Beaumont
       region: MS
       lat: '31.1707'
       long: "-88.9252"
+      closest_rate_centers:
+      - name: Beaumont
+        distance:
+          value: 1.16
+          units: km
+      - name: New Augusta
+        distance:
+          value: 11.1
+          units: km
+      - name: McLain
+        distance:
+          value: 11.11
+          units: km
     - name: Beauregard
       region: MS
       lat: '31.7210'
       long: "-90.3859"
+      closest_rate_centers:
+      - name: Wesson
+        distance:
+          value: 2.77
+          units: km
+      - name: Hazlehurst
+        distance:
+          value: 16.33
+          units: km
+      - name: Brookhaven
+        distance:
+          value: 17.29
+          units: km
     - name: Beechwood
       region: MS
       lat: '32.3303'
       long: "-90.8190"
+      closest_rate_centers:
+      - name: Vicksburg
+        distance:
+          value: 6.38
+          units: km
+      - name: Edwards
+        distance:
+          value: 20.35
+          units: km
+      - name: Eagle Lake
+        distance:
+          value: 25.49
+          units: km
     - name: Belmont
       region: MS
       lat: '34.5046'
       long: "-88.2080"
+      closest_rate_centers:
+      - name: Belmont
+        distance:
+          value: 0.88
+          units: km
+      - name: Red Bay
+        distance:
+          value: 8.32
+          units: km
+      - name: Tishomingo
+        distance:
+          value: 14.33
+          units: km
     - name: Belzoni
       region: MS
       lat: '33.1804'
       long: "-90.4863"
+      closest_rate_centers:
+      - name: Belzoni
+        distance:
+          value: 0.42
+          units: km
+      - name: Isola
+        distance:
+          value: 13.86
+          units: km
+      - name: Inverness
+        distance:
+          value: 21.44
+          units: km
     - name: Benndale
       region: MS
       lat: '30.8686'
       long: "-88.8055"
+      closest_rate_centers:
+      - name: Benndale
+        distance:
+          value: 0.18
+          units: km
+      - name: Lucedale
+        distance:
+          value: 21.03
+          units: km
+      - name: McLain
+        distance:
+          value: 26.69
+          units: km
     - name: Benoit
       region: MS
       lat: '33.6517'
       long: "-91.0087"
+      closest_rate_centers:
+      - name: Benoit
+        distance:
+          value: 0.41
+          units: km
+      - name: Pace
+        distance:
+          value: 20.76
+          units: km
+      - name: Shaw
+        distance:
+          value: 22.71
+          units: km
     - name: Benton
       region: MS
       lat: '32.8230'
       long: "-90.2634"
+      closest_rate_centers:
+      - name: Yazoo City
+        distance:
+          value: 13.1
+          units: km
+      - name: Pickens
+        distance:
+          value: 27.82
+          units: km
+      - name: Flora
+        distance:
+          value: 31.67
+          units: km
     - name: Bentonia
       region: MS
       lat: '32.6437'
       long: "-90.3692"
+      closest_rate_centers:
+      - name: Flora
+        distance:
+          value: 12.69
+          units: km
+      - name: Yazoo City
+        distance:
+          value: 23.17
+          units: km
+      - name: Madison
+        distance:
+          value: 30.75
+          units: km
     - name: Bethlehem
       region: MS
       lat: '34.5774'
       long: "-89.3289"
+      closest_rate_centers:
+      - name: Myrtle
+        distance:
+          value: 19.76
+          units: km
+      - name: Holly Springs
+        distance:
+          value: 23.73
+          units: km
+      - name: Chulahoma
+        distance:
+          value: 29.06
+          units: km
     - name: Beulah
       region: MS
       lat: '33.7905'
       long: "-90.9802"
+      closest_rate_centers:
+      - name: Rosedale
+        distance:
+          value: 8.56
+          units: km
+      - name: Pace
+        distance:
+          value: 11.94
+          units: km
+      - name: Benoit
+        distance:
+          value: 16.05
+          units: km
     - name: Big Creek
       region: MS
       lat: '33.8464'
       long: "-89.4159"
+      closest_rate_centers:
+      - name: Calhoun City
+        distance:
+          value: 10.27
+          units: km
+      - name: Slate Springs
+        distance:
+          value: 13.23
+          units: km
+      - name: Parker
+        distance:
+          value: 17.18
+          units: km
+      - name: Pittsboro
+        distance:
+          value: 17.18
+          units: km
+      - name: Bruce
+        distance:
+          value: 17.18
+          units: km
+      - name: Long
+        distance:
+          value: 17.18
+          units: km
     - name: Big Point
       region: MS
       lat: '30.5905'
       long: "-88.4846"
+      closest_rate_centers:
+      - name: Tanner-Williams
+        distance:
+          value: 5.72
+          units: km
+      - name: Hurley
+        distance:
+          value: 7.43
+          units: km
+      - name: Moss Point
+        distance:
+          value: 20.66
+          units: km
     - name: Biggersville
       region: MS
       lat: '34.8367'
       long: "-88.5639"
+      closest_rate_centers:
+      - name: Rienzi
+        distance:
+          value: 8.53
+          units: km
+      - name: Corinth
+        distance:
+          value: 12.23
+          units: km
+      - name: Booneville
+        distance:
+          value: 19.7
+          units: km
     - name: Biloxi
       region: MS
       lat: '30.4426'
       long: "-88.9514"
+      closest_rate_centers:
+      - name: Biloxi
+        distance:
+          value: 7.04
+          units: km
+      - name: Ocean Springs
+        distance:
+          value: 11.65
+          units: km
+      - name: Gulfport
+        distance:
+          value: 15.11
+          units: km
     - name: Blue Mountain
       region: MS
       lat: '34.6739'
       long: "-89.0262"
+      closest_rate_centers:
+      - name: Blue Mountain
+        distance:
+          value: 0.86
+          units: km
+      - name: Ripley
+        distance:
+          value: 9.56
+          units: km
+      - name: Myrtle
+        distance:
+          value: 15.09
+          units: km
     - name: Blue Springs
       region: MS
       lat: '34.3922'
       long: "-88.8779"
+      closest_rate_centers:
+      - name: New Albany
+        distance:
+          value: 15.66
+          units: km
+      - name: Pontotoc
+        distance:
+          value: 19.2
+          units: km
+      - name: Guntown
+        distance:
+          value: 20.43
+          units: km
     - name: Bobo
       region: MS
       lat: '34.1336'
       long: "-90.6776"
+      closest_rate_centers:
+      - name: Duncan
+        distance:
+          value: 11.63
+          units: km
+      - name: Clarksdale
+        distance:
+          value: 12.14
+          units: km
+      - name: Shelby
+        distance:
+          value: 21.91
+          units: km
     - name: Bogue Chitto
       region: MS
       lat: '32.8338'
       long: "-88.9189"
+      closest_rate_centers:
+      - name: Lynville
+        distance:
+          value: 9.67
+          units: km
+      - name: Philadelphia
+        distance:
+          value: 18.75
+          units: km
+      - name: Noxapater
+        distance:
+          value: 22.31
+          units: km
     - name: Bolivar
       region: MS
       lat: '33.6606'
       long: "-91.0519"
+      closest_rate_centers:
+      - name: Benoit
+        distance:
+          value: 4.27
+          units: km
+      - name: Rosedale
+        distance:
+          value: 22.22
+          units: km
+      - name: Pace
+        distance:
+          value: 23.13
+          units: km
     - name: Bolton
       region: MS
       lat: '32.3546'
       long: "-90.4586"
+      closest_rate_centers:
+      - name: Bolton
+        distance:
+          value: 0.4
+          units: km
+      - name: Raymond
+        distance:
+          value: 11.58
+          units: km
+      - name: Clinton
+        distance:
+          value: 12.45
+          units: km
     - name: Bond
       region: MS
       lat: '30.8970'
       long: "-89.1637"
+      closest_rate_centers:
+      - name: Wiggins
+        distance:
+          value: 5.11
+          units: km
+      - name: Janice
+        distance:
+          value: 18.44
+          units: km
+      - name: Lumberton
+        distance:
+          value: 30.67
+          units: km
     - name: Booneville
       region: MS
       lat: '34.6643'
       long: "-88.5684"
+      closest_rate_centers:
+      - name: Booneville
+        distance:
+          value: 0.55
+          units: km
+      - name: Rienzi
+        distance:
+          value: 12.04
+          units: km
+      - name: Baldwyn
+        distance:
+          value: 18.45
+          units: km
     - name: Bovina
       region: MS
       lat: '32.3499'
       long: "-90.7359"
+      closest_rate_centers:
+      - name: Edwards
+        distance:
+          value: 12.68
+          units: km
+      - name: Vicksburg
+        distance:
+          value: 14.09
+          units: km
+      - name: Bolton
+        distance:
+          value: 25.92
+          units: km
     - name: Boyle
       region: MS
       lat: '33.7065'
       long: "-90.7249"
+      closest_rate_centers:
+      - name: Cleveland
+        distance:
+          value: 4.06
+          units: km
+      - name: Shaw
+        distance:
+          value: 11.71
+          units: km
+      - name: Pace
+        distance:
+          value: 14.56
+          units: km
     - name: Brandon
       region: MS
       lat: '32.2778'
       long: "-89.9896"
+      closest_rate_centers:
+      - name: Brandon
+        distance:
+          value: 0.44
+          units: km
+      - name: Pelahatchie
+        distance:
+          value: 18.4
+          units: km
+      - name: Jackson
+        distance:
+          value: 19.33
+          units: km
     - name: Braxton
       region: MS
       lat: '32.0264'
       long: "-89.9715"
+      closest_rate_centers:
+      - name: Mendenhall
+        distance:
+          value: 11.37
+          units: km
+      - name: Florence
+        distance:
+          value: 20.65
+          units: km
+      - name: Georgetown
+        distance:
+          value: 25.3
+          units: km
     - name: Bridgetown
       region: MS
       lat: '34.8907'
       long: "-89.9069"
+      closest_rate_centers:
+      - name: Hernando
+        distance:
+          value: 10.76
+          units: km
+      - name: Memphis
+        distance:
+          value: 10.89
+          units: km
+      - name: Olive Branch
+        distance:
+          value: 12.06
+          units: km
     - name: Brookhaven
       region: MS
       lat: '31.5803'
       long: "-90.4432"
+      closest_rate_centers:
+      - name: Brookhaven
+        distance:
+          value: 0.79
+          units: km
+      - name: Wesson
+        distance:
+          value: 13.87
+          units: km
+      - name: Monticello
+        distance:
+          value: 31.82
+          units: km
     - name: Brooksville
       region: MS
       lat: '33.2367'
       long: "-88.5781"
+      closest_rate_centers:
+      - name: Macon
+        distance:
+          value: 13.6
+          units: km
+      - name: Artesia-Crawford
+        distance:
+          value: 14.6
+          units: km
+      - name: Shuqualak
+        distance:
+          value: 29.11
+          units: km
     - name: Bruce
       region: MS
       lat: '33.9909'
       long: "-89.3454"
+      closest_rate_centers:
+      - name: Pittsboro
+        distance:
+          value: 0.44
+          units: km
+      - name: Parker
+        distance:
+          value: 0.44
+          units: km
+      - name: Bruce
+        distance:
+          value: 0.44
+          units: km
+      - name: Long
+        distance:
+          value: 0.44
+          units: km
+      - name: Calhoun City
+        distance:
+          value: 15.16
+          units: km
+      - name: Vardaman
+        distance:
+          value: 19.89
+          units: km
     - name: Buckatunna
       region: MS
       lat: '31.5424'
       long: "-88.5292"
+      closest_rate_centers:
+      - name: Buckatunna
+        distance:
+          value: 1.18
+          units: km
+      - name: State Line
+        distance:
+          value: 13.19
+          units: km
+      - name: Waynesboro
+        distance:
+          value: 18.21
+          units: km
     - name: Bude
       region: MS
       lat: '31.4630'
       long: "-90.8509"
+      closest_rate_centers:
+      - name: Meadville
+        distance:
+          value: 3.94
+          units: km
+      - name: Eddiceton
+        distance:
+          value: 6.97
+          units: km
+      - name: Roxie
+        distance:
+          value: 20.7
+          units: km
     - name: Burnsville
       region: MS
       lat: '34.8348'
       long: "-88.3177"
+      closest_rate_centers:
+      - name: Burnsville
+        distance:
+          value: 0.98
+          units: km
+      - name: Iuka
+        distance:
+          value: 11.51
+          units: km
+      - name: Yellow Creek
+        distance:
+          value: 19.93
+          units: km
     - name: Byhalia
       region: MS
       lat: '34.8690'
       long: "-89.6890"
+      closest_rate_centers:
+      - name: Byhalia
+        distance:
+          value: 0.68
+          units: km
+      - name: Olive Branch
+        distance:
+          value: 15.9
+          units: km
+      - name: Mount Pleasant
+        distance:
+          value: 18.16
+          units: km
     - name: Byram
       region: MS
       lat: '32.1890'
       long: "-90.2861"
+      closest_rate_centers:
+      - name: Terry
+        distance:
+          value: 9.86
+          units: km
+      - name: Raymond
+        distance:
+          value: 14.45
+          units: km
+      - name: Florence
+        distance:
+          value: 14.82
+          units: km
     - name: Caledonia
       region: MS
       lat: '33.6836'
       long: "-88.3260"
+      closest_rate_centers:
+      - name: Caledonia
+        distance:
+          value: 0.11
+          units: km
+      - name: Columbus AFB
+        distance:
+          value: 13.61
+          units: km
+      - name: Columbus
+        distance:
+          value: 22.02
+          units: km
     - name: Calhoun City
       region: MS
       lat: '33.8588'
       long: "-89.3145"
+      closest_rate_centers:
+      - name: Calhoun City
+        distance:
+          value: 0.81
+          units: km
+      - name: Vardaman
+        distance:
+          value: 13.11
+          units: km
+      - name: Slate Springs
+        distance:
+          value: 14.65
+          units: km
     - name: Canton
       region: MS
       lat: '32.5975'
       long: "-90.0317"
+      closest_rate_centers:
+      - name: Canton
+        distance:
+          value: 1.33
+          units: km
+      - name: Madison
+        distance:
+          value: 16.71
+          units: km
+      - name: Flora
+        distance:
+          value: 26.85
+          units: km
     - name: Carrollton
       region: MS
       lat: '33.5056'
       long: "-89.9218"
+      closest_rate_centers:
+      - name: Carrollton
+        distance:
+          value: 0.7
+          units: km
+      - name: Winona
+        distance:
+          value: 18.46
+          units: km
+      - name: Greenwood
+        distance:
+          value: 24.08
+          units: km
     - name: Carthage
       region: MS
       lat: '32.7431'
       long: "-89.5337"
+      closest_rate_centers:
+      - name: Carthage
+        distance:
+          value: 0.22
+          units: km
+      - name: Kosciusko
+        distance:
+          value: 35.68
+          units: km
+      - name: Philadelphia
+        distance:
+          value: 40.01
+          units: km
     - name: Cary
       region: MS
       lat: '32.8056'
       long: "-90.9247"
+      closest_rate_centers:
+      - name: Rolling Fork
+        distance:
+          value: 12.17
+          units: km
+      - name: Holly Bluff
+        distance:
+          value: 20.28
+          units: km
+      - name: Glen Allan
+        distance:
+          value: 26.16
+          units: km
     - name: Centreville
       region: MS
       lat: '31.0870'
       long: "-91.0655"
+      closest_rate_centers:
+      - name: Centreville
+        distance:
+          value: 0.42
+          units: km
+      - name: Gloster
+        distance:
+          value: 13.52
+          units: km
+      - name: Crosby
+        distance:
+          value: 22.06
+          units: km
     - name: Chalybeate
       region: MS
       lat: '34.9319'
       long: "-88.8703"
+      closest_rate_centers:
+      - name: Walnut
+        distance:
+          value: 4.1
+          units: km
+      - name: Ripley
+        distance:
+          value: 23.2
+          units: km
+      - name: Ashland
+        distance:
+          value: 29.76
+          units: km
     - name: Charleston
       region: MS
       lat: '34.0075'
       long: "-90.0552"
+      closest_rate_centers:
+      - name: Charleston
+        distance:
+          value: 0.62
+          units: km
+      - name: Oakland
+        distance:
+          value: 14.27
+          units: km
+      - name: Sumner
+        distance:
+          value: 29.15
+          units: km
     - name: Chunky
       region: MS
       lat: '32.3275'
       long: "-88.9302"
+      closest_rate_centers:
+      - name: Duffee
+        distance:
+          value: 18.88
+          units: km
+      - name: Enterprise
+        distance:
+          value: 19.68
+          units: km
+      - name: Decatur
+        distance:
+          value: 20.57
+          units: km
     - name: Clara
       region: MS
       lat: '31.5831'
       long: "-88.6916"
+      closest_rate_centers:
+      - name: Waynesboro
+        distance:
+          value: 11.26
+          units: km
+      - name: Buckatunna
+        distance:
+          value: 17.21
+          units: km
+      - name: State Line
+        distance:
+          value: 26.31
+          units: km
     - name: Clarksdale
       region: MS
       lat: '34.1933'
       long: "-90.5693"
+      closest_rate_centers:
+      - name: Clarksdale
+        distance:
+          value: 1.07
+          units: km
+      - name: Jonestown
+        distance:
+          value: 17.76
+          units: km
+      - name: Friars Point
+        distance:
+          value: 19.97
+          units: km
     - name: Cleary
       region: MS
       lat: '32.1635'
       long: "-90.1819"
+      closest_rate_centers:
+      - name: Florence
+        distance:
+          value: 4.62
+          units: km
+      - name: Terry
+        distance:
+          value: 12.33
+          units: km
+      - name: Jackson
+        distance:
+          value: 15.43
+          units: km
     - name: Cleveland
       region: MS
       lat: '33.7440'
       long: "-90.7285"
+      closest_rate_centers:
+      - name: Cleveland
+        distance:
+          value: 0.57
+          units: km
+      - name: Merigold
+        distance:
+          value: 10.92
+          units: km
+      - name: Pace
+        distance:
+          value: 12.21
+          units: km
     - name: Clinton
       region: MS
       lat: '32.3540'
       long: "-90.3403"
+      closest_rate_centers:
+      - name: Clinton
+        distance:
+          value: 1.83
+          units: km
+      - name: Bolton
+        distance:
+          value: 11.25
+          units: km
+      - name: Raymond
+        distance:
+          value: 13.05
+          units: km
     - name: Cloverdale
       region: MS
       lat: '31.4960'
       long: "-91.4152"
+      closest_rate_centers:
+      - name: Natchez
+        distance:
+          value: 7.09
+          units: km
+      - name: Roxie
+        distance:
+          value: 33.29
+          units: km
+      - name: Crosby
+        distance:
+          value: 41.13
+          units: km
     - name: Coahoma
       region: MS
       lat: '34.3664'
       long: "-90.5220"
+      closest_rate_centers:
+      - name: Jonestown
+        distance:
+          value: 7.31
+          units: km
+      - name: Lula
+        distance:
+          value: 9.74
+          units: km
+      - name: Friars Point
+        distance:
+          value: 10.3
+          units: km
     - name: Coffeeville
       region: MS
       lat: '33.9764'
       long: "-89.6845"
+      closest_rate_centers:
+      - name: Coffeeville
+        distance:
+          value: 1.04
+          units: km
+      - name: Water Valley
+        distance:
+          value: 21.01
+          units: km
+      - name: Oakland
+        distance:
+          value: 22.08
+          units: km
     - name: Coldwater
       region: MS
       lat: '34.6902'
       long: "-89.9757"
+      closest_rate_centers:
+      - name: Coldwater
+        distance:
+          value: 1.19
+          units: km
+      - name: Senatobia
+        distance:
+          value: 8.05
+          units: km
+      - name: Hernando
+        distance:
+          value: 15.06
+          units: km
     - name: Collins
       region: MS
       lat: '31.6469'
       long: "-89.5669"
+      closest_rate_centers:
+      - name: Collins
+        distance:
+          value: 1.2
+          units: km
+      - name: Seminary
+        distance:
+          value: 11.44
+          units: km
+      - name: Mount Olive
+        distance:
+          value: 14.75
+          units: km
     - name: Collinsville
       region: MS
       lat: '32.4912'
       long: "-88.8452"
+      closest_rate_centers:
+      - name: Obadiah
+        distance:
+          value: 6.42
+          units: km
+      - name: Duffee
+        distance:
+          value: 7.62
+          units: km
+      - name: Briarwood
+        distance:
+          value: 14.68
+          units: km
     - name: Columbia
       region: MS
       lat: '31.2564'
       long: "-89.8266"
+      closest_rate_centers:
+      - name: Columbia
+        distance:
+          value: 0.7
+          units: km
+      - name: Bassfield
+        distance:
+          value: 28.18
+          units: km
+      - name: Sumrall
+        distance:
+          value: 32.59
+          units: km
     - name: Columbus
       region: MS
       lat: '33.5088'
       long: "-88.4096"
+      closest_rate_centers:
+      - name: Columbus
+        distance:
+          value: 1.15
+          units: km
+      - name: Columbus AFB
+        distance:
+          value: 12.85
+          units: km
+      - name: Caledonia
+        distance:
+          value: 21.01
+          units: km
     - name: Columbus AFB
       region: MS
       lat: '33.6276'
       long: "-88.4454"
+      closest_rate_centers:
+      - name: Columbus AFB
+        distance:
+          value: 1.08
+          units: km
+      - name: Caledonia
+        distance:
+          value: 12.79
+          units: km
+      - name: Columbus
+        distance:
+          value: 14.31
+          units: km
     - name: Como
       region: MS
       lat: '34.5134'
       long: "-89.9391"
+      closest_rate_centers:
+      - name: Como
+        distance:
+          value: 0.9
+          units: km
+      - name: Sardis
+        distance:
+          value: 9.27
+          units: km
+      - name: Senatobia
+        distance:
+          value: 11.92
+          units: km
     - name: Conehatta
       region: MS
       lat: '32.4601'
       long: "-89.2785"
+      closest_rate_centers:
+      - name: Lake
+        distance:
+          value: 13.2
+          units: km
+      - name: Decatur
+        distance:
+          value: 16.24
+          units: km
+      - name: Newton
+        distance:
+          value: 19.21
+          units: km
+      - name: Hickory
+        distance:
+          value: 19.21
+          units: km
     - name: Corinth
       region: MS
       lat: '34.9474'
       long: "-88.5143"
+      closest_rate_centers:
+      - name: Corinth
+        distance:
+          value: 0.89
+          units: km
+      - name: Rienzi
+        distance:
+          value: 20.12
+          units: km
+      - name: Burnsville
+        distance:
+          value: 22.04
+          units: km
     - name: Courtland
       region: MS
       lat: '34.2411'
       long: "-89.9433"
+      closest_rate_centers:
+      - name: Batesville
+        distance:
+          value: 7.49
+          units: km
+      - name: Sardis
+        distance:
+          value: 21.41
+          units: km
+      - name: Oakland
+        distance:
+          value: 21.75
+          units: km
     - name: Crawford
       region: MS
       lat: '33.3023'
       long: "-88.6255"
+      closest_rate_centers:
+      - name: Artesia-Crawford
+        distance:
+          value: 6.44
+          units: km
+      - name: Macon
+        distance:
+          value: 21.69
+          units: km
+      - name: Starkville
+        distance:
+          value: 25.04
+          units: km
     - name: Crenshaw
       region: MS
       lat: '34.5047'
       long: "-90.1946"
+      closest_rate_centers:
+      - name: Crenshaw
+        distance:
+          value: 0.46
+          units: km
+      - name: Como
+        distance:
+          value: 23.9
+          units: km
+      - name: Senatobia
+        distance:
+          value: 24.38
+          units: km
     - name: Crosby
       region: MS
       lat: '31.2791'
       long: "-91.0630"
+      closest_rate_centers:
+      - name: Crosby
+        distance:
+          value: 0.78
+          units: km
+      - name: Gloster
+        distance:
+          value: 9.74
+          units: km
+      - name: Centreville
+        distance:
+          value: 21.67
+          units: km
     - name: Crowder
       region: MS
       lat: '34.1729'
       long: "-90.1376"
+      closest_rate_centers:
+      - name: Marks
+        distance:
+          value: 15.03
+          units: km
+      - name: Charleston
+        distance:
+          value: 20.13
+          units: km
+      - name: Batesville
+        distance:
+          value: 22.73
+          units: km
     - name: Cruger
       region: MS
       lat: '33.3230'
       long: "-90.2355"
+      closest_rate_centers:
+      - name: Tchula
+        distance:
+          value: 15.35
+          units: km
+      - name: Itta Bena
+        distance:
+          value: 21.23
+          units: km
+      - name: Greenwood
+        distance:
+          value: 22.1
+          units: km
     - name: Crystal Springs
       region: MS
       lat: '31.9903'
       long: "-90.3540"
+      closest_rate_centers:
+      - name: Crystal Springs
+        distance:
+          value: 0.73
+          units: km
+      - name: Terry
+        distance:
+          value: 13.66
+          units: km
+      - name: Hazlehurst
+        distance:
+          value: 14.23
+          units: km
     - name: D'Iberville
       region: MS
       lat: '30.4709'
       long: "-88.9011"
+      closest_rate_centers:
+      - name: Biloxi
+        distance:
+          value: 7.88
+          units: km
+      - name: Ocean Springs
+        distance:
+          value: 8.74
+          units: km
+      - name: Gulfport
+        distance:
+          value: 20.85
+          units: km
     - name: D'Lo
       region: MS
       lat: '31.9869'
       long: "-89.9011"
+      closest_rate_centers:
+      - name: Mendenhall
+        distance:
+          value: 3.43
+          units: km
+      - name: Magee
+        distance:
+          value: 20.05
+          units: km
+      - name: White Oak
+        distance:
+          value: 22.0
+          units: km
     - name: Darling
       region: MS
       lat: '34.3591'
       long: "-90.2754"
+      closest_rate_centers:
+      - name: Marks
+        distance:
+          value: 11.45
+          units: km
+      - name: Crenshaw
+        distance:
+          value: 17.34
+          units: km
+      - name: Jonestown
+        distance:
+          value: 17.38
+          units: km
     - name: De Kalb
       region: MS
       lat: '32.7707'
       long: "-88.6560"
+      closest_rate_centers:
+      - name: De Kalb
+        distance:
+          value: 0.66
+          units: km
+      - name: Lynville
+        distance:
+          value: 18.35
+          units: km
+      - name: Scooba
+        distance:
+          value: 18.39
+          units: km
     - name: De Soto
       region: MS
       lat: '31.9699'
       long: "-88.7205"
+      closest_rate_centers:
+      - name: Quitman
+        distance:
+          value: 7.07
+          units: km
+      - name: Shubuta
+        distance:
+          value: 12.91
+          units: km
+      - name: Enterprise
+        distance:
+          value: 24.79
+          units: km
     - name: DeLisle
       region: MS
       lat: '30.3848'
       long: "-89.2746"
+      closest_rate_centers:
+      - name: Pass Christian
+        distance:
+          value: 7.78
+          units: km
+      - name: Bay St Louis
+        distance:
+          value: 10.33
+          units: km
+      - name: Gulfport
+        distance:
+          value: 17.88
+          units: km
     - name: Decatur
       region: MS
       lat: '32.4339'
       long: "-89.1092"
+      closest_rate_centers:
+      - name: Decatur
+        distance:
+          value: 0.24
+          units: km
+      - name: Hickory
+        distance:
+          value: 14.17
+          units: km
+      - name: Newton
+        distance:
+          value: 14.17
+          units: km
+      - name: Union
+        distance:
+          value: 14.93
+          units: km
     - name: Delta City
       region: MS
       lat: '33.0738'
       long: "-90.7925"
+      closest_rate_centers:
+      - name: Hollandale
+        distance:
+          value: 11.73
+          units: km
+      - name: Rolling Fork
+        distance:
+          value: 20.1
+          units: km
+      - name: Louise
+        distance:
+          value: 21.38
+          units: km
     - name: Dennis
       region: MS
       lat: '34.5590'
       long: "-88.2303"
+      closest_rate_centers:
+      - name: Belmont
+        distance:
+          value: 5.66
+          units: km
+      - name: Tishomingo
+        distance:
+          value: 8.09
+          units: km
+      - name: Red Bay
+        distance:
+          value: 14.57
+          units: km
     - name: Derma
       region: MS
       lat: '33.8589'
       long: "-89.2878"
+      closest_rate_centers:
+      - name: Calhoun City
+        distance:
+          value: 1.65
+          units: km
+      - name: Vardaman
+        distance:
+          value: 10.69
+          units: km
+      - name: Slate Springs
+        distance:
+          value: 15.65
+          units: km
     - name: Diamondhead
       region: MS
       lat: '30.3791'
       long: "-89.3707"
+      closest_rate_centers:
+      - name: Bay St Louis
+        distance:
+          value: 8.72
+          units: km
+      - name: Pass Christian
+        distance:
+          value: 13.33
+          units: km
+      - name: Pearlington
+        distance:
+          value: 26.85
+          units: km
     - name: Doddsville
       region: MS
       lat: '33.6598'
       long: "-90.5214"
+      closest_rate_centers:
+      - name: Ruleville
+        distance:
+          value: 7.63
+          units: km
+      - name: Sunflower
+        distance:
+          value: 12.44
+          units: km
+      - name: Drew
+        distance:
+          value: 16.64
+          units: km
     - name: Drew
       region: MS
       lat: '33.8101'
       long: "-90.5304"
+      closest_rate_centers:
+      - name: Drew
+        distance:
+          value: 0.15
+          units: km
+      - name: Ruleville
+        distance:
+          value: 9.72
+          units: km
+      - name: Merigold
+        distance:
+          value: 18.48
+          units: km
     - name: Dublin
       region: MS
       lat: '34.0727'
       long: "-90.4892"
+      closest_rate_centers:
+      - name: Tutwiler
+        distance:
+          value: 8.58
+          units: km
+      - name: Sumner
+        distance:
+          value: 15.59
+          units: km
+      - name: Clarksdale
+        distance:
+          value: 16.38
+          units: km
     - name: Duck Hill
       region: MS
       lat: '33.6316'
       long: "-89.7154"
+      closest_rate_centers:
+      - name: Duck Hill
+        distance:
+          value: 0.73
+          units: km
+      - name: Winona
+        distance:
+          value: 16.69
+          units: km
+      - name: Grenada
+        distance:
+          value: 18.41
+          units: km
     - name: Dumas
       region: MS
       lat: '34.6381'
       long: "-88.8431"
+      closest_rate_centers:
+      - name: Ripley
+        distance:
+          value: 14.59
+          units: km
+      - name: Blue Mountain
+        distance:
+          value: 16.87
+          units: km
+      - name: New Albany
+        distance:
+          value: 21.82
+          units: km
     - name: Duncan
       region: MS
       lat: '34.0418'
       long: "-90.7459"
+      closest_rate_centers:
+      - name: Duncan
+        distance:
+          value: 0.55
+          units: km
+      - name: Shelby
+        distance:
+          value: 10.26
+          units: km
+      - name: Mound Bayou
+        distance:
+          value: 17.68
+          units: km
     - name: Dundee
       region: MS
       lat: '34.5271'
       long: "-90.4533"
+      closest_rate_centers:
+      - name: Lula
+        distance:
+          value: 9.21
+          units: km
+      - name: Tunica
+        distance:
+          value: 18.64
+          units: km
+      - name: Jonestown
+        distance:
+          value: 22.47
+          units: km
     - name: Durant
       region: MS
       lat: '33.0799'
       long: "-89.8566"
+      closest_rate_centers:
+      - name: Durant
+        distance:
+          value: 0.51
+          units: km
+      - name: Goodman
+        distance:
+          value: 13.56
+          units: km
+      - name: West
+        distance:
+          value: 15.18
+          units: km
     - name: Eagle Bend
       region: MS
       lat: '32.5227'
       long: "-91.0229"
+      closest_rate_centers:
+      - name: Eagle Lake
+        distance:
+          value: 3.43
+          units: km
+      - name: Vicksburg
+        distance:
+          value: 23.9
+          units: km
+      - name: Holly Bluff
+        distance:
+          value: 44.12
+          units: km
     - name: Eastabuchie
       region: MS
       lat: '31.4335'
       long: "-89.2847"
+      closest_rate_centers:
+      - name: Hattiesburg
+        distance:
+          value: 12.99
+          units: km
+      - name: Pittman
+        distance:
+          value: 16.97
+          units: km
+      - name: Ellisville
+        distance:
+          value: 20.39
+          units: km
     - name: Ecru
       region: MS
       lat: '34.3550'
       long: "-89.0222"
+      closest_rate_centers:
+      - name: Pontotoc
+        distance:
+          value: 11.53
+          units: km
+      - name: New Albany
+        distance:
+          value: 15.2
+          units: km
+      - name: Myrtle
+        distance:
+          value: 24.21
+          units: km
     - name: Eden
       region: MS
       lat: '32.9837'
       long: "-90.3240"
+      closest_rate_centers:
+      - name: Yazoo City
+        distance:
+          value: 16.41
+          units: km
+      - name: Tchula
+        distance:
+          value: 24.18
+          units: km
+      - name: Louise
+        distance:
+          value: 24.98
+          units: km
     - name: Edwards
       region: MS
       lat: '32.3326'
       long: "-90.6055"
+      closest_rate_centers:
+      - name: Edwards
+        distance:
+          value: 0.29
+          units: km
+      - name: Bolton
+        distance:
+          value: 13.82
+          units: km
+      - name: Raymond
+        distance:
+          value: 19.6
+          units: km
     - name: Elizabeth
       region: MS
       lat: '33.4271'
       long: "-90.8808"
+      closest_rate_centers:
+      - name: Leland
+        distance:
+          value: 2.66
+          units: km
+      - name: Greenville
+        distance:
+          value: 16.03
+          units: km
+      - name: Indianola
+        distance:
+          value: 21.49
+          units: km
     - name: Elliott
       region: MS
       lat: '33.6913'
       long: "-89.7525"
+      closest_rate_centers:
+      - name: Duck Hill
+        distance:
+          value: 7.49
+          units: km
+      - name: Grenada
+        distance:
+          value: 10.94
+          units: km
+      - name: Winona
+        distance:
+          value: 23.45
+          units: km
     - name: Ellisville
       region: MS
       lat: '31.5969'
       long: "-89.2091"
+      closest_rate_centers:
+      - name: Ellisville
+        distance:
+          value: 0.98
+          units: km
+      - name: Big Creek
+        distance:
+          value: 12.5
+          units: km
+      - name: Laurel
+        distance:
+          value: 12.8
+          units: km
     - name: Enterprise
       region: MS
       lat: '32.1731'
       long: "-88.8163"
+      closest_rate_centers:
+      - name: Enterprise
+        distance:
+          value: 0.87
+          units: km
+      - name: Rose Hill
+        distance:
+          value: 17.48
+          units: km
+      - name: Quitman
+        distance:
+          value: 17.68
+          units: km
     - name: Escatawpa
       region: MS
       lat: '30.4912'
       long: "-88.5495"
+      closest_rate_centers:
+      - name: Moss Point
+        distance:
+          value: 9.33
+          units: km
+      - name: Vancleave
+        distance:
+          value: 13.86
+          units: km
+      - name: Pascagoula
+        distance:
+          value: 13.97
+          units: km
     - name: Ethel
       region: MS
       lat: '33.1220'
       long: "-89.4650"
+      closest_rate_centers:
+      - name: Ethel
+        distance:
+          value: 0.73
+          units: km
+      - name: Kosciusko
+        distance:
+          value: 13.76
+          units: km
+      - name: McCool
+        distance:
+          value: 14.62
+          units: km
     - name: Eudora
       region: MS
       lat: '34.8310'
       long: "-90.1488"
+      closest_rate_centers:
+      - name: Hernando
+        distance:
+          value: 14.21
+          units: km
+      - name: Coldwater
+        distance:
+          value: 23.41
+          units: km
+      - name: Memphis
+        distance:
+          value: 24.76
+          units: km
     - name: Eupora
       region: MS
       lat: '33.5435'
       long: "-89.2765"
+      closest_rate_centers:
+      - name: Eupora
+        distance:
+          value: 0.46
+          units: km
+      - name: Maben
+        distance:
+          value: 17.85
+          units: km
+      - name: Chester
+        distance:
+          value: 21.09
+          units: km
     - name: Falcon
       region: MS
       lat: '34.3910'
       long: "-90.2555"
+      closest_rate_centers:
+      - name: Crenshaw
+        distance:
+          value: 13.36
+          units: km
+      - name: Marks
+        distance:
+          value: 15.0
+          units: km
+      - name: Jonestown
+        distance:
+          value: 20.16
+          units: km
     - name: Falkner
       region: MS
       lat: '34.8380'
       long: "-88.9424"
+      closest_rate_centers:
+      - name: Ripley
+        distance:
+          value: 11.57
+          units: km
+      - name: Walnut
+        distance:
+          value: 13.74
+          units: km
+      - name: Blue Mountain
+        distance:
+          value: 20.5
+          units: km
     - name: Farmington
       region: MS
       lat: '34.9224'
       long: "-88.4432"
+      closest_rate_centers:
+      - name: Corinth
+        distance:
+          value: 7.16
+          units: km
+      - name: Burnsville
+        distance:
+          value: 15.11
+          units: km
+      - name: Rienzi
+        distance:
+          value: 18.87
+          units: km
     - name: Farrell
       region: MS
       lat: '34.2617'
       long: "-90.6750"
+      closest_rate_centers:
+      - name: Clarksdale
+        distance:
+          value: 11.37
+          units: km
+      - name: Friars Point
+        distance:
+          value: 12.05
+          units: km
+      - name: Jonestown
+        distance:
+          value: 20.96
+          units: km
     - name: Fayette
       region: MS
       lat: '31.7122'
       long: "-91.0620"
+      closest_rate_centers:
+      - name: Fayette
+        distance:
+          value: 0.47
+          units: km
+      - name: Roxie
+        distance:
+          value: 23.31
+          units: km
+      - name: Port Gibson
+        distance:
+          value: 28.18
+          units: km
     - name: Fernwood
       region: MS
       lat: '31.1847'
       long: "-90.4531"
+      closest_rate_centers:
+      - name: Magnolia
+        distance:
+          value: 4.7
+          units: km
+      - name: McComb
+        distance:
+          value: 6.38
+          units: km
+      - name: Osyka
+        distance:
+          value: 20.85
+          units: km
     - name: Flora
       region: MS
       lat: '32.5433'
       long: "-90.3141"
+      closest_rate_centers:
+      - name: Flora
+        distance:
+          value: 0.44
+          units: km
+      - name: Madison
+        distance:
+          value: 20.31
+          units: km
+      - name: Clinton
+        distance:
+          value: 22.4
+          units: km
     - name: Florence
       region: MS
       lat: '32.1557'
       long: "-90.1225"
+      closest_rate_centers:
+      - name: Florence
+        distance:
+          value: 1.44
+          units: km
+      - name: Terry
+        distance:
+          value: 16.89
+          units: km
+      - name: Jackson
+        distance:
+          value: 17.57
+          units: km
     - name: Flowood
       region: MS
       lat: '32.3359'
       long: "-90.0802"
+      closest_rate_centers:
+      - name: Brandon
+        distance:
+          value: 11.11
+          units: km
+      - name: Jackson
+        distance:
+          value: 11.28
+          units: km
+      - name: Madison
+        distance:
+          value: 14.89
+          units: km
     - name: Forest
       region: MS
       lat: '32.3595'
       long: "-89.4761"
+      closest_rate_centers:
+      - name: Forest
+        distance:
+          value: 0.66
+          units: km
+      - name: Homewood
+        distance:
+          value: 13.32
+          units: km
+      - name: Lake
+        distance:
+          value: 13.96
+          units: km
     - name: Foxworth
       region: MS
       lat: '31.2385'
       long: "-89.8828"
+      closest_rate_centers:
+      - name: Columbia
+        distance:
+          value: 5.27
+          units: km
+      - name: Tylertown
+        distance:
+          value: 27.62
+          units: km
+      - name: Bassfield
+        distance:
+          value: 31.9
+          units: km
     - name: French Camp
       region: MS
       lat: '33.2931'
       long: "-89.3993"
+      closest_rate_centers:
+      - name: McCool
+        distance:
+          value: 11.65
+          units: km
+      - name: Chester
+        distance:
+          value: 16.23
+          units: km
+      - name: Ethel
+        distance:
+          value: 20.7
+          units: km
     - name: Friars Point
       region: MS
       lat: '34.3679'
       long: "-90.6379"
+      closest_rate_centers:
+      - name: Friars Point
+        distance:
+          value: 0.49
+          units: km
+      - name: Lula
+        distance:
+          value: 16.55
+          units: km
+      - name: Jonestown
+        distance:
+          value: 17.0
+          units: km
     - name: Fulton
       region: MS
       lat: '34.2616'
       long: "-88.4021"
+      closest_rate_centers:
+      - name: Fulton
+        distance:
+          value: 1.73
+          units: km
+      - name: Mantachie
+        distance:
+          value: 10.73
+          units: km
+      - name: Fairview
+        distance:
+          value: 14.01
+          units: km
     - name: Gattman
       region: MS
       lat: '33.8848'
       long: "-88.2367"
+      closest_rate_centers:
+      - name: Caledonia
+        distance:
+          value: 23.76
+          units: km
+      - name: Smithville
+        distance:
+          value: 25.18
+          units: km
+      - name: Amory
+        distance:
+          value: 25.21
+          units: km
     - name: Gautier
       region: MS
       lat: '30.4106'
       long: "-88.6568"
+      closest_rate_centers:
+      - name: Pascagoula
+        distance:
+          value: 11.45
+          units: km
+      - name: Moss Point
+        distance:
+          value: 12.13
+          units: km
+      - name: Vancleave
+        distance:
+          value: 13.14
+          units: km
     - name: Georgetown
       region: MS
       lat: '31.8698'
       long: "-90.1648"
+      closest_rate_centers:
+      - name: Georgetown
+        distance:
+          value: 0.27
+          units: km
+      - name: Hazlehurst
+        distance:
+          value: 21.92
+          units: km
+      - name: Crystal Springs
+        distance:
+          value: 22.01
+          units: km
     - name: Glen
       region: MS
       lat: '34.8585'
       long: "-88.4199"
+      closest_rate_centers:
+      - name: Burnsville
+        distance:
+          value: 10.18
+          units: km
+      - name: Corinth
+        distance:
+          value: 12.8
+          units: km
+      - name: Rienzi
+        distance:
+          value: 14.04
+          units: km
     - name: Glen Allan
       region: MS
       lat: '33.0267'
       long: "-91.0226"
+      closest_rate_centers:
+      - name: Glen Allan
+        distance:
+          value: 0.43
+          units: km
+      - name: Rolling Fork
+        distance:
+          value: 19.13
+          units: km
+      - name: Hollandale
+        distance:
+          value: 22.56
+          units: km
     - name: Glendale
       region: MS
       lat: '31.3680'
       long: "-89.3086"
+      closest_rate_centers:
+      - name: Hattiesburg
+        distance:
+          value: 5.86
+          units: km
+      - name: Sumrall
+        distance:
+          value: 22.68
+          units: km
+      - name: Pittman
+        distance:
+          value: 22.92
+          units: km
     - name: Glendora
       region: MS
       lat: '33.8275'
       long: "-90.2926"
+      closest_rate_centers:
+      - name: Sumner
+        distance:
+          value: 17.77
+          units: km
+      - name: Drew
+        distance:
+          value: 22.17
+          units: km
+      - name: Tutwiler
+        distance:
+          value: 24.18
+          units: km
     - name: Gloster
       region: MS
       lat: '31.1951'
       long: "-91.0176"
+      closest_rate_centers:
+      - name: Gloster
+        distance:
+          value: 0.67
+          units: km
+      - name: Crosby
+        distance:
+          value: 10.77
+          units: km
+      - name: Centreville
+        distance:
+          value: 13.24
+          units: km
     - name: Gluckstadt
       region: MS
       lat: '32.5322'
       long: "-90.1034"
+      closest_rate_centers:
+      - name: Madison
+        distance:
+          value: 7.49
+          units: km
+      - name: Canton
+        distance:
+          value: 11.01
+          units: km
+      - name: Flora
+        distance:
+          value: 19.42
+          units: km
     - name: Golden
       region: MS
       lat: '34.4866'
       long: "-88.1863"
+      closest_rate_centers:
+      - name: Belmont
+        distance:
+          value: 3.7
+          units: km
+      - name: Red Bay
+        distance:
+          value: 5.57
+          units: km
+      - name: Tishomingo
+        distance:
+          value: 16.7
+          units: km
     - name: Goodman
       region: MS
       lat: '32.9677'
       long: "-89.9128"
+      closest_rate_centers:
+      - name: Goodman
+        distance:
+          value: 0.12
+          units: km
+      - name: Pickens
+        distance:
+          value: 10.41
+          units: km
+      - name: Durant
+        distance:
+          value: 13.87
+          units: km
     - name: Grace
       region: MS
       lat: '32.9915'
       long: "-90.9569"
+      closest_rate_centers:
+      - name: Glen Allan
+        distance:
+          value: 7.48
+          units: km
+      - name: Rolling Fork
+        distance:
+          value: 12.09
+          units: km
+      - name: Hollandale
+        distance:
+          value: 22.06
+          units: km
     - name: Greenville
       region: MS
       lat: '33.3850'
       long: "-91.0514"
+      closest_rate_centers:
+      - name: Greenville
+        distance:
+          value: 2.71
+          units: km
+      - name: Leland
+        distance:
+          value: 14.29
+          units: km
+      - name: Benoit
+        distance:
+          value: 29.52
+          units: km
     - name: Greenwood
       region: MS
       lat: '33.5126'
       long: "-90.1993"
+      closest_rate_centers:
+      - name: Greenwood
+        distance:
+          value: 1.73
+          units: km
+      - name: Itta Bena
+        distance:
+          value: 11.12
+          units: km
+      - name: Carrollton
+        distance:
+          value: 26.24
+          units: km
     - name: Grenada
       region: MS
       lat: '33.7816'
       long: "-89.8130"
+      closest_rate_centers:
+      - name: Grenada
+        distance:
+          value: 1.17
+          units: km
+      - name: Duck Hill
+        distance:
+          value: 18.97
+          units: km
+      - name: Coffeeville
+        distance:
+          value: 25.18
+          units: km
     - name: Gulf Hills
       region: MS
       lat: '30.4367'
       long: "-88.8150"
+      closest_rate_centers:
+      - name: Ocean Springs
+        distance:
+          value: 2.66
+          units: km
+      - name: Biloxi
+        distance:
+          value: 8.85
+          units: km
+      - name: Vancleave
+        distance:
+          value: 15.63
+          units: km
     - name: Gulf Park Estates
       region: MS
       lat: '30.3802'
       long: "-88.7581"
+      closest_rate_centers:
+      - name: Ocean Springs
+        distance:
+          value: 8.36
+          units: km
+      - name: Biloxi
+        distance:
+          value: 13.5
+          units: km
+      - name: Vancleave
+        distance:
+          value: 17.48
+          units: km
     - name: Gulfport
       region: MS
       lat: '30.4274'
       long: "-89.0704"
+      closest_rate_centers:
+      - name: Gulfport
+        distance:
+          value: 6.01
+          units: km
+      - name: Biloxi
+        distance:
+          value: 16.91
+          units: km
+      - name: Pass Christian
+        distance:
+          value: 21.21
+          units: km
     - name: Gunnison
       region: MS
       lat: '33.9437'
       long: "-90.9468"
+      closest_rate_centers:
+      - name: Gunnison
+        distance:
+          value: 0.35
+          units: km
+      - name: Rosedale
+        distance:
+          value: 11.74
+          units: km
+      - name: Shelby
+        distance:
+          value: 16.51
+          units: km
     - name: Guntown
       region: MS
       lat: '34.4447'
       long: "-88.6641"
+      closest_rate_centers:
+      - name: Guntown
+        distance:
+          value: 0.33
+          units: km
+      - name: Baldwyn
+        distance:
+          value: 7.51
+          units: km
+      - name: Mantachie
+        distance:
+          value: 20.79
+          units: km
     - name: Hamilton
       region: MS
       lat: '33.7460'
       long: "-88.4095"
+      closest_rate_centers:
+      - name: Caledonia
+        distance:
+          value: 10.42
+          units: km
+      - name: Columbus AFB
+        distance:
+          value: 14.63
+          units: km
+      - name: Aberdeen
+        distance:
+          value: 15.51
+          units: km
     - name: Harperville
       region: MS
       lat: '32.4928'
       long: "-89.4879"
+      closest_rate_centers:
+      - name: Forest
+        distance:
+          value: 14.21
+          units: km
+      - name: Lake
+        distance:
+          value: 21.93
+          units: km
+      - name: Morton
+        distance:
+          value: 22.57
+          units: km
     - name: Hatley
       region: MS
       lat: '33.9773'
       long: "-88.4184"
+      closest_rate_centers:
+      - name: Amory
+        distance:
+          value: 5.91
+          units: km
+      - name: Smithville
+        distance:
+          value: 9.88
+          units: km
+      - name: Aberdeen
+        distance:
+          value: 21.07
+          units: km
     - name: Hattiesburg
       region: MS
       lat: '31.3074'
       long: "-89.3170"
+      closest_rate_centers:
+      - name: Hattiesburg
+        distance:
+          value: 2.47
+          units: km
+      - name: Purvis
+        distance:
+          value: 20.61
+          units: km
+      - name: Sumrall
+        distance:
+          value: 24.5
+          units: km
     - name: Hazlehurst
       region: MS
       lat: '31.8646'
       long: "-90.3929"
+      closest_rate_centers:
+      - name: Hazlehurst
+        distance:
+          value: 0.5
+          units: km
+      - name: Crystal Springs
+        distance:
+          value: 13.73
+          units: km
+      - name: Wesson
+        distance:
+          value: 18.33
+          units: km
     - name: Heidelberg
       region: MS
       lat: '31.8897'
       long: "-88.9878"
+      closest_rate_centers:
+      - name: Heidelberg
+        distance:
+          value: 0.69
+          units: km
+      - name: Laurel
+        distance:
+          value: 25.91
+          units: km
+      - name: Shubuta
+        distance:
+          value: 27.55
+          units: km
     - name: Helena
       region: MS
       lat: '30.4881'
       long: "-88.5056"
+      closest_rate_centers:
+      - name: Moss Point
+        distance:
+          value: 9.12
+          units: km
+      - name: Pascagoula
+        distance:
+          value: 14.25
+          units: km
+      - name: Tanner-Williams
+        distance:
+          value: 16.87
+          units: km
     - name: Henderson Point
       region: MS
       lat: '30.3153'
       long: "-89.2864"
+      closest_rate_centers:
+      - name: Pass Christian
+        distance:
+          value: 3.37
+          units: km
+      - name: Bay St Louis
+        distance:
+          value: 4.66
+          units: km
+      - name: Gulfport
+        distance:
+          value: 20.14
+          units: km
     - name: Hermanville
       region: MS
       lat: '31.9570'
       long: "-90.8405"
+      closest_rate_centers:
+      - name: Hermanville
+        distance:
+          value: 0.73
+          units: km
+      - name: Port Gibson
+        distance:
+          value: 13.71
+          units: km
+      - name: Barlow
+        distance:
+          value: 24.06
+          units: km
     - name: Hernando
       region: MS
       lat: '34.8500'
       long: "-89.9921"
+      closest_rate_centers:
+      - name: Hernando
+        distance:
+          value: 2.8
+          units: km
+      - name: Memphis
+        distance:
+          value: 15.21
+          units: km
+      - name: Coldwater
+        distance:
+          value: 18.59
+          units: km
     - name: Hickory
       region: MS
       lat: '32.3167'
       long: "-89.0217"
+      closest_rate_centers:
+      - name: Newton
+        distance:
+          value: 13.55
+          units: km
+      - name: Hickory
+        distance:
+          value: 13.55
+          units: km
+      - name: Decatur
+        distance:
+          value: 15.51
+          units: km
+      - name: Rose Hill
+        distance:
+          value: 19.1
+          units: km
     - name: Hickory Flat
       region: MS
       lat: '34.6160'
       long: "-89.1913"
+      closest_rate_centers:
+      - name: Myrtle
+        distance:
+          value: 9.48
+          units: km
+      - name: Blue Mountain
+        distance:
+          value: 16.27
+          units: km
+      - name: New Albany
+        distance:
+          value: 22.38
+          units: km
     - name: Hide-A-Way Lake
       region: MS
       lat: '30.5740'
       long: "-89.6418"
+      closest_rate_centers:
+      - name: Picayune
+        distance:
+          value: 6.11
+          units: km
+      - name: Crossroads
+        distance:
+          value: 27.44
+          units: km
+      - name: Poplarville
+        distance:
+          value: 32.19
+          units: km
     - name: Hillsboro
       region: MS
       lat: '32.4491'
       long: "-89.4889"
+      closest_rate_centers:
+      - name: Forest
+        distance:
+          value: 9.39
+          units: km
+      - name: Lake
+        distance:
+          value: 18.77
+          units: km
+      - name: Morton
+        distance:
+          value: 19.4
+          units: km
     - name: Holcomb
       region: MS
       lat: '33.7642'
       long: "-89.9732"
+      closest_rate_centers:
+      - name: Grenada
+        distance:
+          value: 16.09
+          units: km
+      - name: Charleston
+        distance:
+          value: 27.94
+          units: km
+      - name: Duck Hill
+        distance:
+          value: 28.41
+          units: km
     - name: Hollandale
       region: MS
       lat: '33.1761'
       long: "-90.8529"
+      closest_rate_centers:
+      - name: Hollandale
+        distance:
+          value: 0.96
+          units: km
+      - name: Glen Allan
+        distance:
+          value: 23.34
+          units: km
+      - name: Leland
+        distance:
+          value: 26.33
+          units: km
     - name: Holly Springs
       region: MS
       lat: '34.7768'
       long: "-89.4466"
+      closest_rate_centers:
+      - name: Holly Springs
+        distance:
+          value: 1.21
+          units: km
+      - name: Mount Pleasant
+        distance:
+          value: 20.05
+          units: km
+      - name: Chulahoma
+        distance:
+          value: 20.34
+          units: km
     - name: Horn Lake
       region: MS
       lat: '34.9512'
       long: "-90.0501"
+      closest_rate_centers:
+      - name: Memphis
+        distance:
+          value: 9.8
+          units: km
+      - name: Hernando
+        distance:
+          value: 14.97
+          units: km
+      - name: Olive Branch
+        distance:
+          value: 21.55
+          units: km
     - name: Houston
       region: MS
       lat: '33.8963'
       long: "-89.0031"
+      closest_rate_centers:
+      - name: Houston
+        distance:
+          value: 0.6
+          units: km
+      - name: Houlka
+        distance:
+          value: 15.1
+          units: km
+      - name: Vardaman
+        distance:
+          value: 15.97
+          units: km
     - name: Hurley
       region: MS
       lat: '30.6638'
       long: "-88.4994"
+      closest_rate_centers:
+      - name: Hurley
+        distance:
+          value: 0.94
+          units: km
+      - name: Tanner-Williams
+        distance:
+          value: 6.01
+          units: km
+      - name: Vancleave
+        distance:
+          value: 23.75
+          units: km
     - name: Independence
       region: MS
       lat: '34.7078'
       long: "-89.8075"
+      closest_rate_centers:
+      - name: Coldwater
+        distance:
+          value: 14.62
+          units: km
+      - name: Chulahoma
+        distance:
+          value: 17.12
+          units: km
+      - name: Senatobia
+        distance:
+          value: 17.66
+          units: km
     - name: Indianola
       region: MS
       lat: '33.4492'
       long: "-90.6447"
+      closest_rate_centers:
+      - name: Indianola
+        distance:
+          value: 0.67
+          units: km
+      - name: Inverness
+        distance:
+          value: 11.9
+          units: km
+      - name: Moorhead
+        distance:
+          value: 13.51
+          units: km
     - name: Inverness
       region: MS
       lat: '33.3543'
       long: "-90.5913"
+      closest_rate_centers:
+      - name: Inverness
+        distance:
+          value: 0.37
+          units: km
+      - name: Isola
+        distance:
+          value: 9.54
+          units: km
+      - name: Indianola
+        distance:
+          value: 12.2
+          units: km
     - name: Isola
       region: MS
       lat: '33.2634'
       long: "-90.5923"
+      closest_rate_centers:
+      - name: Isola
+        distance:
+          value: 0.57
+          units: km
+      - name: Inverness
+        distance:
+          value: 9.77
+          units: km
+      - name: Belzoni
+        distance:
+          value: 13.57
+          units: km
     - name: Itta Bena
       region: MS
       lat: '33.5003'
       long: "-90.3256"
+      closest_rate_centers:
+      - name: Itta Bena
+        distance:
+          value: 0.67
+          units: km
+      - name: Greenwood
+        distance:
+          value: 13.51
+          units: km
+      - name: Moorhead
+        distance:
+          value: 16.98
+          units: km
     - name: Iuka
       region: MS
       lat: '34.8077'
       long: "-88.1978"
+      closest_rate_centers:
+      - name: Iuka
+        distance:
+          value: 1.13
+          units: km
+      - name: Burnsville
+        distance:
+          value: 10.92
+          units: km
+      - name: Tishomingo
+        distance:
+          value: 19.84
+          units: km
     - name: Jacinto
       region: MS
       lat: '34.7622'
       long: "-88.4276"
+      closest_rate_centers:
+      - name: Rienzi
+        distance:
+          value: 8.96
+          units: km
+      - name: Burnsville
+        distance:
+          value: 13.85
+          units: km
+      - name: Booneville
+        distance:
+          value: 17.07
+          units: km
     - name: Jackson
       region: MS
       lat: '32.3157'
       long: "-90.2125"
+      closest_rate_centers:
+      - name: Jackson
+        distance:
+          value: 2.37
+          units: km
+      - name: Clinton
+        distance:
+          value: 11.14
+          units: km
+      - name: Madison
+        distance:
+          value: 18.92
+          units: km
     - name: Jonestown
       region: MS
       lat: '34.3222'
       long: "-90.4541"
+      closest_rate_centers:
+      - name: Jonestown
+        distance:
+          value: 0.64
+          units: km
+      - name: Lula
+        distance:
+          value: 14.41
+          units: km
+      - name: Friars Point
+        distance:
+          value: 17.2
+          units: km
     - name: Jumpertown
       region: MS
       lat: '34.7079'
       long: "-88.6619"
+      closest_rate_centers:
+      - name: Booneville
+        distance:
+          value: 10.24
+          units: km
+      - name: Rienzi
+        distance:
+          value: 14.07
+          units: km
+      - name: Baldwyn
+        distance:
+          value: 22.18
+          units: km
     - name: Kearney Park
       region: MS
       lat: '32.5897'
       long: "-90.3158"
+      closest_rate_centers:
+      - name: Flora
+        distance:
+          value: 5.45
+          units: km
+      - name: Madison
+        distance:
+          value: 23.1
+          units: km
+      - name: Canton
+        distance:
+          value: 26.88
+          units: km
     - name: Kilmichael
       region: MS
       lat: '33.4403'
       long: "-89.5665"
+      closest_rate_centers:
+      - name: Kilmichael
+        distance:
+          value: 0.13
+          units: km
+      - name: Winona
+        distance:
+          value: 15.39
+          units: km
+      - name: Vaiden
+        distance:
+          value: 20.19
+          units: km
     - name: Kiln
       region: MS
       lat: '30.4171'
       long: "-89.4322"
+      closest_rate_centers:
+      - name: Bay St Louis
+        distance:
+          value: 15.42
+          units: km
+      - name: Pass Christian
+        distance:
+          value: 20.57
+          units: km
+      - name: Pearlington
+        distance:
+          value: 25.01
+          units: km
     - name: Kirkville
       region: MS
       lat: '34.4420'
       long: "-88.4854"
+      closest_rate_centers:
+      - name: Mantachie
+        distance:
+          value: 13.35
+          units: km
+      - name: Baldwyn
+        distance:
+          value: 16.03
+          units: km
+      - name: Guntown
+        distance:
+          value: 16.52
+          units: km
     - name: Kokomo
       region: MS
       lat: '31.1991'
       long: "-90.0008"
+      closest_rate_centers:
+      - name: Tylertown
+        distance:
+          value: 15.81
+          units: km
+      - name: Columbia
+        distance:
+          value: 17.31
+          units: km
+      - name: Monticello
+        distance:
+          value: 40.51
+          units: km
     - name: Kosciusko
       region: MS
       lat: '33.0585'
       long: "-89.5893"
+      closest_rate_centers:
+      - name: Kosciusko
+        distance:
+          value: 0.38
+          units: km
+      - name: Ethel
+        distance:
+          value: 12.94
+          units: km
+      - name: West
+        distance:
+          value: 24.18
+          units: km
     - name: Kossuth
       region: MS
       lat: '34.8726'
       long: "-88.6428"
+      closest_rate_centers:
+      - name: Corinth
+        distance:
+          value: 13.59
+          units: km
+      - name: Rienzi
+        distance:
+          value: 15.91
+          units: km
+      - name: Booneville
+        distance:
+          value: 24.69
+          units: km
     - name: Lake
       region: MS
       lat: '32.3359'
       long: "-89.3158"
+      closest_rate_centers:
+      - name: Lake
+        distance:
+          value: 1.85
+          units: km
+      - name: Hickory
+        distance:
+          value: 14.26
+          units: km
+      - name: Newton
+        distance:
+          value: 14.26
+          units: km
+      - name: Forest
+        distance:
+          value: 15.36
+          units: km
     - name: Lakeview
       region: MS
       lat: '34.9874'
       long: "-90.1395"
+      closest_rate_centers:
+      - name: Memphis
+        distance:
+          value: 17.32
+          units: km
+      - name: Hernando
+        distance:
+          value: 22.46
+          units: km
+      - name: Olive Branch
+        distance:
+          value: 29.68
+          units: km
     - name: Lamar
       region: MS
       lat: '34.9123'
       long: "-89.3151"
+      closest_rate_centers:
+      - name: South Moscow
+        distance:
+          value: 8.16
+          units: km
+      - name: Michigan City
+        distance:
+          value: 8.69
+          units: km
+      - name: Ashland
+        distance:
+          value: 15.73
+          units: km
     - name: Lambert
       region: MS
       lat: '34.2006'
       long: "-90.2845"
+      closest_rate_centers:
+      - name: Marks
+        distance:
+          value: 6.43
+          units: km
+      - name: Jonestown
+        distance:
+          value: 21.26
+          units: km
+      - name: Tutwiler
+        distance:
+          value: 25.16
+          units: km
     - name: Latimer
       region: MS
       lat: '30.4974'
       long: "-88.8607"
+      closest_rate_centers:
+      - name: Ocean Springs
+        distance:
+          value: 9.15
+          units: km
+      - name: Biloxi
+        distance:
+          value: 11.36
+          units: km
+      - name: Vancleave
+        distance:
+          value: 16.78
+          units: km
     - name: Lauderdale
       region: MS
       lat: '32.5104'
       long: "-88.5264"
+      closest_rate_centers:
+      - name: Naval Air Station
+        distance:
+          value: 6.9
+          units: km
+      - name: Toomsuba
+        distance:
+          value: 10.41
+          units: km
+      - name: Briarwood
+        distance:
+          value: 15.43
+          units: km
     - name: Laurel
       region: MS
       lat: '31.6956'
       long: "-89.1449"
+      closest_rate_centers:
+      - name: Laurel
+        distance:
+          value: 1.36
+          units: km
+      - name: Ellisville
+        distance:
+          value: 11.65
+          units: km
+      - name: Soso
+        distance:
+          value: 13.96
+          units: km
     - name: Leaf
       region: MS
       lat: '31.0276'
       long: "-88.7980"
+      closest_rate_centers:
+      - name: McLain
+        distance:
+          value: 9.53
+          units: km
+      - name: Neely
+        distance:
+          value: 15.45
+          units: km
+      - name: Benndale
+        distance:
+          value: 17.84
+          units: km
     - name: Leakesville
       region: MS
       lat: '31.1497'
       long: "-88.5557"
+      closest_rate_centers:
+      - name: Leakesville
+        distance:
+          value: 1.11
+          units: km
+      - name: Neely
+        distance:
+          value: 19.58
+          units: km
+      - name: Lucedale
+        distance:
+          value: 25.35
+          units: km
     - name: Learned
       region: MS
       lat: '32.1972'
       long: "-90.5486"
+      closest_rate_centers:
+      - name: Utica
+        distance:
+          value: 12.46
+          units: km
+      - name: Raymond
+        distance:
+          value: 13.99
+          units: km
+      - name: Edwards
+        distance:
+          value: 15.93
+          units: km
     - name: Leland
       region: MS
       lat: '33.4051'
       long: "-90.8909"
+      closest_rate_centers:
+      - name: Leland
+        distance:
+          value: 1.0
+          units: km
+      - name: Greenville
+        distance:
+          value: 14.98
+          units: km
+      - name: Indianola
+        distance:
+          value: 22.86
+          units: km
     - name: Lena
       region: MS
       lat: '32.5939'
       long: "-89.5948"
+      closest_rate_centers:
+      - name: Carthage
+        distance:
+          value: 17.35
+          units: km
+      - name: Morton
+        distance:
+          value: 27.73
+          units: km
+      - name: Forest
+        distance:
+          value: 27.76
+          units: km
     - name: Lexington
       region: MS
       lat: '33.1163'
       long: "-90.0498"
+      closest_rate_centers:
+      - name: Lexington
+        distance:
+          value: 0.3
+          units: km
+      - name: Tchula
+        distance:
+          value: 18.12
+          units: km
+      - name: Durant
+        distance:
+          value: 18.13
+          units: km
     - name: Liberty
       region: MS
       lat: '31.1611'
       long: "-90.8006"
+      closest_rate_centers:
+      - name: Liberty
+        distance:
+          value: 1.04
+          units: km
+      - name: Gloster
+        distance:
+          value: 21.01
+          units: km
+      - name: Centreville
+        distance:
+          value: 26.9
+          units: km
     - name: Long Beach
       region: MS
       lat: '30.3608'
       long: "-89.1651"
+      closest_rate_centers:
+      - name: Gulfport
+        distance:
+          value: 7.54
+          units: km
+      - name: Pass Christian
+        distance:
+          value: 9.56
+          units: km
+      - name: Bay St Louis
+        distance:
+          value: 17.27
+          units: km
     - name: Longview
       region: MS
       lat: '33.4027'
       long: "-88.9256"
+      closest_rate_centers:
+      - name: Starkville
+        distance:
+          value: 11.88
+          units: km
+      - name: Maben
+        distance:
+          value: 22.75
+          units: km
+      - name: Ackerman
+        distance:
+          value: 25.37
+          units: km
     - name: Louin
       region: MS
       lat: '32.0722'
       long: "-89.2627"
+      closest_rate_centers:
+      - name: Louin
+        distance:
+          value: 0.5
+          units: km
+      - name: Bay Springs
+        distance:
+          value: 11.06
+          units: km
+      - name: Sylvarena
+        distance:
+          value: 12.62
+          units: km
     - name: Louise
       region: MS
       lat: '32.9816'
       long: "-90.5904"
+      closest_rate_centers:
+      - name: Louise
+        distance:
+          value: 0.15
+          units: km
+      - name: Holly Bluff
+        distance:
+          value: 21.25
+          units: km
+      - name: Yazoo City
+        distance:
+          value: 23.01
+          units: km
     - name: Louisville
       region: MS
       lat: '33.1224'
       long: "-89.0553"
+      closest_rate_centers:
+      - name: Louisville
+        distance:
+          value: 0.63
+          units: km
+      - name: Noxapater
+        distance:
+          value: 14.55
+          units: km
+      - name: Ackerman
+        distance:
+          value: 23.21
+          units: km
     - name: Lucedale
       region: MS
       lat: '30.9312'
       long: "-88.5959"
+      closest_rate_centers:
+      - name: Lucedale
+        distance:
+          value: 0.78
+          units: km
+      - name: Benndale
+        distance:
+          value: 21.33
+          units: km
+      - name: Leakesville
+        distance:
+          value: 25.57
+          units: km
     - name: Lula
       region: MS
       lat: '34.4545'
       long: "-90.4779"
+      closest_rate_centers:
+      - name: Lula
+        distance:
+          value: 1.01
+          units: km
+      - name: Jonestown
+        distance:
+          value: 14.48
+          units: km
+      - name: Friars Point
+        distance:
+          value: 17.47
+          units: km
     - name: Lumberton
       region: MS
       lat: '31.0064'
       long: "-89.4592"
+      closest_rate_centers:
+      - name: Lumberton
+        distance:
+          value: 0.02
+          units: km
+      - name: Purvis
+        distance:
+          value: 15.54
+          units: km
+      - name: Poplarville
+        distance:
+          value: 18.99
+          units: km
     - name: Lyman
       region: MS
       lat: '30.5044'
       long: "-89.1348"
+      closest_rate_centers:
+      - name: Gulfport
+        distance:
+          value: 14.99
+          units: km
+      - name: Pass Christian
+        distance:
+          value: 23.57
+          units: km
+      - name: Biloxi
+        distance:
+          value: 25.58
+          units: km
     - name: Lynchburg
       region: MS
       lat: '34.9623'
       long: "-90.1052"
+      closest_rate_centers:
+      - name: Memphis
+        distance:
+          value: 14.36
+          units: km
+      - name: Hernando
+        distance:
+          value: 18.38
+          units: km
+      - name: Olive Branch
+        distance:
+          value: 26.5
+          units: km
     - name: Lyon
       region: MS
       lat: '34.2169'
       long: "-90.5430"
+      closest_rate_centers:
+      - name: Clarksdale
+        distance:
+          value: 3.36
+          units: km
+      - name: Jonestown
+        distance:
+          value: 14.24
+          units: km
+      - name: Friars Point
+        distance:
+          value: 18.44
+          units: km
     - name: Maben
       region: MS
       lat: '33.5544'
       long: "-89.0805"
+      closest_rate_centers:
+      - name: Maben
+        distance:
+          value: 0.59
+          units: km
+      - name: Eupora
+        distance:
+          value: 17.97
+          units: km
+      - name: Starkville
+        distance:
+          value: 26.52
+          units: km
     - name: Macon
       region: MS
       lat: '33.1217'
       long: "-88.5564"
+      closest_rate_centers:
+      - name: Macon
+        distance:
+          value: 0.71
+          units: km
+      - name: Shuqualak
+        distance:
+          value: 16.35
+          units: km
+      - name: Artesia-Crawford
+        distance:
+          value: 27.41
+          units: km
     - name: Madison
       region: MS
       lat: '32.4738'
       long: "-90.1300"
+      closest_rate_centers:
+      - name: Madison
+        distance:
+          value: 1.43
+          units: km
+      - name: Canton
+        distance:
+          value: 17.76
+          units: km
+      - name: Flora
+        distance:
+          value: 18.48
+          units: km
     - name: Magee
       region: MS
       lat: '31.8730'
       long: "-89.7340"
+      closest_rate_centers:
+      - name: Magee
+        distance:
+          value: 0.4
+          units: km
+      - name: Mount Olive
+        distance:
+          value: 14.94
+          units: km
+      - name: Mendenhall
+        distance:
+          value: 16.8
+          units: km
     - name: Magnolia
       region: MS
       lat: '31.1619'
       long: "-90.4670"
+      closest_rate_centers:
+      - name: Magnolia
+        distance:
+          value: 2.36
+          units: km
+      - name: McComb
+        distance:
+          value: 9.07
+          units: km
+      - name: Osyka
+        distance:
+          value: 18.28
+          units: km
     - name: Mantachie
       region: MS
       lat: '34.3251'
       long: "-88.4961"
+      closest_rate_centers:
+      - name: Mantachie
+        distance:
+          value: 0.43
+          units: km
+      - name: Fulton
+        distance:
+          value: 9.66
+          units: km
+      - name: Fairview
+        distance:
+          value: 17.09
+          units: km
     - name: Mantee
       region: MS
       lat: '33.7226'
       long: "-89.0597"
+      closest_rate_centers:
+      - name: Maben
+        distance:
+          value: 18.4
+          units: km
+      - name: Houston
+        distance:
+          value: 20.46
+          units: km
+      - name: Vardaman
+        distance:
+          value: 20.61
+          units: km
     - name: Marietta
       region: MS
       lat: '34.5000'
       long: "-88.4726"
+      closest_rate_centers:
+      - name: Baldwyn
+        distance:
+          value: 15.38
+          units: km
+      - name: Guntown
+        distance:
+          value: 18.62
+          units: km
+      - name: Booneville
+        distance:
+          value: 19.72
+          units: km
     - name: Marion
       region: MS
       lat: '32.4303'
       long: "-88.6460"
+      closest_rate_centers:
+      - name: Briarwood
+        distance:
+          value: 7.56
+          units: km
+      - name: Meridian
+        distance:
+          value: 8.52
+          units: km
+      - name: Toomsuba
+        distance:
+          value: 13.29
+          units: km
     - name: Marks
       region: MS
       lat: '34.2535'
       long: "-90.2723"
+      closest_rate_centers:
+      - name: Marks
+        distance:
+          value: 0.66
+          units: km
+      - name: Jonestown
+        distance:
+          value: 19.0
+          units: km
+      - name: Crenshaw
+        distance:
+          value: 28.38
+          units: km
     - name: Mathiston
       region: MS
       lat: '33.5391'
       long: "-89.1275"
+      closest_rate_centers:
+      - name: Maben
+        distance:
+          value: 4.51
+          units: km
+      - name: Eupora
+        distance:
+          value: 13.55
+          units: km
+      - name: Chester
+        distance:
+          value: 22.95
+          units: km
     - name: Mayersville
       region: MS
       lat: '32.8963'
       long: "-91.0467"
+      closest_rate_centers:
+      - name: Glen Allan
+        distance:
+          value: 14.41
+          units: km
+      - name: Rolling Fork
+        distance:
+          value: 16.03
+          units: km
+      - name: Holly Bluff
+        distance:
+          value: 32.79
+          units: km
     - name: McComb
       region: MS
       lat: '31.2442'
       long: "-90.4716"
+      closest_rate_centers:
+      - name: McComb
+        distance:
+          value: 2.16
+          units: km
+      - name: Magnolia
+        distance:
+          value: 11.39
+          units: km
+      - name: Osyka
+        distance:
+          value: 27.43
+          units: km
     - name: McCool
       region: MS
       lat: '33.1995'
       long: "-89.3418"
+      closest_rate_centers:
+      - name: McCool
+        distance:
+          value: 0.28
+          units: km
+      - name: Ethel
+        distance:
+          value: 15.01
+          units: km
+      - name: Ackerman
+        distance:
+          value: 19.67
+          units: km
     - name: McLain
       region: MS
       lat: '31.1037'
       long: "-88.8239"
+      closest_rate_centers:
+      - name: McLain
+        distance:
+          value: 1.12
+          units: km
+      - name: Neely
+        distance:
+          value: 8.9
+          units: km
+      - name: Beaumont
+        distance:
+          value: 11.1
+          units: km
     - name: Meadville
       region: MS
       lat: '31.4720'
       long: "-90.8931"
+      closest_rate_centers:
+      - name: Meadville
+        distance:
+          value: 0.19
+          units: km
+      - name: Eddiceton
+        distance:
+          value: 9.9
+          units: km
+      - name: Roxie
+        distance:
+          value: 16.58
+          units: km
     - name: Mendenhall
       region: MS
       lat: '31.9609'
       long: "-89.8692"
+      closest_rate_centers:
+      - name: Mendenhall
+        distance:
+          value: 0.77
+          units: km
+      - name: Magee
+        distance:
+          value: 15.91
+          units: km
+      - name: White Oak
+        distance:
+          value: 20.83
+          units: km
     - name: Meridian
       region: MS
       lat: '32.3846'
       long: "-88.6896"
+      closest_rate_centers:
+      - name: Meridian
+        distance:
+          value: 2.04
+          units: km
+      - name: Briarwood
+        distance:
+          value: 11.49
+          units: km
+      - name: Obadiah
+        distance:
+          value: 17.48
+          units: km
     - name: Meridian Station
       region: MS
       lat: '32.5484'
       long: "-88.6090"
+      closest_rate_centers:
+      - name: Naval Air Station
+        distance:
+          value: 3.4
+          units: km
+      - name: Briarwood
+        distance:
+          value: 10.06
+          units: km
+      - name: Obadiah
+        distance:
+          value: 16.86
+          units: km
     - name: Merigold
       region: MS
       lat: '33.8392'
       long: "-90.7264"
+      closest_rate_centers:
+      - name: Merigold
+        distance:
+          value: 0.34
+          units: km
+      - name: Mound Bayou
+        distance:
+          value: 4.94
+          units: km
+      - name: Cleveland
+        distance:
+          value: 10.71
+          units: km
     - name: Metcalfe
       region: MS
       lat: '33.4505'
       long: "-91.0018"
+      closest_rate_centers:
+      - name: Greenville
+        distance:
+          value: 6.54
+          units: km
+      - name: Leland
+        distance:
+          value: 10.47
+          units: km
+      - name: Benoit
+        distance:
+          value: 21.97
+          units: km
     - name: Mississippi State
       region: MS
       lat: '33.4516'
       long: "-88.7912"
+      closest_rate_centers:
+      - name: Starkville
+        distance:
+          value: 2.64
+          units: km
+      - name: Artesia-Crawford
+        distance:
+          value: 17.94
+          units: km
+      - name: West Point
+        distance:
+          value: 21.59
+          units: km
     - name: Mississippi Valley State University
       region: MS
       lat: '33.5172'
       long: "-90.3444"
+      closest_rate_centers:
+      - name: Itta Bena
+        distance:
+          value: 3.02
+          units: km
+      - name: Greenwood
+        distance:
+          value: 15.13
+          units: km
+      - name: Moorhead
+        distance:
+          value: 16.1
+          units: km
     - name: Mize
       region: MS
       lat: '31.8665'
       long: "-89.5542"
+      closest_rate_centers:
+      - name: Mize
+        distance:
+          value: 0.15
+          units: km
+      - name: Taylorsville
+        distance:
+          value: 12.51
+          units: km
+      - name: Mount Olive
+        distance:
+          value: 15.03
+          units: km
     - name: Monticello
       region: MS
       lat: '31.5525'
       long: "-90.1145"
+      closest_rate_centers:
+      - name: Monticello
+        distance:
+          value: 0.53
+          units: km
+      - name: Silver Creek
+        distance:
+          value: 12.01
+          units: km
+      - name: New Hebron
+        distance:
+          value: 23.88
+          units: km
     - name: Montrose
       region: MS
       lat: '32.1257'
       long: "-89.2344"
+      closest_rate_centers:
+      - name: Louin
+        distance:
+          value: 6.95
+          units: km
+      - name: Bay Springs
+        distance:
+          value: 17.48
+          units: km
+      - name: Sylvarena
+        distance:
+          value: 18.35
+          units: km
     - name: Mooreville
       region: MS
       lat: '34.2649'
       long: "-88.5768"
+      closest_rate_centers:
+      - name: Mantachie
+        distance:
+          value: 9.98
+          units: km
+      - name: Tupelo
+        distance:
+          value: 11.96
+          units: km
+      - name: Verona
+        distance:
+          value: 15.39
+          units: km
     - name: Moorhead
       region: MS
       lat: '33.4494'
       long: "-90.5063"
+      closest_rate_centers:
+      - name: Moorhead
+        distance:
+          value: 0.71
+          units: km
+      - name: Sunflower
+        distance:
+          value: 11.33
+          units: km
+      - name: Indianola
+        distance:
+          value: 13.44
+          units: km
     - name: Morgan City
       region: MS
       lat: '33.3787'
       long: "-90.3461"
+      closest_rate_centers:
+      - name: Itta Bena
+        distance:
+          value: 13.83
+          units: km
+      - name: Moorhead
+        distance:
+          value: 16.35
+          units: km
+      - name: Greenwood
+        distance:
+          value: 21.65
+          units: km
     - name: Morgantown
       region: MS
       lat: '31.5751'
       long: "-91.3521"
+      closest_rate_centers:
+      - name: Natchez
+        distance:
+          value: 4.99
+          units: km
+      - name: Roxie
+        distance:
+          value: 28.45
+          units: km
+      - name: Fayette
+        distance:
+          value: 31.81
+          units: km
     - name: Morton
       region: MS
       lat: '32.3455'
       long: "-89.6572"
+      closest_rate_centers:
+      - name: Morton
+        distance:
+          value: 0.59
+          units: km
+      - name: Pelahatchie
+        distance:
+          value: 13.73
+          units: km
+      - name: Walters
+        distance:
+          value: 16.1
+          units: km
     - name: Moselle
       region: MS
       lat: '31.5087'
       long: "-89.2824"
+      closest_rate_centers:
+      - name: Pittman
+        distance:
+          value: 10.62
+          units: km
+      - name: Ellisville
+        distance:
+          value: 12.96
+          units: km
+      - name: Big Creek
+        distance:
+          value: 18.79
+          units: km
     - name: Moss Point
       region: MS
       lat: '30.4241'
       long: "-88.5289"
+      closest_rate_centers:
+      - name: Moss Point
+        distance:
+          value: 1.69
+          units: km
+      - name: Pascagoula
+        distance:
+          value: 6.8
+          units: km
+      - name: Vancleave
+        distance:
+          value: 19.01
+          units: km
     - name: Mound Bayou
       region: MS
       lat: '33.8808'
       long: "-90.7280"
+      closest_rate_centers:
+      - name: Mound Bayou
+        distance:
+          value: 0.31
+          units: km
+      - name: Merigold
+        distance:
+          value: 4.29
+          units: km
+      - name: Shelby
+        distance:
+          value: 8.67
+          units: km
     - name: Mount Olive
       region: MS
       lat: '31.7539'
       long: "-89.6560"
+      closest_rate_centers:
+      - name: Mount Olive
+        distance:
+          value: 0.76
+          units: km
+      - name: Magee
+        distance:
+          value: 15.46
+          units: km
+      - name: Collins
+        distance:
+          value: 15.69
+          units: km
     - name: Mount Pleasant
       region: MS
       lat: '34.9540'
       long: "-89.5256"
+      closest_rate_centers:
+      - name: Mount Pleasant
+        distance:
+          value: 1.18
+          units: km
+      - name: Byhalia
+        distance:
+          value: 17.2
+          units: km
+      - name: South Moscow
+        distance:
+          value: 17.45
+          units: km
     - name: Myrtle
       region: MS
       lat: '34.5605'
       long: "-89.1179"
+      closest_rate_centers:
+      - name: Myrtle
+        distance:
+          value: 0.37
+          units: km
+      - name: New Albany
+        distance:
+          value: 13.3
+          units: km
+      - name: Blue Mountain
+        distance:
+          value: 14.55
+          units: km
     - name: Natchez
       region: MS
       lat: '31.5437'
       long: "-91.3867"
+      closest_rate_centers:
+      - name: Natchez
+        distance:
+          value: 2.15
+          units: km
+      - name: Roxie
+        distance:
+          value: 30.91
+          units: km
+      - name: Fayette
+        distance:
+          value: 36.41
+          units: km
     - name: Nellieburg
       region: MS
       lat: '32.3974'
       long: "-88.7830"
+      closest_rate_centers:
+      - name: Meridian
+        distance:
+          value: 8.54
+          units: km
+      - name: Briarwood
+        distance:
+          value: 13.4
+          units: km
+      - name: Obadiah
+        distance:
+          value: 13.57
+          units: km
     - name: Nettleton
       region: MS
       lat: '34.0852'
       long: "-88.6248"
+      closest_rate_centers:
+      - name: Nettleton
+        distance:
+          value: 0.25
+          units: km
+      - name: Shannon
+        distance:
+          value: 9.25
+          units: km
+      - name: Verona
+        distance:
+          value: 14.36
+          units: km
     - name: New Albany
       region: MS
       lat: '34.4909'
       long: "-89.0201"
+      closest_rate_centers:
+      - name: New Albany
+        distance:
+          value: 1.82
+          units: km
+      - name: Myrtle
+        distance:
+          value: 11.48
+          units: km
+      - name: Blue Mountain
+        distance:
+          value: 19.51
+          units: km
     - name: New Augusta
       region: MS
       lat: '31.2036'
       long: "-89.0272"
+      closest_rate_centers:
+      - name: New Augusta
+        distance:
+          value: 0.82
+          units: km
+      - name: Beaumont
+        distance:
+          value: 11.53
+          units: km
+      - name: Richton
+        distance:
+          value: 18.76
+          units: km
     - name: New Hamilton
       region: MS
       lat: '33.7435'
       long: "-88.4389"
+      closest_rate_centers:
+      - name: Caledonia
+        distance:
+          value: 12.44
+          units: km
+      - name: Aberdeen
+        distance:
+          value: 13.5
+          units: km
+      - name: Columbus AFB
+        distance:
+          value: 13.88
+          units: km
     - name: New Hebron
       region: MS
       lat: '31.7332'
       long: "-89.9833"
+      closest_rate_centers:
+      - name: New Hebron
+        distance:
+          value: 0.61
+          units: km
+      - name: Silver Creek
+        distance:
+          value: 15.13
+          units: km
+      - name: Prentiss
+        distance:
+          value: 18.55
+          units: km
     - name: New Hope
       region: MS
       lat: '33.4521'
       long: "-88.3399"
+      closest_rate_centers:
+      - name: Columbus
+        distance:
+          value: 9.04
+          units: km
+      - name: Columbus AFB
+        distance:
+          value: 21.23
+          units: km
+      - name: Caledonia
+        distance:
+          value: 25.83
+          units: km
     - name: New Houlka
       region: MS
       lat: '34.0363'
       long: "-89.0211"
+      closest_rate_centers:
+      - name: Houlka
+        distance:
+          value: 0.64
+          units: km
+      - name: Houston
+        distance:
+          value: 15.39
+          units: km
+      - name: Vardaman
+        distance:
+          value: 22.35
+          units: km
     - name: New Site
       region: MS
       lat: '34.5553'
       long: "-88.4153"
+      closest_rate_centers:
+      - name: Booneville
+        distance:
+          value: 18.06
+          units: km
+      - name: Tishomingo
+        distance:
+          value: 18.68
+          units: km
+      - name: Belmont
+        distance:
+          value: 19.0
+          units: km
     - name: Newton
       region: MS
       lat: '32.3296'
       long: "-89.1534"
+      closest_rate_centers:
+      - name: Newton
+        distance:
+          value: 1.93
+          units: km
+      - name: Hickory
+        distance:
+          value: 1.93
+          units: km
+      - name: Decatur
+        distance:
+          value: 12.55
+          units: km
+      - name: Lake
+        distance:
+          value: 16.54
+          units: km
     - name: Nicholson
       region: MS
       lat: '30.4866'
       long: "-89.6997"
+      closest_rate_centers:
+      - name: Picayune
+        distance:
+          value: 5.1
+          units: km
+      - name: Pearlington
+        distance:
+          value: 27.67
+          units: km
+      - name: Crossroads
+        distance:
+          value: 34.75
+          units: km
     - name: Nitta Yuma
       region: MS
       lat: '33.0236'
       long: "-90.8487"
+      closest_rate_centers:
+      - name: Rolling Fork
+        distance:
+          value: 13.21
+          units: km
+      - name: Hollandale
+        distance:
+          value: 16.07
+          units: km
+      - name: Glen Allan
+        distance:
+          value: 16.58
+          units: km
     - name: North Carrollton
       region: MS
       lat: '33.5187'
       long: "-89.9193"
+      closest_rate_centers:
+      - name: Carrollton
+        distance:
+          value: 1.02
+          units: km
+      - name: Winona
+        distance:
+          value: 18.5
+          units: km
+      - name: Duck Hill
+        distance:
+          value: 23.41
+          units: km
     - name: North Tunica
       region: MS
       lat: '34.7031'
       long: "-90.3797"
+      closest_rate_centers:
+      - name: Tunica
+        distance:
+          value: 2.16
+          units: km
+      - name: Crenshaw
+        distance:
+          value: 28.02
+          units: km
+      - name: Lula
+        distance:
+          value: 29.91
+          units: km
     - name: Noxapater
       region: MS
       lat: '32.9936'
       long: "-89.0636"
+      closest_rate_centers:
+      - name: Noxapater
+        distance:
+          value: 0.31
+          units: km
+      - name: Louisville
+        distance:
+          value: 14.58
+          units: km
+      - name: Philadelphia
+        distance:
+          value: 24.45
+          units: km
     - name: Oak Grove
       region: MS
       lat: '31.2867'
       long: "-89.4145"
+      closest_rate_centers:
+      - name: Hattiesburg
+        distance:
+          value: 11.98
+          units: km
+      - name: Purvis
+        distance:
+          value: 16.45
+          units: km
+      - name: Sumrall
+        distance:
+          value: 18.85
+          units: km
     - name: Oakland
       region: MS
       lat: '34.0576'
       long: "-89.9132"
+      closest_rate_centers:
+      - name: Oakland
+        distance:
+          value: 1.2
+          units: km
+      - name: Charleston
+        distance:
+          value: 13.65
+          units: km
+      - name: Coffeeville
+        distance:
+          value: 23.9
+          units: km
     - name: Ocean Springs
       region: MS
       lat: '30.4082'
       long: "-88.7861"
+      closest_rate_centers:
+      - name: Ocean Springs
+        distance:
+          value: 4.65
+          units: km
+      - name: Biloxi
+        distance:
+          value: 10.67
+          units: km
+      - name: Vancleave
+        distance:
+          value: 16.05
+          units: km
     - name: Okolona
       region: MS
       lat: '34.0053'
       long: "-88.7479"
+      closest_rate_centers:
+      - name: Okolona
+        distance:
+          value: 0.54
+          units: km
+      - name: Shannon
+        distance:
+          value: 12.73
+          units: km
+      - name: Nettleton
+        distance:
+          value: 14.16
+          units: km
     - name: Olive Branch
       region: MS
       lat: '34.9610'
       long: "-89.8469"
+      closest_rate_centers:
+      - name: Olive Branch
+        distance:
+          value: 3.06
+          units: km
+      - name: Memphis
+        distance:
+          value: 9.64
+          units: km
+      - name: Byhalia
+        distance:
+          value: 18.31
+          units: km
     - name: Osyka
       region: MS
       lat: '31.0072'
       long: "-90.4719"
+      closest_rate_centers:
+      - name: Osyka
+        distance:
+          value: 1.2
+          units: km
+      - name: Magnolia
+        distance:
+          value: 15.12
+          units: km
+      - name: McComb
+        distance:
+          value: 26.2
+          units: km
     - name: Ovett
       region: MS
       lat: '31.4849'
       long: "-89.0273"
+      closest_rate_centers:
+      - name: Richton
+        distance:
+          value: 17.33
+          units: km
+      - name: Ellisville
+        distance:
+          value: 21.01
+          units: km
+      - name: Laurel
+        distance:
+          value: 24.98
+          units: km
     - name: Oxford
       region: MS
       lat: '34.3627'
       long: "-89.5336"
+      closest_rate_centers:
+      - name: Oxford
+        distance:
+          value: 1.61
+          units: km
+      - name: Water Valley
+        distance:
+          value: 24.26
+          units: km
+      - name: Chulahoma
+        distance:
+          value: 35.1
+          units: km
     - name: Pace
       region: MS
       lat: '33.7922'
       long: "-90.8594"
+      closest_rate_centers:
+      - name: Pace
+        distance:
+          value: 1.12
+          units: km
+      - name: Merigold
+        distance:
+          value: 13.46
+          units: km
+      - name: Cleveland
+        distance:
+          value: 13.79
+          units: km
     - name: Pachuta
       region: MS
       lat: '32.0441'
       long: "-88.8844"
+      closest_rate_centers:
+      - name: Quitman
+        distance:
+          value: 14.88
+          units: km
+      - name: Enterprise
+        distance:
+          value: 15.51
+          units: km
+      - name: Rose Hill
+        distance:
+          value: 15.66
+          units: km
     - name: Paden
       region: MS
       lat: '34.6603'
       long: "-88.2606"
+      closest_rate_centers:
+      - name: Tishomingo
+        distance:
+          value: 4.03
+          units: km
+      - name: Belmont
+        distance:
+          value: 17.26
+          units: km
+      - name: Iuka
+        distance:
+          value: 18.5
+          units: km
     - name: Panther Burn
       region: MS
       lat: '33.0659'
       long: "-90.8726"
+      closest_rate_centers:
+      - name: Hollandale
+        distance:
+          value: 11.57
+          units: km
+      - name: Glen Allan
+        distance:
+          value: 15.06
+          units: km
+      - name: Rolling Fork
+        distance:
+          value: 17.68
+          units: km
     - name: Paris
       region: MS
       lat: '34.1749'
       long: "-89.4519"
+      closest_rate_centers:
+      - name: Water Valley
+        distance:
+          value: 16.65
+          units: km
+      - name: Oxford
+        distance:
+          value: 21.97
+          units: km
+      - name: Bruce
+        distance:
+          value: 22.5
+          units: km
+      - name: Pittsboro
+        distance:
+          value: 22.5
+          units: km
+      - name: Parker
+        distance:
+          value: 22.5
+          units: km
+      - name: Long
+        distance:
+          value: 22.5
+          units: km
     - name: Pascagoula
       region: MS
       lat: '30.3666'
       long: "-88.5506"
+      closest_rate_centers:
+      - name: Pascagoula
+        distance:
+          value: 0.16
+          units: km
+      - name: Moss Point
+        distance:
+          value: 5.09
+          units: km
+      - name: Vancleave
+        distance:
+          value: 22.08
+          units: km
     - name: Pass Christian
       region: MS
       lat: '30.3270'
       long: "-89.2436"
+      closest_rate_centers:
+      - name: Pass Christian
+        distance:
+          value: 1.27
+          units: km
+      - name: Bay St Louis
+        distance:
+          value: 8.95
+          units: km
+      - name: Gulfport
+        distance:
+          value: 15.84
+          units: km
     - name: Pattison
       region: MS
       lat: '31.8908'
       long: "-90.8839"
+      closest_rate_centers:
+      - name: Hermanville
+        distance:
+          value: 8.62
+          units: km
+      - name: Port Gibson
+        distance:
+          value: 12.13
+          units: km
+      - name: Barlow
+        distance:
+          value: 23.91
+          units: km
     - name: Pearl
       region: MS
       lat: '32.2730'
       long: "-90.0918"
+      closest_rate_centers:
+      - name: Brandon
+        distance:
+          value: 10.04
+          units: km
+      - name: Jackson
+        distance:
+          value: 10.07
+          units: km
+      - name: Florence
+        distance:
+          value: 14.37
+          units: km
     - name: Pearl River
       region: MS
       lat: '32.7889'
       long: "-89.2384"
+      closest_rate_centers:
+      - name: Philadelphia
+        distance:
+          value: 12.29
+          units: km
+      - name: Union
+        distance:
+          value: 27.13
+          units: km
+      - name: Noxapater
+        distance:
+          value: 27.71
+          units: km
     - name: Pearlington
       region: MS
       lat: '30.2492'
       long: "-89.6048"
+      closest_rate_centers:
+      - name: Pearlington
+        distance:
+          value: 0.32
+          units: km
+      - name: Bay St Louis
+        distance:
+          value: 26.79
+          units: km
+      - name: Picayune
+        distance:
+          value: 31.72
+          units: km
     - name: Pelahatchie
       region: MS
       lat: '32.3148'
       long: "-89.8083"
+      closest_rate_centers:
+      - name: Pelahatchie
+        distance:
+          value: 0.87
+          units: km
+      - name: Walters
+        distance:
+          value: 11.48
+          units: km
+      - name: Morton
+        distance:
+          value: 14.55
+          units: km
     - name: Petal
       region: MS
       lat: '31.3477'
       long: "-89.2359"
+      closest_rate_centers:
+      - name: Hattiesburg
+        distance:
+          value: 6.45
+          units: km
+      - name: New Augusta
+        distance:
+          value: 24.69
+          units: km
+      - name: Pittman
+        distance:
+          value: 27.56
+          units: km
     - name: Pheba
       region: MS
       lat: '33.5835'
       long: "-88.9494"
+      closest_rate_centers:
+      - name: Maben
+        distance:
+          value: 12.84
+          units: km
+      - name: Starkville
+        distance:
+          value: 18.35
+          units: km
+      - name: West Point
+        distance:
+          value: 27.85
+          units: km
     - name: Philadelphia
       region: MS
       lat: '32.7761'
       long: "-89.1221"
+      closest_rate_centers:
+      - name: Philadelphia
+        distance:
+          value: 1.35
+          units: km
+      - name: Union
+        distance:
+          value: 23.14
+          units: km
+      - name: Noxapater
+        distance:
+          value: 24.55
+          units: km
     - name: Picayune
       region: MS
       lat: '30.5322'
       long: "-89.6724"
+      closest_rate_centers:
+      - name: Picayune
+        distance:
+          value: 0.62
+          units: km
+      - name: Crossroads
+        distance:
+          value: 30.56
+          units: km
+      - name: Pearlington
+        distance:
+          value: 31.91
+          units: km
     - name: Pickens
       region: MS
       lat: '32.8913'
       long: "-89.9696"
+      closest_rate_centers:
+      - name: Pickens
+        distance:
+          value: 0.67
+          units: km
+      - name: Goodman
+        distance:
+          value: 9.97
+          units: km
+      - name: Durant
+        distance:
+          value: 23.78
+          units: km
     - name: Pittsboro
       region: MS
       lat: '33.9400'
       long: "-89.3373"
+      closest_rate_centers:
+      - name: Bruce
+        distance:
+          value: 5.79
+          units: km
+      - name: Parker
+        distance:
+          value: 5.79
+          units: km
+      - name: Pittsboro
+        distance:
+          value: 5.79
+          units: km
+      - name: Long
+        distance:
+          value: 5.79
+          units: km
+      - name: Calhoun City
+        distance:
+          value: 9.51
+          units: km
+      - name: Vardaman
+        distance:
+          value: 16.33
+          units: km
     - name: Plantersville
       region: MS
       lat: '34.2103'
       long: "-88.6655"
+      closest_rate_centers:
+      - name: Verona
+        distance:
+          value: 5.28
+          units: km
+      - name: Tupelo
+        distance:
+          value: 6.47
+          units: km
+      - name: Shannon
+        distance:
+          value: 11.42
+          units: km
     - name: Polkville
       region: MS
       lat: '32.1909'
       long: "-89.6960"
+      closest_rate_centers:
+      - name: Polkville
+        distance:
+          value: 0.65
+          units: km
+      - name: Walters
+        distance:
+          value: 6.29
+          units: km
+      - name: White Oak
+        distance:
+          value: 13.57
+          units: km
     - name: Pontotoc
       region: MS
       lat: '34.2531'
       long: "-89.0091"
+      closest_rate_centers:
+      - name: Pontotoc
+        distance:
+          value: 0.72
+          units: km
+      - name: Houlka
+        distance:
+          value: 24.63
+          units: km
+      - name: New Albany
+        distance:
+          value: 26.41
+          units: km
     - name: Pope
       region: MS
       lat: '34.2158'
       long: "-89.9447"
+      closest_rate_centers:
+      - name: Batesville
+        distance:
+          value: 10.28
+          units: km
+      - name: Oakland
+        distance:
+          value: 19.0
+          units: km
+      - name: Sardis
+        distance:
+          value: 24.22
+          units: km
     - name: Poplarville
       region: MS
       lat: '30.8391'
       long: "-89.5306"
+      closest_rate_centers:
+      - name: Poplarville
+        distance:
+          value: 1.23
+          units: km
+      - name: Lumberton
+        distance:
+          value: 19.82
+          units: km
+      - name: Crossroads
+        distance:
+          value: 24.01
+          units: km
     - name: Port Gibson
       region: MS
       lat: '31.9558'
       long: "-90.9834"
+      closest_rate_centers:
+      - name: Port Gibson
+        distance:
+          value: 0.28
+          units: km
+      - name: Hermanville
+        distance:
+          value: 12.95
+          units: km
+      - name: Fayette
+        distance:
+          value: 27.63
+          units: km
     - name: Porterville
       region: MS
       lat: '32.6855'
       long: "-88.4714"
+      closest_rate_centers:
+      - name: Scooba
+        distance:
+          value: 16.72
+          units: km
+      - name: Naval Air Station
+        distance:
+          value: 17.19
+          units: km
+      - name: De Kalb
+        distance:
+          value: 19.06
+          units: km
     - name: Potts Camp
       region: MS
       lat: '34.6492'
       long: "-89.3065"
+      closest_rate_centers:
+      - name: Holly Springs
+        distance:
+          value: 18.47
+          units: km
+      - name: Myrtle
+        distance:
+          value: 20.25
+          units: km
+      - name: Ashland
+        distance:
+          value: 23.71
+          units: km
     - name: Prentiss
       region: MS
       lat: '31.5995'
       long: "-89.8746"
+      closest_rate_centers:
+      - name: Prentiss
+        distance:
+          value: 0.68
+          units: km
+      - name: Silver Creek
+        distance:
+          value: 11.82
+          units: km
+      - name: Bassfield
+        distance:
+          value: 16.58
+          units: km
     - name: Puckett
       region: MS
       lat: '32.0872'
       long: "-89.7819"
+      closest_rate_centers:
+      - name: White Oak
+        distance:
+          value: 9.0
+          units: km
+      - name: Polkville
+        distance:
+          value: 14.64
+          units: km
+      - name: Walters
+        distance:
+          value: 15.5
+          units: km
     - name: Purvis
       region: MS
       lat: '31.1450'
       long: "-89.4054"
+      closest_rate_centers:
+      - name: Purvis
+        distance:
+          value: 0.7
+          units: km
+      - name: Lumberton
+        distance:
+          value: 16.23
+          units: km
+      - name: Hattiesburg
+        distance:
+          value: 21.88
+          units: km
     - name: Quitman
       region: MS
       lat: '32.0417'
       long: "-88.7202"
+      closest_rate_centers:
+      - name: Quitman
+        distance:
+          value: 1.14
+          units: km
+      - name: Enterprise
+        distance:
+          value: 17.77
+          units: km
+      - name: Shubuta
+        distance:
+          value: 20.83
+          units: km
     - name: Raleigh
       region: MS
       lat: '32.0322'
       long: "-89.5247"
+      closest_rate_centers:
+      - name: Raleigh
+        distance:
+          value: 0.33
+          units: km
+      - name: Sylvarena
+        distance:
+          value: 14.02
+          units: km
+      - name: White Oak
+        distance:
+          value: 16.0
+          units: km
     - name: Randolph
       region: MS
       lat: '34.1810'
       long: "-89.1677"
+      closest_rate_centers:
+      - name: Pontotoc
+        distance:
+          value: 17.26
+          units: km
+      - name: Houlka
+        distance:
+          value: 21.64
+          units: km
+      - name: Bruce
+        distance:
+          value: 27.0
+          units: km
+      - name: Pittsboro
+        distance:
+          value: 27.0
+          units: km
+      - name: Parker
+        distance:
+          value: 27.0
+          units: km
+      - name: Long
+        distance:
+          value: 27.0
+          units: km
     - name: Rawls Springs
       region: MS
       lat: '31.3797'
       long: "-89.3878"
+      closest_rate_centers:
+      - name: Hattiesburg
+        distance:
+          value: 11.36
+          units: km
+      - name: Sumrall
+        distance:
+          value: 15.08
+          units: km
+      - name: Pittman
+        distance:
+          value: 20.9
+          units: km
     - name: Raymond
       region: MS
       lat: '32.2610'
       long: "-90.4090"
+      closest_rate_centers:
+      - name: Raymond
+        distance:
+          value: 0.94
+          units: km
+      - name: Bolton
+        distance:
+          value: 11.11
+          units: km
+      - name: Clinton
+        distance:
+          value: 11.88
+          units: km
     - name: Red Banks
       region: MS
       lat: '34.8347'
       long: "-89.5634"
+      closest_rate_centers:
+      - name: Byhalia
+        distance:
+          value: 11.4
+          units: km
+      - name: Holly Springs
+        distance:
+          value: 12.86
+          units: km
+      - name: Mount Pleasant
+        distance:
+          value: 13.38
+          units: km
     - name: Redwater
       region: MS
       lat: '32.7835'
       long: "-89.5559"
+      closest_rate_centers:
+      - name: Carthage
+        distance:
+          value: 5.02
+          units: km
+      - name: Kosciusko
+        distance:
+          value: 30.95
+          units: km
+      - name: Ethel
+        distance:
+          value: 37.88
+          units: km
     - name: Redwood
       region: MS
       lat: '32.4734'
       long: "-90.7969"
+      closest_rate_centers:
+      - name: Vicksburg
+        distance:
+          value: 16.84
+          units: km
+      - name: Eagle Lake
+        distance:
+          value: 18.59
+          units: km
+      - name: Edwards
+        distance:
+          value: 24.02
+          units: km
     - name: Rena Lara
       region: MS
       lat: '34.1587'
       long: "-90.7749"
+      closest_rate_centers:
+      - name: Duncan
+        distance:
+          value: 13.28
+          units: km
+      - name: Clarksdale
+        distance:
+          value: 19.03
+          units: km
+      - name: Shelby
+        distance:
+          value: 23.06
+          units: km
     - name: Renova
       region: MS
       lat: '33.7805'
       long: "-90.7232"
+      closest_rate_centers:
+      - name: Cleveland
+        distance:
+          value: 4.18
+          units: km
+      - name: Merigold
+        distance:
+          value: 6.87
+          units: km
+      - name: Mound Bayou
+        distance:
+          value: 11.47
+          units: km
     - name: Richland
       region: MS
       lat: '32.2309'
       long: "-90.1591"
+      closest_rate_centers:
+      - name: Jackson
+        distance:
+          value: 8.53
+          units: km
+      - name: Florence
+        distance:
+          value: 9.34
+          units: km
+      - name: Brandon
+        distance:
+          value: 17.13
+          units: km
     - name: Richton
       region: MS
       lat: '31.3495'
       long: "-88.9407"
+      closest_rate_centers:
+      - name: Richton
+        distance:
+          value: 0.81
+          units: km
+      - name: Sand Hill
+        distance:
+          value: 16.9
+          units: km
+      - name: New Augusta
+        distance:
+          value: 17.89
+          units: km
     - name: Ridgeland
       region: MS
       lat: '32.4236'
       long: "-90.1481"
+      closest_rate_centers:
+      - name: Madison
+        distance:
+          value: 5.5
+          units: km
+      - name: Jackson
+        distance:
+          value: 14.18
+          units: km
+      - name: Clinton
+        distance:
+          value: 19.07
+          units: km
     - name: Rienzi
       region: MS
       lat: '34.7633'
       long: "-88.5340"
+      closest_rate_centers:
+      - name: Rienzi
+        distance:
+          value: 0.86
+          units: km
+      - name: Booneville
+        distance:
+          value: 11.91
+          units: km
+      - name: Corinth
+        distance:
+          value: 19.72
+          units: km
     - name: Ripley
       region: MS
       lat: '34.7321'
       long: "-88.9444"
+      closest_rate_centers:
+      - name: Ripley
+        distance:
+          value: 0.71
+          units: km
+      - name: Blue Mountain
+        distance:
+          value: 10.34
+          units: km
+      - name: Ashland
+        distance:
+          value: 23.66
+          units: km
     - name: Robinhood
       region: MS
       lat: '32.2045'
       long: "-89.9671"
+      closest_rate_centers:
+      - name: Brandon
+        distance:
+          value: 8.19
+          units: km
+      - name: Florence
+        distance:
+          value: 17.03
+          units: km
+      - name: Pelahatchie
+        distance:
+          value: 20.12
+          units: km
     - name: Rolling Fork
       region: MS
       lat: '32.9073'
       long: "-90.8769"
+      closest_rate_centers:
+      - name: Rolling Fork
+        distance:
+          value: 0.14
+          units: km
+      - name: Holly Bluff
+        distance:
+          value: 18.62
+          units: km
+      - name: Glen Allan
+        distance:
+          value: 19.12
+          units: km
     - name: Rosedale
       region: MS
       lat: '33.8525'
       long: "-91.0339"
+      closest_rate_centers:
+      - name: Rosedale
+        distance:
+          value: 1.27
+          units: km
+      - name: Gunnison
+        distance:
+          value: 12.65
+          units: km
+      - name: Pace
+        distance:
+          value: 18.48
+          units: km
     - name: Roxie
       region: MS
       lat: '31.5077'
       long: "-91.0711"
+      closest_rate_centers:
+      - name: Roxie
+        distance:
+          value: 0.87
+          units: km
+      - name: Meadville
+        distance:
+          value: 17.52
+          units: km
+      - name: Fayette
+        distance:
+          value: 23.18
+          units: km
     - name: Ruleville
       region: MS
       lat: '33.7245'
       long: "-90.5500"
+      closest_rate_centers:
+      - name: Ruleville
+        distance:
+          value: 0.03
+          units: km
+      - name: Drew
+        distance:
+          value: 9.57
+          units: km
+      - name: Cleveland
+        distance:
+          value: 16.08
+          units: km
     - name: Runnelstown
       region: MS
       lat: '31.3779'
       long: "-89.1143"
+      closest_rate_centers:
+      - name: Richton
+        distance:
+          value: 17.5
+          units: km
+      - name: Hattiesburg
+        distance:
+          value: 18.32
+          units: km
+      - name: New Augusta
+        distance:
+          value: 20.29
+          units: km
     - name: Sallis
       region: MS
       lat: '33.0215'
       long: "-89.7647"
+      closest_rate_centers:
+      - name: Durant
+        distance:
+          value: 11.21
+          units: km
+      - name: Goodman
+        distance:
+          value: 15.16
+          units: km
+      - name: Kosciusko
+        distance:
+          value: 16.58
+          units: km
     - name: Saltillo
       region: MS
       lat: '34.3790'
       long: "-88.6938"
+      closest_rate_centers:
+      - name: Guntown
+        distance:
+          value: 8.04
+          units: km
+      - name: Tupelo
+        distance:
+          value: 13.56
+          units: km
+      - name: Baldwyn
+        distance:
+          value: 15.3
+          units: km
     - name: Sandersville
       region: MS
       lat: '31.7879'
       long: "-89.0362"
+      closest_rate_centers:
+      - name: Heidelberg
+        distance:
+          value: 11.96
+          units: km
+      - name: Laurel
+        distance:
+          value: 14.03
+          units: km
+      - name: Soso
+        distance:
+          value: 22.67
+          units: km
     - name: Sardis
       region: MS
       lat: '34.4355'
       long: "-89.9114"
+      closest_rate_centers:
+      - name: Sardis
+        distance:
+          value: 0.54
+          units: km
+      - name: Como
+        distance:
+          value: 8.17
+          units: km
+      - name: Batesville
+        distance:
+          value: 14.66
+          units: km
     - name: Satartia
       region: MS
       lat: '32.6719'
       long: "-90.5445"
+      closest_rate_centers:
+      - name: Holly Bluff
+        distance:
+          value: 22.33
+          units: km
+      - name: Yazoo City
+        distance:
+          value: 24.03
+          units: km
+      - name: Flora
+        distance:
+          value: 26.33
+          units: km
     - name: Saucier
       region: MS
       lat: '30.6237'
       long: "-89.1432"
+      closest_rate_centers:
+      - name: Wiggins
+        distance:
+          value: 26.27
+          units: km
+      - name: Gulfport
+        distance:
+          value: 28.07
+          units: km
+      - name: Biloxi
+        distance:
+          value: 34.27
+          units: km
     - name: Schlater
       region: MS
       lat: '33.6397'
       long: "-90.3494"
+      closest_rate_centers:
+      - name: Itta Bena
+        distance:
+          value: 15.7
+          units: km
+      - name: Sunflower
+        distance:
+          value: 19.96
+          units: km
+      - name: Greenwood
+        distance:
+          value: 20.75
+          units: km
     - name: Scooba
       region: MS
       lat: '32.8302'
       long: "-88.4771"
+      closest_rate_centers:
+      - name: Scooba
+        distance:
+          value: 0.65
+          units: km
+      - name: De Kalb
+        distance:
+          value: 17.7
+          units: km
+      - name: Shuqualak
+        distance:
+          value: 18.25
+          units: km
     - name: Scott
       region: MS
       lat: '33.5945'
       long: "-91.0760"
+      closest_rate_centers:
+      - name: Benoit
+        distance:
+          value: 8.65
+          units: km
+      - name: Greenville
+        distance:
+          value: 20.7
+          units: km
+      - name: Leland
+        distance:
+          value: 26.24
+          units: km
     - name: Sebastopol
       region: MS
       lat: '32.5679'
       long: "-89.3340"
+      closest_rate_centers:
+      - name: Union
+        distance:
+          value: 20.51
+          units: km
+      - name: Lake
+        distance:
+          value: 24.35
+          units: km
+      - name: Decatur
+        distance:
+          value: 25.8
+          units: km
     - name: Seminary
       region: MS
       lat: '31.5581'
       long: "-89.4987"
+      closest_rate_centers:
+      - name: Seminary
+        distance:
+          value: 1.23
+          units: km
+      - name: Collins
+        distance:
+          value: 10.73
+          units: km
+      - name: Pittman
+        distance:
+          value: 12.14
+          units: km
     - name: Senatobia
       region: MS
       lat: '34.6081'
       long: "-89.9762"
+      closest_rate_centers:
+      - name: Senatobia
+        distance:
+          value: 1.41
+          units: km
+      - name: Coldwater
+        distance:
+          value: 8.54
+          units: km
+      - name: Como
+        distance:
+          value: 11.93
+          units: km
     - name: Shannon
       region: MS
       lat: '34.1144'
       long: "-88.6932"
+      closest_rate_centers:
+      - name: Shannon
+        distance:
+          value: 2.27
+          units: km
+      - name: Nettleton
+        distance:
+          value: 7.05
+          units: km
+      - name: Verona
+        distance:
+          value: 8.62
+          units: km
     - name: Sharon
       region: MS
       lat: '31.7922'
       long: "-89.0983"
+      closest_rate_centers:
+      - name: Laurel
+        distance:
+          value: 11.66
+          units: km
+      - name: Heidelberg
+        distance:
+          value: 15.06
+          units: km
+      - name: Soso
+        distance:
+          value: 16.99
+          units: km
     - name: Shaw
       region: MS
       lat: '33.6015'
       long: "-90.7720"
+      closest_rate_centers:
+      - name: Shaw
+        distance:
+          value: 0.75
+          units: km
+      - name: Cleveland
+        distance:
+          value: 16.38
+          units: km
+      - name: Indianola
+        distance:
+          value: 20.05
+          units: km
     - name: Shelby
       region: MS
       lat: '33.9508'
       long: "-90.7653"
+      closest_rate_centers:
+      - name: Shelby
+        distance:
+          value: 0.26
+          units: km
+      - name: Mound Bayou
+        distance:
+          value: 8.25
+          units: km
+      - name: Duncan
+        distance:
+          value: 10.49
+          units: km
     - name: Sherman
       region: MS
       lat: '34.3611'
       long: "-88.8387"
+      closest_rate_centers:
+      - name: Tupelo
+        distance:
+          value: 16.72
+          units: km
+      - name: Guntown
+        distance:
+          value: 18.57
+          units: km
+      - name: Pontotoc
+        distance:
+          value: 19.18
+          units: km
     - name: Shubuta
       region: MS
       lat: '31.8620'
       long: "-88.7021"
+      closest_rate_centers:
+      - name: Shubuta
+        distance:
+          value: 0.81
+          units: km
+      - name: Quitman
+        distance:
+          value: 19.19
+          units: km
+      - name: Waynesboro
+        distance:
+          value: 21.55
+          units: km
     - name: Shuqualak
       region: MS
       lat: '32.9793'
       long: "-88.5693"
+      closest_rate_centers:
+      - name: Shuqualak
+        distance:
+          value: 0.47
+          units: km
+      - name: Macon
+        distance:
+          value: 15.18
+          units: km
+      - name: Scooba
+        distance:
+          value: 18.21
+          units: km
     - name: Sidon
       region: MS
       lat: '33.4079'
       long: "-90.2081"
+      closest_rate_centers:
+      - name: Greenwood
+        distance:
+          value: 12.33
+          units: km
+      - name: Itta Bena
+        distance:
+          value: 14.55
+          units: km
+      - name: Tchula
+        distance:
+          value: 24.83
+          units: km
     - name: Silver City
       region: MS
       lat: '33.0951'
       long: "-90.4968"
+      closest_rate_centers:
+      - name: Belzoni
+        distance:
+          value: 9.84
+          units: km
+      - name: Louise
+        distance:
+          value: 15.48
+          units: km
+      - name: Isola
+        distance:
+          value: 21.21
+          units: km
     - name: Silver Creek
       region: MS
       lat: '31.6048'
       long: "-90.0023"
+      closest_rate_centers:
+      - name: Silver Creek
+        distance:
+          value: 0.83
+          units: km
+      - name: Monticello
+        distance:
+          value: 11.73
+          units: km
+      - name: Prentiss
+        distance:
+          value: 12.78
+          units: km
     - name: Skene
       region: MS
       lat: '33.7040'
       long: "-90.7974"
+      closest_rate_centers:
+      - name: Cleveland
+        distance:
+          value: 8.17
+          units: km
+      - name: Pace
+        distance:
+          value: 10.27
+          units: km
+      - name: Shaw
+        distance:
+          value: 11.01
+          units: km
     - name: Slate Springs
       region: MS
       lat: '33.7417'
       long: "-89.3752"
+      closest_rate_centers:
+      - name: Slate Springs
+        distance:
+          value: 1.09
+          units: km
+      - name: Calhoun City
+        distance:
+          value: 14.5
+          units: km
+      - name: Vardaman
+        distance:
+          value: 24.13
+          units: km
     - name: Sledge
       region: MS
       lat: '34.4326'
       long: "-90.2212"
+      closest_rate_centers:
+      - name: Crenshaw
+        distance:
+          value: 7.93
+          units: km
+      - name: Marks
+        distance:
+          value: 20.02
+          units: km
+      - name: Lula
+        distance:
+          value: 24.41
+          units: km
     - name: Smithville
       region: MS
       lat: '34.0680'
       long: "-88.3983"
+      closest_rate_centers:
+      - name: Smithville
+        distance:
+          value: 0.47
+          units: km
+      - name: Amory
+        distance:
+          value: 12.0
+          units: km
+      - name: Nettleton
+        distance:
+          value: 21.09
+          units: km
     - name: Snow Lake Shores
       region: MS
       lat: '34.8240'
       long: "-89.2385"
+      closest_rate_centers:
+      - name: Ashland
+        distance:
+          value: 6.04
+          units: km
+      - name: Michigan City
+        distance:
+          value: 18.02
+          units: km
+      - name: South Moscow
+        distance:
+          value: 19.88
+          units: km
     - name: Soso
       region: MS
       lat: '31.7536'
       long: "-89.2759"
+      closest_rate_centers:
+      - name: Soso
+        distance:
+          value: 0.5
+          units: km
+      - name: Big Creek
+        distance:
+          value: 8.88
+          units: km
+      - name: Old Taylorsville
+        distance:
+          value: 15.25
+          units: km
     - name: Southaven
       region: MS
       lat: '34.9514'
       long: "-89.9786"
+      closest_rate_centers:
+      - name: Memphis
+        distance:
+          value: 4.33
+          units: km
+      - name: Hernando
+        distance:
+          value: 14.13
+          units: km
+      - name: Olive Branch
+        distance:
+          value: 15.07
+          units: km
     - name: St. Martin
       region: MS
       lat: '30.4400'
       long: "-88.8652"
+      closest_rate_centers:
+      - name: Ocean Springs
+        distance:
+          value: 3.89
+          units: km
+      - name: Biloxi
+        distance:
+          value: 5.38
+          units: km
+      - name: Vancleave
+        distance:
+          value: 19.42
+          units: km
     - name: Standing Pine
       region: MS
       lat: '32.6749'
       long: "-89.4529"
+      closest_rate_centers:
+      - name: Carthage
+        distance:
+          value: 10.72
+          units: km
+      - name: Union
+        distance:
+          value: 33.79
+          units: km
+      - name: Philadelphia
+        distance:
+          value: 34.22
+          units: km
     - name: Starkville
       region: MS
       lat: '33.4608'
       long: "-88.8297"
+      closest_rate_centers:
+      - name: Starkville
+        distance:
+          value: 1.11
+          units: km
+      - name: Artesia-Crawford
+        distance:
+          value: 21.49
+          units: km
+      - name: West Point
+        distance:
+          value: 23.2
+          units: km
     - name: State Line
       region: MS
       lat: '31.4360'
       long: "-88.4738"
+      closest_rate_centers:
+      - name: State Line
+        distance:
+          value: 0.58
+          units: km
+      - name: Buckatunna
+        distance:
+          value: 12.07
+          units: km
+      - name: Sand Hill
+        distance:
+          value: 29.25
+          units: km
     - name: Stewart
       region: MS
       lat: '33.4522'
       long: "-89.4381"
+      closest_rate_centers:
+      - name: Kilmichael
+        distance:
+          value: 11.87
+          units: km
+      - name: Eupora
+        distance:
+          value: 18.11
+          units: km
+      - name: Chester
+        distance:
+          value: 21.13
+          units: km
     - name: Stoneville
       region: MS
       lat: '33.4238'
       long: "-90.9216"
+      closest_rate_centers:
+      - name: Leland
+        distance:
+          value: 2.54
+          units: km
+      - name: Greenville
+        distance:
+          value: 12.22
+          units: km
+      - name: Shaw
+        distance:
+          value: 24.87
+          units: km
     - name: Stonewall
       region: MS
       lat: '32.1364'
       long: "-88.7958"
+      closest_rate_centers:
+      - name: Enterprise
+        distance:
+          value: 5.05
+          units: km
+      - name: Quitman
+        distance:
+          value: 13.17
+          units: km
+      - name: Rose Hill
+        distance:
+          value: 19.18
+          units: km
     - name: Strayhorn
       region: MS
       lat: '34.6159'
       long: "-90.1525"
+      closest_rate_centers:
+      - name: Crenshaw
+        distance:
+          value: 13.41
+          units: km
+      - name: Senatobia
+        distance:
+          value: 16.99
+          units: km
+      - name: Coldwater
+        distance:
+          value: 18.78
+          units: km
     - name: Sturgis
       region: MS
       lat: '33.3452'
       long: "-89.0458"
+      closest_rate_centers:
+      - name: Ackerman
+        distance:
+          value: 12.6
+          units: km
+      - name: Chester
+        distance:
+          value: 18.24
+          units: km
+      - name: Maben
+        distance:
+          value: 23.98
+          units: km
     - name: Summit
       region: MS
       lat: '31.2808'
       long: "-90.4670"
+      closest_rate_centers:
+      - name: McComb
+        distance:
+          value: 4.65
+          units: km
+      - name: Magnolia
+        distance:
+          value: 15.41
+          units: km
+      - name: Osyka
+        distance:
+          value: 31.5
+          units: km
     - name: Sumner
       region: MS
       lat: '33.9693'
       long: "-90.3693"
+      closest_rate_centers:
+      - name: Sumner
+        distance:
+          value: 0.55
+          units: km
+      - name: Tutwiler
+        distance:
+          value: 7.51
+          units: km
+      - name: Drew
+        distance:
+          value: 23.27
+          units: km
     - name: Sumrall
       region: MS
       lat: '31.4172'
       long: "-89.5423"
+      closest_rate_centers:
+      - name: Sumrall
+        distance:
+          value: 0.21
+          units: km
+      - name: Seminary
+        distance:
+          value: 17.35
+          units: km
+      - name: Bassfield
+        distance:
+          value: 21.26
+          units: km
     - name: Sunflower
       region: MS
       lat: '33.5444'
       long: "-90.5373"
+      closest_rate_centers:
+      - name: Sunflower
+        distance:
+          value: 0.5
+          units: km
+      - name: Moorhead
+        distance:
+          value: 10.91
+          units: km
+      - name: Indianola
+        distance:
+          value: 14.73
+          units: km
     - name: Sylvarena
       region: MS
       lat: '32.0144'
       long: "-89.3818"
+      closest_rate_centers:
+      - name: Sylvarena
+        distance:
+          value: 0.4
+          units: km
+      - name: Bay Springs
+        distance:
+          value: 10.06
+          units: km
+      - name: Louin
+        distance:
+          value: 12.75
+          units: km
     - name: Symonds
       region: MS
       lat: '33.8339'
       long: "-90.8895"
+      closest_rate_centers:
+      - name: Pace
+        distance:
+          value: 6.51
+          units: km
+      - name: Rosedale
+        distance:
+          value: 12.6
+          units: km
+      - name: Gunnison
+        distance:
+          value: 13.34
+          units: km
     - name: Taylor
       region: MS
       lat: '34.2691'
       long: "-89.5833"
+      closest_rate_centers:
+      - name: Oxford
+        distance:
+          value: 12.32
+          units: km
+      - name: Water Valley
+        distance:
+          value: 12.91
+          units: km
+      - name: Coffeeville
+        distance:
+          value: 33.61
+          units: km
     - name: Taylorsville
       region: MS
       lat: '31.8322'
       long: "-89.4342"
+      closest_rate_centers:
+      - name: Taylorsville
+        distance:
+          value: 0.67
+          units: km
+      - name: Old Taylorsville
+        distance:
+          value: 10.96
+          units: km
+      - name: Mize
+        distance:
+          value: 11.83
+          units: km
     - name: Tchula
       region: MS
       lat: '33.1831'
       long: "-90.2232"
+      closest_rate_centers:
+      - name: Tchula
+        distance:
+          value: 0.36
+          units: km
+      - name: Lexington
+        distance:
+          value: 17.49
+          units: km
+      - name: Belzoni
+        distance:
+          value: 24.16
+          units: km
     - name: Terry
       region: MS
       lat: '32.1047'
       long: "-90.2980"
+      closest_rate_centers:
+      - name: Terry
+        distance:
+          value: 0.93
+          units: km
+      - name: Crystal Springs
+        distance:
+          value: 14.48
+          units: km
+      - name: Florence
+        distance:
+          value: 16.06
+          units: km
     - name: Thaxton
       region: MS
       lat: '34.3071'
       long: "-89.1745"
+      closest_rate_centers:
+      - name: Pontotoc
+        distance:
+          value: 17.03
+          units: km
+      - name: New Albany
+        distance:
+          value: 25.92
+          units: km
+      - name: Myrtle
+        distance:
+          value: 28.56
+          units: km
     - name: Tillatoba
       region: MS
       lat: '33.9851'
       long: "-89.8960"
+      closest_rate_centers:
+      - name: Oakland
+        distance:
+          value: 7.04
+          units: km
+      - name: Charleston
+        distance:
+          value: 14.28
+          units: km
+      - name: Coffeeville
+        distance:
+          value: 20.56
+          units: km
     - name: Tishomingo
       region: MS
       lat: '34.6382'
       long: "-88.2291"
+      closest_rate_centers:
+      - name: Tishomingo
+        distance:
+          value: 0.83
+          units: km
+      - name: Belmont
+        distance:
+          value: 14.36
+          units: km
+      - name: Iuka
+        distance:
+          value: 20.17
+          units: km
     - name: Toccopola
       region: MS
       lat: '34.2561'
       long: "-89.2211"
+      closest_rate_centers:
+      - name: Pontotoc
+        distance:
+          value: 20.21
+          units: km
+      - name: Oxford
+        distance:
+          value: 29.7
+          units: km
+      - name: Houlka
+        distance:
+          value: 31.24
+          units: km
     - name: Toomsuba
       region: MS
       lat: '32.4267'
       long: "-88.5100"
+      closest_rate_centers:
+      - name: Toomsuba
+        distance:
+          value: 1.02
+          units: km
+      - name: Naval Air Station
+        distance:
+          value: 15.75
+          units: km
+      - name: Briarwood
+        distance:
+          value: 18.1
+          units: km
     - name: Tremont
       region: MS
       lat: '34.2326'
       long: "-88.2507"
+      closest_rate_centers:
+      - name: Tremont
+        distance:
+          value: 0.74
+          units: km
+      - name: Fulton
+        distance:
+          value: 15.36
+          units: km
+      - name: Fairview
+        distance:
+          value: 16.02
+          units: km
     - name: Tucker
       region: MS
       lat: '32.7080'
       long: "-89.0498"
+      closest_rate_centers:
+      - name: Philadelphia
+        distance:
+          value: 9.38
+          units: km
+      - name: Union
+        distance:
+          value: 16.72
+          units: km
+      - name: Duffee
+        distance:
+          value: 26.14
+          units: km
     - name: Tula
       region: MS
       lat: '34.2359'
       long: "-89.3656"
+      closest_rate_centers:
+      - name: Oxford
+        distance:
+          value: 19.95
+          units: km
+      - name: Water Valley
+        distance:
+          value: 25.91
+          units: km
+      - name: Pittsboro
+        distance:
+          value: 27.28
+          units: km
+      - name: Parker
+        distance:
+          value: 27.28
+          units: km
+      - name: Long
+        distance:
+          value: 27.28
+          units: km
+      - name: Bruce
+        distance:
+          value: 27.28
+          units: km
     - name: Tunica
       region: MS
       lat: '34.6881'
       long: "-90.3809"
+      closest_rate_centers:
+      - name: Tunica
+        distance:
+          value: 0.5
+          units: km
+      - name: Crenshaw
+        distance:
+          value: 26.77
+          units: km
+      - name: Lula
+        distance:
+          value: 28.3
+          units: km
     - name: Tunica Resorts
       region: MS
       lat: '34.8299'
       long: "-90.3208"
+      closest_rate_centers:
+      - name: Tunica
+        distance:
+          value: 17.15
+          units: km
+      - name: Hernando
+        distance:
+          value: 29.9
+          units: km
+      - name: Coldwater
+        distance:
+          value: 36.32
+          units: km
     - name: Tupelo
       region: MS
       lat: '34.2692'
       long: "-88.7318"
+      closest_rate_centers:
+      - name: Tupelo
+        distance:
+          value: 2.65
+          units: km
+      - name: Verona
+        distance:
+          value: 8.98
+          units: km
+      - name: Shannon
+        distance:
+          value: 16.97
+          units: km
     - name: Tutwiler
       region: MS
       lat: '34.0172'
       long: "-90.4333"
+      closest_rate_centers:
+      - name: Tutwiler
+        distance:
+          value: 0.7
+          units: km
+      - name: Sumner
+        distance:
+          value: 7.62
+          units: km
+      - name: Clarksdale
+        distance:
+          value: 24.31
+          units: km
     - name: Tylertown
       region: MS
       lat: '31.1173'
       long: "-90.1445"
+      closest_rate_centers:
+      - name: Tylertown
+        distance:
+          value: 1.0
+          units: km
+      - name: Magnolia
+        distance:
+          value: 29.86
+          units: km
+      - name: McComb
+        distance:
+          value: 32.11
+          units: km
     - name: Union
       region: MS
       lat: '32.5711'
       long: "-89.1152"
+      closest_rate_centers:
+      - name: Union
+        distance:
+          value: 0.34
+          units: km
+      - name: Decatur
+        distance:
+          value: 15.07
+          units: km
+      - name: Duffee
+        distance:
+          value: 19.54
+          units: km
     - name: University
       region: MS
       lat: '34.3655'
       long: "-89.5379"
+      closest_rate_centers:
+      - name: Oxford
+        distance:
+          value: 1.98
+          units: km
+      - name: Water Valley
+        distance:
+          value: 24.41
+          units: km
+      - name: Chulahoma
+        distance:
+          value: 34.7
+          units: km
     - name: Utica
       region: MS
       lat: '32.1061'
       long: "-90.6221"
+      closest_rate_centers:
+      - name: Utica
+        distance:
+          value: 0.51
+          units: km
+      - name: Edwards
+        distance:
+          value: 25.3
+          units: km
+      - name: Raymond
+        distance:
+          value: 25.5
+          units: km
     - name: Vaiden
       region: MS
       lat: '33.3332'
       long: "-89.7533"
+      closest_rate_centers:
+      - name: Vaiden
+        distance:
+          value: 0.93
+          units: km
+      - name: West
+        distance:
+          value: 14.84
+          units: km
+      - name: Winona
+        distance:
+          value: 16.72
+          units: km
     - name: Valley Park
       region: MS
       lat: '32.6371'
       long: "-90.8619"
+      closest_rate_centers:
+      - name: Eagle Lake
+        distance:
+          value: 18.78
+          units: km
+      - name: Holly Bluff
+        distance:
+          value: 24.73
+          units: km
+      - name: Rolling Fork
+        distance:
+          value: 30.03
+          units: km
     - name: Van Vleet
       region: MS
       lat: '33.9833'
       long: "-88.8972"
+      closest_rate_centers:
+      - name: Houlka
+        distance:
+          value: 12.28
+          units: km
+      - name: Houston
+        distance:
+          value: 13.16
+          units: km
+      - name: Okolona
+        distance:
+          value: 13.57
+          units: km
     - name: Vancleave
       region: MS
       lat: '30.5483'
       long: "-88.6675"
+      closest_rate_centers:
+      - name: Vancleave
+        distance:
+          value: 3.23
+          units: km
+      - name: Moss Point
+        distance:
+          value: 20.32
+          units: km
+      - name: Hurley
+        distance:
+          value: 20.55
+          units: km
     - name: Vardaman
       region: MS
       lat: '33.8822'
       long: "-89.1778"
+      closest_rate_centers:
+      - name: Vardaman
+        distance:
+          value: 0.27
+          units: km
+      - name: Calhoun City
+        distance:
+          value: 12.1
+          units: km
+      - name: Houston
+        distance:
+          value: 16.73
+          units: km
     - name: Verona
       region: MS
       lat: '34.1907'
       long: "-88.7204"
+      closest_rate_centers:
+      - name: Verona
+        distance:
+          value: 0.34
+          units: km
+      - name: Tupelo
+        distance:
+          value: 7.54
+          units: km
+      - name: Shannon
+        distance:
+          value: 8.19
+          units: km
     - name: Vicksburg
       region: MS
       lat: '32.3173'
       long: "-90.8868"
+      closest_rate_centers:
+      - name: Vicksburg
+        distance:
+          value: 2.72
+          units: km
+      - name: Eagle Lake
+        distance:
+          value: 23.33
+          units: km
+      - name: Edwards
+        distance:
+          value: 26.78
+          units: km
     - name: Victoria
       region: MS
       lat: '34.8387'
       long: "-89.6144"
+      closest_rate_centers:
+      - name: Byhalia
+        distance:
+          value: 6.93
+          units: km
+      - name: Mount Pleasant
+        distance:
+          value: 15.19
+          units: km
+      - name: Holly Springs
+        distance:
+          value: 17.05
+          units: km
     - name: Wade
       region: MS
       lat: '30.6401'
       long: "-88.5579"
+      closest_rate_centers:
+      - name: Hurley
+        distance:
+          value: 6.41
+          units: km
+      - name: Tanner-Williams
+        distance:
+          value: 10.48
+          units: km
+      - name: Vancleave
+        distance:
+          value: 17.85
+          units: km
     - name: Walls
       region: MS
       lat: '34.9257'
       long: "-90.1604"
+      closest_rate_centers:
+      - name: Hernando
+        distance:
+          value: 18.93
+          units: km
+      - name: Memphis
+        distance:
+          value: 20.22
+          units: km
+      - name: Olive Branch
+        distance:
+          value: 31.88
+          units: km
     - name: Walnut
       region: MS
       lat: '34.9497'
       long: "-88.9236"
+      closest_rate_centers:
+      - name: Walnut
+        distance:
+          value: 2.05
+          units: km
+      - name: Ripley
+        distance:
+          value: 24.1
+          units: km
+      - name: Ashland
+        distance:
+          value: 26.24
+          units: km
     - name: Walnut Grove
       region: MS
       lat: '32.5931'
       long: "-89.4578"
+      closest_rate_centers:
+      - name: Carthage
+        distance:
+          value: 18.06
+          units: km
+      - name: Forest
+        distance:
+          value: 25.37
+          units: km
+      - name: Lake
+        distance:
+          value: 29.75
+          units: km
     - name: Walthall
       region: MS
       lat: '33.6069'
       long: "-89.2787"
+      closest_rate_centers:
+      - name: Eupora
+        distance:
+          value: 7.44
+          units: km
+      - name: Slate Springs
+        distance:
+          value: 16.38
+          units: km
+      - name: Maben
+        distance:
+          value: 18.76
+          units: km
     - name: Water Valley
       region: MS
       lat: '34.1622'
       long: "-89.6300"
+      closest_rate_centers:
+      - name: Water Valley
+        distance:
+          value: 0.29
+          units: km
+      - name: Coffeeville
+        distance:
+          value: 21.07
+          units: km
+      - name: Oxford
+        distance:
+          value: 24.87
+          units: km
     - name: Waterford
       region: MS
       lat: '34.6494'
       long: "-89.4575"
+      closest_rate_centers:
+      - name: Holly Springs
+        distance:
+          value: 13.02
+          units: km
+      - name: Chulahoma
+        distance:
+          value: 15.6
+          units: km
+      - name: Byhalia
+        distance:
+          value: 31.73
+          units: km
     - name: Waveland
       region: MS
       lat: '30.2930'
       long: "-89.3905"
+      closest_rate_centers:
+      - name: Bay St Louis
+        distance:
+          value: 5.65
+          units: km
+      - name: Pass Christian
+        distance:
+          value: 13.64
+          units: km
+      - name: Pearlington
+        distance:
+          value: 21.37
+          units: km
     - name: Waynesboro
       region: MS
       lat: '31.6774'
       long: "-88.6353"
+      closest_rate_centers:
+      - name: Waynesboro
+        distance:
+          value: 0.68
+          units: km
+      - name: Buckatunna
+        distance:
+          value: 19.09
+          units: km
+      - name: Shubuta
+        distance:
+          value: 20.67
+          units: km
     - name: Webb
       region: MS
       lat: '33.9477'
       long: "-90.3463"
+      closest_rate_centers:
+      - name: Sumner
+        distance:
+          value: 3.61
+          units: km
+      - name: Tutwiler
+        distance:
+          value: 10.68
+          units: km
+      - name: Drew
+        distance:
+          value: 23.02
+          units: km
     - name: Weir
       region: MS
       lat: '33.2635'
       long: "-89.2905"
+      closest_rate_centers:
+      - name: McCool
+        distance:
+          value: 8.31
+          units: km
+      - name: Chester
+        distance:
+          value: 11.25
+          units: km
+      - name: Ackerman
+        distance:
+          value: 11.89
+          units: km
     - name: Wesson
       region: MS
       lat: '31.6999'
       long: "-90.3961"
+      closest_rate_centers:
+      - name: Wesson
+        distance:
+          value: 0.51
+          units: km
+      - name: Brookhaven
+        distance:
+          value: 14.76
+          units: km
+      - name: Hazlehurst
+        distance:
+          value: 18.64
+          units: km
     - name: West
       region: MS
       lat: '33.1977'
       long: "-89.7821"
+      closest_rate_centers:
+      - name: West
+        distance:
+          value: 0.54
+          units: km
+      - name: Durant
+        distance:
+          value: 14.53
+          units: km
+      - name: Vaiden
+        distance:
+          value: 15.66
+          units: km
     - name: West Hattiesburg
       region: MS
       lat: '31.3114'
       long: "-89.3740"
+      closest_rate_centers:
+      - name: Hattiesburg
+        distance:
+          value: 7.67
+          units: km
+      - name: Purvis
+        distance:
+          value: 19.44
+          units: km
+      - name: Sumrall
+        distance:
+          value: 19.74
+          units: km
     - name: West Point
       region: MS
       lat: '33.6064'
       long: "-88.6572"
+      closest_rate_centers:
+      - name: West Point
+        distance:
+          value: 0.67
+          units: km
+      - name: Columbus AFB
+        distance:
+          value: 19.15
+          units: km
+      - name: Starkville
+        distance:
+          value: 22.03
+          units: km
     - name: Wheeler
       region: MS
       lat: '34.5836'
       long: "-88.6025"
+      closest_rate_centers:
+      - name: Baldwyn
+        distance:
+          value: 8.96
+          units: km
+      - name: Booneville
+        distance:
+          value: 9.07
+          units: km
+      - name: Guntown
+        distance:
+          value: 16.2
+          units: km
     - name: White Oak
       region: MS
       lat: '34.6438'
       long: "-90.3495"
+      closest_rate_centers:
+      - name: Tunica
+        distance:
+          value: 5.26
+          units: km
+      - name: Crenshaw
+        distance:
+          value: 21.15
+          units: km
+      - name: Lula
+        distance:
+          value: 25.04
+          units: km
     - name: Wiggins
       region: MS
       lat: '30.8557'
       long: "-89.1386"
+      closest_rate_centers:
+      - name: Wiggins
+        distance:
+          value: 0.75
+          units: km
+      - name: Janice
+        distance:
+          value: 21.18
+          units: km
+      - name: Benndale
+        distance:
+          value: 31.71
+          units: km
     - name: Winona
       region: MS
       lat: '33.4899'
       long: "-89.7280"
+      closest_rate_centers:
+      - name: Winona
+        distance:
+          value: 0.96
+          units: km
+      - name: Kilmichael
+        distance:
+          value: 16.06
+          units: km
+      - name: Duck Hill
+        distance:
+          value: 16.21
+          units: km
     - name: Winstonville
       region: MS
       lat: '33.9123'
       long: "-90.7528"
+      closest_rate_centers:
+      - name: Mound Bayou
+        distance:
+          value: 3.96
+          units: km
+      - name: Shelby
+        distance:
+          value: 4.57
+          units: km
+      - name: Merigold
+        distance:
+          value: 8.16
+          units: km
     - name: Winterville
       region: MS
       lat: '33.5024'
       long: "-91.0603"
+      closest_rate_centers:
+      - name: Greenville
+        distance:
+          value: 10.37
+          units: km
+      - name: Benoit
+        distance:
+          value: 16.9
+          units: km
+      - name: Leland
+        distance:
+          value: 18.09
+          units: km
     - name: Woodland
       region: MS
       lat: '33.7797'
       long: "-89.0507"
+      closest_rate_centers:
+      - name: Houston
+        distance:
+          value: 14.17
+          units: km
+      - name: Vardaman
+        distance:
+          value: 16.1
+          units: km
+      - name: Maben
+        distance:
+          value: 24.81
+          units: km
     - name: Woodville
       region: MS
       lat: '31.1029'
       long: "-91.2992"
+      closest_rate_centers:
+      - name: Woodville
+        distance:
+          value: 0.56
+          units: km
+      - name: Centreville
+        distance:
+          value: 22.06
+          units: km
+      - name: Gloster
+        distance:
+          value: 29.04
+          units: km
     - name: Yazoo City
       region: MS
       lat: '32.8619'
       long: "-90.4075"
+      closest_rate_centers:
+      - name: Yazoo City
+        distance:
+          value: 1.46
+          units: km
+      - name: Louise
+        distance:
+          value: 21.7
+          units: km
+      - name: Holly Bluff
+        distance:
+          value: 28.51
+          units: km

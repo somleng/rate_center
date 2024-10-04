@@ -1,512 +1,2163 @@
 ---
 cities:
-  us:
+  US:
     MA:
     - name: Acushnet Center
       region: MA
       lat: '41.6850'
       long: "-70.9064"
+      closest_rate_centers:
+      - name: New Bedford
+        distance:
+          value: 5.89
+          units: km
+      - name: Mattapoisett
+        distance:
+          value: 8.01
+          units: km
+      - name: Rochester
+        distance:
+          value: 10.59
+          units: km
     - name: Attleboro
       region: MA
       lat: '41.9311'
       long: "-71.2950"
+      closest_rate_centers:
+      - name: Attleboro
+        distance:
+          value: 2.08
+          units: km
+      - name: North Attleboro
+        distance:
+          value: 6.48
+          units: km
+      - name: Southgate
+        distance:
+          value: 7.04
+          units: km
     - name: Baldwinville
       region: MA
       lat: '42.6048'
       long: "-72.0771"
+      closest_rate_centers:
+      - name: Templeton
+        distance:
+          value: 0.13
+          units: km
+      - name: Gardner
+        distance:
+          value: 7.28
+          units: km
+      - name: Winchendon
+        distance:
+          value: 8.95
+          units: km
     - name: Beverly
       region: MA
       lat: '42.5681'
       long: "-70.8627"
+      closest_rate_centers:
+      - name: Beverly
+        distance:
+          value: 1.94
+          units: km
+      - name: Hamilton
+        distance:
+          value: 4.71
+          units: km
+      - name: Danvers
+        distance:
+          value: 5.72
+          units: km
     - name: Bliss Corner
       region: MA
       lat: '41.6053'
       long: "-70.9421"
+      closest_rate_centers:
+      - name: New Bedford
+        distance:
+          value: 3.49
+          units: km
+      - name: Westport
+        distance:
+          value: 11.54
+          units: km
+      - name: Mattapoisett
+        distance:
+          value: 12.25
+          units: km
     - name: Boston
       region: MA
       lat: '42.3188'
       long: "-71.0852"
+      closest_rate_centers:
+      - name: Roxbury
+        distance:
+          value: 0.69
+          units: km
+      - name: Jamaica Plain
+        distance:
+          value: 2.17
+          units: km
+      - name: Dorchester
+        distance:
+          value: 2.46
+          units: km
     - name: Brockton
       region: MA
       lat: '42.0821'
       long: "-71.0242"
+      closest_rate_centers:
+      - name: Brockton
+        distance:
+          value: 0.63
+          units: km
+      - name: Easton
+        distance:
+          value: 6.67
+          units: km
+      - name: Whitman
+        distance:
+          value: 7.15
+          units: km
     - name: Buzzards Bay
       region: MA
       lat: '41.7550'
       long: "-70.6128"
+      closest_rate_centers:
+      - name: Buzzards Bay
+        distance:
+          value: 0.8
+          units: km
+      - name: Sagamore
+        distance:
+          value: 7.18
+          units: km
+      - name: Wareham
+        distance:
+          value: 8.79
+          units: km
     - name: Cambridge
       region: MA
       lat: '42.3759'
       long: "-71.1185"
+      closest_rate_centers:
+      - name: Cambridge
+        distance:
+          value: 0.49
+          units: km
+      - name: Somerville
+        distance:
+          value: 2.08
+          units: km
+      - name: Brookline
+        distance:
+          value: 3.93
+          units: km
     - name: Cedar Crest
       region: MA
       lat: '42.0764'
       long: "-70.6613"
+      closest_rate_centers:
+      - name: Marshfield
+        distance:
+          value: 5.75
+          units: km
+      - name: Duxbury
+        distance:
+          value: 5.87
+          units: km
+      - name: Kingston
+        distance:
+          value: 10.6
+          units: km
     - name: Chelsea
       region: MA
       lat: '42.3959'
       long: "-71.0325"
+      closest_rate_centers:
+      - name: Chelsea
+        distance:
+          value: 0.09
+          units: km
+      - name: Revere
+        distance:
+          value: 2.01
+          units: km
+      - name: Everett
+        distance:
+          value: 2.03
+          units: km
     - name: Chicopee
       region: MA
       lat: '42.1764'
       long: "-72.5719"
+      closest_rate_centers:
+      - name: Chicopee
+        distance:
+          value: 3.83
+          units: km
+      - name: Holyoke
+        distance:
+          value: 4.63
+          units: km
+      - name: Ludlow
+        distance:
+          value: 7.8
+          units: km
     - name: Cochituate
       region: MA
       lat: '42.3290'
       long: "-71.3576"
+      closest_rate_centers:
+      - name: Wayland
+        distance:
+          value: 3.87
+          units: km
+      - name: Natick
+        distance:
+          value: 5.13
+          units: km
+      - name: Sudbury
+        distance:
+          value: 5.88
+          units: km
     - name: Cordaville
       region: MA
       lat: '42.2727'
       long: "-71.5221"
+      closest_rate_centers:
+      - name: Hopkinton
+        distance:
+          value: 4.9
+          units: km
+      - name: Westboro
+        distance:
+          value: 7.69
+          units: km
+      - name: Framingham
+        distance:
+          value: 8.21
+          units: km
     - name: Dennis Port
       region: MA
       lat: '41.6677'
       long: "-70.1358"
+      closest_rate_centers:
+      - name: Dennis
+        distance:
+          value: 4.36
+          units: km
+      - name: Harwich
+        distance:
+          value: 5.6
+          units: km
+      - name: Brewster
+        distance:
+          value: 11.76
+          units: km
     - name: Devens
       region: MA
       lat: '42.5439'
       long: "-71.6146"
+      closest_rate_centers:
+      - name: Ayer
+        distance:
+          value: 2.74
+          units: km
+      - name: Shirley
+        distance:
+          value: 2.96
+          units: km
+      - name: Harvard
+        distance:
+          value: 5.32
+          units: km
     - name: East Dennis
       region: MA
       lat: '41.7392'
       long: "-70.1577"
+      closest_rate_centers:
+      - name: Brewster
+        distance:
+          value: 7.45
+          units: km
+      - name: Dennis
+        distance:
+          value: 8.3
+          units: km
+      - name: Harwich
+        distance:
+          value: 9.22
+          units: km
     - name: East Douglas
       region: MA
       lat: '42.0779'
       long: "-71.7121"
+      closest_rate_centers:
+      - name: East Douglas
+        distance:
+          value: 0.75
+          units: km
+      - name: Whitinsville
+        distance:
+          value: 5.21
+          units: km
+      - name: Uxbridge
+        distance:
+          value: 6.68
+          units: km
     - name: East Falmouth
       region: MA
       lat: '41.5708'
       long: "-70.5556"
+      closest_rate_centers:
+      - name: Falmouth
+        distance:
+          value: 5.27
+          units: km
+      - name: Cataumet
+        distance:
+          value: 11.64
+          units: km
+      - name: Vineyard Haven
+        distance:
+          value: 13.83
+          units: km
     - name: East Harwich
       region: MA
       lat: '41.7081'
       long: "-70.0339"
+      closest_rate_centers:
+      - name: Harwich
+        distance:
+          value: 4.08
+          units: km
+      - name: Chatham
+        distance:
+          value: 6.45
+          units: km
+      - name: Brewster
+        distance:
+          value: 6.91
+          units: km
     - name: East Pepperell
       region: MA
       lat: '42.6654'
       long: "-71.5635"
+      closest_rate_centers:
+      - name: Pepperell
+        distance:
+          value: 1.33
+          units: km
+      - name: Groton
+        distance:
+          value: 6.39
+          units: km
+      - name: Tyngsboro
+        distance:
+          value: 11.3
+          units: km
     - name: East Sandwich
       region: MA
       lat: '41.7365'
       long: "-70.4341"
+      closest_rate_centers:
+      - name: Sagamore
+        distance:
+          value: 8.64
+          units: km
+      - name: Barnstable
+        distance:
+          value: 11.65
+          units: km
+      - name: Osterville
+        distance:
+          value: 12.96
+          units: km
     - name: Everett
       region: MA
       lat: '42.4064'
       long: "-71.0545"
+      closest_rate_centers:
+      - name: Everett
+        distance:
+          value: 0.17
+          units: km
+      - name: Chelsea
+        distance:
+          value: 2.14
+          units: km
+      - name: Malden
+        distance:
+          value: 2.99
+          units: km
     - name: Fall River
       region: MA
       lat: '41.7136'
       long: "-71.1015"
+      closest_rate_centers:
+      - name: Fall River
+        distance:
+          value: 4.35
+          units: km
+      - name: Assonet
+        distance:
+          value: 9.62
+          units: km
+      - name: Dighton
+        distance:
+          value: 11.47
+          units: km
     - name: Fiskdale
       region: MA
       lat: '42.1229'
       long: "-72.1089"
+      closest_rate_centers:
+      - name: Sturbridge
+        distance:
+          value: 2.9
+          units: km
+      - name: Brimfield
+        distance:
+          value: 7.94
+          units: km
+      - name: Southbridge
+        distance:
+          value: 8.47
+          units: km
     - name: Fitchburg
       region: MA
       lat: '42.5912'
       long: "-71.8156"
+      closest_rate_centers:
+      - name: Fitchburg
+        distance:
+          value: 1.16
+          units: km
+      - name: Lunenburg
+        distance:
+          value: 7.48
+          units: km
+      - name: Leominster
+        distance:
+          value: 8.19
+          units: km
     - name: Forestdale
       region: MA
       lat: '41.6846'
       long: "-70.5082"
+      closest_rate_centers:
+      - name: Cataumet
+        distance:
+          value: 8.76
+          units: km
+      - name: Sagamore
+        distance:
+          value: 9.59
+          units: km
+      - name: Buzzards Bay
+        distance:
+          value: 10.9
+          units: km
     - name: Framingham
       region: MA
       lat: '42.3085'
       long: "-71.4368"
+      closest_rate_centers:
+      - name: Framingham
+        distance:
+          value: 3.21
+          units: km
+      - name: Sudbury
+        distance:
+          value: 6.37
+          units: km
+      - name: Natick
+        distance:
+          value: 8.4
+          units: km
     - name: Gardner
       region: MA
       lat: '42.5845'
       long: "-71.9868"
+      closest_rate_centers:
+      - name: Gardner
+        distance:
+          value: 1.16
+          units: km
+      - name: Westminster
+        distance:
+          value: 7.56
+          units: km
+      - name: Templeton
+        distance:
+          value: 7.7
+          units: km
     - name: Gloucester
       region: MA
       lat: '42.6260'
       long: "-70.6897"
+      closest_rate_centers:
+      - name: Gloucester
+        distance:
+          value: 2.87
+          units: km
+      - name: Rockport
+        distance:
+          value: 6.72
+          units: km
+      - name: Essex
+        distance:
+          value: 7.59
+          units: km
     - name: Green Harbor
       region: MA
       lat: '42.0680'
       long: "-70.6499"
+      closest_rate_centers:
+      - name: Duxbury
+        distance:
+          value: 5.35
+          units: km
+      - name: Marshfield
+        distance:
+          value: 7.04
+          units: km
+      - name: Kingston
+        distance:
+          value: 10.33
+          units: km
     - name: Hanscom AFB
       region: MA
       lat: '42.4582'
       long: "-71.2793"
+      closest_rate_centers:
+      - name: Lexington
+        distance:
+          value: 4.18
+          units: km
+      - name: Lincoln
+        distance:
+          value: 4.52
+          units: km
+      - name: Concord
+        distance:
+          value: 5.52
+          units: km
     - name: Harwich Center
       region: MA
       lat: '41.6923'
       long: "-70.0694"
+      closest_rate_centers:
+      - name: Harwich
+        distance:
+          value: 0.79
+          units: km
+      - name: Brewster
+        distance:
+          value: 7.84
+          units: km
+      - name: Chatham
+        distance:
+          value: 8.84
+          units: km
     - name: Harwich Port
       region: MA
       lat: '41.6724'
       long: "-70.0641"
+      closest_rate_centers:
+      - name: Harwich
+        distance:
+          value: 1.65
+          units: km
+      - name: Chatham
+        distance:
+          value: 8.44
+          units: km
+      - name: Brewster
+        distance:
+          value: 10.08
+          units: km
     - name: Haverhill
       region: MA
       lat: '42.7838'
       long: "-71.0871"
+      closest_rate_centers:
+      - name: Haverhill
+        distance:
+          value: 1.06
+          units: km
+      - name: West Newbury
+        distance:
+          value: 7.74
+          units: km
+      - name: Merrimac
+        distance:
+          value: 8.97
+          units: km
     - name: Holyoke
       region: MA
       lat: '42.2125'
       long: "-72.6411"
+      closest_rate_centers:
+      - name: Holyoke
+        distance:
+          value: 2.41
+          units: km
+      - name: Easthampton
+        distance:
+          value: 6.79
+          units: km
+      - name: Chicopee
+        distance:
+          value: 8.15
+          units: km
     - name: Housatonic
       region: MA
       lat: '42.2487'
       long: "-73.3626"
+      closest_rate_centers:
+      - name: Housatonic
+        distance:
+          value: 0.69
+          units: km
+      - name: Stockbridge
+        distance:
+          value: 5.38
+          units: km
+      - name: Great Barrington
+        distance:
+          value: 6.27
+          units: km
     - name: Lawrence
       region: MA
       lat: '42.7002'
       long: "-71.1626"
+      closest_rate_centers:
+      - name: Lawrence
+        distance:
+          value: 0.81
+          units: km
+      - name: Andover
+        distance:
+          value: 5.08
+          units: km
+      - name: Haverhill
+        distance:
+          value: 11.18
+          units: km
     - name: Lenox Dale
       region: MA
       lat: '42.3339'
       long: "-73.2496"
+      closest_rate_centers:
+      - name: Lee
+        distance:
+          value: 3.01
+          units: km
+      - name: Lenox
+        distance:
+          value: 3.71
+          units: km
+      - name: Stockbridge
+        distance:
+          value: 7.97
+          units: km
     - name: Leominster
       region: MA
       lat: '42.5209'
       long: "-71.7717"
+      closest_rate_centers:
+      - name: Leominster
+        distance:
+          value: 1.07
+          units: km
+      - name: Fitchburg
+        distance:
+          value: 7.47
+          units: km
+      - name: Lunenburg
+        distance:
+          value: 8.89
+          units: km
     - name: Littleton Common
       region: MA
       lat: '42.5352'
       long: "-71.4727"
+      closest_rate_centers:
+      - name: Littleton
+        distance:
+          value: 1.1
+          units: km
+      - name: Westford
+        distance:
+          value: 6.49
+          units: km
+      - name: Acton
+        distance:
+          value: 6.78
+          units: km
     - name: Lowell
       region: MA
       lat: '42.6389'
       long: "-71.3217"
+      closest_rate_centers:
+      - name: Lowell
+        distance:
+          value: 0.97
+          units: km
+      - name: Tyngsboro
+        distance:
+          value: 9.39
+          units: km
+      - name: Billerica
+        distance:
+          value: 9.84
+          units: km
     - name: Lynn
       region: MA
       lat: '42.4781'
       long: "-70.9664"
+      closest_rate_centers:
+      - name: Lynn
+        distance:
+          value: 1.71
+          units: km
+      - name: Saugus
+        distance:
+          value: 4.63
+          units: km
+      - name: Peabody
+        distance:
+          value: 6.17
+          units: km
     - name: Madaket
       region: MA
       lat: '41.2826'
       long: "-70.1855"
+      closest_rate_centers:
+      - name: Nantucket
+        distance:
+          value: 7.43
+          units: km
+      - name: Siasconset
+        distance:
+          value: 18.28
+          units: km
+      - name: Edgartown
+        distance:
+          value: 29.94
+          units: km
     - name: Malden
       region: MA
       lat: '42.4305'
       long: "-71.0576"
+      closest_rate_centers:
+      - name: Malden
+        distance:
+          value: 1.66
+          units: km
+      - name: Everett
+        distance:
+          value: 2.68
+          units: km
+      - name: Melrose
+        distance:
+          value: 3.07
+          units: km
     - name: Mansfield Center
       region: MA
       lat: '42.0225'
       long: "-71.2180"
+      closest_rate_centers:
+      - name: Mansfield
+        distance:
+          value: 0.88
+          units: km
+      - name: Foxboro
+        distance:
+          value: 5.27
+          units: km
+      - name: Norton
+        distance:
+          value: 6.95
+          units: km
     - name: Marion Center
       region: MA
       lat: '41.7042'
       long: "-70.7629"
+      closest_rate_centers:
+      - name: Marion
+        distance:
+          value: 0.39
+          units: km
+      - name: Mattapoisett
+        distance:
+          value: 6.44
+          units: km
+      - name: Wareham
+        distance:
+          value: 6.78
+          units: km
     - name: Marlborough
       region: MA
       lat: '42.3494'
       long: "-71.5468"
+      closest_rate_centers:
+      - name: Marlboro
+        distance:
+          value: 0.5
+          units: km
+      - name: Hudson
+        distance:
+          value: 5.17
+          units: km
+      - name: Northboro
+        distance:
+          value: 8.03
+          units: km
     - name: Marshfield Hills
       region: MA
       lat: '42.1487'
       long: "-70.7315"
+      closest_rate_centers:
+      - name: Marshfield
+        distance:
+          value: 5.16
+          units: km
+      - name: Norwell
+        distance:
+          value: 5.76
+          units: km
+      - name: Scituate
+        distance:
+          value: 6.06
+          units: km
     - name: Mashpee Neck
       region: MA
       lat: '41.6119'
       long: "-70.4666"
+      closest_rate_centers:
+      - name: Osterville
+        distance:
+          value: 6.72
+          units: km
+      - name: Cataumet
+        distance:
+          value: 13.47
+          units: km
+      - name: Falmouth
+        distance:
+          value: 13.94
+          units: km
     - name: Mattapoisett Center
       region: MA
       lat: '41.6666'
       long: "-70.8056"
+      closest_rate_centers:
+      - name: Mattapoisett
+        distance:
+          value: 0.98
+          units: km
+      - name: Marion
+        distance:
+          value: 5.14
+          units: km
+      - name: New Bedford
+        distance:
+          value: 10.56
+          units: km
     - name: Medford
       region: MA
       lat: '42.4234'
       long: "-71.1087"
+      closest_rate_centers:
+      - name: Medford
+        distance:
+          value: 0.61
+          units: km
+      - name: Malden
+        distance:
+          value: 2.61
+          units: km
+      - name: Arlington
+        distance:
+          value: 3.92
+          units: km
     - name: Melrose
       region: MA
       lat: '42.4556'
       long: "-71.0590"
+      closest_rate_centers:
+      - name: Melrose
+        distance:
+          value: 0.76
+          units: km
+      - name: Malden
+        distance:
+          value: 3.48
+          units: km
+      - name: Saugus
+        distance:
+          value: 4.04
+          units: km
     - name: Methuen Town
       region: MA
       lat: '42.7340'
       long: "-71.1889"
+      closest_rate_centers:
+      - name: Lawrence
+        distance:
+          value: 3.58
+          units: km
+      - name: Andover
+        distance:
+          value: 9.39
+          units: km
+      - name: Haverhill
+        distance:
+          value: 10.42
+          units: km
     - name: Middleborough Center
       region: MA
       lat: '41.8945'
       long: "-70.9260"
+      closest_rate_centers:
+      - name: Middleboro
+        distance:
+          value: 1.52
+          units: km
+      - name: Bridgewater
+        distance:
+          value: 11.17
+          units: km
+      - name: Rochester
+        distance:
+          value: 12.82
+          units: km
     - name: Millers Falls
       region: MA
       lat: '42.5792'
       long: "-72.4925"
+      closest_rate_centers:
+      - name: Millers Falls
+        distance:
+          value: 0.1
+          units: km
+      - name: Montague
+        distance:
+          value: 6.1
+          units: km
+      - name: Turners Falls
+        distance:
+          value: 6.27
+          units: km
     - name: Millis-Clicquot
       region: MA
       lat: '42.1648'
       long: "-71.3544"
+      closest_rate_centers:
+      - name: Millis
+        distance:
+          value: 0.43
+          units: km
+      - name: Medfield
+        distance:
+          value: 4.87
+          units: km
+      - name: Medway
+        distance:
+          value: 6.1
+          units: km
     - name: Monomoscoy Island
       region: MA
       lat: '41.5712'
       long: "-70.5026"
+      closest_rate_centers:
+      - name: Falmouth
+        distance:
+          value: 9.47
+          units: km
+      - name: Osterville
+        distance:
+          value: 11.29
+          units: km
+      - name: Cataumet
+        distance:
+          value: 13.95
+          units: km
     - name: Monson Center
       region: MA
       lat: '42.0990'
       long: "-72.3048"
+      closest_rate_centers:
+      - name: Monson
+        distance:
+          value: 1.43
+          units: km
+      - name: Palmer
+        distance:
+          value: 6.79
+          units: km
+      - name: Brimfield
+        distance:
+          value: 8.65
+          units: km
     - name: Monument Beach
       region: MA
       lat: '41.7192'
       long: "-70.6060"
+      closest_rate_centers:
+      - name: Buzzards Bay
+        distance:
+          value: 3.55
+          units: km
+      - name: Cataumet
+        distance:
+          value: 5.82
+          units: km
+      - name: Sagamore
+        distance:
+          value: 8.52
+          units: km
     - name: New Bedford
       region: MA
       lat: '41.6697'
       long: "-70.9428"
+      closest_rate_centers:
+      - name: New Bedford
+        distance:
+          value: 4.25
+          units: km
+      - name: Mattapoisett
+        distance:
+          value: 10.63
+          units: km
+      - name: Rochester
+        distance:
+          value: 12.67
+          units: km
     - name: New Seabury
       region: MA
       lat: '41.5689'
       long: "-70.4812"
+      closest_rate_centers:
+      - name: Osterville
+        distance:
+          value: 9.98
+          units: km
+      - name: Falmouth
+        distance:
+          value: 11.16
+          units: km
+      - name: Cataumet
+        distance:
+          value: 15.34
+          units: km
     - name: Newburyport
       region: MA
       lat: '42.8124'
       long: "-70.8878"
+      closest_rate_centers:
+      - name: Newburyport
+        distance:
+          value: 1.34
+          units: km
+      - name: Amesbury
+        distance:
+          value: 5.96
+          units: km
+      - name: West Newbury
+        distance:
+          value: 8.85
+          units: km
     - name: Newton
       region: MA
       lat: '42.3316'
       long: "-71.2085"
+      closest_rate_centers:
+      - name: Newton
+        distance:
+          value: 2.38
+          units: km
+      - name: Watertown
+        distance:
+          value: 4.5
+          units: km
+      - name: Brighton
+        distance:
+          value: 5.12
+          units: km
     - name: North Adams
       region: MA
       lat: '42.6844'
       long: "-73.1166"
+      closest_rate_centers:
+      - name: North Adams
+        distance:
+          value: 1.29
+          units: km
+      - name: Adams
+        distance:
+          value: 6.89
+          units: km
+      - name: Williamstown
+        distance:
+          value: 7.43
+          units: km
     - name: North Eastham
       region: MA
       lat: '41.8539'
       long: "-69.9968"
+      closest_rate_centers:
+      - name: Orleans
+        distance:
+          value: 7.38
+          units: km
+      - name: Wellfleet
+        distance:
+          value: 9.94
+          units: km
+      - name: Brewster
+        distance:
+          value: 11.97
+          units: km
     - name: North Falmouth
       region: MA
       lat: '41.6394'
       long: "-70.6251"
+      closest_rate_centers:
+      - name: Cataumet
+        distance:
+          value: 3.28
+          units: km
+      - name: Falmouth
+        distance:
+          value: 9.88
+          units: km
+      - name: Buzzards Bay
+        distance:
+          value: 12.53
+          units: km
     - name: North Lakeville
       region: MA
       lat: '41.8620'
       long: "-70.9411"
+      closest_rate_centers:
+      - name: Middleboro
+        distance:
+          value: 4.4
+          units: km
+      - name: Rochester
+        distance:
+          value: 9.56
+          units: km
+      - name: Assonet
+        distance:
+          value: 12.88
+          units: km
     - name: North Pembroke
       region: MA
       lat: '42.0989'
       long: "-70.7823"
+      closest_rate_centers:
+      - name: Hanover
+        distance:
+          value: 3.04
+          units: km
+      - name: Marshfield
+        distance:
+          value: 5.07
+          units: km
+      - name: Norwell
+        distance:
+          value: 7.1
+          units: km
     - name: North Plymouth
       region: MA
       lat: '41.9727'
       long: "-70.6889"
+      closest_rate_centers:
+      - name: Plymouth
+        distance:
+          value: 2.38
+          units: km
+      - name: Kingston
+        distance:
+          value: 3.71
+          units: km
+      - name: Duxbury
+        distance:
+          value: 5.91
+          units: km
     - name: North Scituate
       region: MA
       lat: '42.2121'
       long: "-70.7652"
+      closest_rate_centers:
+      - name: Scituate
+        distance:
+          value: 1.54
+          units: km
+      - name: Cohasset
+        distance:
+          value: 4.66
+          units: km
+      - name: Norwell
+        distance:
+          value: 6.28
+          units: km
     - name: North Seekonk
       region: MA
       lat: '41.8883'
       long: "-71.3297"
+      closest_rate_centers:
+      - name: Southgate
+        distance:
+          value: 3.42
+          units: km
+      - name: Attleboro
+        distance:
+          value: 7.64
+          units: km
+      - name: Seekonk
+        distance:
+          value: 8.61
+          units: km
     - name: North Westport
       region: MA
       lat: '41.6540'
       long: "-71.0927"
+      closest_rate_centers:
+      - name: Fall River
+        distance:
+          value: 7.7
+          units: km
+      - name: Westport
+        distance:
+          value: 9.38
+          units: km
+      - name: New Bedford
+        distance:
+          value: 14.12
+          units: km
     - name: Northampton
       region: MA
       lat: '42.3266'
       long: "-72.6745"
+      closest_rate_centers:
+      - name: Northampton
+        distance:
+          value: 3.54
+          units: km
+      - name: Easthampton
+        distance:
+          value: 6.32
+          units: km
+      - name: Hatfield
+        distance:
+          value: 8.09
+          units: km
     - name: Northwest Harwich
       region: MA
       lat: '41.6917'
       long: "-70.1026"
+      closest_rate_centers:
+      - name: Harwich
+        distance:
+          value: 2.56
+          units: km
+      - name: Dennis
+        distance:
+          value: 7.59
+          units: km
+      - name: Brewster
+        distance:
+          value: 8.26
+          units: km
     - name: Norton Center
       region: MA
       lat: '41.9725'
       long: "-71.1854"
+      closest_rate_centers:
+      - name: Norton
+        distance:
+          value: 0.84
+          units: km
+      - name: Mansfield
+        distance:
+          value: 6.9
+          units: km
+      - name: Attleboro
+        distance:
+          value: 8.55
+          units: km
     - name: Oak Bluffs
       region: MA
       lat: '41.4551'
       long: "-70.5657"
+      closest_rate_centers:
+      - name: Vineyard Haven
+        distance:
+          value: 3.24
+          units: km
+      - name: Edgartown
+        distance:
+          value: 8.34
+          units: km
+      - name: Falmouth
+        distance:
+          value: 11.37
+          units: km
     - name: Ocean Bluff-Brant Rock
       region: MA
       lat: '42.1006'
       long: "-70.6626"
+      closest_rate_centers:
+      - name: Marshfield
+        distance:
+          value: 4.83
+          units: km
+      - name: Duxbury
+        distance:
+          value: 8.48
+          units: km
+      - name: Hanover
+        distance:
+          value: 12.6
+          units: km
     - name: Ocean Grove
       region: MA
       lat: '41.7281'
       long: "-71.2098"
+      closest_rate_centers:
+      - name: Fall River
+        distance:
+          value: 5.29
+          units: km
+      - name: North Swansea
+        distance:
+          value: 7.02
+          units: km
+      - name: Dighton
+        distance:
+          value: 11.74
+          units: km
     - name: Onset
       region: MA
       lat: '41.7481'
       long: "-70.6670"
+      closest_rate_centers:
+      - name: Wareham
+        distance:
+          value: 4.38
+          units: km
+      - name: Buzzards Bay
+        distance:
+          value: 5.18
+          units: km
+      - name: Marion
+        distance:
+          value: 9.61
+          units: km
     - name: Peabody
       region: MA
       lat: '42.5335'
       long: "-70.9725"
+      closest_rate_centers:
+      - name: Peabody
+        distance:
+          value: 3.82
+          units: km
+      - name: Danvers
+        distance:
+          value: 4.7
+          units: km
+      - name: Lynnfield
+        distance:
+          value: 6.24
+          units: km
     - name: Pinehurst
       region: MA
       lat: '42.5334'
       long: "-71.2339"
+      closest_rate_centers:
+      - name: Billerica
+        distance:
+          value: 3.95
+          units: km
+      - name: Burlington
+        distance:
+          value: 4.78
+          units: km
+      - name: Wilmington
+        distance:
+          value: 5.24
+          units: km
     - name: Pittsfield
       region: MA
       lat: '42.4517'
       long: "-73.2605"
+      closest_rate_centers:
+      - name: Pittsfield
+        distance:
+          value: 0.49
+          units: km
+      - name: Dalton
+        distance:
+          value: 7.74
+          units: km
+      - name: Lenox
+        distance:
+          value: 10.89
+          units: km
     - name: Pocasset
       region: MA
       lat: '41.6877'
       long: "-70.6195"
+      closest_rate_centers:
+      - name: Cataumet
+        distance:
+          value: 2.41
+          units: km
+      - name: Buzzards Bay
+        distance:
+          value: 7.15
+          units: km
+      - name: Wareham
+        distance:
+          value: 11.17
+          units: km
     - name: Popponesset
       region: MA
       lat: '41.5737'
       long: "-70.4636"
+      closest_rate_centers:
+      - name: Osterville
+        distance:
+          value: 8.52
+          units: km
+      - name: Falmouth
+        distance:
+          value: 12.69
+          units: km
+      - name: Cataumet
+        distance:
+          value: 16.05
+          units: km
     - name: Popponesset Island
       region: MA
       lat: '41.5855'
       long: "-70.4591"
+      closest_rate_centers:
+      - name: Osterville
+        distance:
+          value: 7.4
+          units: km
+      - name: Falmouth
+        distance:
+          value: 13.38
+          units: km
+      - name: Cataumet
+        distance:
+          value: 15.54
+          units: km
     - name: Quincy
       region: MA
       lat: '42.2506'
       long: "-71.0187"
+      closest_rate_centers:
+      - name: Quincy
+        distance:
+          value: 1.23
+          units: km
+      - name: Braintree
+        distance:
+          value: 3.99
+          units: km
+      - name: Milton
+        distance:
+          value: 4.68
+          units: km
     - name: Raynham Center
       region: MA
       lat: '41.9327'
       long: "-71.0431"
+      closest_rate_centers:
+      - name: Taunton
+        distance:
+          value: 5.2
+          units: km
+      - name: Bridgewater
+        distance:
+          value: 8.14
+          units: km
+      - name: Middleboro
+        distance:
+          value: 12.05
+          units: km
     - name: Revere
       region: MA
       lat: '42.4189'
       long: "-71.0040"
+      closest_rate_centers:
+      - name: Revere
+        distance:
+          value: 1.56
+          units: km
+      - name: Chelsea
+        distance:
+          value: 3.56
+          units: km
+      - name: Saugus
+        distance:
+          value: 3.68
+          units: km
     - name: Sagamore
       region: MA
       lat: '41.7842'
       long: "-70.5332"
+      closest_rate_centers:
+      - name: Sagamore
+        distance:
+          value: 1.68
+          units: km
+      - name: Buzzards Bay
+        distance:
+          value: 6.98
+          units: km
+      - name: Cataumet
+        distance:
+          value: 14.55
+          units: km
     - name: Salem
       region: MA
       lat: '42.5129'
       long: "-70.9021"
+      closest_rate_centers:
+      - name: Salem
+        distance:
+          value: 0.81
+          units: km
+      - name: Peabody
+        distance:
+          value: 2.48
+          units: km
+      - name: Marblehead
+        distance:
+          value: 3.62
+          units: km
     - name: Seabrook
       region: MA
       lat: '41.5831'
       long: "-70.4992"
+      closest_rate_centers:
+      - name: Falmouth
+        distance:
+          value: 10.13
+          units: km
+      - name: Osterville
+        distance:
+          value: 10.39
+          units: km
+      - name: Cataumet
+        distance:
+          value: 13.17
+          units: km
     - name: Seconsett Island
       region: MA
       lat: '41.5662'
       long: "-70.5123"
+      closest_rate_centers:
+      - name: Falmouth
+        distance:
+          value: 8.56
+          units: km
+      - name: Osterville
+        distance:
+          value: 12.26
+          units: km
+      - name: Cataumet
+        distance:
+          value: 13.89
+          units: km
     - name: Shelburne Falls
       region: MA
       lat: '42.6063'
       long: "-72.7436"
+      closest_rate_centers:
+      - name: Shelburne Falls
+        distance:
+          value: 0.65
+          units: km
+      - name: Colrain
+        distance:
+          value: 7.93
+          units: km
+      - name: Ashfield
+        distance:
+          value: 9.77
+          units: km
     - name: Siasconset
       region: MA
       lat: '41.2636'
       long: "-69.9718"
+      closest_rate_centers:
+      - name: Siasconset
+        distance:
+          value: 0.31
+          units: km
+      - name: Nantucket
+        distance:
+          value: 10.63
+          units: km
+      - name: Chatham
+        distance:
+          value: 46.69
+          units: km
     - name: Smith Mills
       region: MA
       lat: '41.6432'
       long: "-70.9922"
+      closest_rate_centers:
+      - name: New Bedford
+        distance:
+          value: 5.69
+          units: km
+      - name: Westport
+        distance:
+          value: 10.47
+          units: km
+      - name: Mattapoisett
+        distance:
+          value: 14.84
+          units: km
     - name: Somerville
       region: MA
       lat: '42.3908'
       long: "-71.1014"
+      closest_rate_centers:
+      - name: Somerville
+        distance:
+          value: 0.48
+          units: km
+      - name: Cambridge
+        distance:
+          value: 2.23
+          units: km
+      - name: Medford
+        distance:
+          value: 3.17
+          units: km
     - name: South Ashburnham
       region: MA
       lat: '42.6138'
       long: "-71.9384"
+      closest_rate_centers:
+      - name: Ashburnham
+        distance:
+          value: 3.0
+          units: km
+      - name: Gardner
+        distance:
+          value: 6.28
+          units: km
+      - name: Westminster
+        distance:
+          value: 7.64
+          units: km
     - name: South Deerfield
       region: MA
       lat: '42.4795'
       long: "-72.5947"
+      closest_rate_centers:
+      - name: South Deerfield
+        distance:
+          value: 0.94
+          units: km
+      - name: Montague
+        distance:
+          value: 7.81
+          units: km
+      - name: Conway
+        distance:
+          value: 9.39
+          units: km
     - name: South Dennis
       region: MA
       lat: '41.7051'
       long: "-70.1537"
+      closest_rate_centers:
+      - name: Dennis
+        distance:
+          value: 5.02
+          units: km
+      - name: Harwich
+        distance:
+          value: 7.05
+          units: km
+      - name: Brewster
+        distance:
+          value: 9.23
+          units: km
     - name: South Duxbury
       region: MA
       lat: '42.0203'
       long: "-70.6913"
+      closest_rate_centers:
+      - name: Duxbury
+        distance:
+          value: 1.08
+          units: km
+      - name: Kingston
+        distance:
+          value: 4.05
+          units: km
+      - name: Plymouth
+        distance:
+          value: 7.12
+          units: km
     - name: South Lancaster
       region: MA
       lat: '42.4373'
       long: "-71.6920"
+      closest_rate_centers:
+      - name: Clinton
+        distance:
+          value: 2.57
+          units: km
+      - name: Sterling
+        distance:
+          value: 5.51
+          units: km
+      - name: Bolton
+        distance:
+          value: 6.12
+          units: km
     - name: South Yarmouth
       region: MA
       lat: '41.6692'
       long: "-70.2005"
+      closest_rate_centers:
+      - name: Dennis
+        distance:
+          value: 1.02
+          units: km
+      - name: Hyannis
+        distance:
+          value: 7.41
+          units: km
+      - name: Barnstable
+        distance:
+          value: 9.15
+          units: km
     - name: Springfield
       region: MA
       lat: '42.1155'
       long: "-72.5395"
+      closest_rate_centers:
+      - name: Springfield
+        distance:
+          value: 4.64
+          units: km
+      - name: Chicopee
+        distance:
+          value: 5.86
+          units: km
+      - name: East Longmeadow
+        distance:
+          value: 6.14
+          units: km
     - name: Taunton
       region: MA
       lat: '41.9036'
       long: "-71.0943"
+      closest_rate_centers:
+      - name: Taunton
+        distance:
+          value: 0.13
+          units: km
+      - name: Norton
+        distance:
+          value: 10.14
+          units: km
+      - name: Dighton
+        distance:
+          value: 10.29
+          units: km
     - name: Teaticket
       region: MA
       lat: '41.5624'
       long: "-70.5858"
+      closest_rate_centers:
+      - name: Falmouth
+        distance:
+          value: 2.6
+          units: km
+      - name: Cataumet
+        distance:
+          value: 11.81
+          units: km
+      - name: Vineyard Haven
+        distance:
+          value: 12.39
+          units: km
     - name: The Pinehills
       region: MA
       lat: '41.8946'
       long: "-70.5966"
+      closest_rate_centers:
+      - name: Plymouth
+        distance:
+          value: 9.22
+          units: km
+      - name: Carver
+        distance:
+          value: 14.12
+          units: km
+      - name: Sagamore
+        distance:
+          value: 15.02
+          units: km
     - name: Turners Falls
       region: MA
       lat: '42.5975'
       long: "-72.5573"
+      closest_rate_centers:
+      - name: Turners Falls
+        distance:
+          value: 0.99
+          units: km
+      - name: Greenfield
+        distance:
+          value: 3.71
+          units: km
+      - name: Millers Falls
+        distance:
+          value: 5.59
+          units: km
     - name: Vineyard Haven
       region: MA
       lat: '41.4572'
       long: "-70.6070"
+      closest_rate_centers:
+      - name: Vineyard Haven
+        distance:
+          value: 0.63
+          units: km
+      - name: Falmouth
+        distance:
+          value: 10.44
+          units: km
+      - name: Edgartown
+        distance:
+          value: 10.71
+          units: km
     - name: Waltham
       region: MA
       lat: '42.3889'
       long: "-71.2423"
+      closest_rate_centers:
+      - name: Waltham
+        distance:
+          value: 1.43
+          units: km
+      - name: Newton
+        distance:
+          value: 4.88
+          units: km
+      - name: Watertown
+        distance:
+          value: 5.35
+          units: km
     - name: Wareham Center
       region: MA
       lat: '41.7498'
       long: "-70.7207"
+      closest_rate_centers:
+      - name: Wareham
+        distance:
+          value: 0.66
+          units: km
+      - name: Marion
+        distance:
+          value: 6.53
+          units: km
+      - name: Buzzards Bay
+        distance:
+          value: 9.63
+          units: km
     - name: Watertown Town
       region: MA
       lat: '42.3700'
       long: "-71.1774"
+      closest_rate_centers:
+      - name: Watertown
+        distance:
+          value: 0.59
+          units: km
+      - name: Belmont
+        distance:
+          value: 3.06
+          units: km
+      - name: Newton
+        distance:
+          value: 3.16
+          units: km
     - name: West Chatham
       region: MA
       lat: '41.6804'
       long: "-69.9918"
+      closest_rate_centers:
+      - name: Chatham
+        distance:
+          value: 2.37
+          units: km
+      - name: Harwich
+        distance:
+          value: 6.76
+          units: km
+      - name: Brewster
+        distance:
+          value: 11.4
+          units: km
     - name: West Concord
       region: MA
       lat: '42.4517'
       long: "-71.4035"
+      closest_rate_centers:
+      - name: Maynard
+        distance:
+          value: 4.56
+          units: km
+      - name: Concord
+        distance:
+          value: 4.73
+          units: km
+      - name: Acton
+        distance:
+          value: 5.0
+          units: km
     - name: West Dennis
       region: MA
       lat: '41.6666'
       long: "-70.1656"
+      closest_rate_centers:
+      - name: Dennis
+        distance:
+          value: 1.9
+          units: km
+      - name: Harwich
+        distance:
+          value: 7.99
+          units: km
+      - name: Hyannis
+        distance:
+          value: 10.18
+          units: km
     - name: West Falmouth
       region: MA
       lat: '41.6012'
       long: "-70.6364"
+      closest_rate_centers:
+      - name: Falmouth
+        distance:
+          value: 5.91
+          units: km
+      - name: Cataumet
+        distance:
+          value: 7.61
+          units: km
+      - name: Marion
+        distance:
+          value: 15.32
+          units: km
     - name: West Wareham
       region: MA
       lat: '41.7900'
       long: "-70.7550"
+      closest_rate_centers:
+      - name: Wareham
+        distance:
+          value: 4.87
+          units: km
+      - name: Marion
+        distance:
+          value: 9.95
+          units: km
+      - name: Carver
+        distance:
+          value: 10.49
+          units: km
     - name: West Warren
       region: MA
       lat: '42.2168'
       long: "-72.2366"
+      closest_rate_centers:
+      - name: Warren
+        distance:
+          value: 3.33
+          units: km
+      - name: Ware
+        distance:
+          value: 4.73
+          units: km
+      - name: Palmer
+        distance:
+          value: 9.78
+          units: km
     - name: West Yarmouth
       region: MA
       lat: '41.6496'
       long: "-70.2487"
+      closest_rate_centers:
+      - name: Hyannis
+        distance:
+          value: 3.15
+          units: km
+      - name: Dennis
+        distance:
+          value: 5.42
+          units: km
+      - name: Barnstable
+        distance:
+          value: 7.3
+          units: km
     - name: Westfield
       region: MA
       lat: '42.1382'
       long: "-72.7561"
+      closest_rate_centers:
+      - name: Westfield
+        distance:
+          value: 1.69
+          units: km
+      - name: Southwick
+        distance:
+          value: 9.13
+          units: km
+      - name: Russell
+        distance:
+          value: 10.1
+          units: km
     - name: Weweantic
       region: MA
       lat: '41.7396'
       long: "-70.7346"
+      closest_rate_centers:
+      - name: Wareham
+        distance:
+          value: 2.21
+          units: km
+      - name: Marion
+        distance:
+          value: 4.96
+          units: km
+      - name: Buzzards Bay
+        distance:
+          value: 10.86
+          units: km
     - name: White Island Shores
       region: MA
       lat: '41.7932'
       long: "-70.6389"
+      closest_rate_centers:
+      - name: Buzzards Bay
+        distance:
+          value: 5.48
+          units: km
+      - name: Wareham
+        distance:
+          value: 7.84
+          units: km
+      - name: Sagamore
+        distance:
+          value: 9.53
+          units: km
     - name: Whitinsville
       region: MA
       lat: '42.1146'
       long: "-71.6688"
+      closest_rate_centers:
+      - name: Whitinsville
+        distance:
+          value: 0.49
+          units: km
+      - name: Uxbridge
+        distance:
+          value: 5.13
+          units: km
+      - name: East Douglas
+        distance:
+          value: 5.84
+          units: km
     - name: Woburn
       region: MA
       lat: '42.4869'
       long: "-71.1543"
+      closest_rate_centers:
+      - name: Woburn
+        distance:
+          value: 0.51
+          units: km
+      - name: Burlington
+        distance:
+          value: 3.65
+          units: km
+      - name: Winchester
+        distance:
+          value: 3.89
+          units: km
     - name: Woods Hole
       region: MA
       lat: '41.5303'
       long: "-70.6614"
+      closest_rate_centers:
+      - name: Falmouth
+        distance:
+          value: 4.63
+          units: km
+      - name: Vineyard Haven
+        distance:
+          value: 9.93
+          units: km
+      - name: Cataumet
+        distance:
+          value: 15.76
+          units: km
     - name: Worcester
       region: MA
       lat: '42.2705'
       long: "-71.8079"
+      closest_rate_centers:
+      - name: Worcester
+        distance:
+          value: 0.5
+          units: km
+      - name: Shrewsbury
+        distance:
+          value: 8.09
+          units: km
+      - name: Auburn
+        distance:
+          value: 8.93
+          units: km
     - name: Yarmouth Port
       region: MA
       lat: '41.7091'
       long: "-70.2225"
+      closest_rate_centers:
+      - name: Dennis
+        distance:
+          value: 5.37
+          units: km
+      - name: Barnstable
+        distance:
+          value: 6.61
+          units: km
+      - name: Hyannis
+        distance:
+          value: 8.31
+          units: km
