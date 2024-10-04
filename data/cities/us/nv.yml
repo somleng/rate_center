@@ -1,0 +1,536 @@
+---
+cities:
+  us:
+    NV:
+    - name: Alamo
+      region: NV
+      lat: '37.3771'
+      long: "-115.1678"
+    - name: Amargosa Valley
+      region: NV
+      lat: '36.5424'
+      long: "-116.4877"
+    - name: Austin
+      region: NV
+      lat: '39.4976'
+      long: "-117.0740"
+    - name: Baker
+      region: NV
+      lat: '39.0150'
+      long: "-114.1233"
+    - name: Battle Mountain
+      region: NV
+      lat: '40.6299'
+      long: "-116.9518"
+    - name: Beatty
+      region: NV
+      lat: '36.9474'
+      long: "-116.7337"
+    - name: Beaverdam
+      region: NV
+      lat: '37.6898'
+      long: "-114.4491"
+    - name: Bennett Springs
+      region: NV
+      lat: '37.7141'
+      long: "-114.4667"
+    - name: Blue Diamond
+      region: NV
+      lat: '36.0400'
+      long: "-115.4128"
+    - name: Boulder City
+      region: NV
+      lat: '35.8407'
+      long: "-114.9257"
+    - name: Bunkerville
+      region: NV
+      lat: '36.7594'
+      long: "-114.1412"
+    - name: Cal-Nev-Ari
+      region: NV
+      lat: '35.2996'
+      long: "-114.8777"
+    - name: Caliente
+      region: NV
+      lat: '37.6458'
+      long: "-114.4929"
+    - name: Carlin
+      region: NV
+      lat: '40.7190'
+      long: "-116.1081"
+    - name: Carson City
+      region: NV
+      lat: '39.1511'
+      long: "-119.7476"
+    - name: Carter Springs
+      region: NV
+      lat: '38.8619'
+      long: "-119.6413"
+    - name: Cold Springs
+      region: NV
+      lat: '39.6927'
+      long: "-119.9775"
+    - name: Crescent Valley
+      region: NV
+      lat: '40.4198'
+      long: "-116.5753"
+    - name: Crystal Bay
+      region: NV
+      lat: '39.2314'
+      long: "-120.0019"
+    - name: Dayton
+      region: NV
+      lat: '39.2592'
+      long: "-119.5653"
+    - name: Denio
+      region: NV
+      lat: '41.9888'
+      long: "-118.6375"
+    - name: Double Spring
+      region: NV
+      lat: '38.7788'
+      long: "-119.6154"
+    - name: Dry Valley
+      region: NV
+      lat: '37.8843'
+      long: "-114.3051"
+    - name: Dyer
+      region: NV
+      lat: '37.6469'
+      long: "-118.0345"
+    - name: East Valley
+      region: NV
+      lat: '38.9452'
+      long: "-119.6993"
+    - name: Elko
+      region: NV
+      lat: '40.8381'
+      long: "-115.7678"
+    - name: Ely
+      region: NV
+      lat: '39.2650'
+      long: "-114.8708"
+    - name: Empire
+      region: NV
+      lat: '40.5759'
+      long: "-119.3430"
+    - name: Enterprise
+      region: NV
+      lat: '36.0091'
+      long: "-115.2278"
+    - name: Eureka
+      region: NV
+      lat: '39.5112'
+      long: "-115.9658"
+    - name: Fallon
+      region: NV
+      lat: '39.4737'
+      long: "-118.7779"
+    - name: Fallon Station
+      region: NV
+      lat: '39.4150'
+      long: "-118.7165"
+    - name: Fernley
+      region: NV
+      lat: '39.5627'
+      long: "-119.1906"
+    - name: Fish Springs
+      region: NV
+      lat: '38.9536'
+      long: "-119.6511"
+    - name: Fort McDermitt
+      region: NV
+      lat: '41.9655'
+      long: "-117.6394"
+    - name: Gabbs
+      region: NV
+      lat: '38.8621'
+      long: "-117.9330"
+    - name: Gardnerville
+      region: NV
+      lat: '38.9390'
+      long: "-119.7369"
+    - name: Gardnerville Ranchos
+      region: NV
+      lat: '38.8957'
+      long: "-119.7492"
+    - name: Genoa
+      region: NV
+      lat: '39.0256'
+      long: "-119.8309"
+    - name: Gerlach
+      region: NV
+      lat: '40.6452'
+      long: "-119.3614"
+    - name: Glenbrook
+      region: NV
+      lat: '39.0986'
+      long: "-119.9341"
+    - name: Golconda
+      region: NV
+      lat: '40.9522'
+      long: "-117.4997"
+    - name: Golden Valley
+      region: NV
+      lat: '39.6178'
+      long: "-119.8231"
+    - name: Goldfield
+      region: NV
+      lat: '37.7121'
+      long: "-117.2378"
+    - name: Goodsprings
+      region: NV
+      lat: '35.8319'
+      long: "-115.4352"
+    - name: Grass Valley
+      region: NV
+      lat: '40.7971'
+      long: "-117.7603"
+    - name: Hawthorne
+      region: NV
+      lat: '38.5253'
+      long: "-118.6260"
+    - name: Henderson
+      region: NV
+      lat: '36.0133'
+      long: "-115.0381"
+    - name: Hiko
+      region: NV
+      lat: '37.6063'
+      long: "-115.2018"
+    - name: Humboldt River Ranch
+      region: NV
+      lat: '40.4318'
+      long: "-118.2719"
+    - name: Imlay
+      region: NV
+      lat: '40.6581'
+      long: "-118.1441"
+    - name: Incline Village
+      region: NV
+      lat: '39.2639'
+      long: "-119.9455"
+    - name: Indian Hills
+      region: NV
+      lat: '39.0894'
+      long: "-119.7977"
+    - name: Indian Springs
+      region: NV
+      lat: '36.5719'
+      long: "-115.7204"
+    - name: Jackpot
+      region: NV
+      lat: '41.9797'
+      long: "-114.6645"
+    - name: Johnson Lane
+      region: NV
+      lat: '39.0489'
+      long: "-119.7245"
+    - name: Kingsbury
+      region: NV
+      lat: '38.9909'
+      long: "-119.8837"
+    - name: Kingston
+      region: NV
+      lat: '39.2101'
+      long: "-117.0679"
+    - name: Lakeridge
+      region: NV
+      lat: '39.0382'
+      long: "-119.9397"
+    - name: Lamoille
+      region: NV
+      lat: '40.7239'
+      long: "-115.4790"
+    - name: Las Vegas
+      region: NV
+      lat: '36.2333'
+      long: "-115.2654"
+    - name: Laughlin
+      region: NV
+      lat: '35.1401'
+      long: "-114.6206"
+    - name: Lemmon Valley
+      region: NV
+      lat: '39.6879'
+      long: "-119.8364"
+    - name: Logan Creek
+      region: NV
+      lat: '39.0626'
+      long: "-119.9295"
+    - name: Lovelock
+      region: NV
+      lat: '40.1787'
+      long: "-118.4775"
+    - name: Lund
+      region: NV
+      lat: '38.8642'
+      long: "-115.0099"
+    - name: McDermitt
+      region: NV
+      lat: '41.9903'
+      long: "-117.7209"
+    - name: McGill
+      region: NV
+      lat: '39.4019'
+      long: "-114.7775"
+    - name: Mesquite
+      region: NV
+      lat: '36.8032'
+      long: "-114.1330"
+    - name: Mina
+      region: NV
+      lat: '38.3898'
+      long: "-118.1115"
+    - name: Minden
+      region: NV
+      lat: '38.9632'
+      long: "-119.7683"
+    - name: Moapa Town
+      region: NV
+      lat: '36.6925'
+      long: "-114.6356"
+    - name: Moapa Valley
+      region: NV
+      lat: '36.6078'
+      long: "-114.4566"
+    - name: Mogul
+      region: NV
+      lat: '39.5164'
+      long: "-119.9230"
+    - name: Montello
+      region: NV
+      lat: '41.2671'
+      long: "-114.1970"
+    - name: Mount Charleston
+      region: NV
+      lat: '36.2625'
+      long: "-115.6138"
+    - name: Mount Wilson
+      region: NV
+      lat: '38.2350'
+      long: "-114.4504"
+    - name: Mountain City
+      region: NV
+      lat: '41.8374'
+      long: "-115.9633"
+    - name: Nellis AFB
+      region: NV
+      lat: '36.2466'
+      long: "-115.0571"
+    - name: Nelson
+      region: NV
+      lat: '35.7179'
+      long: "-114.8313"
+    - name: Nixon
+      region: NV
+      lat: '39.8280'
+      long: "-119.3589"
+    - name: North Las Vegas
+      region: NV
+      lat: '36.2883'
+      long: "-115.0888"
+    - name: Oasis
+      region: NV
+      lat: '41.0286'
+      long: "-114.4763"
+    - name: Orovada
+      region: NV
+      lat: '41.5492'
+      long: "-117.8235"
+    - name: Osino
+      region: NV
+      lat: '40.9409'
+      long: "-115.6607"
+    - name: Owyhee
+      region: NV
+      lat: '41.9165'
+      long: "-116.1825"
+    - name: Pahrump
+      region: NV
+      lat: '36.2235'
+      long: "-115.9974"
+    - name: Panaca
+      region: NV
+      lat: '37.7881'
+      long: "-114.4005"
+    - name: Paradise
+      region: NV
+      lat: '36.0872'
+      long: "-115.1355"
+    - name: Paradise Valley
+      region: NV
+      lat: '41.4937'
+      long: "-117.5470"
+    - name: Pioche
+      region: NV
+      lat: '37.9519'
+      long: "-114.4434"
+    - name: Preston
+      region: NV
+      lat: '38.9150'
+      long: "-115.0637"
+    - name: Rachel
+      region: NV
+      lat: '37.6414'
+      long: "-115.7681"
+    - name: Reno
+      region: NV
+      lat: '39.5497'
+      long: "-119.8483"
+    - name: Round Hill Village
+      region: NV
+      lat: '38.9937'
+      long: "-119.9233"
+    - name: Ruhenstroth
+      region: NV
+      lat: '38.8913'
+      long: "-119.6833"
+    - name: Ruth
+      region: NV
+      lat: '39.2791'
+      long: "-114.9901"
+    - name: Sandy Valley
+      region: NV
+      lat: '35.8423'
+      long: "-115.6304"
+    - name: Schurz
+      region: NV
+      lat: '38.9673'
+      long: "-118.8240"
+    - name: Searchlight
+      region: NV
+      lat: '35.4555'
+      long: "-114.9204"
+    - name: Silver City
+      region: NV
+      lat: '39.2639'
+      long: "-119.6357"
+    - name: Silver Peak
+      region: NV
+      lat: '37.7578'
+      long: "-117.6386"
+    - name: Silver Springs
+      region: NV
+      lat: '39.3826'
+      long: "-119.2148"
+    - name: Skyland
+      region: NV
+      lat: '39.0265'
+      long: "-119.9221"
+    - name: Smith Valley
+      region: NV
+      lat: '38.8109'
+      long: "-119.3517"
+    - name: Spanish Springs
+      region: NV
+      lat: '39.6568'
+      long: "-119.6694"
+    - name: Sparks
+      region: NV
+      lat: '39.5736'
+      long: "-119.7161"
+    - name: Spring Creek
+      region: NV
+      lat: '40.7450'
+      long: "-115.5983"
+    - name: Spring Valley
+      region: NV
+      lat: '36.0952'
+      long: "-115.2636"
+    - name: Stagecoach
+      region: NV
+      lat: '39.3656'
+      long: "-119.3832"
+    - name: Stateline
+      region: NV
+      lat: '38.9678'
+      long: "-119.9440"
+    - name: Summerlin South
+      region: NV
+      lat: '36.1242'
+      long: "-115.3324"
+    - name: Sun Valley
+      region: NV
+      lat: '39.6104'
+      long: "-119.7770"
+    - name: Sunrise Manor
+      region: NV
+      lat: '36.1783'
+      long: "-115.0487"
+    - name: Sutcliffe
+      region: NV
+      lat: '39.9461'
+      long: "-119.6305"
+    - name: Tonopah
+      region: NV
+      lat: '38.0822'
+      long: "-117.2246"
+    - name: Topaz Lake
+      region: NV
+      lat: '38.6976'
+      long: "-119.5427"
+    - name: Topaz Ranch Estates
+      region: NV
+      lat: '38.7357'
+      long: "-119.5008"
+    - name: Unionville
+      region: NV
+      lat: '40.4467'
+      long: "-118.1229"
+    - name: Ursine
+      region: NV
+      lat: '37.9771'
+      long: "-114.2289"
+    - name: Valmy
+      region: NV
+      lat: '40.7908'
+      long: "-117.1266"
+    - name: Verdi
+      region: NV
+      lat: '39.5142'
+      long: "-119.9772"
+    - name: Virginia City
+      region: NV
+      lat: '39.3074'
+      long: "-119.6483"
+    - name: Wadsworth
+      region: NV
+      lat: '39.6322'
+      long: "-119.2901"
+    - name: Walker Lake
+      region: NV
+      lat: '38.6458'
+      long: "-118.7563"
+    - name: Washoe Valley
+      region: NV
+      lat: '39.2923'
+      long: "-119.7767"
+    - name: Wells
+      region: NV
+      lat: '41.1132'
+      long: "-114.9535"
+    - name: West Wendover
+      region: NV
+      lat: '40.7407'
+      long: "-114.0783"
+    - name: Whitney
+      region: NV
+      lat: '36.1008'
+      long: "-115.0379"
+    - name: Winchester
+      region: NV
+      lat: '36.1365'
+      long: "-115.1370"
+    - name: Winnemucca
+      region: NV
+      lat: '40.9645'
+      long: "-117.7247"
+    - name: Yerington
+      region: NV
+      lat: '38.9554'
+      long: "-119.1101"
+    - name: Zephyr Cove
+      region: NV
+      lat: '39.0082'
+      long: "-119.9307"

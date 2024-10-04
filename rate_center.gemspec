@@ -31,10 +31,18 @@ Gem::Specification.new do |spec|
   end
   spec.bindir = "exe"
   spec.executables = spec.files.grep(%r{\Aexe/}) { |f| File.basename(f) }
-  spec.require_paths = ["lib"]
+  spec.require_paths = [ "lib" ]
 
   # Uncomment to register a new dependency of your gem
-  # spec.add_dependency "example-gem", "~> 1.0"
+
+  spec.add_development_dependency "multi_xml"
+  spec.add_development_dependency "ox"
+  spec.add_development_dependency "faraday"
+  spec.add_development_dependency "rack"
+  spec.add_development_dependency "countries"
+  spec.add_development_dependency "ostruct"
+  spec.add_development_dependency "rubyzip"
+  spec.add_development_dependency "csv"
 
   # For more information and examples about making a new gem, check out our
   # guide at: https://bundler.io/guides/creating_gem.html

@@ -1,0 +1,636 @@
+---
+cities:
+  us:
+    HI:
+    - name: Ahuimanu
+      region: HI
+      lat: '21.4379'
+      long: "-157.8404"
+    - name: Aiea
+      region: HI
+      lat: '21.3865'
+      long: "-157.9232"
+    - name: Ainaloa
+      region: HI
+      lat: '19.5215'
+      long: "-154.9944"
+    - name: Anahola
+      region: HI
+      lat: '22.1455'
+      long: "-159.3151"
+    - name: Black Sands
+      region: HI
+      lat: '19.4136'
+      long: "-154.9588"
+    - name: Captain Cook
+      region: HI
+      lat: '19.4995'
+      long: "-155.8937"
+    - name: Discovery Harbour
+      region: HI
+      lat: '19.0415'
+      long: "-155.6254"
+    - name: East Honolulu
+      region: HI
+      lat: '21.2975'
+      long: "-157.7211"
+    - name: East Kapolei
+      region: HI
+      lat: '21.3633'
+      long: "-158.0410"
+    - name: Eden Roc
+      region: HI
+      lat: '19.4917'
+      long: "-155.0958"
+    - name: Eleele
+      region: HI
+      lat: '21.9087'
+      long: "-159.5802"
+    - name: Ewa Beach
+      region: HI
+      lat: '21.3181'
+      long: "-158.0073"
+    - name: Ewa Gentry
+      region: HI
+      lat: '21.3344'
+      long: "-158.0262"
+    - name: Ewa Villages
+      region: HI
+      lat: '21.3417'
+      long: "-158.0389"
+    - name: Fern Acres
+      region: HI
+      lat: '19.5080'
+      long: "-155.0787"
+    - name: Fern Forest
+      region: HI
+      lat: '19.4648'
+      long: "-155.1324"
+    - name: Haena
+      region: HI
+      lat: '22.2186'
+      long: "-159.5610"
+    - name: Haiku-Pauwela
+      region: HI
+      lat: '20.9156'
+      long: "-156.3022"
+    - name: Halaula
+      region: HI
+      lat: '20.2233'
+      long: "-155.7739"
+    - name: Halawa
+      region: HI
+      lat: '21.3753'
+      long: "-157.9185"
+    - name: Haleiwa
+      region: HI
+      lat: '21.5965'
+      long: "-158.1003"
+    - name: Haliimaile
+      region: HI
+      lat: '20.8671'
+      long: "-156.3381"
+    - name: Hana
+      region: HI
+      lat: '20.7720'
+      long: "-156.0107"
+    - name: Hanalei
+      region: HI
+      lat: '22.2041'
+      long: "-159.4977"
+    - name: Hanamaulu
+      region: HI
+      lat: '21.9953'
+      long: "-159.3494"
+    - name: Hanapepe
+      region: HI
+      lat: '21.9141'
+      long: "-159.5874"
+    - name: Hauula
+      region: HI
+      lat: '21.6111'
+      long: "-157.9118"
+    - name: Hawaiian Acres
+      region: HI
+      lat: '19.5324'
+      long: "-155.0498"
+    - name: Hawaiian Beaches
+      region: HI
+      lat: '19.5447'
+      long: "-154.9288"
+    - name: Hawaiian Ocean View
+      region: HI
+      lat: '19.0959'
+      long: "-155.7750"
+    - name: Hawaiian Paradise Park
+      region: HI
+      lat: '19.5828'
+      long: "-154.9695"
+    - name: Hawi
+      region: HI
+      lat: '20.2263'
+      long: "-155.8389"
+    - name: Heeia
+      region: HI
+      lat: '21.4205'
+      long: "-157.8205"
+    - name: Helemano
+      region: HI
+      lat: '21.5362'
+      long: "-158.0194"
+    - name: Hickam Housing
+      region: HI
+      lat: '21.3311'
+      long: "-157.9474"
+    - name: Hilo
+      region: HI
+      lat: '19.6883'
+      long: "-155.0863"
+    - name: Holualoa
+      region: HI
+      lat: '19.6548'
+      long: "-155.9207"
+    - name: Honalo
+      region: HI
+      lat: '19.5810'
+      long: "-155.8985"
+    - name: Honaunau-Napoopoo
+      region: HI
+      lat: '19.4538'
+      long: "-155.8588"
+    - name: Honokaa
+      region: HI
+      lat: '20.0776'
+      long: "-155.4644"
+    - name: Honolulu
+      region: HI
+      lat: '21.3294'
+      long: "-157.8460"
+    - name: Honomu
+      region: HI
+      lat: '19.8697'
+      long: "-155.1123"
+    - name: Iroquois Point
+      region: HI
+      lat: '21.3218'
+      long: "-157.9803"
+    - name: Kaaawa
+      region: HI
+      lat: '21.5485'
+      long: "-157.8534"
+    - name: Kaanapali
+      region: HI
+      lat: '20.9277'
+      long: "-156.6794"
+    - name: Kahaluu
+      region: HI
+      lat: '21.4575'
+      long: "-157.8453"
+    - name: Kahaluu-Keauhou
+      region: HI
+      lat: '19.5669'
+      long: "-155.9533"
+    - name: Kahuku
+      region: HI
+      lat: '21.6793'
+      long: "-157.9473"
+    - name: Kahului
+      region: HI
+      lat: '20.8715'
+      long: "-156.4603"
+    - name: Kailua
+      region: HI
+      lat: '21.3920'
+      long: "-157.7396"
+    - name: Kalaeloa
+      region: HI
+      lat: '21.3136'
+      long: "-158.0650"
+    - name: Kalaheo
+      region: HI
+      lat: '21.9159'
+      long: "-159.5236"
+    - name: Kalapana
+      region: HI
+      lat: '19.3566'
+      long: "-154.9752"
+    - name: Kalihiwai
+      region: HI
+      lat: '22.2165'
+      long: "-159.4405"
+    - name: Kaloko
+      region: HI
+      lat: '19.7216'
+      long: "-155.9505"
+    - name: Kamaili
+      region: HI
+      lat: '19.4391'
+      long: "-154.9189"
+    - name: Kaneohe
+      region: HI
+      lat: '21.4062'
+      long: "-157.7904"
+    - name: Kapaa
+      region: HI
+      lat: '22.0910'
+      long: "-159.3521"
+    - name: Kapaau
+      region: HI
+      lat: '20.2340'
+      long: "-155.8028"
+    - name: Kapalua
+      region: HI
+      lat: '20.9959'
+      long: "-156.6418"
+    - name: Kapolei
+      region: HI
+      lat: '21.3399'
+      long: "-158.0677"
+    - name: Kaumakani
+      region: HI
+      lat: '21.9187'
+      long: "-159.6240"
+    - name: Kaunakakai
+      region: HI
+      lat: '21.0905'
+      long: "-156.9981"
+    - name: Kawela Bay
+      region: HI
+      lat: '21.6991'
+      long: "-158.0026"
+    - name: Keaau
+      region: HI
+      lat: '19.6233'
+      long: "-155.0483"
+    - name: Kealakekua
+      region: HI
+      lat: '19.5286'
+      long: "-155.9112"
+    - name: Kekaha
+      region: HI
+      lat: '21.9684'
+      long: "-159.7141"
+    - name: Keokea
+      region: HI
+      lat: '20.7211'
+      long: "-156.3625"
+    - name: Kihei
+      region: HI
+      lat: '20.7653'
+      long: "-156.4454"
+    - name: Kilauea
+      region: HI
+      lat: '22.2108'
+      long: "-159.3965"
+    - name: Ko Olina
+      region: HI
+      lat: '21.3378'
+      long: "-158.1188"
+    - name: Koloa
+      region: HI
+      lat: '21.9031'
+      long: "-159.4611"
+    - name: Kualapuu
+      region: HI
+      lat: '21.1564'
+      long: "-157.0591"
+    - name: Kukuihaele
+      region: HI
+      lat: '20.1195'
+      long: "-155.5654"
+    - name: Kula
+      region: HI
+      lat: '20.7706'
+      long: "-156.3284"
+    - name: Kurtistown
+      region: HI
+      lat: '19.5860'
+      long: "-155.0713"
+    - name: Lahaina
+      region: HI
+      lat: '20.8848'
+      long: "-156.6618"
+    - name: Laie
+      region: HI
+      lat: '21.6442'
+      long: "-157.9279"
+    - name: Lanai City
+      region: HI
+      lat: '20.8279'
+      long: "-156.9147"
+    - name: Launiupoko
+      region: HI
+      lat: '20.8541'
+      long: "-156.6424"
+    - name: Laupahoehoe
+      region: HI
+      lat: '19.9723'
+      long: "-155.2345"
+    - name: Lawai
+      region: HI
+      lat: '21.9204'
+      long: "-159.5006"
+    - name: Leilani Estates
+      region: HI
+      lat: '19.4659'
+      long: "-154.9157"
+    - name: Lihue
+      region: HI
+      lat: '21.9721'
+      long: "-159.3564"
+    - name: Maalaea
+      region: HI
+      lat: '20.8047'
+      long: "-156.4898"
+    - name: Mahinahina
+      region: HI
+      lat: '20.9540'
+      long: "-156.6564"
+    - name: Maili
+      region: HI
+      lat: '21.4133'
+      long: "-158.1701"
+    - name: Makaha
+      region: HI
+      lat: '21.4739'
+      long: "-158.2102"
+    - name: Makaha Valley
+      region: HI
+      lat: '21.4844'
+      long: "-158.1843"
+    - name: Makakilo
+      region: HI
+      lat: '21.3591'
+      long: "-158.0813"
+    - name: Makawao
+      region: HI
+      lat: '20.8480'
+      long: "-156.3190"
+    - name: Makena
+      region: HI
+      lat: '20.6310'
+      long: "-156.4252"
+    - name: Manele
+      region: HI
+      lat: '20.7419'
+      long: "-156.9012"
+    - name: Mauna Loa Estates
+      region: HI
+      lat: '19.4274'
+      long: "-155.2213"
+    - name: Maunaloa
+      region: HI
+      lat: '21.1334'
+      long: "-157.2123"
+    - name: Maunawili
+      region: HI
+      lat: '21.3667'
+      long: "-157.7713"
+    - name: Mililani Mauka
+      region: HI
+      lat: '21.4756'
+      long: "-157.9948"
+    - name: Mililani Town
+      region: HI
+      lat: '21.4465'
+      long: "-158.0147"
+    - name: Mokuleia
+      region: HI
+      lat: '21.5771'
+      long: "-158.1714"
+    - name: Mountain View
+      region: HI
+      lat: '19.5366'
+      long: "-155.1590"
+    - name: Naalehu
+      region: HI
+      lat: '19.0698'
+      long: "-155.5751"
+    - name: Nanakuli
+      region: HI
+      lat: '21.3892'
+      long: "-158.1445"
+    - name: Nanawale Estates
+      region: HI
+      lat: '19.5035'
+      long: "-154.9104"
+    - name: Napili-Honokowai
+      region: HI
+      lat: '20.9767'
+      long: "-156.6646"
+    - name: Ocean Pointe
+      region: HI
+      lat: '21.3145'
+      long: "-158.0289"
+    - name: Olinda
+      region: HI
+      lat: '20.8261'
+      long: "-156.2917"
+    - name: Olowalu
+      region: HI
+      lat: '20.8222'
+      long: "-156.6169"
+    - name: Omao
+      region: HI
+      lat: '21.9236'
+      long: "-159.4814"
+    - name: Orchidlands Estates
+      region: HI
+      lat: '19.5570'
+      long: "-155.0142"
+    - name: Paauilo
+      region: HI
+      lat: '20.0398'
+      long: "-155.3708"
+    - name: Pahala
+      region: HI
+      lat: '19.1993'
+      long: "-155.4772"
+    - name: Pahoa
+      region: HI
+      lat: '19.4960'
+      long: "-154.9453"
+    - name: Paia
+      region: HI
+      lat: '20.9062'
+      long: "-156.3677"
+    - name: Pakala Village
+      region: HI
+      lat: '21.9445'
+      long: "-159.6436"
+    - name: Papaikou
+      region: HI
+      lat: '19.7917'
+      long: "-155.0963"
+    - name: Paukaa
+      region: HI
+      lat: '19.7625'
+      long: "-155.0931"
+    - name: Pearl City
+      region: HI
+      lat: '21.4031'
+      long: "-157.9566"
+    - name: Pepeekeo
+      region: HI
+      lat: '19.8325'
+      long: "-155.1056"
+    - name: Poipu
+      region: HI
+      lat: '21.8834'
+      long: "-159.4600"
+    - name: Princeville
+      region: HI
+      lat: '22.2181'
+      long: "-159.4801"
+    - name: Puako
+      region: HI
+      lat: '19.9628'
+      long: "-155.8389"
+    - name: Puhi
+      region: HI
+      lat: '21.9622'
+      long: "-159.3917"
+    - name: Pukalani
+      region: HI
+      lat: '20.8329'
+      long: "-156.3415"
+    - name: Punaluu
+      region: HI
+      lat: '21.5810'
+      long: "-157.8901"
+    - name: Pupukea
+      region: HI
+      lat: '21.6511'
+      long: "-158.0437"
+    - name: Royal Hawaiian Estates
+      region: HI
+      lat: '19.4413'
+      long: "-155.1841"
+    - name: Royal Kunia
+      region: HI
+      lat: '21.4053'
+      long: "-158.0318"
+    - name: Schofield Barracks
+      region: HI
+      lat: '21.4936'
+      long: "-158.0617"
+    - name: Seaview
+      region: HI
+      lat: '19.4067'
+      long: "-154.9214"
+    - name: Tiki Gardens
+      region: HI
+      lat: '19.5287'
+      long: "-155.0031"
+    - name: Ualapue
+      region: HI
+      lat: '21.0704'
+      long: "-156.8355"
+    - name: Volcano
+      region: HI
+      lat: '19.4864'
+      long: "-155.2774"
+    - name: Volcano Golf Course
+      region: HI
+      lat: '19.4424'
+      long: "-155.2789"
+    - name: Wahiawa
+      region: HI
+      lat: '21.5012'
+      long: "-158.0178"
+    - name: Waialua
+      region: HI
+      lat: '21.5660'
+      long: "-158.1199"
+    - name: Waianae
+      region: HI
+      lat: '21.4568'
+      long: "-158.1758"
+    - name: Waihee-Waiehu
+      region: HI
+      lat: '20.9188'
+      long: "-156.5063"
+    - name: Waikapu
+      region: HI
+      lat: '20.8391'
+      long: "-156.5221"
+    - name: Waikele
+      region: HI
+      lat: '21.4025'
+      long: "-158.0058"
+    - name: Waikoloa Beach Resort
+      region: HI
+      lat: '19.9279'
+      long: "-155.8704"
+    - name: Waikoloa Village
+      region: HI
+      lat: '19.9443'
+      long: "-155.8053"
+    - name: Wailea
+      region: HI
+      lat: '20.6873'
+      long: "-156.4291"
+    - name: Wailua
+      region: HI
+      lat: '22.0551'
+      long: "-159.3401"
+    - name: Wailua Homesteads
+      region: HI
+      lat: '22.0650'
+      long: "-159.3771"
+    - name: Wailuku
+      region: HI
+      lat: '20.8834'
+      long: "-156.5059"
+    - name: Waimalu
+      region: HI
+      lat: '21.3913'
+      long: "-157.9345"
+    - name: Waimanalo
+      region: HI
+      lat: '21.3421'
+      long: "-157.7303"
+    - name: Waimanalo Beach
+      region: HI
+      lat: '21.3288'
+      long: "-157.6974"
+    - name: Waimea
+      region: HI
+      lat: '20.0124'
+      long: "-155.6381"
+    - name: Wainaku
+      region: HI
+      lat: '19.7449'
+      long: "-155.0984"
+    - name: Wainiha
+      region: HI
+      lat: '22.1984'
+      long: "-159.5458"
+    - name: Waiohinu
+      region: HI
+      lat: '19.0714'
+      long: "-155.6145"
+    - name: Waipahu
+      region: HI
+      lat: '21.3859'
+      long: "-158.0101"
+    - name: Waipio
+      region: HI
+      lat: '21.4143'
+      long: "-157.9966"
+    - name: Waipio Acres
+      region: HI
+      lat: '21.4688'
+      long: "-158.0173"
+    - name: West Loch Estate
+      region: HI
+      lat: '21.3617'
+      long: "-158.0246"
+    - name: Wheeler AFB
+      region: HI
+      lat: '21.4756'
+      long: "-158.0352"
+    - name: Whitmore Village
+      region: HI
+      lat: '21.5119'
+      long: "-158.0274"
