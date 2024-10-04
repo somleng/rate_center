@@ -77,22 +77,15 @@ module RateCenter
 
           data = cities.sort_by(&:city).map do |city|
             {
-              "name" => city.city,
+              "country" => "US",
               "region" => city.state_id,
+              "name" => city.city,
               "lat" => city.lat,
               "long" => city.lng
             }
           end
 
-          data_file.write(
-            {
-              "cities" => {
-                "US" => {
-                  state => data
-                }
-              }
-            }.to_yaml
-          )
+          data_file.write({ "cities" => data }.to_yaml)
         end
       end
     end

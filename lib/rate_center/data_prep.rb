@@ -40,7 +40,7 @@ module RateCenter
         end
       end
 
-      write_data("rate_centers/us", rate_center_data)
+      write_data("rate_centers", "us", rate_center_data)
     end
 
     def update_cities_with_closest_rate_centers
@@ -75,7 +75,7 @@ module RateCenter
         end
       end
 
-      write_data("cities/us", city_data)
+      write_data("cities", "us", city_data)
     end
 
     def find_closest(lat:, long:, data:, key:)
@@ -95,29 +95,26 @@ module RateCenter
       distances_to.sort_by(&:distance)
     end
 
-    def write_data(path, data)
+    def write_data(type, country, data)
       data.each do |state, state_data|
-        state_file = data_directory.join(path, "#{state.downcase}.yml")
-        type, country = path.split("/")
-
-        state_file.write({ type => { country.upcase => { state.upcase => state_data } }}.to_yaml)
+        state_file = data_directory.join(type, country, "#{state.downcase}.yml")
+        state_file.write({ type => state_data }.to_yaml)
       end
     end
 
     def city_data
-      @city_data ||= load_data("cities/us")
+      @city_data ||= load_data("cities", "us")
     end
 
     def rate_center_data
-      @rate_center_data ||= load_data("rate_centers/us")
+      @rate_center_data ||= load_data("rate_centers", "us")
     end
 
-    def load_data(path)
-      data_directory.join(path).glob("**/*.yml").each_with_object({}) do |state_file, result|
+    def load_data(type, country)
+      data_directory.join(type, country).glob("**/*.yml").each_with_object({}) do |state_file, result|
         data = YAML.load(state_file.read)
         state = state_file.basename(".yml").to_s
-        type, country = path.split("/")
-        result[state.upcase] = data.dig(type, country.upcase, state.upcase)
+        result[state.upcase] = data.fetch(type.to_s)
       end
     end
   end

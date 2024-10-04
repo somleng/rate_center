@@ -1,1739 +1,1899 @@
 ---
 rate_centers:
-  US:
-    PR:
-    - region: PR
-      exchange: '175010'
-      name: Adjuntas
-      short_name: ADJUNTAS
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.167648'
-      long: "-66.724481"
-      closest_city:
-        name: Adjuntas
-        distance:
-          value: 0.44
-          units: km
-    - region: PR
-      exchange: '175020'
-      name: Aguada
-      short_name: AGUADA
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.398077'
-      long: "-67.194079"
-      closest_city:
-        name: Aguada
-        distance:
-          value: 2.07
-          units: km
-    - region: PR
-      exchange: '175030'
-      name: Aguadilla
-      short_name: AGUADILLA
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.344569'
-      long: "-67.151433"
-      closest_city:
-        name: Luyando
-        distance:
-          value: 1.49
-          units: km
-    - region: PR
-      exchange: '175040'
-      name: Aguas Buenas
-      short_name: AGUASBUNAS
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.253868'
-      long: "-66.103272"
-      closest_city:
-        name: Aguas Buenas
-        distance:
-          value: 0.48
-          units: km
-    - region: PR
-      exchange: '175050'
-      name: Aguirre
-      short_name: AGUIRRE
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '17.974063'
-      long: "-66.226316"
-      closest_city:
-        name: !binary |-
-          Q29xdcOt
-        distance:
-          value: 0.59
-          units: km
-    - region: PR
-      exchange: '175060'
-      name: Aibonito
-      short_name: AIBONITO
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.141078'
-      long: "-66.264185"
-      closest_city:
-        name: Aibonito
-        distance:
-          value: 0.23
-          units: km
-    - region: PR
-      exchange: '347222'
-      name: Altamesa
-      short_name: ALTAMESA
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '347223'
-      name: Altamira
-      short_name: ALTAMIRA
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '175080'
-      name: Arecibo
-      short_name: ARECIBO
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.467061'
-      long: "-66.732053"
-      closest_city:
-        name: Arecibo
-        distance:
-          value: 2.12
-          units: km
-    - region: PR
-      exchange: '347226'
-      name: Arecibo Santana
-      short_name: ARECIBOSAN
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '175090'
-      name: Arroyo
-      short_name: ARROYO
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '17.980634'
-      long: "-66.064701"
-      closest_city:
-        name: Arroyo
-        distance:
-          value: 1.23
-          units: km
-    - region: PR
-      exchange: '175070'
-      name: Añasco
-      short_name: ANASCO
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.280407'
-      long: "-67.146974"
-      closest_city:
-        name: !binary |-
-          QcOxYXNjbw==
-        distance:
-          value: 0.9
-          units: km
-    - region: PR
-      exchange: '347228'
-      name: Bajadero
-      short_name: BAJADERO
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '347229'
-      name: Baldrich
-      short_name: BALDRICH
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '175100'
-      name: Barceloneta
-      short_name: BARCELONTA
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.457937'
-      long: "-66.540361"
-      closest_city:
-        name: Barceloneta
-        distance:
-          value: 0.6
-          units: km
-    - region: PR
-      exchange: '175110'
-      name: Barranquitas
-      short_name: BARRANQUTS
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.184985'
-      long: "-66.308104"
-      closest_city:
-        name: Barranquitas
-        distance:
-          value: 0.22
-          units: km
-    - region: PR
-      exchange: '347232'
-      name: Barrio Coqui
-      short_name: BARRIOCOQU
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '347233'
-      name: Barrio Guaraguao
-      short_name: BARRIOGRGU
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '347234'
-      name: Barrio Obrero
-      short_name: BARRIOOBRO
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '347235'
-      name: Bay View
-      short_name: BAY VIEW
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '347236'
-      name: Bayamon
-      short_name: BAYAMON
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '175120'
-      name: Bayamón Norte
-      short_name: BAYAMONNOR
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.393588'
-      long: "-66.1563"
-      closest_city:
-        name: !binary |-
-          QmF5YW3Ds24=
-        distance:
-          value: 1.75
-          units: km
-    - region: PR
-      exchange: '175130'
-      name: Bayamón Sur
-      short_name: BAYAMONSUR
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.370658'
-      long: "-66.192489"
-      closest_city:
-        name: !binary |-
-          UMOhamFyb3M=
-        distance:
-          value: 2.94
-          units: km
-    - region: PR
-      exchange: '347239'
-      name: Bda Vietnam
-      short_name: BDAVIETNAM
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '347240'
-      name: Bo Obrero
-      short_name: BO OBRERO
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '347241'
-      name: Boca De Cangrejos
-      short_name: BOCACNGRJS
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '347242'
-      name: Boqueron
-      short_name: BOQUERON
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '347244'
-      name: Buen Consejo
-      short_name: BUENCONSJO
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '347243'
-      name: Buena Vista
-      short_name: BUENAVISTA
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '175140'
-      name: Cabo Rojo
-      short_name: CABO ROJO
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.090015'
-      long: "-67.143849"
-      closest_city:
-        name: Cabo Rojo
-        distance:
-          value: 0.59
-          units: km
-    - region: PR
-      exchange: '175150'
-      name: Caguas
-      short_name: CAGUAS
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.237827'
-      long: "-66.03741"
-      closest_city:
-        name: Caguas
-        distance:
-          value: 0.68
-          units: km
-    - region: PR
-      exchange: '175160'
-      name: Camuy
-      short_name: CAMUY
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.481376'
-      long: "-66.841273"
-      closest_city:
-        name: Camuy
-        distance:
-          value: 0.94
-          units: km
-    - region: PR
-      exchange: '347249'
-      name: Cantera
-      short_name: CANTERA
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '175170'
-      name: Canóvanas
-      short_name: CANOVANAS
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.376458'
-      long: "-65.903688"
-      closest_city:
-        name: !binary |-
-          Q2Fuw7N2YW5hcw==
-        distance:
-          value: 0.85
-          units: km
-    - region: PR
-      exchange: '175601'
-      name: Caparra
-      short_name: CAPARRA
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '347252'
-      name: Caparra Heights
-      short_name: CAPARRAHTS
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '347251'
-      name: Caparra Hills
-      short_name: CAPARRA HL
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '347253'
-      name: Caparra Terrace
-      short_name: CAPARRTRRC
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '175180'
-      name: Carolina
-      short_name: CAROLINA
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.359281'
-      long: "-66.014096"
-      closest_city:
-        name: Trujillo Alto
-        distance:
-          value: 0.48
-          units: km
-    - region: PR
-      exchange: '175190'
-      name: Cataño
-      short_name: CATANO
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.441861'
-      long: "-66.124268"
-      closest_city:
-        name: !binary |-
-          Q2F0YcOxbw==
-        distance:
-          value: 2.14
-          units: km
-    - region: PR
-      exchange: '175200'
-      name: Cayey
-      short_name: CAYEY
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.112259'
-      long: "-66.166289"
-      closest_city:
-        name: Cayey
-        distance:
-          value: 0.46
-          units: km
-    - region: PR
-      exchange: '175661'
-      name: Ceiba
-      short_name: CEIBA
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '347258'
-      name: Ceiba - Roosevelt Roads
-      short_name: CEIBA ROOS
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '175210'
-      name: Ciales
-      short_name: CIALES
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.336491'
-      long: "-66.466642"
-      closest_city:
-        name: Ciales
-        distance:
-          value: 0.6
-          units: km
-    - region: PR
-      exchange: '175220'
-      name: Cidra
-      short_name: CIDRA
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.174122'
-      long: "-66.159936"
-      closest_city:
-        name: Cidra
-        distance:
-          value: 0.44
-          units: km
-    - region: PR
-      exchange: '175230'
-      name: Coamo
-      short_name: COAMO
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.079711'
-      long: "-66.360312"
-      closest_city:
-        name: Coamo
-        distance:
-          value: 0.51
-          units: km
-    - region: PR
-      exchange: '347262'
-      name: College Park
-      short_name: COLLEGE PK
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '175240'
-      name: Comerio
-      short_name: COMERIO
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.223093'
-      long: "-66.217966"
-      closest_city:
-        name: !binary |-
-          Q29tZXLDrW8=
-        distance:
-          value: 0.78
-          units: km
-    - region: PR
-      exchange: '347264'
-      name: Condado
-      short_name: CONDADO
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '347265'
-      name: Consumo
-      short_name: CONSUMO
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '347266'
-      name: Coqui
-      short_name: COQUI
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '347267'
-      name: Corcega
-      short_name: CORCEGA
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '175250'
-      name: Corozal
-      short_name: COROZAL
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.345487'
-      long: "-66.314898"
-      closest_city:
-        name: Corozal
-        distance:
-          value: 0.56
-          units: km
-    - region: PR
-      exchange: '347269'
-      name: Corral Viejo
-      short_name: CORRALVIJO
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '347270'
-      name: Coto Laurel
-      short_name: COTOLAUREL
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '347271'
-      name: Country Club
-      short_name: COUNTRCLUB
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '175260'
-      name: Culebra
-      short_name: CULEBRA
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.307241'
-      long: "-65.303626"
-      closest_city:
-        name: Culebra
-        distance:
-          value: 0.37
-          units: km
-    - region: PR
-      exchange: '347273'
-      name: Cupey
-      short_name: CUPEY ALTO
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '175270'
-      name: Dorado
-      short_name: DORADO
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.46621'
-      long: "-66.268292"
-      closest_city:
-        name: Dorado
-        distance:
-          value: 0.46
-          units: km
-    - region: PR
-      exchange: '347278'
-      name: El Comandante
-      short_name: ELCOMNDANT
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '347275'
-      name: El Rosario
-      short_name: EL ROSARIO
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '347276'
-      name: El Vigia
-      short_name: EL VIGIA
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '347277'
-      name: El Yunque
-      short_name: EL YUNQUE
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '347279'
-      name: Ensenada
-      short_name: ENSENADA
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '175280'
-      name: Fajardo
-      short_name: FAJARDO
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.336224'
-      long: "-65.65085"
-      closest_city:
-        name: Fajardo
-        distance:
-          value: 0.92
-          units: km
-    - region: PR
-      exchange: '347281'
-      name: Fernandez Juncos
-      short_name: FDEZ JNCO
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '175290'
-      name: Florida
-      short_name: FLORIDA
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.365091'
-      long: "-66.564757"
-      closest_city:
-        name: Florida
-        distance:
-          value: 0.4
-          units: km
-    - region: PR
-      exchange: '347283'
-      name: Fort Allen
-      short_name: FORT ALLEN
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '347284'
-      name: Fort Buchanan
-      short_name: FT BUCHNAN
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '347285'
-      name: Garden Hills
-      short_name: GARDEN HLS
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '347286'
-      name: Garrochales
-      short_name: GARROCHALE
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '347287'
-      name: Guanajibo
-      short_name: GUANAJIBO
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '347289'
-      name: Guaraguao
-      short_name: GUARAGUAO
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '175310'
-      name: Guayama
-      short_name: GUAYAMA
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '17.982406'
-      long: "-66.111481"
-      closest_city:
-        name: Guayama
-        distance:
-          value: 0.91
-          units: km
-    - region: PR
-      exchange: '175320'
-      name: Guayanilla
-      short_name: GUAYANILLA
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.018382'
-      long: "-66.792098"
-      closest_city:
-        name: Guayanilla
-        distance:
-          value: 0.49
-          units: km
-    - region: PR
-      exchange: '175330'
-      name: Guaynabo
-      short_name: GUAYNABO
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.372771'
-      long: "-66.106232"
-      closest_city:
-        name: Guaynabo
-        distance:
-          value: 1.38
-          units: km
-    - region: PR
-      exchange: '175340'
-      name: Gurabo
-      short_name: GURABO
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.256931'
-      long: "-65.974011"
-      closest_city:
-        name: Gurabo
-        distance:
-          value: 0.66
-          units: km
-    - region: PR
-      exchange: '175300'
-      name: Guánica
-      short_name: GUANICA
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '17.976129'
-      long: "-66.914495"
-      closest_city:
-        name: Fuig
-        distance:
-          value: 1.1
-          units: km
-    - region: PR
-      exchange: '175161'
-      name: Hatillo
-      short_name: HATILLO
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '347296'
-      name: Hato Rey
-      short_name: HATO REY
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '347297'
-      name: Hato Tejas
-      short_name: HATO TEJAS
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '175350'
-      name: Hormigueros
-      short_name: HORMIGUERO
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.140116'
-      long: "-67.129263"
-      closest_city:
-        name: Hormigueros
-        distance:
-          value: 1.07
-          units: km
-    - region: PR
-      exchange: '175360'
-      name: Humacao
-      short_name: HUMACAO
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.149858'
-      long: "-65.816833"
-      closest_city:
-        name: Humacao
-        distance:
-          value: 0.45
-          units: km
-    - region: PR
-      exchange: '347300'
-      name: Hyde Park
-      short_name: HYDE PARK
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '175370'
-      name: Isabela
-      short_name: ISABELA
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.500521'
-      long: "-67.02482"
-      closest_city:
-        name: Isabela
-        distance:
-          value: 0.34
-          units: km
-    - region: PR
-      exchange: '347302'
-      name: Isla Verda
-      short_name: ISLA VERDA
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '175380'
-      name: Isla Verde
-      short_name: ISLA VERDE
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.442332'
-      long: "-66.02104"
-      closest_city:
-        name: !binary |-
-          Q2HDsW8gTWFydGluIFBlw7Fh
-        distance:
-          value: 3.38
-          units: km
-    - region: PR
-      exchange: '175390'
-      name: Jayuya
-      short_name: JAYUYA
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.220129'
-      long: "-66.593578"
-      closest_city:
-        name: Jayuya
-        distance:
-          value: 0.51
-          units: km
-    - region: PR
-      exchange: '175400'
-      name: Juana Díaz
-      short_name: JUANA DIAZ
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.055034'
-      long: "-66.505756"
-      closest_city:
-        name: !binary |-
-          SnVhbmEgRMOtYXo=
-        distance:
-          value: 0.25
-          units: km
-    - region: PR
-      exchange: '175410'
-      name: Juncos
-      short_name: JUNCOS
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.229709'
-      long: "-65.922978"
-      closest_city:
-        name: Juncos
-        distance:
-          value: 0.86
-          units: km
-    - region: PR
-      exchange: '347307'
-      name: La Rambla
-      short_name: LA RAMBLA
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '347308'
-      name: La Riviera
-      short_name: LA RIVIERA
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '175420'
-      name: Lajas
-      short_name: LAJAS
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.045071'
-      long: "-67.052827"
-      closest_city:
-        name: Lajas
-        distance:
-          value: 0.53
-          units: km
-    - region: PR
-      exchange: '175430'
-      name: Lares
-      short_name: LARES
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.292569'
-      long: "-66.88573"
-      closest_city:
-        name: Lares
-        distance:
-          value: 0.48
-          units: km
-    - region: PR
-      exchange: '347311'
-      name: Las Lomas
-      short_name: LAS LOMAS
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '175440'
-      name: Las Marías
-      short_name: LAS MARIAS
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.255219'
-      long: "-66.992621"
-      closest_city:
-        name: Maricao
-        distance:
-          value: 8.04
-          units: km
-    - region: PR
-      exchange: '175450'
-      name: Las Piedras
-      short_name: LASPIEDRAS
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.180602'
-      long: "-65.865065"
-      closest_city:
-        name: Las Piedras
-        distance:
-          value: 0.67
-          units: km
-    - region: PR
-      exchange: '175460'
-      name: Levittown
-      short_name: LEVITTOWN
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.439512'
-      long: "-66.180539"
-      closest_city:
-        name: Las Gaviotas
-        distance:
-          value: 1.11
-          units: km
-    - region: PR
-      exchange: '175171'
-      name: Loiza
-      short_name: LOIZA
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '347316'
-      name: Loiza Street
-      short_name: LOIZA ST
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '347317'
-      name: Los Angeles
-      short_name: LOSANGELES
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '175470'
-      name: Luquillo
-      short_name: LUQUILLO
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.375012'
-      long: "-65.717011"
-      closest_city:
-        name: Luquillo
-        distance:
-          value: 0.64
-          units: km
-    - region: PR
-      exchange: '175480'
-      name: Manatí
-      short_name: MANATI
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.434449'
-      long: "-66.486398"
-      closest_city:
-        name: !binary |-
-          TWFuYXTDrQ==
-        distance:
-          value: 0.81
-          units: km
-    - region: PR
-      exchange: '175490'
-      name: Maricao
-      short_name: MARICAO
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.181914'
-      long: "-66.983308"
-      closest_city:
-        name: Maricao
-        distance:
-          value: 0.32
-          units: km
-    - region: PR
-      exchange: '175500'
-      name: Maunabo
-      short_name: MAUNABO
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.009442'
-      long: "-65.903448"
-      closest_city:
-        name: Maunabo
-        distance:
-          value: 0.51
-          units: km
-    - region: PR
-      exchange: '175510'
-      name: Mayaguez
-      short_name: MAYAGUEZ
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.200025'
-      long: "-67.143011"
-      closest_city:
-        name: !binary |-
-          TWF5YWfDvGV6
-        distance:
-          value: 0.35
-          units: km
-    - region: PR
-      exchange: '347323'
-      name: Mercedita
-      short_name: MERCEDITA
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '347324'
-      name: Minillas
-      short_name: MINILLAS
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '347325'
-      name: Miramar
-      short_name: MIRAMAR
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '175520'
-      name: Moca
-      short_name: MOCA
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.396805'
-      long: "-67.117104"
-      closest_city:
-        name: Moca
-        distance:
-          value: 0.45
-          units: km
-    - region: PR
-      exchange: '175530'
-      name: Morovis
-      short_name: MOROVIS
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.329838'
-      long: "-66.40556"
-      closest_city:
-        name: Morovis
-        distance:
-          value: 0.34
-          units: km
-    - region: PR
-      exchange: '175540'
-      name: Naguabo
-      short_name: NAGUABO
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.209355'
-      long: "-65.733444"
-      closest_city:
-        name: Naguabo
-        distance:
-          value: 0.46
-          units: km
-    - region: PR
-      exchange: '175550'
-      name: Naranjito
-      short_name: NARANJITO
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.307042'
-      long: "-66.248556"
-      closest_city:
-        name: Naranjito
-        distance:
-          value: 0.48
-          units: km
-    - region: PR
-      exchange: '347330'
-      name: Old San Juan
-      short_name: OLDSANJUAN
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '175560'
-      name: Orocovis
-      short_name: OROCOVIS
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.224878'
-      long: "-66.391316"
-      closest_city:
-        name: Orocovis
-        distance:
-          value: 0.16
-          units: km
-    - region: PR
-      exchange: '347332'
-      name: Patillas
-      short_name: PATILLAS
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '175570'
-      name: Peñuelas
-      short_name: PENUELAS
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.061269'
-      long: "-66.722957"
-      closest_city:
-        name: !binary |-
-          UGXDsXVlbGFz
-        distance:
-          value: 0.32
-          units: km
-    - region: PR
-      exchange: '175590'
-      name: Ponce
-      short_name: PONCE
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.008204'
-      long: "-66.614157"
-      closest_city:
-        name: Ponce
-        distance:
-          value: 0.9
-          units: km
-    - region: PR
-      exchange: '175600'
-      name: Pueblo Viejo
-      short_name: PUEBLOVIEJ
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.414949'
-      long: "-66.103179"
-      closest_city:
-        name: Guaynabo
-        distance:
-          value: 3.69
-          units: km
-    - region: PR
-      exchange: '347336'
-      name: Puerto Nuevo
-      short_name: PUERTONUEV
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '347337'
-      name: Puerto Real
-      short_name: PUERTOREAL
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '347339'
-      name: Punta Santiago
-      short_name: PUNTASANTG
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '347338'
-      name: Punta Stgo
-      short_name: PUNTA STGO
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '175610'
-      name: Quebradillas
-      short_name: QUEBRADLLS
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.474428'
-      long: "-66.936883"
-      closest_city:
-        name: Quebradillas
-        distance:
-          value: 0.3
-          units: km
-    - region: PR
-      exchange: '175620'
-      name: Ramey
-      short_name: RAMEY
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.501847'
-      long: "-67.131911"
-      closest_city:
-        name: San Antonio
-        distance:
-          value: 3.53
-          units: km
-    - region: PR
-      exchange: '175630'
-      name: Rincón
-      short_name: RINCON
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.346445'
-      long: "-67.25184"
-      closest_city:
-        name: !binary |-
-          UmluY8Ozbg==
-        distance:
-          value: 0.84
-          units: km
-    - region: PR
-      exchange: '175660'
-      name: Roosevelt Roads
-      short_name: ROOSEVLTRD
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.220301'
-      long: "-65.652105"
-      closest_city:
-        name: Daguao
-        distance:
-          value: 2.93
-          units: km
-    - region: PR
-      exchange: '175640'
-      name: Río Grande
-      short_name: RIO GRANDE
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.379918'
-      long: "-65.834327"
-      closest_city:
-        name: !binary |-
-          UsOtbyBHcmFuZGU=
-        distance:
-          value: 0.49
-          units: km
-    - region: PR
-      exchange: '175650'
-      name: Río Piedras
-      short_name: RIOPIEDRAS
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.425802'
-      long: "-66.058315"
-      closest_city:
-        name: !binary |-
-          Q2HDsW8gTWFydGluIFBlw7Fh
-        distance:
-          value: 0.98
-          units: km
-    - region: PR
-      exchange: '175670'
-      name: Sabana Grande
-      short_name: SABANAGRND
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.077602'
-      long: "-66.961965"
-      closest_city:
-        name: Sabana Grande
-        distance:
-          value: 0.68
-          units: km
-    - region: PR
-      exchange: '347347'
-      name: Sabana Hoyos
-      short_name: SABANAHOYO
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '347348'
-      name: Sabana Seca
-      short_name: SABANASECA
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '175680'
-      name: Salinas
-      short_name: SALINAS
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '17.9766'
-      long: "-66.296486"
-      closest_city:
-        name: Salinas
-        distance:
-          value: 0.14
-          units: km
-    - region: PR
-      exchange: '347356'
-      name: San Antonio
-      short_name: SANANTONIO
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '175690'
-      name: San Germán
-      short_name: SAN GERMAN
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.081749'
-      long: "-67.042554"
-      closest_city:
-        name: !binary |-
-          U2FuIEdlcm3DoW4=
-        distance:
-          value: 0.38
-          units: km
-    - region: PR
-      exchange: '347352'
-      name: San Jose
-      short_name: SAN JOSE
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '347353'
-      name: San Juan
-      short_name: SAN JUAN
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '347354'
-      name: San Juan
-      short_name: SAN JUAN
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '175700'
-      name: San Lorenzo
-      short_name: SANLORENZO
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.190694'
-      long: "-65.959814"
-      closest_city:
-        name: San Lorenzo
-        distance:
-          value: 0.93
-          units: km
-    - region: PR
-      exchange: '347355'
-      name: San Rosa
-      short_name: SAN ROSA
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '175710'
-      name: San Sebastián
-      short_name: SANSBSTIAN
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.342628'
-      long: "-66.991006"
-      closest_city:
-        name: !binary |-
-          U2FuIFNlYmFzdGnDoW4=
-        distance:
-          value: 0.88
-          units: km
-    - region: PR
-      exchange: '175720'
-      name: Santa Isabel
-      short_name: SAN ISABEL
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '17.968715'
-      long: "-66.404771"
-      closest_city:
-        name: Santa Isabel
-        distance:
-          value: 0.06
-          units: km
-    - region: PR
-      exchange: '347359'
-      name: Santa Maria
-      short_name: SANTAMARIA
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '175730'
-      name: Santana
-      short_name: SANTANA
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.445715'
-      long: "-66.658382"
-      closest_city:
-        name: Animas
-        distance:
-          value: 2.32
-          units: km
-    - region: PR
-      exchange: '175740'
-      name: Santurce
-      short_name: SANTURCE
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.452721'
-      long: "-66.079394"
-      closest_city:
-        name: !binary |-
-          Q2HDsW8gTWFydGluIFBlw7Fh
-        distance:
-          value: 3.88
-          units: km
-    - region: PR
-      exchange: '175750'
-      name: Santurce Este
-      short_name: SANTURCEES
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.448955'
-      long: "-66.052116"
-      closest_city:
-        name: !binary |-
-          Q2HDsW8gTWFydGluIFBlw7Fh
-        distance:
-          value: 2.01
-          units: km
-    - region: PR
-      exchange: '347363'
-      name: Santurce Oeste
-      short_name: SANTURCEOE
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '347364'
-      name: Suchville
-      short_name: SUCHVILLE
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '347365'
-      name: Summit Hills
-      short_name: SUMMIT HLS
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '175770'
-      name: Toa Alta
-      short_name: TOA ALTA
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.387282'
-      long: "-66.251879"
-      closest_city:
-        name: Toa Alta
-        distance:
-          value: 0.13
-          units: km
-    - region: PR
-      exchange: '175780'
-      name: Toa Baja
-      short_name: TOA BAJA
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.444126'
-      long: "-66.231299"
-      closest_city:
-        name: Villa Calma
-        distance:
-          value: 0.17
-          units: km
-    - region: PR
-      exchange: '175790'
-      name: Trujillo Alto
-      short_name: TRUJILLOAL
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.371318'
-      long: "-66.02273"
-      closest_city:
-        name: Trujillo Alto
-        distance:
-          value: 1.88
-          units: km
-    - region: PR
-      exchange: '347370'
-      name: Trusilalto
-      short_name: TRUSILALTO
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '175800'
-      name: Utuado
-      short_name: UTUADO
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.270441'
-      long: "-66.698689"
-      closest_city:
-        name: Utuado
-        distance:
-          value: 0.65
-          units: km
-    - region: PR
-      exchange: '175810'
-      name: Vega Alta
-      short_name: VEGA ALTA
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.411734'
-      long: "-66.329254"
-      closest_city:
-        name: Vega Alta
-        distance:
-          value: 0.94
-          units: km
-    - region: PR
-      exchange: '175820'
-      name: Vega Baja
-      short_name: VEGA BAJA
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.447977'
-      long: "-66.385293"
-      closest_city:
-        name: Vega Baja
-        distance:
-          value: 1.73
-          units: km
-    - region: PR
-      exchange: '347374'
-      name: Viejo San Juan
-      short_name: VEJOSNJUAN
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '175830'
-      name: Vieques
-      short_name: VIEQUES
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.146509'
-      long: "-65.444186"
-      closest_city:
-        name: Vieques
-        distance:
-          value: 0.14
-          units: km
-    - region: PR
-      exchange: '347377'
-      name: Villa Nevarez
-      short_name: VILNEVAREZ
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat:
-      long:
-    - region: PR
-      exchange: '175840'
-      name: Villalba
-      short_name: VILLALBA
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.127499'
-      long: "-66.491397"
-      closest_city:
-        name: Villalba
-        distance:
-          value: 1.0
-          units: km
-    - region: PR
-      exchange: '175850'
-      name: Yabucoa
-      short_name: YABUCOA
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.050663'
-      long: "-65.877013"
-      closest_city:
-        name: Yabucoa
-        distance:
-          value: 0.59
-          units: km
-    - region: PR
-      exchange: '175860'
-      name: Yauco
-      short_name: YAUCO
-      lata: '820'
-      ilec_name: PUERTO RICO TEL. CO.
-      lat: '18.034626'
-      long: "-66.851424"
-      closest_city:
-        name: Yauco
-        distance:
-          value: 1.07
-          units: km
+- country: US
+  region: PR
+  exchange: '175010'
+  name: Adjuntas
+  short_name: ADJUNTAS
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.167648'
+  long: "-66.724481"
+  closest_city:
+    name: Adjuntas
+    distance:
+      value: 0.44
+      units: km
+- country: US
+  region: PR
+  exchange: '175020'
+  name: Aguada
+  short_name: AGUADA
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.398077'
+  long: "-67.194079"
+  closest_city:
+    name: Aguada
+    distance:
+      value: 2.07
+      units: km
+- country: US
+  region: PR
+  exchange: '175030'
+  name: Aguadilla
+  short_name: AGUADILLA
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.344569'
+  long: "-67.151433"
+  closest_city:
+    name: Luyando
+    distance:
+      value: 1.49
+      units: km
+- country: US
+  region: PR
+  exchange: '175040'
+  name: Aguas Buenas
+  short_name: AGUASBUNAS
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.253868'
+  long: "-66.103272"
+  closest_city:
+    name: Aguas Buenas
+    distance:
+      value: 0.48
+      units: km
+- country: US
+  region: PR
+  exchange: '175050'
+  name: Aguirre
+  short_name: AGUIRRE
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '17.974063'
+  long: "-66.226316"
+  closest_city:
+    name: !binary |-
+      Q29xdcOt
+    distance:
+      value: 0.59
+      units: km
+- country: US
+  region: PR
+  exchange: '175060'
+  name: Aibonito
+  short_name: AIBONITO
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.141078'
+  long: "-66.264185"
+  closest_city:
+    name: Aibonito
+    distance:
+      value: 0.23
+      units: km
+- country: US
+  region: PR
+  exchange: '347222'
+  name: Altamesa
+  short_name: ALTAMESA
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '347223'
+  name: Altamira
+  short_name: ALTAMIRA
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '175080'
+  name: Arecibo
+  short_name: ARECIBO
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.467061'
+  long: "-66.732053"
+  closest_city:
+    name: Arecibo
+    distance:
+      value: 2.12
+      units: km
+- country: US
+  region: PR
+  exchange: '347226'
+  name: Arecibo Santana
+  short_name: ARECIBOSAN
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '175090'
+  name: Arroyo
+  short_name: ARROYO
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '17.980634'
+  long: "-66.064701"
+  closest_city:
+    name: Arroyo
+    distance:
+      value: 1.23
+      units: km
+- country: US
+  region: PR
+  exchange: '175070'
+  name: Añasco
+  short_name: ANASCO
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.280407'
+  long: "-67.146974"
+  closest_city:
+    name: !binary |-
+      QcOxYXNjbw==
+    distance:
+      value: 0.9
+      units: km
+- country: US
+  region: PR
+  exchange: '347228'
+  name: Bajadero
+  short_name: BAJADERO
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '347229'
+  name: Baldrich
+  short_name: BALDRICH
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '175100'
+  name: Barceloneta
+  short_name: BARCELONTA
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.457937'
+  long: "-66.540361"
+  closest_city:
+    name: Barceloneta
+    distance:
+      value: 0.6
+      units: km
+- country: US
+  region: PR
+  exchange: '175110'
+  name: Barranquitas
+  short_name: BARRANQUTS
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.184985'
+  long: "-66.308104"
+  closest_city:
+    name: Barranquitas
+    distance:
+      value: 0.22
+      units: km
+- country: US
+  region: PR
+  exchange: '347232'
+  name: Barrio Coqui
+  short_name: BARRIOCOQU
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '347233'
+  name: Barrio Guaraguao
+  short_name: BARRIOGRGU
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '347234'
+  name: Barrio Obrero
+  short_name: BARRIOOBRO
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '347235'
+  name: Bay View
+  short_name: BAY VIEW
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '347236'
+  name: Bayamon
+  short_name: BAYAMON
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '175120'
+  name: Bayamón Norte
+  short_name: BAYAMONNOR
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.393588'
+  long: "-66.1563"
+  closest_city:
+    name: !binary |-
+      QmF5YW3Ds24=
+    distance:
+      value: 1.75
+      units: km
+- country: US
+  region: PR
+  exchange: '175130'
+  name: Bayamón Sur
+  short_name: BAYAMONSUR
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.370658'
+  long: "-66.192489"
+  closest_city:
+    name: !binary |-
+      UMOhamFyb3M=
+    distance:
+      value: 2.94
+      units: km
+- country: US
+  region: PR
+  exchange: '347239'
+  name: Bda Vietnam
+  short_name: BDAVIETNAM
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '347240'
+  name: Bo Obrero
+  short_name: BO OBRERO
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '347241'
+  name: Boca De Cangrejos
+  short_name: BOCACNGRJS
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '347242'
+  name: Boqueron
+  short_name: BOQUERON
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '347244'
+  name: Buen Consejo
+  short_name: BUENCONSJO
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '347243'
+  name: Buena Vista
+  short_name: BUENAVISTA
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '175140'
+  name: Cabo Rojo
+  short_name: CABO ROJO
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.090015'
+  long: "-67.143849"
+  closest_city:
+    name: Cabo Rojo
+    distance:
+      value: 0.59
+      units: km
+- country: US
+  region: PR
+  exchange: '175150'
+  name: Caguas
+  short_name: CAGUAS
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.237827'
+  long: "-66.03741"
+  closest_city:
+    name: Caguas
+    distance:
+      value: 0.68
+      units: km
+- country: US
+  region: PR
+  exchange: '175160'
+  name: Camuy
+  short_name: CAMUY
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.481376'
+  long: "-66.841273"
+  closest_city:
+    name: Camuy
+    distance:
+      value: 0.94
+      units: km
+- country: US
+  region: PR
+  exchange: '347249'
+  name: Cantera
+  short_name: CANTERA
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '175170'
+  name: Canóvanas
+  short_name: CANOVANAS
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.376458'
+  long: "-65.903688"
+  closest_city:
+    name: !binary |-
+      Q2Fuw7N2YW5hcw==
+    distance:
+      value: 0.85
+      units: km
+- country: US
+  region: PR
+  exchange: '175601'
+  name: Caparra
+  short_name: CAPARRA
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '347252'
+  name: Caparra Heights
+  short_name: CAPARRAHTS
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '347251'
+  name: Caparra Hills
+  short_name: CAPARRA HL
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '347253'
+  name: Caparra Terrace
+  short_name: CAPARRTRRC
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '175180'
+  name: Carolina
+  short_name: CAROLINA
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.359281'
+  long: "-66.014096"
+  closest_city:
+    name: Trujillo Alto
+    distance:
+      value: 0.48
+      units: km
+- country: US
+  region: PR
+  exchange: '175190'
+  name: Cataño
+  short_name: CATANO
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.441861'
+  long: "-66.124268"
+  closest_city:
+    name: !binary |-
+      Q2F0YcOxbw==
+    distance:
+      value: 2.14
+      units: km
+- country: US
+  region: PR
+  exchange: '175200'
+  name: Cayey
+  short_name: CAYEY
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.112259'
+  long: "-66.166289"
+  closest_city:
+    name: Cayey
+    distance:
+      value: 0.46
+      units: km
+- country: US
+  region: PR
+  exchange: '175661'
+  name: Ceiba
+  short_name: CEIBA
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '347258'
+  name: Ceiba - Roosevelt Roads
+  short_name: CEIBA ROOS
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '175210'
+  name: Ciales
+  short_name: CIALES
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.336491'
+  long: "-66.466642"
+  closest_city:
+    name: Ciales
+    distance:
+      value: 0.6
+      units: km
+- country: US
+  region: PR
+  exchange: '175220'
+  name: Cidra
+  short_name: CIDRA
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.174122'
+  long: "-66.159936"
+  closest_city:
+    name: Cidra
+    distance:
+      value: 0.44
+      units: km
+- country: US
+  region: PR
+  exchange: '175230'
+  name: Coamo
+  short_name: COAMO
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.079711'
+  long: "-66.360312"
+  closest_city:
+    name: Coamo
+    distance:
+      value: 0.51
+      units: km
+- country: US
+  region: PR
+  exchange: '347262'
+  name: College Park
+  short_name: COLLEGE PK
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '175240'
+  name: Comerio
+  short_name: COMERIO
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.223093'
+  long: "-66.217966"
+  closest_city:
+    name: !binary |-
+      Q29tZXLDrW8=
+    distance:
+      value: 0.78
+      units: km
+- country: US
+  region: PR
+  exchange: '347264'
+  name: Condado
+  short_name: CONDADO
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '347265'
+  name: Consumo
+  short_name: CONSUMO
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '347266'
+  name: Coqui
+  short_name: COQUI
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '347267'
+  name: Corcega
+  short_name: CORCEGA
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '175250'
+  name: Corozal
+  short_name: COROZAL
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.345487'
+  long: "-66.314898"
+  closest_city:
+    name: Corozal
+    distance:
+      value: 0.56
+      units: km
+- country: US
+  region: PR
+  exchange: '347269'
+  name: Corral Viejo
+  short_name: CORRALVIJO
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '347270'
+  name: Coto Laurel
+  short_name: COTOLAUREL
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '347271'
+  name: Country Club
+  short_name: COUNTRCLUB
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '175260'
+  name: Culebra
+  short_name: CULEBRA
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.307241'
+  long: "-65.303626"
+  closest_city:
+    name: Culebra
+    distance:
+      value: 0.37
+      units: km
+- country: US
+  region: PR
+  exchange: '347273'
+  name: Cupey
+  short_name: CUPEY ALTO
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '175270'
+  name: Dorado
+  short_name: DORADO
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.46621'
+  long: "-66.268292"
+  closest_city:
+    name: Dorado
+    distance:
+      value: 0.46
+      units: km
+- country: US
+  region: PR
+  exchange: '347278'
+  name: El Comandante
+  short_name: ELCOMNDANT
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '347275'
+  name: El Rosario
+  short_name: EL ROSARIO
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '347276'
+  name: El Vigia
+  short_name: EL VIGIA
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '347277'
+  name: El Yunque
+  short_name: EL YUNQUE
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '347279'
+  name: Ensenada
+  short_name: ENSENADA
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '175280'
+  name: Fajardo
+  short_name: FAJARDO
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.336224'
+  long: "-65.65085"
+  closest_city:
+    name: Fajardo
+    distance:
+      value: 0.92
+      units: km
+- country: US
+  region: PR
+  exchange: '347281'
+  name: Fernandez Juncos
+  short_name: FDEZ JNCO
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '175290'
+  name: Florida
+  short_name: FLORIDA
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.365091'
+  long: "-66.564757"
+  closest_city:
+    name: Florida
+    distance:
+      value: 0.4
+      units: km
+- country: US
+  region: PR
+  exchange: '347283'
+  name: Fort Allen
+  short_name: FORT ALLEN
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '347284'
+  name: Fort Buchanan
+  short_name: FT BUCHNAN
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '347285'
+  name: Garden Hills
+  short_name: GARDEN HLS
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '347286'
+  name: Garrochales
+  short_name: GARROCHALE
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '347287'
+  name: Guanajibo
+  short_name: GUANAJIBO
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '347289'
+  name: Guaraguao
+  short_name: GUARAGUAO
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '175310'
+  name: Guayama
+  short_name: GUAYAMA
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '17.982406'
+  long: "-66.111481"
+  closest_city:
+    name: Guayama
+    distance:
+      value: 0.91
+      units: km
+- country: US
+  region: PR
+  exchange: '175320'
+  name: Guayanilla
+  short_name: GUAYANILLA
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.018382'
+  long: "-66.792098"
+  closest_city:
+    name: Guayanilla
+    distance:
+      value: 0.49
+      units: km
+- country: US
+  region: PR
+  exchange: '175330'
+  name: Guaynabo
+  short_name: GUAYNABO
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.372771'
+  long: "-66.106232"
+  closest_city:
+    name: Guaynabo
+    distance:
+      value: 1.38
+      units: km
+- country: US
+  region: PR
+  exchange: '175340'
+  name: Gurabo
+  short_name: GURABO
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.256931'
+  long: "-65.974011"
+  closest_city:
+    name: Gurabo
+    distance:
+      value: 0.66
+      units: km
+- country: US
+  region: PR
+  exchange: '175300'
+  name: Guánica
+  short_name: GUANICA
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '17.976129'
+  long: "-66.914495"
+  closest_city:
+    name: Fuig
+    distance:
+      value: 1.1
+      units: km
+- country: US
+  region: PR
+  exchange: '175161'
+  name: Hatillo
+  short_name: HATILLO
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '347296'
+  name: Hato Rey
+  short_name: HATO REY
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '347297'
+  name: Hato Tejas
+  short_name: HATO TEJAS
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '175350'
+  name: Hormigueros
+  short_name: HORMIGUERO
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.140116'
+  long: "-67.129263"
+  closest_city:
+    name: Hormigueros
+    distance:
+      value: 1.07
+      units: km
+- country: US
+  region: PR
+  exchange: '175360'
+  name: Humacao
+  short_name: HUMACAO
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.149858'
+  long: "-65.816833"
+  closest_city:
+    name: Humacao
+    distance:
+      value: 0.45
+      units: km
+- country: US
+  region: PR
+  exchange: '347300'
+  name: Hyde Park
+  short_name: HYDE PARK
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '175370'
+  name: Isabela
+  short_name: ISABELA
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.500521'
+  long: "-67.02482"
+  closest_city:
+    name: Isabela
+    distance:
+      value: 0.34
+      units: km
+- country: US
+  region: PR
+  exchange: '347302'
+  name: Isla Verda
+  short_name: ISLA VERDA
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '175380'
+  name: Isla Verde
+  short_name: ISLA VERDE
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.442332'
+  long: "-66.02104"
+  closest_city:
+    name: !binary |-
+      Q2HDsW8gTWFydGluIFBlw7Fh
+    distance:
+      value: 3.38
+      units: km
+- country: US
+  region: PR
+  exchange: '175390'
+  name: Jayuya
+  short_name: JAYUYA
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.220129'
+  long: "-66.593578"
+  closest_city:
+    name: Jayuya
+    distance:
+      value: 0.51
+      units: km
+- country: US
+  region: PR
+  exchange: '175400'
+  name: Juana Díaz
+  short_name: JUANA DIAZ
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.055034'
+  long: "-66.505756"
+  closest_city:
+    name: !binary |-
+      SnVhbmEgRMOtYXo=
+    distance:
+      value: 0.25
+      units: km
+- country: US
+  region: PR
+  exchange: '175410'
+  name: Juncos
+  short_name: JUNCOS
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.229709'
+  long: "-65.922978"
+  closest_city:
+    name: Juncos
+    distance:
+      value: 0.86
+      units: km
+- country: US
+  region: PR
+  exchange: '347307'
+  name: La Rambla
+  short_name: LA RAMBLA
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '347308'
+  name: La Riviera
+  short_name: LA RIVIERA
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '175420'
+  name: Lajas
+  short_name: LAJAS
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.045071'
+  long: "-67.052827"
+  closest_city:
+    name: Lajas
+    distance:
+      value: 0.53
+      units: km
+- country: US
+  region: PR
+  exchange: '175430'
+  name: Lares
+  short_name: LARES
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.292569'
+  long: "-66.88573"
+  closest_city:
+    name: Lares
+    distance:
+      value: 0.48
+      units: km
+- country: US
+  region: PR
+  exchange: '347311'
+  name: Las Lomas
+  short_name: LAS LOMAS
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '175440'
+  name: Las Marías
+  short_name: LAS MARIAS
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.255219'
+  long: "-66.992621"
+  closest_city:
+    name: Maricao
+    distance:
+      value: 8.04
+      units: km
+- country: US
+  region: PR
+  exchange: '175450'
+  name: Las Piedras
+  short_name: LASPIEDRAS
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.180602'
+  long: "-65.865065"
+  closest_city:
+    name: Las Piedras
+    distance:
+      value: 0.67
+      units: km
+- country: US
+  region: PR
+  exchange: '175460'
+  name: Levittown
+  short_name: LEVITTOWN
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.439512'
+  long: "-66.180539"
+  closest_city:
+    name: Las Gaviotas
+    distance:
+      value: 1.11
+      units: km
+- country: US
+  region: PR
+  exchange: '175171'
+  name: Loiza
+  short_name: LOIZA
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '347316'
+  name: Loiza Street
+  short_name: LOIZA ST
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '347317'
+  name: Los Angeles
+  short_name: LOSANGELES
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '175470'
+  name: Luquillo
+  short_name: LUQUILLO
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.375012'
+  long: "-65.717011"
+  closest_city:
+    name: Luquillo
+    distance:
+      value: 0.64
+      units: km
+- country: US
+  region: PR
+  exchange: '175480'
+  name: Manatí
+  short_name: MANATI
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.434449'
+  long: "-66.486398"
+  closest_city:
+    name: !binary |-
+      TWFuYXTDrQ==
+    distance:
+      value: 0.81
+      units: km
+- country: US
+  region: PR
+  exchange: '175490'
+  name: Maricao
+  short_name: MARICAO
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.181914'
+  long: "-66.983308"
+  closest_city:
+    name: Maricao
+    distance:
+      value: 0.32
+      units: km
+- country: US
+  region: PR
+  exchange: '175500'
+  name: Maunabo
+  short_name: MAUNABO
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.009442'
+  long: "-65.903448"
+  closest_city:
+    name: Maunabo
+    distance:
+      value: 0.51
+      units: km
+- country: US
+  region: PR
+  exchange: '175510'
+  name: Mayaguez
+  short_name: MAYAGUEZ
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.200025'
+  long: "-67.143011"
+  closest_city:
+    name: !binary |-
+      TWF5YWfDvGV6
+    distance:
+      value: 0.35
+      units: km
+- country: US
+  region: PR
+  exchange: '347323'
+  name: Mercedita
+  short_name: MERCEDITA
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '347324'
+  name: Minillas
+  short_name: MINILLAS
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '347325'
+  name: Miramar
+  short_name: MIRAMAR
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '175520'
+  name: Moca
+  short_name: MOCA
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.396805'
+  long: "-67.117104"
+  closest_city:
+    name: Moca
+    distance:
+      value: 0.45
+      units: km
+- country: US
+  region: PR
+  exchange: '175530'
+  name: Morovis
+  short_name: MOROVIS
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.329838'
+  long: "-66.40556"
+  closest_city:
+    name: Morovis
+    distance:
+      value: 0.34
+      units: km
+- country: US
+  region: PR
+  exchange: '175540'
+  name: Naguabo
+  short_name: NAGUABO
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.209355'
+  long: "-65.733444"
+  closest_city:
+    name: Naguabo
+    distance:
+      value: 0.46
+      units: km
+- country: US
+  region: PR
+  exchange: '175550'
+  name: Naranjito
+  short_name: NARANJITO
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.307042'
+  long: "-66.248556"
+  closest_city:
+    name: Naranjito
+    distance:
+      value: 0.48
+      units: km
+- country: US
+  region: PR
+  exchange: '347330'
+  name: Old San Juan
+  short_name: OLDSANJUAN
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '175560'
+  name: Orocovis
+  short_name: OROCOVIS
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.224878'
+  long: "-66.391316"
+  closest_city:
+    name: Orocovis
+    distance:
+      value: 0.16
+      units: km
+- country: US
+  region: PR
+  exchange: '347332'
+  name: Patillas
+  short_name: PATILLAS
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '175570'
+  name: Peñuelas
+  short_name: PENUELAS
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.061269'
+  long: "-66.722957"
+  closest_city:
+    name: !binary |-
+      UGXDsXVlbGFz
+    distance:
+      value: 0.32
+      units: km
+- country: US
+  region: PR
+  exchange: '175590'
+  name: Ponce
+  short_name: PONCE
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.008204'
+  long: "-66.614157"
+  closest_city:
+    name: Ponce
+    distance:
+      value: 0.9
+      units: km
+- country: US
+  region: PR
+  exchange: '175600'
+  name: Pueblo Viejo
+  short_name: PUEBLOVIEJ
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.414949'
+  long: "-66.103179"
+  closest_city:
+    name: Guaynabo
+    distance:
+      value: 3.69
+      units: km
+- country: US
+  region: PR
+  exchange: '347336'
+  name: Puerto Nuevo
+  short_name: PUERTONUEV
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '347337'
+  name: Puerto Real
+  short_name: PUERTOREAL
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '347339'
+  name: Punta Santiago
+  short_name: PUNTASANTG
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '347338'
+  name: Punta Stgo
+  short_name: PUNTA STGO
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '175610'
+  name: Quebradillas
+  short_name: QUEBRADLLS
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.474428'
+  long: "-66.936883"
+  closest_city:
+    name: Quebradillas
+    distance:
+      value: 0.3
+      units: km
+- country: US
+  region: PR
+  exchange: '175620'
+  name: Ramey
+  short_name: RAMEY
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.501847'
+  long: "-67.131911"
+  closest_city:
+    name: San Antonio
+    distance:
+      value: 3.53
+      units: km
+- country: US
+  region: PR
+  exchange: '175630'
+  name: Rincón
+  short_name: RINCON
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.346445'
+  long: "-67.25184"
+  closest_city:
+    name: !binary |-
+      UmluY8Ozbg==
+    distance:
+      value: 0.84
+      units: km
+- country: US
+  region: PR
+  exchange: '175660'
+  name: Roosevelt Roads
+  short_name: ROOSEVLTRD
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.220301'
+  long: "-65.652105"
+  closest_city:
+    name: Daguao
+    distance:
+      value: 2.93
+      units: km
+- country: US
+  region: PR
+  exchange: '175640'
+  name: Río Grande
+  short_name: RIO GRANDE
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.379918'
+  long: "-65.834327"
+  closest_city:
+    name: !binary |-
+      UsOtbyBHcmFuZGU=
+    distance:
+      value: 0.49
+      units: km
+- country: US
+  region: PR
+  exchange: '175650'
+  name: Río Piedras
+  short_name: RIOPIEDRAS
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.425802'
+  long: "-66.058315"
+  closest_city:
+    name: !binary |-
+      Q2HDsW8gTWFydGluIFBlw7Fh
+    distance:
+      value: 0.98
+      units: km
+- country: US
+  region: PR
+  exchange: '175670'
+  name: Sabana Grande
+  short_name: SABANAGRND
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.077602'
+  long: "-66.961965"
+  closest_city:
+    name: Sabana Grande
+    distance:
+      value: 0.68
+      units: km
+- country: US
+  region: PR
+  exchange: '347347'
+  name: Sabana Hoyos
+  short_name: SABANAHOYO
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '347348'
+  name: Sabana Seca
+  short_name: SABANASECA
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '175680'
+  name: Salinas
+  short_name: SALINAS
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '17.9766'
+  long: "-66.296486"
+  closest_city:
+    name: Salinas
+    distance:
+      value: 0.14
+      units: km
+- country: US
+  region: PR
+  exchange: '347356'
+  name: San Antonio
+  short_name: SANANTONIO
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '175690'
+  name: San Germán
+  short_name: SAN GERMAN
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.081749'
+  long: "-67.042554"
+  closest_city:
+    name: !binary |-
+      U2FuIEdlcm3DoW4=
+    distance:
+      value: 0.38
+      units: km
+- country: US
+  region: PR
+  exchange: '347352'
+  name: San Jose
+  short_name: SAN JOSE
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '347353'
+  name: San Juan
+  short_name: SAN JUAN
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '347354'
+  name: San Juan
+  short_name: SAN JUAN
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '175700'
+  name: San Lorenzo
+  short_name: SANLORENZO
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.190694'
+  long: "-65.959814"
+  closest_city:
+    name: San Lorenzo
+    distance:
+      value: 0.93
+      units: km
+- country: US
+  region: PR
+  exchange: '347355'
+  name: San Rosa
+  short_name: SAN ROSA
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '175710'
+  name: San Sebastián
+  short_name: SANSBSTIAN
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.342628'
+  long: "-66.991006"
+  closest_city:
+    name: !binary |-
+      U2FuIFNlYmFzdGnDoW4=
+    distance:
+      value: 0.88
+      units: km
+- country: US
+  region: PR
+  exchange: '175720'
+  name: Santa Isabel
+  short_name: SAN ISABEL
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '17.968715'
+  long: "-66.404771"
+  closest_city:
+    name: Santa Isabel
+    distance:
+      value: 0.06
+      units: km
+- country: US
+  region: PR
+  exchange: '347359'
+  name: Santa Maria
+  short_name: SANTAMARIA
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '175730'
+  name: Santana
+  short_name: SANTANA
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.445715'
+  long: "-66.658382"
+  closest_city:
+    name: Animas
+    distance:
+      value: 2.32
+      units: km
+- country: US
+  region: PR
+  exchange: '175740'
+  name: Santurce
+  short_name: SANTURCE
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.452721'
+  long: "-66.079394"
+  closest_city:
+    name: !binary |-
+      Q2HDsW8gTWFydGluIFBlw7Fh
+    distance:
+      value: 3.88
+      units: km
+- country: US
+  region: PR
+  exchange: '175750'
+  name: Santurce Este
+  short_name: SANTURCEES
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.448955'
+  long: "-66.052116"
+  closest_city:
+    name: !binary |-
+      Q2HDsW8gTWFydGluIFBlw7Fh
+    distance:
+      value: 2.01
+      units: km
+- country: US
+  region: PR
+  exchange: '347363'
+  name: Santurce Oeste
+  short_name: SANTURCEOE
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '347364'
+  name: Suchville
+  short_name: SUCHVILLE
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '347365'
+  name: Summit Hills
+  short_name: SUMMIT HLS
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '175770'
+  name: Toa Alta
+  short_name: TOA ALTA
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.387282'
+  long: "-66.251879"
+  closest_city:
+    name: Toa Alta
+    distance:
+      value: 0.13
+      units: km
+- country: US
+  region: PR
+  exchange: '175780'
+  name: Toa Baja
+  short_name: TOA BAJA
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.444126'
+  long: "-66.231299"
+  closest_city:
+    name: Villa Calma
+    distance:
+      value: 0.17
+      units: km
+- country: US
+  region: PR
+  exchange: '175790'
+  name: Trujillo Alto
+  short_name: TRUJILLOAL
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.371318'
+  long: "-66.02273"
+  closest_city:
+    name: Trujillo Alto
+    distance:
+      value: 1.88
+      units: km
+- country: US
+  region: PR
+  exchange: '347370'
+  name: Trusilalto
+  short_name: TRUSILALTO
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '175800'
+  name: Utuado
+  short_name: UTUADO
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.270441'
+  long: "-66.698689"
+  closest_city:
+    name: Utuado
+    distance:
+      value: 0.65
+      units: km
+- country: US
+  region: PR
+  exchange: '175810'
+  name: Vega Alta
+  short_name: VEGA ALTA
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.411734'
+  long: "-66.329254"
+  closest_city:
+    name: Vega Alta
+    distance:
+      value: 0.94
+      units: km
+- country: US
+  region: PR
+  exchange: '175820'
+  name: Vega Baja
+  short_name: VEGA BAJA
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.447977'
+  long: "-66.385293"
+  closest_city:
+    name: Vega Baja
+    distance:
+      value: 1.73
+      units: km
+- country: US
+  region: PR
+  exchange: '347374'
+  name: Viejo San Juan
+  short_name: VEJOSNJUAN
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '175830'
+  name: Vieques
+  short_name: VIEQUES
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.146509'
+  long: "-65.444186"
+  closest_city:
+    name: Vieques
+    distance:
+      value: 0.14
+      units: km
+- country: US
+  region: PR
+  exchange: '347377'
+  name: Villa Nevarez
+  short_name: VILNEVAREZ
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '175840'
+  name: Villalba
+  short_name: VILLALBA
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.127499'
+  long: "-66.491397"
+  closest_city:
+    name: Villalba
+    distance:
+      value: 1.0
+      units: km
+- country: US
+  region: PR
+  exchange: '175850'
+  name: Yabucoa
+  short_name: YABUCOA
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.050663'
+  long: "-65.877013"
+  closest_city:
+    name: Yabucoa
+    distance:
+      value: 0.59
+      units: km
+- country: US
+  region: PR
+  exchange: '175860'
+  name: Yauco
+  short_name: YAUCO
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.034626'
+  long: "-66.851424"
+  closest_city:
+    name: Yauco
+    distance:
+      value: 1.07
+      units: km

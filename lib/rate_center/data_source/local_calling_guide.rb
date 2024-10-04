@@ -81,6 +81,7 @@ module RateCenter
 
           data = rate_centers.sort_by(&:rc).map do |rate_center|
             {
+              "country" => "US",
               "region" => region,
               "exchange" => rate_center.exch,
               "name" => rate_center.rc,
@@ -92,15 +93,7 @@ module RateCenter
             }
           end
 
-          data_file.write(
-            {
-              "rate_centers" => {
-                "US" => {
-                  region => data
-                }
-              }
-            }.to_yaml
-          )
+          data_file.write({ "rate_centers" => data }.to_yaml)
         end
       end
 

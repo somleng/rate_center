@@ -1,13 +1,12 @@
 ---
 cities:
-  US:
-    DC:
-    - name: Washington
-      region: DC
-      lat: '38.9047'
-      long: "-77.0163"
-      closest_rate_centers:
-      - name: Washington Zone 1
-        distance:
-          value: 1.43
-          units: km
+- country: US
+  region: DC
+  name: Washington
+  lat: '38.9047'
+  long: "-77.0163"
+  closest_rate_centers:
+  - name: Washington Zone 1
+    distance:
+      value: 1.43
+      units: km

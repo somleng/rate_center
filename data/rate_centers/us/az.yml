@@ -1,3788 +1,4159 @@
 ---
 rate_centers:
-  US:
-    AZ:
-    - region: AZ
-      exchange: '014081'
-      name: Agua Fria
-      short_name: AGUA FRIA
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '013180'
-      name: Aguila
-      short_name: AGUILA
-      lata: '666'
-      ilec_name: TABLE TOP TELEPHONE COMPANY
-      lat: '33.942963'
-      long: "-113.17266"
-      closest_city:
-        name: Aguila
-        distance:
-          value: 0.82
-          units: km
-    - region: AZ
-      exchange: '013190'
-      name: Ajo
-      short_name: AJO
-      lata: '666'
-      ilec_name: TABLE TOP TELEPHONE COMPANY
-      lat: '32.375405'
-      long: "-112.869018"
-      closest_city:
-        name: Ajo
-        distance:
-          value: 2.34
-          units: km
-    - region: AZ
-      exchange: '013200'
-      name: Alpine
-      short_name: ALPINE
-      lata: '666'
-      ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
-      lat: '33.848148'
-      long: "-109.139466"
-      closest_city:
-        name: Alpine
-        distance:
-          value: 0.42
-          units: km
-    - region: AZ
-      exchange: '343614'
-      name: Amado
-      short_name: AMADO
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343381'
-      name: Anthem
-      short_name: ANTHEM
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343382'
-      name: Apache Junction
-      short_name: APACHE JCT
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343615'
-      name: Arivaca
-      short_name: ARIVACA
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '013371'
-      name: Arizona City
-      short_name: ARIZONA CY
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '013210'
-      name: Arizona Village
-      short_name: AZ VILLAGE
-      lata: '666'
-      ilec_name: FORT MOJAVE TELECOM INC
-      lat: '34.851993'
-      long: "-114.585809"
-      closest_city:
-        name: Arizona Village
-        distance:
-          value: 0.44
-          units: km
-    - region: AZ
-      exchange: '343384'
-      name: Arlington
-      short_name: ARLINGTON
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '013220'
-      name: Ash Fork
-      short_name: ASH FORK
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat: '35.224139'
-      long: "-112.482493"
-      closest_city:
-        name: Ash Fork
-        distance:
-          value: 1.12
-          units: km
-    - region: AZ
-      exchange: '343386'
-      name: Avondale
-      short_name: AVONDALE
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '013230'
-      name: Bagdad
-      short_name: BAGDAD
-      lata: '666'
-      ilec_name: TABLE TOP TELEPHONE COMPANY
-      lat: '34.584338'
-      long: "-113.207095"
-      closest_city:
-        name: Bagdad
-        distance:
-          value: 2.86
-          units: km
-    - region: AZ
-      exchange: '343389'
-      name: Bapchule
-      short_name: BAPCHULE
-      lata: '666'
-      ilec_name: GILA RIVER TELECOMM, INC.
-      lat:
-      long:
-    - region: AZ
-      exchange: '014082'
-      name: Beardsley
-      short_name: BEARDSLEY
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '013862'
-      name: Beaver Dam
-      short_name: BEAVER DAM
-      lata: '660'
-      ilec_name: RIO VIRGIN TEL. CO., INC.
-      lat:
-      long:
-    - region: AZ
-      exchange: '343391'
-      name: Bellemont
-      short_name: BELLEMONT
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343392'
-      name: Bensch Ranch
-      short_name: BENSCH RCH
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '013240'
-      name: Benson
-      short_name: BENSON
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat: '31.975124'
-      long: "-110.29752"
-      closest_city:
-        name: Benson
-        distance:
-          value: 7.12
-          units: km
-    - region: AZ
-      exchange: '013250'
-      name: Bisbee
-      short_name: BISBEE
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat: '31.440962'
-      long: "-109.916305"
-      closest_city:
-        name: Bisbee
-        distance:
-          value: 3.16
-          units: km
-    - region: AZ
-      exchange: '014083'
-      name: Black Canyon
-      short_name: BLACK CANY
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343393'
-      name: Black Canyon City
-      short_name: BLACKCNYON
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '013260'
-      name: Black Mesa
-      short_name: BLACK MESA
-      lata: '980'
-      ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
-      lat: '36.488982'
-      long: "-110.393139"
-      closest_city:
-        name: Shonto
-        distance:
-          value: 26.38
-          units: km
-    - region: AZ
-      exchange: '013861'
-      name: Black Rock
-      short_name: BLACK ROCK
-      lata: '660'
-      ilec_name: RIO VIRGIN TEL. CO., INC.
-      lat:
-      long:
-    - region: AZ
-      exchange: '013270'
-      name: Blackwater
-      short_name: BLACKWATER
-      lata: '666'
-      ilec_name: GILA RIVER TELECOMM, INC.
-      lat: '33.022537'
-      long: "-111.573346"
-      closest_city:
-        name: Blackwater
-        distance:
-          value: 1.99
-          units: km
-    - region: AZ
-      exchange: '343395'
-      name: Blue
-      short_name: BLUE
-      lata: '666'
-      ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
-      lat:
-      long:
-    - region: AZ
-      exchange: '343396'
-      name: Blue Gap
-      short_name: BLUE GAP
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '013280'
-      name: Blue Ridge
-      short_name: BLUE RIDGE
-      lata: '666'
-      ilec_name: ARIZONA TEL. CO.
-      lat: '34.599588'
-      long: "-111.183545"
-      closest_city:
-        name: Blue Ridge
-        distance:
-          value: 8.34
-          units: km
-    - region: AZ
-      exchange: '013290'
-      name: Bonita
-      short_name: BONITA
-      lata: '668'
-      ilec_name: VALLEY TEL COOP INC
-      lat: '32.584048'
-      long: "-109.980914"
-      closest_city:
-        name: Swift Trail Junction
-        distance:
-          value: 29.76
-          units: km
-    - region: AZ
-      exchange: '013300'
-      name: Bouse
-      short_name: BOUSE
-      lata: '730'
-      ilec_name: FRONTIER COMMUNICATIONS OF THE SOUTHWEST INC. - AZ
-      lat: '33.931858'
-      long: "-114.007838"
-      closest_city:
-        name: Bouse
-        distance:
-          value: 3.87
-          units: km
-    - region: AZ
-      exchange: '013310'
-      name: Bowie
-      short_name: BOWIE
-      lata: '668'
-      ilec_name: VALLEY TEL COOP INC
-      lat: '32.324827'
-      long: "-109.48538"
-      closest_city:
-        name: Bowie
-        distance:
-          value: 0.1
-          units: km
-    - region: AZ
-      exchange: '014084'
-      name: Buckeye
-      short_name: BUCKEYE
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '013320'
-      name: Bullhead City
-      short_name: BULLHEADCY
-      lata: '666'
-      ilec_name: CITIZENS UTILITIES RURAL DBA FRONTIER UT RURAL
-      lat: '35.102011'
-      long: "-114.626803"
-      closest_city:
-        name: Bullhead City
-        distance:
-          value: 7.62
-          units: km
-    - region: AZ
-      exchange: '013330'
-      name: Bullhead City North
-      short_name: BULLHDCYN
-      lata: '666'
-      ilec_name: CITIZENS UTILITIES RURAL DBA FRONTIER UT RURAL
-      lat: '35.156398'
-      long: "-114.556522"
-      closest_city:
-        name: Bullhead City
-        distance:
-          value: 4.1
-          units: km
-    - region: AZ
-      exchange: '013781'
-      name: Butler
-      short_name: BUTLER
-      lata: '666'
-      ilec_name: CITIZENS UTILITIES RURAL DBA FRONTIER UT RURAL
-      lat:
-      long:
-    - region: AZ
-      exchange: '343620'
-      name: Bylas
-      short_name: BYLAS
-      lata: '668'
-      ilec_name: SAN CARLOS APACHE TELECOMMUNICATIONS UTILITY, INC.
-      lat:
-      long:
-    - region: AZ
-      exchange: '013340'
-      name: Cameron
-      short_name: CAMERON
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat: '35.610618'
-      long: "-111.523448"
-      closest_city:
-        name: Cameron
-        distance:
-          value: 28.4
-          units: km
-    - region: AZ
-      exchange: '013350'
-      name: Camp Verde
-      short_name: CAMP VERDE
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat: '34.565323'
-      long: "-111.848519"
-      closest_city:
-        name: Camp Verde
-        distance:
-          value: 0.8
-          units: km
-    - region: AZ
-      exchange: '343403'
-      name: Carefree
-      short_name: CAREFREE
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '013360'
-      name: Casa Blanca
-      short_name: CASABLANCA
-      lata: '666'
-      ilec_name: GILA RIVER TELECOMM, INC.
-      lat: '33.121036'
-      long: "-111.886685"
-      closest_city:
-        name: Casa Blanca
-        distance:
-          value: 2.09
-          units: km
-    - region: AZ
-      exchange: '013370'
-      name: Casa Grande
-      short_name: CASAGRANDE
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat: '32.934139'
-      long: "-111.654226"
-      closest_city:
-        name: Casa Grande
-        distance:
-          value: 10.54
-          units: km
-    - region: AZ
-      exchange: '013380'
-      name: Cascabel
-      short_name: CASCABEL
-      lata: '668'
-      ilec_name: MIDVALE TELEPHONE EXCHANGE, INC.
-      lat: '32.293455'
-      long: "-110.385835"
-      closest_city:
-        name: Willow Canyon
-        distance:
-          value: 31.42
-          units: km
-    - region: AZ
-      exchange: '343406'
-      name: Cashion
-      short_name: CASHION
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '013390'
-      name: Castle Rock
-      short_name: CASTLEROCK
-      lata: '666'
-      ilec_name: CITIZENS UTILITIES RURAL DBA FRONTIER UT RURAL
-      lat: '34.555796'
-      long: "-114.347389"
-      closest_city:
-        name: Desert Hills
-        distance:
-          value: 2.63
-          units: km
-    - region: AZ
-      exchange: '343622'
-      name: Catalina
-      short_name: CATALINA
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '014085'
-      name: Cave Creek
-      short_name: CAVE CREEK
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343623'
-      name: Central
-      short_name: CENTRAL
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343409'
-      name: Chambers
-      short_name: CHAMBERS
-      lata: '666'
-      ilec_name: TABLE TOP TELEPHONE COMPANY
-      lat:
-      long:
-    - region: AZ
-      exchange: '014086'
-      name: Chandler
-      short_name: CHANDLER
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343413'
-      name: Chandler Heights
-      short_name: CHNDLR HGT
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '013400'
-      name: Chinle
-      short_name: CHINLE
-      lata: '980'
-      ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
-      lat: '36.155663'
-      long: "-109.554313"
-      closest_city:
-        name: Chinle
-        distance:
-          value: 2.32
-          units: km
-    - region: AZ
-      exchange: '013410'
-      name: Chino Valley
-      short_name: CHINO VLY
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat: '34.748291'
-      long: "-112.458242"
-      closest_city:
-        name: Chino Valley
-        distance:
-          value: 4.4
-          units: km
-    - region: AZ
-      exchange: '343412'
-      name: Chloride
-      short_name: CHLORIDE
-      lata: '666'
-      ilec_name: CITIZENS UTILITIES RURAL DBA FRONTIER UT RURAL
-      lat:
-      long:
-    - region: AZ
-      exchange: '343414'
-      name: Cibecue
-      short_name: CIBECUE
-      lata: '666'
-      ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
-      lat:
-      long:
-    - region: AZ
-      exchange: '013420'
-      name: Cibola
-      short_name: CIBOLA
-      lata: '730'
-      ilec_name: FRONTIER COMMUNICATIONS OF THE SOUTHWEST INC. - AZ
-      lat: '33.432551'
-      long: "-114.730724"
-      closest_city:
-        name: Cibola
-        distance:
-          value: 8.14
-          units: km
-    - region: AZ
-      exchange: '014087'
-      name: Circle City
-      short_name: CIRCLECITY
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343416'
-      name: Clarkdale
-      short_name: CLARKDALE
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343417'
-      name: Clay Springs
-      short_name: CLAY SPG
-      lata: '666'
-      ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
-      lat:
-      long:
-    - region: AZ
-      exchange: '343624'
-      name: Claypool
-      short_name: CLAYPOOL
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '013430'
-      name: Clifton
-      short_name: CLIFTON
-      lata: '668'
-      ilec_name: COPPER VALLEY TELEPHONE, INC.
-      lat: '33.034605'
-      long: "-109.326743"
-      closest_city:
-        name: Morenci
-        distance:
-          value: 2.18
-          units: km
-    - region: AZ
-      exchange: '343626'
-      name: Cochise
-      short_name: COCHISE
-      lata: '668'
-      ilec_name: VALLEY TEL COOP INC
-      lat:
-      long:
-    - region: AZ
-      exchange: '013440'
-      name: Colorado City
-      short_name: COLORADOCY
-      lata: '660'
-      ilec_name: SOUTH CENTRAL UTAH TEL. ASSN., INC.
-      lat: '36.990522'
-      long: "-112.977924"
-      closest_city:
-        name: Colorado City
-        distance:
-          value: 1.67
-          units: km
-    - region: AZ
-      exchange: '343418'
-      name: Concho
-      short_name: CONCHO
-      lata: '666'
-      ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
-      lat:
-      long:
-    - region: AZ
-      exchange: '343419'
-      name: Congress
-      short_name: CONGRESS
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '013450'
-      name: Coolidge
-      short_name: COOLIDGE
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat: '32.975252'
-      long: "-111.525284"
-      closest_city:
-        name: Coolidge
-        distance:
-          value: 4.33
-          units: km
-    - region: AZ
-      exchange: '343421'
-      name: Cordes Lakes
-      short_name: CORDES LK
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343422'
-      name: Cornville
-      short_name: CORNVILLE
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343628'
-      name: Corona
-      short_name: CORONA
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343630'
-      name: Corona de Tucson
-      short_name: CORONATCSN
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '014511'
-      name: Coronado
-      short_name: CORONADO
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat: '32.558016'
-      long: "-110.931221"
-      closest_city:
-        name: Saddlebrooke
-        distance:
-          value: 5.36
-          units: km
-    - region: AZ
-      exchange: '343631'
-      name: Cortaro
-      short_name: CORTARO
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '013460'
-      name: Cottonwood
-      short_name: COTTONWOOD
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat: '34.742813'
-      long: "-112.015281"
-      closest_city:
-        name: Cottonwood
-        distance:
-          value: 2.88
-          units: km
-    - region: AZ
-      exchange: '343425'
-      name: Crown King
-      short_name: CROWN KING
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343426'
-      name: Dateland
-      short_name: DATELAND
-      lata: '666'
-      ilec_name: ARIZONA TEL. CO.
-      lat:
-      long:
-    - region: AZ
-      exchange: '343636'
-      name: Davis Monthan Air Force Base
-      short_name: DVMNTHNAFB
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '014088'
-      name: Deer Valley
-      short_name: DEERVALLEY
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '013470'
-      name: Dennehotso
-      short_name: DENNEHOTSO
-      lata: '980'
-      ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
-      lat: '36.842723'
-      long: "-109.850157"
-      closest_city:
-        name: Dennehotso
-        distance:
-          value: 3.55
-          units: km
-    - region: AZ
-      exchange: '343428'
-      name: Desert Hills
-      short_name: DESERT HLS
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '219391'
-      name: Dewey
-      short_name: DEWEY
-      lata: '666'
-      ilec_name: MIDVALE TELEPHONE EXCHANGE, INC.
-      lat:
-      long:
-    - region: AZ
-      exchange: '408964'
-      name: Dewey
-      short_name: DEWEY
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '013480'
-      name: Dilcon
-      short_name: DILKON
-      lata: '980'
-      ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
-      lat: '35.374314'
-      long: "-110.32323"
-      closest_city:
-        name: Dilkon
-        distance:
-          value: 1.68
-          units: km
-    - region: AZ
-      exchange: '013821'
-      name: Dolan Springs
-      short_name: DOLAN SPGS
-      lata: '666'
-      ilec_name: CITIZENS UTILITIES RURAL DBA FRONTIER UT RURAL
-      lat:
-      long:
-    - region: AZ
-      exchange: '013490'
-      name: Douglas
-      short_name: DOUGLAS
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat: '31.349352'
-      long: "-109.541709"
-      closest_city:
-        name: Douglas
-        distance:
-          value: 1.23
-          units: km
-    - region: AZ
-      exchange: '343633'
-      name: Dragoon
-      short_name: DRAGOON
-      lata: '668'
-      ilec_name: VALLEY TEL COOP INC
-      lat:
-      long:
-    - region: AZ
-      exchange: '013691'
-      name: Dudleyville
-      short_name: DUDLEYVL
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '013500'
-      name: Duncan
-      short_name: DUNCAN
-      lata: '668'
-      ilec_name: COPPER VALLEY TELEPHONE, INC.
-      lat: '32.726605'
-      long: "-109.097371"
-      closest_city:
-        name: Duncan
-        distance:
-          value: 0.87
-          units: km
-    - region: AZ
-      exchange: '343431'
-      name: Eagar
-      short_name: EAGAR
-      lata: '666'
-      ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
-      lat:
-      long:
-    - region: AZ
-      exchange: '013510'
-      name: East Kingman
-      short_name: E KINGMAN
-      lata: '666'
-      ilec_name: CITIZENS UTILITIES RURAL DBA FRONTIER UT RURAL
-      lat: '35.254206'
-      long: "-114.001716"
-      closest_city:
-        name: New Kingman-Butler
-        distance:
-          value: 1.33
-          units: km
-    - region: AZ
-      exchange: '343637'
-      name: Eden
-      short_name: EDEN
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '013520'
-      name: Ehrenberg
-      short_name: EHRENBERG
-      lata: '730'
-      ilec_name: FRONTIER COMMUNICATIONS OF THE SOUTHWEST INC. - AZ
-      lat: '33.600822'
-      long: "-114.527576"
-      closest_city:
-        name: Ehrenberg
-        distance:
-          value: 4.08
-          units: km
-    - region: AZ
-      exchange: '343432'
-      name: El Mirage
-      short_name: EL MIRAGE
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343433'
-      name: Eleven Mile
-      short_name: ELEVEN ML
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343435'
-      name: Eleven Mile Corner
-      short_name: ELVN ML CR
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '013530'
-      name: Elfrida
-      short_name: ELFRIDA
-      lata: '668'
-      ilec_name: COPPER VALLEY TELEPHONE, INC.
-      lat: '31.674317'
-      long: "-109.674137"
-      closest_city:
-        name: Elfrida
-        distance:
-          value: 1.35
-          units: km
-    - region: AZ
-      exchange: '343639'
-      name: Elgin
-      short_name: ELGIN
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '013540'
-      name: Eloy
-      short_name: ELOY
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat: '32.748144'
-      long: "-111.550678"
-      closest_city:
-        name: Eloy
-        distance:
-          value: 4.54
-          units: km
-    - region: AZ
-      exchange: '013550'
-      name: Flagstaff
-      short_name: FLAGSTAFF
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat: '35.204231'
-      long: "-111.650839"
-      closest_city:
-        name: Flagstaff
-        distance:
-          value: 3.43
-          units: km
-    - region: AZ
-      exchange: '013560'
-      name: Florence
-      short_name: FLORENCE
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat: '33.023109'
-      long: "-111.383064"
-      closest_city:
-        name: Florence
-        distance:
-          value: 5.33
-          units: km
-    - region: AZ
-      exchange: '343438'
-      name: Florence Junction
-      short_name: FLORENCJCT
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343439'
-      name: Forest Lakes
-      short_name: FOREST LKS
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343441'
-      name: Fort Apache
-      short_name: FT APACHE
-      lata: '666'
-      ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
-      lat:
-      long:
-    - region: AZ
-      exchange: '013570'
-      name: Fort Defiance
-      short_name: FTDEFIANCE
-      lata: '980'
-      ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
-      lat: '35.748554'
-      long: "-109.0826"
-      closest_city:
-        name: Fort Defiance
-        distance:
-          value: 1.38
-          units: km
-    - region: AZ
-      exchange: '343641'
-      name: Fort Huachuca
-      short_name: FTHUACHUCA
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '01408M'
-      name: Fort McDowell
-      short_name: FTMCDOWELL
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343442'
-      name: Fort Mohave
-      short_name: FT MOHAVE
-      lata: '666'
-      ilec_name: CITIZENS UTILITIES RURAL DBA FRONTIER UT RURAL
-      lat:
-      long:
-    - region: AZ
-      exchange: '343640'
-      name: Fort Thomas
-      short_name: FORTTHOMAS
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343440'
-      name: Fountain Hills
-      short_name: FOUNTAINHL
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '013580'
-      name: Fredonia
-      short_name: FREDONIA
-      lata: '660'
-      ilec_name: SOUTH CENTRAL UTAH TEL. ASSN., INC.
-      lat: '36.951192'
-      long: "-112.525971"
-      closest_city:
-        name: Fredonia
-        distance:
-          value: 1.3
-          units: km
-    - region: AZ
-      exchange: '343444'
-      name: Gadsden
-      short_name: GADSDEN
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '013590'
-      name: Ganado
-      short_name: GANADO
-      lata: '980'
-      ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
-      lat: '35.715131'
-      long: "-109.540895"
-      closest_city:
-        name: Ganado
-        distance:
-          value: 1.73
-          units: km
-    - region: AZ
-      exchange: '013600'
-      name: Gila Bend
-      short_name: GILA BEND
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat: '32.941807'
-      long: "-112.71714"
-      closest_city:
-        name: Gila Bend
-        distance:
-          value: 2.72
-          units: km
-    - region: AZ
-      exchange: '343446'
-      name: Gilbert
-      short_name: GILBERT
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '014089'
-      name: Glendale
-      short_name: GLENDALE
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '013610'
-      name: Globe
-      short_name: GLOBE
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat: '33.397009'
-      long: "-110.831668"
-      closest_city:
-        name: Claypool
-        distance:
-          value: 1.41
-          units: km
-    - region: AZ
-      exchange: '343448'
-      name: Gold Canyon
-      short_name: GOLDCANYON
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '013620'
-      name: Golden Valley
-      short_name: GOLDEN VLY
-      lata: '666'
-      ilec_name: CITIZENS UTILITIES RURAL DBA FRONTIER UT RURAL
-      lat: '35.232459'
-      long: "-114.155622"
-      closest_city:
-        name: So-Hi
-        distance:
-          value: 2.59
-          units: km
-    - region: AZ
-      exchange: '01408A'
-      name: Goodyear
-      short_name: GOODYEAR
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '013630'
-      name: Grand Canyon
-      short_name: GRANDCNYON
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat: '36.059218'
-      long: "-112.142853"
-      closest_city:
-        name: Grand Canyon Village
-        distance:
-          value: 2.19
-          units: km
-    - region: AZ
-      exchange: '219380'
-      name: Granite Mountain
-      short_name: GRANITE MT
-      lata: '666'
-      ilec_name: MIDVALE TELEPHONE EXCHANGE, INC.
-      lat: '33.770724'
-      long: "-111.771802"
-      closest_city:
-        name: Rio Verde
-        distance:
-          value: 10.22
-          units: km
-    - region: AZ
-      exchange: '343452'
-      name: Gray Mountain
-      short_name: GRAY MTN
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '013640'
-      name: Greasewood
-      short_name: GREASEWOOD
-      lata: '980'
-      ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
-      lat: '35.522623'
-      long: "-109.855928"
-      closest_city:
-        name: Greasewood
-        distance:
-          value: 0.77
-          units: km
-    - region: AZ
-      exchange: '363377'
-      name: Greasewood Springs
-      short_name: GRSEWD SPG
-      lata: '980'
-      ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
-      lat:
-      long:
-    - region: AZ
-      exchange: '014512'
-      name: Green Valley
-      short_name: GREEN VLY
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat: '31.882465'
-      long: "-110.994305"
-      closest_city:
-        name: Green Valley
-        distance:
-          value: 4.84
-          units: km
-    - region: AZ
-      exchange: '013650'
-      name: Greenehaven
-      short_name: GREENEHVN
-      lata: '666'
-      ilec_name: ARIZONA TEL. CO.
-      lat: '37.002053'
-      long: "-111.561388"
-      closest_city:
-        name: Greenehaven
-        distance:
-          value: 0.81
-          units: km
-    - region: AZ
-      exchange: '013660'
-      name: Greer
-      short_name: GREER
-      lata: '666'
-      ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
-      lat: '34.018419'
-      long: "-109.444326"
-      closest_city:
-        name: Greer
-        distance:
-          value: 2.12
-          units: km
-    - region: AZ
-      exchange: '343455'
-      name: Groom Creek
-      short_name: GROOM CRK
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343456'
-      name: Guadalupe
-      short_name: GUADALUPE
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343457'
-      name: Hackberry
-      short_name: HACKBERRY
-      lata: '666'
-      ilec_name: CITIZENS UTILITIES RURAL DBA FRONTIER UT RURAL
-      lat:
-      long:
-    - region: AZ
-      exchange: '343458'
-      name: Happy Jack
-      short_name: HAPPY JACK
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '013670'
-      name: Harquahala Valley
-      short_name: HARQUHLVLY
-      lata: '666'
-      ilec_name: ARIZONA TEL. CO.
-      lat: '33.44498'
-      long: "-113.152457"
-      closest_city:
-        name: Tonopah
-        distance:
-          value: 21.11
-          units: km
-    - region: AZ
-      exchange: '013680'
-      name: Hawley Lake
-      short_name: HAWLEYLAKE
-      lata: '666'
-      ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
-      lat: '33.97864'
-      long: "-109.752326"
-      closest_city:
-        name: McNary
-        distance:
-          value: 15.74
-          units: km
-    - region: AZ
-      exchange: '013690'
-      name: Hayden
-      short_name: HAYDEN
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat: '33.007442'
-      long: "-110.783121"
-      closest_city:
-        name: Hayden
-        distance:
-          value: 0.9
-          units: km
-    - region: AZ
-      exchange: '013700'
-      name: Heber
-      short_name: HEBER
-      lata: '666'
-      ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
-      lat: '34.423633'
-      long: "-110.602294"
-      closest_city:
-        name: Heber-Overgaard
-        distance:
-          value: 3.18
-          units: km
-    - region: AZ
-      exchange: '343645'
-      name: Hereford
-      short_name: HEREFORD
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '01408B'
-      name: Higley
-      short_name: HIGLEY
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '013710'
-      name: Holbrook
-      short_name: HOLBROOK
-      lata: '666'
-      ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
-      lat: '34.899066'
-      long: "-110.156317"
-      closest_city:
-        name: Holbrook
-        distance:
-          value: 1.16
-          units: km
-    - region: AZ
-      exchange: '343464'
-      name: Hotevilla
-      short_name: HOTEVILLA
-      lata: '666'
-      ilec_name: HOPI TELECOMMUNICATIONS INCORPORATED - AZ
-      lat:
-      long:
-    - region: AZ
-      exchange: '343465'
-      name: Houck
-      short_name: HOUCK
-      lata: '666'
-      ilec_name: TABLE TOP TELEPHONE COMPANY
-      lat:
-      long:
-    - region: AZ
-      exchange: '343646'
-      name: Huachuca City
-      short_name: HUACHUCACY
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343466'
-      name: Hualapai
-      short_name: HUALAPAI
-      lata: '666'
-      ilec_name: CITIZENS UTILITIES RURAL DBA FRONTIER UT RURAL
-      lat:
-      long:
-    - region: AZ
-      exchange: '013720'
-      name: Humboldt
-      short_name: HUMBOLDT
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat: '34.499262'
-      long: "-112.230836"
-      closest_city:
-        name: Dewey-Humboldt
-        distance:
-          value: 2.65
-          units: km
-    - region: AZ
-      exchange: '013730'
-      name: Hyder
-      short_name: HYDER
-      lata: '666'
-      ilec_name: ARIZONA TEL. CO.
-      lat: '33.018386'
-      long: "-113.348182"
-      closest_city:
-        name: Aztec
-        distance:
-          value: 24.98
-          units: km
-    - region: AZ
-      exchange: '343470'
-      name: Indian Wells
-      short_name: INDIANWLLS
-      lata: '666'
-      ilec_name: HOPI TELECOMMUNICATIONS INCORPORATED - AZ
-      lat:
-      long:
-    - region: AZ
-      exchange: '014164'
-      name: Inscription Canyon
-      short_name: INCRPTCNYN
-      lata: '666'
-      ilec_name: TABLE TOP TELEPHONE COMPANY
-      lat:
-      long:
-    - region: AZ
-      exchange: '343647'
-      name: Inspiration
-      short_name: INSPIRTION
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343471'
-      name: Iron Springs
-      short_name: IRON SPGS
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '342521'
-      name: Jacob Lake
-      short_name: JACOB LAKE
-      lata: '660'
-      ilec_name: SOUTH CENTRAL UTAH TEL. ASSN., INC.
-      lat:
-      long:
-    - region: AZ
-      exchange: '343472'
-      name: Jerome
-      short_name: JEROME
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '013740'
-      name: Joseph City
-      short_name: JOSEPHCITY
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat: '34.958527'
-      long: "-110.333531"
-      closest_city:
-        name: Joseph City
-        distance:
-          value: 0.64
-          units: km
-    - region: AZ
-      exchange: '363378'
-      name: Kaibeto
-      short_name: KAIBETO
-      lata: '980'
-      ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
-      lat:
-      long:
-    - region: AZ
-      exchange: '013750'
-      name: Kaibito
-      short_name: KAIBITO
-      lata: '980'
-      ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
-      lat: '36.595645'
-      long: "-111.075385"
-      closest_city:
-        name: Kaibito
-        distance:
-          value: 2.86
-          units: km
-    - region: AZ
-      exchange: '013760'
-      name: Kayenta
-      short_name: KAYENTA
-      lata: '980'
-      ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
-      lat: '36.723452'
-      long: "-110.257425"
-      closest_city:
-        name: Kayenta
-        distance:
-          value: 1.02
-          units: km
-    - region: AZ
-      exchange: '013770'
-      name: Keams Canyon
-      short_name: KEAMSCNYON
-      lata: '666'
-      ilec_name: HOPI TELECOMMUNICATIONS INCORPORATED - AZ
-      lat: '35.817615'
-      long: "-110.188804"
-      closest_city:
-        name: Keams Canyon
-        distance:
-          value: 1.25
-          units: km
-    - region: AZ
-      exchange: '013692'
-      name: Kearny
-      short_name: KEARNY
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '013780'
-      name: Kingman
-      short_name: KINGMAN
-      lata: '666'
-      ilec_name: CITIZENS UTILITIES RURAL DBA FRONTIER UT RURAL
-      lat: '35.192042'
-      long: "-114.051674"
-      closest_city:
-        name: Clacks Canyon
-        distance:
-          value: 3.66
-          units: km
-    - region: AZ
-      exchange: '343476'
-      name: Kirkland
-      short_name: KIRKLAND
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '013790'
-      name: Komatke
-      short_name: KOMATKE
-      lata: '666'
-      ilec_name: GILA RIVER TELECOMM, INC.
-      lat: '33.290917'
-      long: "-112.15844"
-      closest_city:
-        name: Komatke
-        distance:
-          value: 0.56
-          units: km
-    - region: AZ
-      exchange: '013800'
-      name: Kykotsmovi Village
-      short_name: KYKTSMOVLG
-      lata: '666'
-      ilec_name: HOPI TELECOMMUNICATIONS INCORPORATED - AZ
-      lat: '35.873749'
-      long: "-110.618896"
-      closest_city:
-        name: Kykotsmovi Village
-        distance:
-          value: 2.24
-          units: km
-    - region: AZ
-      exchange: '013810'
-      name: Lake Havasu City
-      short_name: LKHAVASUCY
-      lata: '666'
-      ilec_name: CITIZENS UTILITIES RURAL DBA FRONTIER UT RURAL
-      lat: '34.460302'
-      long: "-114.365467"
-      closest_city:
-        name: Lake Havasu City
-        distance:
-          value: 6.69
-          units: km
-    - region: AZ
-      exchange: '013820'
-      name: Lake Mohave Ranchos
-      short_name: LKMHVRNCHS
-      lata: '666'
-      ilec_name: CITIZENS UTILITIES RURAL DBA FRONTIER UT RURAL
-      lat: '35.601405'
-      long: "-114.263453"
-      closest_city:
-        name: Dolan Springs
-        distance:
-          value: 2.3
-          units: km
-    - region: AZ
-      exchange: '343483'
-      name: Lake Montezuma
-      short_name: LK MONTZUM
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '013830'
-      name: Lake Pleasant
-      short_name: LKPLEASANT
-      lata: '666'
-      ilec_name: ACCIPITER COMMUNICATIONS INC
-      lat: '33.846977'
-      long: "-112.252235"
-      closest_city:
-        name: Peoria
-        distance:
-          value: 8.19
-          units: km
-    - region: AZ
-      exchange: '343479'
-      name: Lakeside
-      short_name: LAKESIDE
-      lata: '666'
-      ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
-      lat:
-      long:
-    - region: AZ
-      exchange: '343480'
-      name: Laveen
-      short_name: LAVEEN
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '013840'
-      name: Le Chee
-      short_name: LE CHEE
-      lata: '980'
-      ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
-      lat: '36.85239'
-      long: "-111.440082"
-      closest_city:
-        name: LeChee
-        distance:
-          value: 2.17
-          units: km
-    - region: AZ
-      exchange: '013850'
-      name: Leupp
-      short_name: LEUPP
-      lata: '980'
-      ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
-      lat: '35.298847'
-      long: "-111.00278"
-      closest_city:
-        name: Leupp
-        distance:
-          value: 0.25
-          units: km
-    - region: AZ
-      exchange: '343481'
-      name: Liberty
-      short_name: LIBERTY
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '01408N'
-      name: Litchfield Park
-      short_name: LITCHFLDPK
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '013860'
-      name: Littlefield
-      short_name: LITTLEFLD
-      lata: '660'
-      ilec_name: RIO VIRGIN TEL. CO., INC.
-      lat: '36.810467'
-      long: "-113.941768"
-      closest_city:
-        name: Littlefield
-        distance:
-          value: 6.19
-          units: km
-    - region: AZ
-      exchange: '013870'
-      name: Lone Butte
-      short_name: LONE BUTTE
-      lata: '666'
-      ilec_name: GILA RIVER TELECOMM, INC.
-      lat: '33.287053'
-      long: "-111.963477"
-      closest_city:
-        name: Guadalupe
-        distance:
-          value: 8.83
-          units: km
-    - region: AZ
-      exchange: '013880'
-      name: Lukachukai
-      short_name: LUKACHUKAI
-      lata: '980'
-      ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
-      lat: '36.412395'
-      long: "-109.250724"
-      closest_city:
-        name: Lukachukai
-        distance:
-          value: 2.15
-          units: km
-    - region: AZ
-      exchange: '343488'
-      name: Luke Air Force Base
-      short_name: LUKE AFB
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343489'
-      name: Lukeville
-      short_name: LUKEVILLE
-      lata: '666'
-      ilec_name: TABLE TOP TELEPHONE COMPANY
-      lat:
-      long:
-    - region: AZ
-      exchange: '343490'
-      name: Lupton
-      short_name: LUPTON
-      lata: '666'
-      ilec_name: TABLE TOP TELEPHONE COMPANY
-      lat:
-      long:
-    - region: AZ
-      exchange: '343649'
-      name: Madera Canyon
-      short_name: MADERA CYN
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '014261'
-      name: Mammoth
-      short_name: MAMMOTH
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '013890'
-      name: Many Farms
-      short_name: MANY FARMS
-      lata: '980'
-      ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
-      lat: '36.354653'
-      long: "-109.620639"
-      closest_city:
-        name: Many Farms
-        distance:
-          value: 0.6
-          units: km
-    - region: AZ
-      exchange: '014513'
-      name: Marana
-      short_name: MARANA
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat: '32.457843'
-      long: "-111.21059"
-      closest_city:
-        name: Marana
-        distance:
-          value: 5.71
-          units: km
-    - region: AZ
-      exchange: '013900'
-      name: Marble Canyon
-      short_name: MARBLECNYN
-      lata: '666'
-      ilec_name: ARIZONA TEL. CO.
-      lat: '36.818578'
-      long: "-111.64326"
-      closest_city:
-        name: Page
-        distance:
-          value: 18.35
-          units: km
-    - region: AZ
-      exchange: '013910'
-      name: Maricopa
-      short_name: MARICOPA
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat: '33.048626'
-      long: "-112.052164"
-      closest_city:
-        name: Ak-Chin Village
-        distance:
-          value: 4.18
-          units: km
-    - region: AZ
-      exchange: '013920'
-      name: Maricopa Village
-      short_name: MARCOPAVLG
-      lata: '666'
-      ilec_name: GILA RIVER TELECOMM, INC.
-      lat: '33.37432'
-      long: "-112.225063"
-      closest_city:
-        name: Maricopa Colony
-        distance:
-          value: 1.31
-          units: km
-    - region: AZ
-      exchange: '343494'
-      name: Martinez Lake
-      short_name: MARTINZ LK
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '014161'
-      name: Mayer
-      short_name: MAYER
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '013930'
-      name: McNary
-      short_name: MCNARY
-      lata: '666'
-      ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
-      lat: '34.065834'
-      long: "-109.850609"
-      closest_city:
-        name: McNary
-        distance:
-          value: 2.96
-          units: km
-    - region: AZ
-      exchange: '343652'
-      name: McNeal
-      short_name: MCNEAL
-      lata: '668'
-      ilec_name: COPPER VALLEY TELEPHONE, INC.
-      lat:
-      long:
-    - region: AZ
-      exchange: '013940'
-      name: Meadview
-      short_name: MEADVIEW
-      lata: '666'
-      ilec_name: CITIZENS UTILITIES RURAL DBA FRONTIER UT RURAL
-      lat: '36.002525'
-      long: "-114.076624"
-      closest_city:
-        name: Meadview
-        distance:
-          value: 5.49
-          units: km
-    - region: AZ
-      exchange: '013701'
-      name: Merzville
-      short_name: MERZVILLE
-      lata: '666'
-      ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
-      lat:
-      long:
-    - region: AZ
-      exchange: '01408O'
-      name: Mesa
-      short_name: MESA
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '013950'
-      name: Mesquite Creek
-      short_name: MESQUITCRK
-      lata: '666'
-      ilec_name: FORT MOJAVE TELECOM INC
-      lat: '34.961893'
-      long: "-114.570179"
-      closest_city:
-        name: Mesquite Creek
-        distance:
-          value: 0.17
-          units: km
-    - region: AZ
-      exchange: '013960'
-      name: Miami
-      short_name: MIAMI
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat: '33.401069'
-      long: "-110.875487"
-      closest_city:
-        name: Miami
-        distance:
-          value: 0.72
-          units: km
-    - region: AZ
-      exchange: '219390'
-      name: Millsite
-      short_name: MILLSITE
-      lata: '666'
-      ilec_name: MIDVALE TELEPHONE EXCHANGE, INC.
-      lat: '34.433591'
-      long: "-112.413533"
-      closest_city:
-        name: Mayer
-        distance:
-          value: 15.88
-          units: km
-    - region: AZ
-      exchange: '343501'
-      name: Mobile
-      short_name: MOBILE
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '342523'
-      name: Moccasin
-      short_name: MOCCASIN
-      lata: '660'
-      ilec_name: SOUTH CENTRAL UTAH TEL. ASSN., INC.
-      lat:
-      long:
-    - region: AZ
-      exchange: '013970'
-      name: Mohave Valley
-      short_name: MOHAVE VLY
-      lata: '666'
-      ilec_name: CITIZENS UTILITIES RURAL DBA FRONTIER UT RURAL
-      lat: '34.924823'
-      long: "-114.602"
-      closest_city:
-        name: Willow Valley
-        distance:
-          value: 1.37
-          units: km
-    - region: AZ
-      exchange: '343654'
-      name: Morenci
-      short_name: MORENCI
-      lata: '668'
-      ilec_name: COPPER VALLEY TELEPHONE, INC.
-      lat:
-      long:
-    - region: AZ
-      exchange: '013980'
-      name: Mormon Lake
-      short_name: MORMONLAKE
-      lata: '666'
-      ilec_name: ARIZONA TEL. CO.
-      lat: '34.919268'
-      long: "-111.468502"
-      closest_city:
-        name: Mormon Lake
-        distance:
-          value: 1.7
-          units: km
-    - region: AZ
-      exchange: '343504'
-      name: Morristown
-      short_name: MORRISTOWN
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343655'
-      name: Mount Lemmon
-      short_name: MT LEMMON
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '013990'
-      name: Munds Park
-      short_name: MUNDS PARK
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat: '34.9386'
-      long: "-111.64607"
-      closest_city:
-        name: Munds Park
-        distance:
-          value: 1.3
-          units: km
-    - region: AZ
-      exchange: '343656'
-      name: Naco
-      short_name: NACO
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343506'
-      name: Navajo
-      short_name: NAVAJO
-      lata: '666'
-      ilec_name: TABLE TOP TELEPHONE COMPANY
-      lat:
-      long:
-    - region: AZ
-      exchange: '363385'
-      name: Nazlini
-      short_name: NAZLINI
-      lata: '980'
-      ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
-      lat:
-      long:
-    - region: AZ
-      exchange: '343507'
-      name: New Oraibi
-      short_name: NEW ORAIBI
-      lata: '666'
-      ilec_name: HOPI TELECOMMUNICATIONS INCORPORATED - AZ
-      lat:
-      long:
-    - region: AZ
-      exchange: '01408E'
-      name: New River
-      short_name: NEW RIVER
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '014000'
-      name: Nogales
-      short_name: NOGALES
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat: '31.342122'
-      long: "-110.930636"
-      closest_city:
-        name: Nogales
-        distance:
-          value: 2.27
-          units: km
-    - region: AZ
-      exchange: '343509'
-      name: North Phoenix
-      short_name: NO PHOENIX
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343510'
-      name: North Rim
-      short_name: NORTH RIM
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343511'
-      name: Nutrioso
-      short_name: NUTRIOSO
-      lata: '666'
-      ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
-      lat:
-      long:
-    - region: AZ
-      exchange: '343512'
-      name: Oatman
-      short_name: OATMAN
-      lata: '666'
-      ilec_name: CITIZENS UTILITIES RURAL DBA FRONTIER UT RURAL
-      lat:
-      long:
-    - region: AZ
-      exchange: '014262'
-      name: Oracle
-      short_name: ORACLE
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343659'
-      name: Oro Valley
-      short_name: ORO VALLEY
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343513'
-      name: Overgaard
-      short_name: OVERGAARD
-      lata: '666'
-      ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
-      lat:
-      long:
-    - region: AZ
-      exchange: '014010'
-      name: Page
-      short_name: PAGE
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat: '36.893581'
-      long: "-111.510349"
-      closest_city:
-        name: Page
-        distance:
-          value: 5.46
-          units: km
-    - region: AZ
-      exchange: '343515'
-      name: Palo Verde
-      short_name: PALO VERDE
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '013251'
-      name: Palominas
-      short_name: PALOMINAS
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343516'
-      name: Paradise Valley
-      short_name: PARADISVLY
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '014020'
-      name: Parker
-      short_name: PARKER
-      lata: '730'
-      ilec_name: FRONTIER COMMUNICATIONS OF THE SOUTHWEST INC. - AZ
-      lat: '34.147982'
-      long: "-114.290945"
-      closest_city:
-        name: Bluewater
-        distance:
-          value: 3.16
-          units: km
-    - region: AZ
-      exchange: '014030'
-      name: Parker Dam
-      short_name: PARKER DAM
-      lata: '730'
-      ilec_name: FRONTIER COMMUNICATIONS OF THE SOUTHWEST INC. - AZ
-      lat: '34.216543'
-      long: "-114.194956"
-      closest_city:
-        name: Cienega Springs
-        distance:
-          value: 2.16
-          units: km
-    - region: AZ
-      exchange: '343517'
-      name: Parks
-      short_name: PARKS
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '014040'
-      name: Patagonia
-      short_name: PATAGONIA
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat: '31.543526'
-      long: "-110.756474"
-      closest_city:
-        name: Patagonia
-        distance:
-          value: 0.82
-          units: km
-    - region: AZ
-      exchange: '343518'
-      name: Paulden
-      short_name: PAULDEN
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '014050'
-      name: Payson
-      short_name: PAYSON
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat: '34.235643'
-      long: "-111.334098"
-      closest_city:
-        name: Payson
-        distance:
-          value: 1.59
-          units: km
-    - region: AZ
-      exchange: '014060'
-      name: Peach Springs
-      short_name: PEACH SPG
-      lata: '666'
-      ilec_name: CITIZENS UTILITIES RURAL DBA FRONTIER UT RURAL
-      lat: '35.485876'
-      long: "-113.559055"
-      closest_city:
-        name: Truxton
-        distance:
-          value: 0.19
-          units: km
-    - region: AZ
-      exchange: '014070'
-      name: Pearce
-      short_name: PEARCE
-      lata: '668'
-      ilec_name: VALLEY TEL COOP INC
-      lat: '31.89838'
-      long: "-109.827342"
-      closest_city:
-        name: Sunsites
-        distance:
-          value: 4.87
-          units: km
-    - region: AZ
-      exchange: '343521'
-      name: Peeples Valley
-      short_name: PEEPLS VLY
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '01408F'
-      name: Peoria
-      short_name: PEORIA
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '014251'
-      name: Peridot
-      short_name: PERIDOT
-      lata: '668'
-      ilec_name: SAN CARLOS APACHE TELECOMMUNICATIONS UTILITY, INC.
-      lat:
-      long:
-    - region: AZ
-      exchange: '343523'
-      name: Perryville
-      short_name: PERRYVILLE
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '014080'
-      name: Phoenix
-      short_name: PHOENIX
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat: '33.544358'
-      long: "-112.048962"
-      closest_city:
-        name: Phoenix
-        distance:
-          value: 4.85
-          units: km
-    - region: AZ
-      exchange: '343525'
-      name: Picacho
-      short_name: PICACHO
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '014090'
-      name: Pima
-      short_name: PIMA
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat: '32.89386'
-      long: "-109.825123"
-      closest_city:
-        name: Pima
-        distance:
-          value: 1.83
-          units: km
-    - region: AZ
-      exchange: '014051'
-      name: Pine
-      short_name: PINE
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '014100'
-      name: Pinedale
-      short_name: PINEDALE
-      lata: '666'
-      ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
-      lat: '34.309603'
-      long: "-110.248925"
-      closest_city:
-        name: Pinedale
-        distance:
-          value: 1.59
-          units: km
-    - region: AZ
-      exchange: '014110'
-      name: Pinetop
-      short_name: PINETOP
-      lata: '666'
-      ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
-      lat: '34.126114'
-      long: "-109.93455"
-      closest_city:
-        name: Pinetop-Lakeside
-        distance:
-          value: 3.8
-          units: km
-    - region: AZ
-      exchange: '363386'
-      name: Pinon
-      short_name: PINON
-      lata: '980'
-      ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
-      lat:
-      long:
-    - region: AZ
-      exchange: '014120'
-      name: Pinon Cottonwood
-      short_name: PINONCTNWD
-      lata: '980'
-      ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
-      lat: '36.065817'
-      long: "-109.885763"
-      closest_city:
-        name: Low Mountain
-        distance:
-          value: 23.15
-          units: km
-    - region: AZ
-      exchange: '343664'
-      name: Pirtleville
-      short_name: PIRTLEVILL
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343665'
-      name: Pisinemo
-      short_name: PISINEMO
-      lata: '668'
-      ilec_name: TOHONO O'ODHAM UTILITY AUTHORITY
-      lat:
-      long:
-    - region: AZ
-      exchange: '014130'
-      name: Polacca
-      short_name: POLACCA
-      lata: '666'
-      ilec_name: HOPI TELECOMMUNICATIONS INCORPORATED - AZ
-      lat: '35.837641'
-      long: "-110.385942"
-      closest_city:
-        name: First Mesa
-        distance:
-          value: 1.76
-          units: km
-    - region: AZ
-      exchange: '343666'
-      name: Pomerene
-      short_name: POMERENE
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '014140'
-      name: Portal
-      short_name: PORTAL
-      lata: '668'
-      ilec_name: VALLEY TEL COOP INC
-      lat: '31.916674'
-      long: "-109.150192"
-      closest_city:
-        name: San Simon
-        distance:
-          value: 39.81
-          units: km
-    - region: AZ
-      exchange: '014150'
-      name: Poston
-      short_name: POSTON
-      lata: '730'
-      ilec_name: FRONTIER COMMUNICATIONS OF THE SOUTHWEST INC. - AZ
-      lat: '33.991979'
-      long: "-114.397225"
-      closest_city:
-        name: Poston
-        distance:
-          value: 0.67
-          units: km
-    - region: AZ
-      exchange: '014160'
-      name: Prescott
-      short_name: PRESCOTT
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat: '34.543687'
-      long: "-112.474289"
-      closest_city:
-        name: Prescott
-        distance:
-          value: 5.21
-          units: km
-    - region: AZ
-      exchange: '343531'
-      name: Prescott Valley
-      short_name: PRESCT VLY
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '014170'
-      name: Quartzsite
-      short_name: QUARTZSITE
-      lata: '730'
-      ilec_name: SOUTHWESTERN TEL. CO.
-      lat: '33.666212'
-      long: "-114.2149"
-      closest_city:
-        name: Quartzsite
-        distance:
-          value: 0.25
-          units: km
-    - region: AZ
-      exchange: '343533'
-      name: Queen Creek
-      short_name: QUEENCREEK
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343532'
-      name: Queen Valley
-      short_name: QUEEN VLY
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343668'
-      name: Ray
-      short_name: RAY
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343669'
-      name: Red Rock
-      short_name: RED ROCK
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '014180'
-      name: Red Valley
-      short_name: RED VALLEY
-      lata: '980'
-      ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
-      lat: '36.595099'
-      long: "-109.051276"
-      closest_city:
-        name: Lukachukai
-        distance:
-          value: 25.77
-          units: km
-    - region: AZ
-      exchange: '343670'
-      name: Rillito
-      short_name: RILLITO
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343534'
-      name: Rimrock
-      short_name: RIMROCK
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343671'
-      name: Rio Rico
-      short_name: RIO RICO
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343535'
-      name: Rio Verde
-      short_name: RIO VERDE
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '013321'
-      name: Riviera
-      short_name: RIVIERA
-      lata: '666'
-      ilec_name: CITIZENS UTILITIES RURAL DBA FRONTIER UT RURAL
-      lat:
-      long:
-    - region: AZ
-      exchange: '014514'
-      name: Robles
-      short_name: ROBLES
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat: '32.032865'
-      long: "-111.337951"
-      closest_city:
-        name: Three Points
-        distance:
-          value: 5.68
-          units: km
-    - region: AZ
-      exchange: '014190'
-      name: Rock Point
-      short_name: ROCK POINT
-      lata: '980'
-      ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
-      lat: '36.721324'
-      long: "-109.623139"
-      closest_city:
-        name: Rock Point
-        distance:
-          value: 0.67
-          units: km
-    - region: AZ
-      exchange: '343537'
-      name: Rock Springs
-      short_name: ROCK SPGS
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343538'
-      name: Roll
-      short_name: ROLL
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '014200'
-      name: Roosevelt Lake
-      short_name: ROOSEVLTLK
-      lata: '666'
-      ilec_name: ARIZONA TEL. CO.
-      lat: '33.667431'
-      long: "-111.141568"
-      closest_city:
-        name: Roosevelt
-        distance:
-          value: 1.28
-          units: km
-    - region: AZ
-      exchange: '014210'
-      name: Rough Rock
-      short_name: ROUGH ROCK
-      lata: '980'
-      ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
-      lat: '36.405641'
-      long: "-109.874142"
-      closest_city:
-        name: Rough Rock
-        distance:
-          value: 0.71
-          units: km
-    - region: AZ
-      exchange: '363391'
-      name: Round Rock
-      short_name: ROUND ROCK
-      lata: '980'
-      ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
-      lat:
-      long:
-    - region: AZ
-      exchange: '014220'
-      name: Sacaton
-      short_name: SACATON
-      lata: '666'
-      ilec_name: GILA RIVER TELECOMM, INC.
-      lat: '33.074471'
-      long: "-111.743176"
-      closest_city:
-        name: Sacaton
-        distance:
-          value: 2.4
-          units: km
-    - region: AZ
-      exchange: '343672'
-      name: Saddlebrooke
-      short_name: SADDLEBRK
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '014230'
-      name: Safford
-      short_name: SAFFORD
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat: '32.835582'
-      long: "-109.708385"
-      closest_city:
-        name: Safford
-        distance:
-          value: 1.14
-          units: km
-    - region: AZ
-      exchange: '343674'
-      name: Sahuarita
-      short_name: SAHUARITA
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '363393'
-      name: Saint Michaels
-      short_name: STMICHAELS
-      lata: '980'
-      ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
-      lat:
-      long:
-    - region: AZ
-      exchange: '014240'
-      name: Salome
-      short_name: SALOME
-      lata: '730'
-      ilec_name: SOUTHWESTERN TEL. CO.
-      lat: '33.785573'
-      long: "-113.618446"
-      closest_city:
-        name: Salome
-        distance:
-          value: 1.44
-          units: km
-    - region: AZ
-      exchange: '01408L'
-      name: Salt River
-      short_name: SALT RIVER
-      lata: '666'
-      ilec_name: SADDLEBACK COMMUNICATIONS COMPANY - AZ
-      lat: '33.544358'
-      long: "-112.048962"
-      closest_city:
-        name: Phoenix
-        distance:
-          value: 4.85
-          units: km
-    - region: AZ
-      exchange: '014250'
-      name: San Carlos
-      short_name: SAN CARLOS
-      lata: '668'
-      ilec_name: SAN CARLOS APACHE TELECOMMUNICATIONS UTILITY, INC.
-      lat: '33.348407'
-      long: "-110.452113"
-      closest_city:
-        name: San Carlos
-        distance:
-          value: 1.25
-          units: km
-    - region: AZ
-      exchange: '343541'
-      name: San Luis
-      short_name: SAN LUIS
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '014260'
-      name: San Manuel
-      short_name: SAN MANUEL
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat: '32.60963'
-      long: "-110.626283"
-      closest_city:
-        name: San Manuel
-        distance:
-          value: 1.43
-          units: km
-    - region: AZ
-      exchange: '014270'
-      name: San Simon
-      short_name: SAN SIMON
-      lata: '668'
-      ilec_name: VALLEY TEL COOP INC
-      lat: '32.267504'
-      long: "-109.224343"
-      closest_city:
-        name: San Simon
-        distance:
-          value: 0.56
-          units: km
-    - region: AZ
-      exchange: '343543'
-      name: San Tan Valley
-      short_name: SANTAN VLY
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '014280'
-      name: Sanders
-      short_name: SANDERS
-      lata: '666'
-      ilec_name: TABLE TOP TELEPHONE COMPANY
-      lat: '35.214882'
-      long: "-109.333073"
-      closest_city:
-        name: Sanders
-        distance:
-          value: 1.14
-          units: km
-    - region: AZ
-      exchange: '343682'
-      name: Santa Rita Foothills
-      short_name: SN RT FTHL
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '014290'
-      name: Santa Rosa
-      short_name: SANTA ROSA
-      lata: '668'
-      ilec_name: TOHONO O'ODHAM UTILITY AUTHORITY
-      lat: '32.349639'
-      long: "-112.056869"
-      closest_city:
-        name: Santa Rosa
-        distance:
-          value: 2.14
-          units: km
-    - region: AZ
-      exchange: '014300'
-      name: Sasabe
-      short_name: SASABE
-      lata: '668'
-      ilec_name: ARIZONA TEL. CO.
-      lat: '31.577156'
-      long: "-111.500718"
-      closest_city:
-        name: Arivaca
-        distance:
-          value: 19.72
-          units: km
-    - region: AZ
-      exchange: '01408G'
-      name: Scottsdale
-      short_name: SCOTTSDALE
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343545'
-      name: Second Mesa
-      short_name: SEC MESA
-      lata: '666'
-      ilec_name: HOPI TELECOMMUNICATIONS INCORPORATED - AZ
-      lat:
-      long:
-    - region: AZ
-      exchange: '014310'
-      name: Sedona
-      short_name: SEDONA
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat: '34.725624'
-      long: "-111.871846"
-      closest_city:
-        name: Cornville
-        distance:
-          value: 3.67
-          units: km
-    - region: AZ
-      exchange: '014320'
-      name: Seligman
-      short_name: SELIGMAN
-      lata: '666'
-      ilec_name: TABLE TOP TELEPHONE COMPANY
-      lat: '35.326173'
-      long: "-112.873173"
-      closest_city:
-        name: Seligman
-        distance:
-          value: 1.43
-          units: km
-    - region: AZ
-      exchange: '014330'
-      name: Sells
-      short_name: SELLS
-      lata: '668'
-      ilec_name: TOHONO O'ODHAM UTILITY AUTHORITY
-      lat: '31.912983'
-      long: "-111.879832"
-      closest_city:
-        name: Sells
-        distance:
-          value: 0.83
-          units: km
-    - region: AZ
-      exchange: '014340'
-      name: Shonto
-      short_name: SHONTO
-      lata: '980'
-      ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
-      lat: '36.594053'
-      long: "-110.642606"
-      closest_city:
-        name: Shonto
-        distance:
-          value: 1.7
-          units: km
-    - region: AZ
-      exchange: '014350'
-      name: Show Low
-      short_name: SHOW LOW
-      lata: '666'
-      ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
-      lat: '34.251128'
-      long: "-110.033064"
-      closest_city:
-        name: Show Low
-        distance:
-          value: 1.84
-          units: km
-    - region: AZ
-      exchange: '014360'
-      name: Sierra Vista
-      short_name: SIERRAVIST
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat: '31.556914'
-      long: "-110.300593"
-      closest_city:
-        name: Sierra Vista
-        distance:
-          value: 1.55
-          units: km
-    - region: AZ
-      exchange: '219400'
-      name: Silverbell
-      short_name: SILVERBELL
-      lata: '666'
-      ilec_name: MIDVALE TELEPHONE EXCHANGE, INC.
-      lat: '32.548924'
-      long: "-111.718251"
-      closest_city:
-        name: Tat Momoli
-        distance:
-          value: 16.78
-          units: km
-    - region: AZ
-      exchange: '343550'
-      name: Skull Valley
-      short_name: SKULL VLY
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '014370'
-      name: Snowflake
-      short_name: SNOWFLAKE
-      lata: '666'
-      ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
-      lat: '34.507013'
-      long: "-110.075013"
-      closest_city:
-        name: Snowflake
-        distance:
-          value: 2.28
-          units: km
-    - region: AZ
-      exchange: '343683'
-      name: Solomon
-      short_name: SOLOMON
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '014380'
-      name: Somerton
-      short_name: SOMERTON
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat: '32.590053'
-      long: "-114.681524"
-      closest_city:
-        name: Somerton
-        distance:
-          value: 2.05
-          units: km
-    - region: AZ
-      exchange: '343684'
-      name: Sonoita
-      short_name: SONOITA
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343553'
-      name: Spring Valley
-      short_name: SPRING VLY
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '014390'
-      name: Springerville
-      short_name: SPRINGERVL
-      lata: '666'
-      ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
-      lat: '34.131936'
-      long: "-109.283516"
-      closest_city:
-        name: Springerville
-        distance:
-          value: 3.02
-          units: km
-    - region: AZ
-      exchange: '013241'
-      name: St David
-      short_name: ST DAVID
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '014400'
-      name: St Johns
-      short_name: ST JOHNS
-      lata: '666'
-      ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
-      lat: '34.49918'
-      long: "-109.373961"
-      closest_city:
-        name: St. Johns
-        distance:
-          value: 0.5
-          units: km
-    - region: AZ
-      exchange: '013372'
-      name: Stanfield
-      short_name: STANFIELD
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343558'
-      name: Star Valley
-      short_name: STAR VLY
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '014410'
-      name: Stotonic
-      short_name: STOTONIC
-      lata: '666'
-      ilec_name: GILA RIVER TELECOMM, INC.
-      lat: '33.160622'
-      long: "-111.797274"
-      closest_city:
-        name: Stotonic Village
-        distance:
-          value: 2.01
-          units: km
-    - region: AZ
-      exchange: '343560'
-      name: Strawberry
-      short_name: STRAWBERRY
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343561'
-      name: Sun City
-      short_name: SUN CITY
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343564'
-      name: Sun City West
-      short_name: SUNCTYWEST
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343562'
-      name: Sun Lakes
-      short_name: SUN LAKES
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343566'
-      name: Sun Tan Valley
-      short_name: SUNTANVLY
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343563'
-      name: Sun Valley
-      short_name: SUN VALLEY
-      lata: '666'
-      ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
-      lat:
-      long:
-    - region: AZ
-      exchange: '014420'
-      name: Sunizona
-      short_name: SUNIZONA
-      lata: '668'
-      ilec_name: VALLEY TEL COOP INC
-      lat: '31.875651'
-      long: "-109.656855"
-      closest_city:
-        name: Sunizona
-        distance:
-          value: 2.49
-          units: km
-    - region: AZ
-      exchange: '343565'
-      name: Sunnyslope
-      short_name: SUNNYSLOPE
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343687'
-      name: Sunsites
-      short_name: SUNSITES
-      lata: '668'
-      ilec_name: VALLEY TEL COOP INC
-      lat:
-      long:
-    - region: AZ
-      exchange: '014430'
-      name: Supai
-      short_name: SUPAI
-      lata: '666'
-      ilec_name: ARIZONA TEL. CO.
-      lat: '36.234117'
-      long: "-112.680396"
-      closest_city:
-        name: Supai
-        distance:
-          value: 1.2
-          units: km
-    - region: AZ
-      exchange: '014440'
-      name: Superior
-      short_name: SUPERIOR
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat: '33.282627'
-      long: "-111.089821"
-      closest_city:
-        name: Superior
-        distance:
-          value: 1.98
-          units: km
-    - region: AZ
-      exchange: '01408H'
-      name: Superstition
-      short_name: SUPERSTITI
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343555'
-      name: Superstition Apache Junction
-      short_name: SPSTNAPHJC
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343569'
-      name: Superstition Mountain
-      short_name: SUPERSTMTN
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343570'
-      name: Surprise
-      short_name: SURPRISE
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343571'
-      name: Tacna
-      short_name: TACNA
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343572'
-      name: Taylor
-      short_name: TAYLOR
-      lata: '666'
-      ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
-      lat:
-      long:
-    - region: AZ
-      exchange: '014450'
-      name: Teec Nos Pos
-      short_name: TEECNOSPOS
-      lata: '980'
-      ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
-      lat: '36.916285'
-      long: "-109.107256"
-      closest_city:
-        name: Teec Nos Pos
-        distance:
-          value: 2.91
-          units: km
-    - region: AZ
-      exchange: '01408I'
-      name: Tempe
-      short_name: TEMPE
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343574'
-      name: Temple Bar
-      short_name: TEMPLE BAR
-      lata: '666'
-      ilec_name: CITIZENS UTILITIES RURAL DBA FRONTIER UT RURAL
-      lat:
-      long:
-    - region: AZ
-      exchange: '343688'
-      name: Thatcher
-      short_name: THATCHER
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '01408J'
-      name: Tolleson
-      short_name: TOLLESON
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343576'
-      name: Toltec
-      short_name: TOLTEC
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '014460'
-      name: Tombstone
-      short_name: TOMBSTONE
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat: '31.716127'
-      long: "-110.065173"
-      closest_city:
-        name: Tombstone
-        distance:
-          value: 1.6
-          units: km
-    - region: AZ
-      exchange: '363395'
-      name: Tonalea
-      short_name: TONALEA
-      lata: '980'
-      ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
-      lat:
-      long:
-    - region: AZ
-      exchange: '343577'
-      name: Tonopah
-      short_name: TONOPAH
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '014470'
-      name: Tonto Basin
-      short_name: TONTOBASIN
-      lata: '666'
-      ilec_name: ARIZONA TEL. CO.
-      lat: '33.849712'
-      long: "-111.297833"
-      closest_city:
-        name: Tonto Basin
-        distance:
-          value: 1.43
-          units: km
-    - region: AZ
-      exchange: '014052'
-      name: Tonto Creek
-      short_name: TONTOCREEK
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343690'
-      name: Topawa
-      short_name: TOPAWA
-      lata: '668'
-      ilec_name: TOHONO O'ODHAM UTILITY AUTHORITY
-      lat:
-      long:
-    - region: AZ
-      exchange: '343579'
-      name: Topock
-      short_name: TOPOCK
-      lata: '666'
-      ilec_name: CITIZENS UTILITIES RURAL DBA FRONTIER UT RURAL
-      lat:
-      long:
-    - region: AZ
-      exchange: '343580'
-      name: Tortilla Flat
-      short_name: TORTIL FLT
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '014480'
-      name: Toyei
-      short_name: TOYEI
-      lata: '980'
-      ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
-      lat: '35.714761'
-      long: "-109.912631"
-      closest_city:
-        name: Toyei
-        distance:
-          value: 2.5
-          units: km
-    - region: AZ
-      exchange: '014061'
-      name: Truxton
-      short_name: TRUXTON
-      lata: '666'
-      ilec_name: CITIZENS UTILITIES RURAL DBA FRONTIER UT RURAL
-      lat:
-      long:
-    - region: AZ
-      exchange: '014490'
-      name: Tsaile
-      short_name: TSAILE
-      lata: '980'
-      ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
-      lat: '36.290317'
-      long: "-109.189956"
-      closest_city:
-        name: Sehili
-        distance:
-          value: 1.32
-          units: km
-    - region: AZ
-      exchange: '014500'
-      name: Tuba City
-      short_name: TUBA CITY
-      lata: '980'
-      ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
-      lat: '36.131938'
-      long: "-111.251535"
-      closest_city:
-        name: Tuba City
-        distance:
-          value: 0.89
-          units: km
-    - region: AZ
-      exchange: '014515'
-      name: Tubac
-      short_name: TUBAC
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat: '31.609251'
-      long: "-111.051292"
-      closest_city:
-        name: Tubac
-        distance:
-          value: 0.72
-          units: km
-    - region: AZ
-      exchange: '014510'
-      name: Tucson
-      short_name: TUCSON
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat: '32.228036'
-      long: "-110.966026"
-      closest_city:
-        name: South Tucson
-        distance:
-          value: 3.63
-          units: km
-    - region: AZ
-      exchange: '343693'
-      name: Tumacacori
-      short_name: TUMACACORI
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '014516'
-      name: Vail
-      short_name: VAIL
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat: '31.998956'
-      long: "-110.683759"
-      closest_city:
-        name: Vail
-        distance:
-          value: 2.7
-          units: km
-    - region: AZ
-      exchange: '343582'
-      name: Valentine
-      short_name: VALENTINE
-      lata: '666'
-      ilec_name: CITIZENS UTILITIES RURAL DBA FRONTIER UT RURAL
-      lat:
-      long:
-    - region: AZ
-      exchange: '343584'
-      name: Valley Farms
-      short_name: VLY FARMS
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343583'
-      name: Vernon
-      short_name: VERNON
-      lata: '666'
-      ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
-      lat:
-      long:
-    - region: AZ
-      exchange: '343585'
-      name: Waddell
-      short_name: WADDELL
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343586'
-      name: Wagoner
-      short_name: WAGONER
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343696'
-      name: Warren
-      short_name: WARREN
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '014520'
-      name: Wellton
-      short_name: WELLTON
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat: '32.666229'
-      long: "-114.13209"
-      closest_city:
-        name: Wellton Hills
-        distance:
-          value: 4.95
-          units: km
-    - region: AZ
-      exchange: '346230'
-      name: Wenden
-      short_name: WENDEN
-      lata: '730'
-      ilec_name: SOUTHWESTERN TEL. CO.
-      lat:
-      long:
-    - region: AZ
-      exchange: '014530'
-      name: West San Simon
-      short_name: W SANSIMON
-      lata: '668'
-      ilec_name: TOHONO O'ODHAM UTILITY AUTHORITY
-      lat: '32.18837'
-      long: "-112.399946"
-      closest_city:
-        name: Wahak Hotrontk
-        distance:
-          value: 3.5
-          units: km
-    - region: AZ
-      exchange: '343588'
-      name: White Hills
-      short_name: WHITE HILL
-      lata: '666'
-      ilec_name: CITIZENS UTILITIES RURAL DBA FRONTIER UT RURAL
-      lat:
-      long:
-    - region: AZ
-      exchange: '343591'
-      name: White Mountain Lake
-      short_name: WHT MTN LK
-      lata: '666'
-      ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
-      lat:
-      long:
-    - region: AZ
-      exchange: '014540'
-      name: Whiteriver
-      short_name: WHITERIVER
-      lata: '666'
-      ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
-      lat: '33.837594'
-      long: "-109.965788"
-      closest_city:
-        name: Whiteriver
-        distance:
-          value: 0.44
-          units: km
-    - region: AZ
-      exchange: '01408K'
-      name: Whitetanks
-      short_name: WHITETANKS
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '014550'
-      name: Whitlow
-      short_name: WHITLOW
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat: '33.281297'
-      long: "-111.370832"
-      closest_city:
-        name: Queen Valley
-        distance:
-          value: 6.13
-          units: km
-    - region: AZ
-      exchange: '343592'
-      name: Why
-      short_name: WHY
-      lata: '666'
-      ilec_name: TABLE TOP TELEPHONE COMPANY
-      lat:
-      long:
-    - region: AZ
-      exchange: '014560'
-      name: Wickenburg
-      short_name: WICKENBURG
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat: '34.097092'
-      long: "-112.742581"
-      closest_city:
-        name: Congress
-        distance:
-          value: 12.78
-          units: km
-    - region: AZ
-      exchange: '014570'
-      name: Wide Ruins
-      short_name: WIDE RUINS
-      lata: '980'
-      ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
-      lat: '35.418757'
-      long: "-109.488748"
-      closest_city:
-        name: Wide Ruins
-        distance:
-          value: 0.97
-          units: km
-    - region: AZ
-      exchange: '014580'
-      name: Wikieup
-      short_name: WIKIEUP
-      lata: '666'
-      ilec_name: CITIZENS UTILITIES RURAL DBA FRONTIER UT RURAL
-      lat: '34.731791'
-      long: "-113.600015"
-      closest_city:
-        name: Wikieup
-        distance:
-          value: 4.3
-          units: km
-    - region: AZ
-      exchange: '014590'
-      name: Willcox
-      short_name: WILLCOX
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat: '32.251855'
-      long: "-109.830894"
-      closest_city:
-        name: Willcox
-        distance:
-          value: 0.47
-          units: km
-    - region: AZ
-      exchange: '014600'
-      name: Williams
-      short_name: WILLIAMS
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat: '35.250331'
-      long: "-112.182951"
-      closest_city:
-        name: Williams
-        distance:
-          value: 0.31
-          units: km
-    - region: AZ
-      exchange: '343596'
-      name: Willow Beach
-      short_name: WILLOW BCH
-      lata: '666'
-      ilec_name: CITIZENS UTILITIES RURAL DBA FRONTIER UT RURAL
-      lat:
-      long:
-    - region: AZ
-      exchange: '014610'
-      name: Window Rock
-      short_name: WINDOWROCK
-      lata: '980'
-      ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
-      lat: '35.67685'
-      long: "-109.058973"
-      closest_city:
-        name: Window Rock
-        distance:
-          value: 0.83
-          units: km
-    - region: AZ
-      exchange: '343698'
-      name: Winkelman
-      short_name: WINKELMAN
-      lata: '668'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '014620'
-      name: Winslow
-      short_name: WINSLOW
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat: '34.990807'
-      long: "-110.519058"
-      closest_city:
-        name: Winslow West
-        distance:
-          value: 17.11
-          units: km
-    - region: AZ
-      exchange: '01408P'
-      name: Wintersburg
-      short_name: WINTERSBG
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343599'
-      name: Wittmann
-      short_name: WITTMANN
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '343600'
-      name: Woodruff
-      short_name: WOODRUFF
-      lata: '666'
-      ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
-      lat:
-      long:
-    - region: AZ
-      exchange: '014630'
-      name: Yarnell
-      short_name: YARNELL
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat: '34.225261'
-      long: "-112.74763"
-      closest_city:
-        name: Yarnell
-        distance:
-          value: 1.46
-          units: km
-    - region: AZ
-      exchange: '013431'
-      name: York Valley
-      short_name: YORKVALLEY
-      lata: '668'
-      ilec_name: COPPER VALLEY TELEPHONE, INC.
-      lat: '32.925357'
-      long: "-109.197828"
-      closest_city:
-        name: York
-        distance:
-          value: 0.89
-          units: km
-    - region: AZ
-      exchange: '014640'
-      name: Young
-      short_name: YOUNG
-      lata: '666'
-      ilec_name: MIDVALE TELEPHONE EXCHANGE, INC.
-      lat: '34.098627'
-      long: "-110.948271"
-      closest_city:
-        name: Young
-        distance:
-          value: 2.36
-          units: km
-    - region: AZ
-      exchange: '343603'
-      name: Youngtown
-      short_name: YOUNGTOWN
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
-    - region: AZ
-      exchange: '014650'
-      name: Yucca
-      short_name: YUCCA
-      lata: '666'
-      ilec_name: CITIZENS UTILITIES RURAL DBA FRONTIER UT RURAL
-      lat: '34.874944'
-      long: "-114.148592"
-      closest_city:
-        name: Yucca
-        distance:
-          value: 1.36
-          units: km
-    - region: AZ
-      exchange: '014660'
-      name: Yuma
-      short_name: YUMA
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat: '32.716302'
-      long: "-114.622933"
-      closest_city:
-        name: Avenue B and C
-        distance:
-          value: 3.46
-          units: km
-    - region: AZ
-      exchange: '343606'
-      name: Yuma Proving Ground
-      short_name: YUMA PR GR
-      lata: '666'
-      ilec_name: QWEST CORPORATION
-      lat:
-      long:
+- country: US
+  region: AZ
+  exchange: '014081'
+  name: Agua Fria
+  short_name: AGUA FRIA
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '013180'
+  name: Aguila
+  short_name: AGUILA
+  lata: '666'
+  ilec_name: TABLE TOP TELEPHONE COMPANY
+  lat: '33.942963'
+  long: "-113.17266"
+  closest_city:
+    name: Aguila
+    distance:
+      value: 0.82
+      units: km
+- country: US
+  region: AZ
+  exchange: '013190'
+  name: Ajo
+  short_name: AJO
+  lata: '666'
+  ilec_name: TABLE TOP TELEPHONE COMPANY
+  lat: '32.375405'
+  long: "-112.869018"
+  closest_city:
+    name: Ajo
+    distance:
+      value: 2.34
+      units: km
+- country: US
+  region: AZ
+  exchange: '013200'
+  name: Alpine
+  short_name: ALPINE
+  lata: '666'
+  ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
+  lat: '33.848148'
+  long: "-109.139466"
+  closest_city:
+    name: Alpine
+    distance:
+      value: 0.42
+      units: km
+- country: US
+  region: AZ
+  exchange: '343614'
+  name: Amado
+  short_name: AMADO
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343381'
+  name: Anthem
+  short_name: ANTHEM
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343382'
+  name: Apache Junction
+  short_name: APACHE JCT
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343615'
+  name: Arivaca
+  short_name: ARIVACA
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '013371'
+  name: Arizona City
+  short_name: ARIZONA CY
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '013210'
+  name: Arizona Village
+  short_name: AZ VILLAGE
+  lata: '666'
+  ilec_name: FORT MOJAVE TELECOM INC
+  lat: '34.851993'
+  long: "-114.585809"
+  closest_city:
+    name: Arizona Village
+    distance:
+      value: 0.44
+      units: km
+- country: US
+  region: AZ
+  exchange: '343384'
+  name: Arlington
+  short_name: ARLINGTON
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '013220'
+  name: Ash Fork
+  short_name: ASH FORK
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat: '35.224139'
+  long: "-112.482493"
+  closest_city:
+    name: Ash Fork
+    distance:
+      value: 1.12
+      units: km
+- country: US
+  region: AZ
+  exchange: '343386'
+  name: Avondale
+  short_name: AVONDALE
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '013230'
+  name: Bagdad
+  short_name: BAGDAD
+  lata: '666'
+  ilec_name: TABLE TOP TELEPHONE COMPANY
+  lat: '34.584338'
+  long: "-113.207095"
+  closest_city:
+    name: Bagdad
+    distance:
+      value: 2.86
+      units: km
+- country: US
+  region: AZ
+  exchange: '343389'
+  name: Bapchule
+  short_name: BAPCHULE
+  lata: '666'
+  ilec_name: GILA RIVER TELECOMM, INC.
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014082'
+  name: Beardsley
+  short_name: BEARDSLEY
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '013862'
+  name: Beaver Dam
+  short_name: BEAVER DAM
+  lata: '660'
+  ilec_name: RIO VIRGIN TEL. CO., INC.
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343391'
+  name: Bellemont
+  short_name: BELLEMONT
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343392'
+  name: Bensch Ranch
+  short_name: BENSCH RCH
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '013240'
+  name: Benson
+  short_name: BENSON
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat: '31.975124'
+  long: "-110.29752"
+  closest_city:
+    name: Benson
+    distance:
+      value: 7.12
+      units: km
+- country: US
+  region: AZ
+  exchange: '013250'
+  name: Bisbee
+  short_name: BISBEE
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat: '31.440962'
+  long: "-109.916305"
+  closest_city:
+    name: Bisbee
+    distance:
+      value: 3.16
+      units: km
+- country: US
+  region: AZ
+  exchange: '014083'
+  name: Black Canyon
+  short_name: BLACK CANY
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343393'
+  name: Black Canyon City
+  short_name: BLACKCNYON
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '013260'
+  name: Black Mesa
+  short_name: BLACK MESA
+  lata: '980'
+  ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
+  lat: '36.488982'
+  long: "-110.393139"
+  closest_city:
+    name: Shonto
+    distance:
+      value: 26.38
+      units: km
+- country: US
+  region: AZ
+  exchange: '013861'
+  name: Black Rock
+  short_name: BLACK ROCK
+  lata: '660'
+  ilec_name: RIO VIRGIN TEL. CO., INC.
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '013270'
+  name: Blackwater
+  short_name: BLACKWATER
+  lata: '666'
+  ilec_name: GILA RIVER TELECOMM, INC.
+  lat: '33.022537'
+  long: "-111.573346"
+  closest_city:
+    name: Blackwater
+    distance:
+      value: 1.99
+      units: km
+- country: US
+  region: AZ
+  exchange: '343395'
+  name: Blue
+  short_name: BLUE
+  lata: '666'
+  ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343396'
+  name: Blue Gap
+  short_name: BLUE GAP
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '013280'
+  name: Blue Ridge
+  short_name: BLUE RIDGE
+  lata: '666'
+  ilec_name: ARIZONA TEL. CO.
+  lat: '34.599588'
+  long: "-111.183545"
+  closest_city:
+    name: Blue Ridge
+    distance:
+      value: 8.34
+      units: km
+- country: US
+  region: AZ
+  exchange: '013290'
+  name: Bonita
+  short_name: BONITA
+  lata: '668'
+  ilec_name: VALLEY TEL COOP INC
+  lat: '32.584048'
+  long: "-109.980914"
+  closest_city:
+    name: Swift Trail Junction
+    distance:
+      value: 29.76
+      units: km
+- country: US
+  region: AZ
+  exchange: '013300'
+  name: Bouse
+  short_name: BOUSE
+  lata: '730'
+  ilec_name: FRONTIER COMMUNICATIONS OF THE SOUTHWEST INC. - AZ
+  lat: '33.931858'
+  long: "-114.007838"
+  closest_city:
+    name: Bouse
+    distance:
+      value: 3.87
+      units: km
+- country: US
+  region: AZ
+  exchange: '013310'
+  name: Bowie
+  short_name: BOWIE
+  lata: '668'
+  ilec_name: VALLEY TEL COOP INC
+  lat: '32.324827'
+  long: "-109.48538"
+  closest_city:
+    name: Bowie
+    distance:
+      value: 0.1
+      units: km
+- country: US
+  region: AZ
+  exchange: '014084'
+  name: Buckeye
+  short_name: BUCKEYE
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '013320'
+  name: Bullhead City
+  short_name: BULLHEADCY
+  lata: '666'
+  ilec_name: CITIZENS UTILITIES RURAL DBA FRONTIER UT RURAL
+  lat: '35.102011'
+  long: "-114.626803"
+  closest_city:
+    name: Bullhead City
+    distance:
+      value: 7.62
+      units: km
+- country: US
+  region: AZ
+  exchange: '013330'
+  name: Bullhead City North
+  short_name: BULLHDCYN
+  lata: '666'
+  ilec_name: CITIZENS UTILITIES RURAL DBA FRONTIER UT RURAL
+  lat: '35.156398'
+  long: "-114.556522"
+  closest_city:
+    name: Bullhead City
+    distance:
+      value: 4.1
+      units: km
+- country: US
+  region: AZ
+  exchange: '013781'
+  name: Butler
+  short_name: BUTLER
+  lata: '666'
+  ilec_name: CITIZENS UTILITIES RURAL DBA FRONTIER UT RURAL
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343620'
+  name: Bylas
+  short_name: BYLAS
+  lata: '668'
+  ilec_name: SAN CARLOS APACHE TELECOMMUNICATIONS UTILITY, INC.
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '013340'
+  name: Cameron
+  short_name: CAMERON
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat: '35.610618'
+  long: "-111.523448"
+  closest_city:
+    name: Cameron
+    distance:
+      value: 28.4
+      units: km
+- country: US
+  region: AZ
+  exchange: '013350'
+  name: Camp Verde
+  short_name: CAMP VERDE
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat: '34.565323'
+  long: "-111.848519"
+  closest_city:
+    name: Camp Verde
+    distance:
+      value: 0.8
+      units: km
+- country: US
+  region: AZ
+  exchange: '343403'
+  name: Carefree
+  short_name: CAREFREE
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '013360'
+  name: Casa Blanca
+  short_name: CASABLANCA
+  lata: '666'
+  ilec_name: GILA RIVER TELECOMM, INC.
+  lat: '33.121036'
+  long: "-111.886685"
+  closest_city:
+    name: Casa Blanca
+    distance:
+      value: 2.09
+      units: km
+- country: US
+  region: AZ
+  exchange: '013370'
+  name: Casa Grande
+  short_name: CASAGRANDE
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat: '32.934139'
+  long: "-111.654226"
+  closest_city:
+    name: Casa Grande
+    distance:
+      value: 10.54
+      units: km
+- country: US
+  region: AZ
+  exchange: '013380'
+  name: Cascabel
+  short_name: CASCABEL
+  lata: '668'
+  ilec_name: MIDVALE TELEPHONE EXCHANGE, INC.
+  lat: '32.293455'
+  long: "-110.385835"
+  closest_city:
+    name: Willow Canyon
+    distance:
+      value: 31.42
+      units: km
+- country: US
+  region: AZ
+  exchange: '343406'
+  name: Cashion
+  short_name: CASHION
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '013390'
+  name: Castle Rock
+  short_name: CASTLEROCK
+  lata: '666'
+  ilec_name: CITIZENS UTILITIES RURAL DBA FRONTIER UT RURAL
+  lat: '34.555796'
+  long: "-114.347389"
+  closest_city:
+    name: Desert Hills
+    distance:
+      value: 2.63
+      units: km
+- country: US
+  region: AZ
+  exchange: '343622'
+  name: Catalina
+  short_name: CATALINA
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014085'
+  name: Cave Creek
+  short_name: CAVE CREEK
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343623'
+  name: Central
+  short_name: CENTRAL
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343409'
+  name: Chambers
+  short_name: CHAMBERS
+  lata: '666'
+  ilec_name: TABLE TOP TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014086'
+  name: Chandler
+  short_name: CHANDLER
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343413'
+  name: Chandler Heights
+  short_name: CHNDLR HGT
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '013400'
+  name: Chinle
+  short_name: CHINLE
+  lata: '980'
+  ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
+  lat: '36.155663'
+  long: "-109.554313"
+  closest_city:
+    name: Chinle
+    distance:
+      value: 2.32
+      units: km
+- country: US
+  region: AZ
+  exchange: '013410'
+  name: Chino Valley
+  short_name: CHINO VLY
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat: '34.748291'
+  long: "-112.458242"
+  closest_city:
+    name: Chino Valley
+    distance:
+      value: 4.4
+      units: km
+- country: US
+  region: AZ
+  exchange: '343412'
+  name: Chloride
+  short_name: CHLORIDE
+  lata: '666'
+  ilec_name: CITIZENS UTILITIES RURAL DBA FRONTIER UT RURAL
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343414'
+  name: Cibecue
+  short_name: CIBECUE
+  lata: '666'
+  ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '013420'
+  name: Cibola
+  short_name: CIBOLA
+  lata: '730'
+  ilec_name: FRONTIER COMMUNICATIONS OF THE SOUTHWEST INC. - AZ
+  lat: '33.432551'
+  long: "-114.730724"
+  closest_city:
+    name: Cibola
+    distance:
+      value: 8.14
+      units: km
+- country: US
+  region: AZ
+  exchange: '014087'
+  name: Circle City
+  short_name: CIRCLECITY
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343416'
+  name: Clarkdale
+  short_name: CLARKDALE
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343417'
+  name: Clay Springs
+  short_name: CLAY SPG
+  lata: '666'
+  ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343624'
+  name: Claypool
+  short_name: CLAYPOOL
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '013430'
+  name: Clifton
+  short_name: CLIFTON
+  lata: '668'
+  ilec_name: COPPER VALLEY TELEPHONE, INC.
+  lat: '33.034605'
+  long: "-109.326743"
+  closest_city:
+    name: Morenci
+    distance:
+      value: 2.18
+      units: km
+- country: US
+  region: AZ
+  exchange: '343626'
+  name: Cochise
+  short_name: COCHISE
+  lata: '668'
+  ilec_name: VALLEY TEL COOP INC
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '013440'
+  name: Colorado City
+  short_name: COLORADOCY
+  lata: '660'
+  ilec_name: SOUTH CENTRAL UTAH TEL. ASSN., INC.
+  lat: '36.990522'
+  long: "-112.977924"
+  closest_city:
+    name: Colorado City
+    distance:
+      value: 1.67
+      units: km
+- country: US
+  region: AZ
+  exchange: '343418'
+  name: Concho
+  short_name: CONCHO
+  lata: '666'
+  ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343419'
+  name: Congress
+  short_name: CONGRESS
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '013450'
+  name: Coolidge
+  short_name: COOLIDGE
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat: '32.975252'
+  long: "-111.525284"
+  closest_city:
+    name: Coolidge
+    distance:
+      value: 4.33
+      units: km
+- country: US
+  region: AZ
+  exchange: '343421'
+  name: Cordes Lakes
+  short_name: CORDES LK
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343422'
+  name: Cornville
+  short_name: CORNVILLE
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343628'
+  name: Corona
+  short_name: CORONA
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343630'
+  name: Corona de Tucson
+  short_name: CORONATCSN
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014511'
+  name: Coronado
+  short_name: CORONADO
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat: '32.558016'
+  long: "-110.931221"
+  closest_city:
+    name: Saddlebrooke
+    distance:
+      value: 5.36
+      units: km
+- country: US
+  region: AZ
+  exchange: '343631'
+  name: Cortaro
+  short_name: CORTARO
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '013460'
+  name: Cottonwood
+  short_name: COTTONWOOD
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat: '34.742813'
+  long: "-112.015281"
+  closest_city:
+    name: Cottonwood
+    distance:
+      value: 2.88
+      units: km
+- country: US
+  region: AZ
+  exchange: '343425'
+  name: Crown King
+  short_name: CROWN KING
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343426'
+  name: Dateland
+  short_name: DATELAND
+  lata: '666'
+  ilec_name: ARIZONA TEL. CO.
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343636'
+  name: Davis Monthan Air Force Base
+  short_name: DVMNTHNAFB
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014088'
+  name: Deer Valley
+  short_name: DEERVALLEY
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '013470'
+  name: Dennehotso
+  short_name: DENNEHOTSO
+  lata: '980'
+  ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
+  lat: '36.842723'
+  long: "-109.850157"
+  closest_city:
+    name: Dennehotso
+    distance:
+      value: 3.55
+      units: km
+- country: US
+  region: AZ
+  exchange: '343428'
+  name: Desert Hills
+  short_name: DESERT HLS
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '408964'
+  name: Dewey
+  short_name: DEWEY
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '219391'
+  name: Dewey
+  short_name: DEWEY
+  lata: '666'
+  ilec_name: MIDVALE TELEPHONE EXCHANGE, INC.
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '013480'
+  name: Dilcon
+  short_name: DILKON
+  lata: '980'
+  ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
+  lat: '35.374314'
+  long: "-110.32323"
+  closest_city:
+    name: Dilkon
+    distance:
+      value: 1.68
+      units: km
+- country: US
+  region: AZ
+  exchange: '013821'
+  name: Dolan Springs
+  short_name: DOLAN SPGS
+  lata: '666'
+  ilec_name: CITIZENS UTILITIES RURAL DBA FRONTIER UT RURAL
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '013490'
+  name: Douglas
+  short_name: DOUGLAS
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat: '31.349352'
+  long: "-109.541709"
+  closest_city:
+    name: Douglas
+    distance:
+      value: 1.23
+      units: km
+- country: US
+  region: AZ
+  exchange: '343633'
+  name: Dragoon
+  short_name: DRAGOON
+  lata: '668'
+  ilec_name: VALLEY TEL COOP INC
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '013691'
+  name: Dudleyville
+  short_name: DUDLEYVL
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '013500'
+  name: Duncan
+  short_name: DUNCAN
+  lata: '668'
+  ilec_name: COPPER VALLEY TELEPHONE, INC.
+  lat: '32.726605'
+  long: "-109.097371"
+  closest_city:
+    name: Duncan
+    distance:
+      value: 0.87
+      units: km
+- country: US
+  region: AZ
+  exchange: '343431'
+  name: Eagar
+  short_name: EAGAR
+  lata: '666'
+  ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '013510'
+  name: East Kingman
+  short_name: E KINGMAN
+  lata: '666'
+  ilec_name: CITIZENS UTILITIES RURAL DBA FRONTIER UT RURAL
+  lat: '35.254206'
+  long: "-114.001716"
+  closest_city:
+    name: New Kingman-Butler
+    distance:
+      value: 1.33
+      units: km
+- country: US
+  region: AZ
+  exchange: '343637'
+  name: Eden
+  short_name: EDEN
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '013520'
+  name: Ehrenberg
+  short_name: EHRENBERG
+  lata: '730'
+  ilec_name: FRONTIER COMMUNICATIONS OF THE SOUTHWEST INC. - AZ
+  lat: '33.600822'
+  long: "-114.527576"
+  closest_city:
+    name: Ehrenberg
+    distance:
+      value: 4.08
+      units: km
+- country: US
+  region: AZ
+  exchange: '343432'
+  name: El Mirage
+  short_name: EL MIRAGE
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343433'
+  name: Eleven Mile
+  short_name: ELEVEN ML
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343435'
+  name: Eleven Mile Corner
+  short_name: ELVN ML CR
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '013530'
+  name: Elfrida
+  short_name: ELFRIDA
+  lata: '668'
+  ilec_name: COPPER VALLEY TELEPHONE, INC.
+  lat: '31.674317'
+  long: "-109.674137"
+  closest_city:
+    name: Elfrida
+    distance:
+      value: 1.35
+      units: km
+- country: US
+  region: AZ
+  exchange: '343639'
+  name: Elgin
+  short_name: ELGIN
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '013540'
+  name: Eloy
+  short_name: ELOY
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat: '32.748144'
+  long: "-111.550678"
+  closest_city:
+    name: Eloy
+    distance:
+      value: 4.54
+      units: km
+- country: US
+  region: AZ
+  exchange: '013550'
+  name: Flagstaff
+  short_name: FLAGSTAFF
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat: '35.204231'
+  long: "-111.650839"
+  closest_city:
+    name: Flagstaff
+    distance:
+      value: 3.43
+      units: km
+- country: US
+  region: AZ
+  exchange: '013560'
+  name: Florence
+  short_name: FLORENCE
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat: '33.023109'
+  long: "-111.383064"
+  closest_city:
+    name: Florence
+    distance:
+      value: 5.33
+      units: km
+- country: US
+  region: AZ
+  exchange: '343438'
+  name: Florence Junction
+  short_name: FLORENCJCT
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343439'
+  name: Forest Lakes
+  short_name: FOREST LKS
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343441'
+  name: Fort Apache
+  short_name: FT APACHE
+  lata: '666'
+  ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '013570'
+  name: Fort Defiance
+  short_name: FTDEFIANCE
+  lata: '980'
+  ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
+  lat: '35.748554'
+  long: "-109.0826"
+  closest_city:
+    name: Fort Defiance
+    distance:
+      value: 1.38
+      units: km
+- country: US
+  region: AZ
+  exchange: '343641'
+  name: Fort Huachuca
+  short_name: FTHUACHUCA
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '01408M'
+  name: Fort McDowell
+  short_name: FTMCDOWELL
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343442'
+  name: Fort Mohave
+  short_name: FT MOHAVE
+  lata: '666'
+  ilec_name: CITIZENS UTILITIES RURAL DBA FRONTIER UT RURAL
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343640'
+  name: Fort Thomas
+  short_name: FORTTHOMAS
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343440'
+  name: Fountain Hills
+  short_name: FOUNTAINHL
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '013580'
+  name: Fredonia
+  short_name: FREDONIA
+  lata: '660'
+  ilec_name: SOUTH CENTRAL UTAH TEL. ASSN., INC.
+  lat: '36.951192'
+  long: "-112.525971"
+  closest_city:
+    name: Fredonia
+    distance:
+      value: 1.3
+      units: km
+- country: US
+  region: AZ
+  exchange: '343444'
+  name: Gadsden
+  short_name: GADSDEN
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '013590'
+  name: Ganado
+  short_name: GANADO
+  lata: '980'
+  ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
+  lat: '35.715131'
+  long: "-109.540895"
+  closest_city:
+    name: Ganado
+    distance:
+      value: 1.73
+      units: km
+- country: US
+  region: AZ
+  exchange: '013600'
+  name: Gila Bend
+  short_name: GILA BEND
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat: '32.941807'
+  long: "-112.71714"
+  closest_city:
+    name: Gila Bend
+    distance:
+      value: 2.72
+      units: km
+- country: US
+  region: AZ
+  exchange: '343446'
+  name: Gilbert
+  short_name: GILBERT
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014089'
+  name: Glendale
+  short_name: GLENDALE
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '013610'
+  name: Globe
+  short_name: GLOBE
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat: '33.397009'
+  long: "-110.831668"
+  closest_city:
+    name: Claypool
+    distance:
+      value: 1.41
+      units: km
+- country: US
+  region: AZ
+  exchange: '343448'
+  name: Gold Canyon
+  short_name: GOLDCANYON
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '013620'
+  name: Golden Valley
+  short_name: GOLDEN VLY
+  lata: '666'
+  ilec_name: CITIZENS UTILITIES RURAL DBA FRONTIER UT RURAL
+  lat: '35.232459'
+  long: "-114.155622"
+  closest_city:
+    name: So-Hi
+    distance:
+      value: 2.59
+      units: km
+- country: US
+  region: AZ
+  exchange: '01408A'
+  name: Goodyear
+  short_name: GOODYEAR
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '013630'
+  name: Grand Canyon
+  short_name: GRANDCNYON
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat: '36.059218'
+  long: "-112.142853"
+  closest_city:
+    name: Grand Canyon Village
+    distance:
+      value: 2.19
+      units: km
+- country: US
+  region: AZ
+  exchange: '219380'
+  name: Granite Mountain
+  short_name: GRANITE MT
+  lata: '666'
+  ilec_name: MIDVALE TELEPHONE EXCHANGE, INC.
+  lat: '33.770724'
+  long: "-111.771802"
+  closest_city:
+    name: Rio Verde
+    distance:
+      value: 10.22
+      units: km
+- country: US
+  region: AZ
+  exchange: '343452'
+  name: Gray Mountain
+  short_name: GRAY MTN
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '013640'
+  name: Greasewood
+  short_name: GREASEWOOD
+  lata: '980'
+  ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
+  lat: '35.522623'
+  long: "-109.855928"
+  closest_city:
+    name: Greasewood
+    distance:
+      value: 0.77
+      units: km
+- country: US
+  region: AZ
+  exchange: '363377'
+  name: Greasewood Springs
+  short_name: GRSEWD SPG
+  lata: '980'
+  ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014512'
+  name: Green Valley
+  short_name: GREEN VLY
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat: '31.882465'
+  long: "-110.994305"
+  closest_city:
+    name: Green Valley
+    distance:
+      value: 4.84
+      units: km
+- country: US
+  region: AZ
+  exchange: '013650'
+  name: Greenehaven
+  short_name: GREENEHVN
+  lata: '666'
+  ilec_name: ARIZONA TEL. CO.
+  lat: '37.002053'
+  long: "-111.561388"
+  closest_city:
+    name: Greenehaven
+    distance:
+      value: 0.81
+      units: km
+- country: US
+  region: AZ
+  exchange: '013660'
+  name: Greer
+  short_name: GREER
+  lata: '666'
+  ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
+  lat: '34.018419'
+  long: "-109.444326"
+  closest_city:
+    name: Greer
+    distance:
+      value: 2.12
+      units: km
+- country: US
+  region: AZ
+  exchange: '343455'
+  name: Groom Creek
+  short_name: GROOM CRK
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343456'
+  name: Guadalupe
+  short_name: GUADALUPE
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343457'
+  name: Hackberry
+  short_name: HACKBERRY
+  lata: '666'
+  ilec_name: CITIZENS UTILITIES RURAL DBA FRONTIER UT RURAL
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343458'
+  name: Happy Jack
+  short_name: HAPPY JACK
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '013670'
+  name: Harquahala Valley
+  short_name: HARQUHLVLY
+  lata: '666'
+  ilec_name: ARIZONA TEL. CO.
+  lat: '33.44498'
+  long: "-113.152457"
+  closest_city:
+    name: Tonopah
+    distance:
+      value: 21.11
+      units: km
+- country: US
+  region: AZ
+  exchange: '013680'
+  name: Hawley Lake
+  short_name: HAWLEYLAKE
+  lata: '666'
+  ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
+  lat: '33.97864'
+  long: "-109.752326"
+  closest_city:
+    name: McNary
+    distance:
+      value: 15.74
+      units: km
+- country: US
+  region: AZ
+  exchange: '013690'
+  name: Hayden
+  short_name: HAYDEN
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat: '33.007442'
+  long: "-110.783121"
+  closest_city:
+    name: Hayden
+    distance:
+      value: 0.9
+      units: km
+- country: US
+  region: AZ
+  exchange: '013700'
+  name: Heber
+  short_name: HEBER
+  lata: '666'
+  ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
+  lat: '34.423633'
+  long: "-110.602294"
+  closest_city:
+    name: Heber-Overgaard
+    distance:
+      value: 3.18
+      units: km
+- country: US
+  region: AZ
+  exchange: '343645'
+  name: Hereford
+  short_name: HEREFORD
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '01408B'
+  name: Higley
+  short_name: HIGLEY
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '013710'
+  name: Holbrook
+  short_name: HOLBROOK
+  lata: '666'
+  ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
+  lat: '34.899066'
+  long: "-110.156317"
+  closest_city:
+    name: Holbrook
+    distance:
+      value: 1.16
+      units: km
+- country: US
+  region: AZ
+  exchange: '343464'
+  name: Hotevilla
+  short_name: HOTEVILLA
+  lata: '666'
+  ilec_name: HOPI TELECOMMUNICATIONS INCORPORATED - AZ
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343465'
+  name: Houck
+  short_name: HOUCK
+  lata: '666'
+  ilec_name: TABLE TOP TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343646'
+  name: Huachuca City
+  short_name: HUACHUCACY
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343466'
+  name: Hualapai
+  short_name: HUALAPAI
+  lata: '666'
+  ilec_name: CITIZENS UTILITIES RURAL DBA FRONTIER UT RURAL
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '013720'
+  name: Humboldt
+  short_name: HUMBOLDT
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat: '34.499262'
+  long: "-112.230836"
+  closest_city:
+    name: Dewey-Humboldt
+    distance:
+      value: 2.65
+      units: km
+- country: US
+  region: AZ
+  exchange: '013730'
+  name: Hyder
+  short_name: HYDER
+  lata: '666'
+  ilec_name: ARIZONA TEL. CO.
+  lat: '33.018386'
+  long: "-113.348182"
+  closest_city:
+    name: Aztec
+    distance:
+      value: 24.98
+      units: km
+- country: US
+  region: AZ
+  exchange: '343470'
+  name: Indian Wells
+  short_name: INDIANWLLS
+  lata: '666'
+  ilec_name: HOPI TELECOMMUNICATIONS INCORPORATED - AZ
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014164'
+  name: Inscription Canyon
+  short_name: INCRPTCNYN
+  lata: '666'
+  ilec_name: TABLE TOP TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343647'
+  name: Inspiration
+  short_name: INSPIRTION
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343471'
+  name: Iron Springs
+  short_name: IRON SPGS
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '342521'
+  name: Jacob Lake
+  short_name: JACOB LAKE
+  lata: '660'
+  ilec_name: SOUTH CENTRAL UTAH TEL. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343472'
+  name: Jerome
+  short_name: JEROME
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '013740'
+  name: Joseph City
+  short_name: JOSEPHCITY
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat: '34.958527'
+  long: "-110.333531"
+  closest_city:
+    name: Joseph City
+    distance:
+      value: 0.64
+      units: km
+- country: US
+  region: AZ
+  exchange: '363378'
+  name: Kaibeto
+  short_name: KAIBETO
+  lata: '980'
+  ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '013750'
+  name: Kaibito
+  short_name: KAIBITO
+  lata: '980'
+  ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
+  lat: '36.595645'
+  long: "-111.075385"
+  closest_city:
+    name: Kaibito
+    distance:
+      value: 2.86
+      units: km
+- country: US
+  region: AZ
+  exchange: '013760'
+  name: Kayenta
+  short_name: KAYENTA
+  lata: '980'
+  ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
+  lat: '36.723452'
+  long: "-110.257425"
+  closest_city:
+    name: Kayenta
+    distance:
+      value: 1.02
+      units: km
+- country: US
+  region: AZ
+  exchange: '013770'
+  name: Keams Canyon
+  short_name: KEAMSCNYON
+  lata: '666'
+  ilec_name: HOPI TELECOMMUNICATIONS INCORPORATED - AZ
+  lat: '35.817615'
+  long: "-110.188804"
+  closest_city:
+    name: Keams Canyon
+    distance:
+      value: 1.25
+      units: km
+- country: US
+  region: AZ
+  exchange: '013692'
+  name: Kearny
+  short_name: KEARNY
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '013780'
+  name: Kingman
+  short_name: KINGMAN
+  lata: '666'
+  ilec_name: CITIZENS UTILITIES RURAL DBA FRONTIER UT RURAL
+  lat: '35.192042'
+  long: "-114.051674"
+  closest_city:
+    name: Clacks Canyon
+    distance:
+      value: 3.66
+      units: km
+- country: US
+  region: AZ
+  exchange: '343476'
+  name: Kirkland
+  short_name: KIRKLAND
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '013790'
+  name: Komatke
+  short_name: KOMATKE
+  lata: '666'
+  ilec_name: GILA RIVER TELECOMM, INC.
+  lat: '33.290917'
+  long: "-112.15844"
+  closest_city:
+    name: Komatke
+    distance:
+      value: 0.56
+      units: km
+- country: US
+  region: AZ
+  exchange: '013800'
+  name: Kykotsmovi Village
+  short_name: KYKTSMOVLG
+  lata: '666'
+  ilec_name: HOPI TELECOMMUNICATIONS INCORPORATED - AZ
+  lat: '35.873749'
+  long: "-110.618896"
+  closest_city:
+    name: Kykotsmovi Village
+    distance:
+      value: 2.24
+      units: km
+- country: US
+  region: AZ
+  exchange: '013810'
+  name: Lake Havasu City
+  short_name: LKHAVASUCY
+  lata: '666'
+  ilec_name: CITIZENS UTILITIES RURAL DBA FRONTIER UT RURAL
+  lat: '34.460302'
+  long: "-114.365467"
+  closest_city:
+    name: Lake Havasu City
+    distance:
+      value: 6.69
+      units: km
+- country: US
+  region: AZ
+  exchange: '013820'
+  name: Lake Mohave Ranchos
+  short_name: LKMHVRNCHS
+  lata: '666'
+  ilec_name: CITIZENS UTILITIES RURAL DBA FRONTIER UT RURAL
+  lat: '35.601405'
+  long: "-114.263453"
+  closest_city:
+    name: Dolan Springs
+    distance:
+      value: 2.3
+      units: km
+- country: US
+  region: AZ
+  exchange: '343483'
+  name: Lake Montezuma
+  short_name: LK MONTZUM
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '013830'
+  name: Lake Pleasant
+  short_name: LKPLEASANT
+  lata: '666'
+  ilec_name: ACCIPITER COMMUNICATIONS INC
+  lat: '33.846977'
+  long: "-112.252235"
+  closest_city:
+    name: Peoria
+    distance:
+      value: 8.19
+      units: km
+- country: US
+  region: AZ
+  exchange: '343479'
+  name: Lakeside
+  short_name: LAKESIDE
+  lata: '666'
+  ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343480'
+  name: Laveen
+  short_name: LAVEEN
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '013840'
+  name: Le Chee
+  short_name: LE CHEE
+  lata: '980'
+  ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
+  lat: '36.85239'
+  long: "-111.440082"
+  closest_city:
+    name: LeChee
+    distance:
+      value: 2.17
+      units: km
+- country: US
+  region: AZ
+  exchange: '013850'
+  name: Leupp
+  short_name: LEUPP
+  lata: '980'
+  ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
+  lat: '35.298847'
+  long: "-111.00278"
+  closest_city:
+    name: Leupp
+    distance:
+      value: 0.25
+      units: km
+- country: US
+  region: AZ
+  exchange: '343481'
+  name: Liberty
+  short_name: LIBERTY
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '01408N'
+  name: Litchfield Park
+  short_name: LITCHFLDPK
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '013860'
+  name: Littlefield
+  short_name: LITTLEFLD
+  lata: '660'
+  ilec_name: RIO VIRGIN TEL. CO., INC.
+  lat: '36.810467'
+  long: "-113.941768"
+  closest_city:
+    name: Littlefield
+    distance:
+      value: 6.19
+      units: km
+- country: US
+  region: AZ
+  exchange: '013870'
+  name: Lone Butte
+  short_name: LONE BUTTE
+  lata: '666'
+  ilec_name: GILA RIVER TELECOMM, INC.
+  lat: '33.287053'
+  long: "-111.963477"
+  closest_city:
+    name: Guadalupe
+    distance:
+      value: 8.83
+      units: km
+- country: US
+  region: AZ
+  exchange: '013880'
+  name: Lukachukai
+  short_name: LUKACHUKAI
+  lata: '980'
+  ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
+  lat: '36.412395'
+  long: "-109.250724"
+  closest_city:
+    name: Lukachukai
+    distance:
+      value: 2.15
+      units: km
+- country: US
+  region: AZ
+  exchange: '343488'
+  name: Luke Air Force Base
+  short_name: LUKE AFB
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343489'
+  name: Lukeville
+  short_name: LUKEVILLE
+  lata: '666'
+  ilec_name: TABLE TOP TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343490'
+  name: Lupton
+  short_name: LUPTON
+  lata: '666'
+  ilec_name: TABLE TOP TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343649'
+  name: Madera Canyon
+  short_name: MADERA CYN
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014261'
+  name: Mammoth
+  short_name: MAMMOTH
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '013890'
+  name: Many Farms
+  short_name: MANY FARMS
+  lata: '980'
+  ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
+  lat: '36.354653'
+  long: "-109.620639"
+  closest_city:
+    name: Many Farms
+    distance:
+      value: 0.6
+      units: km
+- country: US
+  region: AZ
+  exchange: '014513'
+  name: Marana
+  short_name: MARANA
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat: '32.457843'
+  long: "-111.21059"
+  closest_city:
+    name: Marana
+    distance:
+      value: 5.71
+      units: km
+- country: US
+  region: AZ
+  exchange: '013900'
+  name: Marble Canyon
+  short_name: MARBLECNYN
+  lata: '666'
+  ilec_name: ARIZONA TEL. CO.
+  lat: '36.818578'
+  long: "-111.64326"
+  closest_city:
+    name: Page
+    distance:
+      value: 18.35
+      units: km
+- country: US
+  region: AZ
+  exchange: '013910'
+  name: Maricopa
+  short_name: MARICOPA
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat: '33.048626'
+  long: "-112.052164"
+  closest_city:
+    name: Ak-Chin Village
+    distance:
+      value: 4.18
+      units: km
+- country: US
+  region: AZ
+  exchange: '013920'
+  name: Maricopa Village
+  short_name: MARCOPAVLG
+  lata: '666'
+  ilec_name: GILA RIVER TELECOMM, INC.
+  lat: '33.37432'
+  long: "-112.225063"
+  closest_city:
+    name: Maricopa Colony
+    distance:
+      value: 1.31
+      units: km
+- country: US
+  region: AZ
+  exchange: '343494'
+  name: Martinez Lake
+  short_name: MARTINZ LK
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014161'
+  name: Mayer
+  short_name: MAYER
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '013930'
+  name: McNary
+  short_name: MCNARY
+  lata: '666'
+  ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
+  lat: '34.065834'
+  long: "-109.850609"
+  closest_city:
+    name: McNary
+    distance:
+      value: 2.96
+      units: km
+- country: US
+  region: AZ
+  exchange: '343652'
+  name: McNeal
+  short_name: MCNEAL
+  lata: '668'
+  ilec_name: COPPER VALLEY TELEPHONE, INC.
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '013940'
+  name: Meadview
+  short_name: MEADVIEW
+  lata: '666'
+  ilec_name: CITIZENS UTILITIES RURAL DBA FRONTIER UT RURAL
+  lat: '36.002525'
+  long: "-114.076624"
+  closest_city:
+    name: Meadview
+    distance:
+      value: 5.49
+      units: km
+- country: US
+  region: AZ
+  exchange: '013701'
+  name: Merzville
+  short_name: MERZVILLE
+  lata: '666'
+  ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '01408O'
+  name: Mesa
+  short_name: MESA
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '013950'
+  name: Mesquite Creek
+  short_name: MESQUITCRK
+  lata: '666'
+  ilec_name: FORT MOJAVE TELECOM INC
+  lat: '34.961893'
+  long: "-114.570179"
+  closest_city:
+    name: Mesquite Creek
+    distance:
+      value: 0.17
+      units: km
+- country: US
+  region: AZ
+  exchange: '013960'
+  name: Miami
+  short_name: MIAMI
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat: '33.401069'
+  long: "-110.875487"
+  closest_city:
+    name: Miami
+    distance:
+      value: 0.72
+      units: km
+- country: US
+  region: AZ
+  exchange: '219390'
+  name: Millsite
+  short_name: MILLSITE
+  lata: '666'
+  ilec_name: MIDVALE TELEPHONE EXCHANGE, INC.
+  lat: '34.433591'
+  long: "-112.413533"
+  closest_city:
+    name: Mayer
+    distance:
+      value: 15.88
+      units: km
+- country: US
+  region: AZ
+  exchange: '343501'
+  name: Mobile
+  short_name: MOBILE
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '342523'
+  name: Moccasin
+  short_name: MOCCASIN
+  lata: '660'
+  ilec_name: SOUTH CENTRAL UTAH TEL. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '013970'
+  name: Mohave Valley
+  short_name: MOHAVE VLY
+  lata: '666'
+  ilec_name: CITIZENS UTILITIES RURAL DBA FRONTIER UT RURAL
+  lat: '34.924823'
+  long: "-114.602"
+  closest_city:
+    name: Willow Valley
+    distance:
+      value: 1.37
+      units: km
+- country: US
+  region: AZ
+  exchange: '343654'
+  name: Morenci
+  short_name: MORENCI
+  lata: '668'
+  ilec_name: COPPER VALLEY TELEPHONE, INC.
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '013980'
+  name: Mormon Lake
+  short_name: MORMONLAKE
+  lata: '666'
+  ilec_name: ARIZONA TEL. CO.
+  lat: '34.919268'
+  long: "-111.468502"
+  closest_city:
+    name: Mormon Lake
+    distance:
+      value: 1.7
+      units: km
+- country: US
+  region: AZ
+  exchange: '343504'
+  name: Morristown
+  short_name: MORRISTOWN
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343655'
+  name: Mount Lemmon
+  short_name: MT LEMMON
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '013990'
+  name: Munds Park
+  short_name: MUNDS PARK
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat: '34.9386'
+  long: "-111.64607"
+  closest_city:
+    name: Munds Park
+    distance:
+      value: 1.3
+      units: km
+- country: US
+  region: AZ
+  exchange: '343656'
+  name: Naco
+  short_name: NACO
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343506'
+  name: Navajo
+  short_name: NAVAJO
+  lata: '666'
+  ilec_name: TABLE TOP TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '363385'
+  name: Nazlini
+  short_name: NAZLINI
+  lata: '980'
+  ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343507'
+  name: New Oraibi
+  short_name: NEW ORAIBI
+  lata: '666'
+  ilec_name: HOPI TELECOMMUNICATIONS INCORPORATED - AZ
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '01408E'
+  name: New River
+  short_name: NEW RIVER
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014000'
+  name: Nogales
+  short_name: NOGALES
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat: '31.342122'
+  long: "-110.930636"
+  closest_city:
+    name: Nogales
+    distance:
+      value: 2.27
+      units: km
+- country: US
+  region: AZ
+  exchange: '343509'
+  name: North Phoenix
+  short_name: NO PHOENIX
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343510'
+  name: North Rim
+  short_name: NORTH RIM
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343511'
+  name: Nutrioso
+  short_name: NUTRIOSO
+  lata: '666'
+  ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343512'
+  name: Oatman
+  short_name: OATMAN
+  lata: '666'
+  ilec_name: CITIZENS UTILITIES RURAL DBA FRONTIER UT RURAL
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014262'
+  name: Oracle
+  short_name: ORACLE
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343659'
+  name: Oro Valley
+  short_name: ORO VALLEY
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343513'
+  name: Overgaard
+  short_name: OVERGAARD
+  lata: '666'
+  ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014010'
+  name: Page
+  short_name: PAGE
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat: '36.893581'
+  long: "-111.510349"
+  closest_city:
+    name: Page
+    distance:
+      value: 5.46
+      units: km
+- country: US
+  region: AZ
+  exchange: '343515'
+  name: Palo Verde
+  short_name: PALO VERDE
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '013251'
+  name: Palominas
+  short_name: PALOMINAS
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343516'
+  name: Paradise Valley
+  short_name: PARADISVLY
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014020'
+  name: Parker
+  short_name: PARKER
+  lata: '730'
+  ilec_name: FRONTIER COMMUNICATIONS OF THE SOUTHWEST INC. - AZ
+  lat: '34.147982'
+  long: "-114.290945"
+  closest_city:
+    name: Bluewater
+    distance:
+      value: 3.16
+      units: km
+- country: US
+  region: AZ
+  exchange: '014030'
+  name: Parker Dam
+  short_name: PARKER DAM
+  lata: '730'
+  ilec_name: FRONTIER COMMUNICATIONS OF THE SOUTHWEST INC. - AZ
+  lat: '34.216543'
+  long: "-114.194956"
+  closest_city:
+    name: Cienega Springs
+    distance:
+      value: 2.16
+      units: km
+- country: US
+  region: AZ
+  exchange: '343517'
+  name: Parks
+  short_name: PARKS
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014040'
+  name: Patagonia
+  short_name: PATAGONIA
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat: '31.543526'
+  long: "-110.756474"
+  closest_city:
+    name: Patagonia
+    distance:
+      value: 0.82
+      units: km
+- country: US
+  region: AZ
+  exchange: '343518'
+  name: Paulden
+  short_name: PAULDEN
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014050'
+  name: Payson
+  short_name: PAYSON
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat: '34.235643'
+  long: "-111.334098"
+  closest_city:
+    name: Payson
+    distance:
+      value: 1.59
+      units: km
+- country: US
+  region: AZ
+  exchange: '014060'
+  name: Peach Springs
+  short_name: PEACH SPG
+  lata: '666'
+  ilec_name: CITIZENS UTILITIES RURAL DBA FRONTIER UT RURAL
+  lat: '35.485876'
+  long: "-113.559055"
+  closest_city:
+    name: Truxton
+    distance:
+      value: 0.19
+      units: km
+- country: US
+  region: AZ
+  exchange: '014070'
+  name: Pearce
+  short_name: PEARCE
+  lata: '668'
+  ilec_name: VALLEY TEL COOP INC
+  lat: '31.89838'
+  long: "-109.827342"
+  closest_city:
+    name: Sunsites
+    distance:
+      value: 4.87
+      units: km
+- country: US
+  region: AZ
+  exchange: '343521'
+  name: Peeples Valley
+  short_name: PEEPLS VLY
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '01408F'
+  name: Peoria
+  short_name: PEORIA
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014251'
+  name: Peridot
+  short_name: PERIDOT
+  lata: '668'
+  ilec_name: SAN CARLOS APACHE TELECOMMUNICATIONS UTILITY, INC.
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343523'
+  name: Perryville
+  short_name: PERRYVILLE
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014080'
+  name: Phoenix
+  short_name: PHOENIX
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat: '33.544358'
+  long: "-112.048962"
+  closest_city:
+    name: Phoenix
+    distance:
+      value: 4.85
+      units: km
+- country: US
+  region: AZ
+  exchange: '343525'
+  name: Picacho
+  short_name: PICACHO
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014090'
+  name: Pima
+  short_name: PIMA
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat: '32.89386'
+  long: "-109.825123"
+  closest_city:
+    name: Pima
+    distance:
+      value: 1.83
+      units: km
+- country: US
+  region: AZ
+  exchange: '014051'
+  name: Pine
+  short_name: PINE
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014100'
+  name: Pinedale
+  short_name: PINEDALE
+  lata: '666'
+  ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
+  lat: '34.309603'
+  long: "-110.248925"
+  closest_city:
+    name: Pinedale
+    distance:
+      value: 1.59
+      units: km
+- country: US
+  region: AZ
+  exchange: '014110'
+  name: Pinetop
+  short_name: PINETOP
+  lata: '666'
+  ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
+  lat: '34.126114'
+  long: "-109.93455"
+  closest_city:
+    name: Pinetop-Lakeside
+    distance:
+      value: 3.8
+      units: km
+- country: US
+  region: AZ
+  exchange: '363386'
+  name: Pinon
+  short_name: PINON
+  lata: '980'
+  ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014120'
+  name: Pinon Cottonwood
+  short_name: PINONCTNWD
+  lata: '980'
+  ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
+  lat: '36.065817'
+  long: "-109.885763"
+  closest_city:
+    name: Low Mountain
+    distance:
+      value: 23.15
+      units: km
+- country: US
+  region: AZ
+  exchange: '343664'
+  name: Pirtleville
+  short_name: PIRTLEVILL
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343665'
+  name: Pisinemo
+  short_name: PISINEMO
+  lata: '668'
+  ilec_name: TOHONO O'ODHAM UTILITY AUTHORITY
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014130'
+  name: Polacca
+  short_name: POLACCA
+  lata: '666'
+  ilec_name: HOPI TELECOMMUNICATIONS INCORPORATED - AZ
+  lat: '35.837641'
+  long: "-110.385942"
+  closest_city:
+    name: First Mesa
+    distance:
+      value: 1.76
+      units: km
+- country: US
+  region: AZ
+  exchange: '343666'
+  name: Pomerene
+  short_name: POMERENE
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014140'
+  name: Portal
+  short_name: PORTAL
+  lata: '668'
+  ilec_name: VALLEY TEL COOP INC
+  lat: '31.916674'
+  long: "-109.150192"
+  closest_city:
+    name: San Simon
+    distance:
+      value: 39.81
+      units: km
+- country: US
+  region: AZ
+  exchange: '014150'
+  name: Poston
+  short_name: POSTON
+  lata: '730'
+  ilec_name: FRONTIER COMMUNICATIONS OF THE SOUTHWEST INC. - AZ
+  lat: '33.991979'
+  long: "-114.397225"
+  closest_city:
+    name: Poston
+    distance:
+      value: 0.67
+      units: km
+- country: US
+  region: AZ
+  exchange: '014160'
+  name: Prescott
+  short_name: PRESCOTT
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat: '34.543687'
+  long: "-112.474289"
+  closest_city:
+    name: Prescott
+    distance:
+      value: 5.21
+      units: km
+- country: US
+  region: AZ
+  exchange: '343531'
+  name: Prescott Valley
+  short_name: PRESCT VLY
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014170'
+  name: Quartzsite
+  short_name: QUARTZSITE
+  lata: '730'
+  ilec_name: SOUTHWESTERN TEL. CO.
+  lat: '33.666212'
+  long: "-114.2149"
+  closest_city:
+    name: Quartzsite
+    distance:
+      value: 0.25
+      units: km
+- country: US
+  region: AZ
+  exchange: '343533'
+  name: Queen Creek
+  short_name: QUEENCREEK
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343532'
+  name: Queen Valley
+  short_name: QUEEN VLY
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343668'
+  name: Ray
+  short_name: RAY
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343669'
+  name: Red Rock
+  short_name: RED ROCK
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014180'
+  name: Red Valley
+  short_name: RED VALLEY
+  lata: '980'
+  ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
+  lat: '36.595099'
+  long: "-109.051276"
+  closest_city:
+    name: Lukachukai
+    distance:
+      value: 25.77
+      units: km
+- country: US
+  region: AZ
+  exchange: '343670'
+  name: Rillito
+  short_name: RILLITO
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343534'
+  name: Rimrock
+  short_name: RIMROCK
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343671'
+  name: Rio Rico
+  short_name: RIO RICO
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343535'
+  name: Rio Verde
+  short_name: RIO VERDE
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '013321'
+  name: Riviera
+  short_name: RIVIERA
+  lata: '666'
+  ilec_name: CITIZENS UTILITIES RURAL DBA FRONTIER UT RURAL
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014514'
+  name: Robles
+  short_name: ROBLES
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat: '32.032865'
+  long: "-111.337951"
+  closest_city:
+    name: Three Points
+    distance:
+      value: 5.68
+      units: km
+- country: US
+  region: AZ
+  exchange: '014190'
+  name: Rock Point
+  short_name: ROCK POINT
+  lata: '980'
+  ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
+  lat: '36.721324'
+  long: "-109.623139"
+  closest_city:
+    name: Rock Point
+    distance:
+      value: 0.67
+      units: km
+- country: US
+  region: AZ
+  exchange: '343537'
+  name: Rock Springs
+  short_name: ROCK SPGS
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343538'
+  name: Roll
+  short_name: ROLL
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014200'
+  name: Roosevelt Lake
+  short_name: ROOSEVLTLK
+  lata: '666'
+  ilec_name: ARIZONA TEL. CO.
+  lat: '33.667431'
+  long: "-111.141568"
+  closest_city:
+    name: Roosevelt
+    distance:
+      value: 1.28
+      units: km
+- country: US
+  region: AZ
+  exchange: '014210'
+  name: Rough Rock
+  short_name: ROUGH ROCK
+  lata: '980'
+  ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
+  lat: '36.405641'
+  long: "-109.874142"
+  closest_city:
+    name: Rough Rock
+    distance:
+      value: 0.71
+      units: km
+- country: US
+  region: AZ
+  exchange: '363391'
+  name: Round Rock
+  short_name: ROUND ROCK
+  lata: '980'
+  ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014220'
+  name: Sacaton
+  short_name: SACATON
+  lata: '666'
+  ilec_name: GILA RIVER TELECOMM, INC.
+  lat: '33.074471'
+  long: "-111.743176"
+  closest_city:
+    name: Sacaton
+    distance:
+      value: 2.4
+      units: km
+- country: US
+  region: AZ
+  exchange: '343672'
+  name: Saddlebrooke
+  short_name: SADDLEBRK
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014230'
+  name: Safford
+  short_name: SAFFORD
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat: '32.835582'
+  long: "-109.708385"
+  closest_city:
+    name: Safford
+    distance:
+      value: 1.14
+      units: km
+- country: US
+  region: AZ
+  exchange: '343674'
+  name: Sahuarita
+  short_name: SAHUARITA
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '363393'
+  name: Saint Michaels
+  short_name: STMICHAELS
+  lata: '980'
+  ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014240'
+  name: Salome
+  short_name: SALOME
+  lata: '730'
+  ilec_name: SOUTHWESTERN TEL. CO.
+  lat: '33.785573'
+  long: "-113.618446"
+  closest_city:
+    name: Salome
+    distance:
+      value: 1.44
+      units: km
+- country: US
+  region: AZ
+  exchange: '01408L'
+  name: Salt River
+  short_name: SALT RIVER
+  lata: '666'
+  ilec_name: SADDLEBACK COMMUNICATIONS COMPANY - AZ
+  lat: '33.544358'
+  long: "-112.048962"
+  closest_city:
+    name: Phoenix
+    distance:
+      value: 4.85
+      units: km
+- country: US
+  region: AZ
+  exchange: '014250'
+  name: San Carlos
+  short_name: SAN CARLOS
+  lata: '668'
+  ilec_name: SAN CARLOS APACHE TELECOMMUNICATIONS UTILITY, INC.
+  lat: '33.348407'
+  long: "-110.452113"
+  closest_city:
+    name: San Carlos
+    distance:
+      value: 1.25
+      units: km
+- country: US
+  region: AZ
+  exchange: '343541'
+  name: San Luis
+  short_name: SAN LUIS
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014260'
+  name: San Manuel
+  short_name: SAN MANUEL
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat: '32.60963'
+  long: "-110.626283"
+  closest_city:
+    name: San Manuel
+    distance:
+      value: 1.43
+      units: km
+- country: US
+  region: AZ
+  exchange: '014270'
+  name: San Simon
+  short_name: SAN SIMON
+  lata: '668'
+  ilec_name: VALLEY TEL COOP INC
+  lat: '32.267504'
+  long: "-109.224343"
+  closest_city:
+    name: San Simon
+    distance:
+      value: 0.56
+      units: km
+- country: US
+  region: AZ
+  exchange: '343543'
+  name: San Tan Valley
+  short_name: SANTAN VLY
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014280'
+  name: Sanders
+  short_name: SANDERS
+  lata: '666'
+  ilec_name: TABLE TOP TELEPHONE COMPANY
+  lat: '35.214882'
+  long: "-109.333073"
+  closest_city:
+    name: Sanders
+    distance:
+      value: 1.14
+      units: km
+- country: US
+  region: AZ
+  exchange: '343682'
+  name: Santa Rita Foothills
+  short_name: SN RT FTHL
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014290'
+  name: Santa Rosa
+  short_name: SANTA ROSA
+  lata: '668'
+  ilec_name: TOHONO O'ODHAM UTILITY AUTHORITY
+  lat: '32.349639'
+  long: "-112.056869"
+  closest_city:
+    name: Santa Rosa
+    distance:
+      value: 2.14
+      units: km
+- country: US
+  region: AZ
+  exchange: '014300'
+  name: Sasabe
+  short_name: SASABE
+  lata: '668'
+  ilec_name: ARIZONA TEL. CO.
+  lat: '31.577156'
+  long: "-111.500718"
+  closest_city:
+    name: Arivaca
+    distance:
+      value: 19.72
+      units: km
+- country: US
+  region: AZ
+  exchange: '01408G'
+  name: Scottsdale
+  short_name: SCOTTSDALE
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343545'
+  name: Second Mesa
+  short_name: SEC MESA
+  lata: '666'
+  ilec_name: HOPI TELECOMMUNICATIONS INCORPORATED - AZ
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014310'
+  name: Sedona
+  short_name: SEDONA
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat: '34.725624'
+  long: "-111.871846"
+  closest_city:
+    name: Cornville
+    distance:
+      value: 3.67
+      units: km
+- country: US
+  region: AZ
+  exchange: '014320'
+  name: Seligman
+  short_name: SELIGMAN
+  lata: '666'
+  ilec_name: TABLE TOP TELEPHONE COMPANY
+  lat: '35.326173'
+  long: "-112.873173"
+  closest_city:
+    name: Seligman
+    distance:
+      value: 1.43
+      units: km
+- country: US
+  region: AZ
+  exchange: '014330'
+  name: Sells
+  short_name: SELLS
+  lata: '668'
+  ilec_name: TOHONO O'ODHAM UTILITY AUTHORITY
+  lat: '31.912983'
+  long: "-111.879832"
+  closest_city:
+    name: Sells
+    distance:
+      value: 0.83
+      units: km
+- country: US
+  region: AZ
+  exchange: '014340'
+  name: Shonto
+  short_name: SHONTO
+  lata: '980'
+  ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
+  lat: '36.594053'
+  long: "-110.642606"
+  closest_city:
+    name: Shonto
+    distance:
+      value: 1.7
+      units: km
+- country: US
+  region: AZ
+  exchange: '014350'
+  name: Show Low
+  short_name: SHOW LOW
+  lata: '666'
+  ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
+  lat: '34.251128'
+  long: "-110.033064"
+  closest_city:
+    name: Show Low
+    distance:
+      value: 1.84
+      units: km
+- country: US
+  region: AZ
+  exchange: '014360'
+  name: Sierra Vista
+  short_name: SIERRAVIST
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat: '31.556914'
+  long: "-110.300593"
+  closest_city:
+    name: Sierra Vista
+    distance:
+      value: 1.55
+      units: km
+- country: US
+  region: AZ
+  exchange: '219400'
+  name: Silverbell
+  short_name: SILVERBELL
+  lata: '666'
+  ilec_name: MIDVALE TELEPHONE EXCHANGE, INC.
+  lat: '32.548924'
+  long: "-111.718251"
+  closest_city:
+    name: Tat Momoli
+    distance:
+      value: 16.78
+      units: km
+- country: US
+  region: AZ
+  exchange: '343550'
+  name: Skull Valley
+  short_name: SKULL VLY
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014370'
+  name: Snowflake
+  short_name: SNOWFLAKE
+  lata: '666'
+  ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
+  lat: '34.507013'
+  long: "-110.075013"
+  closest_city:
+    name: Snowflake
+    distance:
+      value: 2.28
+      units: km
+- country: US
+  region: AZ
+  exchange: '343683'
+  name: Solomon
+  short_name: SOLOMON
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014380'
+  name: Somerton
+  short_name: SOMERTON
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat: '32.590053'
+  long: "-114.681524"
+  closest_city:
+    name: Somerton
+    distance:
+      value: 2.05
+      units: km
+- country: US
+  region: AZ
+  exchange: '343684'
+  name: Sonoita
+  short_name: SONOITA
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343553'
+  name: Spring Valley
+  short_name: SPRING VLY
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014390'
+  name: Springerville
+  short_name: SPRINGERVL
+  lata: '666'
+  ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
+  lat: '34.131936'
+  long: "-109.283516"
+  closest_city:
+    name: Springerville
+    distance:
+      value: 3.02
+      units: km
+- country: US
+  region: AZ
+  exchange: '013241'
+  name: St David
+  short_name: ST DAVID
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014400'
+  name: St Johns
+  short_name: ST JOHNS
+  lata: '666'
+  ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
+  lat: '34.49918'
+  long: "-109.373961"
+  closest_city:
+    name: St. Johns
+    distance:
+      value: 0.5
+      units: km
+- country: US
+  region: AZ
+  exchange: '013372'
+  name: Stanfield
+  short_name: STANFIELD
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343558'
+  name: Star Valley
+  short_name: STAR VLY
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014410'
+  name: Stotonic
+  short_name: STOTONIC
+  lata: '666'
+  ilec_name: GILA RIVER TELECOMM, INC.
+  lat: '33.160622'
+  long: "-111.797274"
+  closest_city:
+    name: Stotonic Village
+    distance:
+      value: 2.01
+      units: km
+- country: US
+  region: AZ
+  exchange: '343560'
+  name: Strawberry
+  short_name: STRAWBERRY
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343561'
+  name: Sun City
+  short_name: SUN CITY
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343564'
+  name: Sun City West
+  short_name: SUNCTYWEST
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343562'
+  name: Sun Lakes
+  short_name: SUN LAKES
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343566'
+  name: Sun Tan Valley
+  short_name: SUNTANVLY
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343563'
+  name: Sun Valley
+  short_name: SUN VALLEY
+  lata: '666'
+  ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014420'
+  name: Sunizona
+  short_name: SUNIZONA
+  lata: '668'
+  ilec_name: VALLEY TEL COOP INC
+  lat: '31.875651'
+  long: "-109.656855"
+  closest_city:
+    name: Sunizona
+    distance:
+      value: 2.49
+      units: km
+- country: US
+  region: AZ
+  exchange: '343565'
+  name: Sunnyslope
+  short_name: SUNNYSLOPE
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343687'
+  name: Sunsites
+  short_name: SUNSITES
+  lata: '668'
+  ilec_name: VALLEY TEL COOP INC
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014430'
+  name: Supai
+  short_name: SUPAI
+  lata: '666'
+  ilec_name: ARIZONA TEL. CO.
+  lat: '36.234117'
+  long: "-112.680396"
+  closest_city:
+    name: Supai
+    distance:
+      value: 1.2
+      units: km
+- country: US
+  region: AZ
+  exchange: '014440'
+  name: Superior
+  short_name: SUPERIOR
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat: '33.282627'
+  long: "-111.089821"
+  closest_city:
+    name: Superior
+    distance:
+      value: 1.98
+      units: km
+- country: US
+  region: AZ
+  exchange: '01408H'
+  name: Superstition
+  short_name: SUPERSTITI
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343555'
+  name: Superstition Apache Junction
+  short_name: SPSTNAPHJC
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343569'
+  name: Superstition Mountain
+  short_name: SUPERSTMTN
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343570'
+  name: Surprise
+  short_name: SURPRISE
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343571'
+  name: Tacna
+  short_name: TACNA
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343572'
+  name: Taylor
+  short_name: TAYLOR
+  lata: '666'
+  ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014450'
+  name: Teec Nos Pos
+  short_name: TEECNOSPOS
+  lata: '980'
+  ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
+  lat: '36.916285'
+  long: "-109.107256"
+  closest_city:
+    name: Teec Nos Pos
+    distance:
+      value: 2.91
+      units: km
+- country: US
+  region: AZ
+  exchange: '01408I'
+  name: Tempe
+  short_name: TEMPE
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343574'
+  name: Temple Bar
+  short_name: TEMPLE BAR
+  lata: '666'
+  ilec_name: CITIZENS UTILITIES RURAL DBA FRONTIER UT RURAL
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343688'
+  name: Thatcher
+  short_name: THATCHER
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '01408J'
+  name: Tolleson
+  short_name: TOLLESON
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343576'
+  name: Toltec
+  short_name: TOLTEC
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014460'
+  name: Tombstone
+  short_name: TOMBSTONE
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat: '31.716127'
+  long: "-110.065173"
+  closest_city:
+    name: Tombstone
+    distance:
+      value: 1.6
+      units: km
+- country: US
+  region: AZ
+  exchange: '363395'
+  name: Tonalea
+  short_name: TONALEA
+  lata: '980'
+  ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343577'
+  name: Tonopah
+  short_name: TONOPAH
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014470'
+  name: Tonto Basin
+  short_name: TONTOBASIN
+  lata: '666'
+  ilec_name: ARIZONA TEL. CO.
+  lat: '33.849712'
+  long: "-111.297833"
+  closest_city:
+    name: Tonto Basin
+    distance:
+      value: 1.43
+      units: km
+- country: US
+  region: AZ
+  exchange: '014052'
+  name: Tonto Creek
+  short_name: TONTOCREEK
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343690'
+  name: Topawa
+  short_name: TOPAWA
+  lata: '668'
+  ilec_name: TOHONO O'ODHAM UTILITY AUTHORITY
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343579'
+  name: Topock
+  short_name: TOPOCK
+  lata: '666'
+  ilec_name: CITIZENS UTILITIES RURAL DBA FRONTIER UT RURAL
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343580'
+  name: Tortilla Flat
+  short_name: TORTIL FLT
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014480'
+  name: Toyei
+  short_name: TOYEI
+  lata: '980'
+  ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
+  lat: '35.714761'
+  long: "-109.912631"
+  closest_city:
+    name: Toyei
+    distance:
+      value: 2.5
+      units: km
+- country: US
+  region: AZ
+  exchange: '014061'
+  name: Truxton
+  short_name: TRUXTON
+  lata: '666'
+  ilec_name: CITIZENS UTILITIES RURAL DBA FRONTIER UT RURAL
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014490'
+  name: Tsaile
+  short_name: TSAILE
+  lata: '980'
+  ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
+  lat: '36.290317'
+  long: "-109.189956"
+  closest_city:
+    name: Sehili
+    distance:
+      value: 1.32
+      units: km
+- country: US
+  region: AZ
+  exchange: '014500'
+  name: Tuba City
+  short_name: TUBA CITY
+  lata: '980'
+  ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
+  lat: '36.131938'
+  long: "-111.251535"
+  closest_city:
+    name: Tuba City
+    distance:
+      value: 0.89
+      units: km
+- country: US
+  region: AZ
+  exchange: '014515'
+  name: Tubac
+  short_name: TUBAC
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat: '31.609251'
+  long: "-111.051292"
+  closest_city:
+    name: Tubac
+    distance:
+      value: 0.72
+      units: km
+- country: US
+  region: AZ
+  exchange: '014510'
+  name: Tucson
+  short_name: TUCSON
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat: '32.228036'
+  long: "-110.966026"
+  closest_city:
+    name: South Tucson
+    distance:
+      value: 3.63
+      units: km
+- country: US
+  region: AZ
+  exchange: '343693'
+  name: Tumacacori
+  short_name: TUMACACORI
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014516'
+  name: Vail
+  short_name: VAIL
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat: '31.998956'
+  long: "-110.683759"
+  closest_city:
+    name: Vail
+    distance:
+      value: 2.7
+      units: km
+- country: US
+  region: AZ
+  exchange: '343582'
+  name: Valentine
+  short_name: VALENTINE
+  lata: '666'
+  ilec_name: CITIZENS UTILITIES RURAL DBA FRONTIER UT RURAL
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343584'
+  name: Valley Farms
+  short_name: VLY FARMS
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343583'
+  name: Vernon
+  short_name: VERNON
+  lata: '666'
+  ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343585'
+  name: Waddell
+  short_name: WADDELL
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343586'
+  name: Wagoner
+  short_name: WAGONER
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343696'
+  name: Warren
+  short_name: WARREN
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014520'
+  name: Wellton
+  short_name: WELLTON
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat: '32.666229'
+  long: "-114.13209"
+  closest_city:
+    name: Wellton Hills
+    distance:
+      value: 4.95
+      units: km
+- country: US
+  region: AZ
+  exchange: '346230'
+  name: Wenden
+  short_name: WENDEN
+  lata: '730'
+  ilec_name: SOUTHWESTERN TEL. CO.
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014530'
+  name: West San Simon
+  short_name: W SANSIMON
+  lata: '668'
+  ilec_name: TOHONO O'ODHAM UTILITY AUTHORITY
+  lat: '32.18837'
+  long: "-112.399946"
+  closest_city:
+    name: Wahak Hotrontk
+    distance:
+      value: 3.5
+      units: km
+- country: US
+  region: AZ
+  exchange: '343588'
+  name: White Hills
+  short_name: WHITE HILL
+  lata: '666'
+  ilec_name: CITIZENS UTILITIES RURAL DBA FRONTIER UT RURAL
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343591'
+  name: White Mountain Lake
+  short_name: WHT MTN LK
+  lata: '666'
+  ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014540'
+  name: Whiteriver
+  short_name: WHITERIVER
+  lata: '666'
+  ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
+  lat: '33.837594'
+  long: "-109.965788"
+  closest_city:
+    name: Whiteriver
+    distance:
+      value: 0.44
+      units: km
+- country: US
+  region: AZ
+  exchange: '01408K'
+  name: Whitetanks
+  short_name: WHITETANKS
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014550'
+  name: Whitlow
+  short_name: WHITLOW
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat: '33.281297'
+  long: "-111.370832"
+  closest_city:
+    name: Queen Valley
+    distance:
+      value: 6.13
+      units: km
+- country: US
+  region: AZ
+  exchange: '343592'
+  name: Why
+  short_name: WHY
+  lata: '666'
+  ilec_name: TABLE TOP TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014560'
+  name: Wickenburg
+  short_name: WICKENBURG
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat: '34.097092'
+  long: "-112.742581"
+  closest_city:
+    name: Congress
+    distance:
+      value: 12.78
+      units: km
+- country: US
+  region: AZ
+  exchange: '014570'
+  name: Wide Ruins
+  short_name: WIDE RUINS
+  lata: '980'
+  ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
+  lat: '35.418757'
+  long: "-109.488748"
+  closest_city:
+    name: Wide Ruins
+    distance:
+      value: 0.97
+      units: km
+- country: US
+  region: AZ
+  exchange: '014580'
+  name: Wikieup
+  short_name: WIKIEUP
+  lata: '666'
+  ilec_name: CITIZENS UTILITIES RURAL DBA FRONTIER UT RURAL
+  lat: '34.731791'
+  long: "-113.600015"
+  closest_city:
+    name: Wikieup
+    distance:
+      value: 4.3
+      units: km
+- country: US
+  region: AZ
+  exchange: '014590'
+  name: Willcox
+  short_name: WILLCOX
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat: '32.251855'
+  long: "-109.830894"
+  closest_city:
+    name: Willcox
+    distance:
+      value: 0.47
+      units: km
+- country: US
+  region: AZ
+  exchange: '014600'
+  name: Williams
+  short_name: WILLIAMS
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat: '35.250331'
+  long: "-112.182951"
+  closest_city:
+    name: Williams
+    distance:
+      value: 0.31
+      units: km
+- country: US
+  region: AZ
+  exchange: '343596'
+  name: Willow Beach
+  short_name: WILLOW BCH
+  lata: '666'
+  ilec_name: CITIZENS UTILITIES RURAL DBA FRONTIER UT RURAL
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014610'
+  name: Window Rock
+  short_name: WINDOWROCK
+  lata: '980'
+  ilec_name: NAVAJO COMM CO INC - AZ DBA FRONTIER NAVAJO COM
+  lat: '35.67685'
+  long: "-109.058973"
+  closest_city:
+    name: Window Rock
+    distance:
+      value: 0.83
+      units: km
+- country: US
+  region: AZ
+  exchange: '343698'
+  name: Winkelman
+  short_name: WINKELMAN
+  lata: '668'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014620'
+  name: Winslow
+  short_name: WINSLOW
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat: '34.990807'
+  long: "-110.519058"
+  closest_city:
+    name: Winslow West
+    distance:
+      value: 17.11
+      units: km
+- country: US
+  region: AZ
+  exchange: '01408P'
+  name: Wintersburg
+  short_name: WINTERSBG
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343599'
+  name: Wittmann
+  short_name: WITTMANN
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '343600'
+  name: Woodruff
+  short_name: WOODRUFF
+  lata: '666'
+  ilec_name: CITIZENS TELECOM CO OF WHITE MOUNTAINS INC.
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014630'
+  name: Yarnell
+  short_name: YARNELL
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat: '34.225261'
+  long: "-112.74763"
+  closest_city:
+    name: Yarnell
+    distance:
+      value: 1.46
+      units: km
+- country: US
+  region: AZ
+  exchange: '013431'
+  name: York Valley
+  short_name: YORKVALLEY
+  lata: '668'
+  ilec_name: COPPER VALLEY TELEPHONE, INC.
+  lat: '32.925357'
+  long: "-109.197828"
+  closest_city:
+    name: York
+    distance:
+      value: 0.89
+      units: km
+- country: US
+  region: AZ
+  exchange: '014640'
+  name: Young
+  short_name: YOUNG
+  lata: '666'
+  ilec_name: MIDVALE TELEPHONE EXCHANGE, INC.
+  lat: '34.098627'
+  long: "-110.948271"
+  closest_city:
+    name: Young
+    distance:
+      value: 2.36
+      units: km
+- country: US
+  region: AZ
+  exchange: '343603'
+  name: Youngtown
+  short_name: YOUNGTOWN
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: AZ
+  exchange: '014650'
+  name: Yucca
+  short_name: YUCCA
+  lata: '666'
+  ilec_name: CITIZENS UTILITIES RURAL DBA FRONTIER UT RURAL
+  lat: '34.874944'
+  long: "-114.148592"
+  closest_city:
+    name: Yucca
+    distance:
+      value: 1.36
+      units: km
+- country: US
+  region: AZ
+  exchange: '014660'
+  name: Yuma
+  short_name: YUMA
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat: '32.716302'
+  long: "-114.622933"
+  closest_city:
+    name: Avenue B and C
+    distance:
+      value: 3.46
+      units: km
+- country: US
+  region: AZ
+  exchange: '343606'
+  name: Yuma Proving Ground
+  short_name: YUMA PR GR
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
