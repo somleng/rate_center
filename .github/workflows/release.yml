@@ -20,9 +20,6 @@ jobs:
       - uses: ruby/setup-ruby@v1
         if: ${{ steps.release.outputs.release_created }}
 
-      - run: bundle install
-        if: ${{ steps.release.outputs.release_created }}
-
       - name: publish gem
         if: ${{ steps.release.outputs.release_created }}
         run: |
