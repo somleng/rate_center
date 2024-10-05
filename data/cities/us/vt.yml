@@ -1,428 +1,1910 @@
 ---
 cities:
-  us:
-    VT:
-    - name: Algiers
-      region: VT
-      lat: '42.8182'
-      long: "-72.5771"
-    - name: Ascutney
-      region: VT
-      lat: '43.4080'
-      long: "-72.4070"
-    - name: Bakersfield
-      region: VT
-      lat: '44.7821'
-      long: "-72.8032"
-    - name: Barre
-      region: VT
-      lat: '44.1998'
-      long: "-72.5085"
-    - name: Beecher Falls
-      region: VT
-      lat: '45.0091'
-      long: "-71.4936"
-    - name: Bellows Falls
-      region: VT
-      lat: '43.1344'
-      long: "-72.4550"
-    - name: Bolton
-      region: VT
-      lat: '44.3742'
-      long: "-72.8859"
-    - name: Bolton Valley
-      region: VT
-      lat: '44.4166'
-      long: "-72.8576"
-    - name: Burlington
-      region: VT
-      lat: '44.4876'
-      long: "-73.2316"
-    - name: Castleton Four Corners
-      region: VT
-      lat: '43.6105'
-      long: "-73.2104"
-    - name: Chimney Hill
-      region: VT
-      lat: '42.8888'
-      long: "-72.9040"
-    - name: Chittenden
-      region: VT
-      lat: '43.7039'
-      long: "-72.9494"
-    - name: Danby
-      region: VT
-      lat: '43.3452'
-      long: "-72.9946"
-    - name: Derby Center
-      region: VT
-      lat: '44.9549'
-      long: "-72.1361"
-    - name: Derby Line
-      region: VT
-      lat: '45.0008'
-      long: "-72.1035"
-    - name: East Barre
-      region: VT
-      lat: '44.1500'
-      long: "-72.4498"
-    - name: East Burke
-      region: VT
-      lat: '44.5875'
-      long: "-71.9403"
-    - name: East Charlotte
-      region: VT
-      lat: '44.3184'
-      long: "-73.1909"
-    - name: East Dorset
-      region: VT
-      lat: '43.2450'
-      long: "-73.0069"
-    - name: East Middlebury
-      region: VT
-      lat: '43.9746'
-      long: "-73.1052"
-    - name: East Poultney
-      region: VT
-      lat: '43.5259'
-      long: "-73.2107"
-    - name: Enosburg Falls
-      region: VT
-      lat: '44.9083'
-      long: "-72.8026"
-    - name: Essex Junction
-      region: VT
-      lat: '44.4902'
-      long: "-73.1141"
-    - name: Gilman
-      region: VT
-      lat: '44.4135'
-      long: "-71.7157"
-    - name: Grafton
-      region: VT
-      lat: '43.1706'
-      long: "-72.6084"
-    - name: Graniteville
-      region: VT
-      lat: '44.1463'
-      long: "-72.4818"
-    - name: Greensboro Bend
-      region: VT
-      lat: '44.5582'
-      long: "-72.2643"
-    - name: Hanksville
-      region: VT
-      lat: '44.2514'
-      long: "-72.9614"
-    - name: Harmonyville
-      region: VT
-      lat: '43.0372'
-      long: "-72.6657"
-    - name: Hartford Village
-      region: VT
-      lat: '43.6638'
-      long: "-72.3364"
-    - name: Highgate Center
-      region: VT
-      lat: '44.9375'
-      long: "-73.0421"
-    - name: Highgate Springs
-      region: VT
-      lat: '44.9782'
-      long: "-73.1056"
-    - name: Huntington
-      region: VT
-      lat: '44.3274'
-      long: "-72.9892"
-    - name: Huntington Center
-      region: VT
-      lat: '44.2906'
-      long: "-72.9672"
-    - name: Island Pond
-      region: VT
-      lat: '44.8125'
-      long: "-71.8862"
-    - name: Jacksonville
-      region: VT
-      lat: '42.7976'
-      long: "-72.8192"
-    - name: Jamaica
-      region: VT
-      lat: '43.0975'
-      long: "-72.7784"
-    - name: Jeffersonville
-      region: VT
-      lat: '44.6427'
-      long: "-72.8282"
-    - name: Killington Village
-      region: VT
-      lat: '43.6505'
-      long: "-72.7851"
-    - name: Lincoln
-      region: VT
-      lat: '44.1028'
-      long: "-72.9937"
-    - name: Londonderry
-      region: VT
-      lat: '43.2278'
-      long: "-72.8083"
-    - name: Lunenburg
-      region: VT
-      lat: '44.4570'
-      long: "-71.6803"
-    - name: Lyndon
-      region: VT
-      lat: '44.5154'
-      long: "-72.0134"
-    - name: Lyndon Center
-      region: VT
-      lat: '44.5377'
-      long: "-72.0142"
-    - name: Lyndonville
-      region: VT
-      lat: '44.5351'
-      long: "-72.0017"
-    - name: Manchester Center
-      region: VT
-      lat: '43.1820'
-      long: "-73.0369"
-    - name: Middletown Springs
-      region: VT
-      lat: '43.4865'
-      long: "-73.1232"
-    - name: Montpelier
-      region: VT
-      lat: '44.2659'
-      long: "-72.5717"
-    - name: Morrisville
-      region: VT
-      lat: '44.5583'
-      long: "-72.5933"
-    - name: New Haven
-      region: VT
-      lat: '44.1266'
-      long: "-73.1510"
-    - name: Newport
-      region: VT
-      lat: '44.9372'
-      long: "-72.2090"
-    - name: Newport Center
-      region: VT
-      lat: '44.9527'
-      long: "-72.3065"
-    - name: North Bennington
-      region: VT
-      lat: '42.9240'
-      long: "-73.2411"
-    - name: North Clarendon
-      region: VT
-      lat: '43.5722'
-      long: "-72.9667"
-    - name: North Hartland
-      region: VT
-      lat: '43.5936'
-      long: "-72.3578"
-    - name: North Hyde Park
-      region: VT
-      lat: '44.6702'
-      long: "-72.5927"
-    - name: North Pownal
-      region: VT
-      lat: '42.7984'
-      long: "-73.2620"
-    - name: North Springfield
-      region: VT
-      lat: '43.3304'
-      long: "-72.5277"
-    - name: North Troy
-      region: VT
-      lat: '44.9963'
-      long: "-72.4038"
-    - name: North Westminster
-      region: VT
-      lat: '43.1219'
-      long: "-72.4554"
-    - name: Old Bennington
-      region: VT
-      lat: '42.8848'
-      long: "-73.2143"
-    - name: Orleans
-      region: VT
-      lat: '44.8090'
-      long: "-72.2011"
-    - name: Pawlet
-      region: VT
-      lat: '43.3481'
-      long: "-73.1743"
-    - name: Peacham
-      region: VT
-      lat: '44.3296'
-      long: "-72.1725"
-    - name: Pownal
-      region: VT
-      lat: '42.7653'
-      long: "-73.2355"
-    - name: Pownal Center
-      region: VT
-      lat: '42.7977'
-      long: "-73.2214"
-    - name: Proctor
-      region: VT
-      lat: '43.6691'
-      long: "-73.0405"
-    - name: Proctorsville
-      region: VT
-      lat: '43.3810'
-      long: "-72.6373"
-    - name: Quechee
-      region: VT
-      lat: '43.6445'
-      long: "-72.4184"
-    - name: Rutland
-      region: VT
-      lat: '43.6092'
-      long: "-72.9783"
-    - name: Saint George
-      region: VT
-      lat: '44.3770'
-      long: "-73.1300"
-    - name: Saxtons River
-      region: VT
-      lat: '43.1390'
-      long: "-72.5102"
-    - name: Sheffield
-      region: VT
-      lat: '44.5996'
-      long: "-72.1160"
-    - name: South Barre
-      region: VT
-      lat: '44.1646'
-      long: "-72.5038"
-    - name: South Burlington
-      region: VT
-      lat: '44.4622'
-      long: "-73.2202"
-    - name: South Hero
-      region: VT
-      lat: '44.6479'
-      long: "-73.3017"
-    - name: South Lincoln
-      region: VT
-      lat: '44.0651'
-      long: "-72.9748"
-    - name: South Londonderry
-      region: VT
-      lat: '43.1904'
-      long: "-72.8118"
-    - name: South Royalton
-      region: VT
-      lat: '43.8123'
-      long: "-72.5155"
-    - name: South Shaftsbury
-      region: VT
-      lat: '42.9411'
-      long: "-73.2020"
-    - name: South Woodstock
-      region: VT
-      lat: '43.5608'
-      long: "-72.5321"
-    - name: St. Albans
-      region: VT
-      lat: '44.8119'
-      long: "-73.0849"
-    - name: Stamford
-      region: VT
-      lat: '42.7595'
-      long: "-73.0562"
-    - name: Stratton Mountain
-      region: VT
-      lat: '43.1170'
-      long: "-72.9025"
-    - name: Sutton
-      region: VT
-      lat: '44.6290'
-      long: "-72.0277"
-    - name: Townshend
-      region: VT
-      lat: '43.0470'
-      long: "-72.6692"
-    - name: Underhill Center
-      region: VT
-      lat: '44.5080'
-      long: "-72.8989"
-    - name: Underhill Flats
-      region: VT
-      lat: '44.5232'
-      long: "-72.9463"
-    - name: Vergennes
-      region: VT
-      lat: '44.1664'
-      long: "-73.2557"
-    - name: Wardsboro
-      region: VT
-      lat: '43.0435'
-      long: "-72.7889"
-    - name: Waterbury Center
-      region: VT
-      lat: '44.3780'
-      long: "-72.7208"
-    - name: Websterville
-      region: VT
-      lat: '44.1619'
-      long: "-72.4733"
-    - name: Wells River
-      region: VT
-      lat: '44.1538'
-      long: "-72.0615"
-    - name: West Brattleboro
-      region: VT
-      lat: '42.8559'
-      long: "-72.6018"
-    - name: West Burke
-      region: VT
-      lat: '44.6431'
-      long: "-71.9792"
-    - name: West Charlotte
-      region: VT
-      lat: '44.3099'
-      long: "-73.2546"
-    - name: West Dummerston
-      region: VT
-      lat: '42.9299'
-      long: "-72.6128"
-    - name: West Pawlet
-      region: VT
-      lat: '43.3575'
-      long: "-73.2470"
-    - name: West Woodstock
-      region: VT
-      lat: '43.6113'
-      long: "-72.5513"
-    - name: Westford
-      region: VT
-      lat: '44.6079'
-      long: "-73.0113"
-    - name: Weston
-      region: VT
-      lat: '43.2904'
-      long: "-72.7922"
-    - name: White River Junction
-      region: VT
-      lat: '43.6499'
-      long: "-72.3290"
-    - name: Whitingham
-      region: VT
-      lat: '42.7892'
-      long: "-72.8834"
-    - name: Wilder
-      region: VT
-      lat: '43.6804'
-      long: "-72.3168"
-    - name: Winooski
-      region: VT
-      lat: '44.4948'
-      long: "-73.1846"
-    - name: Wolcott
-      region: VT
-      lat: '44.5476'
-      long: "-72.4617"
+- country: US
+  region: VT
+  name: Algiers
+  lat: '42.8182'
+  long: "-72.5771"
+  nearby_rate_centers:
+  - name: BRATTLEBO
+    distance:
+      value: 4.36
+      units: km
+  - name: WILLIAMSVL
+    distance:
+      value: 16.26
+      units: km
+  - name: PUTNEY
+    distance:
+      value: 17.7
+      units: km
+- country: US
+  region: VT
+  name: Ascutney
+  lat: '43.4080'
+  long: "-72.4070"
+  nearby_rate_centers:
+  - name: WEATHESFLD
+    distance:
+      value: 6.11
+      units: km
+  - name: WINDSOR
+    distance:
+      value: 8.29
+      units: km
+  - name: PERKINSVL
+    distance:
+      value: 9.54
+      units: km
+- country: US
+  region: VT
+  name: Bakersfield
+  lat: '44.7821'
+  long: "-72.8032"
+  nearby_rate_centers:
+  - name: EFAIRFIELD
+    distance:
+      value: 4.64
+      units: km
+  - name: ENOSBG FLS
+    distance:
+      value: 13.69
+      units: km
+  - name: JEFFERSNVL
+    distance:
+      value: 15.42
+      units: km
+- country: US
+  region: VT
+  name: Barre
+  lat: '44.1998'
+  long: "-72.5085"
+  nearby_rate_centers:
+  - name: BARRE
+    distance:
+      value: 0.72
+      units: km
+  - name: MONTPELIER
+    distance:
+      value: 8.71
+      units: km
+  - name: WILLIAMSTN
+    distance:
+      value: 8.96
+      units: km
+- country: US
+  region: VT
+  name: Beecher Falls
+  lat: '45.0091'
+  long: "-71.4936"
+  nearby_rate_centers:
+  - name: CANAAN
+    distance:
+      value: 3.89
+      units: km
+  - name: LEMINGTON
+    distance:
+      value: 12.24
+      units: km
+  - name: NORTON
+    distance:
+      value: 24.04
+      units: km
+- country: US
+  region: VT
+  name: Bellows Falls
+  lat: '43.1344'
+  long: "-72.4550"
+  nearby_rate_centers:
+  - name: BELLOWSFLS
+    distance:
+      value: 0.66
+      units: km
+  - name: SAXTONSRIV
+    distance:
+      value: 4.15
+      units: km
+  - name: WESTMINSTR
+    distance:
+      value: 5.93
+      units: km
+- country: US
+  region: VT
+  name: Bolton
+  lat: '44.3742'
+  long: "-72.8859"
+  nearby_rate_centers:
+  - name: RICHMOND
+    distance:
+      value: 9.18
+      units: km
+  - name: WATERBURY
+    distance:
+      value: 11.05
+      units: km
+  - name: UNDERHILL
+    distance:
+      value: 17.07
+      units: km
+- country: US
+  region: VT
+  name: Bolton Valley
+  lat: '44.4166'
+  long: "-72.8576"
+  nearby_rate_centers:
+  - name: RICHMOND
+    distance:
+      value: 10.87
+      units: km
+  - name: WATERBURY
+    distance:
+      value: 11.72
+      units: km
+  - name: UNDERHILL
+    distance:
+      value: 13.57
+      units: km
+- country: US
+  region: VT
+  name: Burlington
+  lat: '44.4876'
+  long: "-73.2316"
+  nearby_rate_centers:
+  - name: BURLINGTON
+    distance:
+      value: 2.36
+      units: km
+  - name: ESSEX JCT
+    distance:
+      value: 9.8
+      units: km
+  - name: MILTON
+    distance:
+      value: 19.24
+      units: km
+- country: US
+  region: VT
+  name: Castleton Four Corners
+  lat: '43.6105'
+  long: "-73.2104"
+  nearby_rate_centers:
+  - name: CASTLETON
+    distance:
+      value: 2.82
+      units: km
+  - name: FAIR HAVEN
+    distance:
+      value: 4.88
+      units: km
+  - name: POULTNEY
+    distance:
+      value: 10.27
+      units: km
+- country: US
+  region: VT
+  name: Chimney Hill
+  lat: '42.8888'
+  long: "-72.9040"
+  nearby_rate_centers:
+  - name: WILMINGTON
+    distance:
+      value: 3.57
+      units: km
+  - name: JACKSONVL
+    distance:
+      value: 12.28
+      units: km
+  - name: READSBORO
+    distance:
+      value: 13.76
+      units: km
+- country: US
+  region: VT
+  name: Chittenden
+  lat: '43.7039'
+  long: "-72.9494"
+  nearby_rate_centers:
+  - name: PITTSFORD
+    distance:
+      value: 6.41
+      units: km
+  - name: PROCTOR
+    distance:
+      value: 8.26
+      units: km
+  - name: RUTLAND
+    distance:
+      value: 10.96
+      units: km
+- country: US
+  region: VT
+  name: Danby
+  lat: '43.3452'
+  long: "-72.9946"
+  nearby_rate_centers:
+  - name: DANBY
+    distance:
+      value: 0.25
+      units: km
+  - name: DORSET
+    distance:
+      value: 13.2
+      units: km
+  - name: WALLINGFD
+    distance:
+      value: 14.46
+      units: km
+- country: US
+  region: VT
+  name: Derby Center
+  lat: '44.9549'
+  long: "-72.1361"
+  nearby_rate_centers:
+  - name: DERBY
+    distance:
+      value: 0.6
+      units: km
+  - name: DERBY LINE
+    distance:
+      value: 5.22
+      units: km
+  - name: NEWPORT
+    distance:
+      value: 6.05
+      units: km
+- country: US
+  region: VT
+  name: Derby Line
+  lat: '45.0008'
+  long: "-72.1035"
+  nearby_rate_centers:
+  - name: DERBY LINE
+    distance:
+      value: 0.5
+      units: km
+  - name: DERBY
+    distance:
+      value: 5.29
+      units: km
+  - name: NEWPORT
+    distance:
+      value: 10.87
+      units: km
+- country: US
+  region: VT
+  name: East Barre
+  lat: '44.1500'
+  long: "-72.4498"
+  nearby_rate_centers:
+  - name: WASHINGTON
+    distance:
+      value: 5.05
+      units: km
+  - name: BARRE
+    distance:
+      value: 6.65
+      units: km
+  - name: WILLIAMSTN
+    distance:
+      value: 8.02
+      units: km
+- country: US
+  region: VT
+  name: East Burke
+  lat: '44.5875'
+  long: "-71.9403"
+  nearby_rate_centers:
+  - name: WEST BURKE
+    distance:
+      value: 7.1
+      units: km
+  - name: LYNDONVL
+    distance:
+      value: 7.71
+      units: km
+  - name: CONCORD
+    distance:
+      value: 17.9
+      units: km
+- country: US
+  region: VT
+  name: East Charlotte
+  lat: '44.3184'
+  long: "-73.1909"
+  nearby_rate_centers:
+  - name: CHARLOTTE
+    distance:
+      value: 4.93
+      units: km
+  - name: HINESBURG
+    distance:
+      value: 6.64
+      units: km
+  - name: VERGENNES
+    distance:
+      value: 16.96
+      units: km
+- country: US
+  region: VT
+  name: East Dorset
+  lat: '43.2450'
+  long: "-73.0069"
+  nearby_rate_centers:
+  - name: DORSET
+    distance:
+      value: 7.44
+      units: km
+  - name: MANCHESTER
+    distance:
+      value: 8.51
+      units: km
+  - name: DANBY
+    distance:
+      value: 11.34
+      units: km
+- country: US
+  region: VT
+  name: East Middlebury
+  lat: '43.9746'
+  long: "-73.1052"
+  nearby_rate_centers:
+  - name: MIDDLEBURY
+    distance:
+      value: 6.06
+      units: km
+  - name: SALISBURY
+    distance:
+      value: 8.63
+      units: km
+  - name: CORNWALL
+    distance:
+      value: 11.03
+      units: km
+- country: US
+  region: VT
+  name: East Poultney
+  lat: '43.5259'
+  long: "-73.2107"
+  nearby_rate_centers:
+  - name: POULTNEY
+    distance:
+      value: 1.9
+      units: km
+  - name: MIDLETNSPG
+    distance:
+      value: 8.73
+      units: km
+  - name: FAIR HAVEN
+    distance:
+      value: 9.18
+      units: km
+- country: US
+  region: VT
+  name: Enosburg Falls
+  lat: '44.9083'
+  long: "-72.8026"
+  nearby_rate_centers:
+  - name: ENOSBG FLS
+    distance:
+      value: 0.51
+      units: km
+  - name: FRANKLIN
+    distance:
+      value: 12.25
+      units: km
+  - name: RICHFORD
+    distance:
+      value: 13.9
+      units: km
+- country: US
+  region: VT
+  name: Essex Junction
+  lat: '44.4902'
+  long: "-73.1141"
+  nearby_rate_centers:
+  - name: ESSEX JCT
+    distance:
+      value: 0.49
+      units: km
+  - name: BURLINGTON
+    distance:
+      value: 7.48
+      units: km
+  - name: RICHMOND
+    distance:
+      value: 13.51
+      units: km
+- country: US
+  region: VT
+  name: Gilman
+  lat: '44.4135'
+  long: "-71.7157"
+  nearby_rate_centers:
+  - name: LUNENBURG
+    distance:
+      value: 0.43
+      units: km
+  - name: GUILDHALL
+    distance:
+      value: 12.14
+      units: km
+  - name: CONCORD
+    distance:
+      value: 14.13
+      units: km
+- country: US
+  region: VT
+  name: Grafton
+  lat: '43.1706'
+  long: "-72.6084"
+  nearby_rate_centers:
+  - name: GRAFTON
+    distance:
+      value: 0.4
+      units: km
+  - name: SAXTONSRIV
+    distance:
+      value: 9.08
+      units: km
+  - name: CHESTER
+    distance:
+      value: 10.47
+      units: km
+- country: US
+  region: VT
+  name: Graniteville
+  lat: '44.1463'
+  long: "-72.4818"
+  nearby_rate_centers:
+  - name: WILLIAMSTN
+    distance:
+      value: 5.52
+      units: km
+  - name: BARRE
+    distance:
+      value: 5.9
+      units: km
+  - name: WASHINGTON
+    distance:
+      value: 5.98
+      units: km
+- country: US
+  region: VT
+  name: Greensboro Bend
+  lat: '44.5582'
+  long: "-72.2643"
+  nearby_rate_centers:
+  - name: GREENSBORO
+    distance:
+      value: 3.02
+      units: km
+  - name: HARDWICK
+    distance:
+      value: 10.49
+      units: km
+  - name: CRAFTSBURY
+    distance:
+      value: 12.21
+      units: km
+- country: US
+  region: VT
+  name: Hanksville
+  lat: '44.2514'
+  long: "-72.9614"
+  nearby_rate_centers:
+  - name: WAITSFIELD
+    distance:
+      value: 12.83
+      units: km
+  - name: HINESBURG
+    distance:
+      value: 14.63
+      units: km
+  - name: BRISTOL
+    distance:
+      value: 16.13
+      units: km
+- country: US
+  region: VT
+  name: Harmonyville
+  lat: '43.0372'
+  long: "-72.6657"
+  nearby_rate_centers:
+  - name: NEWFANE
+    distance:
+      value: 4.73
+      units: km
+  - name: WARDSBORO
+    distance:
+      value: 10.19
+      units: km
+  - name: WILLIAMSVL
+    distance:
+      value: 10.27
+      units: km
+- country: US
+  region: VT
+  name: Hartford Village
+  lat: '43.6638'
+  long: "-72.3364"
+  nearby_rate_centers:
+  - name: WH RIV JCT
+    distance:
+      value: 2.22
+      units: km
+  - name: NORWICH
+    distance:
+      value: 6.27
+      units: km
+  - name: HARTLAND
+    distance:
+      value: 14.54
+      units: km
+- country: US
+  region: VT
+  name: Highgate Center
+  lat: '44.9375'
+  long: "-73.0421"
+  nearby_rate_centers:
+  - name: SWANTON
+    distance:
+      value: 6.74
+      units: km
+  - name: FRANKLIN
+    distance:
+      value: 11.1
+      units: km
+  - name: ST ALBANS
+    distance:
+      value: 14.12
+      units: km
+- country: US
+  region: VT
+  name: Highgate Springs
+  lat: '44.9782'
+  long: "-73.1056"
+  nearby_rate_centers:
+  - name: SWANTON
+    distance:
+      value: 6.92
+      units: km
+  - name: FRANKLIN
+    distance:
+      value: 14.87
+      units: km
+  - name: ALBURG
+    distance:
+      value: 15.14
+      units: km
+- country: US
+  region: VT
+  name: Huntington
+  lat: '44.3274'
+  long: "-72.9892"
+  nearby_rate_centers:
+  - name: RICHMOND
+    distance:
+      value: 8.59
+      units: km
+  - name: HINESBURG
+    distance:
+      value: 9.53
+      units: km
+  - name: WATERBURY
+    distance:
+      value: 18.7
+      units: km
+- country: US
+  region: VT
+  name: Huntington Center
+  lat: '44.2906'
+  long: "-72.9672"
+  nearby_rate_centers:
+  - name: HINESBURG
+    distance:
+      value: 12.1
+      units: km
+  - name: RICHMOND
+    distance:
+      value: 12.84
+      units: km
+  - name: WAITSFIELD
+    distance:
+      value: 15.83
+      units: km
+- country: US
+  region: VT
+  name: Island Pond
+  lat: '44.8125'
+  long: "-71.8862"
+  nearby_rate_centers:
+  - name: ISLANDPOND
+    distance:
+      value: 0.67
+      units: km
+  - name: MORGAN
+    distance:
+      value: 15.05
+      units: km
+  - name: WEST BURKE
+    distance:
+      value: 20.53
+      units: km
+- country: US
+  region: VT
+  name: Jacksonville
+  lat: '42.7976'
+  long: "-72.8192"
+  nearby_rate_centers:
+  - name: JACKSONVL
+    distance:
+      value: 0.23
+      units: km
+  - name: WILMINGTON
+    distance:
+      value: 8.79
+      units: km
+  - name: READSBORO
+    distance:
+      value: 10.83
+      units: km
+- country: US
+  region: VT
+  name: Jamaica
+  lat: '43.0975'
+  long: "-72.7784"
+  nearby_rate_centers:
+  - name: JAMAICA
+    distance:
+      value: 0.41
+      units: km
+  - name: WARDSBORO
+    distance:
+      value: 5.93
+      units: km
+  - name: SOLONDODRY
+    distance:
+      value: 10.57
+      units: km
+- country: US
+  region: VT
+  name: Jeffersonville
+  lat: '44.6427'
+  long: "-72.8282"
+  nearby_rate_centers:
+  - name: JEFFERSNVL
+    distance:
+      value: 0.3
+      units: km
+  - name: JOHNSON
+    distance:
+      value: 11.23
+      units: km
+  - name: FAIRFAX
+    distance:
+      value: 14.8
+      units: km
+- country: US
+  region: VT
+  name: Killington Village
+  lat: '43.6505'
+  long: "-72.7851"
+  nearby_rate_centers:
+  - name: SHERBURNE
+    distance:
+      value: 1.77
+      units: km
+  - name: PITTSFIELD
+    distance:
+      value: 13.91
+      units: km
+  - name: BRIDGEWTR
+    distance:
+      value: 14.45
+      units: km
+- country: US
+  region: VT
+  name: Lincoln
+  lat: '44.1028'
+  long: "-72.9937"
+  nearby_rate_centers:
+  - name: BRISTOL
+    distance:
+      value: 7.37
+      units: km
+  - name: MIDDLEBURY
+    distance:
+      value: 16.8
+      units: km
+  - name: WAITSFIELD
+    distance:
+      value: 16.96
+      units: km
+- country: US
+  region: VT
+  name: Londonderry
+  lat: '43.2278'
+  long: "-72.8083"
+  nearby_rate_centers:
+  - name: SOLONDODRY
+    distance:
+      value: 4.5
+      units: km
+  - name: JAMAICA
+    distance:
+      value: 14.31
+      units: km
+  - name: CHESTER
+    distance:
+      value: 16.84
+      units: km
+- country: US
+  region: VT
+  name: Lunenburg
+  lat: '44.4570'
+  long: "-71.6803"
+  nearby_rate_centers:
+  - name: LUNENBURG
+    distance:
+      value: 5.74
+      units: km
+  - name: GUILDHALL
+    distance:
+      value: 6.99
+      units: km
+  - name: CONCORD
+    distance:
+      value: 17.07
+      units: km
+- country: US
+  region: VT
+  name: Lyndon
+  lat: '44.5154'
+  long: "-72.0134"
+  nearby_rate_centers:
+  - name: LYNDONVL
+    distance:
+      value: 2.28
+      units: km
+  - name: ST JOHNSBY
+    distance:
+      value: 10.97
+      units: km
+  - name: CONCORD
+    distance:
+      value: 13.5
+      units: km
+- country: US
+  region: VT
+  name: Lyndon Center
+  lat: '44.5377'
+  long: "-72.0142"
+  nearby_rate_centers:
+  - name: LYNDONVL
+    distance:
+      value: 0.95
+      units: km
+  - name: WEST BURKE
+    distance:
+      value: 11.82
+      units: km
+  - name: ST JOHNSBY
+    distance:
+      value: 13.45
+      units: km
+- country: US
+  region: VT
+  name: Lyndonville
+  lat: '44.5351'
+  long: "-72.0017"
+  nearby_rate_centers:
+  - name: LYNDONVL
+    distance:
+      value: 0.13
+      units: km
+  - name: WEST BURKE
+    distance:
+      value: 11.97
+      units: km
+  - name: ST JOHNSBY
+    distance:
+      value: 13.24
+      units: km
+- country: US
+  region: VT
+  name: Manchester Center
+  lat: '43.1820'
+  long: "-73.0369"
+  nearby_rate_centers:
+  - name: MANCHESTER
+    distance:
+      value: 1.5
+      units: km
+  - name: DORSET
+    distance:
+      value: 9.36
+      units: km
+  - name: ARLINGTON
+    distance:
+      value: 15.55
+      units: km
+- country: US
+  region: VT
+  name: Middletown Springs
+  lat: '43.4865'
+  long: "-73.1232"
+  nearby_rate_centers:
+  - name: MIDLETNSPG
+    distance:
+      value: 0.43
+      units: km
+  - name: POULTNEY
+    distance:
+      value: 9.55
+      units: km
+  - name: WELLS
+    distance:
+      value: 10.11
+      units: km
+- country: US
+  region: VT
+  name: Montpelier
+  lat: '44.2659'
+  long: "-72.5717"
+  nearby_rate_centers:
+  - name: MONTPELIER
+    distance:
+      value: 0.4
+      units: km
+  - name: BARRE
+    distance:
+      value: 9.49
+      units: km
+  - name: PLAINFIELD
+    distance:
+      value: 10.97
+      units: km
+- country: US
+  region: VT
+  name: Morrisville
+  lat: '44.5583'
+  long: "-72.5933"
+  nearby_rate_centers:
+  - name: MORRISVL
+    distance:
+      value: 0.44
+      units: km
+  - name: JOHNSON
+    distance:
+      value: 11.23
+      units: km
+  - name: STOWE
+    distance:
+      value: 12.69
+      units: km
+- country: US
+  region: VT
+  name: New Haven
+  lat: '44.1266'
+  long: "-73.1510"
+  nearby_rate_centers:
+  - name: BRISTOL
+    distance:
+      value: 5.98
+      units: km
+  - name: VERGENNES
+    distance:
+      value: 8.39
+      units: km
+  - name: WEYBRIDGE
+    distance:
+      value: 8.59
+      units: km
+- country: US
+  region: VT
+  name: Newport
+  lat: '44.9372'
+  long: "-72.2090"
+  nearby_rate_centers:
+  - name: NEWPORT
+    distance:
+      value: 0.05
+      units: km
+  - name: DERBY
+    distance:
+      value: 6.67
+      units: km
+  - name: DERBY LINE
+    distance:
+      value: 10.42
+      units: km
+- country: US
+  region: VT
+  name: Newport Center
+  lat: '44.9527'
+  long: "-72.3065"
+  nearby_rate_centers:
+  - name: NEWPORT
+    distance:
+      value: 7.86
+      units: km
+  - name: NORTH TROY
+    distance:
+      value: 9.24
+      units: km
+  - name: TROY
+    distance:
+      value: 9.64
+      units: km
+- country: US
+  region: VT
+  name: North Bennington
+  lat: '42.9240'
+  long: "-73.2411"
+  nearby_rate_centers:
+  - name: BENNINGTON
+    distance:
+      value: 5.93
+      units: km
+  - name: POWNAL
+    distance:
+      value: 17.38
+      units: km
+  - name: ARLINGTON
+    distance:
+      value: 17.93
+      units: km
+- country: US
+  region: VT
+  name: North Clarendon
+  lat: '43.5722'
+  long: "-72.9667"
+  nearby_rate_centers:
+  - name: RUTLAND
+    distance:
+      value: 3.99
+      units: km
+  - name: W RUTLAND
+    distance:
+      value: 7.4
+      units: km
+  - name: WALLINGFD
+    distance:
+      value: 10.88
+      units: km
+- country: US
+  region: VT
+  name: North Hartland
+  lat: '43.5936'
+  long: "-72.3578"
+  nearby_rate_centers:
+  - name: HARTLAND
+    distance:
+      value: 6.7
+      units: km
+  - name: WH RIV JCT
+    distance:
+      value: 6.73
+      units: km
+  - name: WINDSOR
+    distance:
+      value: 12.73
+      units: km
+- country: US
+  region: VT
+  name: North Hyde Park
+  lat: '44.6702'
+  long: "-72.5927"
+  nearby_rate_centers:
+  - name: JOHNSON
+    distance:
+      value: 8.44
+      units: km
+  - name: MORRISVL
+    distance:
+      value: 12.15
+      units: km
+  - name: CRAFTSBURY
+    distance:
+      value: 17.91
+      units: km
+- country: US
+  region: VT
+  name: North Pownal
+  lat: '42.7984'
+  long: "-73.2620"
+  nearby_rate_centers:
+  - name: POWNAL
+    distance:
+      value: 3.88
+      units: km
+  - name: BENNINGTON
+    distance:
+      value: 10.7
+      units: km
+  - name: STAMFORD
+    distance:
+      value: 16.23
+      units: km
+- country: US
+  region: VT
+  name: North Springfield
+  lat: '43.3304'
+  long: "-72.5277"
+  nearby_rate_centers:
+  - name: PERKINSVL
+    distance:
+      value: 5.14
+      units: km
+  - name: SPRINGFLD
+    distance:
+      value: 5.16
+      units: km
+  - name: CHESTER
+    distance:
+      value: 9.7
+      units: km
+- country: US
+  region: VT
+  name: North Troy
+  lat: '44.9963'
+  long: "-72.4038"
+  nearby_rate_centers:
+  - name: NORTH TROY
+    distance:
+      value: 0.23
+      units: km
+  - name: TROY
+    distance:
+      value: 10.42
+      units: km
+  - name: NEWPORT
+    distance:
+      value: 16.66
+      units: km
+- country: US
+  region: VT
+  name: North Westminster
+  lat: '43.1219'
+  long: "-72.4554"
+  nearby_rate_centers:
+  - name: BELLOWSFLS
+    distance:
+      value: 1.42
+      units: km
+  - name: SAXTONSRIV
+    distance:
+      value: 4.47
+      units: km
+  - name: WESTMINSTR
+    distance:
+      value: 4.55
+      units: km
+- country: US
+  region: VT
+  name: Old Bennington
+  lat: '42.8848'
+  long: "-73.2143"
+  nearby_rate_centers:
+  - name: BENNINGTON
+    distance:
+      value: 1.49
+      units: km
+  - name: POWNAL
+    distance:
+      value: 13.18
+      units: km
+  - name: STAMFORD
+    distance:
+      value: 18.57
+      units: km
+- country: US
+  region: VT
+  name: Orleans
+  lat: '44.8090'
+  long: "-72.2011"
+  nearby_rate_centers:
+  - name: ORLEANS
+    distance:
+      value: 0.43
+      units: km
+  - name: BARTON
+    distance:
+      value: 6.85
+      units: km
+  - name: NEWPORT
+    distance:
+      value: 14.31
+      units: km
+- country: US
+  region: VT
+  name: Pawlet
+  lat: '43.3481'
+  long: "-73.1743"
+  nearby_rate_centers:
+  - name: PAWLET
+    distance:
+      value: 0.54
+      units: km
+  - name: WELLS
+    distance:
+      value: 7.81
+      units: km
+  - name: RUPERT
+    distance:
+      value: 10.49
+      units: km
+- country: US
+  region: VT
+  name: Peacham
+  lat: '44.3296'
+  long: "-72.1725"
+  nearby_rate_centers:
+  - name: PEACHAM
+    distance:
+      value: 0.29
+      units: km
+  - name: DANVILLE
+    distance:
+      value: 9.53
+      units: km
+  - name: BARNET
+    distance:
+      value: 10.12
+      units: km
+- country: US
+  region: VT
+  name: Pownal
+  lat: '42.7653'
+  long: "-73.2355"
+  nearby_rate_centers:
+  - name: POWNAL
+    distance:
+      value: 0.42
+      units: km
+  - name: BENNINGTON
+    distance:
+      value: 13.34
+      units: km
+  - name: STAMFORD
+    distance:
+      value: 13.36
+      units: km
+- country: US
+  region: VT
+  name: Pownal Center
+  lat: '42.7977'
+  long: "-73.2214"
+  nearby_rate_centers:
+  - name: POWNAL
+    distance:
+      value: 3.65
+      units: km
+  - name: BENNINGTON
+    distance:
+      value: 9.57
+      units: km
+  - name: STAMFORD
+    distance:
+      value: 13.08
+      units: km
+- country: US
+  region: VT
+  name: Proctor
+  lat: '43.6691'
+  long: "-73.0405"
+  nearby_rate_centers:
+  - name: PROCTOR
+    distance:
+      value: 0.74
+      units: km
+  - name: PITTSFORD
+    distance:
+      value: 4.22
+      units: km
+  - name: W RUTLAND
+    distance:
+      value: 8.03
+      units: km
+- country: US
+  region: VT
+  name: Proctorsville
+  lat: '43.3810'
+  long: "-72.6373"
+  nearby_rate_centers:
+  - name: PROCTORSVL
+    distance:
+      value: 0.5
+      units: km
+  - name: LUDLOW
+    distance:
+      value: 5.43
+      units: km
+  - name: PERKINSVL
+    distance:
+      value: 9.78
+      units: km
+- country: US
+  region: VT
+  name: Quechee
+  lat: '43.6445'
+  long: "-72.4184"
+  nearby_rate_centers:
+  - name: WH RIV JCT
+    distance:
+      value: 7.91
+      units: km
+  - name: WOODSTOCK
+    distance:
+      value: 8.39
+      units: km
+  - name: HARTLAND
+    distance:
+      value: 11.62
+      units: km
+- country: US
+  region: VT
+  name: Rutland
+  lat: '43.6092'
+  long: "-72.9783"
+  nearby_rate_centers:
+  - name: RUTLAND
+    distance:
+      value: 0.25
+      units: km
+  - name: W RUTLAND
+    distance:
+      value: 6.06
+      units: km
+  - name: PROCTOR
+    distance:
+      value: 7.6
+      units: km
+- country: US
+  region: VT
+  name: Saint George
+  lat: '44.3770'
+  long: "-73.1300"
+  nearby_rate_centers:
+  - name: HINESBURG
+    distance:
+      value: 5.51
+      units: km
+  - name: RICHMOND
+    distance:
+      value: 11.28
+      units: km
+  - name: CHARLOTTE
+    distance:
+      value: 12.18
+      units: km
+- country: US
+  region: VT
+  name: Saxtons River
+  lat: '43.1390'
+  long: "-72.5102"
+  nearby_rate_centers:
+  - name: SAXTONSRIV
+    distance:
+      value: 0.37
+      units: km
+  - name: BELLOWSFLS
+    distance:
+      value: 5.16
+      units: km
+  - name: WESTMINSTR
+    distance:
+      value: 8.16
+      units: km
+- country: US
+  region: VT
+  name: Sheffield
+  lat: '44.5996'
+  long: "-72.1160"
+  nearby_rate_centers:
+  - name: WEST BURKE
+    distance:
+      value: 11.28
+      units: km
+  - name: LYNDONVL
+    distance:
+      value: 11.51
+      units: km
+  - name: GREENSBORO
+    distance:
+      value: 14.25
+      units: km
+- country: US
+  region: VT
+  name: South Barre
+  lat: '44.1646'
+  long: "-72.5038"
+  nearby_rate_centers:
+  - name: BARRE
+    distance:
+      value: 3.69
+      units: km
+  - name: WILLIAMSTN
+    distance:
+      value: 5.58
+      units: km
+  - name: WASHINGTON
+    distance:
+      value: 8.67
+      units: km
+- country: US
+  region: VT
+  name: South Burlington
+  lat: '44.4622'
+  long: "-73.2202"
+  nearby_rate_centers:
+  - name: BURLINGTON
+    distance:
+      value: 1.93
+      units: km
+  - name: ESSEX JCT
+    distance:
+      value: 9.47
+      units: km
+  - name: CHARLOTTE
+    distance:
+      value: 17.04
+      units: km
+- country: US
+  region: VT
+  name: South Hero
+  lat: '44.6479'
+  long: "-73.3017"
+  nearby_rate_centers:
+  - name: GRAND ISLE
+    distance:
+      value: 7.75
+      units: km
+  - name: MILTON
+    distance:
+      value: 15.29
+      units: km
+  - name: BURLINGTON
+    distance:
+      value: 20.51
+      units: km
+- country: US
+  region: VT
+  name: South Lincoln
+  lat: '44.0651'
+  long: "-72.9748"
+  nearby_rate_centers:
+  - name: BRISTOL
+    distance:
+      value: 11.02
+      units: km
+  - name: MIDDLEBURY
+    distance:
+      value: 16.04
+      units: km
+  - name: WAITSFIELD
+    distance:
+      value: 18.72
+      units: km
+- country: US
+  region: VT
+  name: South Londonderry
+  lat: '43.1904'
+  long: "-72.8118"
+  nearby_rate_centers:
+  - name: SOLONDODRY
+    distance:
+      value: 0.59
+      units: km
+  - name: JAMAICA
+    distance:
+      value: 10.31
+      units: km
+  - name: WARDSBORO
+    distance:
+      value: 16.26
+      units: km
+- country: US
+  region: VT
+  name: South Royalton
+  lat: '43.8123'
+  long: "-72.5155"
+  nearby_rate_centers:
+  - name: SOROYALTON
+    distance:
+      value: 1.41
+      units: km
+  - name: TUNBRIDGE
+    distance:
+      value: 8.53
+      units: km
+  - name: BETHEL
+    distance:
+      value: 9.68
+      units: km
+- country: US
+  region: VT
+  name: South Shaftsbury
+  lat: '42.9411'
+  long: "-73.2020"
+  nearby_rate_centers:
+  - name: BENNINGTON
+    distance:
+      value: 6.61
+      units: km
+  - name: ARLINGTON
+    distance:
+      value: 15.13
+      units: km
+  - name: POWNAL
+    distance:
+      value: 19.52
+      units: km
+- country: US
+  region: VT
+  name: South Woodstock
+  lat: '43.5608'
+  long: "-72.5321"
+  nearby_rate_centers:
+  - name: WOODSTOCK
+    distance:
+      value: 7.49
+      units: km
+  - name: BRIDGEWTR
+    distance:
+      value: 8.26
+      units: km
+  - name: HARTLAND
+    distance:
+      value: 11.0
+      units: km
+- country: US
+  region: VT
+  name: St. Albans
+  lat: '44.8119'
+  long: "-73.0849"
+  nearby_rate_centers:
+  - name: ST ALBANS
+    distance:
+      value: 0.27
+      units: km
+  - name: SWANTON
+    distance:
+      value: 12.07
+      units: km
+  - name: FAIRFAX
+    distance:
+      value: 17.33
+      units: km
+- country: US
+  region: VT
+  name: Stamford
+  lat: '42.7595'
+  long: "-73.0562"
+  nearby_rate_centers:
+  - name: STAMFORD
+    distance:
+      value: 1.46
+      units: km
+  - name: READSBORO
+    distance:
+      value: 9.06
+      units: km
+  - name: POWNAL
+    distance:
+      value: 14.99
+      units: km
+- country: US
+  region: VT
+  name: Stratton Mountain
+  lat: '43.1170'
+  long: "-72.9025"
+  nearby_rate_centers:
+  - name: JAMAICA
+    distance:
+      value: 10.31
+      units: km
+  - name: SOLONDODRY
+    distance:
+      value: 10.44
+      units: km
+  - name: WARDSBORO
+    distance:
+      value: 12.11
+      units: km
+- country: US
+  region: VT
+  name: Sutton
+  lat: '44.6290'
+  long: "-72.0277"
+  nearby_rate_centers:
+  - name: WEST BURKE
+    distance:
+      value: 3.56
+      units: km
+  - name: LYNDONVL
+    distance:
+      value: 10.69
+      units: km
+  - name: BARTON
+    distance:
+      value: 17.87
+      units: km
+- country: US
+  region: VT
+  name: Townshend
+  lat: '43.0470'
+  long: "-72.6692"
+  nearby_rate_centers:
+  - name: NEWFANE
+    distance:
+      value: 5.85
+      units: km
+  - name: WARDSBORO
+    distance:
+      value: 9.87
+      units: km
+  - name: JAMAICA
+    distance:
+      value: 10.65
+      units: km
+- country: US
+  region: VT
+  name: Underhill Center
+  lat: '44.5080'
+  long: "-72.8989"
+  nearby_rate_centers:
+  - name: UNDERHILL
+    distance:
+      value: 3.88
+      units: km
+  - name: RICHMOND
+    distance:
+      value: 13.73
+      units: km
+  - name: JEFFERSNVL
+    distance:
+      value: 16.15
+      units: km
+- country: US
+  region: VT
+  name: Underhill Flats
+  lat: '44.5232'
+  long: "-72.9463"
+  nearby_rate_centers:
+  - name: UNDERHILL
+    distance:
+      value: 0.24
+      units: km
+  - name: ESSEX JCT
+    distance:
+      value: 13.31
+      units: km
+  - name: RICHMOND
+    distance:
+      value: 13.71
+      units: km
+- country: US
+  region: VT
+  name: Vergennes
+  lat: '44.1664'
+  long: "-73.2557"
+  nearby_rate_centers:
+  - name: VERGENNES
+    distance:
+      value: 1.5
+      units: km
+  - name: PANTON
+    distance:
+      value: 6.57
+      units: km
+  - name: ADDISON
+    distance:
+      value: 9.31
+      units: km
+- country: US
+  region: VT
+  name: Wardsboro
+  lat: '43.0435'
+  long: "-72.7889"
+  nearby_rate_centers:
+  - name: WARDSBORO
+    distance:
+      value: 0.21
+      units: km
+  - name: JAMAICA
+    distance:
+      value: 6.47
+      units: km
+  - name: NEWFANE
+    distance:
+      value: 12.25
+      units: km
+- country: US
+  region: VT
+  name: Waterbury Center
+  lat: '44.3780'
+  long: "-72.7208"
+  nearby_rate_centers:
+  - name: WATERBURY
+    distance:
+      value: 4.92
+      units: km
+  - name: STOWE
+    distance:
+      value: 10.15
+      units: km
+  - name: MONTPELIER
+    distance:
+      value: 17.36
+      units: km
+- country: US
+  region: VT
+  name: Websterville
+  lat: '44.1619'
+  long: "-72.4733"
+  nearby_rate_centers:
+  - name: BARRE
+    distance:
+      value: 4.52
+      units: km
+  - name: WASHINGTON
+    distance:
+      value: 7.01
+      units: km
+  - name: WILLIAMSTN
+    distance:
+      value: 7.04
+      units: km
+- country: US
+  region: VT
+  name: Wells River
+  lat: '44.1538'
+  long: "-72.0615"
+  nearby_rate_centers:
+  - name: WELLSRIVER
+    distance:
+      value: 1.68
+      units: km
+  - name: NEWBURY
+    distance:
+      value: 8.0
+      units: km
+  - name: W NEWBURY
+    distance:
+      value: 8.23
+      units: km
+- country: US
+  region: VT
+  name: West Brattleboro
+  lat: '42.8559'
+  long: "-72.6018"
+  nearby_rate_centers:
+  - name: BRATTLEBO
+    distance:
+      value: 3.46
+      units: km
+  - name: WILLIAMSVL
+    distance:
+      value: 11.63
+      units: km
+  - name: PUTNEY
+    distance:
+      value: 14.5
+      units: km
+- country: US
+  region: VT
+  name: West Burke
+  lat: '44.6431'
+  long: "-71.9792"
+  nearby_rate_centers:
+  - name: WEST BURKE
+    distance:
+      value: 0.6
+      units: km
+  - name: LYNDONVL
+    distance:
+      value: 12.22
+      units: km
+  - name: BARTON
+    distance:
+      value: 19.61
+      units: km
+- country: US
+  region: VT
+  name: West Charlotte
+  lat: '44.3099'
+  long: "-73.2546"
+  nearby_rate_centers:
+  - name: CHARLOTTE
+    distance:
+      value: 0.23
+      units: km
+  - name: HINESBURG
+    distance:
+      value: 11.79
+      units: km
+  - name: VERGENNES
+    distance:
+      value: 15.66
+      units: km
+- country: US
+  region: VT
+  name: West Dummerston
+  lat: '42.9299'
+  long: "-72.6128"
+  nearby_rate_centers:
+  - name: WILLIAMSVL
+    distance:
+      value: 5.44
+      units: km
+  - name: NEWFANE
+    distance:
+      value: 8.02
+      units: km
+  - name: PUTNEY
+    distance:
+      value: 8.87
+      units: km
+- country: US
+  region: VT
+  name: West Pawlet
+  lat: '43.3575'
+  long: "-73.2470"
+  nearby_rate_centers:
+  - name: PAWLET
+    distance:
+      value: 5.96
+      units: km
+  - name: WELLS
+    distance:
+      value: 7.42
+      units: km
+  - name: RUPERT
+    distance:
+      value: 10.85
+      units: km
+- country: US
+  region: VT
+  name: West Woodstock
+  lat: '43.6113'
+  long: "-72.5513"
+  nearby_rate_centers:
+  - name: WOODSTOCK
+    distance:
+      value: 3.1
+      units: km
+  - name: BRIDGEWTR
+    distance:
+      value: 6.54
+      units: km
+  - name: HARTLAND
+    distance:
+      value: 14.59
+      units: km
+- country: US
+  region: VT
+  name: Westford
+  lat: '44.6079'
+  long: "-73.0113"
+  nearby_rate_centers:
+  - name: FAIRFAX
+    distance:
+      value: 6.32
+      units: km
+  - name: MILTON
+    distance:
+      value: 8.39
+      units: km
+  - name: UNDERHILL
+    distance:
+      value: 10.95
+      units: km
+- country: US
+  region: VT
+  name: Weston
+  lat: '43.2904'
+  long: "-72.7922"
+  nearby_rate_centers:
+  - name: SOLONDODRY
+    distance:
+      value: 11.58
+      units: km
+  - name: LUDLOW
+    distance:
+      value: 14.19
+      units: km
+  - name: CHESTER
+    distance:
+      value: 15.29
+      units: km
+- country: US
+  region: VT
+  name: White River Junction
+  lat: '43.6499'
+  long: "-72.3290"
+  nearby_rate_centers:
+  - name: WH RIV JCT
+    distance:
+      value: 0.75
+      units: km
+  - name: NORWICH
+    distance:
+      value: 7.58
+      units: km
+  - name: HARTLAND
+    distance:
+      value: 13.34
+      units: km
+- country: US
+  region: VT
+  name: Whitingham
+  lat: '42.7892'
+  long: "-72.8834"
+  nearby_rate_centers:
+  - name: JACKSONVL
+    distance:
+      value: 5.12
+      units: km
+  - name: READSBORO
+    distance:
+      value: 5.58
+      units: km
+  - name: WILMINGTON
+    distance:
+      value: 8.6
+      units: km
+- country: US
+  region: VT
+  name: Wilder
+  lat: '43.6804'
+  long: "-72.3168"
+  nearby_rate_centers:
+  - name: WH RIV JCT
+    distance:
+      value: 3.66
+      units: km
+  - name: NORWICH
+    distance:
+      value: 4.06
+      units: km
+  - name: HARTLAND
+    distance:
+      value: 16.84
+      units: km
+- country: US
+  region: VT
+  name: Winooski
+  lat: '44.4948'
+  long: "-73.1846"
+  nearby_rate_centers:
+  - name: BURLINGTON
+    distance:
+      value: 2.67
+      units: km
+  - name: ESSEX JCT
+    distance:
+      value: 6.07
+      units: km
+  - name: MILTON
+    distance:
+      value: 16.91
+      units: km
+- country: US
+  region: VT
+  name: Wolcott
+  lat: '44.5476'
+  long: "-72.4617"
+  nearby_rate_centers:
+  - name: HARDWICK
+    distance:
+      value: 8.43
+      units: km
+  - name: MORRISVL
+    distance:
+      value: 10.85
+      units: km
+  - name: CRAFTSBURY
+    distance:
+      value: 12.32
+      units: km

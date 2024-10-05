@@ -1,168 +1,740 @@
 ---
 cities:
-  us:
-    NH:
-    - name: Berlin
-      region: NH
-      lat: '44.4869'
-      long: "-71.2599"
-    - name: Blodgett Landing
-      region: NH
-      lat: '43.3757'
-      long: "-72.0392"
-    - name: Center Ossipee
-      region: NH
-      lat: '43.7542'
-      long: "-71.1508"
-    - name: Center Sandwich
-      region: NH
-      lat: '43.8085'
-      long: "-71.4394"
-    - name: Claremont
-      region: NH
-      lat: '43.3790'
-      long: "-72.3368"
-    - name: Concord
-      region: NH
-      lat: '43.2305'
-      long: "-71.5595"
-    - name: Contoocook
-      region: NH
-      lat: '43.2232'
-      long: "-71.7129"
-    - name: Dover
-      region: NH
-      lat: '43.1887'
-      long: "-70.8845"
-    - name: East Merrimack
-      region: NH
-      lat: '42.8692'
-      long: "-71.4819"
-    - name: Francestown
-      region: NH
-      lat: '42.9895'
-      long: "-71.8141"
-    - name: Franklin
-      region: NH
-      lat: '43.4499'
-      long: "-71.6691"
-    - name: Groveton
-      region: NH
-      lat: '44.6048'
-      long: "-71.5201"
-    - name: Hampton Beach
-      region: NH
-      lat: '42.9140'
-      long: "-70.8127"
-    - name: Keene
-      region: NH
-      lat: '42.9494'
-      long: "-72.2998"
-    - name: Klondike Corner
-      region: NH
-      lat: '42.9640'
-      long: "-71.6389"
-    - name: Laconia
-      region: NH
-      lat: '43.5725'
-      long: "-71.4775"
-    - name: Lebanon
-      region: NH
-      lat: '43.6353'
-      long: "-72.2531"
-    - name: Manchester
-      region: NH
-      lat: '42.9848'
-      long: "-71.4447"
-    - name: Melvin Village
-      region: NH
-      lat: '43.6896'
-      long: "-71.3064"
-    - name: Milton Mills
-      region: NH
-      lat: '43.5037'
-      long: "-70.9654"
-    - name: Mountain Lakes
-      region: NH
-      lat: '44.1205'
-      long: "-71.9580"
-    - name: Nashua
-      region: NH
-      lat: '42.7491'
-      long: "-71.4910"
-    - name: New Boston
-      region: NH
-      lat: '42.9781'
-      long: "-71.6937"
-    - name: North Conway
-      region: NH
-      lat: '44.0415'
-      long: "-71.1224"
-    - name: North Haverhill
-      region: NH
-      lat: '44.0915'
-      long: "-72.0236"
-    - name: North Walpole
-      region: NH
-      lat: '43.1467'
-      long: "-72.4458"
-    - name: North Woodstock
-      region: NH
-      lat: '44.0364'
-      long: "-71.6968"
-    - name: Pinardville
-      region: NH
-      lat: '43.0010'
-      long: "-71.5171"
-    - name: Portsmouth
-      region: NH
-      lat: '43.0580'
-      long: "-70.7826"
-    - name: Rochester
-      region: NH
-      lat: '43.2990'
-      long: "-70.9787"
-    - name: Sanbornville
-      region: NH
-      lat: '43.5525'
-      long: "-71.0297"
-    - name: Seabrook Beach
-      region: NH
-      lat: '42.8850'
-      long: "-70.8234"
-    - name: Somersworth
-      region: NH
-      lat: '43.2534'
-      long: "-70.8856"
-    - name: South Hooksett
-      region: NH
-      lat: '43.0331'
-      long: "-71.4254"
-    - name: Suissevale
-      region: NH
-      lat: '43.7234'
-      long: "-71.3623"
-    - name: Suncook
-      region: NH
-      lat: '43.1382'
-      long: "-71.4530"
-    - name: Tilton Northfield
-      region: NH
-      lat: '43.4444'
-      long: "-71.5924"
-    - name: Union
-      region: NH
-      lat: '43.4912'
-      long: "-71.0231"
-    - name: West Stewartstown
-      region: NH
-      lat: '44.9907'
-      long: "-71.5311"
-    - name: West Swanzey
-      region: NH
-      lat: '42.8707'
-      long: "-72.3225"
-    - name: Woodsville
-      region: NH
-      lat: '44.1423'
-      long: "-72.0256"
+- country: US
+  region: NH
+  name: Berlin
+  lat: '44.4869'
+  long: "-71.2599"
+  nearby_rate_centers:
+  - name: BERLIN
+    distance:
+      value: 6.42
+      units: km
+  - name: GORHAM
+    distance:
+      value: 10.69
+      units: km
+  - name: MILAN
+    distance:
+      value: 11.0
+      units: km
+- country: US
+  region: NH
+  name: Blodgett Landing
+  lat: '43.3757'
+  long: "-72.0392"
+  nearby_rate_centers:
+  - name: SUNAPEE
+    distance:
+      value: 3.57
+      units: km
+  - name: NEW LONDON
+    distance:
+      value: 6.12
+      units: km
+  - name: SUTTON
+    distance:
+      value: 8.49
+      units: km
+- country: US
+  region: NH
+  name: Center Ossipee
+  lat: '43.7542'
+  long: "-71.1508"
+  nearby_rate_centers:
+  - name: CTROSSIPEE
+    distance:
+      value: 0.47
+      units: km
+  - name: MELVIN VLG
+    distance:
+      value: 14.56
+      units: km
+  - name: TAMWORTH
+    distance:
+      value: 15.03
+      units: km
+- country: US
+  region: NH
+  name: Center Sandwich
+  lat: '43.8085'
+  long: "-71.4394"
+  nearby_rate_centers:
+  - name: CTRSANDWIH
+    distance:
+      value: 0.19
+      units: km
+  - name: CENTER HBR
+    distance:
+      value: 11.24
+      units: km
+  - name: TAMWORTH
+    distance:
+      value: 15.33
+      units: km
+- country: US
+  region: NH
+  name: Claremont
+  lat: '43.3790'
+  long: "-72.3368"
+  nearby_rate_centers:
+  - name: CLAREMONT
+    distance:
+      value: 0.8
+      units: km
+  - name: NEWPORT
+    distance:
+      value: 13.25
+      units: km
+  - name: PLAINFIELD
+    distance:
+      value: 17.04
+      units: km
+- country: US
+  region: NH
+  name: Concord
+  lat: '43.2305'
+  long: "-71.5595"
+  nearby_rate_centers:
+  - name: CONCORD
+    distance:
+      value: 3.81
+      units: km
+  - name: PENACOOK
+    distance:
+      value: 6.41
+      units: km
+  - name: BOSCAWEN
+    distance:
+      value: 10.43
+      units: km
+- country: US
+  region: NH
+  name: Contoocook
+  lat: '43.2232'
+  long: "-71.7129"
+  nearby_rate_centers:
+  - name: CONTOOCOOK
+    distance:
+      value: 0.5
+      units: km
+  - name: WARNER
+    distance:
+      value: 10.11
+      units: km
+  - name: HENNIKER
+    distance:
+      value: 10.12
+      units: km
+- country: US
+  region: NH
+  name: Dover
+  lat: '43.1887'
+  long: "-70.8845"
+  nearby_rate_centers:
+  - name: DOVER
+    distance:
+      value: 0.88
+      units: km
+  - name: DURHAM
+    distance:
+      value: 6.87
+      units: km
+  - name: SOMERSWTH
+    distance:
+      value: 8.48
+      units: km
+- country: US
+  region: NH
+  name: East Merrimack
+  lat: '42.8692'
+  long: "-71.4819"
+  nearby_rate_centers:
+  - name: MERRIMACK
+    distance:
+      value: 1.36
+      units: km
+  - name: BEDFORD
+    distance:
+      value: 8.6
+      units: km
+  - name: NASHUA
+    distance:
+      value: 12.04
+      units: km
+- country: US
+  region: NH
+  name: Francestown
+  lat: '42.9895'
+  long: "-71.8141"
+  nearby_rate_centers:
+  - name: GREENFIELD
+    distance:
+      value: 6.2
+      units: km
+  - name: NEW BOSTON
+    distance:
+      value: 10.11
+      units: km
+  - name: ANTRIM
+    distance:
+      value: 11.02
+      units: km
+- country: US
+  region: NH
+  name: Franklin
+  lat: '43.4499'
+  long: "-71.6691"
+  nearby_rate_centers:
+  - name: FRANKLIN
+    distance:
+      value: 2.13
+      units: km
+  - name: TILTON
+    distance:
+      value: 6.18
+      units: km
+  - name: SALISBURY
+    distance:
+      value: 9.03
+      units: km
+- country: US
+  region: NH
+  name: Groveton
+  lat: '44.6048'
+  long: "-71.5201"
+  nearby_rate_centers:
+  - name: GROVETON
+    distance:
+      value: 0.7
+      units: km
+  - name: LANCASTER
+    distance:
+      value: 13.27
+      units: km
+  - name: NO STRATFD
+    distance:
+      value: 18.32
+      units: km
+- country: US
+  region: NH
+  name: Hampton Beach
+  lat: '42.9140'
+  long: "-70.8127"
+  nearby_rate_centers:
+  - name: HAMPTON
+    distance:
+      value: 3.04
+      units: km
+  - name: SEABROOK
+    distance:
+      value: 5.49
+      units: km
+  - name: RYE BEACH
+    distance:
+      value: 8.52
+      units: km
+- country: US
+  region: NH
+  name: Keene
+  lat: '42.9494'
+  long: "-72.2998"
+  nearby_rate_centers:
+  - name: KEENE
+    distance:
+      value: 2.19
+      units: km
+  - name: MARLBOROGH
+    distance:
+      value: 8.3
+      units: km
+  - name: SULLIVAN
+    distance:
+      value: 9.95
+      units: km
+- country: US
+  region: NH
+  name: Klondike Corner
+  lat: '42.9640'
+  long: "-71.6389"
+  nearby_rate_centers:
+  - name: NEW BOSTON
+    distance:
+      value: 4.46
+      units: km
+  - name: GOFFSTOWN
+    distance:
+      value: 6.68
+      units: km
+  - name: BEDFORD
+    distance:
+      value: 9.9
+      units: km
+- country: US
+  region: NH
+  name: Laconia
+  lat: '43.5725'
+  long: "-71.4775"
+  nearby_rate_centers:
+  - name: LACONIA
+    distance:
+      value: 4.27
+      units: km
+  - name: MEREDITH
+    distance:
+      value: 9.72
+      units: km
+  - name: BELMONT
+    distance:
+      value: 14.34
+      units: km
+- country: US
+  region: NH
+  name: Lebanon
+  lat: '43.6353'
+  long: "-72.2531"
+  nearby_rate_centers:
+  - name: LEBANON
+    distance:
+      value: 0.93
+      units: km
+  - name: W LEBANON
+    distance:
+      value: 4.9
+      units: km
+  - name: HANOVER
+    distance:
+      value: 8.02
+      units: km
+- country: US
+  region: NH
+  name: Manchester
+  lat: '42.9848'
+  long: "-71.4447"
+  nearby_rate_centers:
+  - name: MANCHESTER
+    distance:
+      value: 1.74
+      units: km
+  - name: BEDFORD
+    distance:
+      value: 7.92
+      units: km
+  - name: GOFFSTOWN
+    distance:
+      value: 13.46
+      units: km
+- country: US
+  region: NH
+  name: Melvin Village
+  lat: '43.6896'
+  long: "-71.3064"
+  nearby_rate_centers:
+  - name: MELVIN VLG
+    distance:
+      value: 0.16
+      units: km
+  - name: CENTER HBR
+    distance:
+      value: 12.81
+      units: km
+  - name: WOLFEBORO
+    distance:
+      value: 13.78
+      units: km
+- country: US
+  region: NH
+  name: Milton Mills
+  lat: '43.5037'
+  long: "-70.9654"
+  nearby_rate_centers:
+  - name: MILTON ML
+    distance:
+      value: 0.37
+      units: km
+  - name: SANBORNVL
+    distance:
+      value: 7.58
+      units: km
+  - name: MILTON
+    distance:
+      value: 10.3
+      units: km
+- country: US
+  region: NH
+  name: Mountain Lakes
+  lat: '44.1205'
+  long: "-71.9580"
+  nearby_rate_centers:
+  - name: WOODSVILLE
+    distance:
+      value: 6.76
+      units: km
+  - name: PIKE
+    distance:
+      value: 11.22
+      units: km
+  - name: LISBON
+    distance:
+      value: 11.42
+      units: km
+- country: US
+  region: NH
+  name: Nashua
+  lat: '42.7491'
+  long: "-71.4910"
+  nearby_rate_centers:
+  - name: NASHUA
+    distance:
+      value: 2.56
+      units: km
+  - name: HOLLIS
+    distance:
+      value: 8.21
+      units: km
+  - name: MERRIMACK
+    distance:
+      value: 12.27
+      units: km
+- country: US
+  region: NH
+  name: New Boston
+  lat: '42.9781'
+  long: "-71.6937"
+  nearby_rate_centers:
+  - name: NEW BOSTON
+    distance:
+      value: 0.31
+      units: km
+  - name: GOFFSTOWN
+    distance:
+      value: 8.58
+      units: km
+  - name: WEARE
+    distance:
+      value: 13.03
+      units: km
+- country: US
+  region: NH
+  name: North Conway
+  lat: '44.0415'
+  long: "-71.1224"
+  nearby_rate_centers:
+  - name: NO CONWAY
+    distance:
+      value: 1.24
+      units: km
+  - name: CONWAY
+    distance:
+      value: 6.98
+      units: km
+  - name: EASTCONWAY
+    distance:
+      value: 9.69
+      units: km
+- country: US
+  region: NH
+  name: North Haverhill
+  lat: '44.0915'
+  long: "-72.0236"
+  nearby_rate_centers:
+  - name: WOODSVILLE
+    distance:
+      value: 6.38
+      units: km
+  - name: PIKE
+    distance:
+      value: 6.83
+      units: km
+  - name: PIERMONT
+    distance:
+      value: 14.17
+      units: km
+- country: US
+  region: NH
+  name: North Walpole
+  lat: '43.1467'
+  long: "-72.4458"
+  nearby_rate_centers:
+  - name: NO WALPOLE
+    distance:
+      value: 1.13
+      units: km
+  - name: ALSTEAD
+    distance:
+      value: 6.98
+      units: km
+  - name: WALPOLE
+    distance:
+      value: 7.59
+      units: km
+- country: US
+  region: NH
+  name: North Woodstock
+  lat: '44.0364'
+  long: "-71.6968"
+  nearby_rate_centers:
+  - name: NOWOODSTOK
+    distance:
+      value: 0.65
+      units: km
+  - name: CAMPTON
+    distance:
+      value: 19.42
+      units: km
+  - name: WARREN
+    distance:
+      value: 20.16
+      units: km
+- country: US
+  region: NH
+  name: Pinardville
+  lat: '43.0010'
+  long: "-71.5171"
+  nearby_rate_centers:
+  - name: MANCHESTER
+    distance:
+      value: 4.55
+      units: km
+  - name: BEDFORD
+    distance:
+      value: 6.68
+      units: km
+  - name: GOFFSTOWN
+    distance:
+      value: 7.3
+      units: km
+- country: US
+  region: NH
+  name: Portsmouth
+  lat: '43.0580'
+  long: "-70.7826"
+  nearby_rate_centers:
+  - name: PORTSMOUTH
+    distance:
+      value: 2.37
+      units: km
+  - name: RYE BEACH
+    distance:
+      value: 8.29
+      units: km
+  - name: NEWMARKET
+    distance:
+      value: 12.87
+      units: km
+- country: US
+  region: NH
+  name: Rochester
+  lat: '43.2990'
+  long: "-70.9787"
+  nearby_rate_centers:
+  - name: ROCHESTER
+    distance:
+      value: 0.73
+      units: km
+  - name: BARRINGTON
+    distance:
+      value: 10.02
+      units: km
+  - name: SOMERSWTH
+    distance:
+      value: 10.03
+      units: km
+- country: US
+  region: NH
+  name: Sanbornville
+  lat: '43.5525'
+  long: "-71.0297"
+  nearby_rate_centers:
+  - name: SANBORNVL
+    distance:
+      value: 0.22
+      units: km
+  - name: MILTON ML
+    distance:
+      value: 7.64
+      units: km
+  - name: WOLFEBORO
+    distance:
+      value: 15.19
+      units: km
+- country: US
+  region: NH
+  name: Seabrook Beach
+  lat: '42.8850'
+  long: "-70.8234"
+  nearby_rate_centers:
+  - name: SEABROOK
+    distance:
+      value: 2.98
+      units: km
+  - name: HAMPTON
+    distance:
+      value: 5.91
+      units: km
+  - name: SO HAMPTON
+    distance:
+      value: 8.76
+      units: km
+- country: US
+  region: NH
+  name: Somersworth
+  lat: '43.2534'
+  long: "-70.8856"
+  nearby_rate_centers:
+  - name: SOMERSWTH
+    distance:
+      value: 2.03
+      units: km
+  - name: DOVER
+    distance:
+      value: 6.52
+      units: km
+  - name: ROCHESTER
+    distance:
+      value: 9.04
+      units: km
+- country: US
+  region: NH
+  name: South Hooksett
+  lat: '43.0331'
+  long: "-71.4254"
+  nearby_rate_centers:
+  - name: MANCHESTER
+    distance:
+      value: 5.28
+      units: km
+  - name: SUNCOOK
+    distance:
+      value: 11.01
+      units: km
+  - name: CANDIA
+    distance:
+      value: 11.06
+      units: km
+- country: US
+  region: NH
+  name: Suissevale
+  lat: '43.7234'
+  long: "-71.3623"
+  nearby_rate_centers:
+  - name: MELVIN VLG
+    distance:
+      value: 5.88
+      units: km
+  - name: CENTER HBR
+    distance:
+      value: 8.29
+      units: km
+  - name: CTRSANDWIH
+    distance:
+      value: 11.27
+      units: km
+- country: US
+  region: NH
+  name: Suncook
+  lat: '43.1382'
+  long: "-71.4530"
+  nearby_rate_centers:
+  - name: SUNCOOK
+    distance:
+      value: 0.94
+      units: km
+  - name: CONCORD
+    distance:
+      value: 9.69
+      units: km
+  - name: CHICHESTER
+    distance:
+      value: 12.21
+      units: km
+- country: US
+  region: NH
+  name: Tilton Northfield
+  lat: '43.4444'
+  long: "-71.5924"
+  nearby_rate_centers:
+  - name: TILTON
+    distance:
+      value: 0.05
+      units: km
+  - name: FRANKLIN
+    distance:
+      value: 4.36
+      units: km
+  - name: BELMONT
+    distance:
+      value: 9.03
+      units: km
+- country: US
+  region: NH
+  name: Union
+  lat: '43.4912'
+  long: "-71.0231"
+  nearby_rate_centers:
+  - name: MILTON ML
+    distance:
+      value: 4.61
+      units: km
+  - name: SANBORNVL
+    distance:
+      value: 7.02
+      units: km
+  - name: MILTON
+    distance:
+      value: 9.23
+      units: km
+- country: US
+  region: NH
+  name: West Stewartstown
+  lat: '44.9907'
+  long: "-71.5311"
+  nearby_rate_centers:
+  - name: WSTEWATSTN
+    distance:
+      value: 0.57
+      units: km
+  - name: COLEBROOK
+    distance:
+      value: 11.35
+      units: km
+  - name: PITTSBURG
+    distance:
+      value: 13.02
+      units: km
+- country: US
+  region: NH
+  name: West Swanzey
+  lat: '42.8707'
+  long: "-72.3225"
+  nearby_rate_centers:
+  - name: KEENE
+    distance:
+      value: 8.26
+      units: km
+  - name: SPOFFORD
+    distance:
+      value: 9.2
+      units: km
+  - name: MARLBOROGH
+    distance:
+      value: 9.61
+      units: km
+- country: US
+  region: NH
+  name: Woodsville
+  lat: '44.1423'
+  long: "-72.0256"
+  nearby_rate_centers:
+  - name: WOODSVILLE
+    distance:
+      value: 0.92
+      units: km
+  - name: PIKE
+    distance:
+      value: 12.48
+      units: km
+  - name: LISBON
+    distance:
+      value: 12.56
+      units: km

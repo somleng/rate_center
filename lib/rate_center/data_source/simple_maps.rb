@@ -2,6 +2,7 @@ require "faraday"
 require "zip"
 require "csv"
 require "yaml"
+require "ostruct"
 
 module RateCenter
   module DataSource
@@ -71,27 +72,20 @@ module RateCenter
           result[city.state_id] << city
         end
 
-        cities_by_state.each_with_index do |(state, cities), index|
+        cities_by_state.each do |state, cities|
           data_file = data_directory.join("#{state.downcase}.yml")
 
           data = cities.sort_by(&:city).map do |city|
             {
-              "name" => city.city,
+              "country" => "US",
               "region" => city.state_id,
+              "name" => city.city,
               "lat" => city.lat,
               "long" => city.lng
             }
           end
 
-          data_file.write(
-            {
-              "cities" => {
-                "us" => {
-                  state => data
-                }
-              }
-            }.to_yaml
-          )
+          data_file.write({ "cities" => data }.to_yaml)
         end
       end
     end

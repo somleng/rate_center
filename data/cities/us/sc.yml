@@ -1,1896 +1,8768 @@
 ---
 cities:
-  us:
-    SC:
-    - name: Abbeville
-      region: SC
-      lat: '34.1787'
-      long: "-82.3774"
-    - name: Abney Crossroads
-      region: SC
-      lat: '34.5063'
-      long: "-80.5107"
-    - name: Adams Run
-      region: SC
-      lat: '32.7219'
-      long: "-80.3465"
-    - name: Aiken
-      region: SC
-      lat: '33.5303'
-      long: "-81.7271"
-    - name: Alcolu
-      region: SC
-      lat: '33.7547'
-      long: "-80.2221"
-    - name: Allendale
-      region: SC
-      lat: '33.0080'
-      long: "-81.3092"
-    - name: Anderson
-      region: SC
-      lat: '34.5211'
-      long: "-82.6478"
-    - name: Andrews
-      region: SC
-      lat: '33.4494'
-      long: "-79.5660"
-    - name: Antreville
-      region: SC
-      lat: '34.2971'
-      long: "-82.5541"
-    - name: Arcadia
-      region: SC
-      lat: '34.9609'
-      long: "-81.9929"
-    - name: Arcadia Lakes
-      region: SC
-      lat: '34.0536'
-      long: "-80.9615"
-    - name: Arial
-      region: SC
-      lat: '34.8463'
-      long: "-82.6405"
-    - name: Arkwright
-      region: SC
-      lat: '34.9131'
-      long: "-81.9395"
-    - name: Arthurtown
-      region: SC
-      lat: '33.9644'
-      long: "-81.0023"
-    - name: Ashwood
-      region: SC
-      lat: '34.1142'
-      long: "-80.3039"
-    - name: Atlantic Beach
-      region: SC
-      lat: '33.8035'
-      long: "-78.7177"
-    - name: Awendaw
-      region: SC
-      lat: '32.9661'
-      long: "-79.6586"
-    - name: Aynor
-      region: SC
-      lat: '34.0002'
-      long: "-79.2071"
-    - name: Bamberg
-      region: SC
-      lat: '33.2995'
-      long: "-81.0323"
-    - name: Barnwell
-      region: SC
-      lat: '33.2419'
-      long: "-81.3659"
-    - name: Batesburg-Leesville
-      region: SC
-      lat: '33.9126'
-      long: "-81.5313"
-    - name: Baxter Village
-      region: SC
-      lat: '35.0280'
-      long: "-80.9792"
-    - name: Beaufort
-      region: SC
-      lat: '32.4597'
-      long: "-80.7235"
-    - name: Beech Island
-      region: SC
-      lat: '33.4288'
-      long: "-81.8905"
-    - name: Belton
-      region: SC
-      lat: '34.5237'
-      long: "-82.4938"
-    - name: Belvedere
-      region: SC
-      lat: '33.5370'
-      long: "-81.9424"
-    - name: Ben Avon
-      region: SC
-      lat: '34.9328'
-      long: "-81.8763"
-    - name: Bennettsville
-      region: SC
-      lat: '34.6303'
-      long: "-79.6875"
-    - name: Berea
-      region: SC
-      lat: '34.8802'
-      long: "-82.4650"
-    - name: Bethune
-      region: SC
-      lat: '34.4143'
-      long: "-80.3487"
-    - name: Bishopville
-      region: SC
-      lat: '34.2202'
-      long: "-80.2483"
-    - name: Blacksburg
-      region: SC
-      lat: '35.1220'
-      long: "-81.5182"
-    - name: Blackville
-      region: SC
-      lat: '33.3552'
-      long: "-81.2835"
-    - name: Blenheim
-      region: SC
-      lat: '34.5098'
-      long: "-79.6526"
-    - name: Bluffton
-      region: SC
-      lat: '32.2135'
-      long: "-80.9316"
-    - name: Blythewood
-      region: SC
-      lat: '34.2121'
-      long: "-80.9921"
-    - name: Boiling Springs
-      region: SC
-      lat: '35.0450'
-      long: "-81.9779"
-    - name: Bonneau
-      region: SC
-      lat: '33.3081'
-      long: "-79.9573"
-    - name: Bonneau Beach
-      region: SC
-      lat: '33.3229'
-      long: "-79.9900"
-    - name: Bowman
-      region: SC
-      lat: '33.3483'
-      long: "-80.6843"
-    - name: Boykin
-      region: SC
-      lat: '34.1198'
-      long: "-80.5886"
-    - name: Bradley
-      region: SC
-      lat: '34.0391'
-      long: "-82.2435"
-    - name: Branchville
-      region: SC
-      lat: '33.2517'
-      long: "-80.8161"
-    - name: Briarcliffe Acres
-      region: SC
-      lat: '33.7901'
-      long: "-78.7490"
-    - name: Brookdale
-      region: SC
-      lat: '33.5183'
-      long: "-80.8332"
-    - name: Browntown
-      region: SC
-      lat: '34.2053'
-      long: "-80.3160"
-    - name: Brunson
-      region: SC
-      lat: '32.9241'
-      long: "-81.1886"
-    - name: Bucksport
-      region: SC
-      lat: '33.6706'
-      long: "-79.1102"
-    - name: Buffalo
-      region: SC
-      lat: '34.7244'
-      long: "-81.6844"
-    - name: Buford
-      region: SC
-      lat: '34.7480'
-      long: "-80.6285"
-    - name: Burnettown
-      region: SC
-      lat: '33.5186'
-      long: "-81.8635"
-    - name: Burton
-      region: SC
-      lat: '32.4232'
-      long: "-80.7456"
-    - name: Caesars Head
-      region: SC
-      lat: '35.1072'
-      long: "-82.6182"
-    - name: Calhoun Falls
-      region: SC
-      lat: '34.0933'
-      long: "-82.5963"
-    - name: Camden
-      region: SC
-      lat: '34.2570'
-      long: "-80.6090"
-    - name: Cameron
-      region: SC
-      lat: '33.5580'
-      long: "-80.7150"
-    - name: Camp Croft
-      region: SC
-      lat: '34.9102'
-      long: "-81.8595"
-    - name: Campobello
-      region: SC
-      lat: '35.1260'
-      long: "-82.1488"
-    - name: Cane Savannah
-      region: SC
-      lat: '33.8923'
-      long: "-80.4396"
-    - name: Capitol View
-      region: SC
-      lat: '33.9650'
-      long: "-80.9223"
-    - name: Carlisle
-      region: SC
-      lat: '34.5921'
-      long: "-81.4645"
-    - name: Carolina Forest
-      region: SC
-      lat: '33.7651'
-      long: "-78.9130"
-    - name: Cash
-      region: SC
-      lat: '34.6197'
-      long: "-79.8895"
-    - name: Catawba
-      region: SC
-      lat: '34.8464'
-      long: "-80.9061"
-    - name: Cateechee
-      region: SC
-      lat: '34.7694'
-      long: "-82.7767"
-    - name: Cayce
-      region: SC
-      lat: '33.9459'
-      long: "-81.0429"
-    - name: Centenary
-      region: SC
-      lat: '34.0258'
-      long: "-79.3524"
-    - name: Centerville
-      region: SC
-      lat: '34.5257'
-      long: "-82.7161"
-    - name: Central
-      region: SC
-      lat: '34.7235'
-      long: "-82.7788"
-    - name: Central Pacolet
-      region: SC
-      lat: '34.9096'
-      long: "-81.7527"
-    - name: Chapin
-      region: SC
-      lat: '34.1650'
-      long: "-81.3446"
-    - name: Charleston
-      region: SC
-      lat: '32.8168'
-      long: "-79.9687"
-    - name: Cheraw
-      region: SC
-      lat: '34.6956'
-      long: "-79.9084"
-    - name: Cherokee Falls
-      region: SC
-      lat: '35.0645'
-      long: "-81.5436"
-    - name: Cherryvale
-      region: SC
-      lat: '33.9543'
-      long: "-80.4609"
-    - name: Chesnee
-      region: SC
-      lat: '35.1461'
-      long: "-81.8630"
-    - name: Chester
-      region: SC
-      lat: '34.7051'
-      long: "-81.2132"
-    - name: Chesterfield
-      region: SC
-      lat: '34.7330'
-      long: "-80.0778"
-    - name: Chickasaw Point
-      region: SC
-      lat: '34.5363'
-      long: "-83.0751"
-    - name: City View
-      region: SC
-      lat: '34.8620'
-      long: "-82.4250"
-    - name: Clarks Hill
-      region: SC
-      lat: '33.6582'
-      long: "-82.1660"
-    - name: Clearwater
-      region: SC
-      lat: '33.5038'
-      long: "-81.9100"
-    - name: Clemson
-      region: SC
-      lat: '34.6837'
-      long: "-82.8124"
-    - name: Clemson University
-      region: SC
-      lat: '34.6750'
-      long: "-82.8344"
-    - name: Clifton
-      region: SC
-      lat: '34.9846'
-      long: "-81.8222"
-    - name: Clinton
-      region: SC
-      lat: '34.4781'
-      long: "-81.8638"
-    - name: Clio
-      region: SC
-      lat: '34.5791'
-      long: "-79.5461"
-    - name: Clover
-      region: SC
-      lat: '35.1125'
-      long: "-81.2202"
-    - name: Cokesbury
-      region: SC
-      lat: '34.2900'
-      long: "-82.2087"
-    - name: Columbia
-      region: SC
-      lat: '34.0378'
-      long: "-80.9036"
-    - name: Conestee
-      region: SC
-      lat: '34.7638'
-      long: "-82.3497"
-    - name: Converse
-      region: SC
-      lat: '34.9940'
-      long: "-81.8421"
-    - name: Conway
-      region: SC
-      lat: '33.8401'
-      long: "-79.0431"
-    - name: Coosawhatchie
-      region: SC
-      lat: '32.5851'
-      long: "-80.9328"
-    - name: Cope
-      region: SC
-      lat: '33.3777'
-      long: "-81.0079"
-    - name: Cordova
-      region: SC
-      lat: '33.4345'
-      long: "-80.9211"
-    - name: Coronaca
-      region: SC
-      lat: '34.2595'
-      long: "-82.0969"
-    - name: Cottageville
-      region: SC
-      lat: '32.9362'
-      long: "-80.4803"
-    - name: Coward
-      region: SC
-      lat: '33.9721'
-      long: "-79.7490"
-    - name: Cowpens
-      region: SC
-      lat: '35.0186'
-      long: "-81.8041"
-    - name: Cross Anchor
-      region: SC
-      lat: '34.6440'
-      long: "-81.8585"
-    - name: Cross Hill
-      region: SC
-      lat: '34.3045'
-      long: "-81.9836"
-    - name: Dacusville
-      region: SC
-      lat: '34.9343'
-      long: "-82.5606"
-    - name: Dale
-      region: SC
-      lat: '32.5555'
-      long: "-80.7015"
-    - name: Dalzell
-      region: SC
-      lat: '34.0189'
-      long: "-80.4297"
-    - name: Danwood
-      region: SC
-      lat: '34.0903'
-      long: "-79.7695"
-    - name: Darlington
-      region: SC
-      lat: '34.3015'
-      long: "-79.8670"
-    - name: Daufuskie Island
-      region: SC
-      lat: '32.1181'
-      long: "-80.8656"
-    - name: Daviston
-      region: SC
-      lat: '33.8862'
-      long: "-79.3718"
-    - name: DeBordieu Colony
-      region: SC
-      lat: '33.3707'
-      long: "-79.1776"
-    - name: Denmark
-      region: SC
-      lat: '33.3152'
-      long: "-81.1364"
-    - name: Dentsville
-      region: SC
-      lat: '34.0754'
-      long: "-80.9547"
-    - name: Dillon
-      region: SC
-      lat: '34.4233'
-      long: "-79.3689"
-    - name: Donalds
-      region: SC
-      lat: '34.3766'
-      long: "-82.3467"
-    - name: Dovesville
-      region: SC
-      lat: '34.4028'
-      long: "-79.9030"
-    - name: Drayton
-      region: SC
-      lat: '34.9762'
-      long: "-81.9026"
-    - name: Due West
-      region: SC
-      lat: '34.3335'
-      long: "-82.3885"
-    - name: Dunbar
-      region: SC
-      lat: '33.5341'
-      long: "-79.3533"
-    - name: Duncan
-      region: SC
-      lat: '34.9342'
-      long: "-82.1443"
-    - name: Dunean
-      region: SC
-      lat: '34.8203'
-      long: "-82.4225"
-    - name: Easley
-      region: SC
-      lat: '34.8188'
-      long: "-82.5827"
-    - name: East Camden
-      region: SC
-      lat: '34.2687'
-      long: "-80.5681"
-    - name: East Gaffney
-      region: SC
-      lat: '35.0846'
-      long: "-81.6218"
-    - name: East Sumter
-      region: SC
-      lat: '33.9261'
-      long: "-80.2950"
-    - name: Eastover
-      region: SC
-      lat: '33.8779'
-      long: "-80.6949"
-    - name: Edgefield
-      region: SC
-      lat: '33.7870'
-      long: "-81.9291"
-    - name: Edisto
-      region: SC
-      lat: '33.4777'
-      long: "-80.8999"
-    - name: Edisto Beach
-      region: SC
-      lat: '32.4922'
-      long: "-80.3239"
-    - name: Edmund
-      region: SC
-      lat: '33.8629'
-      long: "-81.1996"
-    - name: Ehrhardt
-      region: SC
-      lat: '33.0985'
-      long: "-81.0138"
-    - name: Elgin
-      region: SC
-      lat: '34.6724'
-      long: "-80.7215"
-    - name: Elko
-      region: SC
-      lat: '33.3808'
-      long: "-81.3805"
-    - name: Elliott
-      region: SC
-      lat: '34.1087'
-      long: "-80.1703"
-    - name: Elloree
-      region: SC
-      lat: '33.5301'
-      long: "-80.5712"
-    - name: Enoree
-      region: SC
-      lat: '34.6593'
-      long: "-81.9609"
-    - name: Estill
-      region: SC
-      lat: '32.7538'
-      long: "-81.2412"
-    - name: Eureka Mill
-      region: SC
-      lat: '34.7180'
-      long: "-81.1929"
-    - name: Eutawville
-      region: SC
-      lat: '33.3978'
-      long: "-80.3430"
-    - name: Fair Play
-      region: SC
-      lat: '34.5077'
-      long: "-82.9862"
-    - name: Fairfax
-      region: SC
-      lat: '32.9594'
-      long: "-81.2363"
-    - name: Fairforest
-      region: SC
-      lat: '34.9532'
-      long: "-82.0157"
-    - name: Fairview Crossroads
-      region: SC
-      lat: '33.7577'
-      long: "-81.3621"
-    - name: Fingerville
-      region: SC
-      lat: '35.1351'
-      long: "-82.0002"
-    - name: Finklea
-      region: SC
-      lat: '34.0989'
-      long: "-78.9858"
-    - name: Five Forks
-      region: SC
-      lat: '34.8069'
-      long: "-82.2271"
-    - name: Florence
-      region: SC
-      lat: '34.1780'
-      long: "-79.7898"
-    - name: Floydale
-      region: SC
-      lat: '34.3210'
-      long: "-79.3371"
-    - name: Folly Beach
-      region: SC
-      lat: '32.6692'
-      long: "-79.9500"
-    - name: Forest Acres
-      region: SC
-      lat: '34.0323'
-      long: "-80.9716"
-    - name: Forestbrook
-      region: SC
-      lat: '33.7242'
-      long: "-78.9677"
-    - name: Foreston
-      region: SC
-      lat: '33.6367'
-      long: "-80.0607"
-    - name: Fort Lawn
-      region: SC
-      lat: '34.7003'
-      long: "-80.8991"
-    - name: Fort Mill
-      region: SC
-      lat: '35.0061'
-      long: "-80.9389"
-    - name: Fountain Inn
-      region: SC
-      lat: '34.6989'
-      long: "-82.2005"
-    - name: Fripp Island
-      region: SC
-      lat: '32.3231'
-      long: "-80.4789"
-    - name: Furman
-      region: SC
-      lat: '32.6813'
-      long: "-81.1877"
-    - name: Gadsden
-      region: SC
-      lat: '33.8480'
-      long: "-80.7663"
-    - name: Gaffney
-      region: SC
-      lat: '35.0743'
-      long: "-81.6552"
-    - name: Gantt
-      region: SC
-      lat: '34.7837'
-      long: "-82.4027"
-    - name: Garden City
-      region: SC
-      lat: '33.5926'
-      long: "-79.0071"
-    - name: Gaston
-      region: SC
-      lat: '33.8180'
-      long: "-81.0997"
-    - name: Gayle Mill
-      region: SC
-      lat: '34.7023'
-      long: "-81.2391"
-    - name: Georgetown
-      region: SC
-      lat: '33.3594'
-      long: "-79.2958"
-    - name: Gifford
-      region: SC
-      lat: '32.8601'
-      long: "-81.2385"
-    - name: Gilbert
-      region: SC
-      lat: '33.9245'
-      long: "-81.3928"
-    - name: Gillisonville
-      region: SC
-      lat: '32.6116'
-      long: "-81.0001"
-    - name: Glendale
-      region: SC
-      lat: '34.9452'
-      long: "-81.8364"
-    - name: Glenn Springs
-      region: SC
-      lat: '34.8134'
-      long: "-81.8415"
-    - name: Gloverville
-      region: SC
-      lat: '33.5274'
-      long: "-81.8144"
-    - name: Golden Grove
-      region: SC
-      lat: '34.7324'
-      long: "-82.4407"
-    - name: Goose Creek
-      region: SC
-      lat: '32.9927'
-      long: "-80.0055"
-    - name: Govan
-      region: SC
-      lat: '33.2227'
-      long: "-81.1748"
-    - name: Gramling
-      region: SC
-      lat: '35.0782'
-      long: "-82.1332"
-    - name: Graniteville
-      region: SC
-      lat: '33.5646'
-      long: "-81.8078"
-    - name: Gray Court
-      region: SC
-      lat: '34.6079'
-      long: "-82.1143"
-    - name: Great Falls
-      region: SC
-      lat: '34.5753'
-      long: "-80.9048"
-    - name: Greeleyville
-      region: SC
-      lat: '33.5801'
-      long: "-79.9901"
-    - name: Green Sea
-      region: SC
-      lat: '34.1288'
-      long: "-78.9721"
-    - name: Greenville
-      region: SC
-      lat: '34.8354'
-      long: "-82.3646"
-    - name: Greenwood
-      region: SC
-      lat: '34.1947'
-      long: "-82.1542"
-    - name: Greer
-      region: SC
-      lat: '34.9330'
-      long: "-82.2313"
-    - name: Grover
-      region: SC
-      lat: '33.1092'
-      long: "-80.5920"
-    - name: Hamer
-      region: SC
-      lat: '34.4741'
-      long: "-79.3258"
-    - name: Hampton
-      region: SC
-      lat: '32.8676'
-      long: "-81.1093"
-    - name: Hanahan
-      region: SC
-      lat: '32.9302'
-      long: "-80.0027"
-    - name: Harbor Island
-      region: SC
-      lat: '32.4033'
-      long: "-80.4377"
-    - name: Hardeeville
-      region: SC
-      lat: '32.2949'
-      long: "-81.0321"
-    - name: Harleyville
-      region: SC
-      lat: '33.2130'
-      long: "-80.4478"
-    - name: Hartsville
-      region: SC
-      lat: '34.3675'
-      long: "-80.0829"
-    - name: Heath Springs
-      region: SC
-      lat: '34.5933'
-      long: "-80.6750"
-    - name: Helena
-      region: SC
-      lat: '34.2807'
-      long: "-81.6445"
-    - name: Hemingway
-      region: SC
-      lat: '33.7534'
-      long: "-79.4462"
-    - name: Hickory Grove
-      region: SC
-      lat: '34.9785'
-      long: "-81.4180"
-    - name: Hilda
-      region: SC
-      lat: '33.2740'
-      long: "-81.2466"
-    - name: Hilltop
-      region: SC
-      lat: '34.9755'
-      long: "-81.9586"
-    - name: Hilton Head Island
-      region: SC
-      lat: '32.1896'
-      long: "-80.7499"
-    - name: Hodges
-      region: SC
-      lat: '34.2876'
-      long: "-82.2480"
-    - name: Holly Hill
-      region: SC
-      lat: '33.3245'
-      long: "-80.4130"
-    - name: Hollywood
-      region: SC
-      lat: '32.7520'
-      long: "-80.2118"
-    - name: Homeland Park
-      region: SC
-      lat: '34.4644'
-      long: "-82.6593"
-    - name: Homewood
-      region: SC
-      lat: '33.8927'
-      long: "-79.0518"
-    - name: Honea Path
-      region: SC
-      lat: '34.4476'
-      long: "-82.3950"
-    - name: Hopkins
-      region: SC
-      lat: '33.8983'
-      long: "-80.8599"
-    - name: India Hook
-      region: SC
-      lat: '35.0142'
-      long: "-81.0378"
-    - name: Inman
-      region: SC
-      lat: '35.0463'
-      long: "-82.0897"
-    - name: Inman Mills
-      region: SC
-      lat: '35.0408'
-      long: "-82.1024"
-    - name: Irmo
-      region: SC
-      lat: '34.1018'
-      long: "-81.1956"
-    - name: Irwin
-      region: SC
-      lat: '34.6942'
-      long: "-80.8197"
-    - name: Islandton
-      region: SC
-      lat: '32.9093'
-      long: "-80.9359"
-    - name: Isle of Palms
-      region: SC
-      lat: '32.8043'
-      long: "-79.7552"
-    - name: Iva
-      region: SC
-      lat: '34.3071'
-      long: "-82.6636"
-    - name: Jackson
-      region: SC
-      lat: '33.3283'
-      long: "-81.7925"
-    - name: Jacksonboro
-      region: SC
-      lat: '32.7718'
-      long: "-80.4768"
-    - name: James Island
-      region: SC
-      lat: '32.7353'
-      long: "-79.9394"
-    - name: Jamestown
-      region: SC
-      lat: '33.2858'
-      long: "-79.6945"
-    - name: Jefferson
-      region: SC
-      lat: '34.6512'
-      long: "-80.3866"
-    - name: Jenkinsville
-      region: SC
-      lat: '34.3129'
-      long: "-81.2874"
-    - name: Joanna
-      region: SC
-      lat: '34.4149'
-      long: "-81.8086"
-    - name: Johnsonville
-      region: SC
-      lat: '33.8150'
-      long: "-79.4443"
-    - name: Johnston
-      region: SC
-      lat: '33.8328'
-      long: "-81.8051"
-    - name: Jonesville
-      region: SC
-      lat: '34.8348'
-      long: "-81.6811"
-    - name: Judson
-      region: SC
-      lat: '34.8335'
-      long: "-82.4272"
-    - name: Keowee Key
-      region: SC
-      lat: '34.8257'
-      long: "-82.9158"
-    - name: Kershaw
-      region: SC
-      lat: '34.5462'
-      long: "-80.5873"
-    - name: Ketchuptown
-      region: SC
-      lat: '34.1091'
-      long: "-79.1557"
-    - name: Kiawah Island
-      region: SC
-      lat: '32.6157'
-      long: "-80.0613"
-    - name: Kingstree
-      region: SC
-      lat: '33.6665'
-      long: "-79.8292"
-    - name: Kline
-      region: SC
-      lat: '33.1252'
-      long: "-81.3426"
-    - name: La France
-      region: SC
-      lat: '34.6115'
-      long: "-82.7667"
-    - name: Ladson
-      region: SC
-      lat: '33.0093'
-      long: "-80.1078"
-    - name: Lake City
-      region: SC
-      lat: '33.8676'
-      long: "-79.7534"
-    - name: Lake Murray of Richland
-      region: SC
-      lat: '34.1209'
-      long: "-81.2653"
-    - name: Lake Secession
-      region: SC
-      lat: '34.2821'
-      long: "-82.5904"
-    - name: Lake View
-      region: SC
-      lat: '34.3405'
-      long: "-79.1664"
-    - name: Lake Wylie
-      region: SC
-      lat: '35.0997'
-      long: "-81.0678"
-    - name: Lakewood
-      region: SC
-      lat: '33.8428'
-      long: "-80.3492"
-    - name: Lamar
-      region: SC
-      lat: '34.1695'
-      long: "-80.0649"
-    - name: Lancaster
-      region: SC
-      lat: '34.7248'
-      long: "-80.7804"
-    - name: Landrum
-      region: SC
-      lat: '35.1747'
-      long: "-82.1848"
-    - name: Lane
-      region: SC
-      lat: '33.5251'
-      long: "-79.8797"
-    - name: Langley
-      region: SC
-      lat: '33.5120'
-      long: "-81.8344"
-    - name: Latta
-      region: SC
-      lat: '34.3390'
-      long: "-79.4337"
-    - name: Laurel Bay
-      region: SC
-      lat: '32.4599'
-      long: "-80.7869"
-    - name: Laurens
-      region: SC
-      lat: '34.5022'
-      long: "-82.0207"
-    - name: Lesslie
-      region: SC
-      lat: '34.8856'
-      long: "-80.9541"
-    - name: Lexington
-      region: SC
-      lat: '33.9890'
-      long: "-81.2202"
-    - name: Liberty
-      region: SC
-      lat: '34.7904'
-      long: "-82.6961"
-    - name: Lincolnville
-      region: SC
-      lat: '33.0079'
-      long: "-80.1560"
-    - name: Litchfield Beach
-      region: SC
-      lat: '33.4773'
-      long: "-79.1181"
-    - name: Little Mountain
-      region: SC
-      lat: '34.1968'
-      long: "-81.4124"
-    - name: Little River
-      region: SC
-      lat: '33.8786'
-      long: "-78.6393"
-    - name: Little Rock
-      region: SC
-      lat: '34.4691'
-      long: "-79.3900"
-    - name: Live Oak
-      region: SC
-      lat: '34.0560'
-      long: "-78.9397"
-    - name: Livingston
-      region: SC
-      lat: '33.5531'
-      long: "-81.1196"
-    - name: Lobeco
-      region: SC
-      lat: '32.5512'
-      long: "-80.7354"
-    - name: Lockhart
-      region: SC
-      lat: '34.7922'
-      long: "-81.4613"
-    - name: Lodge
-      region: SC
-      lat: '33.0678'
-      long: "-80.9537"
-    - name: Longcreek
-      region: SC
-      lat: '34.7776'
-      long: "-83.2602"
-    - name: Loris
-      region: SC
-      lat: '34.0578'
-      long: "-78.8876"
-    - name: Lowndesville
-      region: SC
-      lat: '34.2099'
-      long: "-82.6476"
-    - name: Lowrys
-      region: SC
-      lat: '34.8040'
-      long: "-81.2372"
-    - name: Lugoff
-      region: SC
-      lat: '34.2113'
-      long: "-80.6973"
-    - name: Luray
-      region: SC
-      lat: '32.8142'
-      long: "-81.2403"
-    - name: Lydia
-      region: SC
-      lat: '34.2866'
-      long: "-80.1185"
-    - name: Lyman
-      region: SC
-      lat: '34.9667'
-      long: "-82.1232"
-    - name: Lynchburg
-      region: SC
-      lat: '34.0600'
-      long: "-80.0770"
-    - name: Manning
-      region: SC
-      lat: '33.6933'
-      long: "-80.2167"
-    - name: Manville
-      region: SC
-      lat: '34.1597'
-      long: "-80.2974"
-    - name: Marion
-      region: SC
-      lat: '34.1787'
-      long: "-79.3956"
-    - name: Mauldin
-      region: SC
-      lat: '34.7821'
-      long: "-82.3032"
-    - name: Mayesville
-      region: SC
-      lat: '33.9849'
-      long: "-80.2044"
-    - name: Mayo
-      region: SC
-      lat: '35.0857'
-      long: "-81.8535"
-    - name: McBee
-      region: SC
-      lat: '34.4670'
-      long: "-80.2571"
-    - name: McClellanville
-      region: SC
-      lat: '33.0865'
-      long: "-79.4680"
-    - name: McColl
-      region: SC
-      lat: '34.6665'
-      long: "-79.5447"
-    - name: McConnells
-      region: SC
-      lat: '34.8695'
-      long: "-81.2266"
-    - name: McCormick
-      region: SC
-      lat: '33.9128'
-      long: "-82.2876"
-    - name: Meggett
-      region: SC
-      lat: '32.6968'
-      long: "-80.2730"
-    - name: Modoc
-      region: SC
-      lat: '33.7192'
-      long: "-82.2174"
-    - name: Monarch Mill
-      region: SC
-      lat: '34.7161'
-      long: "-81.5847"
-    - name: Moncks Corner
-      region: SC
-      lat: '33.1730'
-      long: "-80.0107"
-    - name: Monetta
-      region: SC
-      lat: '33.8501'
-      long: "-81.6100"
-    - name: Mount Carmel
-      region: SC
-      lat: '34.0185'
-      long: "-82.5045"
-    - name: Mount Croghan
-      region: SC
-      lat: '34.7697'
-      long: "-80.2264"
-    - name: Mount Pleasant
-      region: SC
-      lat: '32.8537'
-      long: "-79.8203"
-    - name: Mountville
-      region: SC
-      lat: '34.3664'
-      long: "-81.9758"
-    - name: Mulberry
-      region: SC
-      lat: '33.9565'
-      long: "-80.3315"
-    - name: Mullins
-      region: SC
-      lat: '34.2040'
-      long: "-79.2536"
-    - name: Murphys Estates
-      region: SC
-      lat: '33.6003'
-      long: "-81.9439"
-    - name: Murrells Inlet
-      region: SC
-      lat: '33.5560'
-      long: "-79.0594"
-    - name: Myrtle Beach
-      region: SC
-      lat: '33.7094'
-      long: "-78.8844"
-    - name: Neeses
-      region: SC
-      lat: '33.5365'
-      long: "-81.1236"
-    - name: New Ellenton
-      region: SC
-      lat: '33.4199'
-      long: "-81.6826"
-    - name: Newberry
-      region: SC
-      lat: '34.2813'
-      long: "-81.6010"
-    - name: Newport
-      region: SC
-      lat: '34.9833'
-      long: "-81.0992"
-    - name: Newry
-      region: SC
-      lat: '34.7240'
-      long: "-82.9141"
-    - name: Newtown
-      region: SC
-      lat: '34.4013'
-      long: "-79.3566"
-    - name: Nichols
-      region: SC
-      lat: '34.2350'
-      long: "-79.1490"
-    - name: Ninety Six
-      region: SC
-      lat: '34.1696'
-      long: "-82.0239"
-    - name: Norris
-      region: SC
-      lat: '34.7661'
-      long: "-82.7525"
-    - name: North
-      region: SC
-      lat: '33.6164'
-      long: "-81.1030"
-    - name: North Augusta
-      region: SC
-      lat: '33.5214'
-      long: "-81.9547"
-    - name: North Charleston
-      region: SC
-      lat: '32.9067'
-      long: "-80.0722"
-    - name: North Hartsville
-      region: SC
-      lat: '34.4010'
-      long: "-80.0710"
-    - name: North Myrtle Beach
-      region: SC
-      lat: '33.8232'
-      long: "-78.7082"
-    - name: North Santee
-      region: SC
-      lat: '33.5368'
-      long: "-80.4182"
-    - name: Northlake
-      region: SC
-      lat: '34.5691'
-      long: "-82.6838"
-    - name: Norway
-      region: SC
-      lat: '33.4503'
-      long: "-81.1266"
-    - name: Oak Grove
-      region: SC
-      lat: '33.9780'
-      long: "-81.1468"
-    - name: Oakland
-      region: SC
-      lat: '33.9868'
-      long: "-80.4972"
-    - name: Olanta
-      region: SC
-      lat: '33.9357'
-      long: "-79.9320"
-    - name: Olar
-      region: SC
-      lat: '33.1799'
-      long: "-81.1854"
-    - name: Olympia
-      region: SC
-      lat: '33.9768'
-      long: "-81.0349"
-    - name: Orangeburg
-      region: SC
-      lat: '33.4928'
-      long: "-80.8671"
-    - name: Oswego
-      region: SC
-      lat: '34.0056'
-      long: "-80.2862"
-    - name: Pacolet
-      region: SC
-      lat: '34.9102'
-      long: "-81.7662"
-    - name: Pageland
-      region: SC
-      lat: '34.7720'
-      long: "-80.3897"
-    - name: Pamplico
-      region: SC
-      lat: '33.9957'
-      long: "-79.5698"
-    - name: Parker
-      region: SC
-      lat: '34.8513'
-      long: "-82.4512"
-    - name: Parksville
-      region: SC
-      lat: '33.7866'
-      long: "-82.2174"
-    - name: Patrick
-      region: SC
-      lat: '34.5752'
-      long: "-80.0446"
-    - name: Pauline
-      region: SC
-      lat: '34.8321'
-      long: "-81.8693"
-    - name: Pawleys Island
-      region: SC
-      lat: '33.4269'
-      long: "-79.1246"
-    - name: Paxville
-      region: SC
-      lat: '33.7390'
-      long: "-80.3586"
-    - name: Peak
-      region: SC
-      lat: '34.2363'
-      long: "-81.3288"
-    - name: Pelion
-      region: SC
-      lat: '33.7750'
-      long: "-81.2502"
-    - name: Pelzer
-      region: SC
-      lat: '34.6433'
-      long: "-82.4588"
-    - name: Pendleton
-      region: SC
-      lat: '34.6451'
-      long: "-82.7818"
-    - name: Perry
-      region: SC
-      lat: '33.6281'
-      long: "-81.3079"
-    - name: Pickens
-      region: SC
-      lat: '34.8856'
-      long: "-82.7104"
-    - name: Piedmont
-      region: SC
-      lat: '34.7074'
-      long: "-82.4651"
-    - name: Pimlico
-      region: SC
-      lat: '33.0989'
-      long: "-79.9606"
-    - name: Pine Ridge
-      region: SC
-      lat: '33.9082'
-      long: "-81.0977"
-    - name: Pine Ridge
-      region: SC
-      lat: '34.3927'
-      long: "-80.1679"
-    - name: Pinewood
-      region: SC
-      lat: '33.7396'
-      long: "-80.4620"
-    - name: Pinopolis
-      region: SC
-      lat: '33.2287'
-      long: "-80.0386"
-    - name: Plum Branch
-      region: SC
-      lat: '33.8482'
-      long: "-82.2587"
-    - name: Pomaria
-      region: SC
-      lat: '34.2677'
-      long: "-81.4192"
-    - name: Port Royal
-      region: SC
-      lat: '32.3557'
-      long: "-80.7029"
-    - name: Powdersville
-      region: SC
-      lat: '34.7826'
-      long: "-82.4959"
-    - name: Princeton
-      region: SC
-      lat: '34.4913'
-      long: "-82.2958"
-    - name: Privateer
-      region: SC
-      lat: '33.8169'
-      long: "-80.3946"
-    - name: Promised Land
-      region: SC
-      lat: '34.1276'
-      long: "-82.2307"
-    - name: Prosperity
-      region: SC
-      lat: '34.2121'
-      long: "-81.5329"
-    - name: Quinby
-      region: SC
-      lat: '34.2282'
-      long: "-79.7357"
-    - name: Rains
-      region: SC
-      lat: '34.0942'
-      long: "-79.3214"
-    - name: Ravenel
-      region: SC
-      lat: '32.7780'
-      long: "-80.2281"
-    - name: Red Bank
-      region: SC
-      lat: '33.9309'
-      long: "-81.2322"
-    - name: Red Hill
-      region: SC
-      lat: '33.7777'
-      long: "-79.0111"
-    - name: Reevesville
-      region: SC
-      lat: '33.2021'
-      long: "-80.6456"
-    - name: Reidville
-      region: SC
-      lat: '34.8657'
-      long: "-82.1063"
-    - name: Rembert
-      region: SC
-      lat: '34.1037'
-      long: "-80.5306"
-    - name: Richburg
-      region: SC
-      lat: '34.7168'
-      long: "-81.0196"
-    - name: Ridge Spring
-      region: SC
-      lat: '33.8453'
-      long: "-81.6617"
-    - name: Ridgeland
-      region: SC
-      lat: '32.4681'
-      long: "-80.9178"
-    - name: Ridgeville
-      region: SC
-      lat: '33.0900'
-      long: "-80.3071"
-    - name: Ridgeway
-      region: SC
-      lat: '34.3066'
-      long: "-80.9601"
-    - name: Riverview
-      region: SC
-      lat: '35.0119'
-      long: "-80.9828"
-    - name: Rock Hill
-      region: SC
-      lat: '34.9415'
-      long: "-81.0241"
-    - name: Rockville
-      region: SC
-      lat: '32.6024'
-      long: "-80.1935"
-    - name: Roebuck
-      region: SC
-      lat: '34.8789'
-      long: "-81.9646"
-    - name: Rowesville
-      region: SC
-      lat: '33.3722'
-      long: "-80.8362"
-    - name: Ruby
-      region: SC
-      lat: '34.7462'
-      long: "-80.1799"
-    - name: Russellville
-      region: SC
-      lat: '33.3970'
-      long: "-79.9637"
-    - name: Saint Charles
-      region: SC
-      lat: '34.0806'
-      long: "-80.2249"
-    - name: Salem
-      region: SC
-      lat: '34.8879'
-      long: "-82.9752"
-    - name: Salley
-      region: SC
-      lat: '33.5671'
-      long: "-81.3038"
-    - name: Saluda
-      region: SC
-      lat: '34.0009'
-      long: "-81.7713"
-    - name: Sandy Springs
-      region: SC
-      lat: '34.5974'
-      long: "-82.7493"
-    - name: Sangaree
-      region: SC
-      lat: '33.0327'
-      long: "-80.1253"
-    - name: Sans Souci
-      region: SC
-      lat: '34.8901'
-      long: "-82.4241"
-    - name: Santee
-      region: SC
-      lat: '33.4801'
-      long: "-80.4852"
-    - name: Saxon
-      region: SC
-      lat: '34.9616'
-      long: "-81.9713"
-    - name: Scotia
-      region: SC
-      lat: '32.6805'
-      long: "-81.2433"
-    - name: Scranton
-      region: SC
-      lat: '33.9174'
-      long: "-79.7441"
-    - name: Seabrook
-      region: SC
-      lat: '32.5227'
-      long: "-80.7479"
-    - name: Seabrook Island
-      region: SC
-      lat: '32.5823'
-      long: "-80.1738"
-    - name: Sellers
-      region: SC
-      lat: '34.2826'
-      long: "-79.4724"
-    - name: Seneca
-      region: SC
-      lat: '34.6818'
-      long: "-82.9600"
-    - name: Seven Oaks
-      region: SC
-      lat: '34.0475'
-      long: "-81.1435"
-    - name: Sharon
-      region: SC
-      lat: '34.9520'
-      long: "-81.3435"
-    - name: Sheldon
-      region: SC
-      lat: '32.5985'
-      long: "-80.7961"
-    - name: Shell Point
-      region: SC
-      lat: '32.3746'
-      long: "-80.7523"
-    - name: Shiloh
-      region: SC
-      lat: '33.9462'
-      long: "-80.0208"
-    - name: Silverstreet
-      region: SC
-      lat: '34.2177'
-      long: "-81.7146"
-    - name: Simpsonville
-      region: SC
-      lat: '34.7287'
-      long: "-82.2569"
-    - name: Six Mile
-      region: SC
-      lat: '34.8082'
-      long: "-82.8154"
-    - name: Slater-Marietta
-      region: SC
-      lat: '35.0348'
-      long: "-82.4926"
-    - name: Smoaks
-      region: SC
-      lat: '33.0895'
-      long: "-80.8142"
-    - name: Smyrna
-      region: SC
-      lat: '35.0420'
-      long: "-81.4094"
-    - name: Snelling
-      region: SC
-      lat: '33.2416'
-      long: "-81.4622"
-    - name: Socastee
-      region: SC
-      lat: '33.6871'
-      long: "-79.0086"
-    - name: Society Hill
-      region: SC
-      lat: '34.5098'
-      long: "-79.8539"
-    - name: South Congaree
-      region: SC
-      lat: '33.9094'
-      long: "-81.1375"
-    - name: South Sumter
-      region: SC
-      lat: '33.8855'
-      long: "-80.3378"
-    - name: South Union
-      region: SC
-      lat: '34.5536'
-      long: "-83.0509"
-    - name: Southern Shops
-      region: SC
-      lat: '34.9846'
-      long: "-81.9934"
-    - name: Spartanburg
-      region: SC
-      lat: '34.9442'
-      long: "-81.9251"
-    - name: Springdale
-      region: SC
-      lat: '33.9616'
-      long: "-81.1119"
-    - name: Springfield
-      region: SC
-      lat: '33.4967'
-      long: "-81.2795"
-    - name: St. Andrews
-      region: SC
-      lat: '34.0510'
-      long: "-81.1057"
-    - name: St. George
-      region: SC
-      lat: '33.1861'
-      long: "-80.5794"
-    - name: St. Matthews
-      region: SC
-      lat: '33.6640'
-      long: "-80.7780"
-    - name: St. Stephen
-      region: SC
-      lat: '33.4047'
-      long: "-79.9264"
-    - name: Starr
-      region: SC
-      lat: '34.3774'
-      long: "-82.6954"
-    - name: Startex
-      region: SC
-      lat: '34.9305'
-      long: "-82.0942"
-    - name: Stateburg
-      region: SC
-      lat: '33.9752'
-      long: "-80.5263"
-    - name: Stuckey
-      region: SC
-      lat: '33.7321'
-      long: "-79.5132"
-    - name: Sullivan's Island
-      region: SC
-      lat: '32.7684'
-      long: "-79.8355"
-    - name: Summerton
-      region: SC
-      lat: '33.6013'
-      long: "-80.3527"
-    - name: Summerville
-      region: SC
-      lat: '33.0016'
-      long: "-80.1799"
-    - name: Summit
-      region: SC
-      lat: '33.9246'
-      long: "-81.4226"
-    - name: Sumter
-      region: SC
-      lat: '33.9392'
-      long: "-80.3930"
-    - name: Surfside Beach
-      region: SC
-      lat: '33.6093'
-      long: "-78.9772"
-    - name: Swansea
-      region: SC
-      lat: '33.7397'
-      long: "-81.1052"
-    - name: Sycamore
-      region: SC
-      lat: '33.0362'
-      long: "-81.2223"
-    - name: Tamassee
-      region: SC
-      lat: '34.8812'
-      long: "-83.0175"
-    - name: Tatum
-      region: SC
-      lat: '34.6438'
-      long: "-79.5867"
-    - name: Taylors
-      region: SC
-      lat: '34.9157'
-      long: "-82.3124"
-    - name: Tega Cay
-      region: SC
-      lat: '35.0390'
-      long: "-81.0111"
-    - name: The Cliffs Valley
-      region: SC
-      lat: '35.1458'
-      long: "-82.4481"
-    - name: Tigerville
-      region: SC
-      lat: '35.0669'
-      long: "-82.3695"
-    - name: Timmonsville
-      region: SC
-      lat: '34.1334'
-      long: "-79.9408"
-    - name: Tradesville
-      region: SC
-      lat: '34.7705'
-      long: "-80.5487"
-    - name: Travelers Rest
-      region: SC
-      lat: '34.9582'
-      long: "-82.4412"
-    - name: Trenton
-      region: SC
-      lat: '33.7401'
-      long: "-81.8404"
-    - name: Troy
-      region: SC
-      lat: '33.9880'
-      long: "-82.2974"
-    - name: Turbeville
-      region: SC
-      lat: '33.8895'
-      long: "-80.0161"
-    - name: Ulmer
-      region: SC
-      lat: '33.0987'
-      long: "-81.2080"
-    - name: Union
-      region: SC
-      lat: '34.7235'
-      long: "-81.6248"
-    - name: Unity
-      region: SC
-      lat: '34.8024'
-      long: "-80.6936"
-    - name: Utica
-      region: SC
-      lat: '34.6764'
-      long: "-82.9252"
-    - name: Valley Falls
-      region: SC
-      lat: '35.0073'
-      long: "-81.9692"
-    - name: Van Wyck
-      region: SC
-      lat: '34.8531'
-      long: "-80.8333"
-    - name: Vance
-      region: SC
-      lat: '33.4365'
-      long: "-80.4201"
-    - name: Varnville
-      region: SC
-      lat: '32.8521'
-      long: "-81.0802"
-    - name: Wade Hampton
-      region: SC
-      lat: '34.8821'
-      long: "-82.3336"
-    - name: Wagener
-      region: SC
-      lat: '33.6512'
-      long: "-81.3625"
-    - name: Walhalla
-      region: SC
-      lat: '34.7705'
-      long: "-83.0615"
-    - name: Wallace
-      region: SC
-      lat: '34.7201'
-      long: "-79.8479"
-    - name: Walterboro
-      region: SC
-      lat: '32.9010'
-      long: "-80.6760"
-    - name: Ward
-      region: SC
-      lat: '33.8573'
-      long: "-81.7313"
-    - name: Ware Place
-      region: SC
-      lat: '34.6266'
-      long: "-82.3881"
-    - name: Ware Shoals
-      region: SC
-      lat: '34.3894'
-      long: "-82.2390"
-    - name: Warrenville
-      region: SC
-      lat: '33.5461'
-      long: "-81.7990"
-    - name: Waterloo
-      region: SC
-      lat: '34.3561'
-      long: "-82.0572"
-    - name: Watts Mills
-      region: SC
-      lat: '34.5164'
-      long: "-81.9856"
-    - name: Wedgefield
-      region: SC
-      lat: '33.8830'
-      long: "-80.5156"
-    - name: Welcome
-      region: SC
-      lat: '34.8203'
-      long: "-82.4600"
-    - name: Wellford
-      region: SC
-      lat: '34.9620'
-      long: "-82.0937"
-    - name: West Columbia
-      region: SC
-      lat: '33.9932'
-      long: "-81.0936"
-    - name: West Pelzer
-      region: SC
-      lat: '34.6450'
-      long: "-82.4738"
-    - name: West Union
-      region: SC
-      lat: '34.7590'
-      long: "-83.0432"
-    - name: Westminster
-      region: SC
-      lat: '34.6656'
-      long: "-83.0911"
-    - name: White Knoll
-      region: SC
-      lat: '33.8902'
-      long: "-81.2391"
-    - name: Whitmire
-      region: SC
-      lat: '34.5041'
-      long: "-81.6144"
-    - name: Whitney
-      region: SC
-      lat: '34.9835'
-      long: "-81.9260"
-    - name: Wilkinson Heights
-      region: SC
-      lat: '33.4919'
-      long: "-80.8286"
-    - name: Williams
-      region: SC
-      lat: '33.0341'
-      long: "-80.8428"
-    - name: Williamston
-      region: SC
-      lat: '34.6194'
-      long: "-82.4794"
-    - name: Willington
-      region: SC
-      lat: '33.9687'
-      long: "-82.4576"
-    - name: Williston
-      region: SC
-      lat: '33.4018'
-      long: "-81.4220"
-    - name: Windsor
-      region: SC
-      lat: '33.4809'
-      long: "-81.5137"
-    - name: Winnsboro
-      region: SC
-      lat: '34.3718'
-      long: "-81.0907"
-    - name: Winnsboro Mills
-      region: SC
-      lat: '34.3561'
-      long: "-81.0708"
-    - name: Wisacky
-      region: SC
-      lat: '34.1465'
-      long: "-80.1905"
-    - name: Woodfield
-      region: SC
-      lat: '34.0587'
-      long: "-80.9309"
-    - name: Woodford
-      region: SC
-      lat: '33.6687'
-      long: "-81.1120"
-    - name: Woodruff
-      region: SC
-      lat: '34.7421'
-      long: "-82.0371"
-    - name: Wyboo
-      region: SC
-      lat: '33.5613'
-      long: "-80.2148"
-    - name: Yemassee
-      region: SC
-      lat: '32.6733'
-      long: "-80.8515"
-    - name: York
-      region: SC
-      lat: '34.9967'
-      long: "-81.2341"
-    - name: Zion
-      region: SC
-      lat: '34.2587'
-      long: "-79.3116"
+- country: US
+  region: SC
+  name: Abbeville
+  lat: '34.1787'
+  long: "-82.3774"
+  nearby_rate_centers:
+  - name: ABBEVILLE
+    distance:
+      value: 0.59
+      units: km
+  - name: WABBEVILLE
+    distance:
+      value: 0.75
+      units: km
+  - name: DUE WEST
+    distance:
+      value: 16.98
+      units: km
+- country: US
+  region: SC
+  name: Abney Crossroads
+  lat: '34.5063'
+  long: "-80.5107"
+  nearby_rate_centers:
+  - name: KERSHAW
+    distance:
+      value: 7.42
+      units: km
+  - name: BETHUNE
+    distance:
+      value: 17.67
+      units: km
+  - name: HEATH SPG
+    distance:
+      value: 18.58
+      units: km
+- country: US
+  region: SC
+  name: Adams Run
+  lat: '32.7219'
+  long: "-80.3465"
+  nearby_rate_centers:
+  - name: HOLLYWOOD
+    distance:
+      value: 11.7
+      units: km
+  - name: EDISTO IS
+    distance:
+      value: 26.52
+      units: km
+  - name: COTTAGEVL
+    distance:
+      value: 26.57
+      units: km
+- country: US
+  region: SC
+  name: Aiken
+  lat: '33.5303'
+  long: "-81.7271"
+  nearby_rate_centers:
+  - name: AIKEN
+    distance:
+      value: 3.21
+      units: km
+  - name: GRANITEVL
+    distance:
+      value: 8.45
+      units: km
+  - name: NEWELLENTN
+    distance:
+      value: 11.77
+      units: km
+- country: US
+  region: SC
+  name: Alcolu
+  lat: '33.7547'
+  long: "-80.2221"
+  nearby_rate_centers:
+  - name: MANNING
+    distance:
+      value: 6.08
+      units: km
+  - name: NO MANNING
+    distance:
+      value: 6.87
+      units: km
+  - name: ESUMTER
+    distance:
+      value: 16.37
+      units: km
+- country: US
+  region: SC
+  name: Allendale
+  lat: '33.0080'
+  long: "-81.3092"
+  nearby_rate_centers:
+  - name: ALLENDALE
+    distance:
+      value: 0.41
+      units: km
+  - name: FAIRFAX
+    distance:
+      value: 9.06
+      units: km
+  - name: OLAR
+    distance:
+      value: 22.69
+      units: km
+- country: US
+  region: SC
+  name: Anderson
+  lat: '34.5211'
+  long: "-82.6478"
+  nearby_rate_centers:
+  - name: ANDERSON
+    distance:
+      value: 2.17
+      units: km
+  - name: BELTON
+    distance:
+      value: 14.28
+      units: km
+  - name: STARR
+    distance:
+      value: 16.4
+      units: km
+- country: US
+  region: SC
+  name: Andrews
+  lat: '33.4494'
+  long: "-79.5660"
+  nearby_rate_centers:
+  - name: ANDREWS
+    distance:
+      value: 1.56
+      units: km
+  - name: W ANDREWS
+    distance:
+      value: 5.82
+      units: km
+  - name: JAMESTOWN
+    distance:
+      value: 21.66
+      units: km
+- country: US
+  region: SC
+  name: Antreville
+  lat: '34.2971'
+  long: "-82.5541"
+  nearby_rate_centers:
+  - name: IVA
+    distance:
+      value: 10.45
+      units: km
+  - name: DUE WEST
+    distance:
+      value: 15.36
+      units: km
+  - name: STARR
+    distance:
+      value: 15.68
+      units: km
+- country: US
+  region: SC
+  name: Arcadia
+  lat: '34.9609'
+  long: "-81.9929"
+  nearby_rate_centers:
+  - name: SPARTANBG
+    distance:
+      value: 5.76
+      units: km
+  - name: LYMAN
+    distance:
+      value: 12.27
+      units: km
+  - name: INMAN
+    distance:
+      value: 13.42
+      units: km
+- country: US
+  region: SC
+  name: Arcadia Lakes
+  lat: '34.0536'
+  long: "-80.9615"
+  nearby_rate_centers:
+  - name: COLUMBIA
+    distance:
+      value: 8.23
+      units: km
+  - name: W COLUMBIA
+    distance:
+      value: 8.23
+      units: km
+  - name: LEXINGTON
+    distance:
+      value: 26.31
+      units: km
+  - name: RIDGEWAY
+    distance:
+      value: 28.39
+      units: km
+- country: US
+  region: SC
+  name: Arial
+  lat: '34.8463'
+  long: "-82.6405"
+  nearby_rate_centers:
+  - name: EASLEY
+    distance:
+      value: 3.91
+      units: km
+  - name: PICKENS
+    distance:
+      value: 6.93
+      units: km
+  - name: LIBERTY
+    distance:
+      value: 8.37
+      units: km
+- country: US
+  region: SC
+  name: Arkwright
+  lat: '34.9131'
+  long: "-81.9395"
+  nearby_rate_centers:
+  - name: SPARTANBG
+    distance:
+      value: 4.0
+      units: km
+  - name: PACOLET
+    distance:
+      value: 15.9
+      units: km
+  - name: COWPENS
+    distance:
+      value: 17.12
+      units: km
+- country: US
+  region: SC
+  name: Arthurtown
+  lat: '33.9644'
+  long: "-81.0023"
+  nearby_rate_centers:
+  - name: COLUMBIA
+    distance:
+      value: 5.78
+      units: km
+  - name: W COLUMBIA
+    distance:
+      value: 5.78
+      units: km
+  - name: LEXINGTON
+    distance:
+      value: 21.48
+      units: km
+  - name: SWANSEA
+    distance:
+      value: 27.39
+      units: km
+- country: US
+  region: SC
+  name: Ashwood
+  lat: '34.1142'
+  long: "-80.3039"
+  nearby_rate_centers:
+  - name: BISHORURAL
+    distance:
+      value: 11.2
+      units: km
+  - name: BISHOPVL
+    distance:
+      value: 12.63
+      units: km
+  - name: MAYESVILLE
+    distance:
+      value: 17.19
+      units: km
+- country: US
+  region: SC
+  name: Atlantic Beach
+  lat: '33.8035'
+  long: "-78.7177"
+  nearby_rate_centers:
+  - name: NMYRTLEBCH
+    distance:
+      value: 2.98
+      units: km
+  - name: North Myrtle Beach (HTC)
+    distance:
+      value: 2.98
+      units: km
+  - name: WAMPEE
+    distance:
+      value: 6.8
+      units: km
+  - name: MYRTLE BCH
+    distance:
+      value: 19.66
+      units: km
+  - name: Myrtle Beach (HTC)
+    distance:
+      value: 19.66
+      units: km
+- country: US
+  region: SC
+  name: Awendaw
+  lat: '32.9661'
+  long: "-79.6586"
+  nearby_rate_centers:
+  - name: AWENDAW
+    distance:
+      value: 2.87
+      units: km
+  - name: HUGER
+    distance:
+      value: 20.21
+      units: km
+  - name: ISLE PALMS
+    distance:
+      value: 22.54
+      units: km
+- country: US
+  region: SC
+  name: Aynor
+  lat: '34.0002'
+  long: "-79.2071"
+  nearby_rate_centers:
+  - name: AYNOR
+    distance:
+      value: 0.68
+      units: km
+  - name: NO CONWAY
+    distance:
+      value: 19.05
+      units: km
+  - name: MULLINS
+    distance:
+      value: 22.58
+      units: km
+- country: US
+  region: SC
+  name: Bamberg
+  lat: '33.2995'
+  long: "-81.0323"
+  nearby_rate_centers:
+  - name: BAMBERG
+    distance:
+      value: 0.38
+      units: km
+  - name: DENMARK
+    distance:
+      value: 11.01
+      units: km
+  - name: NORWAY
+    distance:
+      value: 18.85
+      units: km
+- country: US
+  region: SC
+  name: Barnwell
+  lat: '33.2419'
+  long: "-81.3659"
+  nearby_rate_centers:
+  - name: BARNWELL
+    distance:
+      value: 0.45
+      units: km
+  - name: BLACKVILLE
+    distance:
+      value: 16.07
+      units: km
+  - name: OLAR
+    distance:
+      value: 18.02
+      units: km
+- country: US
+  region: SC
+  name: Batesburg-Leesville
+  lat: '33.9126'
+  long: "-81.5313"
+  nearby_rate_centers:
+  - name: BATESBURG
+    distance:
+      value: 1.7
+      units: km
+  - name: GILBERT
+    distance:
+      value: 13.21
+      units: km
+  - name: RIDGE SPG
+    distance:
+      value: 13.72
+      units: km
+- country: US
+  region: SC
+  name: Baxter Village
+  lat: '35.0280'
+  long: "-80.9792"
+  nearby_rate_centers:
+  - name: FORT MILL
+    distance:
+      value: 3.47
+      units: km
+  - name: LK WYLIE W
+    distance:
+      value: 10.96
+      units: km
+  - name: LAKE WYLIE
+    distance:
+      value: 10.96
+      units: km
+  - name: ROCK HILL
+    distance:
+      value: 11.99
+      units: km
+- country: US
+  region: SC
+  name: Beaufort
+  lat: '32.4597'
+  long: "-80.7235"
+  nearby_rate_centers:
+  - name: BEAUFORT
+    distance:
+      value: 6.05
+      units: km
+  - name: LAUREL BAY
+    distance:
+      value: 6.3
+      units: km
+  - name: ST HELENA
+    distance:
+      value: 15.34
+      units: km
+- country: US
+  region: SC
+  name: Beech Island
+  lat: '33.4288'
+  long: "-81.8905"
+  nearby_rate_centers:
+  - name: SAVANNAHRS
+    distance:
+      value: 0.4
+      units: km
+  - name: BEECH IS
+    distance:
+      value: 0.4
+      units: km
+  - name: BATH
+    distance:
+      value: 7.9
+      units: km
+  - name: NO AUGUSTA
+    distance:
+      value: 10.46
+      units: km
+- country: US
+  region: SC
+  name: Belton
+  lat: '34.5237'
+  long: "-82.4938"
+  nearby_rate_centers:
+  - name: BELTON
+    distance:
+      value: 0.21
+      units: km
+  - name: WILLIAMSTN
+    distance:
+      value: 10.7
+      units: km
+  - name: HONEA PATH
+    distance:
+      value: 12.55
+      units: km
+- country: US
+  region: SC
+  name: Belvedere
+  lat: '33.5370'
+  long: "-81.9424"
+  nearby_rate_centers:
+  - name: NO AUGUSTA
+    distance:
+      value: 4.5
+      units: km
+  - name: BATH
+    distance:
+      value: 7.56
+      units: km
+  - name: GRANITEVL
+    distance:
+      value: 12.92
+      units: km
+- country: US
+  region: SC
+  name: Ben Avon
+  lat: '34.9328'
+  long: "-81.8763"
+  nearby_rate_centers:
+  - name: SPARTANBG
+    distance:
+      value: 5.33
+      units: km
+  - name: PACOLET
+    distance:
+      value: 10.77
+      units: km
+  - name: COWPENS
+    distance:
+      value: 11.65
+      units: km
+- country: US
+  region: SC
+  name: Bennettsville
+  lat: '34.6303'
+  long: "-79.6875"
+  nearby_rate_centers:
+  - name: BENNETTSVL
+    distance:
+      value: 2.37
+      units: km
+  - name: BLENHEIM
+    distance:
+      value: 13.05
+      units: km
+  - name: NEWTONVL
+    distance:
+      value: 13.1
+      units: km
+- country: US
+  region: SC
+  name: Berea
+  lat: '34.8802'
+  long: "-82.4650"
+  nearby_rate_centers:
+  - name: GREENVILLE
+    distance:
+      value: 6.76
+      units: km
+  - name: TRAVESREST
+    distance:
+      value: 9.71
+      units: km
+  - name: EASLEY
+    distance:
+      value: 13.3
+      units: km
+- country: US
+  region: SC
+  name: Bethune
+  lat: '34.4143'
+  long: "-80.3487"
+  nearby_rate_centers:
+  - name: BETHUNE
+    distance:
+      value: 0.43
+      units: km
+  - name: MCBEE
+    distance:
+      value: 10.08
+      units: km
+  - name: BISHOPVL
+    distance:
+      value: 23.82
+      units: km
+- country: US
+  region: SC
+  name: Bishopville
+  lat: '34.2202'
+  long: "-80.2483"
+  nearby_rate_centers:
+  - name: BISHOPVL
+    distance:
+      value: 0.35
+      units: km
+  - name: BISHORURAL
+    distance:
+      value: 1.72
+      units: km
+  - name: LAMAR
+    distance:
+      value: 17.31
+      units: km
+- country: US
+  region: SC
+  name: Blacksburg
+  lat: '35.1220'
+  long: "-81.5182"
+  nearby_rate_centers:
+  - name: BLACKSBURG
+    distance:
+      value: 0.67
+      units: km
+  - name: ANTIOCH
+    distance:
+      value: 8.14
+      units: km
+  - name: GAFFNEY
+    distance:
+      value: 12.92
+      units: km
+- country: US
+  region: SC
+  name: Blackville
+  lat: '33.3552'
+  long: "-81.2835"
+  nearby_rate_centers:
+  - name: BLACKVILLE
+    distance:
+      value: 1.86
+      units: km
+  - name: DENMARK
+    distance:
+      value: 13.13
+      units: km
+  - name: WILLISTON
+    distance:
+      value: 14.2
+      units: km
+- country: US
+  region: SC
+  name: Blenheim
+  lat: '34.5098'
+  long: "-79.6526"
+  nearby_rate_centers:
+  - name: BLENHEIM
+    distance:
+      value: 0.82
+      units: km
+  - name: BENNETTSVL
+    distance:
+      value: 11.62
+      units: km
+  - name: CLIO
+    distance:
+      value: 13.17
+      units: km
+- country: US
+  region: SC
+  name: Bluffton
+  lat: '32.2135'
+  long: "-80.9316"
+  nearby_rate_centers:
+  - name: PRITCHARDV
+    distance:
+      value: 4.36
+      units: km
+  - name: BLUFFTON
+    distance:
+      value: 7.4
+      units: km
+  - name: HARDEEVL
+    distance:
+      value: 15.99
+      units: km
+- country: US
+  region: SC
+  name: Blythewood
+  lat: '34.2121'
+  long: "-80.9921"
+  nearby_rate_centers:
+  - name: RIDGEWAY
+    distance:
+      value: 11.29
+      units: km
+  - name: WINNSBORO
+    distance:
+      value: 20.85
+      units: km
+  - name: COLUMBIA
+    distance:
+      value: 22.84
+      units: km
+  - name: W COLUMBIA
+    distance:
+      value: 22.84
+      units: km
+- country: US
+  region: SC
+  name: Boiling Springs
+  lat: '35.0450'
+  long: "-81.9779"
+  nearby_rate_centers:
+  - name: INMAN
+    distance:
+      value: 10.43
+      units: km
+  - name: SPARTANBG
+    distance:
+      value: 11.54
+      units: km
+  - name: CHESNEE
+    distance:
+      value: 15.84
+      units: km
+- country: US
+  region: SC
+  name: Bonneau
+  lat: '33.3081'
+  long: "-79.9573"
+  nearby_rate_centers:
+  - name: BONNEAU
+    distance:
+      value: 0.6
+      units: km
+  - name: MACEDONIA
+    distance:
+      value: 8.11
+      units: km
+  - name: ST STEPHEN
+    distance:
+      value: 10.48
+      units: km
+- country: US
+  region: SC
+  name: Bonneau Beach
+  lat: '33.3229'
+  long: "-79.9900"
+  nearby_rate_centers:
+  - name: BONNEAU
+    distance:
+      value: 3.29
+      units: km
+  - name: ST STEPHEN
+    distance:
+      value: 10.36
+      units: km
+  - name: MACEDONIA
+    distance:
+      value: 11.55
+      units: km
+- country: US
+  region: SC
+  name: Bowman
+  lat: '33.3483'
+  long: "-80.6843"
+  nearby_rate_centers:
+  - name: BOWMAN
+    distance:
+      value: 0.14
+      units: km
+  - name: BRANCHVL
+    distance:
+      value: 16.34
+      units: km
+  - name: ST GEORGE
+    distance:
+      value: 20.92
+      units: km
+- country: US
+  region: SC
+  name: Boykin
+  lat: '34.1198'
+  long: "-80.5886"
+  nearby_rate_centers:
+  - name: CAMDEN
+    distance:
+      value: 14.46
+      units: km
+  - name: OAKLAND
+    distance:
+      value: 17.23
+      units: km
+  - name: STATEBURG
+    distance:
+      value: 20.9
+      units: km
+- country: US
+  region: SC
+  name: Bradley
+  lat: '34.0391'
+  long: "-82.2435"
+  nearby_rate_centers:
+  - name: TROY
+    distance:
+      value: 7.89
+      units: km
+  - name: MCCORMICK
+    distance:
+      value: 14.33
+      units: km
+  - name: GREENWOOD
+    distance:
+      value: 19.52
+      units: km
+- country: US
+  region: SC
+  name: Branchville
+  lat: '33.2517'
+  long: "-80.8161"
+  nearby_rate_centers:
+  - name: BRANCHVL
+    distance:
+      value: 0.15
+      units: km
+  - name: BOWMAN
+    distance:
+      value: 16.34
+      units: km
+  - name: BAMBERG
+    distance:
+      value: 21.17
+      units: km
+- country: US
+  region: SC
+  name: Briarcliffe Acres
+  lat: '33.7901'
+  long: "-78.7490"
+  nearby_rate_centers:
+  - name: NMYRTLEBCH
+    distance:
+      value: 6.23
+      units: km
+  - name: North Myrtle Beach (HTC)
+    distance:
+      value: 6.23
+      units: km
+  - name: WAMPEE
+    distance:
+      value: 8.51
+      units: km
+  - name: Myrtle Beach (HTC)
+    distance:
+      value: 16.47
+      units: km
+  - name: MYRTLE BCH
+    distance:
+      value: 16.47
+      units: km
+- country: US
+  region: SC
+  name: Brookdale
+  lat: '33.5183'
+  long: "-80.8332"
+  nearby_rate_centers:
+  - name: ORANGEBURG
+    distance:
+      value: 3.57
+      units: km
+  - name: CRESTON
+    distance:
+      value: 12.17
+      units: km
+  - name: CAMERON
+    distance:
+      value: 12.17
+      units: km
+  - name: STMATTHEWS
+    distance:
+      value: 17.28
+      units: km
+- country: US
+  region: SC
+  name: Browntown
+  lat: '34.2053'
+  long: "-80.3160"
+  nearby_rate_centers:
+  - name: BISHORURAL
+    distance:
+      value: 5.16
+      units: km
+  - name: BISHOPVL
+    distance:
+      value: 6.53
+      units: km
+  - name: LAMAR
+    distance:
+      value: 23.09
+      units: km
+- country: US
+  region: SC
+  name: Brunson
+  lat: '32.9241'
+  long: "-81.1886"
+  nearby_rate_centers:
+  - name: FAIRFAX
+    distance:
+      value: 5.55
+      units: km
+  - name: HAMPTON
+    distance:
+      value: 9.99
+      units: km
+  - name: ALLENDALE
+    distance:
+      value: 14.37
+      units: km
+- country: US
+  region: SC
+  name: Bucksport
+  lat: '33.6706'
+  long: "-79.1102"
+  nearby_rate_centers:
+  - name: COLLINSCK
+    distance:
+      value: 8.53
+      units: km
+  - name: SO CONWAY
+    distance:
+      value: 13.23
+      units: km
+  - name: LAKEWOOD
+    distance:
+      value: 13.51
+      units: km
+- country: US
+  region: SC
+  name: Buffalo
+  lat: '34.7244'
+  long: "-81.6844"
+  nearby_rate_centers:
+  - name: UNION
+    distance:
+      value: 6.06
+      units: km
+  - name: JONESVILLE
+    distance:
+      value: 12.23
+      units: km
+  - name: PACOLET
+    distance:
+      value: 20.69
+      units: km
+- country: US
+  region: SC
+  name: Buford
+  lat: '34.7480'
+  long: "-80.6285"
+  nearby_rate_centers:
+  - name: LANCASTER
+    distance:
+      value: 13.0
+      units: km
+  - name: HEATH SPG
+    distance:
+      value: 18.21
+      units: km
+  - name: PAGELAND
+    distance:
+      value: 22.06
+      units: km
+- country: US
+  region: SC
+  name: Burnettown
+  lat: '33.5186'
+  long: "-81.8635"
+  nearby_rate_centers:
+  - name: BATH
+    distance:
+      value: 2.46
+      units: km
+  - name: GRANITEVL
+    distance:
+      value: 7.42
+      units: km
+  - name: NO AUGUSTA
+    distance:
+      value: 9.48
+      units: km
+- country: US
+  region: SC
+  name: Burton
+  lat: '32.4232'
+  long: "-80.7456"
+  nearby_rate_centers:
+  - name: LAUREL BAY
+    distance:
+      value: 5.62
+      units: km
+  - name: BEAUFORT
+    distance:
+      value: 7.54
+      units: km
+  - name: LOWCOUNTRY
+    distance:
+      value: 13.44
+      units: km
+- country: US
+  region: SC
+  name: Caesars Head
+  lat: '35.1072'
+  long: "-82.6182"
+  nearby_rate_centers:
+  - name: TRAVESREST
+    distance:
+      value: 22.58
+      units: km
+  - name: PICKENS
+    distance:
+      value: 25.89
+      units: km
+  - name: BLUE RIDGE
+    distance:
+      value: 29.5
+      units: km
+- country: US
+  region: SC
+  name: Calhoun Falls
+  lat: '34.0933'
+  long: "-82.5963"
+  nearby_rate_centers:
+  - name: CALHOUNFLS
+    distance:
+      value: 0.73
+      units: km
+  - name: MT CARMEL
+    distance:
+      value: 8.09
+      units: km
+  - name: WABBEVILLE
+    distance:
+      value: 21.56
+      units: km
+- country: US
+  region: SC
+  name: Camden
+  lat: '34.2570'
+  long: "-80.6090"
+  nearby_rate_centers:
+  - name: CAMDEN
+    distance:
+      value: 0.91
+      units: km
+  - name: BETHUNE
+    distance:
+      value: 29.7
+      units: km
+  - name: OAKLAND
+    distance:
+      value: 31.86
+      units: km
+- country: US
+  region: SC
+  name: Cameron
+  lat: '33.5580'
+  long: "-80.7150"
+  nearby_rate_centers:
+  - name: CRESTON
+    distance:
+      value: 0.7
+      units: km
+  - name: CAMERON
+    distance:
+      value: 0.7
+      units: km
+  - name: STMATTHEWS
+    distance:
+      value: 13.22
+      units: km
+  - name: ELLOREE
+    distance:
+      value: 13.3
+      units: km
+- country: US
+  region: SC
+  name: Camp Croft
+  lat: '34.9102'
+  long: "-81.8595"
+  nearby_rate_centers:
+  - name: SPARTANBG
+    distance:
+      value: 7.82
+      units: km
+  - name: PACOLET
+    distance:
+      value: 8.63
+      units: km
+  - name: COWPENS
+    distance:
+      value: 13.08
+      units: km
+- country: US
+  region: SC
+  name: Campobello
+  lat: '35.1260'
+  long: "-82.1488"
+  nearby_rate_centers:
+  - name: CAMPOBELLO
+    distance:
+      value: 1.16
+      units: km
+  - name: LANDRUM
+    distance:
+      value: 7.05
+      units: km
+  - name: INMAN
+    distance:
+      value: 9.89
+      units: km
+- country: US
+  region: SC
+  name: Cane Savannah
+  lat: '33.8923'
+  long: "-80.4396"
+  nearby_rate_centers:
+  - name: SHAWAFBHTS
+    distance:
+      value: 7.1
+      units: km
+  - name: POCALLA
+    distance:
+      value: 7.48
+      units: km
+  - name: STATEBURG
+    distance:
+      value: 8.16
+      units: km
+- country: US
+  region: SC
+  name: Capitol View
+  lat: '33.9650'
+  long: "-80.9223"
+  nearby_rate_centers:
+  - name: COLUMBIA
+    distance:
+      value: 11.38
+      units: km
+  - name: W COLUMBIA
+    distance:
+      value: 11.38
+      units: km
+  - name: EASTOVER
+    distance:
+      value: 23.1
+      units: km
+  - name: LEXINGTON
+    distance:
+      value: 28.83
+      units: km
+- country: US
+  region: SC
+  name: Carlisle
+  lat: '34.5921'
+  long: "-81.4645"
+  nearby_rate_centers:
+  - name: WHITMIRE
+    distance:
+      value: 17.21
+      units: km
+  - name: UNION
+    distance:
+      value: 19.76
+      units: km
+  - name: LOCKHART
+    distance:
+      value: 21.06
+      units: km
+- country: US
+  region: SC
+  name: Carolina Forest
+  lat: '33.7651'
+  long: "-78.9130"
+  nearby_rate_centers:
+  - name: WMYRTLEBCH
+    distance:
+      value: 5.72
+      units: km
+  - name: EASTCONWAY
+    distance:
+      value: 7.0
+      units: km
+  - name: Myrtle Beach (HTC)
+    distance:
+      value: 8.35
+      units: km
+  - name: MYRTLE BCH
+    distance:
+      value: 8.35
+      units: km
+- country: US
+  region: SC
+  name: Cash
+  lat: '34.6197'
+  long: "-79.8895"
+  nearby_rate_centers:
+  - name: CHERAW
+    distance:
+      value: 8.12
+      units: km
+  - name: SOCIETY HL
+    distance:
+      value: 11.97
+      units: km
+  - name: PATRICK
+    distance:
+      value: 15.08
+      units: km
+- country: US
+  region: SC
+  name: Catawba
+  lat: '34.8464'
+  long: "-80.9061"
+  nearby_rate_centers:
+  - name: LEWISVILLE
+    distance:
+      value: 13.28
+      units: km
+  - name: ROCK HILL
+    distance:
+      value: 13.99
+      units: km
+  - name: FORT LAWN
+    distance:
+      value: 16.24
+      units: km
+- country: US
+  region: SC
+  name: Cateechee
+  lat: '34.7694'
+  long: "-82.7767"
+  nearby_rate_centers:
+  - name: CENTRAL
+    distance:
+      value: 5.06
+      units: km
+  - name: SIX MILE
+    distance:
+      value: 5.41
+      units: km
+  - name: LIBERTY
+    distance:
+      value: 8.11
+      units: km
+- country: US
+  region: SC
+  name: Cayce
+  lat: '33.9459'
+  long: "-81.0429"
+  nearby_rate_centers:
+  - name: COLUMBIA
+    distance:
+      value: 7.14
+      units: km
+  - name: W COLUMBIA
+    distance:
+      value: 7.14
+      units: km
+  - name: LEXINGTON
+    distance:
+      value: 18.12
+      units: km
+  - name: SWANSEA
+    distance:
+      value: 24.37
+      units: km
+- country: US
+  region: SC
+  name: Centenary
+  lat: '34.0258'
+  long: "-79.3524"
+  nearby_rate_centers:
+  - name: AYNOR
+    distance:
+      value: 14.36
+      units: km
+  - name: MARION
+    distance:
+      value: 18.05
+      units: km
+  - name: PAMPLICO
+    distance:
+      value: 19.98
+      units: km
+- country: US
+  region: SC
+  name: Centerville
+  lat: '34.5257'
+  long: "-82.7161"
+  nearby_rate_centers:
+  - name: ANDERSON
+    distance:
+      value: 6.54
+      units: km
+  - name: PENDLETON
+    distance:
+      value: 14.91
+      units: km
+  - name: STARR
+    distance:
+      value: 16.5
+      units: km
+- country: US
+  region: SC
+  name: Central
+  lat: '34.7235'
+  long: "-82.7788"
+  nearby_rate_centers:
+  - name: CENTRAL
+    distance:
+      value: 0.19
+      units: km
+  - name: CLEMSON
+    distance:
+      value: 5.97
+      units: km
+  - name: PENDLETON
+    distance:
+      value: 8.21
+      units: km
+- country: US
+  region: SC
+  name: Central Pacolet
+  lat: '34.9096'
+  long: "-81.7527"
+  nearby_rate_centers:
+  - name: PACOLET
+    distance:
+      value: 1.78
+      units: km
+  - name: JONESVILLE
+    distance:
+      value: 10.55
+      units: km
+  - name: COWPENS
+    distance:
+      value: 12.87
+      units: km
+- country: US
+  region: SC
+  name: Chapin
+  lat: '34.1650'
+  long: "-81.3446"
+  nearby_rate_centers:
+  - name: CHPNLTLMTS
+    distance:
+      value: 0.73
+      units: km
+  - name: CHPNLTLMTN
+    distance:
+      value: 0.97
+      units: km
+  - name: PROSPERITY
+    distance:
+      value: 18.29
+      units: km
+- country: US
+  region: SC
+  name: Charleston
+  lat: '32.8168'
+  long: "-79.9687"
+  nearby_rate_centers:
+  - name: CHARLESTON
+    distance:
+      value: 3.64
+      units: km
+  - name: MTPLEASANT
+    distance:
+      value: 10.26
+      units: km
+  - name: SULLIVNSIS
+    distance:
+      value: 12.59
+      units: km
+- country: US
+  region: SC
+  name: Cheraw
+  lat: '34.6956'
+  long: "-79.9084"
+  nearby_rate_centers:
+  - name: CHERAW
+    distance:
+      value: 1.57
+      units: km
+  - name: CHESTERFLD
+    distance:
+      value: 16.63
+      units: km
+  - name: PATRICK
+    distance:
+      value: 18.52
+      units: km
+- country: US
+  region: SC
+  name: Cherokee Falls
+  lat: '35.0645'
+  long: "-81.5436"
+  nearby_rate_centers:
+  - name: BLACKSBURG
+    distance:
+      value: 7.45
+      units: km
+  - name: GAFFNEY
+    distance:
+      value: 9.61
+      units: km
+  - name: ANTIOCH
+    distance:
+      value: 14.09
+      units: km
+- country: US
+  region: SC
+  name: Cherryvale
+  lat: '33.9543'
+  long: "-80.4609"
+  nearby_rate_centers:
+  - name: STATEBURG
+    distance:
+      value: 0.99
+      units: km
+  - name: SHAWAFBHTS
+    distance:
+      value: 1.06
+      units: km
+  - name: OAKLAND
+    distance:
+      value: 4.62
+      units: km
+- country: US
+  region: SC
+  name: Chesnee
+  lat: '35.1461'
+  long: "-81.8630"
+  nearby_rate_centers:
+  - name: CHESNEE
+    distance:
+      value: 0.56
+      units: km
+  - name: COWPENS
+    distance:
+      value: 15.29
+      units: km
+  - name: GAFFNEY
+    distance:
+      value: 21.05
+      units: km
+- country: US
+  region: SC
+  name: Chester
+  lat: '34.7051'
+  long: "-81.2132"
+  nearby_rate_centers:
+  - name: CHESTER
+    distance:
+      value: 0.58
+      units: km
+  - name: LEWISVILLE
+    distance:
+      value: 19.0
+      units: km
+  - name: LOCKHART
+    distance:
+      value: 24.09
+      units: km
+- country: US
+  region: SC
+  name: Chesterfield
+  lat: '34.7330'
+  long: "-80.0778"
+  nearby_rate_centers:
+  - name: CHESTERFLD
+    distance:
+      value: 0.6
+      units: km
+  - name: RUBY
+    distance:
+      value: 9.7
+      units: km
+  - name: CHERAW
+    distance:
+      value: 17.6
+      units: km
+- country: US
+  region: SC
+  name: Chickasaw Point
+  lat: '34.5363'
+  long: "-83.0751"
+  nearby_rate_centers:
+  - name: WESTMINSTR
+    distance:
+      value: 14.26
+      units: km
+  - name: SENECA
+    distance:
+      value: 20.69
+      units: km
+  - name: WALHALLA
+    distance:
+      value: 24.83
+      units: km
+- country: US
+  region: SC
+  name: City View
+  lat: '34.8620'
+  long: "-82.4250"
+  nearby_rate_centers:
+  - name: GREENVILLE
+    distance:
+      value: 2.59
+      units: km
+  - name: TRAVESREST
+    distance:
+      value: 11.57
+      units: km
+  - name: EASLEY
+    distance:
+      value: 16.25
+      units: km
+- country: US
+  region: SC
+  name: Clarks Hill
+  lat: '33.6582'
+  long: "-82.1660"
+  nearby_rate_centers:
+  - name: CLARKSHILL
+    distance:
+      value: 4.89
+      units: km
+  - name: PLUMBRANCH
+    distance:
+      value: 23.16
+      units: km
+  - name: NO AUGUSTA
+    distance:
+      value: 25.68
+      units: km
+- country: US
+  region: SC
+  name: Clearwater
+  lat: '33.5038'
+  long: "-81.9100"
+  nearby_rate_centers:
+  - name: BATH
+    distance:
+      value: 3.29
+      units: km
+  - name: NO AUGUSTA
+    distance:
+      value: 4.97
+      units: km
+  - name: BEECH IS
+    distance:
+      value: 8.93
+      units: km
+  - name: SAVANNAHRS
+    distance:
+      value: 8.93
+      units: km
+- country: US
+  region: SC
+  name: Clemson
+  lat: '34.6837'
+  long: "-82.8124"
+  nearby_rate_centers:
+  - name: CLEMSON
+    distance:
+      value: 2.01
+      units: km
+  - name: PENDLETON
+    distance:
+      value: 4.92
+      units: km
+  - name: CENTRAL
+    distance:
+      value: 5.53
+      units: km
+- country: US
+  region: SC
+  name: Clemson University
+  lat: '34.6750'
+  long: "-82.8344"
+  nearby_rate_centers:
+  - name: CLEMSON
+    distance:
+      value: 1.92
+      units: km
+  - name: PENDLETON
+    distance:
+      value: 5.88
+      units: km
+  - name: CENTRAL
+    distance:
+      value: 7.57
+      units: km
+- country: US
+  region: SC
+  name: Clifton
+  lat: '34.9846'
+  long: "-81.8222"
+  nearby_rate_centers:
+  - name: COWPENS
+    distance:
+      value: 4.15
+      units: km
+  - name: SPARTANBG
+    distance:
+      value: 10.74
+      units: km
+  - name: PACOLET
+    distance:
+      value: 10.91
+      units: km
+- country: US
+  region: SC
+  name: Clinton
+  lat: '34.4781'
+  long: "-81.8638"
+  nearby_rate_centers:
+  - name: CLINTON
+    distance:
+      value: 2.11
+      units: km
+  - name: JOANNA
+    distance:
+      value: 7.18
+      units: km
+  - name: LAURENS
+    distance:
+      value: 14.38
+      units: km
+  - name: LAURESRURL
+    distance:
+      value: 14.38
+      units: km
+- country: US
+  region: SC
+  name: Clio
+  lat: '34.5791'
+  long: "-79.5461"
+  nearby_rate_centers:
+  - name: CLIO
+    distance:
+      value: 0.74
+      units: km
+  - name: MCCOLL
+    distance:
+      value: 10.66
+      units: km
+  - name: BLENHEIM
+    distance:
+      value: 11.8
+      units: km
+- country: US
+  region: SC
+  name: Clover
+  lat: '35.1125'
+  long: "-81.2202"
+  nearby_rate_centers:
+  - name: CLOVER
+    distance:
+      value: 1.03
+      units: km
+  - name: MILL CREEK
+    distance:
+      value: 7.09
+      units: km
+  - name: YORK
+    distance:
+      value: 13.27
+      units: km
+- country: US
+  region: SC
+  name: Cokesbury
+  lat: '34.2900'
+  long: "-82.2087"
+  nearby_rate_centers:
+  - name: HODGES
+    distance:
+      value: 3.92
+      units: km
+  - name: GREENWOOD
+    distance:
+      value: 10.39
+      units: km
+  - name: WARESHOALS
+    distance:
+      value: 12.5
+      units: km
+- country: US
+  region: SC
+  name: Columbia
+  lat: '34.0378'
+  long: "-80.9036"
+  nearby_rate_centers:
+  - name: W COLUMBIA
+    distance:
+      value: 12.36
+      units: km
+  - name: COLUMBIA
+    distance:
+      value: 12.36
+      units: km
+  - name: EASTOVER
+    distance:
+      value: 26.03
+      units: km
+  - name: RIDGEWAY
+    distance:
+      value: 30.51
+      units: km
+- country: US
+  region: SC
+  name: Conestee
+  lat: '34.7638'
+  long: "-82.3497"
+  nearby_rate_centers:
+  - name: SIMPSONVL
+    distance:
+      value: 9.34
+      units: km
+  - name: GREENVILLE
+    distance:
+      value: 10.6
+      units: km
+  - name: PIEDMONT
+    distance:
+      value: 11.83
+      units: km
+- country: US
+  region: SC
+  name: Converse
+  lat: '34.9940'
+  long: "-81.8421"
+  nearby_rate_centers:
+  - name: COWPENS
+    distance:
+      value: 4.53
+      units: km
+  - name: SPARTANBG
+    distance:
+      value: 9.59
+      units: km
+  - name: PACOLET
+    distance:
+      value: 12.73
+      units: km
+- country: US
+  region: SC
+  name: Conway
+  lat: '33.8401'
+  long: "-79.0431"
+  nearby_rate_centers:
+  - name: CONWAY
+    distance:
+      value: 0.83
+      units: km
+  - name: Conway (HTC)
+    distance:
+      value: 0.83
+      units: km
+  - name: NO CONWAY
+    distance:
+      value: 6.06
+      units: km
+  - name: SO CONWAY
+    distance:
+      value: 8.51
+      units: km
+- country: US
+  region: SC
+  name: Coosawhatchie
+  lat: '32.5851'
+  long: "-80.9328"
+  nearby_rate_centers:
+  - name: RIDGELAND
+    distance:
+      value: 12.42
+      units: km
+  - name: YEMASSEE
+    distance:
+      value: 14.21
+      units: km
+  - name: LAUREL BAY
+    distance:
+      value: 19.55
+      units: km
+- country: US
+  region: SC
+  name: Cope
+  lat: '33.3777'
+  long: "-81.0079"
+  nearby_rate_centers:
+  - name: BAMBERG
+    distance:
+      value: 9.0
+      units: km
+  - name: NORWAY
+    distance:
+      value: 13.64
+      units: km
+  - name: DENMARK
+    distance:
+      value: 14.16
+      units: km
+- country: US
+  region: SC
+  name: Cordova
+  lat: '33.4345'
+  long: "-80.9211"
+  nearby_rate_centers:
+  - name: ORANGEBURG
+    distance:
+      value: 8.91
+      units: km
+  - name: BAMBERG
+    distance:
+      value: 18.36
+      units: km
+  - name: NORWAY
+    distance:
+      value: 19.18
+      units: km
+- country: US
+  region: SC
+  name: Coronaca
+  lat: '34.2595'
+  long: "-82.0969"
+  nearby_rate_centers:
+  - name: GREENWOOD
+    distance:
+      value: 9.03
+      units: km
+  - name: WATERLOO
+    distance:
+      value: 11.41
+      units: km
+  - name: NINETY SIX
+    distance:
+      value: 11.42
+      units: km
+- country: US
+  region: SC
+  name: Cottageville
+  lat: '32.9362'
+  long: "-80.4803"
+  nearby_rate_centers:
+  - name: COTTAGEVL
+    distance:
+      value: 0.62
+      units: km
+  - name: SWALTERBOR
+    distance:
+      value: 13.77
+      units: km
+  - name: WALTERBORO
+    distance:
+      value: 17.28
+      units: km
+- country: US
+  region: SC
+  name: Coward
+  lat: '33.9721'
+  long: "-79.7490"
+  nearby_rate_centers:
+  - name: SCRANTON
+    distance:
+      value: 6.54
+      units: km
+  - name: LAKE CITY
+    distance:
+      value: 10.86
+      units: km
+  - name: PAMPLICO
+    distance:
+      value: 17.08
+      units: km
+- country: US
+  region: SC
+  name: Cowpens
+  lat: '35.0186'
+  long: "-81.8041"
+  nearby_rate_centers:
+  - name: COWPENS
+    distance:
+      value: 0.2
+      units: km
+  - name: PACOLET
+    distance:
+      value: 13.85
+      units: km
+  - name: SPARTANBG
+    distance:
+      value: 13.98
+      units: km
+- country: US
+  region: SC
+  name: Cross Anchor
+  lat: '34.6440'
+  long: "-81.8585"
+  nearby_rate_centers:
+  - name: ENOREE
+    distance:
+      value: 9.55
+      units: km
+  - name: CLINTON
+    distance:
+      value: 18.95
+      units: km
+  - name: WOODRUFF
+    distance:
+      value: 19.1
+      units: km
+- country: US
+  region: SC
+  name: Cross Hill
+  lat: '34.3045'
+  long: "-81.9836"
+  nearby_rate_centers:
+  - name: CROSS HILL
+    distance:
+      value: 0.46
+      units: km
+  - name: MOUNTVILLE
+    distance:
+      value: 6.28
+      units: km
+  - name: WATERLOO
+    distance:
+      value: 8.87
+      units: km
+- country: US
+  region: SC
+  name: Dacusville
+  lat: '34.9343'
+  long: "-82.5606"
+  nearby_rate_centers:
+  - name: TRAVESREST
+    distance:
+      value: 11.44
+      units: km
+  - name: EASLEY
+    distance:
+      value: 11.62
+      units: km
+  - name: PICKENS
+    distance:
+      value: 13.93
+      units: km
+- country: US
+  region: SC
+  name: Dale
+  lat: '32.5555'
+  long: "-80.7015"
+  nearby_rate_centers:
+  - name: LAUREL BAY
+    distance:
+      value: 13.81
+      units: km
+  - name: BEAUFORT
+    distance:
+      value: 13.85
+      units: km
+  - name: YEMASSEE
+    distance:
+      value: 20.59
+      units: km
+- country: US
+  region: SC
+  name: Dalzell
+  lat: '34.0189'
+  long: "-80.4297"
+  nearby_rate_centers:
+  - name: OAKLAND
+    distance:
+      value: 6.6
+      units: km
+  - name: STATEBURG
+    distance:
+      value: 6.97
+      units: km
+  - name: SHAWAFBHTS
+    distance:
+      value: 7.27
+      units: km
+- country: US
+  region: SC
+  name: Danwood
+  lat: '34.0903'
+  long: "-79.7695"
+  nearby_rate_centers:
+  - name: FLORENCE
+    distance:
+      value: 12.13
+      units: km
+  - name: TIMMONSVL
+    distance:
+      value: 16.71
+      units: km
+  - name: SCRANTON
+    distance:
+      value: 19.76
+      units: km
+- country: US
+  region: SC
+  name: Darlington
+  lat: '34.3015'
+  long: "-79.8670"
+  nearby_rate_centers:
+  - name: DARLINGTON
+    distance:
+      value: 0.17
+      units: km
+  - name: FLORENCE
+    distance:
+      value: 14.5
+      units: km
+  - name: TIMMONSVL
+    distance:
+      value: 19.89
+      units: km
+- country: US
+  region: SC
+  name: Daufuskie Island
+  lat: '32.1181'
+  long: "-80.8656"
+  nearby_rate_centers:
+  - name: BLUFFTON
+    distance:
+      value: 12.78
+      units: km
+  - name: HILTONHEAD
+    distance:
+      value: 13.88
+      units: km
+  - name: PRITCHARDV
+    distance:
+      value: 16.54
+      units: km
+- country: US
+  region: SC
+  name: Daviston
+  lat: '33.8862'
+  long: "-79.3718"
+  nearby_rate_centers:
+  - name: JOHNSONVL
+    distance:
+      value: 10.45
+      units: km
+  - name: HEMINGWAY
+    distance:
+      value: 16.55
+      units: km
+  - name: AYNOR
+    distance:
+      value: 20.29
+      units: km
+- country: US
+  region: SC
+  name: DeBordieu Colony
+  lat: '33.3707'
+  long: "-79.1776"
+  nearby_rate_centers:
+  - name: Pawleys Island (HTC)
+    distance:
+      value: 8.38
+      units: km
+  - name: PAWLEYS IS
+    distance:
+      value: 8.38
+      units: km
+  - name: Georgetown (HTC)
+    distance:
+      value: 10.64
+      units: km
+  - name: GEORGETOWN
+    distance:
+      value: 10.64
+      units: km
+  - name: MURELSINLT
+    distance:
+      value: 26.15
+      units: km
+- country: US
+  region: SC
+  name: Denmark
+  lat: '33.3152'
+  long: "-81.1364"
+  nearby_rate_centers:
+  - name: DENMARK
+    distance:
+      value: 1.46
+      units: km
+  - name: BAMBERG
+    distance:
+      value: 9.45
+      units: km
+  - name: BLACKVILLE
+    distance:
+      value: 12.78
+      units: km
+- country: US
+  region: SC
+  name: Dentsville
+  lat: '34.0754'
+  long: "-80.9547"
+  nearby_rate_centers:
+  - name: COLUMBIA
+    distance:
+      value: 10.3
+      units: km
+  - name: W COLUMBIA
+    distance:
+      value: 10.3
+      units: km
+  - name: RIDGEWAY
+    distance:
+      value: 25.96
+      units: km
+  - name: LEXINGTON
+    distance:
+      value: 27.71
+      units: km
+- country: US
+  region: SC
+  name: Dillon
+  lat: '34.4233'
+  long: "-79.3689"
+  nearby_rate_centers:
+  - name: DILLON
+    distance:
+      value: 0.94
+      units: km
+  - name: LATTA
+    distance:
+      value: 10.31
+      units: km
+  - name: ROWLAND
+    distance:
+      value: 12.71
+      units: km
+- country: US
+  region: SC
+  name: Donalds
+  lat: '34.3766'
+  long: "-82.3467"
+  nearby_rate_centers:
+  - name: DUE WEST
+    distance:
+      value: 6.56
+      units: km
+  - name: HONEA PATH
+    distance:
+      value: 8.99
+      units: km
+  - name: WEST END
+    distance:
+      value: 9.69
+      units: km
+- country: US
+  region: SC
+  name: Dovesville
+  lat: '34.4028'
+  long: "-79.9030"
+  nearby_rate_centers:
+  - name: DARLINGTON
+    distance:
+      value: 11.76
+      units: km
+  - name: SOCIETY HL
+    distance:
+      value: 13.75
+      units: km
+  - name: HARTSVILLE
+    distance:
+      value: 15.96
+      units: km
+- country: US
+  region: SC
+  name: Drayton
+  lat: '34.9762'
+  long: "-81.9026"
+  nearby_rate_centers:
+  - name: SPARTANBG
+    distance:
+      value: 4.06
+      units: km
+  - name: COWPENS
+    distance:
+      value: 10.28
+      units: km
+  - name: PACOLET
+    distance:
+      value: 15.18
+      units: km
+- country: US
+  region: SC
+  name: Due West
+  lat: '34.3335'
+  long: "-82.3885"
+  nearby_rate_centers:
+  - name: DUE WEST
+    distance:
+      value: 0.43
+      units: km
+  - name: HONEA PATH
+    distance:
+      value: 12.79
+      units: km
+  - name: HODGES
+    distance:
+      value: 13.38
+      units: km
+- country: US
+  region: SC
+  name: Dunbar
+  lat: '33.5341'
+  long: "-79.3533"
+  nearby_rate_centers:
+  - name: W ANDREWS
+    distance:
+      value: 17.68
+      units: km
+  - name: GEORGETOWN
+    distance:
+      value: 18.56
+      units: km
+  - name: Georgetown (HTC)
+    distance:
+      value: 18.56
+      units: km
+  - name: ANDREWS
+    distance:
+      value: 20.55
+      units: km
+- country: US
+  region: SC
+  name: Duncan
+  lat: '34.9342'
+  long: "-82.1443"
+  nearby_rate_centers:
+  - name: LYMAN
+    distance:
+      value: 2.3
+      units: km
+  - name: GREER
+    distance:
+      value: 7.2
+      units: km
+  - name: INMAN
+    distance:
+      value: 13.72
+      units: km
+- country: US
+  region: SC
+  name: Dunean
+  lat: '34.8203'
+  long: "-82.4225"
+  nearby_rate_centers:
+  - name: GREENVILLE
+    distance:
+      value: 3.76
+      units: km
+  - name: PIEDMONT
+    distance:
+      value: 13.09
+      units: km
+  - name: TRAVESREST
+    distance:
+      value: 16.2
+      units: km
+- country: US
+  region: SC
+  name: Easley
+  lat: '34.8188'
+  long: "-82.5827"
+  nearby_rate_centers:
+  - name: EASLEY
+    distance:
+      value: 2.38
+      units: km
+  - name: LIBERTY
+    distance:
+      value: 10.54
+      units: km
+  - name: PICKENS
+    distance:
+      value: 13.0
+      units: km
+- country: US
+  region: SC
+  name: East Camden
+  lat: '34.2687'
+  long: "-80.5681"
+  nearby_rate_centers:
+  - name: CAMDEN
+    distance:
+      value: 4.31
+      units: km
+  - name: BETHUNE
+    distance:
+      value: 25.95
+      units: km
+  - name: BISHORURAL
+    distance:
+      value: 29.11
+      units: km
+- country: US
+  region: SC
+  name: East Gaffney
+  lat: '35.0846'
+  long: "-81.6218"
+  nearby_rate_centers:
+  - name: GAFFNEY
+    distance:
+      value: 2.62
+      units: km
+  - name: BLACKSBURG
+    distance:
+      value: 10.64
+      units: km
+  - name: COWPENS
+    distance:
+      value: 18.0
+      units: km
+- country: US
+  region: SC
+  name: East Sumter
+  lat: '33.9261'
+  long: "-80.2950"
+  nearby_rate_centers:
+  - name: SUMTER
+    distance:
+      value: 4.53
+      units: km
+  - name: ESUMTER
+    distance:
+      value: 5.05
+      units: km
+  - name: NO SUMTER
+    distance:
+      value: 8.26
+      units: km
+- country: US
+  region: SC
+  name: Eastover
+  lat: '33.8779'
+  long: "-80.6949"
+  nearby_rate_centers:
+  - name: EASTOVER
+    distance:
+      value: 0.52
+      units: km
+  - name: OAKLAND
+    distance:
+      value: 22.46
+      units: km
+  - name: STATEBURG
+    distance:
+      value: 23.34
+      units: km
+- country: US
+  region: SC
+  name: Edgefield
+  lat: '33.7870'
+  long: "-81.9291"
+  nearby_rate_centers:
+  - name: EDGEFIELD
+    distance:
+      value: 0.73
+      units: km
+  - name: JOHNSTON
+    distance:
+      value: 12.71
+      units: km
+  - name: RIDGE SPG
+    distance:
+      value: 25.85
+      units: km
+- country: US
+  region: SC
+  name: Edisto
+  lat: '33.4777'
+  long: "-80.8999"
+  nearby_rate_centers:
+  - name: ORANGEBURG
+    distance:
+      value: 4.64
+      units: km
+  - name: CAMERON
+    distance:
+      value: 19.73
+      units: km
+  - name: CRESTON
+    distance:
+      value: 19.73
+      units: km
+  - name: NORWAY
+    distance:
+      value: 21.31
+      units: km
+- country: US
+  region: SC
+  name: Edisto Beach
+  lat: '32.4922'
+  long: "-80.3239"
+  nearby_rate_centers:
+  - name: EDISTO IS
+    distance:
+      value: 1.13
+      units: km
+  - name: ST HELENA
+    distance:
+      value: 25.57
+      units: km
+  - name: HOLLYWOOD
+    distance:
+      value: 32.47
+      units: km
+- country: US
+  region: SC
+  name: Edmund
+  lat: '33.8629'
+  long: "-81.1996"
+  nearby_rate_centers:
+  - name: PELION
+    distance:
+      value: 11.36
+      units: km
+  - name: LEXINGTON
+    distance:
+      value: 13.77
+      units: km
+  - name: SWANSEA
+    distance:
+      value: 17.15
+      units: km
+- country: US
+  region: SC
+  name: Ehrhardt
+  lat: '33.0985'
+  long: "-81.0138"
+  nearby_rate_centers:
+  - name: EHRHARDT
+    distance:
+      value: 0.25
+      units: km
+  - name: LODGE
+    distance:
+      value: 6.97
+      units: km
+  - name: WILLIAMS
+    distance:
+      value: 16.74
+      units: km
+- country: US
+  region: SC
+  name: Elgin
+  lat: '34.6724'
+  long: "-80.7215"
+  nearby_rate_centers:
+  - name: LANCASTER
+    distance:
+      value: 6.62
+      units: km
+  - name: HEATH SPG
+    distance:
+      value: 9.62
+      units: km
+  - name: FORT LAWN
+    distance:
+      value: 16.47
+      units: km
+- country: US
+  region: SC
+  name: Elko
+  lat: '33.3808'
+  long: "-81.3805"
+  nearby_rate_centers:
+  - name: WILLISTON
+    distance:
+      value: 4.78
+      units: km
+  - name: BLACKVILLE
+    distance:
+      value: 11.11
+      units: km
+  - name: BARNWELL
+    distance:
+      value: 15.55
+      units: km
+- country: US
+  region: SC
+  name: Elliott
+  lat: '34.1087'
+  long: "-80.1703"
+  nearby_rate_centers:
+  - name: LYNCHBURG
+    distance:
+      value: 10.11
+      units: km
+  - name: LAMAR
+    distance:
+      value: 12.2
+      units: km
+  - name: BISHORURAL
+    distance:
+      value: 13.8
+      units: km
+- country: US
+  region: SC
+  name: Elloree
+  lat: '33.5301'
+  long: "-80.5712"
+  nearby_rate_centers:
+  - name: ELLOREE
+    distance:
+      value: 0.57
+      units: km
+  - name: SANTEE
+    distance:
+      value: 9.78
+      units: km
+  - name: CAMERON
+    distance:
+      value: 13.77
+      units: km
+  - name: CRESTON
+    distance:
+      value: 13.77
+      units: km
+- country: US
+  region: SC
+  name: Enoree
+  lat: '34.6593'
+  long: "-81.9609"
+  nearby_rate_centers:
+  - name: ENOREE
+    distance:
+      value: 0.2
+      units: km
+  - name: WOODRUFF
+    distance:
+      value: 11.09
+      units: km
+  - name: GRAY COURT
+    distance:
+      value: 15.38
+      units: km
+- country: US
+  region: SC
+  name: Estill
+  lat: '32.7538'
+  long: "-81.2412"
+  nearby_rate_centers:
+  - name: ESTILL
+    distance:
+      value: 0.4
+      units: km
+  - name: HAMPTON
+    distance:
+      value: 17.46
+      units: km
+  - name: FAIRFAX
+    distance:
+      value: 22.52
+      units: km
+- country: US
+  region: SC
+  name: Eureka Mill
+  lat: '34.7180'
+  long: "-81.1929"
+  nearby_rate_centers:
+  - name: CHESTER
+    distance:
+      value: 1.78
+      units: km
+  - name: LEWISVILLE
+    distance:
+      value: 16.67
+      units: km
+  - name: LOCKHART
+    distance:
+      value: 25.39
+      units: km
+- country: US
+  region: SC
+  name: Eutawville
+  lat: '33.3978'
+  long: "-80.3430"
+  nearby_rate_centers:
+  - name: EUTAWVILLE
+    distance:
+      value: 0.52
+      units: km
+  - name: HOLLY HILL
+    distance:
+      value: 10.23
+      units: km
+  - name: SANTEE
+    distance:
+      value: 16.25
+      units: km
+- country: US
+  region: SC
+  name: Fair Play
+  lat: '34.5077'
+  long: "-82.9862"
+  nearby_rate_centers:
+  - name: WESTMINSTR
+    distance:
+      value: 19.84
+      units: km
+  - name: SENECA
+    distance:
+      value: 20.64
+      units: km
+  - name: PENDLETON
+    distance:
+      value: 24.75
+      units: km
+- country: US
+  region: SC
+  name: Fairfax
+  lat: '32.9594'
+  long: "-81.2363"
+  nearby_rate_centers:
+  - name: FAIRFAX
+    distance:
+      value: 0.41
+      units: km
+  - name: ALLENDALE
+    distance:
+      value: 8.44
+      units: km
+  - name: HAMPTON
+    distance:
+      value: 15.92
+      units: km
+- country: US
+  region: SC
+  name: Fairforest
+  lat: '34.9532'
+  long: "-82.0157"
+  nearby_rate_centers:
+  - name: SPARTANBG
+    distance:
+      value: 7.69
+      units: km
+  - name: LYMAN
+    distance:
+      value: 10.14
+      units: km
+  - name: INMAN
+    distance:
+      value: 12.83
+      units: km
+- country: US
+  region: SC
+  name: Fairview Crossroads
+  lat: '33.7577'
+  long: "-81.3621"
+  nearby_rate_centers:
+  - name: PONDBRANCH
+    distance:
+      value: 9.29
+      units: km
+  - name: PELION
+    distance:
+      value: 11.03
+      units: km
+  - name: WAGENER
+    distance:
+      value: 11.95
+      units: km
+- country: US
+  region: SC
+  name: Fingerville
+  lat: '35.1351'
+  long: "-82.0002"
+  nearby_rate_centers:
+  - name: INMAN
+    distance:
+      value: 12.64
+      units: km
+  - name: CHESNEE
+    distance:
+      value: 13.08
+      units: km
+  - name: CAMPOBELLO
+    distance:
+      value: 13.7
+      units: km
+- country: US
+  region: SC
+  name: Finklea
+  lat: '34.0989'
+  long: "-78.9858"
+  nearby_rate_centers:
+  - name: LORIS
+    distance:
+      value: 9.8
+      units: km
+  - name: FLOYDS
+    distance:
+      value: 12.22
+      units: km
+  - name: NICHOLS
+    distance:
+      value: 21.34
+      units: km
+- country: US
+  region: SC
+  name: Five Forks
+  lat: '34.8069'
+  long: "-82.2271"
+  nearby_rate_centers:
+  - name: SIMPSONVL
+    distance:
+      value: 7.46
+      units: km
+  - name: FOUNTANINN
+    distance:
+      value: 12.19
+      units: km
+  - name: GREER
+    distance:
+      value: 15.14
+      units: km
+- country: US
+  region: SC
+  name: Florence
+  lat: '34.1780'
+  long: "-79.7898"
+  nearby_rate_centers:
+  - name: FLORENCE
+    distance:
+      value: 3.06
+      units: km
+  - name: TIMMONSVL
+    distance:
+      value: 14.93
+      units: km
+  - name: DARLINGTON
+    distance:
+      value: 15.47
+      units: km
+- country: US
+  region: SC
+  name: Floydale
+  lat: '34.3210'
+  long: "-79.3371"
+  nearby_rate_centers:
+  - name: LATTA
+    distance:
+      value: 8.21
+      units: km
+  - name: DILLON
+    distance:
+      value: 10.81
+      units: km
+  - name: MULLINS
+    distance:
+      value: 15.68
+      units: km
+- country: US
+  region: SC
+  name: Folly Beach
+  lat: '32.6692'
+  long: "-79.9500"
+  nearby_rate_centers:
+  - name: FOLLYBEACH
+    distance:
+      value: 2.43
+      units: km
+  - name: CHARLESTON
+    distance:
+      value: 13.63
+      units: km
+  - name: MTPLEASANT
+    distance:
+      value: 14.86
+      units: km
+- country: US
+  region: SC
+  name: Forest Acres
+  lat: '34.0323'
+  long: "-80.9716"
+  nearby_rate_centers:
+  - name: COLUMBIA
+    distance:
+      value: 6.23
+      units: km
+  - name: W COLUMBIA
+    distance:
+      value: 6.23
+      units: km
+  - name: LEXINGTON
+    distance:
+      value: 24.81
+      units: km
+  - name: EASTOVER
+    distance:
+      value: 30.66
+      units: km
+- country: US
+  region: SC
+  name: Forestbrook
+  lat: '33.7242'
+  long: "-78.9677"
+  nearby_rate_centers:
+  - name: WMYRTLEBCH
+    distance:
+      value: 2.33
+      units: km
+  - name: LAKEWOOD
+    distance:
+      value: 4.59
+      units: km
+  - name: EASTCONWAY
+    distance:
+      value: 5.62
+      units: km
+- country: US
+  region: SC
+  name: Foreston
+  lat: '33.6367'
+  long: "-80.0607"
+  nearby_rate_centers:
+  - name: GREELEYVL
+    distance:
+      value: 9.15
+      units: km
+  - name: MANNING
+    distance:
+      value: 15.61
+      units: km
+  - name: NO MANNING
+    distance:
+      value: 15.73
+      units: km
+- country: US
+  region: SC
+  name: Fort Lawn
+  lat: '34.7003'
+  long: "-80.8991"
+  nearby_rate_centers:
+  - name: FORT LAWN
+    distance:
+      value: 0.07
+      units: km
+  - name: LANCASTER
+    distance:
+      value: 12.32
+      units: km
+  - name: GREATFALLS
+    distance:
+      value: 14.87
+      units: km
+- country: US
+  region: SC
+  name: Fort Mill
+  lat: '35.0061'
+  long: "-80.9389"
+  nearby_rate_centers:
+  - name: FORT MILL
+    distance:
+      value: 1.05
+      units: km
+  - name: ROCK HILL
+    distance:
+      value: 11.76
+      units: km
+  - name: LK WYLIE W
+    distance:
+      value: 15.22
+      units: km
+  - name: LAKE WYLIE
+    distance:
+      value: 15.22
+      units: km
+- country: US
+  region: SC
+  name: Fountain Inn
+  lat: '34.6989'
+  long: "-82.2005"
+  nearby_rate_centers:
+  - name: FOUNTANINN
+    distance:
+      value: 0.32
+      units: km
+  - name: SIMPSONVL
+    distance:
+      value: 6.7
+      units: km
+  - name: GRAY COURT
+    distance:
+      value: 12.9
+      units: km
+- country: US
+  region: SC
+  name: Fripp Island
+  lat: '32.3231'
+  long: "-80.4789"
+  nearby_rate_centers:
+  - name: ST HELENA
+    distance:
+      value: 12.61
+      units: km
+  - name: BEAUFORT
+    distance:
+      value: 21.52
+      units: km
+  - name: EDISTO IS
+    distance:
+      value: 22.65
+      units: km
+- country: US
+  region: SC
+  name: Furman
+  lat: '32.6813'
+  long: "-81.1877"
+  nearby_rate_centers:
+  - name: ESTILL
+    distance:
+      value: 9.89
+      units: km
+  - name: HAMPTON
+    distance:
+      value: 21.66
+      units: km
+  - name: RIDGELAND
+    distance:
+      value: 29.36
+      units: km
+- country: US
+  region: SC
+  name: Gadsden
+  lat: '33.8480'
+  long: "-80.7663"
+  nearby_rate_centers:
+  - name: EASTOVER
+    distance:
+      value: 7.79
+      units: km
+  - name: STMATTHEWS
+    distance:
+      value: 20.26
+      units: km
+  - name: OAKLAND
+    distance:
+      value: 29.81
+      units: km
+- country: US
+  region: SC
+  name: Gaffney
+  lat: '35.0743'
+  long: "-81.6552"
+  nearby_rate_centers:
+  - name: GAFFNEY
+    distance:
+      value: 0.64
+      units: km
+  - name: BLACKSBURG
+    distance:
+      value: 13.88
+      units: km
+  - name: COWPENS
+    distance:
+      value: 14.76
+      units: km
+- country: US
+  region: SC
+  name: Gantt
+  lat: '34.7837'
+  long: "-82.4027"
+  nearby_rate_centers:
+  - name: GREENVILLE
+    distance:
+      value: 7.29
+      units: km
+  - name: PIEDMONT
+    distance:
+      value: 10.0
+      units: km
+  - name: SIMPSONVL
+    distance:
+      value: 14.61
+      units: km
+- country: US
+  region: SC
+  name: Garden City
+  lat: '33.5926'
+  long: "-79.0071"
+  nearby_rate_centers:
+  - name: MURELSINLT
+    distance:
+      value: 3.16
+      units: km
+  - name: COLLINSCK
+    distance:
+      value: 4.61
+      units: km
+  - name: LAKEWOOD
+    distance:
+      value: 10.78
+      units: km
+- country: US
+  region: SC
+  name: Gaston
+  lat: '33.8180'
+  long: "-81.0997"
+  nearby_rate_centers:
+  - name: SWANSEA
+    distance:
+      value: 9.55
+      units: km
+  - name: PELION
+    distance:
+      value: 14.41
+      units: km
+  - name: COLUMBIA
+    distance:
+      value: 22.16
+      units: km
+  - name: W COLUMBIA
+    distance:
+      value: 22.16
+      units: km
+- country: US
+  region: SC
+  name: Gayle Mill
+  lat: '34.7023'
+  long: "-81.2391"
+  nearby_rate_centers:
+  - name: CHESTER
+    distance:
+      value: 2.94
+      units: km
+  - name: LEWISVILLE
+    distance:
+      value: 21.17
+      units: km
+  - name: LOCKHART
+    distance:
+      value: 22.01
+      units: km
+- country: US
+  region: SC
+  name: Georgetown
+  lat: '33.3594'
+  long: "-79.2958"
+  nearby_rate_centers:
+  - name: GEORGETOWN
+    distance:
+      value: 1.79
+      units: km
+  - name: Georgetown (HTC)
+    distance:
+      value: 1.79
+      units: km
+  - name: Pawleys Island (HTC)
+    distance:
+      value: 17.79
+      units: km
+  - name: PAWLEYS IS
+    distance:
+      value: 17.79
+      units: km
+  - name: ANDREWS
+    distance:
+      value: 25.51
+      units: km
+- country: US
+  region: SC
+  name: Gifford
+  lat: '32.8601'
+  long: "-81.2385"
+  nearby_rate_centers:
+  - name: FAIRFAX
+    distance:
+      value: 10.7
+      units: km
+  - name: ESTILL
+    distance:
+      value: 11.49
+      units: km
+  - name: HAMPTON
+    distance:
+      value: 12.14
+      units: km
+- country: US
+  region: SC
+  name: Gilbert
+  lat: '33.9245'
+  long: "-81.3928"
+  nearby_rate_centers:
+  - name: GILBERT
+    distance:
+      value: 0.44
+      units: km
+  - name: PONDBRANCH
+    distance:
+      value: 12.6
+      units: km
+  - name: BATESBURG
+    distance:
+      value: 14.49
+      units: km
+- country: US
+  region: SC
+  name: Gillisonville
+  lat: '32.6116'
+  long: "-81.0001"
+  nearby_rate_centers:
+  - name: RIDGELAND
+    distance:
+      value: 14.54
+      units: km
+  - name: YEMASSEE
+    distance:
+      value: 16.67
+      units: km
+  - name: LAUREL BAY
+    distance:
+      value: 26.14
+      units: km
+- country: US
+  region: SC
+  name: Glendale
+  lat: '34.9452'
+  long: "-81.8364"
+  nearby_rate_centers:
+  - name: PACOLET
+    distance:
+      value: 8.29
+      units: km
+  - name: SPARTANBG
+    distance:
+      value: 8.68
+      units: km
+  - name: COWPENS
+    distance:
+      value: 8.68
+      units: km
+- country: US
+  region: SC
+  name: Glenn Springs
+  lat: '34.8134'
+  long: "-81.8415"
+  nearby_rate_centers:
+  - name: PACOLET
+    distance:
+      value: 11.65
+      units: km
+  - name: JONESVILLE
+    distance:
+      value: 14.73
+      units: km
+  - name: SPARTANBG
+    distance:
+      value: 17.12
+      units: km
+- country: US
+  region: SC
+  name: Gloverville
+  lat: '33.5274'
+  long: "-81.8144"
+  nearby_rate_centers:
+  - name: GRANITEVL
+    distance:
+      value: 4.37
+      units: km
+  - name: BATH
+    distance:
+      value: 6.47
+      units: km
+  - name: AIKEN
+    distance:
+      value: 9.64
+      units: km
+- country: US
+  region: SC
+  name: Golden Grove
+  lat: '34.7324'
+  long: "-82.4407"
+  nearby_rate_centers:
+  - name: PIEDMONT
+    distance:
+      value: 3.32
+      units: km
+  - name: PELZER
+    distance:
+      value: 9.48
+      units: km
+  - name: WILLIAMSTN
+    distance:
+      value: 13.04
+      units: km
+- country: US
+  region: SC
+  name: Goose Creek
+  lat: '32.9927'
+  long: "-80.0055"
+  nearby_rate_centers:
+  - name: SUMMERVL
+    distance:
+      value: 16.88
+      units: km
+  - name: HUGER
+    distance:
+      value: 22.35
+      units: km
+  - name: MONCKS COR
+    distance:
+      value: 22.97
+      units: km
+- country: US
+  region: SC
+  name: Govan
+  lat: '33.2227'
+  long: "-81.1748"
+  nearby_rate_centers:
+  - name: OLAR
+    distance:
+      value: 4.45
+      units: km
+  - name: DENMARK
+    distance:
+      value: 11.68
+      units: km
+  - name: BAMBERG
+    distance:
+      value: 15.5
+      units: km
+- country: US
+  region: SC
+  name: Gramling
+  lat: '35.0782'
+  long: "-82.1332"
+  nearby_rate_centers:
+  - name: CAMPOBELLO
+    distance:
+      value: 4.4
+      units: km
+  - name: INMAN
+    distance:
+      value: 4.87
+      units: km
+  - name: LANDRUM
+    distance:
+      value: 12.47
+      units: km
+- country: US
+  region: SC
+  name: Graniteville
+  lat: '33.5646'
+  long: "-81.8078"
+  nearby_rate_centers:
+  - name: GRANITEVL
+    distance:
+      value: 0.19
+      units: km
+  - name: AIKEN
+    distance:
+      value: 8.44
+      units: km
+  - name: BATH
+    distance:
+      value: 9.62
+      units: km
+- country: US
+  region: SC
+  name: Gray Court
+  lat: '34.6079'
+  long: "-82.1143"
+  nearby_rate_centers:
+  - name: GRAY COURT
+    distance:
+      value: 0.26
+      units: km
+  - name: HICKOYTVRN
+    distance:
+      value: 11.52
+      units: km
+  - name: FOUNTANINN
+    distance:
+      value: 12.75
+      units: km
+- country: US
+  region: SC
+  name: Great Falls
+  lat: '34.5753'
+  long: "-80.9048"
+  nearby_rate_centers:
+  - name: GREATFALLS
+    distance:
+      value: 1.05
+      units: km
+  - name: FORT LAWN
+    distance:
+      value: 13.94
+      units: km
+  - name: HEATH SPG
+    distance:
+      value: 20.16
+      units: km
+- country: US
+  region: SC
+  name: Greeleyville
+  lat: '33.5801'
+  long: "-79.9901"
+  nearby_rate_centers:
+  - name: GREELEYVL
+    distance:
+      value: 0.1
+      units: km
+  - name: LANE
+    distance:
+      value: 12.31
+      units: km
+  - name: KINGSTREE
+    distance:
+      value: 17.88
+      units: km
+- country: US
+  region: SC
+  name: Green Sea
+  lat: '34.1288'
+  long: "-78.9721"
+  nearby_rate_centers:
+  - name: FLOYDS
+    distance:
+      value: 10.53
+      units: km
+  - name: LORIS
+    distance:
+      value: 10.83
+      units: km
+  - name: NICHOLS
+    distance:
+      value: 20.15
+      units: km
+- country: US
+  region: SC
+  name: Greenville
+  lat: '34.8354'
+  long: "-82.3646"
+  nearby_rate_centers:
+  - name: GREENVILLE
+    distance:
+      value: 3.68
+      units: km
+  - name: SIMPSONVL
+    distance:
+      value: 14.64
+      units: km
+  - name: TRAVESREST
+    distance:
+      value: 16.03
+      units: km
+- country: US
+  region: SC
+  name: Greenwood
+  lat: '34.1947'
+  long: "-82.1542"
+  nearby_rate_centers:
+  - name: GREENWOOD
+    distance:
+      value: 1.53
+      units: km
+  - name: NINETY SIX
+    distance:
+      value: 11.98
+      units: km
+  - name: HODGES
+    distance:
+      value: 14.11
+      units: km
+- country: US
+  region: SC
+  name: Greer
+  lat: '34.9330'
+  long: "-82.2313"
+  nearby_rate_centers:
+  - name: GREER
+    distance:
+      value: 1.37
+      units: km
+  - name: LYMAN
+    distance:
+      value: 9.69
+      units: km
+  - name: BLUE RIDGE
+    distance:
+      value: 13.09
+      units: km
+- country: US
+  region: SC
+  name: Grover
+  lat: '33.1092'
+  long: "-80.5920"
+  nearby_rate_centers:
+  - name: ST GEORGE
+    distance:
+      value: 8.48
+      units: km
+  - name: HARLEYVL
+    distance:
+      value: 17.81
+      units: km
+  - name: NWALTERBOR
+    distance:
+      value: 18.74
+      units: km
+- country: US
+  region: SC
+  name: Hamer
+  lat: '34.4741'
+  long: "-79.3258"
+  nearby_rate_centers:
+  - name: ROWLAND
+    distance:
+      value: 6.69
+      units: km
+  - name: DILLON
+    distance:
+      value: 7.53
+      units: km
+  - name: LATTA
+    distance:
+      value: 17.18
+      units: km
+- country: US
+  region: SC
+  name: Hampton
+  lat: '32.8676'
+  long: "-81.1093"
+  nearby_rate_centers:
+  - name: HAMPTON
+    distance:
+      value: 0.36
+      units: km
+  - name: FAIRFAX
+    distance:
+      value: 15.26
+      units: km
+  - name: ESTILL
+    distance:
+      value: 17.57
+      units: km
+- country: US
+  region: SC
+  name: Hanahan
+  lat: '32.9302'
+  long: "-80.0027"
+  nearby_rate_centers:
+  - name: CHARLESTON
+    distance:
+      value: 16.36
+      units: km
+  - name: SUMMERVL
+    distance:
+      value: 19.85
+      units: km
+  - name: MTPLEASANT
+    distance:
+      value: 20.73
+      units: km
+- country: US
+  region: SC
+  name: Harbor Island
+  lat: '32.4033'
+  long: "-80.4377"
+  nearby_rate_centers:
+  - name: ST HELENA
+    distance:
+      value: 12.87
+      units: km
+  - name: EDISTO IS
+    distance:
+      value: 13.46
+      units: km
+  - name: BEAUFORT
+    distance:
+      value: 21.74
+      units: km
+- country: US
+  region: SC
+  name: Hardeeville
+  lat: '32.2949'
+  long: "-81.0321"
+  nearby_rate_centers:
+  - name: HARDEEVL
+    distance:
+      value: 3.91
+      units: km
+  - name: PRITCHARDV
+    distance:
+      value: 8.73
+      units: km
+  - name: LOWCOUNTRY
+    distance:
+      value: 17.03
+      units: km
+- country: US
+  region: SC
+  name: Harleyville
+  lat: '33.2130'
+  long: "-80.4478"
+  nearby_rate_centers:
+  - name: HARLEYVL
+    distance:
+      value: 0.25
+      units: km
+  - name: ST GEORGE
+    distance:
+      value: 12.22
+      units: km
+  - name: HOLLY HILL
+    distance:
+      value: 12.81
+      units: km
+- country: US
+  region: SC
+  name: Hartsville
+  lat: '34.3675'
+  long: "-80.0829"
+  nearby_rate_centers:
+  - name: HARTSVILLE
+    distance:
+      value: 1.27
+      units: km
+  - name: MCBEE
+    distance:
+      value: 19.74
+      units: km
+  - name: DARLINGTON
+    distance:
+      value: 21.02
+      units: km
+- country: US
+  region: SC
+  name: Heath Springs
+  lat: '34.5933'
+  long: "-80.6750"
+  nearby_rate_centers:
+  - name: HEATH SPG
+    distance:
+      value: 0.99
+      units: km
+  - name: KERSHAW
+    distance:
+      value: 10.57
+      units: km
+  - name: LANCASTER
+    distance:
+      value: 16.3
+      units: km
+- country: US
+  region: SC
+  name: Helena
+  lat: '34.2807'
+  long: "-81.6445"
+  nearby_rate_centers:
+  - name: NEWBERRY
+    distance:
+      value: 2.6
+      units: km
+  - name: PROSPERITY
+    distance:
+      value: 12.83
+      units: km
+  - name: JOANNA
+    distance:
+      value: 22.68
+      units: km
+- country: US
+  region: SC
+  name: Hemingway
+  lat: '33.7534'
+  long: "-79.4462"
+  nearby_rate_centers:
+  - name: HEMINGWAY
+    distance:
+      value: 0.45
+      units: km
+  - name: JOHNSONVL
+    distance:
+      value: 7.25
+      units: km
+  - name: PAMPLICO
+    distance:
+      value: 29.61
+      units: km
+- country: US
+  region: SC
+  name: Hickory Grove
+  lat: '34.9785'
+  long: "-81.4180"
+  nearby_rate_centers:
+  - name: HICKORYGRV
+    distance:
+      value: 0.75
+      units: km
+  - name: SHARON
+    distance:
+      value: 8.2
+      units: km
+  - name: YORK
+    distance:
+      value: 16.07
+      units: km
+- country: US
+  region: SC
+  name: Hilda
+  lat: '33.2740'
+  long: "-81.2466"
+  nearby_rate_centers:
+  - name: BLACKVILLE
+    distance:
+      value: 9.54
+      units: km
+  - name: DENMARK
+    distance:
+      value: 10.88
+      units: km
+  - name: BARNWELL
+    distance:
+      value: 11.22
+      units: km
+- country: US
+  region: SC
+  name: Hilltop
+  lat: '34.9755'
+  long: "-81.9586"
+  nearby_rate_centers:
+  - name: SPARTANBG
+    distance:
+      value: 3.89
+      units: km
+  - name: INMAN
+    distance:
+      value: 14.73
+      units: km
+  - name: COWPENS
+    distance:
+      value: 15.03
+      units: km
+- country: US
+  region: SC
+  name: Hilton Head Island
+  lat: '32.1896'
+  long: "-80.7499"
+  nearby_rate_centers:
+  - name: HILTONHEAD
+    distance:
+      value: 2.33
+      units: km
+  - name: BLUFFTON
+    distance:
+      value: 11.1
+      units: km
+  - name: PRITCHARDV
+    distance:
+      value: 20.99
+      units: km
+- country: US
+  region: SC
+  name: Hodges
+  lat: '34.2876'
+  long: "-82.2480"
+  nearby_rate_centers:
+  - name: HODGES
+    distance:
+      value: 0.67
+      units: km
+  - name: GREENWOOD
+    distance:
+      value: 11.97
+      units: km
+  - name: WARESHOALS
+    distance:
+      value: 12.47
+      units: km
+- country: US
+  region: SC
+  name: Holly Hill
+  lat: '33.3245'
+  long: "-80.4130"
+  nearby_rate_centers:
+  - name: HOLLY HILL
+    distance:
+      value: 0.53
+      units: km
+  - name: EUTAWVILLE
+    distance:
+      value: 10.87
+      units: km
+  - name: HARLEYVL
+    distance:
+      value: 12.6
+      units: km
+- country: US
+  region: SC
+  name: Hollywood
+  lat: '32.7520'
+  long: "-80.2118"
+  nearby_rate_centers:
+  - name: HOLLYWOOD
+    distance:
+      value: 3.6
+      units: km
+  - name: CHARLESTON
+    distance:
+      value: 25.44
+      units: km
+  - name: FOLLYBEACH
+    distance:
+      value: 27.88
+      units: km
+- country: US
+  region: SC
+  name: Homeland Park
+  lat: '34.4644'
+  long: "-82.6593"
+  nearby_rate_centers:
+  - name: ANDERSON
+    distance:
+      value: 4.22
+      units: km
+  - name: STARR
+    distance:
+      value: 10.06
+      units: km
+  - name: BELTON
+    distance:
+      value: 16.74
+      units: km
+- country: US
+  region: SC
+  name: Homewood
+  lat: '33.8927'
+  long: "-79.0518"
+  nearby_rate_centers:
+  - name: NO CONWAY
+    distance:
+      value: 0.71
+      units: km
+  - name: Conway (HTC)
+    distance:
+      value: 5.45
+      units: km
+  - name: CONWAY
+    distance:
+      value: 5.45
+      units: km
+  - name: SO CONWAY
+    distance:
+      value: 12.75
+      units: km
+- country: US
+  region: SC
+  name: Honea Path
+  lat: '34.4476'
+  long: "-82.3950"
+  nearby_rate_centers:
+  - name: HONEA PATH
+    distance:
+      value: 0.32
+      units: km
+  - name: BELTON
+    distance:
+      value: 12.37
+      units: km
+  - name: WEST END
+    distance:
+      value: 12.68
+      units: km
+- country: US
+  region: SC
+  name: Hopkins
+  lat: '33.8983'
+  long: "-80.8599"
+  nearby_rate_centers:
+  - name: EASTOVER
+    distance:
+      value: 15.54
+      units: km
+  - name: W COLUMBIA
+    distance:
+      value: 20.23
+      units: km
+  - name: COLUMBIA
+    distance:
+      value: 20.23
+      units: km
+  - name: STMATTHEWS
+    distance:
+      value: 27.01
+      units: km
+- country: US
+  region: SC
+  name: India Hook
+  lat: '35.0142'
+  long: "-81.0378"
+  nearby_rate_centers:
+  - name: FORT MILL
+    distance:
+      value: 8.0
+      units: km
+  - name: ROCK HILL
+    distance:
+      value: 9.81
+      units: km
+  - name: LAKE WYLIE
+    distance:
+      value: 10.15
+      units: km
+  - name: LK WYLIE W
+    distance:
+      value: 10.15
+      units: km
+- country: US
+  region: SC
+  name: Inman
+  lat: '35.0463'
+  long: "-82.0897"
+  nearby_rate_centers:
+  - name: INMAN
+    distance:
+      value: 0.48
+      units: km
+  - name: CAMPOBELLO
+    distance:
+      value: 9.4
+      units: km
+  - name: LYMAN
+    distance:
+      value: 11.32
+      units: km
+- country: US
+  region: SC
+  name: Inman Mills
+  lat: '35.0408'
+  long: "-82.1024"
+  nearby_rate_centers:
+  - name: INMAN
+    distance:
+      value: 1.37
+      units: km
+  - name: CAMPOBELLO
+    distance:
+      value: 9.33
+      units: km
+  - name: LYMAN
+    distance:
+      value: 10.43
+      units: km
+- country: US
+  region: SC
+  name: Irmo
+  lat: '34.1018'
+  long: "-81.1956"
+  nearby_rate_centers:
+  - name: LEXINGTON
+    distance:
+      value: 13.64
+      units: km
+  - name: CHPNLTLMTS
+    distance:
+      value: 16.14
+      units: km
+  - name: CHPNLTLMTN
+    distance:
+      value: 16.19
+      units: km
+- country: US
+  region: SC
+  name: Irwin
+  lat: '34.6942'
+  long: "-80.8197"
+  nearby_rate_centers:
+  - name: LANCASTER
+    distance:
+      value: 5.61
+      units: km
+  - name: FORT LAWN
+    distance:
+      value: 7.22
+      units: km
+  - name: GREATFALLS
+    distance:
+      value: 15.99
+      units: km
+- country: US
+  region: SC
+  name: Islandton
+  lat: '32.9093'
+  long: "-80.9359"
+  nearby_rate_centers:
+  - name: WILLIAMS
+    distance:
+      value: 15.77
+      units: km
+  - name: HAMPTON
+    distance:
+      value: 16.88
+      units: km
+  - name: LODGE
+    distance:
+      value: 17.56
+      units: km
+- country: US
+  region: SC
+  name: Isle of Palms
+  lat: '32.8043'
+  long: "-79.7552"
+  nearby_rate_centers:
+  - name: ISLE PALMS
+    distance:
+      value: 2.89
+      units: km
+  - name: SULLIVNSIS
+    distance:
+      value: 8.18
+      units: km
+  - name: MTPLEASANT
+    distance:
+      value: 10.68
+      units: km
+- country: US
+  region: SC
+  name: Iva
+  lat: '34.3071'
+  long: "-82.6636"
+  nearby_rate_centers:
+  - name: IVA
+    distance:
+      value: 0.34
+      units: km
+  - name: STARR
+    distance:
+      value: 8.4
+      units: km
+  - name: ANDERSON
+    distance:
+      value: 21.67
+      units: km
+- country: US
+  region: SC
+  name: Jackson
+  lat: '33.3283'
+  long: "-81.7925"
+  nearby_rate_centers:
+  - name: JACKSON
+    distance:
+      value: 2.56
+      units: km
+  - name: NEWELLENTN
+    distance:
+      value: 13.26
+      units: km
+  - name: SAVANNAHRS
+    distance:
+      value: 14.03
+      units: km
+  - name: BEECH IS
+    distance:
+      value: 14.03
+      units: km
+- country: US
+  region: SC
+  name: Jacksonboro
+  lat: '32.7718'
+  long: "-80.4768"
+  nearby_rate_centers:
+  - name: SWALTERBOR
+    distance:
+      value: 13.57
+      units: km
+  - name: COTTAGEVL
+    distance:
+      value: 17.75
+      units: km
+  - name: HOLLYWOOD
+    distance:
+      value: 22.27
+      units: km
+- country: US
+  region: SC
+  name: James Island
+  lat: '32.7353'
+  long: "-79.9394"
+  nearby_rate_centers:
+  - name: CHARLESTON
+    distance:
+      value: 6.28
+      units: km
+  - name: MTPLEASANT
+    distance:
+      value: 8.63
+      units: km
+  - name: FOLLYBEACH
+    distance:
+      value: 9.59
+      units: km
+- country: US
+  region: SC
+  name: Jamestown
+  lat: '33.2858'
+  long: "-79.6945"
+  nearby_rate_centers:
+  - name: JAMESTOWN
+    distance:
+      value: 0.78
+      units: km
+  - name: MACEDONIA
+    distance:
+      value: 16.92
+      units: km
+  - name: ANDREWS
+    distance:
+      value: 22.52
+      units: km
+- country: US
+  region: SC
+  name: Jefferson
+  lat: '34.6512'
+  long: "-80.3866"
+  nearby_rate_centers:
+  - name: JEFFERSON
+    distance:
+      value: 0.48
+      units: km
+  - name: PAGELAND
+    distance:
+      value: 12.91
+      units: km
+  - name: KERSHAW
+    distance:
+      value: 20.47
+      units: km
+- country: US
+  region: SC
+  name: Jenkinsville
+  lat: '34.3129'
+  long: "-81.2874"
+  nearby_rate_centers:
+  - name: CHPNLTLMTS
+    distance:
+      value: 17.25
+      units: km
+  - name: CHPNLTLMTN
+    distance:
+      value: 17.75
+      units: km
+  - name: WINNSBORO
+    distance:
+      value: 20.51
+      units: km
+- country: US
+  region: SC
+  name: Joanna
+  lat: '34.4149'
+  long: "-81.8086"
+  nearby_rate_centers:
+  - name: JOANNA
+    distance:
+      value: 1.49
+      units: km
+  - name: CLINTON
+    distance:
+      value: 9.79
+      units: km
+  - name: MOUNTVILLE
+    distance:
+      value: 15.61
+      units: km
+- country: US
+  region: SC
+  name: Johnsonville
+  lat: '33.8150'
+  long: "-79.4443"
+  nearby_rate_centers:
+  - name: JOHNSONVL
+    distance:
+      value: 0.68
+      units: km
+  - name: HEMINGWAY
+    distance:
+      value: 7.24
+      units: km
+  - name: PAMPLICO
+    distance:
+      value: 23.49
+      units: km
+- country: US
+  region: SC
+  name: Johnston
+  lat: '33.8328'
+  long: "-81.8051"
+  nearby_rate_centers:
+  - name: JOHNSTON
+    distance:
+      value: 0.24
+      units: km
+  - name: EDGEFIELD
+    distance:
+      value: 12.83
+      units: km
+  - name: RIDGE SPG
+    distance:
+      value: 13.54
+      units: km
+- country: US
+  region: SC
+  name: Jonesville
+  lat: '34.8348'
+  long: "-81.6811"
+  nearby_rate_centers:
+  - name: JONESVILLE
+    distance:
+      value: 0.11
+      units: km
+  - name: PACOLET
+    distance:
+      value: 10.46
+      units: km
+  - name: UNION
+    distance:
+      value: 14.33
+      units: km
+- country: US
+  region: SC
+  name: Judson
+  lat: '34.8335'
+  long: "-82.4272"
+  nearby_rate_centers:
+  - name: GREENVILLE
+    distance:
+      value: 2.95
+      units: km
+  - name: PIEDMONT
+    distance:
+      value: 14.42
+      units: km
+  - name: TRAVESREST
+    distance:
+      value: 14.7
+      units: km
+- country: US
+  region: SC
+  name: Keowee Key
+  lat: '34.8257'
+  long: "-82.9158"
+  nearby_rate_centers:
+  - name: SALEM
+    distance:
+      value: 9.01
+      units: km
+  - name: SIX MILE
+    distance:
+      value: 9.46
+      units: km
+  - name: SENECA
+    distance:
+      value: 15.31
+      units: km
+- country: US
+  region: SC
+  name: Kershaw
+  lat: '34.5462'
+  long: "-80.5873"
+  nearby_rate_centers:
+  - name: KERSHAW
+    distance:
+      value: 1.37
+      units: km
+  - name: HEATH SPG
+    distance:
+      value: 10.28
+      units: km
+  - name: JEFFERSON
+    distance:
+      value: 21.31
+      units: km
+- country: US
+  region: SC
+  name: Ketchuptown
+  lat: '34.1091'
+  long: "-79.1557"
+  nearby_rate_centers:
+  - name: FLOYDS
+    distance:
+      value: 12.75
+      units: km
+  - name: AYNOR
+    distance:
+      value: 12.81
+      units: km
+  - name: MULLINS
+    distance:
+      value: 13.28
+      units: km
+- country: US
+  region: SC
+  name: Kiawah Island
+  lat: '32.6157'
+  long: "-80.0613"
+  nearby_rate_centers:
+  - name: FOLLYBEACH
+    distance:
+      value: 11.94
+      units: km
+  - name: CHARLESTON
+    distance:
+      value: 22.44
+      units: km
+  - name: HOLLYWOOD
+    distance:
+      value: 24.29
+      units: km
+- country: US
+  region: SC
+  name: Kingstree
+  lat: '33.6665'
+  long: "-79.8292"
+  nearby_rate_centers:
+  - name: KINGSTREE
+    distance:
+      value: 0.21
+      units: km
+  - name: NOKINGSTRE
+    distance:
+      value: 0.92
+      units: km
+  - name: LANE
+    distance:
+      value: 16.42
+      units: km
+- country: US
+  region: SC
+  name: Kline
+  lat: '33.1252'
+  long: "-81.3426"
+  nearby_rate_centers:
+  - name: BARNWELL
+    distance:
+      value: 13.09
+      units: km
+  - name: ALLENDALE
+    distance:
+      value: 13.4
+      units: km
+  - name: OLAR
+    distance:
+      value: 16.03
+      units: km
+- country: US
+  region: SC
+  name: La France
+  lat: '34.6115'
+  long: "-82.7667"
+  nearby_rate_centers:
+  - name: PENDLETON
+    distance:
+      value: 4.37
+      units: km
+  - name: CLEMSON
+    distance:
+      value: 10.76
+      units: km
+  - name: CENTRAL
+    distance:
+      value: 12.53
+      units: km
+- country: US
+  region: SC
+  name: Ladson
+  lat: '33.0093'
+  long: "-80.1078"
+  nearby_rate_centers:
+  - name: SUMMERVL
+    distance:
+      value: 7.18
+      units: km
+  - name: LEBANON
+    distance:
+      value: 20.61
+      units: km
+  - name: MONCKS COR
+    distance:
+      value: 23.06
+      units: km
+- country: US
+  region: SC
+  name: Lake City
+  lat: '33.8676'
+  long: "-79.7534"
+  nearby_rate_centers:
+  - name: LAKE CITY
+    distance:
+      value: 1.04
+      units: km
+  - name: SCRANTON
+    distance:
+      value: 5.08
+      units: km
+  - name: OLANTA
+    distance:
+      value: 18.01
+      units: km
+- country: US
+  region: SC
+  name: Lake Murray of Richland
+  lat: '34.1209'
+  long: "-81.2653"
+  nearby_rate_centers:
+  - name: CHPNLTLMTN
+    distance:
+      value: 9.51
+      units: km
+  - name: CHPNLTLMTS
+    distance:
+      value: 9.51
+      units: km
+  - name: LEXINGTON
+    distance:
+      value: 15.56
+      units: km
+- country: US
+  region: SC
+  name: Lake Secession
+  lat: '34.2821'
+  long: "-82.5904"
+  nearby_rate_centers:
+  - name: IVA
+    distance:
+      value: 7.57
+      units: km
+  - name: STARR
+    distance:
+      value: 14.3
+      units: km
+  - name: DUE WEST
+    distance:
+      value: 19.02
+      units: km
+- country: US
+  region: SC
+  name: Lake View
+  lat: '34.3405'
+  long: "-79.1664"
+  nearby_rate_centers:
+  - name: LAKE VIEW
+    distance:
+      value: 0.07
+      units: km
+  - name: NICHOLS
+    distance:
+      value: 11.89
+      units: km
+  - name: MULLINS
+    distance:
+      value: 17.34
+      units: km
+- country: US
+  region: SC
+  name: Lake Wylie
+  lat: '35.0997'
+  long: "-81.0678"
+  nearby_rate_centers:
+  - name: LAKE WYLIE
+    distance:
+      value: 1.25
+      units: km
+  - name: LK WYLIE W
+    distance:
+      value: 1.25
+      units: km
+  - name: MILL CREEK
+    distance:
+      value: 10.04
+      units: km
+  - name: FORT MILL
+    distance:
+      value: 14.8
+      units: km
+- country: US
+  region: SC
+  name: Lakewood
+  lat: '33.8428'
+  long: "-80.3492"
+  nearby_rate_centers:
+  - name: POCALLA
+    distance:
+      value: 3.48
+      units: km
+  - name: SUMTER
+    distance:
+      value: 8.16
+      units: km
+  - name: ESUMTER
+    distance:
+      value: 11.14
+      units: km
+- country: US
+  region: SC
+  name: Lamar
+  lat: '34.1695'
+  long: "-80.0649"
+  nearby_rate_centers:
+  - name: LAMAR
+    distance:
+      value: 0.93
+      units: km
+  - name: TIMMONSVL
+    distance:
+      value: 11.88
+      units: km
+  - name: LYNCHBURG
+    distance:
+      value: 12.36
+      units: km
+- country: US
+  region: SC
+  name: Lancaster
+  lat: '34.7248'
+  long: "-80.7804"
+  nearby_rate_centers:
+  - name: LANCASTER
+    distance:
+      value: 1.43
+      units: km
+  - name: FORT LAWN
+    distance:
+      value: 11.11
+      units: km
+  - name: HEATH SPG
+    distance:
+      value: 17.22
+      units: km
+- country: US
+  region: SC
+  name: Landrum
+  lat: '35.1747'
+  long: "-82.1848"
+  nearby_rate_centers:
+  - name: LANDRUM
+    distance:
+      value: 0.81
+      units: km
+  - name: CAMPOBELLO
+    distance:
+      value: 7.34
+      units: km
+  - name: INMAN
+    distance:
+      value: 16.22
+      units: km
+- country: US
+  region: SC
+  name: Lane
+  lat: '33.5251'
+  long: "-79.8797"
+  nearby_rate_centers:
+  - name: LANE
+    distance:
+      value: 0.4
+      units: km
+  - name: GREELEYVL
+    distance:
+      value: 11.86
+      units: km
+  - name: ST STEPHEN
+    distance:
+      value: 14.7
+      units: km
+- country: US
+  region: SC
+  name: Langley
+  lat: '33.5120'
+  long: "-81.8344"
+  nearby_rate_centers:
+  - name: BATH
+    distance:
+      value: 4.05
+      units: km
+  - name: GRANITEVL
+    distance:
+      value: 6.53
+      units: km
+  - name: SAVANNAHRS
+    distance:
+      value: 10.88
+      units: km
+  - name: BEECH IS
+    distance:
+      value: 10.88
+      units: km
+- country: US
+  region: SC
+  name: Latta
+  lat: '34.3390'
+  long: "-79.4337"
+  nearby_rate_centers:
+  - name: LATTA
+    distance:
+      value: 1.05
+      units: km
+  - name: DILLON
+    distance:
+      value: 10.49
+      units: km
+  - name: MARION
+    distance:
+      value: 17.6
+      units: km
+- country: US
+  region: SC
+  name: Laurel Bay
+  lat: '32.4599'
+  long: "-80.7869"
+  nearby_rate_centers:
+  - name: LAUREL BAY
+    distance:
+      value: 0.5
+      units: km
+  - name: BEAUFORT
+    distance:
+      value: 11.66
+      units: km
+  - name: LOWCOUNTRY
+    distance:
+      value: 13.24
+      units: km
+- country: US
+  region: SC
+  name: Laurens
+  lat: '34.5022'
+  long: "-82.0207"
+  nearby_rate_centers:
+  - name: LAURESRURL
+    distance:
+      value: 0.45
+      units: km
+  - name: LAURENS
+    distance:
+      value: 0.45
+      units: km
+  - name: CLINTON
+    distance:
+      value: 12.66
+      units: km
+  - name: GRAY COURT
+    distance:
+      value: 14.47
+      units: km
+- country: US
+  region: SC
+  name: Lesslie
+  lat: '34.8856'
+  long: "-80.9541"
+  nearby_rate_centers:
+  - name: ROCK HILL
+    distance:
+      value: 7.86
+      units: km
+  - name: LEWISVILLE
+    distance:
+      value: 12.34
+      units: km
+  - name: FORT MILL
+    distance:
+      value: 13.58
+      units: km
+- country: US
+  region: SC
+  name: Lexington
+  lat: '33.9890'
+  long: "-81.2202"
+  nearby_rate_centers:
+  - name: LEXINGTON
+    distance:
+      value: 1.43
+      units: km
+  - name: GILBERT
+    distance:
+      value: 17.21
+      units: km
+  - name: W COLUMBIA
+    distance:
+      value: 17.38
+      units: km
+  - name: COLUMBIA
+    distance:
+      value: 17.38
+      units: km
+- country: US
+  region: SC
+  name: Liberty
+  lat: '34.7904'
+  long: "-82.6961"
+  nearby_rate_centers:
+  - name: LIBERTY
+    distance:
+      value: 1.06
+      units: km
+  - name: EASLEY
+    distance:
+      value: 10.08
+      units: km
+  - name: CENTRAL
+    distance:
+      value: 10.44
+      units: km
+- country: US
+  region: SC
+  name: Lincolnville
+  lat: '33.0079'
+  long: "-80.1560"
+  nearby_rate_centers:
+  - name: SUMMERVL
+    distance:
+      value: 3.17
+      units: km
+  - name: LEBANON
+    distance:
+      value: 19.16
+      units: km
+  - name: MONCKS COR
+    distance:
+      value: 25.33
+      units: km
+- country: US
+  region: SC
+  name: Litchfield Beach
+  lat: '33.4773'
+  long: "-79.1181"
+  nearby_rate_centers:
+  - name: PAWLEYS IS
+    distance:
+      value: 5.08
+      units: km
+  - name: Pawleys Island (HTC)
+    distance:
+      value: 5.08
+      units: km
+  - name: MURELSINLT
+    distance:
+      value: 13.29
+      units: km
+  - name: COLLINSCK
+    distance:
+      value: 18.45
+      units: km
+- country: US
+  region: SC
+  name: Little Mountain
+  lat: '34.1968'
+  long: "-81.4124"
+  nearby_rate_centers:
+  - name: CHPNLTLMTS
+    distance:
+      value: 6.45
+      units: km
+  - name: CHPNLTLMTN
+    distance:
+      value: 6.46
+      units: km
+  - name: PROSPERITY
+    distance:
+      value: 11.5
+      units: km
+- country: US
+  region: SC
+  name: Little River
+  lat: '33.8786'
+  long: "-78.6393"
+  nearby_rate_centers:
+  - name: WAMPEE
+    distance:
+      value: 8.17
+      units: km
+  - name: North Myrtle Beach (HTC)
+    distance:
+      value: 8.26
+      units: km
+  - name: NMYRTLEBCH
+    distance:
+      value: 8.26
+      units: km
+  - name: Myrtle Beach (HTC)
+    distance:
+      value: 30.58
+      units: km
+  - name: MYRTLE BCH
+    distance:
+      value: 30.58
+      units: km
+- country: US
+  region: SC
+  name: Little Rock
+  lat: '34.4691'
+  long: "-79.3900"
+  nearby_rate_centers:
+  - name: DILLON
+    distance:
+      value: 6.38
+      units: km
+  - name: ROWLAND
+    distance:
+      value: 8.86
+      units: km
+  - name: LATTA
+    distance:
+      value: 14.46
+      units: km
+- country: US
+  region: SC
+  name: Live Oak
+  lat: '34.0560'
+  long: "-78.9397"
+  nearby_rate_centers:
+  - name: LORIS
+    distance:
+      value: 4.41
+      units: km
+  - name: FLOYDS
+    distance:
+      value: 18.56
+      units: km
+  - name: NO CONWAY
+    distance:
+      value: 20.38
+      units: km
+- country: US
+  region: SC
+  name: Livingston
+  lat: '33.5531'
+  long: "-81.1196"
+  nearby_rate_centers:
+  - name: NORTH
+    distance:
+      value: 7.2
+      units: km
+  - name: NORWAY
+    distance:
+      value: 11.55
+      units: km
+  - name: SRNGFLSLLY
+    distance:
+      value: 16.47
+      units: km
+- country: US
+  region: SC
+  name: Lobeco
+  lat: '32.5512'
+  long: "-80.7354"
+  nearby_rate_centers:
+  - name: LAUREL BAY
+    distance:
+      value: 11.72
+      units: km
+  - name: BEAUFORT
+    distance:
+      value: 14.5
+      units: km
+  - name: YEMASSEE
+    distance:
+      value: 18.99
+      units: km
+- country: US
+  region: SC
+  name: Lockhart
+  lat: '34.7922'
+  long: "-81.4613"
+  nearby_rate_centers:
+  - name: LOCKHART
+    distance:
+      value: 1.2
+      units: km
+  - name: UNION
+    distance:
+      value: 16.67
+      units: km
+  - name: JONESVILLE
+    distance:
+      value: 20.71
+      units: km
+- country: US
+  region: SC
+  name: Lodge
+  lat: '33.0678'
+  long: "-80.9537"
+  nearby_rate_centers:
+  - name: LODGE
+    distance:
+      value: 0.43
+      units: km
+  - name: EHRHARDT
+    distance:
+      value: 6.74
+      units: km
+  - name: WILLIAMS
+    distance:
+      value: 10.23
+      units: km
+- country: US
+  region: SC
+  name: Longcreek
+  lat: '34.7776'
+  long: "-83.2602"
+  nearby_rate_centers:
+  - name: WALHALLA
+    distance:
+      value: 17.64
+      units: km
+  - name: WESTMINSTR
+    distance:
+      value: 19.98
+      units: km
+  - name: SALEM
+    distance:
+      value: 28.86
+      units: km
+- country: US
+  region: SC
+  name: Loris
+  lat: '34.0578'
+  long: "-78.8876"
+  nearby_rate_centers:
+  - name: LORIS
+    distance:
+      value: 0.4
+      units: km
+  - name: FLOYDS
+    distance:
+      value: 21.6
+      units: km
+  - name: NO CONWAY
+    distance:
+      value: 23.2
+      units: km
+- country: US
+  region: SC
+  name: Lowndesville
+  lat: '34.2099'
+  long: "-82.6476"
+  nearby_rate_centers:
+  - name: IVA
+    distance:
+      value: 10.92
+      units: km
+  - name: CALHOUNFLS
+    distance:
+      value: 13.52
+      units: km
+  - name: STARR
+    distance:
+      value: 19.22
+      units: km
+- country: US
+  region: SC
+  name: Lowrys
+  lat: '34.8040'
+  long: "-81.2372"
+  nearby_rate_centers:
+  - name: CHESTER
+    distance:
+      value: 11.08
+      units: km
+  - name: LEWISVILLE
+    distance:
+      value: 17.99
+      units: km
+  - name: SHARON
+    distance:
+      value: 18.51
+      units: km
+- country: US
+  region: SC
+  name: Lugoff
+  lat: '34.2113'
+  long: "-80.6973"
+  nearby_rate_centers:
+  - name: CAMDEN
+    distance:
+      value: 9.17
+      units: km
+  - name: RIDGEWAY
+    distance:
+      value: 26.05
+      units: km
+  - name: OAKLAND
+    distance:
+      value: 31.3
+      units: km
+- country: US
+  region: SC
+  name: Luray
+  lat: '32.8142'
+  long: "-81.2403"
+  nearby_rate_centers:
+  - name: ESTILL
+    distance:
+      value: 6.38
+      units: km
+  - name: HAMPTON
+    distance:
+      value: 13.51
+      units: km
+  - name: FAIRFAX
+    distance:
+      value: 15.8
+      units: km
+- country: US
+  region: SC
+  name: Lydia
+  lat: '34.2866'
+  long: "-80.1185"
+  nearby_rate_centers:
+  - name: HARTSVILLE
+    distance:
+      value: 10.77
+      units: km
+  - name: LAMAR
+    distance:
+      value: 13.0
+      units: km
+  - name: BISHOPVL
+    distance:
+      value: 14.06
+      units: km
+- country: US
+  region: SC
+  name: Lyman
+  lat: '34.9667'
+  long: "-82.1232"
+  nearby_rate_centers:
+  - name: LYMAN
+    distance:
+      value: 1.98
+      units: km
+  - name: GREER
+    distance:
+      value: 9.43
+      units: km
+  - name: INMAN
+    distance:
+      value: 9.68
+      units: km
+- country: US
+  region: SC
+  name: Lynchburg
+  lat: '34.0600'
+  long: "-80.0770"
+  nearby_rate_centers:
+  - name: LYNCHBURG
+    distance:
+      value: 0.18
+      units: km
+  - name: LAMAR
+    distance:
+      value: 13.11
+      units: km
+  - name: TIMMONSVL
+    distance:
+      value: 14.83
+      units: km
+- country: US
+  region: SC
+  name: Manning
+  lat: '33.6933'
+  long: "-80.2167"
+  nearby_rate_centers:
+  - name: NO MANNING
+    distance:
+      value: 0.02
+      units: km
+  - name: MANNING
+    distance:
+      value: 1.01
+      units: km
+  - name: NOSUMMERTN
+    distance:
+      value: 15.05
+      units: km
+- country: US
+  region: SC
+  name: Manville
+  lat: '34.1597'
+  long: "-80.2974"
+  nearby_rate_centers:
+  - name: BISHORURAL
+    distance:
+      value: 6.39
+      units: km
+  - name: BISHOPVL
+    distance:
+      value: 7.94
+      units: km
+  - name: LAMAR
+    distance:
+      value: 21.27
+      units: km
+- country: US
+  region: SC
+  name: Marion
+  lat: '34.1787'
+  long: "-79.3956"
+  nearby_rate_centers:
+  - name: MARION
+    distance:
+      value: 0.66
+      units: km
+  - name: MULLINS
+    distance:
+      value: 13.7
+      units: km
+  - name: LATTA
+    distance:
+      value: 18.32
+      units: km
+- country: US
+  region: SC
+  name: Mauldin
+  lat: '34.7821'
+  long: "-82.3032"
+  nearby_rate_centers:
+  - name: SIMPSONVL
+    distance:
+      value: 6.49
+      units: km
+  - name: GREENVILLE
+    distance:
+      value: 11.65
+      units: km
+  - name: FOUNTANINN
+    distance:
+      value: 13.31
+      units: km
+- country: US
+  region: SC
+  name: Mayesville
+  lat: '33.9849'
+  long: "-80.2044"
+  nearby_rate_centers:
+  - name: MAYESVILLE
+    distance:
+      value: 0.58
+      units: km
+  - name: ESUMTER
+    distance:
+      value: 10.34
+      units: km
+  - name: LYNCHBURG
+    distance:
+      value: 14.23
+      units: km
+- country: US
+  region: SC
+  name: Mayo
+  lat: '35.0857'
+  long: "-81.8535"
+  nearby_rate_centers:
+  - name: CHESNEE
+    distance:
+      value: 6.89
+      units: km
+  - name: COWPENS
+    distance:
+      value: 8.87
+      units: km
+  - name: SPARTANBG
+    distance:
+      value: 16.83
+      units: km
+- country: US
+  region: SC
+  name: McBee
+  lat: '34.4670'
+  long: "-80.2571"
+  nearby_rate_centers:
+  - name: MCBEE
+    distance:
+      value: 0.31
+      units: km
+  - name: BETHUNE
+    distance:
+      value: 10.18
+      units: km
+  - name: HARTSVILLE
+    distance:
+      value: 19.6
+      units: km
+- country: US
+  region: SC
+  name: McClellanville
+  lat: '33.0865'
+  long: "-79.4680"
+  nearby_rate_centers:
+  - name: MCLELLANVL
+    distance:
+      value: 0.84
+      units: km
+  - name: AWENDAW
+    distance:
+      value: 19.61
+      units: km
+  - name: JAMESTOWN
+    distance:
+      value: 29.86
+      units: km
+- country: US
+  region: SC
+  name: McColl
+  lat: '34.6665'
+  long: "-79.5447"
+  nearby_rate_centers:
+  - name: MCCOLL
+    distance:
+      value: 1.0
+      units: km
+  - name: CLIO
+    distance:
+      value: 9.25
+      units: km
+  - name: NEWTONVL
+    distance:
+      value: 9.84
+      units: km
+- country: US
+  region: SC
+  name: McConnells
+  lat: '34.8695'
+  long: "-81.2266"
+  nearby_rate_centers:
+  - name: SHARON
+    distance:
+      value: 13.33
+      units: km
+  - name: YORK
+    distance:
+      value: 13.99
+      units: km
+  - name: CHESTER
+    distance:
+      value: 18.11
+      units: km
+- country: US
+  region: SC
+  name: McCormick
+  lat: '33.9128'
+  long: "-82.2876"
+  nearby_rate_centers:
+  - name: MCCORMICK
+    distance:
+      value: 0.38
+      units: km
+  - name: PLUMBRANCH
+    distance:
+      value: 7.3
+      units: km
+  - name: TROY
+    distance:
+      value: 8.04
+      units: km
+- country: US
+  region: SC
+  name: Meggett
+  lat: '32.6968'
+  long: "-80.2730"
+  nearby_rate_centers:
+  - name: HOLLYWOOD
+    distance:
+      value: 9.29
+      units: km
+  - name: EDISTO IS
+    distance:
+      value: 24.29
+      units: km
+  - name: FOLLYBEACH
+    distance:
+      value: 31.61
+      units: km
+- country: US
+  region: SC
+  name: Modoc
+  lat: '33.7192'
+  long: "-82.2174"
+  nearby_rate_centers:
+  - name: CLARKSHILL
+    distance:
+      value: 3.4
+      units: km
+  - name: PLUMBRANCH
+    distance:
+      value: 15.23
+      units: km
+  - name: MCCORMICK
+    distance:
+      value: 22.86
+      units: km
+- country: US
+  region: SC
+  name: Monarch Mill
+  lat: '34.7161'
+  long: "-81.5847"
+  nearby_rate_centers:
+  - name: UNION
+    distance:
+      value: 3.12
+      units: km
+  - name: LOCKHART
+    distance:
+      value: 13.53
+      units: km
+  - name: JONESVILLE
+    distance:
+      value: 15.88
+      units: km
+- country: US
+  region: SC
+  name: Moncks Corner
+  lat: '33.1730'
+  long: "-80.0107"
+  nearby_rate_centers:
+  - name: MONCKS COR
+    distance:
+      value: 2.93
+      units: km
+  - name: BONNEAU
+    distance:
+      value: 15.31
+      units: km
+  - name: MACEDONIA
+    distance:
+      value: 17.31
+      units: km
+- country: US
+  region: SC
+  name: Monetta
+  lat: '33.8501'
+  long: "-81.6100"
+  nearby_rate_centers:
+  - name: RIDGE SPG
+    distance:
+      value: 4.63
+      units: km
+  - name: BATESBURG
+    distance:
+      value: 8.51
+      units: km
+  - name: PONDBRANCH
+    distance:
+      value: 16.71
+      units: km
+- country: US
+  region: SC
+  name: Mount Carmel
+  lat: '34.0185'
+  long: "-82.5045"
+  nearby_rate_centers:
+  - name: MT CARMEL
+    distance:
+      value: 3.78
+      units: km
+  - name: CALHOUNFLS
+    distance:
+      value: 11.86
+      units: km
+  - name: TROY
+    distance:
+      value: 19.39
+      units: km
+- country: US
+  region: SC
+  name: Mount Croghan
+  lat: '34.7697'
+  long: "-80.2264"
+  nearby_rate_centers:
+  - name: RUBY
+    distance:
+      value: 4.98
+      units: km
+  - name: CHESTERFLD
+    distance:
+      value: 13.58
+      units: km
+  - name: PAGELAND
+    distance:
+      value: 14.78
+      units: km
+- country: US
+  region: SC
+  name: Mount Pleasant
+  lat: '32.8537'
+  long: "-79.8203"
+  nearby_rate_centers:
+  - name: ISLE PALMS
+    distance:
+      value: 7.7
+      units: km
+  - name: SULLIVNSIS
+    distance:
+      value: 7.88
+      units: km
+  - name: MTPLEASANT
+    distance:
+      value: 8.98
+      units: km
+- country: US
+  region: SC
+  name: Mountville
+  lat: '34.3664'
+  long: "-81.9758"
+  nearby_rate_centers:
+  - name: MOUNTVILLE
+    distance:
+      value: 1.34
+      units: km
+  - name: CROSS HILL
+    distance:
+      value: 6.49
+      units: km
+  - name: WATERLOO
+    distance:
+      value: 7.51
+      units: km
+- country: US
+  region: SC
+  name: Mulberry
+  lat: '33.9565'
+  long: "-80.3315"
+  nearby_rate_centers:
+  - name: NO SUMTER
+    distance:
+      value: 4.01
+      units: km
+  - name: SUMTER
+    distance:
+      value: 4.62
+      units: km
+  - name: ESUMTER
+    distance:
+      value: 9.78
+      units: km
+- country: US
+  region: SC
+  name: Mullins
+  lat: '34.2040'
+  long: "-79.2536"
+  nearby_rate_centers:
+  - name: MULLINS
+    distance:
+      value: 0.6
+      units: km
+  - name: NICHOLS
+    distance:
+      value: 10.11
+      units: km
+  - name: MARION
+    distance:
+      value: 13.69
+      units: km
+- country: US
+  region: SC
+  name: Murphys Estates
+  lat: '33.6003'
+  long: "-81.9439"
+  nearby_rate_centers:
+  - name: NO AUGUSTA
+    distance:
+      value: 11.24
+      units: km
+  - name: BATH
+    distance:
+      value: 12.97
+      units: km
+  - name: GRANITEVL
+    distance:
+      value: 13.2
+      units: km
+- country: US
+  region: SC
+  name: Murrells Inlet
+  lat: '33.5560'
+  long: "-79.0594"
+  nearby_rate_centers:
+  - name: MURELSINLT
+    distance:
+      value: 3.39
+      units: km
+  - name: COLLINSCK
+    distance:
+      value: 8.31
+      units: km
+  - name: Pawleys Island (HTC)
+    distance:
+      value: 15.07
+      units: km
+  - name: PAWLEYS IS
+    distance:
+      value: 15.07
+      units: km
+- country: US
+  region: SC
+  name: Myrtle Beach
+  lat: '33.7094'
+  long: "-78.8844"
+  nearby_rate_centers:
+  - name: Myrtle Beach (HTC)
+    distance:
+      value: 1.73
+      units: km
+  - name: MYRTLE BCH
+    distance:
+      value: 1.73
+      units: km
+  - name: WMYRTLEBCH
+    distance:
+      value: 5.54
+      units: km
+  - name: LAKEWOOD
+    distance:
+      value: 8.02
+      units: km
+- country: US
+  region: SC
+  name: Neeses
+  lat: '33.5365'
+  long: "-81.1236"
+  nearby_rate_centers:
+  - name: NORTH
+    distance:
+      value: 9.08
+      units: km
+  - name: NORWAY
+    distance:
+      value: 9.68
+      units: km
+  - name: SRNGFLSLLY
+    distance:
+      value: 15.52
+      units: km
+- country: US
+  region: SC
+  name: New Ellenton
+  lat: '33.4199'
+  long: "-81.6826"
+  nearby_rate_centers:
+  - name: NEWELLENTN
+    distance:
+      value: 2.59
+      units: km
+  - name: AIKEN
+    distance:
+      value: 15.68
+      units: km
+  - name: JACKSON
+    distance:
+      value: 16.91
+      units: km
+- country: US
+  region: SC
+  name: Newberry
+  lat: '34.2813'
+  long: "-81.6010"
+  nearby_rate_centers:
+  - name: NEWBERRY
+    distance:
+      value: 1.64
+      units: km
+  - name: PROSPERITY
+    distance:
+      value: 10.12
+      units: km
+  - name: WHITMIRE
+    distance:
+      value: 24.31
+      units: km
+- country: US
+  region: SC
+  name: Newport
+  lat: '34.9833'
+  long: "-81.0992"
+  nearby_rate_centers:
+  - name: ROCK HILL
+    distance:
+      value: 9.29
+      units: km
+  - name: YORK
+    distance:
+      value: 13.13
+      units: km
+  - name: FORT MILL
+    distance:
+      value: 13.83
+      units: km
+- country: US
+  region: SC
+  name: Newry
+  lat: '34.7240'
+  long: "-82.9141"
+  nearby_rate_centers:
+  - name: SENECA
+    distance:
+      value: 4.89
+      units: km
+  - name: CLEMSON
+    distance:
+      value: 8.32
+      units: km
+  - name: CENTRAL
+    distance:
+      value: 12.55
+      units: km
+- country: US
+  region: SC
+  name: Newtown
+  lat: '34.4013'
+  long: "-79.3566"
+  nearby_rate_centers:
+  - name: DILLON
+    distance:
+      value: 1.78
+      units: km
+  - name: LATTA
+    distance:
+      value: 8.97
+      units: km
+  - name: ROWLAND
+    distance:
+      value: 14.89
+      units: km
+- country: US
+  region: SC
+  name: Nichols
+  lat: '34.2350'
+  long: "-79.1490"
+  nearby_rate_centers:
+  - name: NICHOLS
+    distance:
+      value: 0.11
+      units: km
+  - name: FLOYDS
+    distance:
+      value: 9.66
+      units: km
+  - name: MULLINS
+    distance:
+      value: 9.97
+      units: km
+- country: US
+  region: SC
+  name: Ninety Six
+  lat: '34.1696'
+  long: "-82.0239"
+  nearby_rate_centers:
+  - name: NINETY SIX
+    distance:
+      value: 0.65
+      units: km
+  - name: GREENWOOD
+    distance:
+      value: 13.72
+      units: km
+  - name: CHAPPELLS
+    distance:
+      value: 14.5
+      units: km
+- country: US
+  region: SC
+  name: Norris
+  lat: '34.7661'
+  long: "-82.7525"
+  nearby_rate_centers:
+  - name: CENTRAL
+    distance:
+      value: 5.19
+      units: km
+  - name: LIBERTY
+    distance:
+      value: 6.05
+      units: km
+  - name: SIX MILE
+    distance:
+      value: 7.26
+      units: km
+- country: US
+  region: SC
+  name: North
+  lat: '33.6164'
+  long: "-81.1030"
+  nearby_rate_centers:
+  - name: NORTH
+    distance:
+      value: 0.46
+      units: km
+  - name: SWANSEA
+    distance:
+      value: 12.87
+      units: km
+  - name: NORWAY
+    distance:
+      value: 18.7
+      units: km
+- country: US
+  region: SC
+  name: North Augusta
+  lat: '33.5214'
+  long: "-81.9547"
+  nearby_rate_centers:
+  - name: NO AUGUSTA
+    distance:
+      value: 2.46
+      units: km
+  - name: BATH
+    distance:
+      value: 7.8
+      units: km
+  - name: SAVANNAHRS
+    distance:
+      value: 12.29
+      units: km
+  - name: BEECH IS
+    distance:
+      value: 12.29
+      units: km
+- country: US
+  region: SC
+  name: North Charleston
+  lat: '32.9067'
+  long: "-80.0722"
+  nearby_rate_centers:
+  - name: SUMMERVL
+    distance:
+      value: 16.79
+      units: km
+  - name: CHARLESTON
+    distance:
+      value: 17.54
+      units: km
+  - name: HOLLYWOOD
+    distance:
+      value: 21.34
+      units: km
+- country: US
+  region: SC
+  name: North Hartsville
+  lat: '34.4010'
+  long: "-80.0710"
+  nearby_rate_centers:
+  - name: HARTSVILLE
+    distance:
+      value: 2.77
+      units: km
+  - name: MCBEE
+    distance:
+      value: 18.88
+      units: km
+  - name: PATRICK
+    distance:
+      value: 19.14
+      units: km
+- country: US
+  region: SC
+  name: North Myrtle Beach
+  lat: '33.8232'
+  long: "-78.7082"
+  nearby_rate_centers:
+  - name: NMYRTLEBCH
+    distance:
+      value: 1.78
+      units: km
+  - name: North Myrtle Beach (HTC)
+    distance:
+      value: 1.78
+      units: km
+  - name: WAMPEE
+    distance:
+      value: 4.86
+      units: km
+  - name: Myrtle Beach (HTC)
+    distance:
+      value: 21.73
+      units: km
+  - name: MYRTLE BCH
+    distance:
+      value: 21.73
+      units: km
+- country: US
+  region: SC
+  name: North Santee
+  lat: '33.5368'
+  long: "-80.4182"
+  nearby_rate_centers:
+  - name: SANTEE
+    distance:
+      value: 7.14
+      units: km
+  - name: SUMMERTON
+    distance:
+      value: 9.96
+      units: km
+  - name: NOSUMMERTN
+    distance:
+      value: 10.54
+      units: km
+- country: US
+  region: SC
+  name: Northlake
+  lat: '34.5691'
+  long: "-82.6838"
+  nearby_rate_centers:
+  - name: ANDERSON
+    distance:
+      value: 8.07
+      units: km
+  - name: PENDLETON
+    distance:
+      value: 12.43
+      units: km
+  - name: BELTON
+    distance:
+      value: 18.24
+      units: km
+- country: US
+  region: SC
+  name: Norway
+  lat: '33.4503'
+  long: "-81.1266"
+  nearby_rate_centers:
+  - name: NORWAY
+    distance:
+      value: 0.1
+      units: km
+  - name: DENMARK
+    distance:
+      value: 14.05
+      units: km
+  - name: SRNGFLSLLY
+    distance:
+      value: 15.6
+      units: km
+- country: US
+  region: SC
+  name: Oak Grove
+  lat: '33.9780'
+  long: "-81.1468"
+  nearby_rate_centers:
+  - name: LEXINGTON
+    distance:
+      value: 8.08
+      units: km
+  - name: COLUMBIA
+    distance:
+      value: 11.03
+      units: km
+  - name: W COLUMBIA
+    distance:
+      value: 11.03
+      units: km
+  - name: GILBERT
+    distance:
+      value: 23.15
+      units: km
+- country: US
+  region: SC
+  name: Oakland
+  lat: '33.9868'
+  long: "-80.4972"
+  nearby_rate_centers:
+  - name: OAKLAND
+    distance:
+      value: 0.62
+      units: km
+  - name: STATEBURG
+    distance:
+      value: 4.08
+      units: km
+  - name: SHAWAFBHTS
+    distance:
+      value: 5.6
+      units: km
+- country: US
+  region: SC
+  name: Olanta
+  lat: '33.9357'
+  long: "-79.9320"
+  nearby_rate_centers:
+  - name: OLANTA
+    distance:
+      value: 0.29
+      units: km
+  - name: TURBEVILLE
+    distance:
+      value: 8.77
+      units: km
+  - name: SCRANTON
+    distance:
+      value: 16.9
+      units: km
+- country: US
+  region: SC
+  name: Olar
+  lat: '33.1799'
+  long: "-81.1854"
+  nearby_rate_centers:
+  - name: OLAR
+    distance:
+      value: 0.41
+      units: km
+  - name: DENMARK
+    distance:
+      value: 16.54
+      units: km
+  - name: BARNWELL
+    distance:
+      value: 17.73
+      units: km
+- country: US
+  region: SC
+  name: Olympia
+  lat: '33.9768'
+  long: "-81.0349"
+  nearby_rate_centers:
+  - name: COLUMBIA
+    distance:
+      value: 3.65
+      units: km
+  - name: W COLUMBIA
+    distance:
+      value: 3.65
+      units: km
+  - name: LEXINGTON
+    distance:
+      value: 18.39
+      units: km
+  - name: SWANSEA
+    distance:
+      value: 27.89
+      units: km
+- country: US
+  region: SC
+  name: Orangeburg
+  lat: '33.4928'
+  long: "-80.8671"
+  nearby_rate_centers:
+  - name: ORANGEBURG
+    distance:
+      value: 1.4
+      units: km
+  - name: CAMERON
+    distance:
+      value: 16.26
+      units: km
+  - name: CRESTON
+    distance:
+      value: 16.26
+      units: km
+  - name: STMATTHEWS
+    distance:
+      value: 21.06
+      units: km
+- country: US
+  region: SC
+  name: Oswego
+  lat: '34.0056'
+  long: "-80.2862"
+  nearby_rate_centers:
+  - name: MAYESVILLE
+    distance:
+      value: 7.63
+      units: km
+  - name: NO SUMTER
+    distance:
+      value: 9.62
+      units: km
+  - name: SUMTER
+    distance:
+      value: 11.24
+      units: km
+- country: US
+  region: SC
+  name: Pacolet
+  lat: '34.9102'
+  long: "-81.7662"
+  nearby_rate_centers:
+  - name: PACOLET
+    distance:
+      value: 1.36
+      units: km
+  - name: JONESVILLE
+    distance:
+      value: 11.39
+      units: km
+  - name: COWPENS
+    distance:
+      value: 12.43
+      units: km
+- country: US
+  region: SC
+  name: Pageland
+  lat: '34.7720'
+  long: "-80.3897"
+  nearby_rate_centers:
+  - name: PAGELAND
+    distance:
+      value: 0.54
+      units: km
+  - name: JEFFERSON
+    distance:
+      value: 13.56
+      units: km
+  - name: RUBY
+    distance:
+      value: 19.13
+      units: km
+- country: US
+  region: SC
+  name: Pamplico
+  lat: '33.9957'
+  long: "-79.5698"
+  nearby_rate_centers:
+  - name: PAMPLICO
+    distance:
+      value: 0.56
+      units: km
+  - name: SCRANTON
+    distance:
+      value: 19.05
+      units: km
+  - name: LAKE CITY
+    distance:
+      value: 22.13
+      units: km
+- country: US
+  region: SC
+  name: Parker
+  lat: '34.8513'
+  long: "-82.4512"
+  nearby_rate_centers:
+  - name: GREENVILLE
+    distance:
+      value: 4.57
+      units: km
+  - name: TRAVESREST
+    distance:
+      value: 12.7
+      units: km
+  - name: EASLEY
+    distance:
+      value: 13.7
+      units: km
+- country: US
+  region: SC
+  name: Parksville
+  lat: '33.7866'
+  long: "-82.2174"
+  nearby_rate_centers:
+  - name: PLUMBRANCH
+    distance:
+      value: 8.18
+      units: km
+  - name: CLARKSHILL
+    distance:
+      value: 10.52
+      units: km
+  - name: MCCORMICK
+    distance:
+      value: 15.84
+      units: km
+- country: US
+  region: SC
+  name: Patrick
+  lat: '34.5752'
+  long: "-80.0446"
+  nearby_rate_centers:
+  - name: PATRICK
+    distance:
+      value: 0.41
+      units: km
+  - name: CHESTERFLD
+    distance:
+      value: 18.01
+      units: km
+  - name: SOCIETY HL
+    distance:
+      value: 19.13
+      units: km
+- country: US
+  region: SC
+  name: Pauline
+  lat: '34.8321'
+  long: "-81.8693"
+  nearby_rate_centers:
+  - name: PACOLET
+    distance:
+      value: 11.93
+      units: km
+  - name: SPARTANBG
+    distance:
+      value: 14.13
+      units: km
+  - name: JONESVILLE
+    distance:
+      value: 17.08
+      units: km
+- country: US
+  region: SC
+  name: Pawleys Island
+  lat: '33.4269'
+  long: "-79.1246"
+  nearby_rate_centers:
+  - name: Pawleys Island (HTC)
+    distance:
+      value: 0.56
+      units: km
+  - name: PAWLEYS IS
+    distance:
+      value: 0.56
+      units: km
+  - name: GEORGETOWN
+    distance:
+      value: 16.58
+      units: km
+  - name: Georgetown (HTC)
+    distance:
+      value: 16.58
+      units: km
+  - name: MURELSINLT
+    distance:
+      value: 18.25
+      units: km
+- country: US
+  region: SC
+  name: Paxville
+  lat: '33.7390'
+  long: "-80.3586"
+  nearby_rate_centers:
+  - name: PINEWOOD
+    distance:
+      value: 9.73
+      units: km
+  - name: NO MANNING
+    distance:
+      value: 14.09
+      units: km
+  - name: MANNING
+    distance:
+      value: 14.32
+      units: km
+- country: US
+  region: SC
+  name: Peak
+  lat: '34.2363'
+  long: "-81.3288"
+  nearby_rate_centers:
+  - name: CHPNLTLMTS
+    distance:
+      value: 7.97
+      units: km
+  - name: CHPNLTLMTN
+    distance:
+      value: 8.46
+      units: km
+  - name: PROSPERITY
+    distance:
+      value: 19.39
+      units: km
+- country: US
+  region: SC
+  name: Pelion
+  lat: '33.7750'
+  long: "-81.2502"
+  nearby_rate_centers:
+  - name: PELION
+    distance:
+      value: 1.05
+      units: km
+  - name: SWANSEA
+    distance:
+      value: 14.58
+      units: km
+  - name: WAGENER
+    distance:
+      value: 17.24
+      units: km
+- country: US
+  region: SC
+  name: Pelzer
+  lat: '34.6433'
+  long: "-82.4588"
+  nearby_rate_centers:
+  - name: PELZER
+    distance:
+      value: 0.66
+      units: km
+  - name: WILLIAMSTN
+    distance:
+      value: 3.16
+      units: km
+  - name: PIEDMONT
+    distance:
+      value: 7.02
+      units: km
+- country: US
+  region: SC
+  name: Pendleton
+  lat: '34.6451'
+  long: "-82.7818"
+  nearby_rate_centers:
+  - name: PENDLETON
+    distance:
+      value: 0.62
+      units: km
+  - name: CLEMSON
+    distance:
+      value: 6.95
+      units: km
+  - name: CENTRAL
+    distance:
+      value: 8.77
+      units: km
+- country: US
+  region: SC
+  name: Perry
+  lat: '33.6281'
+  long: "-81.3079"
+  nearby_rate_centers:
+  - name: WAGENER
+    distance:
+      value: 5.5
+      units: km
+  - name: SRNGFLSLLY
+    distance:
+      value: 14.6
+      units: km
+  - name: PELION
+    distance:
+      value: 16.61
+      units: km
+- country: US
+  region: SC
+  name: Pickens
+  lat: '34.8856'
+  long: "-82.7104"
+  nearby_rate_centers:
+  - name: PICKENS
+    distance:
+      value: 0.89
+      units: km
+  - name: EASLEY
+    distance:
+      value: 11.55
+      units: km
+  - name: LIBERTY
+    distance:
+      value: 11.61
+      units: km
+- country: US
+  region: SC
+  name: Piedmont
+  lat: '34.7074'
+  long: "-82.4651"
+  nearby_rate_centers:
+  - name: PIEDMONT
+    distance:
+      value: 0.59
+      units: km
+  - name: PELZER
+    distance:
+      value: 6.52
+      units: km
+  - name: WILLIAMSTN
+    distance:
+      value: 9.9
+      units: km
+- country: US
+  region: SC
+  name: Pimlico
+  lat: '33.0989'
+  long: "-79.9606"
+  nearby_rate_centers:
+  - name: MONCKS COR
+    distance:
+      value: 12.02
+      units: km
+  - name: HUGER
+    distance:
+      value: 14.62
+      units: km
+  - name: MACEDONIA
+    distance:
+      value: 21.69
+      units: km
+- country: US
+  region: SC
+  name: Pine Ridge
+  lat: '33.9082'
+  long: "-81.0977"
+  nearby_rate_centers:
+  - name: COLUMBIA
+    distance:
+      value: 12.74
+      units: km
+  - name: W COLUMBIA
+    distance:
+      value: 12.74
+      units: km
+  - name: LEXINGTON
+    distance:
+      value: 15.11
+      units: km
+  - name: SWANSEA
+    distance:
+      value: 19.58
+      units: km
+- country: US
+  region: SC
+  name: Pine Ridge
+  lat: '34.3927'
+  long: "-80.1679"
+  nearby_rate_centers:
+  - name: HARTSVILLE
+    distance:
+      value: 8.82
+      units: km
+  - name: MCBEE
+    distance:
+      value: 11.91
+      units: km
+  - name: BETHUNE
+    distance:
+      value: 17.0
+      units: km
+- country: US
+  region: SC
+  name: Pinewood
+  lat: '33.7396'
+  long: "-80.4620"
+  nearby_rate_centers:
+  - name: PINEWOOD
+    distance:
+      value: 0.42
+      units: km
+  - name: POCALLA
+    distance:
+      value: 17.39
+      units: km
+  - name: SUMMERTON
+    distance:
+      value: 17.89
+      units: km
+- country: US
+  region: SC
+  name: Pinopolis
+  lat: '33.2287'
+  long: "-80.0386"
+  nearby_rate_centers:
+  - name: MONCKS COR
+    distance:
+      value: 4.31
+      units: km
+  - name: BONNEAU
+    distance:
+      value: 11.03
+      units: km
+  - name: CROSS
+    distance:
+      value: 15.28
+      units: km
+- country: US
+  region: SC
+  name: Plum Branch
+  lat: '33.8482'
+  long: "-82.2587"
+  nearby_rate_centers:
+  - name: PLUMBRANCH
+    distance:
+      value: 0.43
+      units: km
+  - name: MCCORMICK
+    distance:
+      value: 8.04
+      units: km
+  - name: TROY
+    distance:
+      value: 15.6
+      units: km
+- country: US
+  region: SC
+  name: Pomaria
+  lat: '34.2677'
+  long: "-81.4192"
+  nearby_rate_centers:
+  - name: PROSPERITY
+    distance:
+      value: 12.72
+      units: km
+  - name: CHPNLTLMTS
+    distance:
+      value: 12.76
+      units: km
+  - name: CHPNLTLMTN
+    distance:
+      value: 13.02
+      units: km
+- country: US
+  region: SC
+  name: Port Royal
+  lat: '32.3557'
+  long: "-80.7029"
+  nearby_rate_centers:
+  - name: BEAUFORT
+    distance:
+      value: 9.41
+      units: km
+  - name: ST HELENA
+    distance:
+      value: 13.1
+      units: km
+  - name: LAUREL BAY
+    distance:
+      value: 13.91
+      units: km
+- country: US
+  region: SC
+  name: Powdersville
+  lat: '34.7826'
+  long: "-82.4959"
+  nearby_rate_centers:
+  - name: PIEDMONT
+    distance:
+      value: 9.12
+      units: km
+  - name: EASLEY
+    distance:
+      value: 11.14
+      units: km
+  - name: GREENVILLE
+    distance:
+      value: 11.39
+      units: km
+- country: US
+  region: SC
+  name: Princeton
+  lat: '34.4913'
+  long: "-82.2958"
+  nearby_rate_centers:
+  - name: WEST END
+    distance:
+      value: 8.04
+      units: km
+  - name: HONEA PATH
+    distance:
+      value: 10.0
+      units: km
+  - name: HICKOYTVRN
+    distance:
+      value: 10.51
+      units: km
+- country: US
+  region: SC
+  name: Privateer
+  lat: '33.8169'
+  long: "-80.3946"
+  nearby_rate_centers:
+  - name: POCALLA
+    distance:
+      value: 6.83
+      units: km
+  - name: PINEWOOD
+    distance:
+      value: 11.03
+      units: km
+  - name: SUMTER
+    distance:
+      value: 12.02
+      units: km
+- country: US
+  region: SC
+  name: Promised Land
+  lat: '34.1276'
+  long: "-82.2307"
+  nearby_rate_centers:
+  - name: GREENWOOD
+    distance:
+      value: 10.21
+      units: km
+  - name: ABBEVILLE
+    distance:
+      value: 15.22
+      units: km
+  - name: WABBEVILLE
+    distance:
+      value: 15.3
+      units: km
+- country: US
+  region: SC
+  name: Prosperity
+  lat: '34.2121'
+  long: "-81.5329"
+  nearby_rate_centers:
+  - name: PROSPERITY
+    distance:
+      value: 0.63
+      units: km
+  - name: NEWBERRY
+    distance:
+      value: 10.43
+      units: km
+  - name: CHPNLTLMTN
+    distance:
+      value: 17.24
+      units: km
+- country: US
+  region: SC
+  name: Quinby
+  lat: '34.2282'
+  long: "-79.7357"
+  nearby_rate_centers:
+  - name: FLORENCE
+    distance:
+      value: 4.42
+      units: km
+  - name: DARLINGTON
+    distance:
+      value: 14.65
+      units: km
+  - name: TIMMONSVL
+    distance:
+      value: 21.76
+      units: km
+- country: US
+  region: SC
+  name: Rains
+  lat: '34.0942'
+  long: "-79.3214"
+  nearby_rate_centers:
+  - name: MARION
+    distance:
+      value: 12.27
+      units: km
+  - name: MULLINS
+    distance:
+      value: 13.55
+      units: km
+  - name: AYNOR
+    distance:
+      value: 15.36
+      units: km
+- country: US
+  region: SC
+  name: Ravenel
+  lat: '32.7780'
+  long: "-80.2281"
+  nearby_rate_centers:
+  - name: HOLLYWOOD
+    distance:
+      value: 1.03
+      units: km
+  - name: CHARLESTON
+    distance:
+      value: 26.62
+      units: km
+  - name: SUMMERVL
+    distance:
+      value: 27.93
+      units: km
+- country: US
+  region: SC
+  name: Red Bank
+  lat: '33.9309'
+  long: "-81.2322"
+  nearby_rate_centers:
+  - name: LEXINGTON
+    distance:
+      value: 5.83
+      units: km
+  - name: GILBERT
+    distance:
+      value: 14.47
+      units: km
+  - name: PELION
+    distance:
+      value: 18.2
+      units: km
+- country: US
+  region: SC
+  name: Red Hill
+  lat: '33.7777'
+  long: "-79.0111"
+  nearby_rate_centers:
+  - name: EASTCONWAY
+    distance:
+      value: 2.21
+      units: km
+  - name: Conway (HTC)
+    distance:
+      value: 8.21
+      units: km
+  - name: CONWAY
+    distance:
+      value: 8.21
+      units: km
+  - name: WMYRTLEBCH
+    distance:
+      value: 8.99
+      units: km
+- country: US
+  region: SC
+  name: Reevesville
+  lat: '33.2021'
+  long: "-80.6456"
+  nearby_rate_centers:
+  - name: ST GEORGE
+    distance:
+      value: 6.91
+      units: km
+  - name: BRANCHVL
+    distance:
+      value: 16.69
+      units: km
+  - name: BOWMAN
+    distance:
+      value: 16.79
+      units: km
+- country: US
+  region: SC
+  name: Reidville
+  lat: '34.8657'
+  long: "-82.1063"
+  nearby_rate_centers:
+  - name: LYMAN
+    distance:
+      value: 9.46
+      units: km
+  - name: GREER
+    distance:
+      value: 13.65
+      units: km
+  - name: WOODRUFF
+    distance:
+      value: 15.51
+      units: km
+- country: US
+  region: SC
+  name: Rembert
+  lat: '34.1037'
+  long: "-80.5306"
+  nearby_rate_centers:
+  - name: OAKLAND
+    distance:
+      value: 13.41
+      units: km
+  - name: STATEBURG
+    distance:
+      value: 16.83
+      units: km
+  - name: CAMDEN
+    distance:
+      value: 17.65
+      units: km
+- country: US
+  region: SC
+  name: Richburg
+  lat: '34.7168'
+  long: "-81.0196"
+  nearby_rate_centers:
+  - name: LEWISVILLE
+    distance:
+      value: 9.45
+      units: km
+  - name: FORT LAWN
+    distance:
+      value: 11.23
+      units: km
+  - name: CHESTER
+    distance:
+      value: 17.21
+      units: km
+- country: US
+  region: SC
+  name: Ridge Spring
+  lat: '33.8453'
+  long: "-81.6617"
+  nearby_rate_centers:
+  - name: RIDGE SPG
+    distance:
+      value: 0.65
+      units: km
+  - name: BATESBURG
+    distance:
+      value: 12.51
+      units: km
+  - name: JOHNSTON
+    distance:
+      value: 13.11
+      units: km
+- country: US
+  region: SC
+  name: Ridgeland
+  lat: '32.4681'
+  long: "-80.9178"
+  nearby_rate_centers:
+  - name: RIDGELAND
+    distance:
+      value: 6.26
+      units: km
+  - name: LAUREL BAY
+    distance:
+      value: 12.01
+      units: km
+  - name: LOWCOUNTRY
+    distance:
+      value: 12.44
+      units: km
+- country: US
+  region: SC
+  name: Ridgeville
+  lat: '33.0900'
+  long: "-80.3071"
+  nearby_rate_centers:
+  - name: LEBANON
+    distance:
+      value: 13.22
+      units: km
+  - name: SUMMERVL
+    distance:
+      value: 13.64
+      units: km
+  - name: HARLEYVL
+    distance:
+      value: 19.16
+      units: km
+- country: US
+  region: SC
+  name: Ridgeway
+  lat: '34.3066'
+  long: "-80.9601"
+  nearby_rate_centers:
+  - name: RIDGEWAY
+    distance:
+      value: 0.53
+      units: km
+  - name: WINNSBORO
+    distance:
+      value: 14.11
+      units: km
+  - name: GREATFALLS
+    distance:
+      value: 29.43
+      units: km
+- country: US
+  region: SC
+  name: Riverview
+  lat: '35.0119'
+  long: "-80.9828"
+  nearby_rate_centers:
+  - name: FORT MILL
+    distance:
+      value: 3.0
+      units: km
+  - name: ROCK HILL
+    distance:
+      value: 10.2
+      units: km
+  - name: LK WYLIE W
+    distance:
+      value: 12.22
+      units: km
+  - name: LAKE WYLIE
+    distance:
+      value: 12.22
+      units: km
+- country: US
+  region: SC
+  name: Rock Hill
+  lat: '34.9415'
+  long: "-81.0241"
+  nearby_rate_centers:
+  - name: ROCK HILL
+    distance:
+      value: 1.65
+      units: km
+  - name: FORT MILL
+    distance:
+      value: 9.97
+      units: km
+  - name: LEWISVILLE
+    distance:
+      value: 15.8
+      units: km
+- country: US
+  region: SC
+  name: Rockville
+  lat: '32.6024'
+  long: "-80.1935"
+  nearby_rate_centers:
+  - name: EDISTO IS
+    distance:
+      value: 18.41
+      units: km
+  - name: HOLLYWOOD
+    distance:
+      value: 19.68
+      units: km
+  - name: FOLLYBEACH
+    distance:
+      value: 24.29
+      units: km
+- country: US
+  region: SC
+  name: Roebuck
+  lat: '34.8789'
+  long: "-81.9646"
+  nearby_rate_centers:
+  - name: SPARTANBG
+    distance:
+      value: 8.3
+      units: km
+  - name: WOODRUFF
+    distance:
+      value: 16.53
+      units: km
+  - name: LYMAN
+    distance:
+      value: 16.73
+      units: km
+- country: US
+  region: SC
+  name: Rowesville
+  lat: '33.3722'
+  long: "-80.8362"
+  nearby_rate_centers:
+  - name: ORANGEBURG
+    distance:
+      value: 13.23
+      units: km
+  - name: BRANCHVL
+    distance:
+      value: 13.68
+      units: km
+  - name: BOWMAN
+    distance:
+      value: 14.28
+      units: km
+- country: US
+  region: SC
+  name: Ruby
+  lat: '34.7462'
+  long: "-80.1799"
+  nearby_rate_centers:
+  - name: RUBY
+    distance:
+      value: 0.55
+      units: km
+  - name: CHESTERFLD
+    distance:
+      value: 8.84
+      units: km
+  - name: PAGELAND
+    distance:
+      value: 19.18
+      units: km
+- country: US
+  region: SC
+  name: Russellville
+  lat: '33.3970'
+  long: "-79.9637"
+  nearby_rate_centers:
+  - name: ST STEPHEN
+    distance:
+      value: 3.65
+      units: km
+  - name: BONNEAU
+    distance:
+      value: 10.27
+      units: km
+  - name: MACEDONIA
+    distance:
+      value: 15.26
+      units: km
+- country: US
+  region: SC
+  name: Saint Charles
+  lat: '34.0806'
+  long: "-80.2249"
+  nearby_rate_centers:
+  - name: MAYESVILLE
+    distance:
+      value: 11.15
+      units: km
+  - name: LYNCHBURG
+    distance:
+      value: 13.7
+      units: km
+  - name: BISHORURAL
+    distance:
+      value: 14.55
+      units: km
+- country: US
+  region: SC
+  name: Salem
+  lat: '34.8879'
+  long: "-82.9752"
+  nearby_rate_centers:
+  - name: SALEM
+    distance:
+      value: 0.27
+      units: km
+  - name: WALHALLA
+    distance:
+      value: 16.61
+      units: km
+  - name: SIX MILE
+    distance:
+      value: 17.2
+      units: km
+- country: US
+  region: SC
+  name: Salley
+  lat: '33.5671'
+  long: "-81.3038"
+  nearby_rate_centers:
+  - name: SRNGFLSLLY
+    distance:
+      value: 7.86
+      units: km
+  - name: WAGENER
+    distance:
+      value: 10.65
+      units: km
+  - name: NORTH
+    distance:
+      value: 18.98
+      units: km
+- country: US
+  region: SC
+  name: Saluda
+  lat: '34.0009'
+  long: "-81.7713"
+  nearby_rate_centers:
+  - name: SALUDA
+    distance:
+      value: 0.61
+      units: km
+  - name: JOHNSTON
+    distance:
+      value: 19.0
+      units: km
+  - name: RIDGE SPG
+    distance:
+      value: 19.57
+      units: km
+- country: US
+  region: SC
+  name: Sandy Springs
+  lat: '34.5974'
+  long: "-82.7493"
+  nearby_rate_centers:
+  - name: PENDLETON
+    distance:
+      value: 6.38
+      units: km
+  - name: CLEMSON
+    distance:
+      value: 12.96
+      units: km
+  - name: ANDERSON
+    distance:
+      value: 13.94
+      units: km
+- country: US
+  region: SC
+  name: Sangaree
+  lat: '33.0327'
+  long: "-80.1253"
+  nearby_rate_centers:
+  - name: SUMMERVL
+    distance:
+      value: 5.34
+      units: km
+  - name: LEBANON
+    distance:
+      value: 17.55
+      units: km
+  - name: MONCKS COR
+    distance:
+      value: 21.48
+      units: km
+- country: US
+  region: SC
+  name: Sans Souci
+  lat: '34.8901'
+  long: "-82.4241"
+  nearby_rate_centers:
+  - name: GREENVILLE
+    distance:
+      value: 5.0
+      units: km
+  - name: TRAVESREST
+    distance:
+      value: 8.49
+      units: km
+  - name: EASLEY
+    distance:
+      value: 17.18
+      units: km
+- country: US
+  region: SC
+  name: Santee
+  lat: '33.4801'
+  long: "-80.4852"
+  nearby_rate_centers:
+  - name: SANTEE
+    distance:
+      value: 1.77
+      units: km
+  - name: ELLOREE
+    distance:
+      value: 10.24
+      units: km
+  - name: EUTAWVILLE
+    distance:
+      value: 15.82
+      units: km
+- country: US
+  region: SC
+  name: Saxon
+  lat: '34.9616'
+  long: "-81.9713"
+  nearby_rate_centers:
+  - name: SPARTANBG
+    distance:
+      value: 3.91
+      units: km
+  - name: LYMAN
+    distance:
+      value: 14.24
+      units: km
+  - name: INMAN
+    distance:
+      value: 14.77
+      units: km
+- country: US
+  region: SC
+  name: Scotia
+  lat: '32.6805'
+  long: "-81.2433"
+  nearby_rate_centers:
+  - name: ESTILL
+    distance:
+      value: 8.49
+      units: km
+  - name: HAMPTON
+    distance:
+      value: 24.02
+      units: km
+  - name: FAIRFAX
+    distance:
+      value: 30.67
+      units: km
+- country: US
+  region: SC
+  name: Scranton
+  lat: '33.9174'
+  long: "-79.7441"
+  nearby_rate_centers:
+  - name: SCRANTON
+    distance:
+      value: 0.78
+      units: km
+  - name: LAKE CITY
+    distance:
+      value: 4.96
+      units: km
+  - name: OLANTA
+    distance:
+      value: 17.41
+      units: km
+- country: US
+  region: SC
+  name: Seabrook
+  lat: '32.5227'
+  long: "-80.7479"
+  nearby_rate_centers:
+  - name: LAUREL BAY
+    distance:
+      value: 8.37
+      units: km
+  - name: BEAUFORT
+    distance:
+      value: 12.44
+      units: km
+  - name: ST HELENA
+    distance:
+      value: 21.03
+      units: km
+- country: US
+  region: SC
+  name: Seabrook Island
+  lat: '32.5823'
+  long: "-80.1738"
+  nearby_rate_centers:
+  - name: EDISTO IS
+    distance:
+      value: 18.33
+      units: km
+  - name: HOLLYWOOD
+    distance:
+      value: 22.29
+      units: km
+  - name: FOLLYBEACH
+    distance:
+      value: 23.11
+      units: km
+- country: US
+  region: SC
+  name: Sellers
+  lat: '34.2826'
+  long: "-79.4724"
+  nearby_rate_centers:
+  - name: LATTA
+    distance:
+      value: 8.01
+      units: km
+  - name: MARION
+    distance:
+      value: 12.89
+      units: km
+  - name: DILLON
+    distance:
+      value: 17.67
+      units: km
+- country: US
+  region: SC
+  name: Seneca
+  lat: '34.6818'
+  long: "-82.9600"
+  nearby_rate_centers:
+  - name: SENECA
+    distance:
+      value: 1.41
+      units: km
+  - name: CLEMSON
+    distance:
+      value: 11.78
+      units: km
+  - name: WESTMINSTR
+    distance:
+      value: 12.14
+      units: km
+- country: US
+  region: SC
+  name: Seven Oaks
+  lat: '34.0475'
+  long: "-81.1435"
+  nearby_rate_centers:
+  - name: LEXINGTON
+    distance:
+      value: 10.99
+      units: km
+  - name: COLUMBIA
+    distance:
+      value: 10.99
+      units: km
+  - name: W COLUMBIA
+    distance:
+      value: 10.99
+      units: km
+  - name: CHPNLTLMTN
+    distance:
+      value: 23.35
+      units: km
+- country: US
+  region: SC
+  name: Sharon
+  lat: '34.9520'
+  long: "-81.3435"
+  nearby_rate_centers:
+  - name: SHARON
+    distance:
+      value: 0.81
+      units: km
+  - name: HICKORYGRV
+    distance:
+      value: 7.39
+      units: km
+  - name: YORK
+    distance:
+      value: 10.34
+      units: km
+- country: US
+  region: SC
+  name: Sheldon
+  lat: '32.5985'
+  long: "-80.7961"
+  nearby_rate_centers:
+  - name: YEMASSEE
+    distance:
+      value: 11.57
+      units: km
+  - name: LAUREL BAY
+    distance:
+      value: 15.79
+      units: km
+  - name: RIDGELAND
+    distance:
+      value: 21.78
+      units: km
+- country: US
+  region: SC
+  name: Shell Point
+  lat: '32.3746'
+  long: "-80.7523"
+  nearby_rate_centers:
+  - name: LAUREL BAY
+    distance:
+      value: 9.8
+      units: km
+  - name: BEAUFORT
+    distance:
+      value: 10.46
+      units: km
+  - name: LOWCOUNTRY
+    distance:
+      value: 11.14
+      units: km
+- country: US
+  region: SC
+  name: Shiloh
+  lat: '33.9462'
+  long: "-80.0208"
+  nearby_rate_centers:
+  - name: TURBEVILLE
+    distance:
+      value: 5.78
+      units: km
+  - name: OLANTA
+    distance:
+      value: 8.33
+      units: km
+  - name: LYNCHBURG
+    distance:
+      value: 13.62
+      units: km
+- country: US
+  region: SC
+  name: Silverstreet
+  lat: '34.2177'
+  long: "-81.7146"
+  nearby_rate_centers:
+  - name: NEWBERRY
+    distance:
+      value: 10.99
+      units: km
+  - name: CHAPPELLS
+    distance:
+      value: 14.59
+      units: km
+  - name: PROSPERITY
+    distance:
+      value: 16.39
+      units: km
+- country: US
+  region: SC
+  name: Simpsonville
+  lat: '34.7287'
+  long: "-82.2569"
+  nearby_rate_centers:
+  - name: SIMPSONVL
+    distance:
+      value: 1.65
+      units: km
+  - name: FOUNTANINN
+    distance:
+      value: 6.32
+      units: km
+  - name: PIEDMONT
+    distance:
+      value: 18.61
+      units: km
+- country: US
+  region: SC
+  name: Six Mile
+  lat: '34.8082'
+  long: "-82.8154"
+  nearby_rate_centers:
+  - name: SIX MILE
+    distance:
+      value: 0.18
+      units: km
+  - name: CENTRAL
+    distance:
+      value: 10.02
+      units: km
+  - name: LIBERTY
+    distance:
+      value: 11.85
+      units: km
+- country: US
+  region: SC
+  name: Slater-Marietta
+  lat: '35.0348'
+  long: "-82.4926"
+  nearby_rate_centers:
+  - name: TRAVESREST
+    distance:
+      value: 9.06
+      units: km
+  - name: BLUE RIDGE
+    distance:
+      value: 16.9
+      units: km
+  - name: GREENVILLE
+    distance:
+      value: 22.25
+      units: km
+- country: US
+  region: SC
+  name: Smoaks
+  lat: '33.0895'
+  long: "-80.8142"
+  nearby_rate_centers:
+  - name: WILLIAMS
+    distance:
+      value: 7.26
+      units: km
+  - name: LODGE
+    distance:
+      value: 12.83
+      units: km
+  - name: BRANCHVL
+    distance:
+      value: 17.89
+      units: km
+- country: US
+  region: SC
+  name: Smyrna
+  lat: '35.0420'
+  long: "-81.4094"
+  nearby_rate_centers:
+  - name: HICKORYGRV
+    distance:
+      value: 6.41
+      units: km
+  - name: SHARON
+    distance:
+      value: 12.28
+      units: km
+  - name: ANTIOCH
+    distance:
+      value: 13.41
+      units: km
+- country: US
+  region: SC
+  name: Snelling
+  lat: '33.2416'
+  long: "-81.4622"
+  nearby_rate_centers:
+  - name: BARNWELL
+    distance:
+      value: 9.41
+      units: km
+  - name: WILLISTON
+    distance:
+      value: 17.84
+      units: km
+  - name: BLACKVILLE
+    distance:
+      value: 22.56
+      units: km
+- country: US
+  region: SC
+  name: Socastee
+  lat: '33.6871'
+  long: "-79.0086"
+  nearby_rate_centers:
+  - name: LAKEWOOD
+    distance:
+      value: 4.06
+      units: km
+  - name: COLLINSCK
+    distance:
+      value: 7.02
+      units: km
+  - name: WMYRTLEBCH
+    distance:
+      value: 7.09
+      units: km
+- country: US
+  region: SC
+  name: Society Hill
+  lat: '34.5098'
+  long: "-79.8539"
+  nearby_rate_centers:
+  - name: SOCIETY HL
+    distance:
+      value: 1.05
+      units: km
+  - name: BENNETTSVL
+    distance:
+      value: 18.52
+      units: km
+  - name: BLENHEIM
+    distance:
+      value: 18.65
+      units: km
+- country: US
+  region: SC
+  name: South Congaree
+  lat: '33.9094'
+  long: "-81.1375"
+  nearby_rate_centers:
+  - name: LEXINGTON
+    distance:
+      value: 12.13
+      units: km
+  - name: COLUMBIA
+    distance:
+      value: 14.71
+      units: km
+  - name: W COLUMBIA
+    distance:
+      value: 14.71
+      units: km
+  - name: PELION
+    distance:
+      value: 18.57
+      units: km
+- country: US
+  region: SC
+  name: South Sumter
+  lat: '33.8855'
+  long: "-80.3378"
+  nearby_rate_centers:
+  - name: POCALLA
+    distance:
+      value: 2.7
+      units: km
+  - name: SUMTER
+    distance:
+      value: 3.41
+      units: km
+  - name: ESUMTER
+    distance:
+      value: 8.25
+      units: km
+- country: US
+  region: SC
+  name: South Union
+  lat: '34.5536'
+  long: "-83.0509"
+  nearby_rate_centers:
+  - name: WESTMINSTR
+    distance:
+      value: 12.8
+      units: km
+  - name: SENECA
+    distance:
+      value: 17.87
+      units: km
+  - name: WALHALLA
+    distance:
+      value: 22.96
+      units: km
+- country: US
+  region: SC
+  name: Southern Shops
+  lat: '34.9846'
+  long: "-81.9934"
+  nearby_rate_centers:
+  - name: SPARTANBG
+    distance:
+      value: 6.92
+      units: km
+  - name: INMAN
+    distance:
+      value: 11.58
+      units: km
+  - name: LYMAN
+    distance:
+      value: 12.78
+      units: km
+- country: US
+  region: SC
+  name: Spartanburg
+  lat: '34.9442'
+  long: "-81.9251"
+  nearby_rate_centers:
+  - name: SPARTANBG
+    distance:
+      value: 0.75
+      units: km
+  - name: COWPENS
+    distance:
+      value: 13.9
+      units: km
+  - name: PACOLET
+    distance:
+      value: 15.38
+      units: km
+- country: US
+  region: SC
+  name: Springdale
+  lat: '33.9616'
+  long: "-81.1119"
+  nearby_rate_centers:
+  - name: COLUMBIA
+    distance:
+      value: 8.99
+      units: km
+  - name: W COLUMBIA
+    distance:
+      value: 8.99
+      units: km
+  - name: LEXINGTON
+    distance:
+      value: 11.53
+      units: km
+  - name: PELION
+    distance:
+      value: 24.77
+      units: km
+- country: US
+  region: SC
+  name: Springfield
+  lat: '33.4967'
+  long: "-81.2795"
+  nearby_rate_centers:
+  - name: SRNGFLSLLY
+    distance:
+      value: 0.51
+      units: km
+  - name: NORWAY
+    distance:
+      value: 15.08
+      units: km
+  - name: BLACKVILLE
+    distance:
+      value: 15.43
+      units: km
+- country: US
+  region: SC
+  name: St. Andrews
+  lat: '34.0510'
+  long: "-81.1057"
+  nearby_rate_centers:
+  - name: COLUMBIA
+    distance:
+      value: 8.1
+      units: km
+  - name: W COLUMBIA
+    distance:
+      value: 8.1
+      units: km
+  - name: LEXINGTON
+    distance:
+      value: 14.03
+      units: km
+  - name: CHPNLTLMTS
+    distance:
+      value: 26.11
+      units: km
+- country: US
+  region: SC
+  name: St. George
+  lat: '33.1861'
+  long: "-80.5794"
+  nearby_rate_centers:
+  - name: ST GEORGE
+    distance:
+      value: 0.51
+      units: km
+  - name: HARLEYVL
+    distance:
+      value: 12.6
+      units: km
+  - name: BOWMAN
+    distance:
+      value: 20.65
+      units: km
+- country: US
+  region: SC
+  name: St. Matthews
+  lat: '33.6640'
+  long: "-80.7780"
+  nearby_rate_centers:
+  - name: STMATTHEWS
+    distance:
+      value: 0.36
+      units: km
+  - name: CAMERON
+    distance:
+      value: 12.58
+      units: km
+  - name: CRESTON
+    distance:
+      value: 12.58
+      units: km
+  - name: ORANGEBURG
+    distance:
+      value: 20.49
+      units: km
+- country: US
+  region: SC
+  name: St. Stephen
+  lat: '33.4047'
+  long: "-79.9264"
+  nearby_rate_centers:
+  - name: ST STEPHEN
+    distance:
+      value: 0.73
+      units: km
+  - name: BONNEAU
+    distance:
+      value: 11.62
+      units: km
+  - name: LANE
+    distance:
+      value: 14.08
+      units: km
+- country: US
+  region: SC
+  name: Starr
+  lat: '34.3774'
+  long: "-82.6954"
+  nearby_rate_centers:
+  - name: STARR
+    distance:
+      value: 0.21
+      units: km
+  - name: IVA
+    distance:
+      value: 8.27
+      units: km
+  - name: ANDERSON
+    distance:
+      value: 14.42
+      units: km
+- country: US
+  region: SC
+  name: Startex
+  lat: '34.9305'
+  long: "-82.0942"
+  nearby_rate_centers:
+  - name: LYMAN
+    distance:
+      value: 3.62
+      units: km
+  - name: GREER
+    distance:
+      value: 11.78
+      units: km
+  - name: INMAN
+    distance:
+      value: 13.29
+      units: km
+- country: US
+  region: SC
+  name: Stateburg
+  lat: '33.9752'
+  long: "-80.5263"
+  nearby_rate_centers:
+  - name: OAKLAND
+    distance:
+      value: 3.58
+      units: km
+  - name: STATEBURG
+    distance:
+      value: 5.94
+      units: km
+  - name: SHAWAFBHTS
+    distance:
+      value: 7.4
+      units: km
+- country: US
+  region: SC
+  name: Stuckey
+  lat: '33.7321'
+  long: "-79.5132"
+  nearby_rate_centers:
+  - name: HEMINGWAY
+    distance:
+      value: 6.71
+      units: km
+  - name: JOHNSONVL
+    distance:
+      value: 11.23
+      units: km
+  - name: W ANDREWS
+    distance:
+      value: 26.3
+      units: km
+- country: US
+  region: SC
+  name: Sullivan's Island
+  lat: '32.7684'
+  long: "-79.8355"
+  nearby_rate_centers:
+  - name: SULLIVNSIS
+    distance:
+      value: 1.85
+      units: km
+  - name: MTPLEASANT
+    distance:
+      value: 3.33
+      units: km
+  - name: ISLE PALMS
+    distance:
+      value: 5.62
+      units: km
+- country: US
+  region: SC
+  name: Summerton
+  lat: '33.6013'
+  long: "-80.3527"
+  nearby_rate_centers:
+  - name: SUMMERTON
+    distance:
+      value: 0.68
+      units: km
+  - name: NOSUMMERTN
+    distance:
+      value: 2.33
+      units: km
+  - name: NO MANNING
+    distance:
+      value: 16.22
+      units: km
+- country: US
+  region: SC
+  name: Summerville
+  lat: '33.0016'
+  long: "-80.1799"
+  nearby_rate_centers:
+  - name: SUMMERVL
+    distance:
+      value: 2.75
+      units: km
+  - name: LEBANON
+    distance:
+      value: 19.42
+      units: km
+  - name: HOLLYWOOD
+    distance:
+      value: 25.76
+      units: km
+- country: US
+  region: SC
+  name: Summit
+  lat: '33.9246'
+  long: "-81.4226"
+  nearby_rate_centers:
+  - name: GILBERT
+    distance:
+      value: 3.14
+      units: km
+  - name: BATESBURG
+    distance:
+      value: 11.78
+      units: km
+  - name: PONDBRANCH
+    distance:
+      value: 12.08
+      units: km
+- country: US
+  region: SC
+  name: Sumter
+  lat: '33.9392'
+  long: "-80.3930"
+  nearby_rate_centers:
+  - name: NO SUMTER
+    distance:
+      value: 2.84
+      units: km
+  - name: SUMTER
+    distance:
+      value: 5.33
+      units: km
+  - name: SHAWAFBHTS
+    distance:
+      value: 5.53
+      units: km
+- country: US
+  region: SC
+  name: Surfside Beach
+  lat: '33.6093'
+  long: "-78.9772"
+  nearby_rate_centers:
+  - name: COLLINSCK
+    distance:
+      value: 5.62
+      units: km
+  - name: MURELSINLT
+    distance:
+      value: 6.38
+      units: km
+  - name: LAKEWOOD
+    distance:
+      value: 8.27
+      units: km
+- country: US
+  region: SC
+  name: Swansea
+  lat: '33.7397'
+  long: "-81.1052"
+  nearby_rate_centers:
+  - name: SWANSEA
+    distance:
+      value: 0.92
+      units: km
+  - name: PELION
+    distance:
+      value: 13.14
+      units: km
+  - name: NORTH
+    distance:
+      value: 13.63
+      units: km
+- country: US
+  region: SC
+  name: Sycamore
+  lat: '33.0362'
+  long: "-81.2223"
+  nearby_rate_centers:
+  - name: ALLENDALE
+    distance:
+      value: 8.28
+      units: km
+  - name: FAIRFAX
+    distance:
+      value: 8.96
+      units: km
+  - name: OLAR
+    distance:
+      value: 16.75
+      units: km
+- country: US
+  region: SC
+  name: Tamassee
+  lat: '34.8812'
+  long: "-83.0175"
+  nearby_rate_centers:
+  - name: SALEM
+    distance:
+      value: 3.98
+      units: km
+  - name: WALHALLA
+    distance:
+      value: 14.3
+      units: km
+  - name: SIX MILE
+    distance:
+      value: 20.27
+      units: km
+- country: US
+  region: SC
+  name: Tatum
+  lat: '34.6438'
+  long: "-79.5867"
+  nearby_rate_centers:
+  - name: MCCOLL
+    distance:
+      value: 4.92
+      units: km
+  - name: CLIO
+    distance:
+      value: 7.96
+      units: km
+  - name: NEWTONVL
+    distance:
+      value: 10.23
+      units: km
+- country: US
+  region: SC
+  name: Taylors
+  lat: '34.9157'
+  long: "-82.3124"
+  nearby_rate_centers:
+  - name: GREER
+    distance:
+      value: 8.74
+      units: km
+  - name: GREENVILLE
+    distance:
+      value: 10.96
+      units: km
+  - name: TRAVESREST
+    distance:
+      value: 12.94
+      units: km
+- country: US
+  region: SC
+  name: Tega Cay
+  lat: '35.0390'
+  long: "-81.0111"
+  nearby_rate_centers:
+  - name: FORT MILL
+    distance:
+      value: 6.54
+      units: km
+  - name: LAKE WYLIE
+    distance:
+      value: 8.31
+      units: km
+  - name: LK WYLIE W
+    distance:
+      value: 8.31
+      units: km
+  - name: ROCK HILL
+    distance:
+      value: 12.54
+      units: km
+- country: US
+  region: SC
+  name: The Cliffs Valley
+  lat: '35.1458'
+  long: "-82.4481"
+  nearby_rate_centers:
+  - name: BLUE RIDGE
+    distance:
+      value: 17.94
+      units: km
+  - name: TRAVESREST
+    distance:
+      value: 20.09
+      units: km
+  - name: LANDRUM
+    distance:
+      value: 24.22
+      units: km
+- country: US
+  region: SC
+  name: Tigerville
+  lat: '35.0669'
+  long: "-82.3695"
+  nearby_rate_centers:
+  - name: BLUE RIDGE
+    distance:
+      value: 6.82
+      units: km
+  - name: TRAVESREST
+    distance:
+      value: 13.04
+      units: km
+  - name: GREER
+    distance:
+      value: 19.21
+      units: km
+- country: US
+  region: SC
+  name: Timmonsville
+  lat: '34.1334'
+  long: "-79.9408"
+  nearby_rate_centers:
+  - name: TIMMONSVL
+    distance:
+      value: 0.22
+      units: km
+  - name: LAMAR
+    distance:
+      value: 12.63
+      units: km
+  - name: LYNCHBURG
+    distance:
+      value: 15.14
+      units: km
+- country: US
+  region: SC
+  name: Tradesville
+  lat: '34.7705'
+  long: "-80.5487"
+  nearby_rate_centers:
+  - name: PAGELAND
+    distance:
+      value: 14.66
+      units: km
+  - name: JEFFERSON
+    distance:
+      value: 19.64
+      units: km
+  - name: LANCASTER
+    distance:
+      value: 20.69
+      units: km
+- country: US
+  region: SC
+  name: Travelers Rest
+  lat: '34.9582'
+  long: "-82.4412"
+  nearby_rate_centers:
+  - name: TRAVESREST
+    distance:
+      value: 0.78
+      units: km
+  - name: GREENVILLE
+    distance:
+      value: 12.65
+      units: km
+  - name: BLUE RIDGE
+    distance:
+      value: 14.79
+      units: km
+- country: US
+  region: SC
+  name: Trenton
+  lat: '33.7401'
+  long: "-81.8404"
+  nearby_rate_centers:
+  - name: EDGEFIELD
+    distance:
+      value: 10.43
+      units: km
+  - name: JOHNSTON
+    distance:
+      value: 10.8
+      units: km
+  - name: GRANITEVL
+    distance:
+      value: 19.57
+      units: km
+- country: US
+  region: SC
+  name: Troy
+  lat: '33.9880'
+  long: "-82.2974"
+  nearby_rate_centers:
+  - name: TROY
+    distance:
+      value: 0.39
+      units: km
+  - name: MCCORMICK
+    distance:
+      value: 8.05
+      units: km
+  - name: PLUMBRANCH
+    distance:
+      value: 15.56
+      units: km
+- country: US
+  region: SC
+  name: Turbeville
+  lat: '33.8895'
+  long: "-80.0161"
+  nearby_rate_centers:
+  - name: TURBEVILLE
+    distance:
+      value: 0.63
+      units: km
+  - name: OLANTA
+    distance:
+      value: 9.16
+      units: km
+  - name: LYNCHBURG
+    distance:
+      value: 19.7
+      units: km
+- country: US
+  region: SC
+  name: Ulmer
+  lat: '33.0987'
+  long: "-81.2080"
+  nearby_rate_centers:
+  - name: OLAR
+    distance:
+      value: 9.68
+      units: km
+  - name: ALLENDALE
+    distance:
+      value: 13.47
+      units: km
+  - name: FAIRFAX
+    distance:
+      value: 16.03
+      units: km
+- country: US
+  region: SC
+  name: Union
+  lat: '34.7235'
+  long: "-81.6248"
+  nearby_rate_centers:
+  - name: UNION
+    distance:
+      value: 0.95
+      units: km
+  - name: JONESVILLE
+    distance:
+      value: 13.4
+      units: km
+  - name: LOCKHART
+    distance:
+      value: 16.39
+      units: km
+- country: US
+  region: SC
+  name: Unity
+  lat: '34.8024'
+  long: "-80.6936"
+  nearby_rate_centers:
+  - name: LANCASTER
+    distance:
+      value: 11.39
+      units: km
+  - name: FORT LAWN
+    distance:
+      value: 21.87
+      units: km
+  - name: HEATH SPG
+    distance:
+      value: 23.51
+      units: km
+- country: US
+  region: SC
+  name: Utica
+  lat: '34.6764'
+  long: "-82.9252"
+  nearby_rate_centers:
+  - name: SENECA
+    distance:
+      value: 2.71
+      units: km
+  - name: CLEMSON
+    distance:
+      value: 8.72
+      units: km
+  - name: PENDLETON
+    distance:
+      value: 13.79
+      units: km
+- country: US
+  region: SC
+  name: Valley Falls
+  lat: '35.0073'
+  long: "-81.9692"
+  nearby_rate_centers:
+  - name: SPARTANBG
+    distance:
+      value: 7.39
+      units: km
+  - name: INMAN
+    distance:
+      value: 12.17
+      units: km
+  - name: COWPENS
+    distance:
+      value: 15.27
+      units: km
+- country: US
+  region: SC
+  name: Van Wyck
+  lat: '34.8531'
+  long: "-80.8333"
+  nearby_rate_centers:
+  - name: LANCASTER
+    distance:
+      value: 16.1
+      units: km
+  - name: FORT LAWN
+    distance:
+      value: 17.98
+      units: km
+  - name: ROCK HILL
+    distance:
+      value: 19.24
+      units: km
+- country: US
+  region: SC
+  name: Vance
+  lat: '33.4365'
+  long: "-80.4201"
+  nearby_rate_centers:
+  - name: EUTAWVILLE
+    distance:
+      value: 8.15
+      units: km
+  - name: SANTEE
+    distance:
+      value: 8.15
+      units: km
+  - name: HOLLY HILL
+    distance:
+      value: 12.66
+      units: km
+- country: US
+  region: SC
+  name: Varnville
+  lat: '32.8521'
+  long: "-81.0802"
+  nearby_rate_centers:
+  - name: HAMPTON
+    distance:
+      value: 2.99
+      units: km
+  - name: FAIRFAX
+    distance:
+      value: 18.46
+      units: km
+  - name: ESTILL
+    distance:
+      value: 18.57
+      units: km
+- country: US
+  region: SC
+  name: Wade Hampton
+  lat: '34.8821'
+  long: "-82.3336"
+  nearby_rate_centers:
+  - name: GREENVILLE
+    distance:
+      value: 7.16
+      units: km
+  - name: GREER
+    distance:
+      value: 12.18
+      units: km
+  - name: TRAVESREST
+    distance:
+      value: 13.46
+      units: km
+- country: US
+  region: SC
+  name: Wagener
+  lat: '33.6512'
+  long: "-81.3625"
+  nearby_rate_centers:
+  - name: WAGENER
+    distance:
+      value: 0.18
+      units: km
+  - name: PELION
+    distance:
+      value: 16.99
+      units: km
+  - name: SRNGFLSLLY
+    distance:
+      value: 18.47
+      units: km
+- country: US
+  region: SC
+  name: Walhalla
+  lat: '34.7705'
+  long: "-83.0615"
+  nearby_rate_centers:
+  - name: WALHALLA
+    distance:
+      value: 1.37
+      units: km
+  - name: WESTMINSTR
+    distance:
+      value: 12.16
+      units: km
+  - name: SENECA
+    distance:
+      value: 13.56
+      units: km
+- country: US
+  region: SC
+  name: Wallace
+  lat: '34.7201'
+  long: "-79.8479"
+  nearby_rate_centers:
+  - name: CHERAW
+    distance:
+      value: 5.02
+      units: km
+  - name: BENNETTSVL
+    distance:
+      value: 18.87
+      units: km
+  - name: NEWTONVL
+    distance:
+      value: 21.2
+      units: km
+- country: US
+  region: SC
+  name: Walterboro
+  lat: '32.9010'
+  long: "-80.6760"
+  nearby_rate_centers:
+  - name: WALTERBORO
+    distance:
+      value: 1.46
+      units: km
+  - name: NWALTERBOR
+    distance:
+      value: 5.97
+      units: km
+  - name: SWALTERBOR
+    distance:
+      value: 9.98
+      units: km
+- country: US
+  region: SC
+  name: Ward
+  lat: '33.8573'
+  long: "-81.7313"
+  nearby_rate_centers:
+  - name: RIDGE SPG
+    distance:
+      value: 6.61
+      units: km
+  - name: JOHNSTON
+    distance:
+      value: 7.17
+      units: km
+  - name: SALUDA
+    distance:
+      value: 16.23
+      units: km
+- country: US
+  region: SC
+  name: Ware Place
+  lat: '34.6266'
+  long: "-82.3881"
+  nearby_rate_centers:
+  - name: PELZER
+    distance:
+      value: 7.14
+      units: km
+  - name: WILLIAMSTN
+    distance:
+      value: 8.13
+      units: km
+  - name: PIEDMONT
+    distance:
+      value: 10.98
+      units: km
+- country: US
+  region: SC
+  name: Ware Shoals
+  lat: '34.3894'
+  long: "-82.2390"
+  nearby_rate_centers:
+  - name: WARESHOALS
+    distance:
+      value: 1.13
+      units: km
+  - name: WEST END
+    distance:
+      value: 4.43
+      units: km
+  - name: HODGES
+    distance:
+      value: 10.77
+      units: km
+- country: US
+  region: SC
+  name: Warrenville
+  lat: '33.5461'
+  long: "-81.7990"
+  nearby_rate_centers:
+  - name: GRANITEVL
+    distance:
+      value: 2.37
+      units: km
+  - name: AIKEN
+    distance:
+      value: 7.7
+      units: km
+  - name: BATH
+    distance:
+      value: 8.81
+      units: km
+- country: US
+  region: SC
+  name: Waterloo
+  lat: '34.3561'
+  long: "-82.0572"
+  nearby_rate_centers:
+  - name: WATERLOO
+    distance:
+      value: 0.07
+      units: km
+  - name: MOUNTVILLE
+    distance:
+      value: 8.51
+      units: km
+  - name: CROSS HILL
+    distance:
+      value: 8.74
+      units: km
+- country: US
+  region: SC
+  name: Watts Mills
+  lat: '34.5164'
+  long: "-81.9856"
+  nearby_rate_centers:
+  - name: LAURENS
+    distance:
+      value: 3.63
+      units: km
+  - name: LAURESRURL
+    distance:
+      value: 3.63
+      units: km
+  - name: CLINTON
+    distance:
+      value: 10.18
+      units: km
+  - name: GRAY COURT
+    distance:
+      value: 15.55
+      units: km
+- country: US
+  region: SC
+  name: Wedgefield
+  lat: '33.8830'
+  long: "-80.5156"
+  nearby_rate_centers:
+  - name: STATEBURG
+    distance:
+      value: 10.1
+      units: km
+  - name: SHAWAFBHTS
+    distance:
+      value: 10.11
+      units: km
+  - name: OAKLAND
+    distance:
+      value: 11.88
+      units: km
+- country: US
+  region: SC
+  name: Welcome
+  lat: '34.8203'
+  long: "-82.4600"
+  nearby_rate_centers:
+  - name: GREENVILLE
+    distance:
+      value: 6.26
+      units: km
+  - name: PIEDMONT
+    distance:
+      value: 12.66
+      units: km
+  - name: EASLEY
+    distance:
+      value: 12.88
+      units: km
+- country: US
+  region: SC
+  name: Wellford
+  lat: '34.9620'
+  long: "-82.0937"
+  nearby_rate_centers:
+  - name: LYMAN
+    distance:
+      value: 3.34
+      units: km
+  - name: INMAN
+    distance:
+      value: 9.79
+      units: km
+  - name: GREER
+    distance:
+      value: 11.93
+      units: km
+- country: US
+  region: SC
+  name: West Columbia
+  lat: '33.9932'
+  long: "-81.0936"
+  nearby_rate_centers:
+  - name: COLUMBIA
+    distance:
+      value: 5.84
+      units: km
+  - name: W COLUMBIA
+    distance:
+      value: 5.84
+      units: km
+  - name: LEXINGTON
+    distance:
+      value: 13.0
+      units: km
+  - name: GILBERT
+    distance:
+      value: 28.33
+      units: km
+- country: US
+  region: SC
+  name: West Pelzer
+  lat: '34.6450'
+  long: "-82.4738"
+  nearby_rate_centers:
+  - name: PELZER
+    distance:
+      value: 1.22
+      units: km
+  - name: WILLIAMSTN
+    distance:
+      value: 2.92
+      units: km
+  - name: PIEDMONT
+    distance:
+      value: 6.97
+      units: km
+- country: US
+  region: SC
+  name: West Union
+  lat: '34.7590'
+  long: "-83.0432"
+  nearby_rate_centers:
+  - name: WALHALLA
+    distance:
+      value: 2.3
+      units: km
+  - name: WESTMINSTR
+    distance:
+      value: 11.44
+      units: km
+  - name: SENECA
+    distance:
+      value: 11.46
+      units: km
+- country: US
+  region: SC
+  name: Westminster
+  lat: '34.6656'
+  long: "-83.0911"
+  nearby_rate_centers:
+  - name: WESTMINSTR
+    distance:
+      value: 0.19
+      units: km
+  - name: WALHALLA
+    distance:
+      value: 10.65
+      units: km
+  - name: SENECA
+    distance:
+      value: 13.28
+      units: km
+- country: US
+  region: SC
+  name: White Knoll
+  lat: '33.8902'
+  long: "-81.2391"
+  nearby_rate_centers:
+  - name: LEXINGTON
+    distance:
+      value: 10.37
+      units: km
+  - name: PELION
+    distance:
+      value: 13.65
+      units: km
+  - name: GILBERT
+    distance:
+      value: 14.26
+      units: km
+- country: US
+  region: SC
+  name: Whitmire
+  lat: '34.5041'
+  long: "-81.6144"
+  nearby_rate_centers:
+  - name: WHITMIRE
+    distance:
+      value: 0.5
+      units: km
+  - name: JOANNA
+    distance:
+      value: 20.71
+      units: km
+  - name: UNION
+    distance:
+      value: 23.62
+      units: km
+- country: US
+  region: SC
+  name: Whitney
+  lat: '34.9835'
+  long: "-81.9260"
+  nearby_rate_centers:
+  - name: SPARTANBG
+    distance:
+      value: 3.93
+      units: km
+  - name: COWPENS
+    distance:
+      value: 11.93
+      units: km
+  - name: INMAN
+    distance:
+      value: 16.85
+      units: km
+- country: US
+  region: SC
+  name: Wilkinson Heights
+  lat: '33.4919'
+  long: "-80.8286"
+  nearby_rate_centers:
+  - name: ORANGEBURG
+    distance:
+      value: 2.2
+      units: km
+  - name: CAMERON
+    distance:
+      value: 13.32
+      units: km
+  - name: CRESTON
+    distance:
+      value: 13.32
+      units: km
+  - name: STMATTHEWS
+    distance:
+      value: 19.98
+      units: km
+- country: US
+  region: SC
+  name: Williams
+  lat: '33.0341'
+  long: "-80.8428"
+  nearby_rate_centers:
+  - name: WILLIAMS
+    distance:
+      value: 0.9
+      units: km
+  - name: LODGE
+    distance:
+      value: 10.57
+      units: km
+  - name: EHRHARDT
+    distance:
+      value: 17.63
+      units: km
+- country: US
+  region: SC
+  name: Williamston
+  lat: '34.6194'
+  long: "-82.4794"
+  nearby_rate_centers:
+  - name: WILLIAMSTN
+    distance:
+      value: 0.28
+      units: km
+  - name: PELZER
+    distance:
+      value: 3.67
+      units: km
+  - name: PIEDMONT
+    distance:
+      value: 9.86
+      units: km
+- country: US
+  region: SC
+  name: Willington
+  lat: '33.9687'
+  long: "-82.4576"
+  nearby_rate_centers:
+  - name: MT CARMEL
+    distance:
+      value: 10.79
+      units: km
+  - name: TROY
+    distance:
+      value: 14.8
+      units: km
+  - name: MCCORMICK
+    distance:
+      value: 16.59
+      units: km
+- country: US
+  region: SC
+  name: Williston
+  lat: '33.4018'
+  long: "-81.4220"
+  nearby_rate_centers:
+  - name: WILLISTON
+    distance:
+      value: 0.54
+      units: km
+  - name: BLACKVILLE
+    distance:
+      value: 15.45
+      units: km
+  - name: SRNGFLSLLY
+    distance:
+      value: 16.65
+      units: km
+- country: US
+  region: SC
+  name: Windsor
+  lat: '33.4809'
+  long: "-81.5137"
+  nearby_rate_centers:
+  - name: WILLISTON
+    distance:
+      value: 12.13
+      units: km
+  - name: NEWELLENTN
+    distance:
+      value: 19.2
+      units: km
+  - name: AIKEN
+    distance:
+      value: 20.71
+      units: km
+- country: US
+  region: SC
+  name: Winnsboro
+  lat: '34.3718'
+  long: "-81.0907"
+  nearby_rate_centers:
+  - name: WINNSBORO
+    distance:
+      value: 1.64
+      units: km
+  - name: RIDGEWAY
+    distance:
+      value: 14.29
+      units: km
+  - name: GREATFALLS
+    distance:
+      value: 27.82
+      units: km
+- country: US
+  region: SC
+  name: Winnsboro Mills
+  lat: '34.3561'
+  long: "-81.0708"
+  nearby_rate_centers:
+  - name: WINNSBORO
+    distance:
+      value: 3.3
+      units: km
+  - name: RIDGEWAY
+    distance:
+      value: 11.86
+      units: km
+  - name: GREATFALLS
+    distance:
+      value: 28.15
+      units: km
+- country: US
+  region: SC
+  name: Wisacky
+  lat: '34.1465'
+  long: "-80.1905"
+  nearby_rate_centers:
+  - name: BISHORURAL
+    distance:
+      value: 9.38
+      units: km
+  - name: BISHOPVL
+    distance:
+      value: 9.42
+      units: km
+  - name: LAMAR
+    distance:
+      value: 11.86
+      units: km
+- country: US
+  region: SC
+  name: Woodfield
+  lat: '34.0587'
+  long: "-80.9309"
+  nearby_rate_centers:
+  - name: W COLUMBIA
+    distance:
+      value: 10.91
+      units: km
+  - name: COLUMBIA
+    distance:
+      value: 10.91
+      units: km
+  - name: RIDGEWAY
+    distance:
+      value: 27.91
+      units: km
+  - name: LEXINGTON
+    distance:
+      value: 29.18
+      units: km
+- country: US
+  region: SC
+  name: Woodford
+  lat: '33.6687'
+  long: "-81.1120"
+  nearby_rate_centers:
+  - name: NORTH
+    distance:
+      value: 5.75
+      units: km
+  - name: SWANSEA
+    distance:
+      value: 7.12
+      units: km
+  - name: PELION
+    distance:
+      value: 16.38
+      units: km
+- country: US
+  region: SC
+  name: Woodruff
+  lat: '34.7421'
+  long: "-82.0371"
+  nearby_rate_centers:
+  - name: WOODRUFF
+    distance:
+      value: 0.57
+      units: km
+  - name: ENOREE
+    distance:
+      value: 11.66
+      units: km
+  - name: FOUNTANINN
+    distance:
+      value: 15.37
+      units: km
+- country: US
+  region: SC
+  name: Wyboo
+  lat: '33.5613'
+  long: "-80.2148"
+  nearby_rate_centers:
+  - name: NOSUMMERTN
+    distance:
+      value: 11.19
+      units: km
+  - name: SUMMERTON
+    distance:
+      value: 13.7
+      units: km
+  - name: NO MANNING
+    distance:
+      value: 14.66
+      units: km
+- country: US
+  region: SC
+  name: Yemassee
+  lat: '32.6733'
+  long: "-80.8515"
+  nearby_rate_centers:
+  - name: YEMASSEE
+    distance:
+      value: 2.1
+      units: km
+  - name: HENDERSNVL
+    distance:
+      value: 19.25
+      units: km
+  - name: RIDGELAND
+    distance:
+      value: 24.6
+      units: km
+- country: US
+  region: SC
+  name: York
+  lat: '34.9967'
+  long: "-81.2341"
+  nearby_rate_centers:
+  - name: YORK
+    distance:
+      value: 0.81
+      units: km
+  - name: SHARON
+    distance:
+      value: 10.57
+      units: km
+  - name: CLOVER
+    distance:
+      value: 13.43
+      units: km
+- country: US
+  region: SC
+  name: Zion
+  lat: '34.2587'
+  long: "-79.3116"
+  nearby_rate_centers:
+  - name: MULLINS
+    distance:
+      value: 8.68
+      units: km
+  - name: MARION
+    distance:
+      value: 11.71
+      units: km
+  - name: LATTA
+    distance:
+      value: 13.79
+      units: km
