@@ -46,7 +46,11 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "geocoder"
   spec.add_development_dependency "logger"
   spec.add_development_dependency "fiddle"
-
+  spec.add_development_dependency "rake"
+  spec.add_development_dependency "rspec"
+  spec.add_development_dependency "rubocop-rails-omakase"
+  spec.add_development_dependency "rubocop-rspec"
+  spec.add_development_dependency "rubocop-performance"
 
   # For more information and examples about making a new gem, check out our
   # guide at: https://bundler.io/guides/creating_gem.html
