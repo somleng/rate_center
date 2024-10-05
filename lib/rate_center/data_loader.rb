@@ -1,6 +1,4 @@
 require "yaml"
-require "ostruct"
-require "pry"
 
 module RateCenter
   class DataLoader
@@ -22,16 +20,49 @@ module RateCenter
       else
         raise ArgumentError, "Invalid type: #{type}"
       end
+
+      nil
     end
 
     private
 
-    def load_data_from(files, type:)
-      Array(files).each_with_object([]) do |file, result|
-        YAML.load(file.read).fetch(type).each do |data|
-          result << OpenStruct.new(**data)
+    def load_data(type, all = nil, **options)
+      if all
+        load_data_from(data_directory.join(type).glob("**/*.yml"), type:)
+      else
+        load_data_with_filter(options.fetch(:only), type:)
+      end
+    end
+
+    def load_data_with_filter(filter, type:)
+      unless filter.is_a?(Hash)
+        return Array(filter).each_with_object([]) do |country, result|
+          result.concat(load_country_data(type:, country:))
         end
       end
+
+      filter.each_with_object([]) do |(country, regions), result|
+        if regions.is_a?(Hash)
+          regions.each do |region, keys|
+            data = load_region_data(type:, country:, region:)
+            result.concat(data.select { |d| Array(keys).include?(d.fetch("name")) })
+          end
+        else
+          Array(regions).each do |region|
+            result.concat(load_region_data(type:, country:, region:))
+          end
+        end
+      end
+    end
+
+    def load_data_from(files, type:)
+      Array(files).each_with_object([]) do |file, result|
+        result.concat(YAML.load(file.read).fetch(type))
+      end
+    end
+
+    def load_country_data(type:, country:)
+      load_data_from(data_directory.join(type.to_s, country.to_s.downcase).glob("**/*.yml"), type:)
     end
 
     def load_region_data(type:, country:, region:)
@@ -40,48 +71,5 @@ module RateCenter
         type:
       )
     end
-
-    def load_data(type, all = nil, **options)
-      directory = data_directory.join(type)
-
-      if all
-        load_data_from(directory.glob("**/*.yml"), type:)
-      else
-        filter = options.fetch(:only)
-
-        unless filter.is_a?(Hash)
-          return Array(filter).each_with_object([]) do |country, result|
-            result.concat(
-              load_data_from(
-                directory.join(country.to_s.downcase).glob("**/*.yml"),
-                type:
-              )
-            )
-          end
-        end
-
-        filter.each_with_object([]) do |(country, regions), result|
-          if regions.is_a?(Hash)
-            regions.each do |region, keys|
-              data = load_region_data(type:, country:, region:)
-              result.concat(data.select { |d| Array(keys).include?(d.name) })
-            end
-          else
-            Array(regions).each do |region|
-              result.concat(load_region_data(type:, country:, region:))
-            end
-          end
-        end
-      end
-    end
   end
 end
-
-# data_loader = DataLoader.new
-# data_loader.load("all")
-# data_loader.load("cities", "all")
-# data_loader.load("cities", only: "us")
-# data_loader.load("cities", only: { "us" => ["ny"] }, "ca" => ["foo"])
-# data_loader.load("rate_centers", "all")
-# data_loader.load("rate_centers", "us")
-# data_loader.load("rate_centers", only: "us" => { "ny" => ["ny"] })

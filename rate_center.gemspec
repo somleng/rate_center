@@ -5,8 +5,8 @@ require_relative "lib/rate_center/version"
 Gem::Specification.new do |spec|
   spec.name = "rate_center"
   spec.version = RateCenter::VERSION
-  spec.authors = ["David Wilkie"]
-  spec.email = ["dwilkie@gmail.com"]
+  spec.authors = [ "David Wilkie" ]
+  spec.email = [ "dwilkie@gmail.com" ]
 
   spec.summary = "TODO: Write a short summary, because RubyGems requires one."
   spec.description = "TODO: Write a longer description or delete this line."
@@ -45,6 +45,8 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "csv"
   spec.add_development_dependency "geocoder"
   spec.add_development_dependency "logger"
+  spec.add_development_dependency "fiddle"
+
 
   # For more information and examples about making a new gem, check out our
   # guide at: https://bundler.io/guides/creating_gem.html
