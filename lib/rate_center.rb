@@ -1,5 +1,3 @@
-require "pry"
-
 module RateCenter
   class << self
     def load(...)

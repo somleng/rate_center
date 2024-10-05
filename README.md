@@ -1,5 +1,7 @@
 # RateCenter
 
+[![Build](https://github.com/somleng/rate_center/actions/workflows/main.yml/badge.svg)](https://github.com/somleng/rate_center/actions/workflows/main.yml)
+
 A collection of useful data about [NANPA Rate Centers](https://en.wikipedia.org/wiki/Rate_center).
 
 Data is currently sourced from [Simple Maps](https://simplemaps.com/data/us-cities) and [Local Calling Guide](https://localcallingguide.com/).
