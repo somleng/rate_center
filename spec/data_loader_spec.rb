@@ -33,13 +33,13 @@ module RateCenter
     it "supports filtering specific cities" do
       data_loader = DataLoader.new
 
-      results = data_loader.load(:cities, only: { us: { ny: "Manhattan" } })
+      results = data_loader.load(:cities, only: { us: { ny: "New York" } })
 
       expect(results.size).to eq(1)
       expect(results.first).to have_attributes(
         country: "US",
         region: "NY",
-        name: "Manhattan"
+        name: "New York"
       )
     end
 

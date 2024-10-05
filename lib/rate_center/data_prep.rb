@@ -11,7 +11,7 @@ module RateCenter
 
     def call
       update_rate_centers_with_closest_city
-      update_cities_with_closest_rate_centers
+      update_cities_with_nearby_rate_centers
     end
 
     private
@@ -43,27 +43,27 @@ module RateCenter
       write_data("rate_centers", "us", rate_center_data)
     end
 
-    def update_cities_with_closest_rate_centers
+    def update_cities_with_nearby_rate_centers
       city_data.each do |region, cities|
-        rate_centers = Array(rate_center_data[region]).reject { |data| data["lat"].nil? }
+        candidates = Array(rate_center_data[region]).reject { |data| data["lat"].nil? }
 
         cities.each do |city|
-          rate_center_distances = find_closest(
+          candidate_distances = find_closest(
             lat: city.fetch("lat"),
             long: city.fetch("long"),
-            data: rate_centers,
+            data: candidates,
             key: ->(data) { data.fetch("name") }
           )
 
-          rate_centers_by_distance = rate_center_distances.each_with_object(Hash.new { |h, k| h[k] = [] }) do |rate_center, result|
+          candidates_by_distance = candidate_distances.each_with_object(Hash.new { |h, k| h[k] = [] }) do |rate_center, result|
             result[rate_center.distance] << rate_center
           end
 
-          closest_rate_centers = rate_centers_by_distance.keys.first(3).each_with_object([]) do |distance, result|
-            result.concat(rate_centers_by_distance.fetch(distance))
+          nearby_rate_centers = candidates_by_distance.keys.first(3).each_with_object([]) do |distance, result|
+            result.concat(candidates_by_distance.fetch(distance))
           end
 
-          city["closest_rate_centers"] = closest_rate_centers.map do |rate_center|
+          city["nearby_rate_centers"] = nearby_rate_centers.map do |rate_center|
             {
               "name" => rate_center.name,
               "distance" => {
