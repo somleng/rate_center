@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.2](https://github.com/somleng/rate_center/compare/v0.1.1...v0.1.2) (2024-10-05)
+
+
+### Bug Fixes
+
+* Gemspec ([#9](https://github.com/somleng/rate_center/issues/9)) ([9f3a313](https://github.com/somleng/rate_center/commit/9f3a3138f005523c48b98ec64c827f73f67e25d1))
+
 ## [0.1.1](https://github.com/somleng/rate_center/compare/v0.1.0...v0.1.1) (2024-10-05)
 
 
