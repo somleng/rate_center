@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.3](https://github.com/somleng/rate_center/compare/v0.1.2...v0.1.3) (2024-10-07)
+
+
+### Bug Fixes
+
+* Add cron to update data ([#12](https://github.com/somleng/rate_center/issues/12)) ([8f02fee](https://github.com/somleng/rate_center/commit/8f02feef2f766a2b7f7dc46ee4a2e5da01f0d444))
+
 ## [0.1.2](https://github.com/somleng/rate_center/compare/v0.1.1...v0.1.2) (2024-10-05)
 
 
