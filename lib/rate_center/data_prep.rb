@@ -32,10 +32,7 @@ module RateCenter
 
           rate_center["closest_city"] = {
             "name" => closest_city.name,
-            "distance" => {
-              "value" => closest_city.distance.round(2),
-              "units" => "km"
-            }
+            "distance_km" => closest_city.distance.round(2)
           }
         end
       end
@@ -66,10 +63,7 @@ module RateCenter
           city["nearby_rate_centers"] = nearby_rate_centers.map do |rate_center|
             {
               "name" => rate_center.name,
-              "distance" => {
-                "value" => rate_center.distance.round(2),
-                "units" => "km"
-              }
+              "distance_km" => rate_center.distance.round(2)
             }
           end
         end
@@ -92,7 +86,7 @@ module RateCenter
         )
       end
 
-      distances_to.sort_by(&:distance)
+      distances_to.sort_by { |e| [ e.distance, e.name ] }
     end
 
     def write_data(type, country, data)

@@ -12,10 +12,7 @@ module RateCenter
       new_york = cities.first
       expect(new_york.nearby_rate_centers.first).to have_attributes(
         name: be_a(String),
-        distance: have_attributes(
-          value: be_a(Float),
-          units: eq("km")
-        )
+        distance_km: be_a(Float)
       )
     end
 

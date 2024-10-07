@@ -20,9 +20,7 @@ rate_centers:
   long: "-76.168188"
   closest_city:
     name: Aberdeen
-    distance:
-      value: 0.8
-      units: km
+    distance_km: 0.8
 - country: US
   region: MD
   exchange: '311740'
@@ -52,9 +50,7 @@ rate_centers:
   long: "-79.318973"
   closest_city:
     name: Accident
-    distance:
-      value: 0.17
-      units: km
+    distance_km: 0.17
 - country: US
   region: MD
   exchange: '311425'
@@ -120,9 +116,7 @@ rate_centers:
   long: "-76.496624"
   closest_city:
     name: Naval Academy
-    distance:
-      value: 0.78
-      units: km
+    distance_km: 0.78
 - country: US
   region: MD
   exchange: '311428'
@@ -152,9 +146,7 @@ rate_centers:
   long: "-76.665694"
   closest_city:
     name: Lansdowne
-    distance:
-      value: 0.69
-      units: km
+    distance_km: 0.69
 - country: US
   region: MD
   exchange: '311744'
@@ -175,14 +167,21 @@ rate_centers:
   long: "-76.547622"
   closest_city:
     name: Pasadena
-    distance:
-      value: 2.4
-      units: km
+    distance_km: 2.4
 - country: US
   region: MD
   exchange: '311745'
   name: ARNOLD
   full_name: Arnold
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311746'
+  name: ASHTON
+  full_name: Ashton
   lata: '238'
   ilec_name: VERIZON MARYLAND, INC.
   lat:
@@ -207,18 +206,7 @@ rate_centers:
   long: "-77.022453"
   closest_city:
     name: Ashton-Sandy Spring
-    distance:
-      value: 1.38
-      units: km
-- country: US
-  region: MD
-  exchange: '311746'
-  name: ASHTON
-  full_name: Ashton
-  lata: '238'
-  ilec_name: VERIZON MARYLAND, INC.
-  lat:
-  long:
+    distance_km: 1.38
 - country: US
   region: MD
   exchange: '079241'
@@ -230,9 +218,7 @@ rate_centers:
   long: "-77.022453"
   closest_city:
     name: Ashton-Sandy Spring
-    distance:
-      value: 1.38
-      units: km
+    distance_km: 1.38
 - country: US
   region: MD
   exchange: '311432'
@@ -289,9 +275,7 @@ rate_centers:
   long: "-76.614736"
   closest_city:
     name: Baltimore
-    distance:
-      value: 0.69
-      units: km
+    distance_km: 0.69
 - country: US
   region: MD
   exchange: '312174'
@@ -348,9 +332,7 @@ rate_centers:
   long: "-76.348555"
   closest_city:
     name: Bel Air
-    distance:
-      value: 0.22
-      units: km
+    distance_km: 0.22
 - country: US
   region: MD
   exchange: '311437'
@@ -416,9 +398,7 @@ rate_centers:
   long: "-75.218044"
   closest_city:
     name: Berlin
-    distance:
-      value: 0.66
-      units: km
+    distance_km: 0.66
 - country: US
   region: MD
   exchange: '311757'
@@ -439,9 +419,7 @@ rate_centers:
   long: "-76.913396"
   closest_city:
     name: Berwyn Heights
-    distance:
-      value: 0.09
-      units: km
+    distance_km: 0.09
 - country: US
   region: MD
   exchange: '080655'
@@ -453,9 +431,7 @@ rate_centers:
   long: "-76.913396"
   closest_city:
     name: Berwyn Heights
-    distance:
-      value: 0.09
-      units: km
+    distance_km: 0.09
 - country: US
   region: MD
   exchange: '311440'
@@ -539,9 +515,7 @@ rate_centers:
   long: "-75.219538"
   closest_city:
     name: Bishopville
-    distance:
-      value: 1.27
-      units: km
+    distance_km: 1.27
 - country: US
   region: MD
   exchange: '079290'
@@ -553,9 +527,7 @@ rate_centers:
   long: "-79.218183"
   closest_city:
     name: Jennings
-    distance:
-      value: 6.1
-      units: km
+    distance_km: 6.1
 - country: US
   region: MD
   exchange: '312180'
@@ -621,9 +593,7 @@ rate_centers:
   long: "-76.813882"
   closest_city:
     name: Glenn Dale
-    distance:
-      value: 0.86
-      units: km
+    distance_km: 0.86
 - country: US
   region: MD
   exchange: '080665'
@@ -635,9 +605,7 @@ rate_centers:
   long: "-76.813882"
   closest_city:
     name: Glenn Dale
-    distance:
-      value: 0.86
-      units: km
+    distance_km: 0.86
 - country: US
   region: MD
   exchange: '311759'
@@ -694,9 +662,7 @@ rate_centers:
   long: "-76.845611"
   closest_city:
     name: Brandywine
-    distance:
-      value: 3.4
-      units: km
+    distance_km: 3.4
 - country: US
   region: MD
   exchange: '311448'
@@ -762,9 +728,7 @@ rate_centers:
   long: "-76.61725"
   closest_city:
     name: Brooklyn Park
-    distance:
-      value: 0.05
-      units: km
+    distance_km: 0.05
 - country: US
   region: MD
   exchange: '312182'
@@ -803,9 +767,7 @@ rate_centers:
   long: "-77.622985"
   closest_city:
     name: Brunswick
-    distance:
-      value: 0.37
-      units: km
+    distance_km: 0.37
 - country: US
   region: MD
   exchange: '079841'
@@ -835,9 +797,7 @@ rate_centers:
   long: "-77.435383"
   closest_city:
     name: Buckeystown
-    distance:
-      value: 0.92
-      units: km
+    distance_km: 0.92
 - country: US
   region: MD
   exchange: '312006'
@@ -930,9 +890,7 @@ rate_centers:
   long: "-76.075007"
   closest_city:
     name: Cambridge
-    distance:
-      value: 1.89
-      units: km
+    distance_km: 1.89
 - country: US
   region: MD
   exchange: '311459'
@@ -980,9 +938,7 @@ rate_centers:
   long: "-76.342007"
   closest_city:
     name: Pylesville
-    distance:
-      value: 4.96
-      units: km
+    distance_km: 4.96
 - country: US
   region: MD
   exchange: '311771'
@@ -1030,9 +986,7 @@ rate_centers:
   long: "-76.74375"
   closest_city:
     name: Catonsville
-    distance:
-      value: 0.41
-      units: km
+    distance_km: 0.41
 - country: US
   region: MD
   exchange: '312008'
@@ -1053,9 +1007,7 @@ rate_centers:
   long: "-75.876162"
   closest_city:
     name: Cecilton
-    distance:
-      value: 0.94
-      units: km
+    distance_km: 0.94
 - country: US
   region: MD
   exchange: '079380'
@@ -1067,9 +1019,7 @@ rate_centers:
   long: "-76.069293"
   closest_city:
     name: Centreville
-    distance:
-      value: 0.56
-      units: km
+    distance_km: 0.56
 - country: US
   region: MD
   exchange: '312186'
@@ -1117,9 +1067,7 @@ rate_centers:
   long: "-76.364615"
   closest_city:
     name: Bowleys Quarters
-    distance:
-      value: 4.68
-      units: km
+    distance_km: 4.68
 - country: US
   region: MD
   exchange: '311463'
@@ -1149,9 +1097,7 @@ rate_centers:
   long: "-75.811196"
   closest_city:
     name: Chesapeake City
-    distance:
-      value: 0.49
-      units: km
+    distance_km: 0.49
 - country: US
   region: MD
   exchange: '312188'
@@ -1172,9 +1118,7 @@ rate_centers:
   long: "-76.067884"
   closest_city:
     name: Chestertown
-    distance:
-      value: 1.2
-      units: km
+    distance_km: 1.2
 - country: US
   region: MD
   exchange: '311779'
@@ -1258,9 +1202,7 @@ rate_centers:
   long: "-75.985224"
   closest_city:
     name: Church Hill
-    distance:
-      value: 0.69
-      units: km
+    distance_km: 0.69
 - country: US
   region: MD
   exchange: '311780'
@@ -1281,9 +1223,7 @@ rate_centers:
   long: "-76.247132"
   closest_city:
     name: Aberdeen
-    distance:
-      value: 7.9
-      units: km
+    distance_km: 7.9
 - country: US
   region: MD
   exchange: '312192'
@@ -1322,9 +1262,7 @@ rate_centers:
   long: "-77.932546"
   closest_city:
     name: Clear Spring
-    distance:
-      value: 0.22
-      units: km
+    distance_km: 0.22
 - country: US
   region: MD
   exchange: '311784'
@@ -1381,9 +1319,7 @@ rate_centers:
   long: "-76.648477"
   closest_city:
     name: Cockeysville
-    distance:
-      value: 1.7
-      units: km
+    distance_km: 1.7
 - country: US
   region: MD
   exchange: '311472'
@@ -1440,9 +1376,7 @@ rate_centers:
   long: "-76.855146"
   closest_city:
     name: Columbia
-    distance:
-      value: 1.85
-      units: km
+    distance_km: 1.85
 - country: US
   region: MD
   exchange: '311476'
@@ -1535,9 +1469,7 @@ rate_centers:
   long: "-75.851111"
   closest_city:
     name: Crisfield
-    distance:
-      value: 0.16
-      units: km
+    distance_km: 0.16
 - country: US
   region: MD
   exchange: '312196'
@@ -1558,9 +1490,7 @@ rate_centers:
   long: "-76.671436"
   closest_city:
     name: Crofton
-    distance:
-      value: 2.88
-      units: km
+    distance_km: 2.88
 - country: US
   region: MD
   exchange: '311794'
@@ -1590,9 +1520,7 @@ rate_centers:
   long: "-78.754641"
   closest_city:
     name: Cumberland
-    distance:
-      value: 0.35
-      units: km
+    distance_km: 0.35
 - country: US
   region: MD
   exchange: '311795'
@@ -1622,9 +1550,7 @@ rate_centers:
   long: "-77.207931"
   closest_city:
     name: Damascus
-    distance:
-      value: 2.35
-      units: km
+    distance_km: 2.35
 - country: US
   region: MD
   exchange: '079501'
@@ -1636,9 +1562,7 @@ rate_centers:
   long: "-77.207931"
   closest_city:
     name: Damascus
-    distance:
-      value: 2.35
-      units: km
+    distance_km: 2.35
 - country: US
   region: MD
   exchange: '312016'
@@ -1695,9 +1619,7 @@ rate_centers:
   long: "-76.197707"
   closest_city:
     name: Darlington
-    distance:
-      value: 0.5
-      units: km
+    distance_km: 0.5
 - country: US
   region: MD
   exchange: '311481'
@@ -1736,9 +1658,7 @@ rate_centers:
   long: "-75.951559"
   closest_city:
     name: Deal Island
-    distance:
-      value: 1.82
-      units: km
+    distance_km: 1.82
 - country: US
   region: MD
   exchange: '311801'
@@ -1768,9 +1688,7 @@ rate_centers:
   long: "-75.577138"
   closest_city:
     name: Delmar
-    distance:
-      value: 1.9
-      units: km
+    distance_km: 1.9
 - country: US
   region: MD
   exchange: '079540'
@@ -1782,9 +1700,7 @@ rate_centers:
   long: "-75.823619"
   closest_city:
     name: Denton
-    distance:
-      value: 0.69
-      units: km
+    distance_km: 0.69
 - country: US
   region: MD
   exchange: '311482'
@@ -1877,9 +1793,7 @@ rate_centers:
   long: "-76.524133"
   closest_city:
     name: Dundalk
-    distance:
-      value: 3.07
-      units: km
+    distance_km: 3.07
 - country: US
   region: MD
   exchange: '311806'
@@ -1936,9 +1850,7 @@ rate_centers:
   long: "-76.074167"
   closest_city:
     name: Easton
-    distance:
-      value: 0.38
-      units: km
+    distance_km: 0.38
 - country: US
   region: MD
   exchange: '311809'
@@ -1995,9 +1907,7 @@ rate_centers:
   long: "-76.298182"
   closest_city:
     name: Edgewood
-    distance:
-      value: 0.49
-      units: km
+    distance_km: 0.49
 - country: US
   region: MD
   exchange: '311812'
@@ -2045,9 +1955,7 @@ rate_centers:
   long: "-76.718997"
   closest_city:
     name: Elkridge
-    distance:
-      value: 3.16
-      units: km
+    distance_km: 3.16
 - country: US
   region: MD
   exchange: '079590'
@@ -2059,9 +1967,7 @@ rate_centers:
   long: "-75.833868"
   closest_city:
     name: Elkton
-    distance:
-      value: 1.65
-      units: km
+    distance_km: 1.65
 - country: US
   region: MD
   exchange: '312020'
@@ -2082,9 +1988,7 @@ rate_centers:
   long: "-76.802902"
   closest_city:
     name: Ellicott City
-    distance:
-      value: 2.97
-      units: km
+    distance_km: 2.97
 - country: US
   region: MD
   exchange: '079610'
@@ -2096,9 +2000,7 @@ rate_centers:
   long: "-77.32388"
   closest_city:
     name: Emmitsburg
-    distance:
-      value: 0.24
-      units: km
+    distance_km: 0.24
 - country: US
   region: MD
   exchange: '079620'
@@ -2110,9 +2012,7 @@ rate_centers:
   long: "-76.508928"
   closest_city:
     name: Rosedale
-    distance:
-      value: 0.77
-      units: km
+    distance_km: 0.77
 - country: US
   region: MD
   exchange: '311820'
@@ -2169,9 +2069,7 @@ rate_centers:
   long: "-76.375136"
   closest_city:
     name: Pleasant Hills
-    distance:
-      value: 1.43
-      units: km
+    distance_km: 1.43
 - country: US
   region: MD
   exchange: '311488'
@@ -2192,9 +2090,7 @@ rate_centers:
   long: "-75.775523"
   closest_city:
     name: Federalsburg
-    distance:
-      value: 0.74
-      units: km
+    distance_km: 0.74
 - country: US
   region: MD
   exchange: '311822'
@@ -2233,9 +2129,7 @@ rate_centers:
   long: "-78.566266"
   closest_city:
     name: Flintstone
-    distance:
-      value: 0.81
-      units: km
+    distance_km: 0.81
 - country: US
   region: MD
   exchange: '311489'
@@ -2274,9 +2168,7 @@ rate_centers:
   long: "-76.431622"
   closest_city:
     name: Kingsville
-    distance:
-      value: 2.23
-      units: km
+    distance_km: 2.23
 - country: US
   region: MD
   exchange: '312027'
@@ -2360,9 +2252,7 @@ rate_centers:
   long: "-77.409057"
   closest_city:
     name: Frederick
-    distance:
-      value: 1.77
-      units: km
+    distance_km: 1.77
 - country: US
   region: MD
   exchange: '311831'
@@ -2392,9 +2282,7 @@ rate_centers:
   long: "-79.39851"
   closest_city:
     name: Friendsville
-    distance:
-      value: 0.56
-      units: km
+    distance_km: 0.56
 - country: US
   region: MD
   exchange: '079690'
@@ -2406,9 +2294,7 @@ rate_centers:
   long: "-78.926306"
   closest_city:
     name: Frostburg
-    distance:
-      value: 0.09
-      units: km
+    distance_km: 0.09
 - country: US
   region: MD
   exchange: '312211'
@@ -2456,9 +2342,7 @@ rate_centers:
   long: "-77.202938"
   closest_city:
     name: Gaithersburg
-    distance:
-      value: 1.19
-      units: km
+    distance_km: 1.19
 - country: US
   region: MD
   exchange: '079710'
@@ -2470,9 +2354,7 @@ rate_centers:
   long: "-75.872024"
   closest_city:
     name: Galena
-    distance:
-      value: 0.59
-      units: km
+    distance_km: 0.59
 - country: US
   region: MD
   exchange: '312213'
@@ -2583,9 +2465,7 @@ rate_centers:
   long: "-76.626973"
   closest_city:
     name: Glen Burnie
-    distance:
-      value: 2.04
-      units: km
+    distance_km: 2.04
 - country: US
   region: MD
   exchange: '311495'
@@ -2642,9 +2522,7 @@ rate_centers:
   long: "-77.018407"
   closest_city:
     name: Lisbon
-    distance:
-      value: 4.99
-      units: km
+    distance_km: 4.99
 - country: US
   region: MD
   exchange: '311845'
@@ -2710,9 +2588,7 @@ rate_centers:
   long: "-79.159295"
   closest_city:
     name: Grantsville
-    distance:
-      value: 0.85
-      units: km
+    distance_km: 0.85
 - country: US
   region: MD
   exchange: '312218'
@@ -2778,9 +2654,7 @@ rate_centers:
   long: "-75.810027"
   closest_city:
     name: Greensboro
-    distance:
-      value: 0.18
-      units: km
+    distance_km: 0.18
 - country: US
   region: MD
   exchange: '311851'
@@ -2810,9 +2684,7 @@ rate_centers:
   long: "-77.728048"
   closest_city:
     name: Hagerstown
-    distance:
-      value: 0.59
-      units: km
+    distance_km: 0.59
 - country: US
   region: MD
   exchange: '311853'
@@ -2833,9 +2705,7 @@ rate_centers:
   long: "-76.84949"
   closest_city:
     name: Hampstead
-    distance:
-      value: 1.44
-      units: km
+    distance_km: 1.44
 - country: US
   region: MD
   exchange: '079780'
@@ -2847,9 +2717,7 @@ rate_centers:
   long: "-78.173049"
   closest_city:
     name: Hancock
-    distance:
-      value: 0.39
-      units: km
+    distance_km: 0.39
 - country: US
   region: MD
   exchange: '311855'
@@ -2888,9 +2756,7 @@ rate_centers:
   long: "-76.092348"
   closest_city:
     name: Havre de Grace
-    distance:
-      value: 1.95
-      units: km
+    distance_km: 1.95
 - country: US
   region: MD
   exchange: '312220'
@@ -2956,9 +2822,7 @@ rate_centers:
   long: "-77.488913"
   closest_city:
     name: Highfield-Cascade
-    distance:
-      value: 0.55
-      units: km
+    distance_km: 0.55
 - country: US
   region: MD
   exchange: '311502'
@@ -3006,9 +2870,7 @@ rate_centers:
   long: "-75.949628"
   closest_city:
     name: Hillsboro
-    distance:
-      value: 0.72
-      units: km
+    distance_km: 0.72
 - country: US
   region: MD
   exchange: '311863'
@@ -3047,9 +2909,7 @@ rate_centers:
   long: "-76.786283"
   closest_city:
     name: Hughesville
-    distance:
-      value: 1.09
-      units: km
+    distance_km: 1.09
 - country: US
   region: MD
   exchange: '311864'
@@ -3070,9 +2930,7 @@ rate_centers:
   long: "-75.857913"
   closest_city:
     name: Hurlock
-    distance:
-      value: 0.85
-      units: km
+    distance_km: 0.85
 - country: US
   region: MD
   exchange: '312036'
@@ -3156,9 +3014,7 @@ rate_centers:
   long: "-77.168378"
   closest_city:
     name: Indian Head
-    distance:
-      value: 1.15
-      units: km
+    distance_km: 1.15
 - country: US
   region: MD
   exchange: '312225'
@@ -3206,9 +3062,7 @@ rate_centers:
   long: "-76.48453"
   closest_city:
     name: Jarrettsville
-    distance:
-      value: 0.98
-      units: km
+    distance_km: 0.98
 - country: US
   region: MD
   exchange: '079851'
@@ -3220,9 +3074,7 @@ rate_centers:
   long: "-76.48453"
   closest_city:
     name: Jarrettsville
-    distance:
-      value: 0.98
-      units: km
+    distance_km: 0.98
 - country: US
   region: MD
   exchange: '312038'
@@ -3270,9 +3122,7 @@ rate_centers:
   long: "-77.700713"
   closest_city:
     name: Keedysville
-    distance:
-      value: 0.93
-      units: km
+    distance_km: 0.93
 - country: US
   region: MD
   exchange: '312226'
@@ -3338,9 +3188,7 @@ rate_centers:
   long: "-79.175774"
   closest_city:
     name: Kitzmiller
-    distance:
-      value: 0.73
-      units: km
+    distance_km: 0.73
 - country: US
   region: MD
   exchange: '312042'
@@ -3361,9 +3209,7 @@ rate_centers:
   long: "-76.97334"
   closest_city:
     name: La Plata
-    distance:
-      value: 1.31
-      units: km
+    distance_km: 1.31
 - country: US
   region: MD
   exchange: '312043'
@@ -3474,9 +3320,7 @@ rate_centers:
   long: "-76.851463"
   closest_city:
     name: Laurel
-    distance:
-      value: 1.82
-      units: km
+    distance_km: 1.82
 - country: US
   region: MD
   exchange: '311520'
@@ -3515,9 +3359,7 @@ rate_centers:
   long: "-76.851463"
   closest_city:
     name: Laurel
-    distance:
-      value: 1.82
-      units: km
+    distance_km: 1.82
 - country: US
   region: MD
   exchange: '312046'
@@ -3565,9 +3407,7 @@ rate_centers:
   long: "-76.630212"
   closest_city:
     name: Leonardtown
-    distance:
-      value: 1.48
-      units: km
+    distance_km: 1.48
 - country: US
   region: MD
   exchange: '312049'
@@ -3597,9 +3437,7 @@ rate_centers:
   long: "-76.492433"
   closest_city:
     name: Callaway
-    distance:
-      value: 2.8
-      units: km
+    distance_km: 2.8
 - country: US
   region: MD
   exchange: '311878'
@@ -3728,9 +3566,7 @@ rate_centers:
   long: "-78.977279"
   closest_city:
     name: Lonaconing
-    distance:
-      value: 0.15
-      units: km
+    distance_km: 0.15
 - country: US
   region: MD
   exchange: '311886'
@@ -3886,9 +3722,7 @@ rate_centers:
   long: "-75.766888"
   closest_city:
     name: Fairmount
-    distance:
-      value: 7.8
-      units: km
+    distance_km: 7.8
 - country: US
   region: MD
   exchange: '312235'
@@ -4008,9 +3842,7 @@ rate_centers:
   long: "-78.976967"
   closest_city:
     name: McCoole
-    distance:
-      value: 0.46
-      units: km
+    distance_km: 0.46
 - country: US
   region: MD
   exchange: '312238'
@@ -4058,9 +3890,7 @@ rate_centers:
   long: "-76.739872"
   closest_city:
     name: Mechanicsville
-    distance:
-      value: 0.71
-      units: km
+    distance_km: 0.71
 - country: US
   region: MD
   exchange: '311900'
@@ -4090,9 +3920,7 @@ rate_centers:
   long: "-77.538599"
   closest_city:
     name: Middletown
-    distance:
-      value: 0.35
-      units: km
+    distance_km: 0.35
 - country: US
   region: MD
   exchange: '312059'
@@ -4140,9 +3968,7 @@ rate_centers:
   long: "-76.644894"
   closest_city:
     name: Gambrills
-    distance:
-      value: 3.83
-      units: km
+    distance_km: 3.83
 - country: US
   region: MD
   exchange: '079980'
@@ -4154,9 +3980,7 @@ rate_centers:
   long: "-75.841041"
   closest_city:
     name: Millington
-    distance:
-      value: 0.8
-      units: km
+    distance_km: 0.8
 - country: US
   region: MD
   exchange: '311535'
@@ -4222,9 +4046,7 @@ rate_centers:
   long: "-77.159984"
   closest_city:
     name: Mount Airy
-    distance:
-      value: 0.57
-      units: km
+    distance_km: 0.57
 - country: US
   region: MD
   exchange: '311539'
@@ -4245,9 +4067,7 @@ rate_centers:
   long: "-78.876814"
   closest_city:
     name: Mount Savage
-    distance:
-      value: 0.65
-      units: km
+    distance_km: 0.65
 - country: US
   region: MD
   exchange: '311540'
@@ -4304,9 +4124,7 @@ rate_centers:
   long: "-77.567077"
   closest_city:
     name: Myersville
-    distance:
-      value: 0.22
-      units: km
+    distance_km: 0.22
 - country: US
   region: MD
   exchange: '080020'
@@ -4318,9 +4136,7 @@ rate_centers:
   long: "-77.21675"
   closest_city:
     name: Indian Head
-    distance:
-      value: 17.42
-      units: km
+    distance_km: 17.42
 - country: US
   region: MD
   exchange: '080030'
@@ -4332,9 +4148,7 @@ rate_centers:
   long: "-75.889954"
   closest_city:
     name: Bivalve
-    distance:
-      value: 0.95
-      units: km
+    distance_km: 0.95
 - country: US
   region: MD
   exchange: '311907'
@@ -4373,9 +4187,7 @@ rate_centers:
   long: "-77.26834"
   closest_city:
     name: New Market
-    distance:
-      value: 1.16
-      units: km
+    distance_km: 1.16
 - country: US
   region: MD
   exchange: '312067'
@@ -4396,9 +4208,7 @@ rate_centers:
   long: "-77.109876"
   closest_city:
     name: New Windsor
-    distance:
-      value: 0.77
-      units: km
+    distance_km: 0.77
 - country: US
   region: MD
   exchange: '312242'
@@ -4446,9 +4256,7 @@ rate_centers:
   long: "-76.530118"
   closest_city:
     name: Chesapeake Beach
-    distance:
-      value: 1.36
-      units: km
+    distance_km: 1.36
 - country: US
   region: MD
   exchange: '311541'
@@ -4487,9 +4295,7 @@ rate_centers:
   long: "-75.945204"
   closest_city:
     name: North East
-    distance:
-      value: 0.9
-      units: km
+    distance_km: 0.9
 - country: US
   region: MD
   exchange: '311543'
@@ -4537,9 +4343,7 @@ rate_centers:
   long: "-79.411079"
   closest_city:
     name: Oakland
-    distance:
-      value: 1.24
-      units: km
+    distance_km: 1.24
 - country: US
   region: MD
   exchange: '080090'
@@ -4551,9 +4355,7 @@ rate_centers:
   long: "-75.089703"
   closest_city:
     name: West Ocean City
-    distance:
-      value: 2.56
-      units: km
+    distance_km: 2.56
 - country: US
   region: MD
   exchange: '079271'
@@ -4574,9 +4376,7 @@ rate_centers:
   long: "-76.709696"
   closest_city:
     name: Odenton
-    distance:
-      value: 2.28
-      units: km
+    distance_km: 2.28
 - country: US
   region: MD
   exchange: '311917'
@@ -4597,9 +4397,7 @@ rate_centers:
   long: "-78.606413"
   closest_city:
     name: Oldtown
-    distance:
-      value: 0.85
-      units: km
+    distance_km: 0.85
 - country: US
   region: MD
   exchange: '311550'
@@ -4665,9 +4463,7 @@ rate_centers:
   long: "-76.725836"
   closest_city:
     name: Pikesville
-    distance:
-      value: 2.55
-      units: km
+    distance_km: 2.55
 - country: US
   region: MD
   exchange: '080110'
@@ -4679,9 +4475,7 @@ rate_centers:
   long: "-76.163723"
   closest_city:
     name: Oxford
-    distance:
-      value: 0.57
-      units: km
+    distance_km: 0.57
 - country: US
   region: MD
   exchange: '080611'
@@ -4711,9 +4505,7 @@ rate_centers:
   long: "-76.658423"
   closest_city:
     name: Jarrettsville
-    distance:
-      value: 16.24
-      units: km
+    distance_km: 16.24
 - country: US
   region: MD
   exchange: '080130'
@@ -4725,9 +4517,7 @@ rate_centers:
   long: "-76.517019"
   closest_city:
     name: Overlea
-    distance:
-      value: 1.13
-      units: km
+    distance_km: 1.13
 - country: US
   region: MD
   exchange: '079211'
@@ -4820,9 +4610,7 @@ rate_centers:
   long: "-76.072326"
   closest_city:
     name: Perryville
-    distance:
-      value: 1.86
-      units: km
+    distance_km: 1.86
 - country: US
   region: MD
   exchange: '311930'
@@ -4843,9 +4631,7 @@ rate_centers:
   long: "-76.725836"
   closest_city:
     name: Pikesville
-    distance:
-      value: 2.55
-      units: km
+    distance_km: 2.55
 - country: US
   region: MD
   exchange: '311554'
@@ -4893,9 +4679,7 @@ rate_centers:
   long: "-75.564089"
   closest_city:
     name: Pocomoke City
-    distance:
-      value: 0.81
-      units: km
+    distance_km: 0.81
 - country: US
   region: MD
   exchange: '312251'
@@ -4934,9 +4718,7 @@ rate_centers:
   long: "-77.419274"
   closest_city:
     name: Poolesville
-    distance:
-      value: 0.8
-      units: km
+    distance_km: 0.8
 - country: US
   region: MD
   exchange: '080180'
@@ -4948,9 +4730,7 @@ rate_centers:
   long: "-76.11807"
   closest_city:
     name: Port Deposit
-    distance:
-      value: 1.72
-      units: km
+    distance_km: 1.72
 - country: US
   region: MD
   exchange: '311934'
@@ -4998,9 +4778,7 @@ rate_centers:
   long: "-75.910024"
   closest_city:
     name: Preston
-    distance:
-      value: 0.73
-      units: km
+    distance_km: 0.73
 - country: US
   region: MD
   exchange: '312254'
@@ -5021,9 +4799,7 @@ rate_centers:
   long: "-76.586215"
   closest_city:
     name: Prince Frederick
-    distance:
-      value: 0.3
-      units: km
+    distance_km: 0.3
 - country: US
   region: MD
   exchange: '080210'
@@ -5035,9 +4811,7 @@ rate_centers:
   long: "-75.690945"
   closest_city:
     name: Princess Anne
-    distance:
-      value: 0.7
-      units: km
+    distance_km: 0.7
 - country: US
   region: MD
   exchange: '311935'
@@ -5076,9 +4850,7 @@ rate_centers:
   long: "-76.156121"
   closest_city:
     name: Queenstown
-    distance:
-      value: 0.94
-      units: km
+    distance_km: 0.94
 - country: US
   region: MD
   exchange: '080230'
@@ -5090,9 +4862,7 @@ rate_centers:
   long: "-76.766124"
   closest_city:
     name: Milford Mill
-    distance:
-      value: 0.31
-      units: km
+    distance_km: 0.31
 - country: US
   region: MD
   exchange: '311937'
@@ -5131,9 +4901,7 @@ rate_centers:
   long: "-76.831828"
   closest_city:
     name: Reisterstown
-    distance:
-      value: 1.97
-      units: km
+    distance_km: 1.97
 - country: US
   region: MD
   exchange: '312260'
@@ -5172,9 +4940,7 @@ rate_centers:
   long: "-76.368224"
   closest_city:
     name: St. George Island
-    distance:
-      value: 9.52
-      units: km
+    distance_km: 9.52
 - country: US
   region: MD
   exchange: '080260'
@@ -5186,9 +4952,7 @@ rate_centers:
   long: "-75.883275"
   closest_city:
     name: Ridgely
-    distance:
-      value: 1.01
-      units: km
+    distance_km: 1.01
 - country: US
   region: MD
   exchange: '080270'
@@ -5200,9 +4964,7 @@ rate_centers:
   long: "-76.060122"
   closest_city:
     name: Rising Sun
-    distance:
-      value: 0.43
-      units: km
+    distance_km: 0.43
 - country: US
   region: MD
   exchange: '311561'
@@ -5259,9 +5021,7 @@ rate_centers:
   long: "-76.229674"
   closest_city:
     name: Rock Hall
-    distance:
-      value: 1.27
-      units: km
+    distance_km: 1.27
 - country: US
   region: MD
   exchange: '311563'
@@ -5435,9 +5195,7 @@ rate_centers:
   long: "-75.597524"
   closest_city:
     name: Salisbury
-    distance:
-      value: 2.08
-      units: km
+    distance_km: 2.08
 - country: US
   region: MD
   exchange: '311566'
@@ -5530,9 +5288,7 @@ rate_centers:
   long: "-76.641022"
   closest_city:
     name: Glen Burnie
-    distance:
-      value: 3.77
-      units: km
+    distance_km: 3.77
 - country: US
   region: MD
   exchange: '080310'
@@ -5544,9 +5300,7 @@ rate_centers:
   long: "-76.54965"
   closest_city:
     name: Severna Park
-    distance:
-      value: 2.65
-      units: km
+    distance_km: 2.65
 - country: US
   region: MD
   exchange: '311950'
@@ -5585,9 +5339,7 @@ rate_centers:
   long: "-75.716684"
   closest_city:
     name: Sharptown
-    distance:
-      value: 0.6
-      units: km
+    distance_km: 0.6
 - country: US
   region: MD
   exchange: '312268'
@@ -5608,9 +5360,7 @@ rate_centers:
   long: "-76.539556"
   closest_city:
     name: Arnold
-    distance:
-      value: 4.27
-      units: km
+    distance_km: 4.27
 - country: US
   region: MD
   exchange: '312269'
@@ -5631,9 +5381,7 @@ rate_centers:
   long: "-77.041773"
   closest_city:
     name: Taneytown
-    distance:
-      value: 11.44
-      units: km
+    distance_km: 11.44
 - country: US
   region: MD
   exchange: '080581'
@@ -5654,9 +5402,7 @@ rate_centers:
   long: "-76.025933"
   closest_city:
     name: Smith Island
-    distance:
-      value: 1.05
-      units: km
+    distance_km: 1.05
 - country: US
   region: MD
   exchange: '080360'
@@ -5668,9 +5414,7 @@ rate_centers:
   long: "-77.576035"
   closest_city:
     name: Smithsburg
-    distance:
-      value: 0.56
-      units: km
+    distance_km: 0.56
 - country: US
   region: MD
   exchange: '080370'
@@ -5682,9 +5426,7 @@ rate_centers:
   long: "-75.391453"
   closest_city:
     name: Snow Hill
-    distance:
-      value: 0.38
-      units: km
+    distance_km: 0.38
 - country: US
   region: MD
   exchange: '080380'
@@ -5696,9 +5438,7 @@ rate_centers:
   long: "-76.457608"
   closest_city:
     name: Solomons
-    distance:
-      value: 1.2
-      units: km
+    distance_km: 1.2
 - country: US
   region: MD
   exchange: '311954'
@@ -5728,9 +5468,7 @@ rate_centers:
   long: "-76.646419"
   closest_city:
     name: Cockeysville
-    distance:
-      value: 7.92
-      units: km
+    distance_km: 7.92
 - country: US
   region: MD
   exchange: '080400'
@@ -5742,9 +5480,7 @@ rate_centers:
   long: "-76.494183"
   closest_city:
     name: Edgemere
-    distance:
-      value: 3.25
-      units: km
+    distance_km: 3.25
 - country: US
   region: MD
   exchange: '311573'
@@ -5792,9 +5528,7 @@ rate_centers:
   long: "-76.223855"
   closest_city:
     name: St. Michaels
-    distance:
-      value: 0.45
-      units: km
+    distance_km: 0.45
 - country: US
   region: MD
   exchange: '311959'
@@ -5815,9 +5549,7 @@ rate_centers:
   long: "-76.308811"
   closest_city:
     name: Stevensville
-    distance:
-      value: 0.85
-      units: km
+    distance_km: 0.85
 - country: US
   region: MD
   exchange: '080430'
@@ -5829,9 +5561,7 @@ rate_centers:
   long: "-76.042098"
   closest_city:
     name: Still Pond
-    distance:
-      value: 0.39
-      units: km
+    distance_km: 0.39
 - country: US
   region: MD
   exchange: '312275'
@@ -5870,9 +5600,7 @@ rate_centers:
   long: "-75.856836"
   closest_city:
     name: Sudlersville
-    distance:
-      value: 1.08
-      units: km
+    distance_km: 1.08
 - country: US
   region: MD
   exchange: '311579'
@@ -5920,9 +5648,7 @@ rate_centers:
   long: "-76.966187"
   closest_city:
     name: Sykesville
-    distance:
-      value: 0.82
-      units: km
+    distance_km: 0.82
 - country: US
   region: MD
   exchange: '311581'
@@ -5952,9 +5678,7 @@ rate_centers:
   long: "-77.171378"
   closest_city:
     name: Taneytown
-    distance:
-      value: 0.34
-      units: km
+    distance_km: 0.34
 - country: US
   region: MD
   exchange: '312277'
@@ -6002,9 +5726,7 @@ rate_centers:
   long: "-77.411484"
   closest_city:
     name: Thurmont
-    distance:
-      value: 0.56
-      units: km
+    distance_km: 0.56
 - country: US
   region: MD
   exchange: '080480'
@@ -6016,9 +5738,7 @@ rate_centers:
   long: "-76.335289"
   closest_city:
     name: Tilghman Island
-    distance:
-      value: 1.79
-      units: km
+    distance_km: 1.79
 - country: US
   region: MD
   exchange: '311967'
@@ -6048,9 +5768,7 @@ rate_centers:
   long: "-76.933324"
   closest_city:
     name: Rock Point
-    distance:
-      value: 11.62
-      units: km
+    distance_km: 11.62
 - country: US
   region: MD
   exchange: '080500'
@@ -6062,9 +5780,7 @@ rate_centers:
   long: "-76.600008"
   closest_city:
     name: Towson
-    distance:
-      value: 1.86
-      units: km
+    distance_km: 1.86
 - country: US
   region: MD
   exchange: '311969'
@@ -6085,9 +5801,7 @@ rate_centers:
   long: "-76.065323"
   closest_city:
     name: Trappe
-    distance:
-      value: 1.32
-      units: km
+    distance_km: 1.32
 - country: US
   region: MD
   exchange: '312086'
@@ -6135,9 +5849,7 @@ rate_centers:
   long: "-77.175248"
   closest_city:
     name: Union Bridge
-    distance:
-      value: 0.76
-      units: km
+    distance_km: 0.76
 - country: US
   region: MD
   exchange: '311971'
@@ -6230,9 +5942,7 @@ rate_centers:
   long: "-75.821373"
   closest_city:
     name: Vienna
-    distance:
-      value: 0.95
-      units: km
+    distance_km: 0.95
 - country: US
   region: MD
   exchange: '080540'
@@ -6244,9 +5954,7 @@ rate_centers:
   long: "-76.904365"
   closest_city:
     name: Waldorf
-    distance:
-      value: 2.29
-      units: km
+    distance_km: 2.29
 - country: US
   region: MD
   exchange: '080550'
@@ -6258,9 +5966,7 @@ rate_centers:
   long: "-77.351793"
   closest_city:
     name: Walkersville
-    distance:
-      value: 0.37
-      units: km
+    distance_km: 0.37
 - country: US
   region: MD
   exchange: '080560'
@@ -6272,9 +5978,7 @@ rate_centers:
   long: "-75.773424"
   closest_city:
     name: Cecilton
-    distance:
-      value: 8.18
-      units: km
+    distance_km: 8.18
 - country: US
   region: MD
   exchange: '311591'
@@ -6295,9 +5999,7 @@ rate_centers:
   long: "-77.159932"
   closest_city:
     name: Rockville
-    distance:
-      value: 0.46
-      units: km
+    distance_km: 0.46
 - country: US
   region: MD
   exchange: '080630'
@@ -6309,9 +6011,7 @@ rate_centers:
   long: "-77.077816"
   closest_city:
     name: Kensington
-    distance:
-      value: 0.43
-      units: km
+    distance_km: 0.43
 - country: US
   region: MD
   exchange: '080640'
@@ -6323,9 +6023,7 @@ rate_centers:
   long: "-77.048679"
   closest_city:
     name: Layhill
-    distance:
-      value: 0.95
-      units: km
+    distance_km: 0.95
 - country: US
   region: MD
   exchange: '311607'
@@ -6346,9 +6044,7 @@ rate_centers:
   long: "-76.913396"
   closest_city:
     name: Berwyn Heights
-    distance:
-      value: 0.09
-      units: km
+    distance_km: 0.09
 - country: US
   region: MD
   exchange: '080654'
@@ -6360,9 +6056,7 @@ rate_centers:
   long: "-76.913396"
   closest_city:
     name: Berwyn Heights
-    distance:
-      value: 0.09
-      units: km
+    distance_km: 0.09
 - country: US
   region: MD
   exchange: '311989'
@@ -6392,9 +6086,7 @@ rate_centers:
   long: "-76.813882"
   closest_city:
     name: Glenn Dale
-    distance:
-      value: 0.86
-      units: km
+    distance_km: 0.86
 - country: US
   region: MD
   exchange: '080664'
@@ -6406,9 +6098,7 @@ rate_centers:
   long: "-76.813882"
   closest_city:
     name: Glenn Dale
-    distance:
-      value: 0.86
-      units: km
+    distance_km: 0.86
 - country: US
   region: MD
   exchange: '311990'
@@ -6429,9 +6119,7 @@ rate_centers:
   long: "-76.754578"
   closest_city:
     name: Upper Marlboro
-    distance:
-      value: 0.34
-      units: km
+    distance_km: 0.34
 - country: US
   region: MD
   exchange: '311609'
@@ -6452,9 +6140,7 @@ rate_centers:
   long: "-76.754578"
   closest_city:
     name: Upper Marlboro
-    distance:
-      value: 0.34
-      units: km
+    distance_km: 0.34
 - country: US
   region: MD
   exchange: '080680'
@@ -6466,9 +6152,7 @@ rate_centers:
   long: "-76.899341"
   closest_city:
     name: Clinton
-    distance:
-      value: 2.04
-      units: km
+    distance_km: 2.04
 - country: US
   region: MD
   exchange: '080570'
@@ -6480,9 +6164,7 @@ rate_centers:
   long: "-77.106526"
   closest_city:
     name: Bethesda
-    distance:
-      value: 1.08
-      units: km
+    distance_km: 1.08
 - country: US
   region: MD
   exchange: '080580'
@@ -6494,9 +6176,7 @@ rate_centers:
   long: "-77.040524"
   closest_city:
     name: Forest Glen
-    distance:
-      value: 1.03
-      units: km
+    distance_km: 1.03
 - country: US
   region: MD
   exchange: '080590'
@@ -6508,9 +6188,7 @@ rate_centers:
   long: "-76.950382"
   closest_city:
     name: North Brentwood
-    distance:
-      value: 0.64
-      units: km
+    distance_km: 0.64
 - country: US
   region: MD
   exchange: '080591'
@@ -6522,9 +6200,7 @@ rate_centers:
   long: "-76.950382"
   closest_city:
     name: North Brentwood
-    distance:
-      value: 0.64
-      units: km
+    distance_km: 0.64
 - country: US
   region: MD
   exchange: '080600'
@@ -6536,9 +6212,7 @@ rate_centers:
   long: "-76.91773"
   closest_city:
     name: Maryland Park
-    distance:
-      value: 1.09
-      units: km
+    distance_km: 1.09
 - country: US
   region: MD
   exchange: '080610'
@@ -6550,9 +6224,7 @@ rate_centers:
   long: "-76.991495"
   closest_city:
     name: Forest Heights
-    distance:
-      value: 1.32
-      units: km
+    distance_km: 1.32
 - country: US
   region: MD
   exchange: '080690'
@@ -6564,9 +6236,7 @@ rate_centers:
   long: "-76.785791"
   closest_city:
     name: Jessup
-    distance:
-      value: 2.88
-      units: km
+    distance_km: 2.88
 - country: US
   region: MD
   exchange: '311975'
@@ -6596,9 +6266,7 @@ rate_centers:
   long: "-76.785791"
   closest_city:
     name: Jessup
-    distance:
-      value: 2.88
-      units: km
+    distance_km: 2.88
 - country: US
   region: MD
   exchange: '311594'
@@ -6664,9 +6332,7 @@ rate_centers:
   long: "-76.60188"
   closest_city:
     name: Galesville
-    distance:
-      value: 4.62
-      units: km
+    distance_km: 4.62
 - country: US
   region: MD
   exchange: '080710'
@@ -6678,9 +6344,7 @@ rate_centers:
   long: "-79.042949"
   closest_city:
     name: Westernport
-    distance:
-      value: 0.18
-      units: km
+    distance_km: 0.18
 - country: US
   region: MD
   exchange: '311595'
@@ -6701,9 +6365,7 @@ rate_centers:
   long: "-76.993632"
   closest_city:
     name: Westminster
-    distance:
-      value: 1.22
-      units: km
+    distance_km: 1.22
 - country: US
   region: MD
   exchange: '312289'
@@ -6751,7 +6413,7 @@ rate_centers:
   long:
 - country: US
   region: MD
-  exchange: '311982'
+  exchange: '080132'
   name: WHITEMARSH
   full_name: White Marsh
   lata: '238'
@@ -6760,7 +6422,7 @@ rate_centers:
   long:
 - country: US
   region: MD
-  exchange: '080132'
+  exchange: '311982'
   name: WHITEMARSH
   full_name: White Marsh
   lata: '238'
@@ -6805,9 +6467,7 @@ rate_centers:
   long: "-75.407961"
   closest_city:
     name: Pittsville
-    distance:
-      value: 0.09
-      units: km
+    distance_km: 0.09
 - country: US
   region: MD
   exchange: '312293'
@@ -6828,9 +6488,7 @@ rate_centers:
   long: "-77.824413"
   closest_city:
     name: Williamsport
-    distance:
-      value: 0.57
-      units: km
+    distance_km: 0.57
 - country: US
   region: MD
   exchange: '311983'
@@ -6851,9 +6509,7 @@ rate_centers:
   long: "-76.193342"
   closest_city:
     name: Fishing Creek
-    distance:
-      value: 5.78
-      units: km
+    distance_km: 5.78
 - country: US
   region: MD
   exchange: '312295'
@@ -6892,9 +6548,7 @@ rate_centers:
   long: "-76.727285"
   closest_city:
     name: Lochearn
-    distance:
-      value: 2.23
-      units: km
+    distance_km: 2.23
 - country: US
   region: MD
   exchange: '312091'
@@ -6933,9 +6587,7 @@ rate_centers:
   long: "-76.844495"
   closest_city:
     name: Reisterstown
-    distance:
-      value: 4.16
-      units: km
+    distance_km: 4.16
 - country: US
   region: MD
   exchange: '312297'

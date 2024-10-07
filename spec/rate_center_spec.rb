@@ -16,10 +16,7 @@ module RateCenter
         name: "NWYRCYZN01",
         closest_city: have_attributes(
           name: "Manhattan",
-          distance: have_attributes(
-            value: be_a(Float),
-            units: eq("km")
-          )
+          distance_km: be_a(Float)
         )
       )
     end
