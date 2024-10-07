@@ -1,3 +1,3 @@
 module RateCenter
-  Distance = Struct.new(:value, :units, keyword_init: true)
+  Distance = Struct.new(:name, :distance_km, keyword_init: true)
 end

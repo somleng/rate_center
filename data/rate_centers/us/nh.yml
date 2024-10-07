@@ -47,9 +47,7 @@ rate_centers:
   long: "-72.359798"
   closest_city:
     name: North Walpole
-    distance:
-      value: 6.98
-      units: km
+    distance_km: 6.98
 - country: US
   region: NH
   exchange: '123380'
@@ -61,9 +59,7 @@ rate_centers:
   long: "-71.221948"
   closest_city:
     name: Union
-    distance:
-      value: 16.5
-      units: km
+    distance_km: 16.5
 - country: US
   region: NH
   exchange: '300889'
@@ -93,9 +89,7 @@ rate_centers:
   long: "-71.82073"
   closest_city:
     name: Franklin
-    distance:
-      value: 12.33
-      units: km
+    distance_km: 12.33
 - country: US
   region: NH
   exchange: '123400'
@@ -107,9 +101,7 @@ rate_centers:
   long: "-71.939516"
   closest_city:
     name: Francestown
-    distance:
-      value: 11.02
-      units: km
+    distance_km: 11.02
 - country: US
   region: NH
   exchange: '123410'
@@ -121,9 +113,7 @@ rate_centers:
   long: "-71.633049"
   closest_city:
     name: Laconia
-    distance:
-      value: 18.59
-      units: km
+    distance_km: 18.59
 - country: US
   region: NH
   exchange: '300894'
@@ -180,9 +170,7 @@ rate_centers:
   long: "-71.214704"
   closest_city:
     name: Union
-    distance:
-      value: 20.51
-      units: km
+    distance_km: 20.51
 - country: US
   region: NH
   exchange: '123430'
@@ -194,9 +182,7 @@ rate_centers:
   long: "-71.042527"
   closest_city:
     name: Rochester
-    distance:
-      value: 10.02
-      units: km
+    distance_km: 10.02
 - country: US
   region: NH
   exchange: '123440'
@@ -208,9 +194,7 @@ rate_centers:
   long: "-71.283631"
   closest_city:
     name: North Conway
-    distance:
-      value: 13.56
-      units: km
+    distance_km: 13.56
 - country: US
   region: NH
   exchange: '300902'
@@ -231,9 +215,7 @@ rate_centers:
   long: "-71.521381"
   closest_city:
     name: Pinardville
-    distance:
-      value: 6.68
-      units: km
+    distance_km: 6.68
 - country: US
   region: NH
   exchange: '300904'
@@ -254,9 +236,7 @@ rate_centers:
   long: "-71.480518"
   closest_city:
     name: Tilton Northfield
-    distance:
-      value: 9.03
-      units: km
+    distance_km: 9.03
 - country: US
   region: NH
   exchange: '300906'
@@ -286,9 +266,7 @@ rate_centers:
   long: "-71.181337"
   closest_city:
     name: Berlin
-    distance:
-      value: 6.42
-      units: km
+    distance_km: 6.42
 - country: US
   region: NH
   exchange: '123480'
@@ -300,9 +278,7 @@ rate_centers:
   long: "-71.693053"
   closest_city:
     name: North Woodstock
-    distance:
-      value: 27.22
-      units: km
+    distance_km: 27.22
 - country: US
   region: NH
   exchange: '123490'
@@ -314,9 +290,7 @@ rate_centers:
   long: "-71.61913"
   closest_city:
     name: Concord
-    distance:
-      value: 10.43
-      units: km
+    distance_km: 10.43
 - country: US
   region: NH
   exchange: '300911'
@@ -346,9 +320,7 @@ rate_centers:
   long: "-71.957825"
   closest_city:
     name: Blodgett Landing
-    distance:
-      value: 13.4
-      units: km
+    distance_km: 13.4
 - country: US
   region: NH
   exchange: '300914'
@@ -369,9 +341,7 @@ rate_centers:
   long: "-71.439573"
   closest_city:
     name: Berlin
-    distance:
-      value: 29.17
-      units: km
+    distance_km: 29.17
 - country: US
   region: NH
   exchange: '300916'
@@ -392,9 +362,7 @@ rate_centers:
   long: "-71.73525"
   closest_city:
     name: Franklin
-    distance:
-      value: 16.62
-      units: km
+    distance_km: 16.62
 - country: US
   region: NH
   exchange: '300918'
@@ -442,9 +410,7 @@ rate_centers:
   long: "-71.643558"
   closest_city:
     name: Center Sandwich
-    distance:
-      value: 17.58
-      units: km
+    distance_km: 17.58
 - country: US
   region: NH
   exchange: '123540'
@@ -456,9 +422,7 @@ rate_centers:
   long: "-72.022481"
   closest_city:
     name: Lebanon
-    distance:
-      value: 18.6
-      units: km
+    distance_km: 18.6
 - country: US
   region: NH
   exchange: '300923'
@@ -479,9 +443,7 @@ rate_centers:
   long: "-71.291839"
   closest_city:
     name: South Hooksett
-    distance:
-      value: 11.06
-      units: km
+    distance_km: 11.06
 - country: US
   region: NH
   exchange: '300925'
@@ -502,9 +464,7 @@ rate_centers:
   long: "-71.563777"
   closest_city:
     name: Concord
-    distance:
-      value: 11.52
-      units: km
+    distance_km: 11.52
 - country: US
   region: NH
   exchange: '300927'
@@ -534,23 +494,12 @@ rate_centers:
   long: "-71.259595"
   closest_city:
     name: Rochester
-    distance:
-      value: 23.13
-      units: km
+    distance_km: 23.13
 - country: US
   region: NH
   exchange: '300947'
   name: CTR CONWAY
   full_name: Center Conway
-  lata: '122'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
-  lat:
-  long:
-- country: US
-  region: NH
-  exchange: '300948'
-  name: CTR HARBOR
-  full_name: Center Harbor
   lata: '122'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
   lat:
@@ -566,9 +515,16 @@ rate_centers:
   long: "-71.463537"
   closest_city:
     name: Suissevale
-    distance:
-      value: 8.29
-      units: km
+    distance_km: 8.29
+- country: US
+  region: NH
+  exchange: '300948'
+  name: CTR HARBOR
+  full_name: Center Harbor
+  lata: '122'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
+  lat:
+  long:
 - country: US
   region: NH
   exchange: '123590'
@@ -580,9 +536,7 @@ rate_centers:
   long: "-71.154496"
   closest_city:
     name: Center Ossipee
-    distance:
-      value: 0.47
-      units: km
+    distance_km: 0.47
 - country: US
   region: NH
   exchange: '123600'
@@ -594,9 +548,7 @@ rate_centers:
   long: "-71.441057"
   closest_city:
     name: Center Sandwich
-    distance:
-      value: 0.19
-      units: km
+    distance_km: 0.19
 - country: US
   region: NH
   exchange: '300952'
@@ -626,9 +578,7 @@ rate_centers:
   long: "-72.422776"
   closest_city:
     name: North Walpole
-    distance:
-      value: 10.03
-      units: km
+    distance_km: 10.03
 - country: US
   region: NH
   exchange: '123620'
@@ -640,9 +590,7 @@ rate_centers:
   long: "-71.013371"
   closest_city:
     name: North Conway
-    distance:
-      value: 16.1
-      units: km
+    distance_km: 16.1
 - country: US
   region: NH
   exchange: '123630'
@@ -654,9 +602,7 @@ rate_centers:
   long: "-71.25615"
   closest_city:
     name: Manchester
-    distance:
-      value: 15.7
-      units: km
+    distance_km: 15.7
 - country: US
   region: NH
   exchange: '300933'
@@ -677,9 +623,7 @@ rate_centers:
   long: "-71.407675"
   closest_city:
     name: Suncook
-    distance:
-      value: 12.21
-      units: km
+    distance_km: 12.21
 - country: US
   region: NH
   exchange: '300935'
@@ -700,9 +644,7 @@ rate_centers:
   long: "-72.336325"
   closest_city:
     name: Claremont
-    distance:
-      value: 0.8
-      units: km
+    distance_km: 0.8
 - country: US
   region: NH
   exchange: '300937'
@@ -723,9 +665,7 @@ rate_centers:
   long: "-71.498334"
   closest_city:
     name: West Stewartstown
-    distance:
-      value: 11.35
-      units: km
+    distance_km: 11.35
 - country: US
   region: NH
   exchange: '123670'
@@ -737,9 +677,7 @@ rate_centers:
   long: "-71.535956"
   closest_city:
     name: Concord
-    distance:
-      value: 3.81
-      units: km
+    distance_km: 3.81
 - country: US
   region: NH
   exchange: '123680'
@@ -751,9 +689,7 @@ rate_centers:
   long: "-71.718381"
   closest_city:
     name: Contoocook
-    distance:
-      value: 0.5
-      units: km
+    distance_km: 0.5
 - country: US
   region: NH
   exchange: '123690'
@@ -765,9 +701,7 @@ rate_centers:
   long: "-71.120649"
   closest_city:
     name: North Conway
-    distance:
-      value: 6.98
-      units: km
+    distance_km: 6.98
 - country: US
   region: NH
   exchange: '300944'
@@ -824,9 +758,7 @@ rate_centers:
   long: "-71.870217"
   closest_city:
     name: Franklin
-    distance:
-      value: 18.47
-      units: km
+    distance_km: 18.47
 - country: US
   region: NH
   exchange: '300956'
@@ -847,9 +779,7 @@ rate_centers:
   long: "-71.244511"
   closest_city:
     name: Suncook
-    distance:
-      value: 16.94
-      units: km
+    distance_km: 16.94
 - country: US
   region: NH
   exchange: '300958'
@@ -870,9 +800,7 @@ rate_centers:
   long: "-71.321746"
   closest_city:
     name: East Merrimack
-    distance:
-      value: 13.13
-      units: km
+    distance_km: 13.13
 - country: US
   region: NH
   exchange: '300960'
@@ -902,9 +830,7 @@ rate_centers:
   long: "-70.878094"
   closest_city:
     name: Dover
-    distance:
-      value: 0.88
-      units: km
+    distance_km: 0.88
 - country: US
   region: NH
   exchange: '300964'
@@ -925,9 +851,7 @@ rate_centers:
   long: "-72.046588"
   closest_city:
     name: Francestown
-    distance:
-      value: 20.96
-      units: km
+    distance_km: 20.96
 - country: US
   region: NH
   exchange: '300966'
@@ -948,9 +872,7 @@ rate_centers:
   long: "-71.615598"
   closest_city:
     name: Pinardville
-    distance:
-      value: 13.72
-      units: km
+    distance_km: 13.72
 - country: US
   region: NH
   exchange: '123770'
@@ -962,9 +884,7 @@ rate_centers:
   long: "-70.923644"
   closest_city:
     name: Dover
-    distance:
-      value: 6.87
-      units: km
+    distance_km: 6.87
 - country: US
   region: NH
   exchange: '300969'
@@ -1030,9 +950,7 @@ rate_centers:
   long: "-71.004123"
   closest_city:
     name: North Conway
-    distance:
-      value: 9.69
-      units: km
+    distance_km: 9.69
 - country: US
   region: NH
   exchange: '300972'
@@ -1233,9 +1151,7 @@ rate_centers:
   long: "-72.144153"
   closest_city:
     name: Lebanon
-    distance:
-      value: 8.85
-      units: km
+    distance_km: 8.85
 - country: US
   region: NH
   exchange: '300994'
@@ -1256,9 +1172,7 @@ rate_centers:
   long: "-71.075629"
   closest_city:
     name: Dover
-    distance:
-      value: 23.01
-      units: km
+    distance_km: 23.01
 - country: US
   region: NH
   exchange: '123810'
@@ -1270,9 +1184,7 @@ rate_centers:
   long: "-71.347027"
   closest_city:
     name: Suncook
-    distance:
-      value: 12.92
-      units: km
+    distance_km: 12.92
 - country: US
   region: NH
   exchange: '123820'
@@ -1284,9 +1196,7 @@ rate_centers:
   long: "-71.143854"
   closest_city:
     name: Berlin
-    distance:
-      value: 34.0
-      units: km
+    distance_km: 34.0
 - country: US
   region: NH
   exchange: '300999'
@@ -1307,9 +1217,7 @@ rate_centers:
   long: "-70.952387"
   closest_city:
     name: Hampton Beach
-    distance:
-      value: 13.57
-      units: km
+    distance_km: 13.57
 - country: US
   region: NH
   exchange: '301004'
@@ -1330,9 +1238,7 @@ rate_centers:
   long: "-71.064644"
   closest_city:
     name: Union
-    distance:
-      value: 12.01
-      units: km
+    distance_km: 12.01
 - country: US
   region: NH
   exchange: '123850'
@@ -1344,9 +1250,7 @@ rate_centers:
   long: "-72.147326"
   closest_city:
     name: West Swanzey
-    distance:
-      value: 17.45
-      units: km
+    distance_km: 17.45
 - country: US
   region: NH
   exchange: '301007'
@@ -1367,9 +1271,7 @@ rate_centers:
   long: "-71.744821"
   closest_city:
     name: Mountain Lakes
-    distance:
-      value: 20.84
-      units: km
+    distance_km: 20.84
 - country: US
   region: NH
   exchange: '123870'
@@ -1381,9 +1283,7 @@ rate_centers:
   long: "-71.646193"
   closest_city:
     name: Franklin
-    distance:
-      value: 2.13
-      units: km
+    distance_km: 2.13
 - country: US
   region: NH
   exchange: '301010'
@@ -1449,9 +1349,7 @@ rate_centers:
   long: "-71.297567"
   closest_city:
     name: Laconia
-    distance:
-      value: 22.43
-      units: km
+    distance_km: 22.43
 - country: US
   region: NH
   exchange: '301016'
@@ -1508,9 +1406,7 @@ rate_centers:
   long: "-71.603724"
   closest_city:
     name: Klondike Corner
-    distance:
-      value: 6.68
-      units: km
+    distance_km: 6.68
 - country: US
   region: NH
   exchange: '301023'
@@ -1531,9 +1427,7 @@ rate_centers:
   long: "-71.199203"
   closest_city:
     name: Berlin
-    distance:
-      value: 10.69
-      units: km
+    distance_km: 10.69
 - country: US
   region: NH
   exchange: '301025'
@@ -1590,9 +1484,7 @@ rate_centers:
   long: "-71.870425"
   closest_city:
     name: Francestown
-    distance:
-      value: 6.2
-      units: km
+    distance_km: 6.2
 - country: US
   region: NH
   exchange: '301031'
@@ -1613,9 +1505,7 @@ rate_centers:
   long: "-71.812826"
   closest_city:
     name: Francestown
-    distance:
-      value: 24.1
-      units: km
+    distance_km: 24.1
 - country: US
   region: NH
   exchange: '301033'
@@ -1636,9 +1526,7 @@ rate_centers:
   long: "-71.513755"
   closest_city:
     name: Groveton
-    distance:
-      value: 0.7
-      units: km
+    distance_km: 0.7
 - country: US
   region: NH
   exchange: '301035'
@@ -1668,9 +1556,7 @@ rate_centers:
   long: "-71.187941"
   closest_city:
     name: Manchester
-    distance:
-      value: 23.96
-      units: km
+    distance_km: 23.96
 - country: US
   region: NH
   exchange: '123950'
@@ -1682,9 +1568,7 @@ rate_centers:
   long: "-70.831021"
   closest_city:
     name: Hampton Beach
-    distance:
-      value: 3.04
-      units: km
+    distance_km: 3.04
 - country: US
   region: NH
   exchange: '301039'
@@ -1714,9 +1598,7 @@ rate_centers:
   long: "-71.984782"
   closest_city:
     name: Francestown
-    distance:
-      value: 14.03
-      units: km
+    distance_km: 14.03
 - country: US
   region: NH
   exchange: '123970'
@@ -1728,9 +1610,7 @@ rate_centers:
   long: "-72.292386"
   closest_city:
     name: Lebanon
-    distance:
-      value: 8.02
-      units: km
+    distance_km: 8.02
 - country: US
   region: NH
   exchange: '301043'
@@ -1751,9 +1631,7 @@ rate_centers:
   long: "-72.09637"
   closest_city:
     name: Keene
-    distance:
-      value: 16.57
-      units: km
+    distance_km: 16.57
 - country: US
   region: NH
   exchange: '301045'
@@ -1792,9 +1670,7 @@ rate_centers:
   long: "-71.823837"
   closest_city:
     name: Contoocook
-    distance:
-      value: 10.12
-      units: km
+    distance_km: 10.12
 - country: US
   region: NH
   exchange: '301049'
@@ -1815,9 +1691,7 @@ rate_centers:
   long: "-71.89492"
   closest_city:
     name: Francestown
-    distance:
-      value: 15.7
-      units: km
+    distance_km: 15.7
 - country: US
   region: NH
   exchange: '124010'
@@ -1829,9 +1703,7 @@ rate_centers:
   long: "-71.977236"
   closest_city:
     name: Francestown
-    distance:
-      value: 20.52
-      units: km
+    distance_km: 20.52
 - country: US
   region: NH
   exchange: '124020'
@@ -1843,9 +1715,7 @@ rate_centers:
   long: "-72.485788"
   closest_city:
     name: West Swanzey
-    distance:
-      value: 16.44
-      units: km
+    distance_km: 16.44
 - country: US
   region: NH
   exchange: '301053'
@@ -1866,9 +1736,7 @@ rate_centers:
   long: "-71.589832"
   closest_city:
     name: Nashua
-    distance:
-      value: 8.21
-      units: km
+    distance_km: 8.21
 - country: US
   region: NH
   exchange: '301055'
@@ -1916,9 +1784,7 @@ rate_centers:
   long: "-71.178531"
   closest_city:
     name: North Conway
-    distance:
-      value: 12.04
-      units: km
+    distance_km: 12.04
 - country: US
   region: NH
   exchange: '124050'
@@ -1930,9 +1796,7 @@ rate_centers:
   long: "-72.023381"
   closest_city:
     name: West Swanzey
-    distance:
-      value: 25.2
-      units: km
+    distance_km: 25.2
 - country: US
   region: NH
   exchange: '124060'
@@ -1944,9 +1808,7 @@ rate_centers:
   long: "-71.47533"
   closest_city:
     name: Berlin
-    distance:
-      value: 18.66
-      units: km
+    distance_km: 18.66
 - country: US
   region: NH
   exchange: '301062'
@@ -1967,9 +1829,7 @@ rate_centers:
   long: "-72.278254"
   closest_city:
     name: Keene
-    distance:
-      value: 2.19
-      units: km
+    distance_km: 2.19
 - country: US
   region: NH
   exchange: '301064'
@@ -1990,9 +1850,7 @@ rate_centers:
   long: "-71.053072"
   closest_city:
     name: Seabrook Beach
-    distance:
-      value: 19.5
-      units: km
+    distance_km: 19.5
 - country: US
   region: NH
   exchange: '124090'
@@ -2004,9 +1862,7 @@ rate_centers:
   long: "-71.475214"
   closest_city:
     name: Laconia
-    distance:
-      value: 4.27
-      units: km
+    distance_km: 4.27
 - country: US
   region: NH
   exchange: '301067'
@@ -2027,9 +1883,7 @@ rate_centers:
   long: "-71.567183"
   closest_city:
     name: Groveton
-    distance:
-      value: 13.27
-      units: km
+    distance_km: 13.27
 - country: US
   region: NH
   exchange: '301069'
@@ -2068,9 +1922,7 @@ rate_centers:
   long: "-72.251981"
   closest_city:
     name: Lebanon
-    distance:
-      value: 0.93
-      units: km
+    distance_km: 0.93
 - country: US
   region: NH
   exchange: '301073'
@@ -2109,9 +1961,7 @@ rate_centers:
   long: "-71.906786"
   closest_city:
     name: Mountain Lakes
-    distance:
-      value: 11.42
-      units: km
+    distance_km: 11.42
 - country: US
   region: NH
   exchange: '301077'
@@ -2132,9 +1982,7 @@ rate_centers:
   long: "-71.769645"
   closest_city:
     name: Mountain Lakes
-    distance:
-      value: 25.65
-      units: km
+    distance_km: 25.65
 - country: US
   region: NH
   exchange: '301079'
@@ -2209,9 +2057,7 @@ rate_centers:
   long: "-72.160126"
   closest_city:
     name: Lebanon
-    distance:
-      value: 21.07
-      units: km
+    distance_km: 21.07
 - country: US
   region: NH
   exchange: '301087'
@@ -2250,9 +2096,7 @@ rate_centers:
   long: "-71.146352"
   closest_city:
     name: North Conway
-    distance:
-      value: 15.88
-      units: km
+    distance_km: 15.88
 - country: US
   region: NH
   exchange: '124160'
@@ -2264,9 +2108,7 @@ rate_centers:
   long: "-71.462056"
   closest_city:
     name: Manchester
-    distance:
-      value: 1.74
-      units: km
+    distance_km: 1.74
 - country: US
   region: NH
   exchange: '301092'
@@ -2287,9 +2129,7 @@ rate_centers:
   long: "-72.21567"
   closest_city:
     name: Keene
-    distance:
-      value: 8.3
-      units: km
+    distance_km: 8.3
 - country: US
   region: NH
   exchange: '124180'
@@ -2301,9 +2141,7 @@ rate_centers:
   long: "-72.196007"
   closest_city:
     name: Keene
-    distance:
-      value: 18.7
-      units: km
+    distance_km: 18.7
 - country: US
   region: NH
   exchange: '301095'
@@ -2342,9 +2180,7 @@ rate_centers:
   long: "-71.307462"
   closest_city:
     name: Melvin Village
-    distance:
-      value: 0.16
-      units: km
+    distance_km: 0.16
 - country: US
   region: NH
   exchange: '124200'
@@ -2356,9 +2192,7 @@ rate_centers:
   long: "-71.505934"
   closest_city:
     name: Laconia
-    distance:
-      value: 9.72
-      units: km
+    distance_km: 9.72
 - country: US
   region: NH
   exchange: '301100'
@@ -2379,9 +2213,7 @@ rate_centers:
   long: "-72.247299"
   closest_city:
     name: Lebanon
-    distance:
-      value: 9.1
-      units: km
+    distance_km: 9.1
 - country: US
   region: NH
   exchange: '124220'
@@ -2393,9 +2225,7 @@ rate_centers:
   long: "-71.491998"
   closest_city:
     name: East Merrimack
-    distance:
-      value: 1.36
-      units: km
+    distance_km: 1.36
 - country: US
   region: NH
   exchange: '301103'
@@ -2416,9 +2246,7 @@ rate_centers:
   long: "-71.189807"
   closest_city:
     name: Berlin
-    distance:
-      value: 11.0
-      units: km
+    distance_km: 11.0
 - country: US
   region: NH
   exchange: '124240'
@@ -2430,9 +2258,7 @@ rate_centers:
   long: "-71.648472"
   closest_city:
     name: East Merrimack
-    distance:
-      value: 14.12
-      units: km
+    distance_km: 14.12
 - country: US
   region: NH
   exchange: '124250'
@@ -2444,9 +2270,7 @@ rate_centers:
   long: "-70.987244"
   closest_city:
     name: Union
-    distance:
-      value: 9.23
-      units: km
+    distance_km: 9.23
 - country: US
   region: NH
   exchange: '124260'
@@ -2458,9 +2282,7 @@ rate_centers:
   long: "-70.967458"
   closest_city:
     name: Milton Mills
-    distance:
-      value: 0.37
-      units: km
+    distance_km: 0.37
 - country: US
   region: NH
   exchange: '301108'
@@ -2481,9 +2303,7 @@ rate_centers:
   long: "-72.031834"
   closest_city:
     name: Woodsville
-    distance:
-      value: 16.84
-      units: km
+    distance_km: 16.84
 - country: US
   region: NH
   exchange: '301110'
@@ -2567,9 +2387,7 @@ rate_centers:
   long: "-71.464788"
   closest_city:
     name: Nashua
-    distance:
-      value: 2.56
-      units: km
+    distance_km: 2.56
 - country: US
   region: NH
   exchange: '301119'
@@ -2590,9 +2408,7 @@ rate_centers:
   long: "-71.691236"
   closest_city:
     name: New Boston
-    distance:
-      value: 0.31
-      units: km
+    distance_km: 0.31
 - country: US
   region: NH
   exchange: '301121'
@@ -2613,9 +2429,7 @@ rate_centers:
   long: "-71.174063"
   closest_city:
     name: Union
-    distance:
-      value: 13.73
-      units: km
+    distance_km: 13.73
 - country: US
   region: NH
   exchange: '301126'
@@ -2645,9 +2459,7 @@ rate_centers:
   long: "-71.988439"
   closest_city:
     name: Blodgett Landing
-    distance:
-      value: 6.12
-      units: km
+    distance_km: 6.12
 - country: US
   region: NH
   exchange: '301124'
@@ -2686,9 +2498,7 @@ rate_centers:
   long: "-70.938584"
   closest_city:
     name: Portsmouth
-    distance:
-      value: 12.87
-      units: km
+    distance_km: 12.87
 - country: US
   region: NH
   exchange: '124330'
@@ -2700,9 +2510,7 @@ rate_centers:
   long: "-72.17386"
   closest_city:
     name: Blodgett Landing
-    distance:
-      value: 10.94
-      units: km
+    distance_km: 10.94
 - country: US
   region: NH
   exchange: '301132'
@@ -2750,9 +2558,7 @@ rate_centers:
   long: "-71.125854"
   closest_city:
     name: North Conway
-    distance:
-      value: 1.24
-      units: km
+    distance_km: 1.24
 - country: US
   region: NH
   exchange: '301146'
@@ -2854,9 +2660,7 @@ rate_centers:
   long: "-71.630497"
   closest_city:
     name: Groveton
-    distance:
-      value: 18.32
-      units: km
+    distance_km: 18.32
 - country: US
   region: NH
   exchange: '301140'
@@ -2886,9 +2690,7 @@ rate_centers:
   long: "-72.443167"
   closest_city:
     name: North Walpole
-    distance:
-      value: 1.13
-      units: km
+    distance_km: 1.13
 - country: US
   region: NH
   exchange: '301155'
@@ -2918,9 +2720,7 @@ rate_centers:
   long: "-71.689852"
   closest_city:
     name: North Woodstock
-    distance:
-      value: 0.65
-      units: km
+    distance_km: 0.65
 - country: US
   region: NH
   exchange: '301150'
@@ -2950,9 +2750,7 @@ rate_centers:
   long: "-71.20762"
   closest_city:
     name: Rochester
-    distance:
-      value: 20.55
-      units: km
+    distance_km: 20.55
 - country: US
   region: NH
   exchange: '301153'
@@ -3009,9 +2807,7 @@ rate_centers:
   long: "-72.141734"
   closest_city:
     name: North Haverhill
-    distance:
-      value: 23.19
-      units: km
+    distance_km: 23.19
 - country: US
   region: NH
   exchange: '301163'
@@ -3041,9 +2837,7 @@ rate_centers:
   long: "-71.322837"
   closest_city:
     name: Nashua
-    distance:
-      value: 13.88
-      units: km
+    distance_km: 13.88
 - country: US
   region: NH
   exchange: '301166'
@@ -3064,9 +2858,7 @@ rate_centers:
   long: "-71.600842"
   closest_city:
     name: Concord
-    distance:
-      value: 6.41
-      units: km
+    distance_km: 6.41
 - country: US
   region: NH
   exchange: '301168'
@@ -3087,9 +2879,7 @@ rate_centers:
   long: "-71.948962"
   closest_city:
     name: Francestown
-    distance:
-      value: 16.31
-      units: km
+    distance_km: 16.31
 - country: US
   region: NH
   exchange: '124430'
@@ -3101,9 +2891,7 @@ rate_centers:
   long: "-72.079621"
   closest_city:
     name: North Haverhill
-    distance:
-      value: 14.17
-      units: km
+    distance_km: 14.17
 - country: US
   region: NH
   exchange: '124440'
@@ -3115,9 +2903,7 @@ rate_centers:
   long: "-72.020416"
   closest_city:
     name: North Haverhill
-    distance:
-      value: 6.83
-      units: km
+    distance_km: 6.83
 - country: US
   region: NH
   exchange: '124450'
@@ -3129,9 +2915,7 @@ rate_centers:
   long: "-71.391217"
   closest_city:
     name: West Stewartstown
-    distance:
-      value: 13.02
-      units: km
+    distance_km: 13.02
 - country: US
   region: NH
   exchange: '124460'
@@ -3143,9 +2927,7 @@ rate_centers:
   long: "-71.327034"
   closest_city:
     name: Concord
-    distance:
-      value: 20.65
-      units: km
+    distance_km: 20.65
 - country: US
   region: NH
   exchange: '124470'
@@ -3157,9 +2939,7 @@ rate_centers:
   long: "-72.360899"
   closest_city:
     name: Lebanon
-    distance:
-      value: 14.47
-      units: km
+    distance_km: 14.47
 - country: US
   region: NH
   exchange: '124480'
@@ -3171,9 +2951,7 @@ rate_centers:
   long: "-71.092117"
   closest_city:
     name: Seabrook Beach
-    distance:
-      value: 22.78
-      units: km
+    distance_km: 22.78
 - country: US
   region: NH
   exchange: '124490'
@@ -3185,9 +2963,7 @@ rate_centers:
   long: "-71.691643"
   closest_city:
     name: Center Sandwich
-    distance:
-      value: 20.98
-      units: km
+    distance_km: 20.98
 - country: US
   region: NH
   exchange: '124500'
@@ -3199,9 +2975,7 @@ rate_centers:
   long: "-70.764199"
   closest_city:
     name: Portsmouth
-    distance:
-      value: 2.37
-      units: km
+    distance_km: 2.37
 - country: US
   region: NH
   exchange: '301178'
@@ -3249,9 +3023,7 @@ rate_centers:
   long: "-71.182416"
   closest_city:
     name: South Hooksett
-    distance:
-      value: 19.75
-      units: km
+    distance_km: 19.75
 - country: US
   region: NH
   exchange: '301183'
@@ -3290,9 +3062,7 @@ rate_centers:
   long: "-72.013774"
   closest_city:
     name: West Swanzey
-    distance:
-      value: 28.55
-      units: km
+    distance_km: 28.55
 - country: US
   region: NH
   exchange: '301187'
@@ -3313,9 +3083,7 @@ rate_centers:
   long: "-70.972933"
   closest_city:
     name: Rochester
-    distance:
-      value: 0.73
-      units: km
+    distance_km: 0.73
 - country: US
   region: NH
   exchange: '301189'
@@ -3345,9 +3113,7 @@ rate_centers:
   long: "-71.811055"
   closest_city:
     name: North Woodstock
-    distance:
-      value: 27.33
-      units: km
+    distance_km: 27.33
 - country: US
   region: NH
   exchange: '301192'
@@ -3368,9 +3134,7 @@ rate_centers:
   long: "-70.770282"
   closest_city:
     name: Portsmouth
-    distance:
-      value: 8.29
-      units: km
+    distance_km: 8.29
 - country: US
   region: NH
   exchange: '301194'
@@ -3391,9 +3155,7 @@ rate_centers:
   long: "-71.228448"
   closest_city:
     name: Nashua
-    distance:
-      value: 21.83
-      units: km
+    distance_km: 21.83
 - country: US
   region: NH
   exchange: '124570'
@@ -3405,9 +3167,7 @@ rate_centers:
   long: "-71.717851"
   closest_city:
     name: Franklin
-    distance:
-      value: 9.03
-      units: km
+    distance_km: 9.03
 - country: US
   region: NH
   exchange: '301197'
@@ -3437,9 +3197,7 @@ rate_centers:
   long: "-71.028426"
   closest_city:
     name: Sanbornville
-    distance:
-      value: 0.22
-      units: km
+    distance_km: 0.22
 - country: US
   region: NH
   exchange: '301200'
@@ -3469,9 +3227,7 @@ rate_centers:
   long: "-70.858727"
   closest_city:
     name: Seabrook Beach
-    distance:
-      value: 2.98
-      units: km
+    distance_km: 2.98
 - country: US
   region: NH
   exchange: '301203'
@@ -3546,9 +3302,7 @@ rate_centers:
   long: "-70.864699"
   closest_city:
     name: Somersworth
-    distance:
-      value: 2.03
-      units: km
+    distance_km: 2.03
 - country: US
   region: NH
   exchange: '301210'
@@ -3641,9 +3395,7 @@ rate_centers:
   long: "-70.930868"
   closest_city:
     name: Seabrook Beach
-    distance:
-      value: 8.76
-      units: km
+    distance_km: 8.76
 - country: US
   region: NH
   exchange: '301225'
@@ -3709,9 +3461,7 @@ rate_centers:
   long: "-72.424814"
   closest_city:
     name: West Swanzey
-    distance:
-      value: 9.2
-      units: km
+    distance_km: 9.2
 - country: US
   region: NH
   exchange: '301228'
@@ -3822,9 +3572,7 @@ rate_centers:
   long: "-72.193159"
   closest_city:
     name: Keene
-    distance:
-      value: 9.95
-      units: km
+    distance_km: 9.95
 - country: US
   region: NH
   exchange: '124640'
@@ -3836,9 +3584,7 @@ rate_centers:
   long: "-72.082212"
   closest_city:
     name: Blodgett Landing
-    distance:
-      value: 3.57
-      units: km
+    distance_km: 3.57
 - country: US
   region: NH
   exchange: '124650'
@@ -3850,9 +3596,7 @@ rate_centers:
   long: "-71.454426"
   closest_city:
     name: Suncook
-    distance:
-      value: 0.94
-      units: km
+    distance_km: 0.94
 - country: US
   region: NH
   exchange: '301242'
@@ -3873,9 +3617,7 @@ rate_centers:
   long: "-71.949555"
   closest_city:
     name: Blodgett Landing
-    distance:
-      value: 8.49
-      units: km
+    distance_km: 8.49
 - country: US
   region: NH
   exchange: '301244'
@@ -3896,9 +3638,7 @@ rate_centers:
   long: "-71.263368"
   closest_city:
     name: Center Ossipee
-    distance:
-      value: 15.03
-      units: km
+    distance_km: 15.03
 - country: US
   region: NH
   exchange: '301246'
@@ -3928,9 +3668,7 @@ rate_centers:
   long: "-71.592902"
   closest_city:
     name: Tilton Northfield
-    distance:
-      value: 0.05
-      units: km
+    distance_km: 0.05
 - country: US
   region: NH
   exchange: '124690'
@@ -3942,9 +3680,7 @@ rate_centers:
   long: "-72.185377"
   closest_city:
     name: West Swanzey
-    distance:
-      value: 12.24
-      units: km
+    distance_km: 12.24
 - country: US
   region: NH
   exchange: '301250'
@@ -3965,9 +3701,7 @@ rate_centers:
   long: "-71.545358"
   closest_city:
     name: North Woodstock
-    distance:
-      value: 28.29
-      units: km
+    distance_km: 28.29
 - country: US
   region: NH
   exchange: '301252'
@@ -4006,9 +3740,7 @@ rate_centers:
   long: "-72.425365"
   closest_city:
     name: North Walpole
-    distance:
-      value: 7.59
-      units: km
+    distance_km: 7.59
 - country: US
   region: NH
   exchange: '124720'
@@ -4020,9 +3752,7 @@ rate_centers:
   long: "-71.811268"
   closest_city:
     name: Contoocook
-    distance:
-      value: 10.11
-      units: km
+    distance_km: 10.11
 - country: US
   region: NH
   exchange: '124730'
@@ -4034,9 +3764,7 @@ rate_centers:
   long: "-71.891192"
   closest_city:
     name: North Woodstock
-    distance:
-      value: 20.16
-      units: km
+    distance_km: 20.16
 - country: US
   region: NH
   exchange: '124740'
@@ -4048,9 +3776,7 @@ rate_centers:
   long: "-72.095785"
   closest_city:
     name: Blodgett Landing
-    distance:
-      value: 22.72
-      units: km
+    distance_km: 22.72
 - country: US
   region: NH
   exchange: '123531'
@@ -4071,9 +3797,7 @@ rate_centers:
   long: "-71.730387"
   closest_city:
     name: New Boston
-    distance:
-      value: 13.03
-      units: km
+    distance_km: 13.03
 - country: US
   region: NH
   exchange: '301270'
@@ -4184,9 +3908,7 @@ rate_centers:
   long: "-72.518644"
   closest_city:
     name: West Swanzey
-    distance:
-      value: 16.49
-      units: km
+    distance_km: 16.49
 - country: US
   region: NH
   exchange: '301283'
@@ -4225,9 +3947,7 @@ rate_centers:
   long: "-72.31132"
   closest_city:
     name: Lebanon
-    distance:
-      value: 4.9
-      units: km
+    distance_km: 4.9
 - country: US
   region: NH
   exchange: '301276'
@@ -4302,9 +4022,7 @@ rate_centers:
   long: "-71.535403"
   closest_city:
     name: West Stewartstown
-    distance:
-      value: 0.57
-      units: km
+    distance_km: 0.57
 - country: US
   region: NH
   exchange: '301257'
@@ -4343,9 +4061,7 @@ rate_centers:
   long: "-72.442617"
   closest_city:
     name: Keene
-    distance:
-      value: 11.71
-      units: km
+    distance_km: 11.71
 - country: US
   region: NH
   exchange: '301282'
@@ -4366,9 +4082,7 @@ rate_centers:
   long: "-71.614501"
   closest_city:
     name: Groveton
-    distance:
-      value: 27.08
-      units: km
+    distance_km: 27.08
 - country: US
   region: NH
   exchange: '301286'
@@ -4398,9 +4112,7 @@ rate_centers:
   long: "-71.734311"
   closest_city:
     name: New Boston
-    distance:
-      value: 15.32
-      units: km
+    distance_km: 15.32
 - country: US
   region: NH
   exchange: '124820'
@@ -4412,9 +4124,7 @@ rate_centers:
   long: "-72.386258"
   closest_city:
     name: West Swanzey
-    distance:
-      value: 12.02
-      units: km
+    distance_km: 12.02
 - country: US
   region: NH
   exchange: '301290'
@@ -4453,9 +4163,7 @@ rate_centers:
   long: "-71.212518"
   closest_city:
     name: Melvin Village
-    distance:
-      value: 13.78
-      units: km
+    distance_km: 13.78
 - country: US
   region: NH
   exchange: '301294'
@@ -4494,6 +4202,4 @@ rate_centers:
   long: "-72.033271"
   closest_city:
     name: Woodsville
-    distance:
-      value: 0.92
-      units: km
+    distance_km: 0.92

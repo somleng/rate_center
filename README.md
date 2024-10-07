@@ -40,8 +40,7 @@ rate_center.ilec_name # "VERIZON NEW YORK, INC."
 rate_center.lat # "40.739362"
 rate_center.long # "-73.991043"
 rate_center.closest_city.name # "Manhattan"
-rate_center.closest_city.distance.value # 5.33
-rate_center.closest_city.distance.units # km
+rate_center.closest_city.distance_km # 5.33
 ```
 
 ### Working with Cities
@@ -59,22 +58,22 @@ city = RateCenter::City.find_by!(country: "US", region: "NY", name: "New York")
 city.lat # "40.6943"
 city.log # "-73.9249"
 city.nearby_rate_centers.each do |rate_center|
-  puts "Rate Center: #{rate_center.name}, Distance: #{rate_center.distance.value} #{rate_center.distance.units}"
+  puts "Rate Center: #{rate_center.name}, Distance: #{rate_center.distance_km} km"
 end
+# Rate Center: NWYRCYZN01, Distance: 7.5 km
+# Rate Center: NWYRCYZN03, Distance: 7.5 km
+# Rate Center: NWYRCYZN04, Distance: 7.5 km
+# Rate Center: NWYRCYZN05, Distance: 7.5 km
+# Rate Center: NWYRCYZN06, Distance: 7.5 km
+# Rate Center: NWYRCYZN07, Distance: 7.5 km
+# Rate Center: NWYRCYZN08, Distance: 7.5 km
+# Rate Center: NWYRCYZN09, Distance: 7.5 km
+# Rate Center: NWYRCYZN10, Distance: 7.5 km
+# Rate Center: NWYRCYZN11, Distance: 7.5 km
+# Rate Center: NWYRCYZN12, Distance: 7.5 km
+# Rate Center: NWYRCYZN13, Distance: 7.5 km
 # Rate Center: NWYRCYZN14, Distance: 7.5 km
 # Rate Center: NWYRCYZN15, Distance: 7.5 km
-# Rate Center: NWYRCYZN11, Distance: 7.5 km
-# Rate Center: NWYRCYZN10, Distance: 7.5 km
-# Rate Center: NWYRCYZN13, Distance: 7.5 km
-# Rate Center: NWYRCYZN09, Distance: 7.5 km
-# Rate Center: NWYRCYZN08, Distance: 7.5 km
-# Rate Center: NWYRCYZN07, Distance: 7.5 km
-# Rate Center: NWYRCYZN06, Distance: 7.5 km
-# Rate Center: NWYRCYZN05, Distance: 7.5 km
-# Rate Center: NWYRCYZN12, Distance: 7.5 km
-# Rate Center: NWYRCYZN04, Distance: 7.5 km
-# Rate Center: NWYRCYZN03, Distance: 7.5 km
-# Rate Center: NWYRCYZN01, Distance: 7.5 km
 # Rate Center: NASSAUZN02, Distance: 18.96 km
 # Rate Center: NASSAUZN03, Distance: 20.16 km
 ```

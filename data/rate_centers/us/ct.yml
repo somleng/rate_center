@@ -47,13 +47,11 @@ rate_centers:
   long: "-73.089746"
   closest_city:
     name: Derby
-    distance:
-      value: 0.59
-      units: km
+    distance_km: 0.59
 - country: US
   region: CT
-  exchange: '028541'
-  name: ASHFORD
+  exchange: '028524'
+  name: ASHFORD2
   full_name: Ashford
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
@@ -61,8 +59,8 @@ rate_centers:
   long:
 - country: US
   region: CT
-  exchange: '028524'
-  name: ASHFORD2
+  exchange: '028541'
+  name: ASHFORD
   full_name: Ashford
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
@@ -142,9 +140,7 @@ rate_centers:
   long: "-72.747435"
   closest_city:
     name: Kensington
-    distance:
-      value: 1.89
-      units: km
+    distance_km: 1.89
 - country: US
   region: CT
   exchange: '028293'
@@ -228,9 +224,7 @@ rate_centers:
   long: "-72.812492"
   closest_city:
     name: Branford Center
-    distance:
-      value: 0.25
-      units: km
+    distance_km: 0.25
 - country: US
   region: CT
   exchange: '027810'
@@ -242,9 +236,7 @@ rate_centers:
   long: "-73.194953"
   closest_city:
     name: Bridgeport
-    distance:
-      value: 1.55
-      units: km
+    distance_km: 1.55
 - country: US
   region: CT
   exchange: '028311'
@@ -265,9 +257,7 @@ rate_centers:
   long: "-72.943701"
   closest_city:
     name: Bristol
-    distance:
-      value: 1.07
-      units: km
+    distance_km: 1.07
 - country: US
   region: CT
   exchange: '028672'
@@ -315,8 +305,8 @@ rate_centers:
   long:
 - country: US
   region: CT
-  exchange: '028013'
-  name: BURLINGTN2
+  exchange: '027821'
+  name: BURLINGTON
   full_name: Burlington
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
@@ -324,8 +314,8 @@ rate_centers:
   long:
 - country: US
   region: CT
-  exchange: '027821'
-  name: BURLINGTON
+  exchange: '028013'
+  name: BURLINGTN2
   full_name: Burlington
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
@@ -351,9 +341,7 @@ rate_centers:
   long: "-73.652161"
   closest_city:
     name: Pemberwick
-    distance:
-      value: 0.89
-      units: km
+    distance_km: 0.89
 - country: US
   region: CT
   exchange: '028091'
@@ -374,9 +362,7 @@ rate_centers:
   long: "-73.333367"
   closest_city:
     name: Canaan
-    distance:
-      value: 0.91
-      units: km
+    distance_km: 0.91
 - country: US
   region: CT
   exchange: '028651'
@@ -397,9 +383,7 @@ rate_centers:
   long: "-71.972905"
   closest_city:
     name: Plainfield Village
-    distance:
-      value: 4.61
-      units: km
+    distance_km: 4.61
 - country: US
   region: CT
   exchange: '027860'
@@ -411,9 +395,7 @@ rate_centers:
   long: "-72.923075"
   closest_city:
     name: Collinsville
-    distance:
-      value: 1.02
-      units: km
+    distance_km: 1.02
 - country: US
   region: CT
   exchange: '027861'
@@ -461,9 +443,7 @@ rate_centers:
   long: "-72.902398"
   closest_city:
     name: Cheshire Village
-    distance:
-      value: 0.46
-      units: km
+    distance_km: 0.46
 - country: US
   region: CT
   exchange: '027961'
@@ -493,23 +473,12 @@ rate_centers:
   long: "-72.529524"
   closest_city:
     name: Madison Center
-    distance:
-      value: 5.92
-      units: km
+    distance_km: 5.92
 - country: US
   region: CT
   exchange: '027972'
   name: COBALT
   full_name: Cobalt
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
-- country: US
-  region: CT
-  exchange: '027976'
-  name: COLCHESTR2
-  full_name: Colchester
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
   lat:
@@ -525,9 +494,16 @@ rate_centers:
   long: "-72.329488"
   closest_city:
     name: Moodus
-    distance:
-      value: 12.45
-      units: km
+    distance_km: 12.45
+- country: US
+  region: CT
+  exchange: '027976'
+  name: COLCHESTR2
+  full_name: Colchester
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
 - country: US
   region: CT
   exchange: '028682'
@@ -557,9 +533,7 @@ rate_centers:
   long: "-72.313237"
   closest_city:
     name: South Coventry
-    distance:
-      value: 8.82
-      units: km
+    distance_km: 8.82
 - country: US
   region: CT
   exchange: '027910'
@@ -571,9 +545,7 @@ rate_centers:
   long: "-73.328295"
   closest_city:
     name: Cornwall
-    distance:
-      value: 0.39
-      units: km
+    distance_km: 0.39
 - country: US
   region: CT
   exchange: '027911'
@@ -603,9 +575,7 @@ rate_centers:
   long: "-72.314702"
   closest_city:
     name: South Coventry
-    distance:
-      value: 1.72
-      units: km
+    distance_km: 1.72
 - country: US
   region: CT
   exchange: '028341'
@@ -635,9 +605,7 @@ rate_centers:
   long: "-73.454922"
   closest_city:
     name: Danbury
-    distance:
-      value: 1.5
-      units: km
+    distance_km: 1.5
 - country: US
   region: CT
   exchange: '027940'
@@ -649,9 +617,7 @@ rate_centers:
   long: "-71.88481"
   closest_city:
     name: Danielson
-    distance:
-      value: 0.05
-      units: km
+    distance_km: 0.05
 - country: US
   region: CT
   exchange: '027950'
@@ -663,9 +629,7 @@ rate_centers:
   long: "-73.472749"
   closest_city:
     name: Darien Downtown
-    distance:
-      value: 0.33
-      units: km
+    distance_km: 0.33
 - country: US
   region: CT
   exchange: '028531'
@@ -695,9 +659,7 @@ rate_centers:
   long: "-72.434621"
   closest_city:
     name: Deep River Center
-    distance:
-      value: 1.22
-      units: km
+    distance_km: 1.22
 - country: US
   region: CT
   exchange: '027782'
@@ -790,9 +752,7 @@ rate_centers:
   long: "-72.503626"
   closest_city:
     name: Lake Pocotopaug
-    distance:
-      value: 2.58
-      units: km
+    distance_km: 2.58
 - country: US
   region: CT
   exchange: '028084'
@@ -849,9 +809,7 @@ rate_centers:
   long: "-72.595304"
   closest_city:
     name: Madison Center
-    distance:
-      value: 0.43
-      units: km
+    distance_km: 0.43
 - country: US
   region: CT
   exchange: '028673'
@@ -944,9 +902,7 @@ rate_centers:
   long: "-72.593805"
   closest_city:
     name: Thompsonville
-    distance:
-      value: 0.48
-      units: km
+    distance_km: 0.48
 - country: US
   region: CT
   exchange: '027990'
@@ -958,9 +914,7 @@ rate_centers:
   long: "-72.402737"
   closest_city:
     name: Essex Village
-    distance:
-      value: 0.97
-      units: km
+    distance_km: 0.97
 - country: US
   region: CT
   exchange: '028445'
@@ -990,9 +944,7 @@ rate_centers:
   long: "-73.252893"
   closest_city:
     name: Mill Plain
-    distance:
-      value: 2.38
-      units: km
+    distance_km: 2.38
 - country: US
   region: CT
   exchange: '027811'
@@ -1022,9 +974,7 @@ rate_centers:
   long: "-72.8257"
   closest_city:
     name: New Britain
-    distance:
-      value: 6.36
-      units: km
+    distance_km: 6.36
 - country: US
   region: CT
   exchange: '028384'
@@ -1099,9 +1049,7 @@ rate_centers:
   long: "-73.43497"
   closest_city:
     name: Georgetown
-    distance:
-      value: 0.94
-      units: km
+    distance_km: 0.94
 - country: US
   region: CT
   exchange: '028643'
@@ -1140,9 +1088,7 @@ rate_centers:
   long: "-72.608721"
   closest_city:
     name: Glastonbury Center
-    distance:
-      value: 1.11
-      units: km
+    distance_km: 1.11
 - country: US
   region: CT
   exchange: '028532'
@@ -1199,13 +1145,16 @@ rate_centers:
   long:
 - country: US
   region: CT
-  exchange: '027831'
-  name: GREENWICH2
+  exchange: '028050'
+  name: GREENWICH
   full_name: Greenwich
   lata: '132'
   ilec_name: VERIZON NEW YORK, INC.
-  lat:
-  long:
+  lat: '41.024191'
+  long: "-73.62777"
+  closest_city:
+    name: Indian Field
+    distance_km: 1.75
 - country: US
   region: CT
   exchange: '028391'
@@ -1217,18 +1166,13 @@ rate_centers:
   long:
 - country: US
   region: CT
-  exchange: '028050'
-  name: GREENWICH
+  exchange: '027831'
+  name: GREENWICH2
   full_name: Greenwich
   lata: '132'
   ilec_name: VERIZON NEW YORK, INC.
-  lat: '41.024191'
-  long: "-73.62777"
-  closest_city:
-    name: Indian Field
-    distance:
-      value: 1.75
-      units: km
+  lat:
+  long:
 - country: US
   region: CT
   exchange: '028112'
@@ -1276,9 +1220,7 @@ rate_centers:
   long: "-72.683022"
   closest_city:
     name: Guilford Center
-    distance:
-      value: 0.67
-      units: km
+    distance_km: 0.67
 - country: US
   region: CT
   exchange: '028070'
@@ -1290,9 +1232,7 @@ rate_centers:
   long: "-72.561035"
   closest_city:
     name: Higganum
-    distance:
-      value: 0.76
-      units: km
+    distance_km: 0.76
 - country: US
   region: CT
   exchange: '027973'
@@ -1358,9 +1298,7 @@ rate_centers:
   long: "-72.679511"
   closest_city:
     name: Hartford
-    distance:
-      value: 0.36
-      units: km
+    distance_km: 0.36
 - country: US
   region: CT
   exchange: '028090'
@@ -1372,9 +1310,7 @@ rate_centers:
   long: "-73.07406"
   closest_city:
     name: Northwest Harwinton
-    distance:
-      value: 0.93
-      units: km
+    distance_km: 0.93
 - country: US
   region: CT
   exchange: '028332'
@@ -1431,9 +1367,7 @@ rate_centers:
   long: "-73.150111"
   closest_city:
     name: Shelton
-    distance:
-      value: 1.51
-      units: km
+    distance_km: 1.51
 - country: US
   region: CT
   exchange: '027992'
@@ -1454,9 +1388,7 @@ rate_centers:
   long: "-71.984107"
   closest_city:
     name: Jewett City
-    distance:
-      value: 0.86
-      units: km
+    distance_km: 0.86
 - country: US
   region: CT
   exchange: '028271'
@@ -1477,9 +1409,7 @@ rate_centers:
   long: "-73.477987"
   closest_city:
     name: Gaylordsville
-    distance:
-      value: 9.22
-      units: km
+    distance_km: 9.22
 - country: US
   region: CT
   exchange: '027947'
@@ -1500,9 +1430,7 @@ rate_centers:
   long: "-72.56601"
   closest_city:
     name: Chester Center
-    distance:
-      value: 9.82
-      units: km
+    distance_km: 9.82
 - country: US
   region: CT
   exchange: '028172'
@@ -1523,9 +1451,16 @@ rate_centers:
   long: "-73.441816"
   closest_city:
     name: Lakeville
-    distance:
-      value: 1.04
-      units: km
+    distance_km: 1.04
+- country: US
+  region: CT
+  exchange: '02864A'
+  name: LEBANON2
+  full_name: Lebanon
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
 - country: US
   region: CT
   exchange: '028150'
@@ -1537,18 +1472,7 @@ rate_centers:
   long: "-72.217994"
   closest_city:
     name: South Windham
-    distance:
-      value: 5.33
-      units: km
-- country: US
-  region: CT
-  exchange: '02864A'
-  name: LEBANON2
-  full_name: Lebanon
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
+    distance_km: 5.33
 - country: US
   region: CT
   exchange: '02838J'
@@ -1569,9 +1493,7 @@ rate_centers:
   long: "-72.092287"
   closest_city:
     name: Gales Ferry
-    distance:
-      value: 0.74
-      units: km
+    distance_km: 0.74
 - country: US
   region: CT
   exchange: '028141'
@@ -1601,9 +1523,7 @@ rate_centers:
   long: "-73.192574"
   closest_city:
     name: Bantam
-    distance:
-      value: 4.71
-      units: km
+    distance_km: 4.71
 - country: US
   region: CT
   exchange: '028563'
@@ -1642,9 +1562,7 @@ rate_centers:
   long: "-72.331807"
   closest_city:
     name: Old Saybrook Center
-    distance:
-      value: 4.15
-      units: km
+    distance_km: 4.15
 - country: US
   region: CT
   exchange: '028190'
@@ -1656,9 +1574,7 @@ rate_centers:
   long: "-72.595304"
   closest_city:
     name: Madison Center
-    distance:
-      value: 0.43
-      units: km
+    distance_km: 0.43
 - country: US
   region: CT
   exchange: '028200'
@@ -1670,9 +1586,7 @@ rate_centers:
   long: "-72.52314"
   closest_city:
     name: Glastonbury Center
-    distance:
-      value: 10.4
-      units: km
+    distance_km: 10.4
 - country: US
   region: CT
   exchange: '028543'
@@ -1765,9 +1679,7 @@ rate_centers:
   long: "-72.807323"
   closest_city:
     name: Meriden
-    distance:
-      value: 1.07
-      units: km
+    distance_km: 1.07
 - country: US
   region: CT
   exchange: '028545'
@@ -1815,9 +1727,7 @@ rate_centers:
   long: "-72.649854"
   closest_city:
     name: Middletown
-    distance:
-      value: 1.44
-      units: km
+    distance_km: 1.44
 - country: US
   region: CT
   exchange: '028230'
@@ -1829,9 +1739,7 @@ rate_centers:
   long: "-73.058905"
   closest_city:
     name: 'Milford city '
-    distance:
-      value: 0.65
-      units: km
+    distance_km: 0.65
 - country: US
   region: CT
   exchange: '028512'
@@ -1879,9 +1787,7 @@ rate_centers:
   long: "-72.447265"
   closest_city:
     name: Moodus
-    distance:
-      value: 1.17
-      units: km
+    distance_km: 1.17
 - country: US
   region: CT
   exchange: '028422'
@@ -1920,9 +1826,7 @@ rate_centers:
   long: "-71.967867"
   closest_city:
     name: Mystic
-    distance:
-      value: 1.18
-      units: km
+    distance_km: 1.18
 - country: US
   region: CT
   exchange: '028260'
@@ -1934,9 +1838,7 @@ rate_centers:
   long: "-73.053215"
   closest_city:
     name: Naugatuck
-    distance:
-      value: 0.46
-      units: km
+    distance_km: 0.46
 - country: US
   region: CT
   exchange: '028270'
@@ -1948,9 +1850,7 @@ rate_centers:
   long: "-72.785486"
   closest_city:
     name: New Britain
-    distance:
-      value: 0.97
-      units: km
+    distance_km: 0.97
 - country: US
   region: CT
   exchange: '028280'
@@ -1962,9 +1862,7 @@ rate_centers:
   long: "-73.493748"
   closest_city:
     name: New Canaan
-    distance:
-      value: 0.74
-      units: km
+    distance_km: 0.74
 - country: US
   region: CT
   exchange: '027931'
@@ -1976,8 +1874,8 @@ rate_centers:
   long:
 - country: US
   region: CT
-  exchange: '028572'
-  name: NEWHARTFD3
+  exchange: '027864'
+  name: NEWHARTFD2
   full_name: New Hartford
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
@@ -1985,8 +1883,8 @@ rate_centers:
   long:
 - country: US
   region: CT
-  exchange: '027864'
-  name: NEWHARTFD2
+  exchange: '028572'
+  name: NEWHARTFD3
   full_name: New Hartford
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
@@ -2012,9 +1910,7 @@ rate_centers:
   long: "-72.925389"
   closest_city:
     name: New Haven
-    distance:
-      value: 0.77
-      units: km
+    distance_km: 0.77
 - country: US
   region: CT
   exchange: '028300'
@@ -2026,9 +1922,7 @@ rate_centers:
   long: "-72.098526"
   closest_city:
     name: New London
-    distance:
-      value: 0.53
-      units: km
+    distance_km: 0.53
 - country: US
   region: CT
   exchange: '028310'
@@ -2040,9 +1934,7 @@ rate_centers:
   long: "-73.412895"
   closest_city:
     name: Bridgewater
-    distance:
-      value: 6.26
-      units: km
+    distance_km: 6.26
 - country: US
   region: CT
   exchange: '028602'
@@ -2063,9 +1955,7 @@ rate_centers:
   long: "-72.723509"
   closest_city:
     name: New Britain
-    distance:
-      value: 5.41
-      units: km
+    distance_km: 5.41
 - country: US
   region: CT
   exchange: '028330'
@@ -2077,9 +1967,7 @@ rate_centers:
   long: "-73.305519"
   closest_city:
     name: Hawleyville
-    distance:
-      value: 4.13
-      units: km
+    distance_km: 4.13
 - country: US
   region: CT
   exchange: '028340'
@@ -2091,9 +1979,7 @@ rate_centers:
   long: "-72.202221"
   closest_city:
     name: Niantic
-    distance:
-      value: 0.7
-      units: km
+    distance_km: 0.7
 - country: US
   region: CT
   exchange: '028252'
@@ -2114,9 +2000,7 @@ rate_centers:
   long: "-73.204505"
   closest_city:
     name: Canaan
-    distance:
-      value: 11.5
-      units: km
+    distance_km: 11.5
 - country: US
   region: CT
   exchange: '426009'
@@ -2227,9 +2111,7 @@ rate_centers:
   long: "-71.952299"
   closest_city:
     name: Quinebaug
-    distance:
-      value: 1.8
-      units: km
+    distance_km: 1.8
 - country: US
   region: CT
   exchange: '027975'
@@ -2295,9 +2177,7 @@ rate_centers:
   long: "-73.420158"
   closest_city:
     name: Norwalk
-    distance:
-      value: 1.56
-      units: km
+    distance_km: 1.56
 - country: US
   region: CT
   exchange: '028380'
@@ -2309,9 +2189,7 @@ rate_centers:
   long: "-72.077561"
   closest_city:
     name: Norwich
-    distance:
-      value: 2.64
-      units: km
+    distance_km: 2.64
 - country: US
   region: CT
   exchange: '028388'
@@ -2359,9 +2237,7 @@ rate_centers:
   long: "-73.568162"
   closest_city:
     name: Old Greenwich
-    distance:
-      value: 0.55
-      units: km
+    distance_km: 0.55
 - country: US
   region: CT
   exchange: '028182'
@@ -2391,9 +2267,7 @@ rate_centers:
   long: "-72.375363"
   closest_city:
     name: Old Saybrook Center
-    distance:
-      value: 0.61
-      units: km
+    distance_km: 0.61
 - country: US
   region: CT
   exchange: '028423'
@@ -2441,9 +2315,7 @@ rate_centers:
   long: "-71.83728"
   closest_city:
     name: Pawcatuck
-    distance:
-      value: 1.03
-      units: km
+    distance_km: 1.03
 - country: US
   region: CT
   exchange: '027823'
@@ -2482,9 +2354,7 @@ rate_centers:
   long: "-71.878963"
   closest_city:
     name: Moosup
-    distance:
-      value: 0.64
-      units: km
+    distance_km: 0.64
 - country: US
   region: CT
   exchange: '028430'
@@ -2496,9 +2366,7 @@ rate_centers:
   long: "-72.868896"
   closest_city:
     name: Bristol
-    distance:
-      value: 6.11
-      units: km
+    distance_km: 6.11
 - country: US
   region: CT
   exchange: '028513'
@@ -2528,8 +2396,8 @@ rate_centers:
   long:
 - country: US
   region: CT
-  exchange: '028562'
-  name: PLYMOUTH
+  exchange: '027825'
+  name: PLYMOUTH2
   full_name: Plymouth
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
@@ -2537,8 +2405,8 @@ rate_centers:
   long:
 - country: US
   region: CT
-  exchange: '027825'
-  name: PLYMOUTH2
+  exchange: '028562'
+  name: PLYMOUTH
   full_name: Plymouth
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
@@ -2591,9 +2459,7 @@ rate_centers:
   long: "-72.648853"
   closest_city:
     name: Blue Hills
-    distance:
-      value: 5.46
-      units: km
+    distance_km: 5.46
 - country: US
   region: CT
   exchange: '028221'
@@ -2632,9 +2498,7 @@ rate_centers:
   long: "-71.90987"
   closest_city:
     name: South Woodstock
-    distance:
-      value: 4.13
-      units: km
+    distance_km: 4.13
 - country: US
   region: CT
   exchange: '028304'
@@ -2664,15 +2528,6 @@ rate_centers:
   long:
 - country: US
   region: CT
-  exchange: '028023'
-  name: REDDING2
-  full_name: Redding
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
-- country: US
-  region: CT
   exchange: '028450'
   name: REDDING
   full_name: Redding
@@ -2682,9 +2537,16 @@ rate_centers:
   long: "-73.353583"
   closest_city:
     name: Redding Center
-    distance:
-      value: 2.62
-      units: km
+    distance_km: 2.62
+- country: US
+  region: CT
+  exchange: '028023'
+  name: REDDING2
+  full_name: Redding
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
 - country: US
   region: CT
   exchange: '028451'
@@ -2714,15 +2576,6 @@ rate_centers:
   long:
 - country: US
   region: CT
-  exchange: '027935'
-  name: RIDGEFLD3
-  full_name: Ridgefield
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
-- country: US
-  region: CT
   exchange: '028460'
   name: RIDGEFIELD
   full_name: Ridgefield
@@ -2732,9 +2585,16 @@ rate_centers:
   long: "-73.50047"
   closest_city:
     name: West Mountain
-    distance:
-      value: 3.6
-      units: km
+    distance_km: 3.6
+- country: US
+  region: CT
+  exchange: '027935'
+  name: RIDGEFLD3
+  full_name: Ridgefield
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
 - country: US
   region: CT
   exchange: '028533'
@@ -2782,9 +2642,7 @@ rate_centers:
   long: "-72.450083"
   closest_city:
     name: Rockville
-    distance:
-      value: 0.11
-      units: km
+    distance_km: 0.11
 - country: US
   region: CT
   exchange: '028089'
@@ -2886,9 +2744,7 @@ rate_centers:
   long: "-73.076045"
   closest_city:
     name: Ansonia
-    distance:
-      value: 5.87
-      units: km
+    distance_km: 5.87
 - country: US
   region: CT
   exchange: '027783'
@@ -2918,9 +2774,7 @@ rate_centers:
   long: "-73.47909"
   closest_city:
     name: Lakeville
-    distance:
-      value: 9.26
-      units: km
+    distance_km: 9.26
 - country: US
   region: CT
   exchange: '028101'
@@ -2968,9 +2822,7 @@ rate_centers:
   long: "-72.798236"
   closest_city:
     name: Simsbury Center
-    distance:
-      value: 1.17
-      units: km
+    distance_km: 1.17
 - country: US
   region: CT
   exchange: '027982'
@@ -3063,7 +2915,7 @@ rate_centers:
   long:
 - country: US
   region: CT
-  exchange: '02808D'
+  exchange: '028201'
   name: SO WINDSOR
   full_name: South Windsor
   lata: '920'
@@ -3072,7 +2924,7 @@ rate_centers:
   long:
 - country: US
   region: CT
-  exchange: '028201'
+  exchange: '02808D'
   name: SO WINDSOR
   full_name: South Windsor
   lata: '920'
@@ -3099,6 +2951,15 @@ rate_centers:
   long:
 - country: US
   region: CT
+  exchange: '028431'
+  name: SOUTHNGTN2
+  full_name: Southington
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
+- country: US
+  region: CT
   exchange: '028510'
   name: SOUTHINGTN
   full_name: Southington
@@ -3108,18 +2969,7 @@ rate_centers:
   long: "-72.879219"
   closest_city:
     name: Plantsville
-    distance:
-      value: 2.16
-      units: km
-- country: US
-  region: CT
-  exchange: '028431'
-  name: SOUTHNGTN2
-  full_name: Southington
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
+    distance_km: 2.16
 - country: US
   region: CT
   exchange: '028003'
@@ -3167,9 +3017,7 @@ rate_centers:
   long: "-72.310328"
   closest_city:
     name: Stafford Springs
-    distance:
-      value: 0.76
-      units: km
+    distance_km: 0.76
 - country: US
   region: CT
   exchange: '028522'
@@ -3190,9 +3038,7 @@ rate_centers:
   long: "-73.537515"
   closest_city:
     name: Noroton
-    distance:
-      value: 3.87
-      units: km
+    distance_km: 3.87
 - country: US
   region: CT
   exchange: '028584'
@@ -3222,8 +3068,8 @@ rate_centers:
   long:
 - country: US
   region: CT
-  exchange: '028411'
-  name: STONINGTON
+  exchange: '028256'
+  name: STONINGTN3
   full_name: Stonington
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
@@ -3231,8 +3077,8 @@ rate_centers:
   long:
 - country: US
   region: CT
-  exchange: '028256'
-  name: STONINGTN3
+  exchange: '028411'
+  name: STONINGTON
   full_name: Stonington
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
@@ -3258,9 +3104,7 @@ rate_centers:
   long: "-72.247837"
   closest_city:
     name: Storrs
-    distance:
-      value: 0.37
-      units: km
+    distance_km: 0.37
 - country: US
   region: CT
   exchange: '028550'
@@ -3272,9 +3116,7 @@ rate_centers:
   long: "-73.14218"
   closest_city:
     name: Stratford Downtown
-    distance:
-      value: 1.22
-      units: km
+    distance_km: 1.22
 - country: US
   region: CT
   exchange: '028671'
@@ -3349,13 +3191,11 @@ rate_centers:
   long: "-73.075021"
   closest_city:
     name: Terryville
-    distance:
-      value: 5.74
-      units: km
+    distance_km: 5.74
 - country: US
   region: CT
-  exchange: '02844E'
-  name: THOMPSON
+  exchange: '028361'
+  name: THOMPSON2
   full_name: Thompson
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
@@ -3363,8 +3203,8 @@ rate_centers:
   long:
 - country: US
   region: CT
-  exchange: '028361'
-  name: THOMPSON2
+  exchange: '02844E'
+  name: THOMPSON
   full_name: Thompson
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
@@ -3399,9 +3239,7 @@ rate_centers:
   long: "-73.123705"
   closest_city:
     name: Torrington
-    distance:
-      value: 3.49
-      units: km
+    distance_km: 3.49
 - country: US
   region: CT
   exchange: '028212'
@@ -3431,9 +3269,7 @@ rate_centers:
   long: "-73.222695"
   closest_city:
     name: Long Hill
-    distance:
-      value: 0.64
-      units: km
+    distance_km: 0.64
 - country: US
   region: CT
   exchange: '028075'
@@ -3454,8 +3290,8 @@ rate_centers:
   long:
 - country: US
   region: CT
-  exchange: '028523'
-  name: UNION
+  exchange: '02844G'
+  name: UNION2
   full_name: Union
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
@@ -3463,8 +3299,8 @@ rate_centers:
   long:
 - country: US
   region: CT
-  exchange: '02844G'
-  name: UNION2
+  exchange: '028523'
+  name: UNION
   full_name: Union
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
@@ -3526,9 +3362,7 @@ rate_centers:
   long: "-72.815518"
   closest_city:
     name: Wallingford Center
-    distance:
-      value: 0.53
-      units: km
+    distance_km: 0.53
 - country: US
   region: CT
   exchange: '028204'
@@ -3576,9 +3410,7 @@ rate_centers:
   long: "-73.323505"
   closest_city:
     name: New Preston
-    distance:
-      value: 5.0
-      units: km
+    distance_km: 5.0
 - country: US
   region: CT
   exchange: '028604'
@@ -3599,9 +3431,7 @@ rate_centers:
   long: "-73.045803"
   closest_city:
     name: Waterbury
-    distance:
-      value: 1.06
-      units: km
+    distance_km: 1.06
 - country: US
   region: CT
   exchange: '028306'
@@ -3622,9 +3452,7 @@ rate_centers:
   long: "-73.109834"
   closest_city:
     name: Oakville
-    distance:
-      value: 1.71
-      units: km
+    distance_km: 1.71
 - country: US
   region: CT
   exchange: '028613'
@@ -3816,9 +3644,7 @@ rate_centers:
   long: "-73.357535"
   closest_city:
     name: Westport Village
-    distance:
-      value: 0.5
-      units: km
+    distance_km: 0.5
 - country: US
   region: CT
   exchange: '028292'
@@ -3857,9 +3683,7 @@ rate_centers:
   long: "-72.220379"
   closest_city:
     name: Willimantic
-    distance:
-      value: 0.78
-      units: km
+    distance_km: 0.78
 - country: US
   region: CT
   exchange: '028549'
@@ -3889,6 +3713,15 @@ rate_centers:
   long:
 - country: US
   region: CT
+  exchange: '028024'
+  name: WILTON2
+  full_name: Wilton
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
+- country: US
+  region: CT
   exchange: '028650'
   name: WILTON
   full_name: Wilton
@@ -3898,18 +3731,7 @@ rate_centers:
   long: "-73.432241"
   closest_city:
     name: Wilton Center
-    distance:
-      value: 0.55
-      units: km
-- country: US
-  region: CT
-  exchange: '028024'
-  name: WILTON2
-  full_name: Wilton
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
+    distance_km: 0.55
 - country: US
   region: CT
   exchange: '028689'
@@ -3939,6 +3761,15 @@ rate_centers:
   long:
 - country: US
   region: CT
+  exchange: '02808C'
+  name: WINDSOR2
+  full_name: Windsor
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
+- country: US
+  region: CT
   exchange: '028660'
   name: WINDSOR
   full_name: Windsor
@@ -3948,18 +3779,7 @@ rate_centers:
   long: "-72.648853"
   closest_city:
     name: Blue Hills
-    distance:
-      value: 5.46
-      units: km
-- country: US
-  region: CT
-  exchange: '02808C'
-  name: WINDSOR2
-  full_name: Windsor
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
+    distance_km: 5.46
 - country: US
   region: CT
   exchange: '028670'
@@ -3971,9 +3791,7 @@ rate_centers:
   long: "-72.631581"
   closest_city:
     name: Southwood Acres
-    distance:
-      value: 5.77
-      units: km
+    distance_km: 5.77
 - country: US
   region: CT
   exchange: '028677'
@@ -3994,9 +3812,7 @@ rate_centers:
   long: "-73.069283"
   closest_city:
     name: Winsted
-    distance:
-      value: 0.46
-      units: km
+    distance_km: 0.46
 - country: US
   region: CT
   exchange: '028690'
@@ -4008,9 +3824,7 @@ rate_centers:
   long: "-72.972757"
   closest_city:
     name: Waterbury
-    distance:
-      value: 6.05
-      units: km
+    distance_km: 6.05
 - country: US
   region: CT
   exchange: '028298'
@@ -4031,9 +3845,7 @@ rate_centers:
   long: "-73.206401"
   closest_city:
     name: Woodbury Center
-    distance:
-      value: 0.29
-      units: km
+    distance_km: 0.29
 - country: US
   region: CT
   exchange: '028232'
@@ -4072,9 +3884,7 @@ rate_centers:
   long: "-72.815518"
   closest_city:
     name: Wallingford Center
-    distance:
-      value: 0.53
-      units: km
+    distance_km: 0.53
 - country: US
   region: CT
   exchange: '02838I'

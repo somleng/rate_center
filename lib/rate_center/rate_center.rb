@@ -1,6 +1,5 @@
 require "ostruct"
 require_relative "collection"
-require_relative "vector"
 require_relative "distance"
 
 module RateCenter
@@ -20,10 +19,10 @@ module RateCenter
           closest_city = data["closest_city"]
           next rate_center if closest_city.nil?
 
-          distance = closest_city.fetch("distance")
-          rate_center.closest_city = Vector.new(
+          distance_km = closest_city.fetch("distance_km")
+          rate_center.closest_city = Distance.new(
             name: closest_city.fetch("name"),
-            distance: Distance.new(value: distance.fetch("value"), units: distance.fetch("units"))
+            distance_km:
           )
 
           rate_center

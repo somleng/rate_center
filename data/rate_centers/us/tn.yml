@@ -20,23 +20,19 @@ rate_centers:
   long: "-87.048934"
   closest_city:
     name: Adams
-    distance:
-      value: 1.84
-      units: km
+    distance_km: 1.84
 - country: US
   region: TN
   exchange: '183680'
   name: ADAMSVILLE
   full_name: Adamsville
   lata: '468'
-  ilec_name: CENTURYTEL OF ADAMSVILLE DBA CENTURYLINK-ADAMSVILL
+  ilec_name: BRIGHTSPEED OF WESTERN TENNESSEE, LLC
   lat: '35.234612'
   long: "-88.392441"
   closest_city:
     name: Adamsville
-    distance:
-      value: 2.49
-      units: km
+    distance_km: 2.49
 - country: US
   region: TN
   exchange: '326558'
@@ -66,9 +62,7 @@ rate_centers:
   long: "-89.119163"
   closest_city:
     name: Alamo
-    distance:
-      value: 0.21
-      units: km
+    distance_km: 0.21
 - country: US
   region: TN
   exchange: '326991'
@@ -89,9 +83,7 @@ rate_centers:
   long: "-86.030912"
   closest_city:
     name: Alexandria
-    distance:
-      value: 0.79
-      units: km
+    distance_km: 0.79
 - country: US
   region: TN
   exchange: '326559'
@@ -112,9 +104,7 @@ rate_centers:
   long: "-86.030912"
   closest_city:
     name: Alexandria
-    distance:
-      value: 0.79
-      units: km
+    distance_km: 0.79
 - country: US
   region: TN
   exchange: '184301'
@@ -220,14 +210,12 @@ rate_centers:
   name: APISON
   full_name: Apison
   lata: '472'
-  ilec_name: CENTURYTEL OOLTEWAH-COLLEGEDALE DBA CENTURYLINK
+  ilec_name: BRIGHTSPEED OF SOUTHERN TENNESSEE, LC
   lat: '35.025815'
   long: "-85.027114"
   closest_city:
     name: Apison
-    distance:
-      value: 2.08
-      units: km
+    distance_km: 2.08
 - country: US
   region: TN
   exchange: '183710'
@@ -239,9 +227,7 @@ rate_centers:
   long: "-86.846462"
   closest_city:
     name: Ardmore
-    distance:
-      value: 1.42
-      units: km
+    distance_km: 1.42
 - country: US
   region: TN
   exchange: '183720'
@@ -253,9 +239,7 @@ rate_centers:
   long: "-89.658099"
   closest_city:
     name: Arlington
-    distance:
-      value: 3.65
-      units: km
+    distance_km: 3.65
 - country: US
   region: TN
   exchange: '326994'
@@ -321,9 +305,7 @@ rate_centers:
   long: "-87.063925"
   closest_city:
     name: Ashland City
-    distance:
-      value: 2.62
-      units: km
+    distance_km: 2.62
 - country: US
   region: TN
   exchange: '326344'
@@ -353,9 +335,7 @@ rate_centers:
   long: "-84.60036"
   closest_city:
     name: Athens
-    distance:
-      value: 0.72
-      units: km
+    distance_km: 0.72
 - country: US
   region: TN
   exchange: '326345'
@@ -376,9 +356,7 @@ rate_centers:
   long: "-88.675392"
   closest_city:
     name: Atwood
-    distance:
-      value: 0.63
-      units: km
+    distance_km: 0.63
 - country: US
   region: TN
   exchange: '186452'
@@ -390,9 +368,7 @@ rate_centers:
   long: "-86.100229"
   closest_city:
     name: Auburntown
-    distance:
-      value: 0.3
-      units: km
+    distance_km: 0.3
 - country: US
   region: TN
   exchange: '326575'
@@ -422,9 +398,7 @@ rate_centers:
   long: "-82.837139"
   closest_city:
     name: Baileyton
-    distance:
-      value: 0.71
-      units: km
+    distance_km: 0.71
 - country: US
   region: TN
   exchange: '326576'
@@ -454,9 +428,7 @@ rate_centers:
   long: "-84.209388"
   closest_city:
     name: Kahite
-    distance:
-      value: 11.81
-      units: km
+    distance_km: 11.81
 - country: US
   region: TN
   exchange: '326997'
@@ -513,9 +485,7 @@ rate_centers:
   long: "-85.642039"
   closest_city:
     name: Baxter
-    distance:
-      value: 0.72
-      units: km
+    distance_km: 0.72
 - country: US
   region: TN
   exchange: '183790'
@@ -527,9 +497,7 @@ rate_centers:
   long: "-83.27486"
   closest_city:
     name: Bean Station
-    distance:
-      value: 1.07
-      units: km
+    distance_km: 1.07
 - country: US
   region: TN
   exchange: '326350'
@@ -550,9 +518,7 @@ rate_centers:
   long: "-86.240648"
   closest_city:
     name: Lakewood Park
-    distance:
-      value: 9.83
-      units: km
+    distance_km: 9.83
 - country: US
   region: TN
   exchange: '326579'
@@ -582,9 +548,7 @@ rate_centers:
   long: "-85.658635"
   closest_city:
     name: Beersheba Springs
-    distance:
-      value: 1.38
-      units: km
+    distance_km: 1.38
 - country: US
   region: TN
   exchange: '326605'
@@ -605,9 +569,7 @@ rate_centers:
   long: "-86.70915"
   closest_city:
     name: Lewisburg
-    distance:
-      value: 8.17
-      units: km
+    distance_km: 8.17
 - country: US
   region: TN
   exchange: '326583'
@@ -637,9 +599,7 @@ rate_centers:
   long: "-89.091768"
   closest_city:
     name: Bells
-    distance:
-      value: 0.84
-      units: km
+    distance_km: 0.84
 - country: US
   region: TN
   exchange: '326585'
@@ -678,9 +638,7 @@ rate_centers:
   long: "-83.193771"
   closest_city:
     name: Newport
-    distance:
-      value: 0.72
-      units: km
+    distance_km: 0.72
 - country: US
   region: TN
   exchange: '183850'
@@ -692,9 +650,7 @@ rate_centers:
   long: "-84.655165"
   closest_city:
     name: Benton
-    distance:
-      value: 0.33
-      units: km
+    distance_km: 0.33
 - country: US
   region: TN
   exchange: '326587'
@@ -724,9 +680,7 @@ rate_centers:
   long: "-88.607985"
   closest_city:
     name: Bethel Springs
-    distance:
-      value: 0.51
-      units: km
+    distance_km: 0.51
 - country: US
   region: TN
   exchange: '326589'
@@ -747,9 +701,7 @@ rate_centers:
   long: "-86.318048"
   closest_city:
     name: Bethpage
-    distance:
-      value: 0.86
-      units: km
+    distance_km: 0.86
 - country: US
   region: TN
   exchange: '326591'
@@ -770,9 +722,7 @@ rate_centers:
   long: "-88.080793"
   closest_city:
     name: Big Sandy
-    distance:
-      value: 1.04
-      units: km
+    distance_km: 1.04
 - country: US
   region: TN
   exchange: '326592'
@@ -811,9 +761,7 @@ rate_centers:
   long: "-86.757314"
   closest_city:
     name: Blanche
-    distance:
-      value: 0.43
-      units: km
+    distance_km: 0.43
 - country: US
   region: TN
   exchange: '362245'
@@ -843,9 +791,7 @@ rate_centers:
   long: "-82.323232"
   closest_city:
     name: Blountville
-    distance:
-      value: 0.53
-      units: km
+    distance_km: 0.53
 - country: US
   region: TN
   exchange: '183910'
@@ -857,9 +803,7 @@ rate_centers:
   long: "-82.25984"
   closest_city:
     name: Bluff City
-    distance:
-      value: 2.26
-      units: km
+    distance_km: 2.26
 - country: US
   region: TN
   exchange: '326595'
@@ -889,9 +833,7 @@ rate_centers:
   long: "-88.981203"
   closest_city:
     name: Bolivar
-    distance:
-      value: 2.84
-      units: km
+    distance_km: 2.84
 - country: US
   region: TN
   exchange: '326356'
@@ -921,9 +863,7 @@ rate_centers:
   long: "-85.3054"
   closest_city:
     name: Bon Air
-    distance:
-      value: 5.57
-      units: km
+    distance_km: 5.57
 - country: US
   region: TN
   exchange: '326599'
@@ -989,9 +929,7 @@ rate_centers:
   long: "-88.811091"
   closest_city:
     name: Bradford
-    distance:
-      value: 0.48
-      units: km
+    distance_km: 0.48
 - country: US
   region: TN
   exchange: '326602'
@@ -1012,9 +950,7 @@ rate_centers:
   long: "-89.05527"
   closest_city:
     name: Trenton
-    distance:
-      value: 11.49
-      units: km
+    distance_km: 11.49
 - country: US
   region: TN
   exchange: '185821'
@@ -1062,9 +998,7 @@ rate_centers:
   long: "-82.184246"
   closest_city:
     name: Bristol
-    distance:
-      value: 4.84
-      units: km
+    distance_km: 4.84
 - country: US
   region: TN
   exchange: '183970'
@@ -1076,9 +1010,7 @@ rate_centers:
   long: "-89.25601"
   closest_city:
     name: Brownsville
-    distance:
-      value: 1.37
-      units: km
+    distance_km: 1.37
 - country: US
   region: TN
   exchange: '183980'
@@ -1090,9 +1022,7 @@ rate_centers:
   long: "-88.239084"
   closest_city:
     name: Bruceton
-    distance:
-      value: 1.12
-      units: km
+    distance_km: 1.12
 - country: US
   region: TN
   exchange: '326606'
@@ -1149,9 +1079,7 @@ rate_centers:
   long: "-83.083055"
   closest_city:
     name: Bulls Gap
-    distance:
-      value: 0.71
-      units: km
+    distance_km: 0.71
 - country: US
   region: TN
   exchange: '326609'
@@ -1190,9 +1118,7 @@ rate_centers:
   long: "-82.031947"
   closest_city:
     name: Butler
-    distance:
-      value: 0.56
-      units: km
+    distance_km: 0.56
 - country: US
   region: TN
   exchange: '327007'
@@ -1222,9 +1148,7 @@ rate_centers:
   long: "-85.13551"
   closest_city:
     name: Byrdstown
-    distance:
-      value: 0.91
-      units: km
+    distance_km: 0.91
 - country: US
   region: TN
   exchange: '326367'
@@ -1263,9 +1187,7 @@ rate_centers:
   long: "-88.102051"
   closest_city:
     name: Camden
-    distance:
-      value: 0.97
-      units: km
+    distance_km: 0.97
 - country: US
   region: TN
   exchange: '326612'
@@ -1304,9 +1226,7 @@ rate_centers:
   long: "-85.949412"
   closest_city:
     name: Carthage
-    distance:
-      value: 0.78
-      units: km
+    distance_km: 0.78
 - country: US
   region: TN
   exchange: '327010'
@@ -1345,9 +1265,7 @@ rate_centers:
   long: "-88.56052"
   closest_city:
     name: Lavinia
-    distance:
-      value: 8.33
-      units: km
+    distance_km: 8.33
 - country: US
   region: TN
   exchange: '326617'
@@ -1368,9 +1286,7 @@ rate_centers:
   long: "-85.506535"
   closest_city:
     name: Celina
-    distance:
-      value: 0.27
-      units: km
+    distance_km: 0.27
 - country: US
   region: TN
   exchange: '184060'
@@ -1382,9 +1298,7 @@ rate_centers:
   long: "-85.915875"
   closest_city:
     name: Centertown
-    distance:
-      value: 0.37
-      units: km
+    distance_km: 0.37
 - country: US
   region: TN
   exchange: '184070'
@@ -1396,9 +1310,7 @@ rate_centers:
   long: "-87.466211"
   closest_city:
     name: Centerville
-    distance:
-      value: 3.29
-      units: km
+    distance_km: 3.29
 - country: US
   region: TN
   exchange: '326370'
@@ -1419,9 +1331,7 @@ rate_centers:
   long: "-86.701774"
   closest_city:
     name: Chapel Hill
-    distance:
-      value: 0.58
-      units: km
+    distance_km: 0.58
 - country: US
   region: TN
   exchange: '326622'
@@ -1442,9 +1352,7 @@ rate_centers:
   long: "-84.76153"
   closest_city:
     name: Charleston
-    distance:
-      value: 0.33
-      units: km
+    distance_km: 0.33
 - country: US
   region: TN
   exchange: '184100'
@@ -1456,9 +1364,7 @@ rate_centers:
   long: "-87.343584"
   closest_city:
     name: Charlotte
-    distance:
-      value: 0.61
-      units: km
+    distance_km: 0.61
 - country: US
   region: TN
   exchange: '184110'
@@ -1470,9 +1376,7 @@ rate_centers:
   long: "-85.311536"
   closest_city:
     name: Ridgeside
-    distance:
-      value: 5.91
-      units: km
+    distance_km: 5.91
 - country: US
   region: TN
   exchange: '184120'
@@ -1484,9 +1388,7 @@ rate_centers:
   long: "-83.193771"
   closest_city:
     name: Newport
-    distance:
-      value: 0.72
-      units: km
+    distance_km: 0.72
 - country: US
   region: TN
   exchange: '184130'
@@ -1498,9 +1400,7 @@ rate_centers:
   long: "-85.824582"
   closest_city:
     name: Gordonsville
-    distance:
-      value: 10.06
-      units: km
+    distance_km: 10.06
 - country: US
   region: TN
   exchange: '327013'
@@ -1539,9 +1439,7 @@ rate_centers:
   long: "-82.710199"
   closest_city:
     name: Church Hill
-    distance:
-      value: 0.44
-      units: km
+    distance_km: 0.44
 - country: US
   region: TN
   exchange: '327014'
@@ -1562,9 +1460,7 @@ rate_centers:
   long: "-85.023385"
   closest_city:
     name: Clarkrange
-    distance:
-      value: 1.33
-      units: km
+    distance_km: 1.33
 - country: US
   region: TN
   exchange: '326371'
@@ -1585,9 +1481,7 @@ rate_centers:
   long: "-87.351331"
   closest_city:
     name: Clarksville
-    distance:
-      value: 4.99
-      units: km
+    distance_km: 4.99
 - country: US
   region: TN
   exchange: '184170'
@@ -1599,9 +1493,7 @@ rate_centers:
   long: "-84.08956"
   closest_city:
     name: Karns
-    distance:
-      value: 5.49
-      units: km
+    distance_km: 5.49
 - country: US
   region: TN
   exchange: '184180'
@@ -1613,9 +1505,7 @@ rate_centers:
   long: "-84.866815"
   closest_city:
     name: East Cleveland
-    distance:
-      value: 1.29
-      units: km
+    distance_km: 1.29
 - country: US
   region: TN
   exchange: '184190'
@@ -1627,9 +1517,7 @@ rate_centers:
   long: "-87.991227"
   closest_city:
     name: Clifton
-    distance:
-      value: 0.23
-      units: km
+    distance_km: 0.23
 - country: US
   region: TN
   exchange: '184200'
@@ -1641,9 +1529,7 @@ rate_centers:
   long: "-82.749892"
   closest_city:
     name: Mount Carmel
-    distance:
-      value: 14.71
-      units: km
+    distance_km: 14.71
 - country: US
   region: TN
   exchange: '184210'
@@ -1655,9 +1541,7 @@ rate_centers:
   long: "-84.134275"
   closest_city:
     name: Clinton
-    distance:
-      value: 1.36
-      units: km
+    distance_km: 1.36
 - country: US
   region: TN
   exchange: '327019'
@@ -1687,9 +1571,7 @@ rate_centers:
   long: "-84.288617"
   closest_city:
     name: Coker Creek
-    distance:
-      value: 0.56
-      units: km
+    distance_km: 0.56
 - country: US
   region: TN
   exchange: '184230'
@@ -1701,9 +1583,7 @@ rate_centers:
   long: "-86.673231"
   closest_city:
     name: Eagleville
-    distance:
-      value: 5.44
-      units: km
+    distance_km: 5.44
 - country: US
   region: TN
   exchange: '184240'
@@ -1715,23 +1595,19 @@ rate_centers:
   long: "-85.265538"
   closest_city:
     name: Pikeville
-    distance:
-      value: 10.45
-      units: km
+    distance_km: 10.45
 - country: US
   region: TN
   exchange: '184250'
   name: COLLEGEDL
   full_name: Collegedale
   lata: '472'
-  ilec_name: CENTURYTEL OOLTEWAH-COLLEGEDALE DBA CENTURYLINK
+  ilec_name: BRIGHTSPEED OF SOUTHERN TENNESSEE, LC
   lat: '35.050923'
   long: "-85.035718"
   closest_city:
     name: Collegedale
-    distance:
-      value: 1.21
-      units: km
+    distance_km: 1.21
 - country: US
   region: TN
   exchange: '184260'
@@ -1743,9 +1619,7 @@ rate_centers:
   long: "-89.659927"
   closest_city:
     name: Collierville
-    distance:
-      value: 3.54
-      units: km
+    distance_km: 3.54
 - country: US
   region: TN
   exchange: '184270'
@@ -1757,9 +1631,7 @@ rate_centers:
   long: "-87.742131"
   closest_city:
     name: Collinwood
-    distance:
-      value: 0.19
-      units: km
+    distance_km: 0.19
 - country: US
   region: TN
   exchange: '362252'
@@ -1780,9 +1652,7 @@ rate_centers:
   long: "-87.032369"
   closest_city:
     name: Columbia
-    distance:
-      value: 2.3
-      units: km
+    distance_km: 2.3
 - country: US
   region: TN
   exchange: '326931'
@@ -1803,9 +1673,7 @@ rate_centers:
   long: "-84.141163"
   closest_city:
     name: Farragut
-    distance:
-      value: 3.73
-      units: km
+    distance_km: 3.73
 - country: US
   region: TN
   exchange: '184300'
@@ -1817,9 +1685,7 @@ rate_centers:
   long: "-85.509319"
   closest_city:
     name: Cookeville
-    distance:
-      value: 1.84
-      units: km
+    distance_km: 1.84
 - country: US
   region: TN
   exchange: '184310'
@@ -1831,9 +1697,7 @@ rate_centers:
   long: "-85.570397"
   closest_city:
     name: Cookeville
-    distance:
-      value: 6.61
-      units: km
+    distance_km: 6.61
 - country: US
   region: TN
   exchange: '184320'
@@ -1845,9 +1709,7 @@ rate_centers:
   long: "-84.376816"
   closest_city:
     name: Copperhill
-    distance:
-      value: 1.52
-      units: km
+    distance_km: 1.52
 - country: US
   region: TN
   exchange: '326933'
@@ -1877,9 +1739,7 @@ rate_centers:
   long: "-86.839081"
   closest_city:
     name: Cornersville
-    distance:
-      value: 1.77
-      units: km
+    distance_km: 1.77
 - country: US
   region: TN
   exchange: '327022'
@@ -1918,9 +1778,7 @@ rate_centers:
   long: "-88.482611"
   closest_city:
     name: Cottage Grove
-    distance:
-      value: 0.61
-      units: km
+    distance_km: 0.61
 - country: US
   region: TN
   exchange: '326637'
@@ -1936,7 +1794,7 @@ rate_centers:
   name: COUNCE
   full_name: Counce
   lata: '468'
-  ilec_name: CENTURYTEL OF ADAMSVILLE DBA CENTURYLINK-ADAMSVILL
+  ilec_name: BRIGHTSPEED OF WESTERN TENNESSEE, LLC
   lat:
   long:
 - country: US
@@ -1950,9 +1808,7 @@ rate_centers:
   long: "-89.648702"
   closest_city:
     name: Covington
-    distance:
-      value: 0.05
-      units: km
+    distance_km: 0.05
 - country: US
   region: TN
   exchange: '326638'
@@ -1982,9 +1838,7 @@ rate_centers:
   long: "-85.151451"
   closest_city:
     name: Grimsley
-    distance:
-      value: 14.14
-      units: km
+    distance_km: 14.14
 - country: US
   region: TN
   exchange: '326376'
@@ -2014,9 +1868,7 @@ rate_centers:
   long: "-86.683995"
   closest_city:
     name: Orlinda
-    distance:
-      value: 2.5
-      units: km
+    distance_km: 2.5
 - country: US
   region: TN
   exchange: '184380'
@@ -2028,16 +1880,14 @@ rate_centers:
   long: "-85.034611"
   closest_city:
     name: Crossville
-    distance:
-      value: 0.64
-      units: km
+    distance_km: 0.64
 - country: US
   region: TN
   exchange: '326377'
   name: CRUMP
   full_name: Crump
   lata: '468'
-  ilec_name: CENTURYTEL OF ADAMSVILLE DBA CENTURYLINK-ADAMSVILL
+  ilec_name: BRIGHTSPEED OF WESTERN TENNESSEE, LLC
   lat:
   long:
 - country: US
@@ -2051,9 +1901,7 @@ rate_centers:
   long: "-86.986016"
   closest_city:
     name: Lynnville
-    distance:
-      value: 11.77
-      units: km
+    distance_km: 11.77
 - country: US
   region: TN
   exchange: '184400'
@@ -2065,9 +1913,7 @@ rate_centers:
   long: "-87.632658"
   closest_city:
     name: Cumberland City
-    distance:
-      value: 1.03
-      units: km
+    distance_km: 1.03
 - country: US
   region: TN
   exchange: '326645'
@@ -2088,9 +1934,7 @@ rate_centers:
   long: "-83.667132"
   closest_city:
     name: Cumberland Gap
-    distance:
-      value: 0.12
-      units: km
+    distance_km: 0.12
 - country: US
   region: TN
   exchange: '184420'
@@ -2102,9 +1946,7 @@ rate_centers:
   long: "-87.376588"
   closest_city:
     name: Slayden
-    distance:
-      value: 10.91
-      units: km
+    distance_km: 10.91
 - country: US
   region: TN
   exchange: '326378'
@@ -2125,9 +1967,7 @@ rate_centers:
   long: "-88.099361"
   closest_city:
     name: Buchanan
-    distance:
-      value: 9.78
-      units: km
+    distance_km: 9.78
 - country: US
   region: TN
   exchange: '326648'
@@ -2157,9 +1997,7 @@ rate_centers:
   long: "-83.415629"
   closest_city:
     name: Dandridge
-    distance:
-      value: 2.04
-      units: km
+    distance_km: 2.04
 - country: US
   region: TN
   exchange: '327025'
@@ -2189,9 +2027,7 @@ rate_centers:
   long: "-85.018232"
   closest_city:
     name: Dayton
-    distance:
-      value: 0.57
-      units: km
+    distance_km: 0.57
 - country: US
   region: TN
   exchange: '184460'
@@ -2203,9 +2039,7 @@ rate_centers:
   long: "-84.790374"
   closest_city:
     name: Decatur
-    distance:
-      value: 1.74
-      units: km
+    distance_km: 1.74
 - country: US
   region: TN
   exchange: '184470'
@@ -2217,9 +2051,7 @@ rate_centers:
   long: "-88.11572"
   closest_city:
     name: Decaturville
-    distance:
-      value: 0.48
-      units: km
+    distance_km: 0.48
 - country: US
   region: TN
   exchange: '326649'
@@ -2240,9 +2072,7 @@ rate_centers:
   long: "-84.768096"
   closest_city:
     name: Sunbright
-    distance:
-      value: 9.14
-      units: km
+    distance_km: 9.14
 - country: US
   region: TN
   exchange: '184490'
@@ -2254,9 +2084,7 @@ rate_centers:
   long: "-85.905639"
   closest_city:
     name: Carthage
-    distance:
-      value: 7.45
-      units: km
+    distance_km: 7.45
 - country: US
   region: TN
   exchange: '327027'
@@ -2340,9 +2168,7 @@ rate_centers:
   long: "-85.798516"
   closest_city:
     name: McMinnville
-    distance:
-      value: 13.3
-      units: km
+    distance_km: 13.3
 - country: US
   region: TN
   exchange: '184510'
@@ -2354,9 +2180,7 @@ rate_centers:
   long: "-87.382194"
   closest_city:
     name: Dickson
-    distance:
-      value: 1.77
-      units: km
+    distance_km: 1.77
 - country: US
   region: TN
   exchange: '326656'
@@ -2395,9 +2219,7 @@ rate_centers:
   long: "-87.841668"
   closest_city:
     name: Dover
-    distance:
-      value: 0.3
-      units: km
+    distance_km: 0.3
 - country: US
   region: TN
   exchange: '326659'
@@ -2418,9 +2240,7 @@ rate_centers:
   long: "-85.515674"
   closest_city:
     name: Doyle
-    distance:
-      value: 0.56
-      units: km
+    distance_km: 0.56
 - country: US
   region: TN
   exchange: '184540'
@@ -2432,9 +2252,7 @@ rate_centers:
   long: "-88.707366"
   closest_city:
     name: Dresden
-    distance:
-      value: 1.8
-      units: km
+    distance_km: 1.8
 - country: US
   region: TN
   exchange: '184550'
@@ -2446,9 +2264,7 @@ rate_centers:
   long: "-89.909874"
   closest_city:
     name: Randolph
-    distance:
-      value: 6.42
-      units: km
+    distance_km: 6.42
 - country: US
   region: TN
   exchange: '326661'
@@ -2505,9 +2321,7 @@ rate_centers:
   long: "-85.392203"
   closest_city:
     name: Dunlap
-    distance:
-      value: 0.21
-      units: km
+    distance_km: 0.21
 - country: US
   region: TN
   exchange: '326386'
@@ -2528,9 +2342,7 @@ rate_centers:
   long: "-88.993542"
   closest_city:
     name: Dyer
-    distance:
-      value: 0.41
-      units: km
+    distance_km: 0.41
 - country: US
   region: TN
   exchange: '184580'
@@ -2542,9 +2354,7 @@ rate_centers:
   long: "-89.383679"
   closest_city:
     name: Dyersburg
-    distance:
-      value: 0.76
-      units: km
+    distance_km: 0.76
 - country: US
   region: TN
   exchange: '326389'
@@ -2574,9 +2384,7 @@ rate_centers:
   long: "-86.649536"
   closest_city:
     name: Eagleville
-    distance:
-      value: 0.55
-      units: km
+    distance_km: 0.55
 - country: US
   region: TN
   exchange: '326938'
@@ -2597,9 +2405,7 @@ rate_centers:
   long: "-87.206841"
   closest_city:
     name: Clarksville
-    distance:
-      value: 14.3
-      units: km
+    distance_km: 14.3
 - country: US
   region: TN
   exchange: '326390'
@@ -2665,9 +2471,7 @@ rate_centers:
   long: "-82.221099"
   closest_city:
     name: Elizabethton
-    distance:
-      value: 1.88
-      units: km
+    distance_km: 1.88
 - country: US
   region: TN
   exchange: '327036'
@@ -2697,9 +2501,7 @@ rate_centers:
   long: "-86.892118"
   closest_city:
     name: Elkton
-    distance:
-      value: 1.55
-      units: km
+    distance_km: 1.55
 - country: US
   region: TN
   exchange: '326394'
@@ -2747,23 +2549,19 @@ rate_centers:
   long: "-84.488763"
   closest_city:
     name: Englewood
-    distance:
-      value: 0.38
-      units: km
+    distance_km: 0.38
 - country: US
   region: TN
   exchange: '185681'
   name: ENVILLE
   full_name: Enville
   lata: '468'
-  ilec_name: CENTURYTEL OF ADAMSVILLE DBA CENTURYLINK-ADAMSVILL
+  ilec_name: BRIGHTSPEED OF WESTERN TENNESSEE, LLC
   lat: '35.374881'
   long: "-88.367938"
   closest_city:
     name: Milledgeville
-    distance:
-      value: 0.35
-      units: km
+    distance_km: 0.35
 - country: US
   region: TN
   exchange: '184640'
@@ -2775,9 +2573,7 @@ rate_centers:
   long: "-87.692994"
   closest_city:
     name: Erin
-    distance:
-      value: 0.85
-      units: km
+    distance_km: 0.85
 - country: US
   region: TN
   exchange: '184650'
@@ -2789,9 +2585,7 @@ rate_centers:
   long: "-82.414028"
   closest_city:
     name: Erwin
-    distance:
-      value: 0.51
-      units: km
+    distance_km: 0.51
 - country: US
   region: TN
   exchange: '184660'
@@ -2803,9 +2597,7 @@ rate_centers:
   long: "-86.132591"
   closest_city:
     name: Estill Springs
-    distance:
-      value: 1.2
-      units: km
+    distance_km: 1.2
 - country: US
   region: TN
   exchange: '184670'
@@ -2817,9 +2609,7 @@ rate_centers:
   long: "-87.309716"
   closest_city:
     name: Ethridge
-    distance:
-      value: 0.92
-      units: km
+    distance_km: 0.92
 - country: US
   region: TN
   exchange: '184680'
@@ -2831,9 +2621,7 @@ rate_centers:
   long: "-84.532922"
   closest_city:
     name: Etowah
-    distance:
-      value: 1.52
-      units: km
+    distance_km: 1.52
 - country: US
   region: TN
   exchange: '326396'
@@ -2890,9 +2678,7 @@ rate_centers:
   long: "-87.126557"
   closest_city:
     name: Fairview
-    distance:
-      value: 0.33
-      units: km
+    distance_km: 0.33
 - country: US
   region: TN
   exchange: '326397'
@@ -2913,9 +2699,7 @@ rate_centers:
   long: "-82.620035"
   closest_city:
     name: Fall Branch
-    distance:
-      value: 0.45
-      units: km
+    distance_km: 0.45
 - country: US
   region: TN
   exchange: '184710'
@@ -2927,9 +2711,7 @@ rate_centers:
   long: "-85.282267"
   closest_city:
     name: Pikeville
-    distance:
-      value: 11.6
-      units: km
+    distance_km: 11.6
 - country: US
   region: TN
   exchange: '326674'
@@ -2968,9 +2750,7 @@ rate_centers:
   long: "-86.573363"
   closest_city:
     name: Fayetteville
-    distance:
-      value: 0.91
-      units: km
+    distance_km: 0.91
 - country: US
   region: TN
   exchange: '326398'
@@ -3009,9 +2789,7 @@ rate_centers:
   long: "-87.329783"
   closest_city:
     name: Loretto
-    distance:
-      value: 10.62
-      units: km
+    distance_km: 10.62
 - country: US
   region: TN
   exchange: '362256'
@@ -3032,9 +2810,7 @@ rate_centers:
   long: "-86.408705"
   closest_city:
     name: Lynchburg
-    distance:
-      value: 12.57
-      units: km
+    distance_km: 12.57
 - country: US
   region: TN
   exchange: '326678'
@@ -3055,9 +2831,7 @@ rate_centers:
   long: "-86.409"
   closest_city:
     name: Flintville
-    distance:
-      value: 0.68
-      units: km
+    distance_km: 0.68
 - country: US
   region: TN
   exchange: '362257'
@@ -3096,9 +2870,7 @@ rate_centers:
   long: "-83.783282"
   closest_city:
     name: Cumberland Gap
-    distance:
-      value: 10.61
-      units: km
+    distance_km: 10.61
 - country: US
   region: TN
   exchange: '326402'
@@ -3128,9 +2900,7 @@ rate_centers:
   long: "-86.40839"
   closest_city:
     name: Christiana
-    distance:
-      value: 7.47
-      units: km
+    distance_km: 7.47
 - country: US
   region: TN
   exchange: '184770'
@@ -3142,9 +2912,7 @@ rate_centers:
   long: "-86.40839"
   closest_city:
     name: Christiana
-    distance:
-      value: 7.47
-      units: km
+    distance_km: 7.47
 - country: US
   region: TN
   exchange: '327042'
@@ -3183,9 +2951,7 @@ rate_centers:
   long: "-86.865453"
   closest_city:
     name: Franklin
-    distance:
-      value: 1.27
-      units: km
+    distance_km: 1.27
 - country: US
   region: TN
   exchange: '184790'
@@ -3197,9 +2963,7 @@ rate_centers:
   long: "-87.218836"
   closest_city:
     name: Pleasant View
-    distance:
-      value: 16.58
-      units: km
+    distance_km: 16.58
 - country: US
   region: TN
   exchange: '184800'
@@ -3211,9 +2975,7 @@ rate_centers:
   long: "-89.24491"
   closest_city:
     name: Friendship
-    distance:
-      value: 0.35
-      units: km
+    distance_km: 0.35
 - country: US
   region: TN
   exchange: '185511'
@@ -3261,9 +3023,7 @@ rate_centers:
   long: "-85.667278"
   closest_city:
     name: Gainesboro
-    distance:
-      value: 1.92
-      units: km
+    distance_km: 1.92
 - country: US
   region: TN
   exchange: '326409'
@@ -3284,9 +3044,7 @@ rate_centers:
   long: "-86.444168"
   closest_city:
     name: Gallatin
-    distance:
-      value: 2.78
-      units: km
+    distance_km: 2.78
 - country: US
   region: TN
   exchange: '326410'
@@ -3334,9 +3092,7 @@ rate_centers:
   long: "-83.50994"
   closest_city:
     name: Gatlinburg
-    distance:
-      value: 1.62
-      units: km
+    distance_km: 1.62
 - country: US
   region: TN
   exchange: '184840'
@@ -3348,9 +3104,7 @@ rate_centers:
   long: "-84.94448"
   closest_city:
     name: Hopewell
-    distance:
-      value: 6.21
-      units: km
+    distance_km: 6.21
 - country: US
   region: TN
   exchange: '185621'
@@ -3371,9 +3125,7 @@ rate_centers:
   long: "-88.840758"
   closest_city:
     name: Gibson
-    distance:
-      value: 0.27
-      units: km
+    distance_km: 0.27
 - country: US
   region: TN
   exchange: '326415'
@@ -3403,9 +3155,7 @@ rate_centers:
   long: "-88.614298"
   closest_city:
     name: Gleason
-    distance:
-      value: 0.36
-      units: km
+    distance_km: 0.36
 - country: US
   region: TN
   exchange: '326689'
@@ -3435,9 +3185,7 @@ rate_centers:
   long: "-86.714258"
   closest_city:
     name: Goodlettsville
-    distance:
-      value: 2.08
-      units: km
+    distance_km: 2.08
 - country: US
   region: TN
   exchange: '326417'
@@ -3458,15 +3206,6 @@ rate_centers:
   long:
 - country: US
   region: TN
-  exchange: '326692'
-  name: GORDONSVL
-  full_name: Gordonsville
-  lata: '470'
-  ilec_name: DEKALB TEL. COOP.
-  lat:
-  long:
-- country: US
-  region: TN
   exchange: '186453'
   name: Gordonsville
   full_name: Gordonsville
@@ -3476,9 +3215,16 @@ rate_centers:
   long: "-85.935186"
   closest_city:
     name: Gordonsville
-    distance:
-      value: 0.58
-      units: km
+    distance_km: 0.58
+- country: US
+  region: TN
+  exchange: '326692'
+  name: GORDONSVL
+  full_name: Gordonsville
+  lata: '470'
+  ilec_name: DEKALB TEL. COOP.
+  lat:
+  long:
 - country: US
   region: TN
   exchange: '184880'
@@ -3490,9 +3236,7 @@ rate_centers:
   long: "-89.189919"
   closest_city:
     name: Grand Junction
-    distance:
-      value: 0.17
-      units: km
+    distance_km: 0.17
 - country: US
   region: TN
   exchange: '326945'
@@ -3522,9 +3266,7 @@ rate_centers:
   long: "-85.801139"
   closest_city:
     name: Carthage
-    distance:
-      value: 12.8
-      units: km
+    distance_km: 12.8
 - country: US
   region: TN
   exchange: '362258'
@@ -3554,9 +3296,7 @@ rate_centers:
   long: "-86.168534"
   closest_city:
     name: Hartsville
-    distance:
-      value: 8.17
-      units: km
+    distance_km: 8.17
 - country: US
   region: TN
   exchange: '184910'
@@ -3568,9 +3308,7 @@ rate_centers:
   long: "-84.165992"
   closest_city:
     name: Greenback
-    distance:
-      value: 1.08
-      units: km
+    distance_km: 1.08
 - country: US
   region: TN
   exchange: '184920'
@@ -3582,9 +3320,7 @@ rate_centers:
   long: "-86.799013"
   closest_city:
     name: Greenbrier
-    distance:
-      value: 0.92
-      units: km
+    distance_km: 0.92
 - country: US
   region: TN
   exchange: '184930'
@@ -3596,9 +3332,7 @@ rate_centers:
   long: "-82.826409"
   closest_city:
     name: Greeneville
-    distance:
-      value: 0.7
-      units: km
+    distance_km: 0.7
 - country: US
   region: TN
   exchange: '184940'
@@ -3610,9 +3344,7 @@ rate_centers:
   long: "-88.797618"
   closest_city:
     name: Greenfield
-    distance:
-      value: 0.61
-      units: km
+    distance_km: 0.61
 - country: US
   region: TN
   exchange: '326697'
@@ -3687,9 +3419,7 @@ rate_centers:
   long: "-89.391573"
   closest_city:
     name: Halls
-    distance:
-      value: 1.34
-      units: km
+    distance_km: 1.34
 - country: US
   region: TN
   exchange: '184960'
@@ -3701,9 +3431,7 @@ rate_centers:
   long: "-83.934163"
   closest_city:
     name: Halls
-    distance:
-      value: 1.46
-      units: km
+    distance_km: 1.46
 - country: US
   region: TN
   exchange: '184970'
@@ -3715,9 +3443,7 @@ rate_centers:
   long: "-87.292289"
   closest_city:
     name: Mount Pleasant
-    distance:
-      value: 10.6
-      units: km
+    distance_km: 10.6
 - country: US
   region: TN
   exchange: '184980'
@@ -3729,9 +3455,7 @@ rate_centers:
   long: "-82.173504"
   closest_city:
     name: Hampton
-    distance:
-      value: 1.07
-      units: km
+    distance_km: 1.07
 - country: US
   region: TN
   exchange: '184990'
@@ -3743,9 +3467,7 @@ rate_centers:
   long: "-84.551974"
   closest_city:
     name: Harriman
-    distance:
-      value: 0.77
-      units: km
+    distance_km: 0.77
 - country: US
   region: TN
   exchange: '326948'
@@ -3784,9 +3506,7 @@ rate_centers:
   long: "-86.166796"
   closest_city:
     name: Hartsville
-    distance:
-      value: 0.91
-      units: km
+    distance_km: 0.91
 - country: US
   region: TN
   exchange: '327050'
@@ -3816,9 +3536,7 @@ rate_centers:
   long: "-88.640861"
   closest_city:
     name: Henderson
-    distance:
-      value: 1.12
-      units: km
+    distance_km: 1.12
 - country: US
   region: TN
   exchange: '327052'
@@ -3839,9 +3557,7 @@ rate_centers:
   long: "-86.615758"
   closest_city:
     name: Hendersonville
-    distance:
-      value: 1.61
-      units: km
+    distance_km: 1.61
 - country: US
   region: TN
   exchange: '185030'
@@ -3853,9 +3569,7 @@ rate_centers:
   long: "-89.575841"
   closest_city:
     name: Henning
-    distance:
-      value: 0.69
-      units: km
+    distance_km: 0.69
 - country: US
   region: TN
   exchange: '185040'
@@ -3867,9 +3581,7 @@ rate_centers:
   long: "-88.414032"
   closest_city:
     name: Henry
-    distance:
-      value: 0.28
-      units: km
+    distance_km: 0.28
 - country: US
   region: TN
   exchange: '326704'
@@ -3935,9 +3647,7 @@ rate_centers:
   long: "-85.784342"
   closest_city:
     name: Gainesboro
-    distance:
-      value: 12.12
-      units: km
+    distance_km: 12.12
 - country: US
   region: TN
   exchange: '326708'
@@ -3958,9 +3668,7 @@ rate_centers:
   long: "-85.975837"
   closest_city:
     name: Hillsboro
-    distance:
-      value: 1.11
-      units: km
+    distance_km: 1.11
 - country: US
   region: TN
   exchange: '185070'
@@ -3972,9 +3680,7 @@ rate_centers:
   long: "-86.059987"
   closest_city:
     name: Lafayette
-    distance:
-      value: 9.39
-      units: km
+    distance_km: 9.39
 - country: US
   region: TN
   exchange: '326949'
@@ -4004,9 +3710,7 @@ rate_centers:
   long: "-87.547624"
   closest_city:
     name: Hohenwald
-    distance:
-      value: 0.6
-      units: km
+    distance_km: 0.6
 - country: US
   region: TN
   exchange: '326426'
@@ -4036,9 +3740,7 @@ rate_centers:
   long: "-89.299151"
   closest_city:
     name: Hornbeak
-    distance:
-      value: 0.25
-      units: km
+    distance_km: 0.25
 - country: US
   region: TN
   exchange: '326429'
@@ -4068,9 +3770,7 @@ rate_centers:
   long: "-88.916958"
   closest_city:
     name: Humboldt
-    distance:
-      value: 1.09
-      units: km
+    distance_km: 1.09
 - country: US
   region: TN
   exchange: '326431'
@@ -4091,9 +3791,7 @@ rate_centers:
   long: "-88.42455"
   closest_city:
     name: Huntingdon
-    distance:
-      value: 0.71
-      units: km
+    distance_km: 0.71
 - country: US
   region: TN
   exchange: '185120'
@@ -4105,9 +3803,7 @@ rate_centers:
   long: "-86.26931"
   closest_city:
     name: Huntland
-    distance:
-      value: 0.92
-      units: km
+    distance_km: 0.92
 - country: US
   region: TN
   exchange: '185130'
@@ -4119,9 +3815,7 @@ rate_centers:
   long: "-84.492536"
   closest_city:
     name: Huntsville
-    distance:
-      value: 1.2
-      units: km
+    distance_km: 1.2
 - country: US
   region: TN
   exchange: '326714'
@@ -4196,9 +3890,7 @@ rate_centers:
   long: "-88.817792"
   closest_city:
     name: Jackson
-    distance:
-      value: 4.49
-      units: km
+    distance_km: 4.49
 - country: US
   region: TN
   exchange: '185150'
@@ -4210,9 +3902,7 @@ rate_centers:
   long: "-84.932294"
   closest_city:
     name: Jamestown
-    distance:
-      value: 0.74
-      units: km
+    distance_km: 0.74
 - country: US
   region: TN
   exchange: '185160'
@@ -4224,9 +3914,7 @@ rate_centers:
   long: "-85.627641"
   closest_city:
     name: Jasper
-    distance:
-      value: 1.05
-      units: km
+    distance_km: 1.05
 - country: US
   region: TN
   exchange: '185170'
@@ -4238,9 +3926,7 @@ rate_centers:
   long: "-83.500782"
   closest_city:
     name: Jefferson City
-    distance:
-      value: 1.68
-      units: km
+    distance_km: 1.68
 - country: US
   region: TN
   exchange: '185180'
@@ -4252,9 +3938,7 @@ rate_centers:
   long: "-84.125624"
   closest_city:
     name: Jellico
-    distance:
-      value: 2.22
-      units: km
+    distance_km: 2.22
 - country: US
   region: TN
   exchange: '326436'
@@ -4284,9 +3968,7 @@ rate_centers:
   long: "-82.351755"
   closest_city:
     name: Johnson City
-    distance:
-      value: 3.85
-      units: km
+    distance_km: 3.85
 - country: US
   region: TN
   exchange: '326720'
@@ -4307,9 +3989,7 @@ rate_centers:
   long: "-82.496915"
   closest_city:
     name: Jonesborough
-    distance:
-      value: 1.98
-      units: km
+    distance_km: 1.98
 - country: US
   region: TN
   exchange: '327060'
@@ -4348,9 +4028,7 @@ rate_centers:
   long: "-89.007821"
   closest_city:
     name: Kenton
-    distance:
-      value: 0.84
-      units: km
+    distance_km: 0.84
 - country: US
   region: TN
   exchange: '326439'
@@ -4398,9 +4076,7 @@ rate_centers:
   long: "-82.55683"
   closest_city:
     name: Kingsport
-    distance:
-      value: 3.08
-      units: km
+    distance_km: 3.08
 - country: US
   region: TN
   exchange: '185230'
@@ -4412,9 +4088,7 @@ rate_centers:
   long: "-84.515343"
   closest_city:
     name: Kingston
-    distance:
-      value: 1.76
-      units: km
+    distance_km: 1.76
 - country: US
   region: TN
   exchange: '185240'
@@ -4426,9 +4100,7 @@ rate_centers:
   long: "-87.138307"
   closest_city:
     name: Kingston Springs
-    distance:
-      value: 3.25
-      units: km
+    distance_km: 3.25
 - country: US
   region: TN
   exchange: '327063'
@@ -4449,9 +4121,7 @@ rate_centers:
   long: "-83.926252"
   closest_city:
     name: Knoxville
-    distance:
-      value: 2.1
-      units: km
+    distance_km: 2.1
 - country: US
   region: TN
   exchange: '327065'
@@ -4481,9 +4151,7 @@ rate_centers:
   long: "-84.11721"
   closest_city:
     name: La Follette
-    distance:
-      value: 1.44
-      units: km
+    distance_km: 1.44
 - country: US
   region: TN
   exchange: '326440'
@@ -4504,9 +4172,7 @@ rate_centers:
   long: "-86.583526"
   closest_city:
     name: La Vergne
-    distance:
-      value: 2.25
-      units: km
+    distance_km: 2.25
 - country: US
   region: TN
   exchange: '185320'
@@ -4518,9 +4184,7 @@ rate_centers:
   long: "-86.583526"
   closest_city:
     name: La Vergne
-    distance:
-      value: 2.25
-      units: km
+    distance_km: 2.25
 - country: US
   region: TN
   exchange: '185270'
@@ -4532,9 +4196,7 @@ rate_centers:
   long: "-85.600471"
   closest_city:
     name: Gruetli-Laager
-    distance:
-      value: 3.36
-      units: km
+    distance_km: 3.36
 - country: US
   region: TN
   exchange: '185280'
@@ -4546,9 +4208,7 @@ rate_centers:
   long: "-86.022932"
   closest_city:
     name: Lafayette
-    distance:
-      value: 0.72
-      units: km
+    distance_km: 0.72
 - country: US
   region: TN
   exchange: '185290'
@@ -4560,9 +4220,7 @@ rate_centers:
   long: "-89.189919"
   closest_city:
     name: Grand Junction
-    distance:
-      value: 0.17
-      units: km
+    distance_km: 0.17
 - country: US
   region: TN
   exchange: '185300'
@@ -4574,9 +4232,7 @@ rate_centers:
   long: "-84.151546"
   closest_city:
     name: Rocky Top
-    distance:
-      value: 0.33
-      units: km
+    distance_km: 0.33
 - country: US
   region: TN
   exchange: '326442'
@@ -4651,9 +4307,7 @@ rate_centers:
   long: "-88.718559"
   closest_city:
     name: Dukedom
-    distance:
-      value: 7.73
-      units: km
+    distance_km: 7.73
 - country: US
   region: TN
   exchange: '362264'
@@ -4683,9 +4337,7 @@ rate_centers:
   long: "-87.334418"
   closest_city:
     name: Lawrenceburg
-    distance:
-      value: 0.23
-      units: km
+    distance_km: 0.23
 - country: US
   region: TN
   exchange: '185340'
@@ -4697,9 +4349,7 @@ rate_centers:
   long: "-86.284232"
   closest_city:
     name: Lebanon
-    distance:
-      value: 5.74
-      units: km
+    distance_km: 5.74
 - country: US
   region: TN
   exchange: '185350'
@@ -4711,9 +4361,7 @@ rate_centers:
   long: "-84.265208"
   closest_city:
     name: Lenoir City
-    distance:
-      value: 2.45
-      units: km
+    distance_km: 2.45
 - country: US
   region: TN
   exchange: '326446'
@@ -4734,9 +4382,7 @@ rate_centers:
   long: "-87.349157"
   closest_city:
     name: Leoma
-    distance:
-      value: 0.91
-      units: km
+    distance_km: 0.91
 - country: US
   region: TN
   exchange: '185370'
@@ -4748,9 +4394,7 @@ rate_centers:
   long: "-86.791011"
   closest_city:
     name: Lewisburg
-    distance:
-      value: 0.19
-      units: km
+    distance_km: 0.19
 - country: US
   region: TN
   exchange: '185380'
@@ -4762,23 +4406,7 @@ rate_centers:
   long: "-88.391715"
   closest_city:
     name: Lexington
-    distance:
-      value: 1.34
-      units: km
-- country: US
-  region: TN
-  exchange: '186454'
-  name: Liberty
-  full_name: Liberty
-  lata: '470'
-  ilec_name: DEKALB TEL. COOP.
-  lat: '36.006677'
-  long: "-85.966027"
-  closest_city:
-    name: Liberty
-    distance:
-      value: 1.09
-      units: km
+    distance_km: 1.34
 - country: US
   region: TN
   exchange: '326734'
@@ -4790,6 +4418,18 @@ rate_centers:
   long:
 - country: US
   region: TN
+  exchange: '186454'
+  name: Liberty
+  full_name: Liberty
+  lata: '470'
+  ilec_name: DEKALB TEL. COOP.
+  lat: '36.006677'
+  long: "-85.966027"
+  closest_city:
+    name: Liberty
+    distance_km: 1.09
+- country: US
+  region: TN
   exchange: '185390'
   name: LIMESTONE
   full_name: Limestone
@@ -4799,9 +4439,7 @@ rate_centers:
   long: "-82.630162"
   closest_city:
     name: Telford
-    distance:
-      value: 8.03
-      units: km
+    distance_km: 8.03
 - country: US
   region: TN
   exchange: '185400'
@@ -4813,9 +4451,7 @@ rate_centers:
   long: "-87.840598"
   closest_city:
     name: Linden
-    distance:
-      value: 0.71
-      units: km
+    distance_km: 0.71
 - country: US
   region: TN
   exchange: '185410'
@@ -4827,9 +4463,7 @@ rate_centers:
   long: "-85.314348"
   closest_city:
     name: Livingston
-    distance:
-      value: 1.22
-      units: km
+    distance_km: 1.22
 - country: US
   region: TN
   exchange: '185420'
@@ -4841,16 +4475,14 @@ rate_centers:
   long: "-87.784429"
   closest_city:
     name: Lobelville
-    distance:
-      value: 2.01
-      units: km
+    distance_km: 2.01
 - country: US
   region: TN
   exchange: '327071'
   name: LONE MT
   full_name: Lone Mountain
   lata: '474'
-  ilec_name: CENTURYTEL OF CLAIRBORNE DBA CENTURYLINK-CLAIBORNE
+  ilec_name: BRIGHTSPEED OF EASTERN TENNESSEE, LLC
   lat:
   long:
 - country: US
@@ -4882,9 +4514,7 @@ rate_centers:
   long: "-87.441473"
   closest_city:
     name: Loretto
-    distance:
-      value: 0.24
-      units: km
+    distance_km: 0.24
 - country: US
   region: TN
   exchange: '185440'
@@ -4896,9 +4526,7 @@ rate_centers:
   long: "-84.332366"
   closest_city:
     name: Loudon
-    distance:
-      value: 3.48
-      units: km
+    distance_km: 3.48
 - country: US
   region: TN
   exchange: '327073'
@@ -4964,9 +4592,7 @@ rate_centers:
   long: "-87.325699"
   closest_city:
     name: Bon Aqua Junction
-    distance:
-      value: 1.3
-      units: km
+    distance_km: 1.3
 - country: US
   region: TN
   exchange: '185460'
@@ -4978,9 +4604,7 @@ rate_centers:
   long: "-86.375144"
   closest_city:
     name: Lynchburg
-    distance:
-      value: 1.5
-      units: km
+    distance_km: 1.5
 - country: US
   region: TN
   exchange: '185470'
@@ -4992,9 +4616,7 @@ rate_centers:
   long: "-87.00945"
   closest_city:
     name: Lynnville
-    distance:
-      value: 0.37
-      units: km
+    distance_km: 0.37
 - country: US
   region: TN
   exchange: '326451'
@@ -5024,9 +4646,7 @@ rate_centers:
   long: "-84.367014"
   closest_city:
     name: Madisonville
-    distance:
-      value: 0.71
-      units: km
+    distance_km: 0.71
 - country: US
   region: TN
   exchange: '326452'
@@ -5047,9 +4667,7 @@ rate_centers:
   long: "-86.085635"
   closest_city:
     name: Manchester
-    distance:
-      value: 2.23
-      units: km
+    distance_km: 2.23
 - country: US
   region: TN
   exchange: '326453'
@@ -5088,9 +4706,7 @@ rate_centers:
   long: "-88.849079"
   closest_city:
     name: Martin
-    distance:
-      value: 1.28
-      units: km
+    distance_km: 1.28
 - country: US
   region: TN
   exchange: '185510'
@@ -5102,9 +4718,7 @@ rate_centers:
   long: "-83.964349"
   closest_city:
     name: Maryville
-    distance:
-      value: 1.85
-      units: km
+    distance_km: 1.85
 - country: US
   region: TN
   exchange: '185520'
@@ -5116,9 +4730,7 @@ rate_centers:
   long: "-83.738871"
   closest_city:
     name: Mascot
-    distance:
-      value: 2.34
-      units: km
+    distance_km: 2.34
 - country: US
   region: TN
   exchange: '185530'
@@ -5130,9 +4742,7 @@ rate_centers:
   long: "-89.530311"
   closest_city:
     name: Mason
-    distance:
-      value: 1.06
-      units: km
+    distance_km: 1.06
 - country: US
   region: TN
   exchange: '185531'
@@ -5144,9 +4754,7 @@ rate_centers:
   long: "-89.530311"
   closest_city:
     name: Mason
-    distance:
-      value: 1.06
-      units: km
+    distance_km: 1.06
 - country: US
   region: TN
   exchange: '185540'
@@ -5158,9 +4766,7 @@ rate_centers:
   long: "-89.091502"
   closest_city:
     name: Kenton
-    distance:
-      value: 6.84
-      units: km
+    distance_km: 6.84
 - country: US
   region: TN
   exchange: '326458'
@@ -5181,9 +4787,7 @@ rate_centers:
   long: "-89.225033"
   closest_city:
     name: Maury City
-    distance:
-      value: 0.21
-      units: km
+    distance_km: 0.21
 - country: US
   region: TN
   exchange: '185560'
@@ -5195,9 +4799,7 @@ rate_centers:
   long: "-83.798668"
   closest_city:
     name: Maynardville
-    distance:
-      value: 0.69
-      units: km
+    distance_km: 0.69
 - country: US
   region: TN
   exchange: '185570'
@@ -5209,9 +4811,7 @@ rate_centers:
   long: "-86.807388"
   closest_city:
     name: Frankewing
-    distance:
-      value: 4.54
-      units: km
+    distance_km: 4.54
 - country: US
   region: TN
   exchange: '326748'
@@ -5232,9 +4832,7 @@ rate_centers:
   long: "-87.634689"
   closest_city:
     name: McEwen
-    distance:
-      value: 0.14
-      units: km
+    distance_km: 0.14
 - country: US
   region: TN
   exchange: '185590'
@@ -5246,9 +4844,7 @@ rate_centers:
   long: "-88.518954"
   closest_city:
     name: McKenzie
-    distance:
-      value: 1.05
-      units: km
+    distance_km: 1.05
 - country: US
   region: TN
   exchange: '326461'
@@ -5269,9 +4865,7 @@ rate_centers:
   long: "-85.763967"
   closest_city:
     name: McMinnville
-    distance:
-      value: 1.57
-      units: km
+    distance_km: 1.57
 - country: US
   region: TN
   exchange: '185601'
@@ -5283,9 +4877,7 @@ rate_centers:
   long: "-85.763967"
   closest_city:
     name: McMinnville
-    distance:
-      value: 1.57
-      units: km
+    distance_km: 1.57
 - country: US
   region: TN
   exchange: '326462'
@@ -5324,9 +4916,7 @@ rate_centers:
   long: "-88.765664"
   closest_city:
     name: Medina
-    distance:
-      value: 2.66
-      units: km
+    distance_km: 2.66
 - country: US
   region: TN
   exchange: '326465'
@@ -5347,9 +4937,7 @@ rate_centers:
   long: "-90.040658"
   closest_city:
     name: Memphis
-    distance:
-      value: 7.77
-      units: km
+    distance_km: 7.77
 - country: US
   region: TN
   exchange: '327081'
@@ -5379,9 +4967,7 @@ rate_centers:
   long: "-88.45001"
   closest_city:
     name: Michie
-    distance:
-      value: 3.1
-      units: km
+    distance_km: 3.1
 - country: US
   region: TN
   exchange: '327082'
@@ -5402,9 +4988,7 @@ rate_centers:
   long: "-88.892304"
   closest_city:
     name: Middleton
-    distance:
-      value: 0.85
-      units: km
+    distance_km: 0.85
 - country: US
   region: TN
   exchange: '327083'
@@ -5425,9 +5009,7 @@ rate_centers:
   long: "-82.468806"
   closest_city:
     name: Spurgeon
-    distance:
-      value: 1.19
-      units: km
+    distance_km: 1.19
 - country: US
   region: TN
   exchange: '185660'
@@ -5439,9 +5021,7 @@ rate_centers:
   long: "-82.468806"
   closest_city:
     name: Spurgeon
-    distance:
-      value: 1.19
-      units: km
+    distance_km: 1.19
 - country: US
   region: TN
   exchange: '185670'
@@ -5453,30 +5033,26 @@ rate_centers:
   long: "-88.75695"
   closest_city:
     name: Milan
-    distance:
-      value: 0.55
-      units: km
+    distance_km: 0.55
 - country: US
   region: TN
   exchange: '185680'
   name: MILLEDGEVL
   full_name: Milledgeville
   lata: '468'
-  ilec_name: CENTURYTEL OF ADAMSVILLE DBA CENTURYLINK-ADAMSVILL
+  ilec_name: BRIGHTSPEED OF WESTERN TENNESSEE, LLC
   lat: '35.374881'
   long: "-88.367938"
   closest_city:
     name: Milledgeville
-    distance:
-      value: 0.35
-      units: km
+    distance_km: 0.35
 - country: US
   region: TN
   exchange: '326463'
   name: MDVL-ENVL
   full_name: Milledgeville (Enville)
   lata: '468'
-  ilec_name: CENTURYTEL OF ADAMSVILLE DBA CENTURYLINK-ADAMSVILL
+  ilec_name: BRIGHTSPEED OF WESTERN TENNESSEE, LLC
   lat:
   long:
 - country: US
@@ -5499,9 +5075,7 @@ rate_centers:
   long: "-89.891649"
   closest_city:
     name: Millington
-    distance:
-      value: 1.86
-      units: km
+    distance_km: 1.86
 - country: US
   region: TN
   exchange: '186455'
@@ -5513,9 +5087,7 @@ rate_centers:
   long: "-86.18237"
   closest_city:
     name: Auburntown
-    distance:
-      value: 8.24
-      units: km
+    distance_km: 8.24
 - country: US
   region: TN
   exchange: '326751'
@@ -5536,9 +5108,7 @@ rate_centers:
   long: "-87.159479"
   closest_city:
     name: Minor Hill
-    distance:
-      value: 1.71
-      units: km
+    distance_km: 1.71
 - country: US
   region: TN
   exchange: '326472'
@@ -5595,9 +5165,7 @@ rate_centers:
   long: "-85.835159"
   closest_city:
     name: Monteagle
-    distance:
-      value: 1.62
-      units: km
+    distance_km: 1.62
 - country: US
   region: TN
   exchange: '185720'
@@ -5609,9 +5177,7 @@ rate_centers:
   long: "-85.266445"
   closest_city:
     name: Monterey
-    distance:
-      value: 0.58
-      units: km
+    distance_km: 0.58
 - country: US
   region: TN
   exchange: '326473'
@@ -5663,7 +5229,7 @@ rate_centers:
   name: MORRISCHAP
   full_name: Morris Chapel
   lata: '468'
-  ilec_name: CENTURYTEL OF ADAMSVILLE DBA CENTURYLINK-ADAMSVILL
+  ilec_name: BRIGHTSPEED OF WESTERN TENNESSEE, LLC
   lat:
   long:
 - country: US
@@ -5686,9 +5252,7 @@ rate_centers:
   long: "-83.302645"
   closest_city:
     name: Morristown
-    distance:
-      value: 1.42
-      units: km
+    distance_km: 1.42
 - country: US
   region: TN
   exchange: '185740'
@@ -5700,9 +5264,7 @@ rate_centers:
   long: "-89.397422"
   closest_city:
     name: Moscow
-    distance:
-      value: 0.75
-      units: km
+    distance_km: 0.75
 - country: US
   region: TN
   exchange: '185750'
@@ -5714,9 +5276,7 @@ rate_centers:
   long: "-82.958886"
   closest_city:
     name: Mosheim
-    distance:
-      value: 0.77
-      units: km
+    distance_km: 0.77
 - country: US
   region: TN
   exchange: '185760'
@@ -5728,9 +5288,7 @@ rate_centers:
   long: "-85.613976"
   closest_city:
     name: Celina
-    distance:
-      value: 10.98
-      units: km
+    distance_km: 10.98
 - country: US
   region: TN
   exchange: '362272'
@@ -5751,9 +5309,7 @@ rate_centers:
   long: "-86.51561"
   closest_city:
     name: Mount Juliet
-    distance:
-      value: 0.38
-      units: km
+    distance_km: 0.38
 - country: US
   region: TN
   exchange: '185780'
@@ -5765,9 +5321,7 @@ rate_centers:
   long: "-87.215964"
   closest_city:
     name: Mount Pleasant
-    distance:
-      value: 3.23
-      units: km
+    distance_km: 3.23
 - country: US
   region: TN
   exchange: '185790'
@@ -5779,9 +5333,7 @@ rate_centers:
   long: "-81.80771"
   closest_city:
     name: Mountain City
-    distance:
-      value: 0.42
-      units: km
+    distance_km: 0.42
 - country: US
   region: TN
   exchange: '362273'
@@ -5820,9 +5372,7 @@ rate_centers:
   long: "-89.806756"
   closest_city:
     name: Munford
-    distance:
-      value: 1.03
-      units: km
+    distance_km: 1.03
 - country: US
   region: TN
   exchange: '185810'
@@ -5834,9 +5384,7 @@ rate_centers:
   long: "-86.385194"
   closest_city:
     name: Murfreesboro
-    distance:
-      value: 2.45
-      units: km
+    distance_km: 2.45
 - country: US
   region: TN
   exchange: '185820'
@@ -5848,9 +5396,7 @@ rate_centers:
   long: "-86.773425"
   closest_city:
     name: Nashville
-    distance:
-      value: 1.66
-      units: km
+    distance_km: 1.66
 - country: US
   region: TN
   exchange: '326766'
@@ -5898,9 +5444,7 @@ rate_centers:
   long: "-87.957964"
   closest_city:
     name: New Johnsonville
-    distance:
-      value: 3.2
-      units: km
+    distance_km: 3.2
 - country: US
   region: TN
   exchange: '327089'
@@ -5934,14 +5478,12 @@ rate_centers:
   name: NEWTAZWELL
   full_name: New Tazewell
   lata: '474'
-  ilec_name: CENTURYTEL OF CLAIRBORNE DBA CENTURYLINK-CLAIBORNE
+  ilec_name: BRIGHTSPEED OF EASTERN TENNESSEE, LLC
   lat: '36.44346'
   long: "-83.600181"
   closest_city:
     name: New Tazewell
-    distance:
-      value: 0.75
-      units: km
+    distance_km: 0.75
 - country: US
   region: TN
   exchange: '185850'
@@ -5953,9 +5495,7 @@ rate_centers:
   long: "-89.261865"
   closest_city:
     name: Newbern
-    distance:
-      value: 0.85
-      units: km
+    distance_km: 0.85
 - country: US
   region: TN
   exchange: '327090'
@@ -5976,9 +5516,7 @@ rate_centers:
   long: "-83.193771"
   closest_city:
     name: Newport
-    distance:
-      value: 0.72
-      units: km
+    distance_km: 0.72
 - country: US
   region: TN
   exchange: '185870'
@@ -5990,9 +5528,7 @@ rate_centers:
   long: "-85.099948"
   closest_city:
     name: Pikeville
-    distance:
-      value: 13.44
-      units: km
+    distance_km: 13.44
 - country: US
   region: TN
   exchange: '185880'
@@ -6004,9 +5540,7 @@ rate_centers:
   long: "-84.543474"
   closest_city:
     name: Niota
-    distance:
-      value: 0.62
-      units: km
+    distance_km: 0.62
 - country: US
   region: TN
   exchange: '185892'
@@ -6018,9 +5552,7 @@ rate_centers:
   long: "-86.667115"
   closest_city:
     name: Nolensville
-    distance:
-      value: 0.89
-      units: km
+    distance_km: 0.89
 - country: US
   region: TN
   exchange: '185890'
@@ -6032,18 +5564,7 @@ rate_centers:
   long: "-86.667115"
   closest_city:
     name: Nolensville
-    distance:
-      value: 0.89
-      units: km
-- country: US
-  region: TN
-  exchange: '326773'
-  name: NORENE
-  full_name: Norene
-  lata: '470'
-  ilec_name: DEKALB TEL. COOP.
-  lat:
-  long:
+    distance_km: 0.89
 - country: US
   region: TN
   exchange: '186456'
@@ -6055,9 +5576,16 @@ rate_centers:
   long: "-86.247461"
   closest_city:
     name: Norene
-    distance:
-      value: 0.97
-      units: km
+    distance_km: 0.97
+- country: US
+  region: TN
+  exchange: '326773'
+  name: NORENE
+  full_name: Norene
+  lata: '470'
+  ilec_name: DEKALB TEL. COOP.
+  lat:
+  long:
 - country: US
   region: TN
   exchange: '327094'
@@ -6078,9 +5606,7 @@ rate_centers:
   long: "-86.260523"
   closest_city:
     name: Normandy
-    distance:
-      value: 0.34
-      units: km
+    distance_km: 0.34
 - country: US
   region: TN
   exchange: '185910'
@@ -6092,9 +5618,7 @@ rate_centers:
   long: "-84.070012"
   closest_city:
     name: Norris
-    distance:
-      value: 2.63
-      units: km
+    distance_km: 2.63
 - country: US
   region: TN
   exchange: '185920'
@@ -6106,9 +5630,7 @@ rate_centers:
   long: "-86.934523"
   closest_city:
     name: Spring Hill
-    distance:
-      value: 2.13
-      units: km
+    distance_km: 2.13
 - country: US
   region: TN
   exchange: '185930'
@@ -6120,9 +5642,7 @@ rate_centers:
   long: "-85.759905"
   closest_city:
     name: Red Boiling Springs
-    distance:
-      value: 9.46
-      units: km
+    distance_km: 9.46
 - country: US
   region: TN
   exchange: '326777'
@@ -6143,9 +5663,7 @@ rate_centers:
   long: "-86.385905"
   closest_city:
     name: Fairfield
-    distance:
-      value: 7.2
-      units: km
+    distance_km: 7.2
 - country: US
   region: TN
   exchange: '326779'
@@ -6166,9 +5684,7 @@ rate_centers:
   long: "-84.209585"
   closest_city:
     name: Clinton
-    distance:
-      value: 9.13
-      units: km
+    distance_km: 9.13
 - country: US
   region: TN
   exchange: '185960'
@@ -6180,9 +5696,7 @@ rate_centers:
   long: "-84.55634"
   closest_city:
     name: Oakdale
-    distance:
-      value: 0.81
-      units: km
+    distance_km: 0.81
 - country: US
   region: TN
   exchange: '326478'
@@ -6248,9 +5762,7 @@ rate_centers:
   long: "-86.650433"
   closest_city:
     name: Hendersonville
-    distance:
-      value: 7.09
-      units: km
+    distance_km: 7.09
 - country: US
   region: TN
   exchange: '185980'
@@ -6262,9 +5774,7 @@ rate_centers:
   long: "-85.568516"
   closest_city:
     name: Sparta
-    distance:
-      value: 8.9
-      units: km
+    distance_km: 8.9
 - country: US
   region: TN
   exchange: '326482'
@@ -6285,9 +5795,7 @@ rate_centers:
   long: "-84.339518"
   closest_city:
     name: Oliver Springs
-    distance:
-      value: 0.99
-      units: km
+    distance_km: 0.99
 - country: US
   region: TN
   exchange: '186000'
@@ -6299,9 +5807,7 @@ rate_centers:
   long: "-84.513849"
   closest_city:
     name: Oneida
-    distance:
-      value: 0.98
-      units: km
+    distance_km: 0.98
 - country: US
   region: TN
   exchange: '326782'
@@ -6317,14 +5823,12 @@ rate_centers:
   name: OOLTEWAH
   full_name: Ooltewah
   lata: '472'
-  ilec_name: CENTURYTEL OOLTEWAH-COLLEGEDALE DBA CENTURYLINK
+  ilec_name: BRIGHTSPEED OF SOUTHERN TENNESSEE, LC
   lat: '35.076524'
   long: "-85.056817"
   closest_city:
     name: Ooltewah
-    distance:
-      value: 0.51
-      units: km
+    distance_km: 0.51
 - country: US
   region: TN
   exchange: '326483'
@@ -6426,9 +5930,7 @@ rate_centers:
   long: "-88.581466"
   closest_city:
     name: Palmersville
-    distance:
-      value: 1.01
-      units: km
+    distance_km: 1.01
 - country: US
   region: TN
   exchange: '326788'
@@ -6449,9 +5951,7 @@ rate_centers:
   long: "-87.481301"
   closest_city:
     name: Cumberland City
-    distance:
-      value: 15.35
-      units: km
+    distance_km: 15.35
 - country: US
   region: TN
   exchange: '186040'
@@ -6463,9 +5963,7 @@ rate_centers:
   long: "-88.326163"
   closest_city:
     name: Paris
-    distance:
-      value: 1.84
-      units: km
+    distance_km: 1.84
 - country: US
   region: TN
   exchange: '326487'
@@ -6504,9 +6002,7 @@ rate_centers:
   long: "-88.124624"
   closest_city:
     name: Parsons
-    distance:
-      value: 0.14
-      units: km
+    distance_km: 0.14
 - country: US
   region: TN
   exchange: '326790'
@@ -6527,9 +6023,7 @@ rate_centers:
   long: "-85.874805"
   closest_city:
     name: Pelham
-    distance:
-      value: 2.93
-      units: km
+    distance_km: 2.93
 - country: US
   region: TN
   exchange: '326489'
@@ -6559,9 +6053,7 @@ rate_centers:
   long: "-86.634915"
   closest_city:
     name: Petersburg
-    distance:
-      value: 0.53
-      units: km
+    distance_km: 0.53
 - country: US
   region: TN
   exchange: '186080'
@@ -6573,9 +6065,7 @@ rate_centers:
   long: "-84.442131"
   closest_city:
     name: Petros
-    distance:
-      value: 0.86
-      units: km
+    distance_km: 0.86
 - country: US
   region: TN
   exchange: '327105'
@@ -6600,7 +6090,7 @@ rate_centers:
   name: PICKWIKDAM
   full_name: Pickwick Dam
   lata: '468'
-  ilec_name: CENTURYTEL OF ADAMSVILLE DBA CENTURYLINK-ADAMSVILL
+  ilec_name: BRIGHTSPEED OF WESTERN TENNESSEE, LLC
   lat:
   long:
 - country: US
@@ -6623,9 +6113,7 @@ rate_centers:
   long: "-85.200905"
   closest_city:
     name: Pikeville
-    distance:
-      value: 0.23
-      units: km
+    distance_km: 0.23
 - country: US
   region: TN
   exchange: '362275'
@@ -6691,9 +6179,7 @@ rate_centers:
   long: "-85.187784"
   closest_city:
     name: Pleasant Hill
-    distance:
-      value: 1.23
-      units: km
+    distance_km: 1.23
 - country: US
   region: TN
   exchange: '186110'
@@ -6705,9 +6191,7 @@ rate_centers:
   long: "-85.951231"
   closest_city:
     name: Carthage
-    distance:
-      value: 13.04
-      units: km
+    distance_km: 13.04
 - country: US
   region: TN
   exchange: '362276'
@@ -6728,9 +6212,7 @@ rate_centers:
   long: "-87.032066"
   closest_city:
     name: Pleasant View
-    distance:
-      value: 1.25
-      units: km
+    distance_km: 1.25
 - country: US
   region: TN
   exchange: '326794'
@@ -6769,9 +6251,7 @@ rate_centers:
   long: "-86.517912"
   closest_city:
     name: Portland
-    distance:
-      value: 1.22
-      units: km
+    distance_km: 1.22
 - country: US
   region: TN
   exchange: '326964'
@@ -6810,9 +6290,7 @@ rate_centers:
   long: "-84.043183"
   closest_city:
     name: Powell
-    distance:
-      value: 1.23
-      units: km
+    distance_km: 1.23
 - country: US
   region: TN
   exchange: '326311'
@@ -6869,9 +6347,7 @@ rate_centers:
   long: "-87.035029"
   closest_city:
     name: Pulaski
-    distance:
-      value: 0.86
-      units: km
+    distance_km: 0.86
 - country: US
   region: TN
   exchange: '186160'
@@ -6883,9 +6359,7 @@ rate_centers:
   long: "-88.331454"
   closest_city:
     name: Puryear
-    distance:
-      value: 0.12
-      units: km
+    distance_km: 0.12
 - country: US
   region: TN
   exchange: '326804'
@@ -6969,9 +6443,7 @@ rate_centers:
   long: "-85.84917"
   closest_city:
     name: Red Boiling Springs
-    distance:
-      value: 0.38
-      units: km
+    distance_km: 0.38
 - country: US
   region: TN
   exchange: '326967'
@@ -6992,9 +6464,7 @@ rate_centers:
   long: "-84.700276"
   closest_city:
     name: Riceville
-    distance:
-      value: 0.87
-      units: km
+    distance_km: 0.87
 - country: US
   region: TN
   exchange: '326968'
@@ -7015,9 +6485,7 @@ rate_centers:
   long: "-85.376976"
   closest_city:
     name: Algood
-    distance:
-      value: 9.41
-      units: km
+    distance_km: 9.41
 - country: US
   region: TN
   exchange: '326810'
@@ -7038,9 +6506,7 @@ rate_centers:
   long: "-89.484773"
   closest_city:
     name: Ridgely
-    distance:
-      value: 0.76
-      units: km
+    distance_km: 0.76
 - country: US
   region: TN
   exchange: '326969'
@@ -7088,9 +6554,7 @@ rate_centers:
   long: "-89.535549"
   closest_city:
     name: Ripley
-    distance:
-      value: 0.32
-      units: km
+    distance_km: 0.32
 - country: US
   region: TN
   exchange: '326814'
@@ -7120,9 +6584,7 @@ rate_centers:
   long: "-82.070624"
   closest_city:
     name: Roan Mountain
-    distance:
-      value: 0.76
-      units: km
+    distance_km: 0.76
 - country: US
   region: TN
   exchange: '186230'
@@ -7134,9 +6596,7 @@ rate_centers:
   long: "-84.593289"
   closest_city:
     name: Robbins
-    distance:
-      value: 0.98
-      units: km
+    distance_km: 0.98
 - country: US
   region: TN
   exchange: '326815'
@@ -7157,9 +6617,7 @@ rate_centers:
   long: "-85.631191"
   closest_city:
     name: Doyle
-    distance:
-      value: 14.6
-      units: km
+    distance_km: 14.6
 - country: US
   region: TN
   exchange: '327114'
@@ -7189,9 +6647,7 @@ rate_centers:
   long: "-84.682783"
   closest_city:
     name: Rockwood
-    distance:
-      value: 0.94
-      units: km
+    distance_km: 0.94
 - country: US
   region: TN
   exchange: '326501'
@@ -7212,9 +6668,7 @@ rate_centers:
   long: "-83.011265"
   closest_city:
     name: Rogersville
-    distance:
-      value: 0.63
-      units: km
+    distance_km: 0.63
 - country: US
   region: TN
   exchange: '186270'
@@ -7226,9 +6680,7 @@ rate_centers:
   long: "-89.768702"
   closest_city:
     name: Atoka
-    distance:
-      value: 7.59
-      units: km
+    distance_km: 7.59
 - country: US
   region: TN
   exchange: '326818'
@@ -7294,9 +6746,7 @@ rate_centers:
   long: "-88.982986"
   closest_city:
     name: Rutherford
-    distance:
-      value: 0.81
-      units: km
+    distance_km: 0.81
 - country: US
   region: TN
   exchange: '186290'
@@ -7308,9 +6758,7 @@ rate_centers:
   long: "-83.518725"
   closest_city:
     name: Rutledge
-    distance:
-      value: 1.33
-      units: km
+    distance_km: 1.33
 - country: US
   region: TN
   exchange: '326843'
@@ -7353,7 +6801,7 @@ rate_centers:
   name: SALTILLO
   full_name: Saltillo
   lata: '468'
-  ilec_name: CENTURYTEL OF ADAMSVILLE DBA CENTURYLINK-ADAMSVILL
+  ilec_name: BRIGHTSPEED OF WESTERN TENNESSEE, LLC
   lat:
   long:
 - country: US
@@ -7376,9 +6824,7 @@ rate_centers:
   long: "-87.206841"
   closest_city:
     name: Clarksville
-    distance:
-      value: 14.3
-      units: km
+    distance_km: 14.3
 - country: US
   region: TN
   exchange: '186310'
@@ -7390,9 +6836,7 @@ rate_centers:
   long: "-87.124286"
   closest_city:
     name: Columbia
-    distance:
-      value: 13.81
-      units: km
+    distance_km: 13.81
 - country: US
   region: TN
   exchange: '186320'
@@ -7404,9 +6848,7 @@ rate_centers:
   long: "-88.294116"
   closest_city:
     name: Sardis
-    distance:
-      value: 0.26
-      units: km
+    distance_km: 0.26
 - country: US
   region: TN
   exchange: '326508'
@@ -7427,9 +6869,7 @@ rate_centers:
   long: "-88.242258"
   closest_city:
     name: Savannah
-    distance:
-      value: 0.6
-      units: km
+    distance_km: 0.6
 - country: US
   region: TN
   exchange: '186340'
@@ -7441,9 +6881,7 @@ rate_centers:
   long: "-88.247721"
   closest_city:
     name: Scotts Hill
-    distance:
-      value: 0.54
-      units: km
+    distance_km: 0.54
 - country: US
   region: TN
   exchange: '186350'
@@ -7455,9 +6893,7 @@ rate_centers:
   long: "-88.598564"
   closest_city:
     name: Selmer
-    distance:
-      value: 0.69
-      units: km
+    distance_km: 0.69
 - country: US
   region: TN
   exchange: '326971'
@@ -7478,9 +6914,7 @@ rate_centers:
   long: "-83.566594"
   closest_city:
     name: Sevierville
-    distance:
-      value: 2.12
-      units: km
+    distance_km: 2.12
 - country: US
   region: TN
   exchange: '186370'
@@ -7492,9 +6926,7 @@ rate_centers:
   long: "-85.914843"
   closest_city:
     name: Sewanee
-    distance:
-      value: 0.65
-      units: km
+    distance_km: 0.65
 - country: US
   region: TN
   exchange: '327121'
@@ -7524,9 +6956,7 @@ rate_centers:
   long: "-81.94034"
   closest_city:
     name: Mountain City
-    distance:
-      value: 12.58
-      units: km
+    distance_km: 12.58
 - country: US
   region: TN
   exchange: '186390'
@@ -7538,23 +6968,19 @@ rate_centers:
   long: "-88.82734"
   closest_city:
     name: Sharon
-    distance:
-      value: 0.38
-      units: km
+    distance_km: 0.38
 - country: US
   region: TN
   exchange: '186400'
   name: SHARPSCHPL
   full_name: Sharps Chapel
   lata: '474'
-  ilec_name: CENTURYTEL OF CLAIRBORNE DBA CENTURYLINK-CLAIBORNE
+  ilec_name: BRIGHTSPEED OF EASTERN TENNESSEE, LLC
   lat: '36.350966'
   long: "-83.765456"
   closest_city:
     name: Maynardville
-    distance:
-      value: 12.11
-      units: km
+    distance_km: 12.11
 - country: US
   region: TN
   exchange: '326312'
@@ -7575,9 +7001,7 @@ rate_centers:
   long: "-89.98941"
   closest_city:
     name: Millington
-    distance:
-      value: 8.19
-      units: km
+    distance_km: 8.19
 - country: US
   region: TN
   exchange: '186420'
@@ -7589,9 +7013,7 @@ rate_centers:
   long: "-86.4553"
   closest_city:
     name: Shelbyville
-    distance:
-      value: 1.64
-      units: km
+    distance_km: 1.64
 - country: US
   region: TN
   exchange: '326972'
@@ -7616,14 +7038,12 @@ rate_centers:
   name: SHILOH
   full_name: Shiloh
   lata: '468'
-  ilec_name: CENTURYTEL OF ADAMSVILLE DBA CENTURYLINK-ADAMSVILL
+  ilec_name: BRIGHTSPEED OF WESTERN TENNESSEE, LLC
   lat: '35.057743'
   long: "-88.26977"
   closest_city:
     name: Counce
-    distance:
-      value: 1.94
-      units: km
+    distance_km: 1.94
 - country: US
   region: TN
   exchange: '362279'
@@ -7644,9 +7064,7 @@ rate_centers:
   long: "-88.898255"
   closest_city:
     name: Sharon
-    distance:
-      value: 6.79
-      units: km
+    distance_km: 6.79
 - country: US
   region: TN
   exchange: '184111'
@@ -7685,9 +7103,7 @@ rate_centers:
   long: "-85.811333"
   closest_city:
     name: Smithville
-    distance:
-      value: 0.88
-      units: km
+    distance_km: 0.88
 - country: US
   region: TN
   exchange: '186460'
@@ -7699,9 +7115,7 @@ rate_centers:
   long: "-86.516515"
   closest_city:
     name: Smyrna
-    distance:
-      value: 1.87
-      units: km
+    distance_km: 1.87
 - country: US
   region: TN
   exchange: '186470'
@@ -7713,9 +7127,7 @@ rate_centers:
   long: "-83.217483"
   closest_city:
     name: Sneedville
-    distance:
-      value: 0.74
-      units: km
+    distance_km: 0.74
 - country: US
   region: TN
   exchange: '186480'
@@ -7727,9 +7139,7 @@ rate_centers:
   long: "-85.188001"
   closest_city:
     name: Soddy-Daisy
-    distance:
-      value: 2.06
-      units: km
+    distance_km: 2.06
 - country: US
   region: TN
   exchange: '186490'
@@ -7741,9 +7151,7 @@ rate_centers:
   long: "-84.181624"
   closest_city:
     name: Karns
-    distance:
-      value: 6.53
-      units: km
+    distance_km: 6.53
 - country: US
   region: TN
   exchange: '186500'
@@ -7755,9 +7163,7 @@ rate_centers:
   long: "-89.349713"
   closest_city:
     name: Somerville
-    distance:
-      value: 3.45
-      units: km
+    distance_km: 3.45
 - country: US
   region: TN
   exchange: '326833'
@@ -7778,9 +7184,7 @@ rate_centers:
   long: "-87.376588"
   closest_city:
     name: Slayden
-    distance:
-      value: 10.91
-      units: km
+    distance_km: 10.91
 - country: US
   region: TN
   exchange: '186520'
@@ -7792,9 +7196,7 @@ rate_centers:
   long: "-87.218836"
   closest_city:
     name: Pleasant View
-    distance:
-      value: 16.58
-      units: km
+    distance_km: 16.58
 - country: US
   region: TN
   exchange: '186530'
@@ -7806,9 +7208,7 @@ rate_centers:
   long: "-88.875647"
   closest_city:
     name: South Fulton
-    distance:
-      value: 1.11
-      units: km
+    distance_km: 1.11
 - country: US
   region: TN
   exchange: '186540'
@@ -7820,9 +7220,7 @@ rate_centers:
   long: "-87.176746"
   closest_city:
     name: Adams
-    distance:
-      value: 12.03
-      units: km
+    distance_km: 12.03
 - country: US
   region: TN
   exchange: '186550'
@@ -7834,9 +7232,7 @@ rate_centers:
   long: "-88.325368"
   closest_city:
     name: Puryear
-    distance:
-      value: 6.61
-      units: km
+    distance_km: 6.61
 - country: US
   region: TN
   exchange: '186560'
@@ -7848,9 +7244,7 @@ rate_centers:
   long: "-87.434876"
   closest_city:
     name: Clarksville
-    distance:
-      value: 11.03
-      units: km
+    distance_km: 11.03
 - country: US
   region: TN
   exchange: '186570'
@@ -7862,9 +7256,7 @@ rate_centers:
   long: "-85.7163"
   closest_city:
     name: South Pittsburg
-    distance:
-      value: 1.31
-      units: km
+    distance_km: 1.31
 - country: US
   region: TN
   exchange: '326836'
@@ -7894,9 +7286,7 @@ rate_centers:
   long: "-85.466334"
   closest_city:
     name: Sparta
-    distance:
-      value: 1.34
-      units: km
+    distance_km: 1.34
 - country: US
   region: TN
   exchange: '186581'
@@ -7908,9 +7298,7 @@ rate_centers:
   long: "-85.466334"
   closest_city:
     name: Sparta
-    distance:
-      value: 1.34
-      units: km
+    distance_km: 1.34
 - country: US
   region: TN
   exchange: '327125'
@@ -7931,9 +7319,7 @@ rate_centers:
   long: "-85.468423"
   closest_city:
     name: Spencer
-    distance:
-      value: 1.13
-      units: km
+    distance_km: 1.13
 - country: US
   region: TN
   exchange: '186600'
@@ -7945,9 +7331,7 @@ rate_centers:
   long: "-87.325699"
   closest_city:
     name: Bon Aqua Junction
-    distance:
-      value: 1.3
-      units: km
+    distance_km: 1.3
 - country: US
   region: TN
   exchange: '186610'
@@ -7959,9 +7343,7 @@ rate_centers:
   long: "-84.855245"
   closest_city:
     name: Spring City
-    distance:
-      value: 0.74
-      units: km
+    distance_km: 0.74
 - country: US
   region: TN
   exchange: '186620'
@@ -7973,9 +7355,7 @@ rate_centers:
   long: "-86.934523"
   closest_city:
     name: Spring Hill
-    distance:
-      value: 2.13
-      units: km
+    distance_km: 2.13
 - country: US
   region: TN
   exchange: '186630'
@@ -7987,9 +7367,7 @@ rate_centers:
   long: "-86.8905"
   closest_city:
     name: Springfield
-    distance:
-      value: 2.34
-      units: km
+    distance_km: 2.34
 - country: US
   region: TN
   exchange: '326518'
@@ -8010,9 +7388,7 @@ rate_centers:
   long: "-87.509942"
   closest_city:
     name: St. Joseph
-    distance:
-      value: 1.38
-      units: km
+    distance_km: 1.38
 - country: US
   region: TN
   exchange: '186650'
@@ -8024,16 +7400,14 @@ rate_centers:
   long: "-89.402175"
   closest_city:
     name: Stanton
-    distance:
-      value: 0.42
-      units: km
+    distance_km: 0.42
 - country: US
   region: TN
   exchange: '326520'
   name: STANTONVL
   full_name: Stantonville
   lata: '468'
-  ilec_name: CENTURYTEL OF ADAMSVILLE DBA CENTURYLINK-ADAMSVILL
+  ilec_name: BRIGHTSPEED OF WESTERN TENNESSEE, LLC
   lat:
   long:
 - country: US
@@ -8074,9 +7448,7 @@ rate_centers:
   long: "-82.090213"
   closest_city:
     name: Hunter
-    distance:
-      value: 5.55
-      units: km
+    distance_km: 5.55
 - country: US
   region: TN
   exchange: '327126'
@@ -8106,9 +7478,7 @@ rate_centers:
   long: "-82.591864"
   closest_city:
     name: Sullivan Gardens
-    distance:
-      value: 1.48
-      units: km
+    distance_km: 1.48
 - country: US
   region: TN
   exchange: '362282'
@@ -8129,9 +7499,7 @@ rate_centers:
   long: "-87.291678"
   closest_city:
     name: Summertown
-    distance:
-      value: 1.52
-      units: km
+    distance_km: 1.52
 - country: US
   region: TN
   exchange: '326850'
@@ -8152,9 +7520,7 @@ rate_centers:
   long: "-84.669024"
   closest_city:
     name: Sunbright
-    distance:
-      value: 0.99
-      units: km
+    distance_km: 0.99
 - country: US
   region: TN
   exchange: '186700'
@@ -8166,9 +7532,7 @@ rate_centers:
   long: "-82.849679"
   closest_city:
     name: Surgoinsville
-    distance:
-      value: 0.87
-      units: km
+    distance_km: 0.87
 - country: US
   region: TN
   exchange: '186710'
@@ -8180,9 +7544,7 @@ rate_centers:
   long: "-84.464907"
   closest_city:
     name: Sweetwater
-    distance:
-      value: 0.66
-      units: km
+    distance_km: 0.66
 - country: US
   region: TN
   exchange: '326851'
@@ -8230,9 +7592,7 @@ rate_centers:
   long: "-85.052049"
   closest_city:
     name: Lake Tansi
-    distance:
-      value: 0.92
-      units: km
+    distance_km: 0.92
 - country: US
   region: TN
   exchange: '326854'
@@ -8253,16 +7613,14 @@ rate_centers:
   long: "-83.377155"
   closest_city:
     name: Bean Station
-    distance:
-      value: 8.24
-      units: km
+    distance_km: 8.24
 - country: US
   region: TN
   exchange: '327133'
   name: TAZEWELL
   full_name: Tazewell
   lata: '474'
-  ilec_name: CENTURYTEL OF CLAIRBORNE DBA CENTURYLINK-CLAIBORNE
+  ilec_name: BRIGHTSPEED OF EASTERN TENNESSEE, LLC
   lat:
   long:
 - country: US
@@ -8285,9 +7643,7 @@ rate_centers:
   long: "-84.30197"
   closest_city:
     name: Tellico Plains
-    distance:
-      value: 0.81
-      units: km
+    distance_km: 0.81
 - country: US
   region: TN
   exchange: '186457'
@@ -8299,9 +7655,7 @@ rate_centers:
   long: "-85.901604"
   closest_city:
     name: Hickman
-    distance:
-      value: 7.76
-      units: km
+    distance_km: 7.76
 - country: US
   region: TN
   exchange: '326855'
@@ -8340,9 +7694,7 @@ rate_centers:
   long: "-87.774495"
   closest_city:
     name: Tennessee Ridge
-    distance:
-      value: 1.51
-      units: km
+    distance_km: 1.51
 - country: US
   region: TN
   exchange: '326858'
@@ -8399,9 +7751,7 @@ rate_centers:
   long: "-89.477029"
   closest_city:
     name: Tiptonville
-    distance:
-      value: 1.49
-      units: km
+    distance_km: 1.49
 - country: US
   region: TN
   exchange: '326525'
@@ -8431,9 +7781,7 @@ rate_centers:
   long: "-85.734011"
   closest_city:
     name: Tracy City
-    distance:
-      value: 1.6
-      units: km
+    distance_km: 1.6
 - country: US
   region: TN
   exchange: '362284'
@@ -8463,9 +7811,7 @@ rate_centers:
   long: "-88.9436"
   closest_city:
     name: Trenton
-    distance:
-      value: 0.61
-      units: km
+    distance_km: 0.61
 - country: US
   region: TN
   exchange: '186790'
@@ -8477,9 +7823,7 @@ rate_centers:
   long: "-88.619267"
   closest_city:
     name: Trezevant
-    distance:
-      value: 0.52
-      units: km
+    distance_km: 0.52
 - country: US
   region: TN
   exchange: '186800'
@@ -8491,9 +7835,7 @@ rate_centers:
   long: "-89.185433"
   closest_city:
     name: Trimble
-    distance:
-      value: 0.46
-      units: km
+    distance_km: 0.46
 - country: US
   region: TN
   exchange: '186810'
@@ -8505,9 +7847,7 @@ rate_centers:
   long: "-86.657941"
   closest_city:
     name: Nolensville
-    distance:
-      value: 11.21
-      units: km
+    distance_km: 11.21
 - country: US
   region: TN
   exchange: '186820'
@@ -8519,9 +7859,7 @@ rate_centers:
   long: "-89.166933"
   closest_city:
     name: Troy
-    distance:
-      value: 0.78
-      units: km
+    distance_km: 0.78
 - country: US
   region: TN
   exchange: '186830'
@@ -8533,9 +7871,7 @@ rate_centers:
   long: "-86.206567"
   closest_city:
     name: Tullahoma
-    distance:
-      value: 1.89
-      units: km
+    distance_km: 1.89
 - country: US
   region: TN
   exchange: '326978'
@@ -8583,9 +7919,7 @@ rate_centers:
   long: "-89.049397"
   closest_city:
     name: Union City
-    distance:
-      value: 0.19
-      units: km
+    distance_km: 0.19
 - country: US
   region: TN
   exchange: '186850'
@@ -8597,9 +7931,7 @@ rate_centers:
   long: "-86.574744"
   closest_city:
     name: Unionville
-    distance:
-      value: 4.55
-      units: km
+    distance_km: 4.55
 - country: US
   region: TN
   exchange: '186860'
@@ -8611,9 +7943,7 @@ rate_centers:
   long: "-87.438581"
   closest_city:
     name: Vanleer
-    distance:
-      value: 0.6
-      units: km
+    distance_km: 0.6
 - country: US
   region: TN
   exchange: '327138'
@@ -8643,9 +7973,7 @@ rate_centers:
   long: "-85.858896"
   closest_city:
     name: Viola
-    distance:
-      value: 0.49
-      units: km
+    distance_km: 0.49
 - country: US
   region: TN
   exchange: '186880'
@@ -8657,9 +7985,7 @@ rate_centers:
   long: "-84.243561"
   closest_city:
     name: Vonore
-    distance:
-      value: 0.87
-      units: km
+    distance_km: 0.87
 - country: US
   region: TN
   exchange: '327140'
@@ -8752,9 +8078,7 @@ rate_centers:
   long: "-84.598887"
   closest_city:
     name: Wartburg
-    distance:
-      value: 1.25
-      units: km
+    distance_km: 1.25
 - country: US
   region: TN
   exchange: '186910'
@@ -8766,9 +8090,7 @@ rate_centers:
   long: "-86.332526"
   closest_city:
     name: Wartrace
-    distance:
-      value: 1.05
-      units: km
+    distance_km: 1.05
 - country: US
   region: TN
   exchange: '186920'
@@ -8780,9 +8102,7 @@ rate_centers:
   long: "-83.596821"
   closest_city:
     name: Rutledge
-    distance:
-      value: 6.19
-      units: km
+    distance_km: 6.19
 - country: US
   region: TN
   exchange: '362288'
@@ -8812,9 +8132,7 @@ rate_centers:
   long: "-86.13398"
   closest_city:
     name: Watertown
-    distance:
-      value: 0.53
-      units: km
+    distance_km: 0.53
 - country: US
   region: TN
   exchange: '326980'
@@ -8835,9 +8153,7 @@ rate_centers:
   long: "-87.792456"
   closest_city:
     name: Waverly
-    distance:
-      value: 1.45
-      units: km
+    distance_km: 1.45
 - country: US
   region: TN
   exchange: '186950'
@@ -8849,9 +8165,7 @@ rate_centers:
   long: "-87.766655"
   closest_city:
     name: Waynesboro
-    distance:
-      value: 1.09
-      units: km
+    distance_km: 1.09
 - country: US
   region: TN
   exchange: '326876'
@@ -8872,9 +8186,7 @@ rate_centers:
   long: "-84.464907"
   closest_city:
     name: Sweetwater
-    distance:
-      value: 0.66
-      units: km
+    distance_km: 0.66
 - country: US
   region: TN
   exchange: '186890'
@@ -8886,9 +8198,7 @@ rate_centers:
   long: "-87.438581"
   closest_city:
     name: Vanleer
-    distance:
-      value: 0.6
-      units: km
+    distance_km: 0.6
 - country: US
   region: TN
   exchange: '186970'
@@ -8900,9 +8210,7 @@ rate_centers:
   long: "-89.148902"
   closest_city:
     name: Whiteville
-    distance:
-      value: 0.68
-      units: km
+    distance_km: 0.68
 - country: US
   region: TN
   exchange: '327144'
@@ -8923,9 +8231,7 @@ rate_centers:
   long: "-86.250767"
   closest_city:
     name: Westmoreland
-    distance:
-      value: 0.5
-      units: km
+    distance_km: 0.5
 - country: US
   region: TN
   exchange: '326532'
@@ -8955,9 +8261,7 @@ rate_centers:
   long: "-87.223993"
   closest_city:
     name: White Bluff
-    distance:
-      value: 1.49
-      units: km
+    distance_km: 1.49
 - country: US
   region: TN
   exchange: '187000'
@@ -8969,9 +8273,7 @@ rate_centers:
   long: "-86.64748"
   closest_city:
     name: White House
-    distance:
-      value: 1.71
-      units: km
+    distance_km: 1.71
 - country: US
   region: TN
   exchange: '187010'
@@ -8983,9 +8285,7 @@ rate_centers:
   long: "-83.283782"
   closest_city:
     name: White Pine
-    distance:
-      value: 1.21
-      units: km
+    distance_km: 1.21
 - country: US
   region: TN
   exchange: '185822'
@@ -9024,9 +8324,7 @@ rate_centers:
   long: "-89.148902"
   closest_city:
     name: Whiteville
-    distance:
-      value: 0.68
-      units: km
+    distance_km: 0.68
 - country: US
   region: TN
   exchange: '326882'
@@ -9056,9 +8354,7 @@ rate_centers:
   long: "-85.518814"
   closest_city:
     name: Whitwell
-    distance:
-      value: 0.84
-      units: km
+    distance_km: 0.84
 - country: US
   region: TN
   exchange: '326883'
@@ -9097,9 +8393,7 @@ rate_centers:
   long: "-87.226351"
   closest_city:
     name: Mount Pleasant
-    distance:
-      value: 16.41
-      units: km
+    distance_km: 16.41
 - country: US
   region: TN
   exchange: '326537'
@@ -9120,9 +8414,7 @@ rate_centers:
   long: "-86.115976"
   closest_city:
     name: Winchester
-    distance:
-      value: 0.91
-      units: km
+    distance_km: 0.91
 - country: US
   region: TN
   exchange: '326885'
@@ -9170,9 +8462,7 @@ rate_centers:
   long: "-86.075548"
   closest_city:
     name: Woodbury
-    distance:
-      value: 0.3
-      units: km
+    distance_km: 0.3
 - country: US
   region: TN
   exchange: 18645B
@@ -9184,9 +8474,7 @@ rate_centers:
   long: "-86.075548"
   closest_city:
     name: Woodbury
-    distance:
-      value: 0.3
-      units: km
+    distance_km: 0.3
 - country: US
   region: TN
   exchange: '186459'
@@ -9198,9 +8486,7 @@ rate_centers:
   long: "-86.058564"
   closest_city:
     name: Lakewood Park
-    distance:
-      value: 8.75
-      units: km
+    distance_km: 8.75
 - country: US
   region: TN
   exchange: '326538'
@@ -9275,9 +8561,7 @@ rate_centers:
   long: "-89.12002"
   closest_city:
     name: Yorkville
-    distance:
-      value: 0.22
-      units: km
+    distance_km: 0.22
 - country: US
   region: TN
   exchange: '326541'
