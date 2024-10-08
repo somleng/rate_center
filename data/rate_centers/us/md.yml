@@ -188,15 +188,6 @@ rate_centers:
   long:
 - country: US
   region: MD
-  exchange: '311430'
-  name: ASHTON
-  full_name: Ashton
-  lata: '236'
-  ilec_name: VERIZON MARYLAND, INC.
-  lat:
-  long:
-- country: US
-  region: MD
   exchange: '079240'
   name: ASHTON236
   full_name: Ashton
@@ -207,6 +198,15 @@ rate_centers:
   closest_city:
     name: Ashton-Sandy Spring
     distance_km: 1.38
+- country: US
+  region: MD
+  exchange: '311430'
+  name: ASHTON
+  full_name: Ashton
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
 - country: US
   region: MD
   exchange: '079241'
@@ -401,17 +401,8 @@ rate_centers:
     distance_km: 0.66
 - country: US
   region: MD
-  exchange: '311757'
-  name: BERWYN
-  full_name: Berwyn
-  lata: '238'
-  ilec_name: VERIZON MARYLAND, INC.
-  lat:
-  long:
-- country: US
-  region: MD
   exchange: '080652'
-  name: Berwyn
+  name: BERWYN
   full_name: Berwyn
   lata: '236'
   ilec_name: VERIZON MARYLAND, INC.
@@ -422,8 +413,17 @@ rate_centers:
     distance_km: 0.09
 - country: US
   region: MD
+  exchange: '311757'
+  name: BERWYN
+  full_name: Berwyn
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
   exchange: '080655'
-  name: Berwyn (Baltimore LATA)
+  name: BERWYN (BALTIMORE LATA)
   full_name: Berwyn (Baltimore LATA)
   lata: '238'
   ilec_name: VERIZON MARYLAND, INC.
@@ -597,7 +597,7 @@ rate_centers:
 - country: US
   region: MD
   exchange: '080665'
-  name: Bowie-Glenn Dale (Baltimore LATA)
+  name: BOWIE-GLENN DALE (BALTIMORE LATA)
   full_name: Bowie-Glenn Dale (Baltimore LATA)
   lata: '238'
   ilec_name: VERIZON MARYLAND, INC.
@@ -1532,15 +1532,6 @@ rate_centers:
   long:
 - country: US
   region: MD
-  exchange: '311479'
-  name: DAMASCUS
-  full_name: Damascus
-  lata: '236'
-  ilec_name: VERIZON MARYLAND, INC.
-  lat:
-  long:
-- country: US
-  region: MD
   exchange: '079500'
   name: DAMASCS236
   full_name: Damascus
@@ -1551,6 +1542,15 @@ rate_centers:
   closest_city:
     name: Damascus
     distance_km: 2.35
+- country: US
+  region: MD
+  exchange: '311479'
+  name: DAMASCUS
+  full_name: Damascus
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
 - country: US
   region: MD
   exchange: '079501'
@@ -2961,7 +2961,7 @@ rate_centers:
 - country: US
   region: MD
   exchange: '080593'
-  name: Hyattsville (Baltimore LATA)
+  name: HYATTSVILLE (BALTIMORE LATA)
   full_name: Hyattsville (Baltimore LATA)
   lata: '238'
   ilec_name: VERIZON MARYLAND, INC.
@@ -3066,7 +3066,7 @@ rate_centers:
 - country: US
   region: MD
   exchange: '079851'
-  name: Jarrettsville 941
+  name: JARRETTSVILLE 941
   full_name: Jarrettsville 941
   lata: '238'
   ilec_name: VERIZON MARYLAND, INC.
@@ -3311,6 +3311,15 @@ rate_centers:
   long:
 - country: US
   region: MD
+  exchange: '311521'
+  name: LAUREL
+  full_name: Laurel
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
   exchange: '079890'
   name: LAUREL236
   full_name: Laurel
@@ -3336,15 +3345,6 @@ rate_centers:
   name: LAUREL
   full_name: Laurel
   lata: '238'
-  ilec_name: VERIZON MARYLAND, INC.
-  lat:
-  long:
-- country: US
-  region: MD
-  exchange: '311521'
-  name: LAUREL
-  full_name: Laurel
-  lata: '236'
   ilec_name: VERIZON MARYLAND, INC.
   lat:
   long:
@@ -6413,7 +6413,7 @@ rate_centers:
   long:
 - country: US
   region: MD
-  exchange: '080132'
+  exchange: '311982'
   name: WHITEMARSH
   full_name: White Marsh
   lata: '238'
@@ -6422,7 +6422,7 @@ rate_centers:
   long:
 - country: US
   region: MD
-  exchange: '311982'
+  exchange: '080132'
   name: WHITEMARSH
   full_name: White Marsh
   lata: '238'

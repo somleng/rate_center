@@ -84,7 +84,7 @@ module RateCenter
               "country" => "US",
               "region" => region,
               "exchange" => rate_center.exch,
-              "name" => rate_center.rcshort || rate_center.rc,
+              "name" => (rate_center.rcshort || rate_center.rc).strip.upcase,
               "full_name" => rate_center.rc,
               "lata" => rate_center.lata,
               "ilec_name" => rate_center.ilec_name,
