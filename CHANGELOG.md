@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.4](https://github.com/somleng/rate_center/compare/v0.1.3...v0.1.4) (2024-10-08)
+
+
+### Bug Fixes
+
+* Capitalize rate center names ([#14](https://github.com/somleng/rate_center/issues/14)) ([68b9746](https://github.com/somleng/rate_center/commit/68b97465808069dbc3a09e66e0d8eeec83149a57))
+
 ## [0.1.3](https://github.com/somleng/rate_center/compare/v0.1.2...v0.1.3) (2024-10-07)
 
 
