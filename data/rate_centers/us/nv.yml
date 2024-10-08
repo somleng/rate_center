@@ -456,7 +456,7 @@ rate_centers:
 - country: US
   region: NV
   exchange: '130771'
-  name: Dayton
+  name: DAYTON
   full_name: Dayton
   lata: '720'
   ilec_name: NEVADA BELL
@@ -1955,6 +1955,15 @@ rate_centers:
   long:
 - country: US
   region: NV
+  exchange: '410747'
+  name: SPARKS
+  full_name: Sparks
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat:
+  long:
+- country: US
+  region: NV
   exchange: '131392'
   name: SPARKS
   full_name: Sparks
@@ -1965,15 +1974,6 @@ rate_centers:
   closest_city:
     name: Reno
     distance_km: 4.35
-- country: US
-  region: NV
-  exchange: '410747'
-  name: SPARKS
-  full_name: Sparks
-  lata: '720'
-  ilec_name: NEVADA BELL
-  lat:
-  long:
 - country: US
   region: NV
   exchange: '131490'

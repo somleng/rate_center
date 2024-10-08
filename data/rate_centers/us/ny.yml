@@ -2555,20 +2555,20 @@ rate_centers:
   long:
 - country: US
   region: NY
-  exchange: '362885'
-  name: BLOOMFIELD
-  full_name: Bloomfield
-  lata: '974'
-  ilec_name: FRONTIER COMMUNICATIONS OF SENECA GORHAM, INC.
-  lat:
-  long:
-- country: US
-  region: NY
   exchange: '302666'
   name: BLOOMFIELD
   full_name: Bloomfield
   lata: '132'
   ilec_name: VERIZON NEW YORK, INC.
+  lat:
+  long:
+- country: US
+  region: NY
+  exchange: '362885'
+  name: BLOOMFIELD
+  full_name: Bloomfield
+  lata: '974'
+  ilec_name: FRONTIER COMMUNICATIONS OF SENECA GORHAM, INC.
   lat:
   long:
 - country: US
@@ -4895,8 +4895,8 @@ rate_centers:
     distance_km: 9.7
 - country: US
   region: NY
-  exchange: '305642'
-  name: CHEEKTOWGA
+  exchange: '138551'
+  name: CHEEKTWAGA
   full_name: Cheektowaga
   lata: '140'
   ilec_name: VERIZON NEW YORK, INC.
@@ -4904,8 +4904,8 @@ rate_centers:
   long:
 - country: US
   region: NY
-  exchange: '138551'
-  name: CHEEKTWAGA
+  exchange: '305642'
+  name: CHEEKTOWGA
   full_name: Cheektowaga
   lata: '140'
   ilec_name: VERIZON NEW YORK, INC.
@@ -17006,19 +17006,19 @@ rate_centers:
   long:
 - country: US
   region: NY
-  exchange: '303001'
+  exchange: '304826'
   name: MAPLETON
   full_name: Mapleton
-  lata: '132'
+  lata: '136'
   ilec_name: VERIZON NEW YORK, INC.
   lat:
   long:
 - country: US
   region: NY
-  exchange: '304826'
+  exchange: '303001'
   name: MAPLETON
   full_name: Mapleton
-  lata: '136'
+  lata: '132'
   ilec_name: VERIZON NEW YORK, INC.
   lat:
   long:
@@ -23696,15 +23696,6 @@ rate_centers:
   long:
 - country: US
   region: NY
-  exchange: '136211'
-  name: QUEENS13
-  full_name: Queens
-  lata: '132'
-  ilec_name: VERIZON NEW YORK, INC.
-  lat:
-  long:
-- country: US
-  region: NY
   exchange: '136171'
   name: QUEENS 9
   full_name: Queens
@@ -23716,6 +23707,15 @@ rate_centers:
   region: NY
   exchange: '136191'
   name: QUEENS11
+  full_name: Queens
+  lata: '132'
+  ilec_name: VERIZON NEW YORK, INC.
+  lat:
+  long:
+- country: US
+  region: NY
+  exchange: '136211'
+  name: QUEENS13
   full_name: Queens
   lata: '132'
   ilec_name: VERIZON NEW YORK, INC.
@@ -24098,7 +24098,7 @@ rate_centers:
     distance_km: 3.75
 - country: US
   region: NY
-  exchange: '303207'
+  exchange: '303206'
   name: REMSEN VLG
   full_name: Remsen Village
   lata: '132'
@@ -24107,7 +24107,7 @@ rate_centers:
   long:
 - country: US
   region: NY
-  exchange: '303206'
+  exchange: '303207'
   name: REMSEN VLG
   full_name: Remsen Village
   lata: '132'
@@ -24321,7 +24321,7 @@ rate_centers:
 - country: US
   region: NY
   exchange: '136231'
-  name: Richmond (Staten Island)
+  name: RICHMOND (STATEN ISLAND)
   full_name: Richmond (Staten Island)
   lata: '132'
   ilec_name: VERIZON NEW YORK, INC.
@@ -24330,7 +24330,7 @@ rate_centers:
 - country: US
   region: NY
   exchange: '136221'
-  name: Richmond (Staten Island)
+  name: RICHMOND (STATEN ISLAND)
   full_name: Richmond (Staten Island)
   lata: '132'
   ilec_name: VERIZON NEW YORK, INC.
@@ -24450,7 +24450,7 @@ rate_centers:
 - country: US
   region: NY
   exchange: '136162'
-  name: Rikers Island (Bronx)
+  name: RIKERS ISLAND (BRONX)
   full_name: Rikers Island (Bronx)
   lata: '132'
   ilec_name: VERIZON NEW YORK, INC.
@@ -27515,7 +27515,7 @@ rate_centers:
   long:
 - country: US
   region: NY
-  exchange: '303280'
+  exchange: '303279'
   name: SOUTH SIDE
   full_name: South Side
   lata: '132'
@@ -27524,7 +27524,7 @@ rate_centers:
   long:
 - country: US
   region: NY
-  exchange: '303279'
+  exchange: '303280'
   name: SOUTH SIDE
   full_name: South Side
   lata: '132'
@@ -28127,7 +28127,7 @@ rate_centers:
   long:
 - country: US
   region: NY
-  exchange: '303303'
+  exchange: '303302'
   name: STATEN IS
   full_name: Staten Island
   lata: '132'
@@ -28136,7 +28136,7 @@ rate_centers:
   long:
 - country: US
   region: NY
-  exchange: '303302'
+  exchange: '303303'
   name: STATEN IS
   full_name: Staten Island
   lata: '132'
@@ -31469,7 +31469,7 @@ rate_centers:
   long:
 - country: US
   region: NY
-  exchange: '303359'
+  exchange: '303360'
   name: W MIDWOOD
   full_name: West Midwood
   lata: '132'
@@ -31478,7 +31478,7 @@ rate_centers:
   long:
 - country: US
   region: NY
-  exchange: '303360'
+  exchange: '303359'
   name: W MIDWOOD
   full_name: West Midwood
   lata: '132'
