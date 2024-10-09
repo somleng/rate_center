@@ -6,6 +6,10 @@ module RateCenter
       @collection ||= load_collection
     end
 
+    def reload!
+      @collection = load_collection
+    end
+
     def all
       collection
     end

@@ -16,6 +16,20 @@ module RateCenter
       )
     end
 
+    it "reloads the data" do
+      ::RateCenter.load(:cities, only: { us: { ny: "New York", ca: "Los Angeles" } })
+
+      cities = City.all
+
+      expect(cities.size).to eq(2)
+
+      ::RateCenter.load(:cities, only: { us: { ny: "New York", ca: [ "San Francisco", "Los Angeles" ] } })
+      expect(cities.size).to eq(2)
+
+      City.reload!
+      expect(City.all.size).to eq(3)
+    end
+
     it "finds a city" do
       ::RateCenter.load(:cities, only: { us: { ny: "New York" } })
 
