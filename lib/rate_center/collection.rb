@@ -7,7 +7,7 @@ module RateCenter
     end
 
     def reload!
-      @collection = load_collection
+      @collection = nil
     end
 
     def all
