@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.5](https://github.com/somleng/rate_center/compare/v0.1.4...v0.1.5) (2024-10-09)
+
+
+### Bug Fixes
+
+* Add reload API ([#16](https://github.com/somleng/rate_center/issues/16)) ([4486788](https://github.com/somleng/rate_center/commit/44867882362fee68cec1d90df8185894707bd81f))
+
 ## [0.1.4](https://github.com/somleng/rate_center/compare/v0.1.3...v0.1.4) (2024-10-08)
 
 
