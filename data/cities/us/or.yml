@@ -1423,18 +1423,6 @@ cities:
 - country: US
   region: OR
   name: Fairview
-  lat: '45.4583'
-  long: "-123.7927"
-  nearby_rate_centers:
-  - name: TILLAMOOK
-    distance_km: 3.93
-  - name: BAY CITY
-    distance_km: 10.08
-  - name: GARIBALDI
-    distance_km: 14.74
-- country: US
-  region: OR
-  name: Fairview
   lat: '45.5469'
   long: "-122.4390"
   nearby_rate_centers:
@@ -1444,6 +1432,18 @@ cities:
     distance_km: 12.84
   - name: SUNNYSIDE
     distance_km: 14.34
+- country: US
+  region: OR
+  name: Fairview
+  lat: '45.4583'
+  long: "-123.7927"
+  nearby_rate_centers:
+  - name: TILLAMOOK
+    distance_km: 3.93
+  - name: BAY CITY
+    distance_km: 10.08
+  - name: GARIBALDI
+    distance_km: 14.74
 - country: US
   region: OR
   name: Falcon Heights
