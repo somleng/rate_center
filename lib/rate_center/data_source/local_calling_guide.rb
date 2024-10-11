@@ -86,7 +86,7 @@ module RateCenter
               "exchange" => rate_center.exch,
               "name" => (rate_center.rcshort || rate_center.rc).strip.upcase,
               "full_name" => rate_center.rc,
-              "lata" => rate_center.lata,
+              "lata" => rate_center.lata.slice(0, 3),
               "ilec_name" => rate_center.ilec_name,
               "lat" => rate_center.rc_lat,
               "long" => rate_center.rc_lon
