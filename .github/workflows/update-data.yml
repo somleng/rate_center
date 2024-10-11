@@ -3,7 +3,8 @@ name: Update Data
 on: push
 
 jobs:
-  fetch_data:
+  update-data:
+    name: Update Data
     runs-on: ubuntu-latest
 
     steps:
