@@ -1119,18 +1119,6 @@ cities:
 - country: US
   region: SD
   name: Clear Lake
-  lat: '45.6933'
-  long: "-97.3572"
-  nearby_rate_centers:
-  - name: VEBLEN
-    distance_km: 20.18
-  - name: ROSLYN
-    distance_km: 23.69
-  - name: SISSETON
-    distance_km: 23.87
-- country: US
-  region: SD
-  name: Clear Lake
   lat: '44.7644'
   long: "-96.6768"
   nearby_rate_centers:
@@ -1140,6 +1128,18 @@ cities:
     distance_km: 11.86
   - name: GARY
     distance_km: 18.09
+- country: US
+  region: SD
+  name: Clear Lake
+  lat: '45.6933'
+  long: "-97.3572"
+  nearby_rate_centers:
+  - name: VEBLEN
+    distance_km: 20.18
+  - name: ROSLYN
+    distance_km: 23.69
+  - name: SISSETON
+    distance_km: 23.87
 - country: US
   region: SD
   name: Clearfield Colony
