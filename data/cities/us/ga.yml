@@ -1094,19 +1094,6 @@ cities:
     distance_km: 12.38
 - country: US
   region: GA
-  county: Morgan
-  name: Buckhead
-  lat: '33.5686'
-  long: "-83.3623"
-  nearby_rate_centers:
-  - name: MADISON
-    distance_km: 10.18
-  - name: GREENSBORO
-    distance_km: 16.68
-  - name: RUTLEDGE
-    distance_km: 24.15
-- country: US
-  region: GA
   county: Bryan
   name: Buckhead
   lat: '31.8613'
@@ -1118,6 +1105,19 @@ cities:
     distance_km: 4.57
   - name: MIDWAY
     distance_km: 16.26
+- country: US
+  region: GA
+  county: Morgan
+  name: Buckhead
+  lat: '33.5686'
+  long: "-83.3623"
+  nearby_rate_centers:
+  - name: MADISON
+    distance_km: 10.18
+  - name: GREENSBORO
+    distance_km: 16.68
+  - name: RUTLEDGE
+    distance_km: 24.15
 - country: US
   region: GA
   county: Marion

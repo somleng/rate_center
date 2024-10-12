@@ -2437,19 +2437,6 @@ cities:
     distance_km: 11.81
 - country: US
   region: PR
-  county: Lajas
-  name: Palmarejo
-  lat: '18.0409'
-  long: "-67.0766"
-  nearby_rate_centers:
-  - name: LAJAS
-    distance_km: 2.56
-  - name: SAN GERMAN
-    distance_km: 5.8
-  - name: CABO ROJO
-    distance_km: 8.96
-- country: US
-  region: PR
   county: Corozal
   name: Palmarejo
   lat: '18.3149'
@@ -2461,6 +2448,19 @@ cities:
     distance_km: 4.72
   - name: TOA ALTA
     distance_km: 9.12
+- country: US
+  region: PR
+  county: Lajas
+  name: Palmarejo
+  lat: '18.0409'
+  long: "-67.0766"
+  nearby_rate_centers:
+  - name: LAJAS
+    distance_km: 2.56
+  - name: SAN GERMAN
+    distance_km: 5.8
+  - name: CABO ROJO
+    distance_km: 8.96
 - country: US
   region: PR
   county: Humacao
@@ -3153,19 +3153,6 @@ cities:
     distance_km: 7.2
 - country: US
   region: PR
-  county: Aguadilla
-  name: San Antonio
-  lat: '18.4932'
-  long: "-67.0997"
-  nearby_rate_centers:
-  - name: RAMEY
-    distance_km: 3.53
-  - name: ISABELA
-    distance_km: 7.94
-  - name: MOCA
-    distance_km: 10.87
-- country: US
-  region: PR
   county: Quebradillas
   name: San Antonio
   lat: '18.4391'
@@ -3177,6 +3164,19 @@ cities:
     distance_km: 10.67
   - name: ISABELA
     distance_km: 11.93
+- country: US
+  region: PR
+  county: Aguadilla
+  name: San Antonio
+  lat: '18.4932'
+  long: "-67.0997"
+  nearby_rate_centers:
+  - name: RAMEY
+    distance_km: 3.53
+  - name: ISABELA
+    distance_km: 7.94
+  - name: MOCA
+    distance_km: 10.87
 - country: US
   region: PR
   county: !binary |-
