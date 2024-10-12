@@ -1,7 +1,7 @@
 require "faraday"
 require "zip"
 require "csv"
-require "yaml"
+require "json"
 require "ostruct"
 
 module RateCenter
@@ -73,7 +73,7 @@ module RateCenter
         end
 
         cities_by_state.each do |state, cities|
-          data_file = data_directory.join("#{state.downcase}.yml")
+          data_file = data_directory.join("#{state.downcase}.json")
 
           data = cities.sort_by { |city| [ city.city, city.county ] }.map do |city|
             {
@@ -86,7 +86,7 @@ module RateCenter
             }
           end
 
-          data_file.write({ "cities" => data }.to_yaml)
+          data_file.write(JSON.pretty_generate("cities" => data))
         end
       end
     end

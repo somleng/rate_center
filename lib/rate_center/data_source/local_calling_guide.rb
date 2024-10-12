@@ -1,7 +1,7 @@
 require "faraday"
 require "multi_xml"
 require "rack"
-require "yaml"
+require "json"
 require "countries"
 require "ostruct"
 
@@ -75,7 +75,7 @@ module RateCenter
         us_regions = Array(regions_for("US"))
 
         Array(us_regions).each do |region, _|
-          data_file = data_directory.join("#{region.downcase}.yml")
+          data_file = data_directory.join("#{region.downcase}.json")
           rate_centers = client.fetch_rate_center_data(region:).rate_centers
           next if rate_centers.empty?
 
@@ -93,7 +93,7 @@ module RateCenter
             }
           end
 
-          data_file.write({ "rate_centers" => data }.to_yaml)
+          data_file.write(JSON.pretty_generate("rate_centers" => data))
         end
       end
 
