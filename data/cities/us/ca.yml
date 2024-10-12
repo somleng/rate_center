@@ -365,18 +365,6 @@ cities:
 - country: US
   region: CA
   name: Alta Sierra
-  lat: '35.7292'
-  long: "-118.5493"
-  nearby_rate_centers:
-  - name: KERNVILLE
-    distance_km: 11.49
-  - name: LKISABELLA
-    distance_km: 13.39
-  - name: GLENNVILLE
-    distance_km: 15.85
-- country: US
-  region: CA
-  name: Alta Sierra
   lat: '39.1237'
   long: "-121.0523"
   nearby_rate_centers:
@@ -388,6 +376,18 @@ cities:
     distance_km: 10.41
   - name: CLFX WEMR
     distance_km: 11.69
+- country: US
+  region: CA
+  name: Alta Sierra
+  lat: '35.7292'
+  long: "-118.5493"
+  nearby_rate_centers:
+  - name: KERNVILLE
+    distance_km: 11.49
+  - name: LKISABELLA
+    distance_km: 13.39
+  - name: GLENNVILLE
+    distance_km: 15.85
 - country: US
   region: CA
   name: Altadena
@@ -9598,6 +9598,18 @@ cities:
 - country: US
   region: CA
   name: Lakeside
+  lat: '32.8560'
+  long: "-116.9040"
+  nearby_rate_centers:
+  - name: EL CAJON
+    distance_km: 8.53
+  - name: HARBSNALPN
+    distance_km: 13.21
+  - name: LA MESA
+    distance_km: 14.26
+- country: US
+  region: CA
+  name: Lakeside
   lat: '35.2347'
   long: "-119.0829"
   nearby_rate_centers:
@@ -9611,18 +9623,6 @@ cities:
     distance_km: 23.82
   - name: SHAFTER
     distance_km: 35.22
-- country: US
-  region: CA
-  name: Lakeside
-  lat: '32.8560'
-  long: "-116.9040"
-  nearby_rate_centers:
-  - name: EL CAJON
-    distance_km: 8.53
-  - name: HARBSNALPN
-    distance_km: 13.21
-  - name: LA MESA
-    distance_km: 14.26
 - country: US
   region: CA
   name: Lakeview
@@ -18405,18 +18405,6 @@ cities:
 - country: US
   region: CA
   name: Twin Lakes
-  lat: '38.1695'
-  long: "-119.3422"
-  nearby_rate_centers:
-  - name: BRIDGEPORT
-    distance_km: 13.97
-  - name: LEE VINING
-    distance_km: 30.16
-  - name: COLEVILLE
-    distance_km: 46.55
-- country: US
-  region: CA
-  name: Twin Lakes
   lat: '36.9646'
   long: "-121.9896"
   nearby_rate_centers:
@@ -18426,6 +18414,18 @@ cities:
     distance_km: 7.93
   - name: FELTON
     distance_km: 12.2
+- country: US
+  region: CA
+  name: Twin Lakes
+  lat: '38.1695'
+  long: "-119.3422"
+  nearby_rate_centers:
+  - name: BRIDGEPORT
+    distance_km: 13.97
+  - name: LEE VINING
+    distance_km: 30.16
+  - name: COLEVILLE
+    distance_km: 46.55
 - country: US
   region: CA
   name: Ukiah
