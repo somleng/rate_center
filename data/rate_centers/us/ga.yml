@@ -135,7 +135,7 @@ rate_centers:
   name: ALLENHURST
   full_name: Allenhurst
   lata: '440'
-  ilec_name: BRIGHTSPEED OF GEORGIA, LLC
+  ilec_name: 'BRIGHTSPEED OF GEORGIA, LLC                               '
   lat:
   long:
 - country: US
@@ -200,6 +200,15 @@ rate_centers:
   long:
 - country: US
   region: GA
+  exchange: '322837'
+  name: AMCOLA FLS
+  full_name: Amicalola Falls
+  lata: '438'
+  ilec_name: WINDSTREAM STANDARD, INC.
+  lat:
+  long:
+- country: US
+  region: GA
   exchange: '032400'
   name: AMERICUS
   full_name: Americus
@@ -210,15 +219,6 @@ rate_centers:
   closest_city:
     name: Americus
     distance_km: 1.26
-- country: US
-  region: GA
-  exchange: '322837'
-  name: AMCOLA FLS
-  full_name: Amicalola Falls
-  lata: '438'
-  ilec_name: WINDSTREAM STANDARD, INC.
-  lat:
-  long:
 - country: US
   region: GA
   exchange: '032410'
@@ -1544,6 +1544,18 @@ rate_centers:
   long:
 - country: US
   region: GA
+  exchange: '032930'
+  name: CEDAR SPG
+  full_name: Cedar Springs
+  lata: '444'
+  ilec_name: WINDSTREAM GEORGIA TELEPHONE, INC.
+  lat: '31.166072'
+  long: "-85.037977"
+  closest_city:
+    name: Cedar Springs
+    distance_km: 2.42
+- country: US
+  region: GA
   exchange: '032920'
   name: CEDARGROVE
   full_name: Cedar Grove
@@ -1563,18 +1575,6 @@ rate_centers:
   ilec_name: DARIEN TEL. CO., INC.
   lat:
   long:
-- country: US
-  region: GA
-  exchange: '032930'
-  name: CEDAR SPG
-  full_name: Cedar Springs
-  lata: '444'
-  ilec_name: WINDSTREAM GEORGIA TELEPHONE, INC.
-  lat: '31.166072'
-  long: "-85.037977"
-  closest_city:
-    name: Cedar Springs
-    distance_km: 2.42
 - country: US
   region: GA
   exchange: '032940'
@@ -1599,15 +1599,6 @@ rate_centers:
   closest_city:
     name: Centerville
     distance_km: 0.96
-- country: US
-  region: GA
-  exchange: '322917'
-  name: CNTRLHATCH
-  full_name: Centralhatchee
-  lata: '438'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
 - country: US
   region: GA
   exchange: '322903'
@@ -1640,18 +1631,6 @@ rate_centers:
   long:
 - country: US
   region: GA
-  exchange: '032970'
-  name: CHATSWORTH
-  full_name: Chatsworth
-  lata: '438'
-  ilec_name: WINDSTREAM GEORGIA COMMUNICATIONS CORP.
-  lat: '34.767532'
-  long: "-84.767114"
-  closest_city:
-    name: Chatsworth
-    distance_km: 2.1
-- country: US
-  region: GA
   exchange: '032980'
   name: CHATAHOCHE
   full_name: Chattahoochee
@@ -1662,6 +1641,18 @@ rate_centers:
   closest_city:
     name: Faceville
     distance_km: 15.55
+- country: US
+  region: GA
+  exchange: '032970'
+  name: CHATSWORTH
+  full_name: Chatsworth
+  lata: '438'
+  ilec_name: WINDSTREAM GEORGIA COMMUNICATIONS CORP.
+  lat: '34.767532'
+  long: "-84.767114"
+  closest_city:
+    name: Chatsworth
+    distance_km: 2.1
 - country: US
   region: GA
   exchange: '322906'
@@ -1882,6 +1873,15 @@ rate_centers:
   full_name: Clyo
   lata: '440'
   ilec_name: GEORGIA WINDSTREAM, INC.
+  lat:
+  long:
+- country: US
+  region: GA
+  exchange: '322917'
+  name: CNTRLHATCH
+  full_name: Centralhatchee
+  lata: '438'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
   lat:
   long:
 - country: US
@@ -2673,7 +2673,7 @@ rate_centers:
   name: DORCHESTER
   full_name: Dorchester
   lata: '440'
-  ilec_name: BRIGHTSPEED OF GEORGIA, LLC
+  ilec_name: 'BRIGHTSPEED OF GEORGIA, LLC                               '
   lat:
   long:
 - country: US
@@ -3249,7 +3249,7 @@ rate_centers:
   name: FLEMING
   full_name: Fleming
   lata: '440'
-  ilec_name: BRIGHTSPEED OF GEORGIA, LLC
+  ilec_name: 'BRIGHTSPEED OF GEORGIA, LLC                               '
   lat:
   long:
 - country: US
@@ -3258,7 +3258,7 @@ rate_centers:
   name: FLEMINGTON
   full_name: Flemington
   lata: '440'
-  ilec_name: BRIGHTSPEED OF GEORGIA, LLC
+  ilec_name: 'BRIGHTSPEED OF GEORGIA, LLC                               '
   lat:
   long:
 - country: US
@@ -3380,15 +3380,6 @@ rate_centers:
     distance_km: 0.73
 - country: US
   region: GA
-  exchange: '322992'
-  name: FT BENNING
-  full_name: Fort Benning
-  lata: '438'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: GA
   exchange: '033630'
   name: FORTGAINES
   full_name: Fort Gaines
@@ -3401,15 +3392,6 @@ rate_centers:
     distance_km: 1.85
 - country: US
   region: GA
-  exchange: '322993'
-  name: FT GILLEM
-  full_name: Fort Gillem
-  lata: '438'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: GA
   exchange: '323438'
   name: FORTGORDON
   full_name: Fort Gordon
@@ -3419,29 +3401,11 @@ rate_centers:
   long:
 - country: US
   region: GA
-  exchange: '322994'
-  name: FTMCPHERSN
-  full_name: Fort McPherson
+  exchange: '322989'
+  name: FORTSON
+  full_name: Fortson
   lata: '438'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: GA
-  exchange: '326901'
-  name: FTOGLETHRP
-  full_name: Fort Oglethorpe
-  lata: '472'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
-- country: US
-  region: GA
-  exchange: '033931'
-  name: FT STEWART
-  full_name: Fort Stewart
-  lata: '440'
-  ilec_name: BRIGHTSPEED OF GEORGIA, LLC
   lat:
   long:
 - country: US
@@ -3456,15 +3420,6 @@ rate_centers:
   closest_city:
     name: Fort Valley
     distance_km: 0.28
-- country: US
-  region: GA
-  exchange: '322989'
-  name: FORTSON
-  full_name: Fortson
-  lata: '438'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
 - country: US
   region: GA
   exchange: '033650'
@@ -3491,6 +3446,51 @@ rate_centers:
   exchange: '326900'
   name: FRY
   full_name: Fry
+  lata: '472'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
+- country: US
+  region: GA
+  exchange: '322992'
+  name: FT BENNING
+  full_name: Fort Benning
+  lata: '438'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: GA
+  exchange: '322993'
+  name: FT GILLEM
+  full_name: Fort Gillem
+  lata: '438'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: GA
+  exchange: '033931'
+  name: FT STEWART
+  full_name: Fort Stewart
+  lata: '440'
+  ilec_name: 'BRIGHTSPEED OF GEORGIA, LLC                               '
+  lat:
+  long:
+- country: US
+  region: GA
+  exchange: '322994'
+  name: FTMCPHERSN
+  full_name: Fort McPherson
+  lata: '438'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: GA
+  exchange: '326901'
+  name: FTOGLETHRP
+  full_name: Fort Oglethorpe
   lata: '472'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
@@ -4086,7 +4086,7 @@ rate_centers:
   name: HINESVILLE
   full_name: Hinesville
   lata: '440'
-  ilec_name: BRIGHTSPEED OF GEORGIA, LLC
+  ilec_name: 'BRIGHTSPEED OF GEORGIA, LLC                               '
   lat: '31.847569'
   long: "-81.590727"
   closest_city:
@@ -4397,18 +4397,6 @@ rate_centers:
     distance_km: 1.46
 - country: US
   region: GA
-  exchange: '034080'
-  name: JEFFERSON
-  full_name: Jefferson
-  lata: '438'
-  ilec_name: WINDSTREAM GEORGIA, INC.
-  lat: '34.127249'
-  long: "-83.576239"
-  closest_city:
-    name: Jefferson
-    distance_km: 2.63
-- country: US
-  region: GA
   exchange: '034090'
   name: JEFFERSNVL
   full_name: Jeffersonville
@@ -4419,6 +4407,18 @@ rate_centers:
   closest_city:
     name: Jeffersonville
     distance_km: 0.55
+- country: US
+  region: GA
+  exchange: '034080'
+  name: JEFFERSON
+  full_name: Jefferson
+  lata: '438'
+  ilec_name: WINDSTREAM GEORGIA, INC.
+  lat: '34.127249'
+  long: "-83.576239"
+  closest_city:
+    name: Jefferson
+    distance_km: 2.63
 - country: US
   region: GA
   exchange: '034100'
@@ -4484,20 +4484,20 @@ rate_centers:
     distance_km: 12.39
 - country: US
   region: GA
-  exchange: '323323'
-  name: JONESCREEK
-  full_name: Jones Creek
-  lata: '440'
-  ilec_name: GEORGIA WINDSTREAM, INC.
-  lat:
-  long:
-- country: US
-  region: GA
   exchange: '032495'
   name: JONESBORO
   full_name: Jonesboro
   lata: '438'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: GA
+  exchange: '323323'
+  name: JONESCREEK
+  full_name: Jones Creek
+  lata: '440'
+  ilec_name: GEORGIA WINDSTREAM, INC.
   lat:
   long:
 - country: US
@@ -4560,7 +4560,7 @@ rate_centers:
   name: KELLER
   full_name: Keller
   lata: '440'
-  ilec_name: BRIGHTSPEED OF GEORGIA, LLC
+  ilec_name: 'BRIGHTSPEED OF GEORGIA, LLC                               '
   lat: '31.843976'
   long: "-81.25336"
   closest_city:
@@ -4718,18 +4718,6 @@ rate_centers:
     distance_km: 1.47
 - country: US
   region: GA
-  exchange: '034200'
-  name: LKBLACKSHE
-  full_name: Lake Blackshear
-  lata: '444'
-  ilec_name: CITIZENS TEL. CO., INC.
-  lat: '31.95029'
-  long: "-83.943721"
-  closest_city:
-    name: De Soto
-    distance_km: 11.32
-- country: US
-  region: GA
   exchange: '323043'
   name: LAKE CITY
   full_name: Lake City
@@ -4749,27 +4737,6 @@ rate_centers:
   closest_city:
     name: Lake Park
     distance_km: 0.53
-- country: US
-  region: GA
-  exchange: '034220'
-  name: LKSINCLAIR
-  full_name: Lake Sinclair
-  lata: '446'
-  ilec_name: GEORGIA WINDSTREAM, INC.
-  lat: '33.166656'
-  long: "-83.361545"
-  closest_city:
-    name: Crooked Creek
-    distance_km: 13.69
-- country: US
-  region: GA
-  exchange: '323054'
-  name: LK SPIVEY
-  full_name: Lake Spivey
-  lata: '438'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
 - country: US
   region: GA
   exchange: '034230'
@@ -4995,6 +4962,39 @@ rate_centers:
   closest_city:
     name: Macon
     distance_km: 11.94
+- country: US
+  region: GA
+  exchange: '323054'
+  name: LK SPIVEY
+  full_name: Lake Spivey
+  lata: '438'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: GA
+  exchange: '034200'
+  name: LKBLACKSHE
+  full_name: Lake Blackshear
+  lata: '444'
+  ilec_name: CITIZENS TEL. CO., INC.
+  lat: '31.95029'
+  long: "-83.943721"
+  closest_city:
+    name: De Soto
+    distance_km: 11.32
+- country: US
+  region: GA
+  exchange: '034220'
+  name: LKSINCLAIR
+  full_name: Lake Sinclair
+  lata: '446'
+  ilec_name: GEORGIA WINDSTREAM, INC.
+  lat: '33.166656'
+  long: "-83.361545"
+  closest_city:
+    name: Crooked Creek
+    distance_km: 13.69
 - country: US
   region: GA
   exchange: '323055'
@@ -5448,7 +5448,7 @@ rate_centers:
   name: MCINTOSH
   full_name: McIntosh
   lata: '440'
-  ilec_name: BRIGHTSPEED OF GEORGIA, LLC
+  ilec_name: 'BRIGHTSPEED OF GEORGIA, LLC                               '
   lat:
   long:
 - country: US
@@ -5610,7 +5610,7 @@ rate_centers:
   name: MIDWAY
   full_name: Midway
   lata: '440'
-  ilec_name: BRIGHTSPEED OF GEORGIA, LLC
+  ilec_name: 'BRIGHTSPEED OF GEORGIA, LLC                               '
   lat: '31.808845'
   long: "-81.422937"
   closest_city:
@@ -5891,27 +5891,6 @@ rate_centers:
   long:
 - country: US
   region: GA
-  exchange: '323345'
-  name: MTPLEASANT
-  full_name: Mount Pleasant
-  lata: '440'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: GA
-  exchange: '034700'
-  name: MT VERNON
-  full_name: Mount Vernon
-  lata: '440'
-  ilec_name: WINDSTREAM GEORGIA COMMUNICATIONS CORP.
-  lat: '32.177385'
-  long: "-82.592697"
-  closest_city:
-    name: Mount Vernon
-    distance_km: 0.73
-- country: US
-  region: GA
   exchange: '323093'
   name: MOUNTAINCY
   full_name: Mountain City
@@ -5934,6 +5913,27 @@ rate_centers:
   name: MOUNTVILLE
   full_name: Mountville
   lata: '438'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: GA
+  exchange: '034700'
+  name: MT VERNON
+  full_name: Mount Vernon
+  lata: '440'
+  ilec_name: WINDSTREAM GEORGIA COMMUNICATIONS CORP.
+  lat: '32.177385'
+  long: "-82.592697"
+  closest_city:
+    name: Mount Vernon
+    distance_km: 0.73
+- country: US
+  region: GA
+  exchange: '323345'
+  name: MTPLEASANT
+  full_name: Mount Pleasant
+  lata: '440'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
   lat:
   long:
@@ -6032,24 +6032,6 @@ rate_centers:
     distance_km: 13.22
 - country: US
   region: GA
-  exchange: '326909'
-  name: NEWENGLAND
-  full_name: New England
-  lata: '472'
-  ilec_name: TRENTON TEL. CO.
-  lat:
-  long:
-- country: US
-  region: GA
-  exchange: '323101'
-  name: NEWHOLLAND
-  full_name: New Holland
-  lata: '438'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: GA
   exchange: '323099'
   name: NEW HOPE
   full_name: New Hope
@@ -6062,6 +6044,24 @@ rate_centers:
   exchange: '323100'
   name: NEWBORN
   full_name: Newborn
+  lata: '438'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: GA
+  exchange: '326909'
+  name: NEWENGLAND
+  full_name: New England
+  lata: '472'
+  ilec_name: TRENTON TEL. CO.
+  lat:
+  long:
+- country: US
+  region: GA
+  exchange: '323101'
+  name: NEWHOLLAND
+  full_name: New Holland
   lata: '438'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
   lat:
@@ -6140,6 +6140,15 @@ rate_centers:
     distance_km: 4.78
 - country: US
   region: GA
+  exchange: '323104'
+  name: NOHIGHSHOL
+  full_name: North High Shoals
+  lata: '438'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: GA
   exchange: '034810'
   name: NORCROSS
   full_name: Norcross
@@ -6178,15 +6187,6 @@ rate_centers:
   full_name: Norristown
   lata: '446'
   ilec_name: PINELAND TEL. COOP., INC.
-  lat:
-  long:
-- country: US
-  region: GA
-  exchange: '323104'
-  name: NOHIGHSHOL
-  full_name: North High Shoals
-  lata: '438'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
   lat:
   long:
 - country: US
@@ -6566,27 +6566,9 @@ rate_centers:
   long:
 - country: US
   region: GA
-  exchange: '323359'
-  name: PINEHARBOR
-  full_name: Pine Harbor
-  lata: '440'
-  ilec_name: DARIEN TEL. CO., INC.
-  lat:
-  long:
-- country: US
-  region: GA
   exchange: '323120'
   name: PINE LAKE
   full_name: Pine Lake
-  lata: '438'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: GA
-  exchange: '323122'
-  name: PINELOG
-  full_name: Pine Log
   lata: '438'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
   lat:
@@ -6605,20 +6587,11 @@ rate_centers:
     distance_km: 1.76
 - country: US
   region: GA
-  exchange: '323126'
-  name: PNMTSTATPK
-  full_name: Pine Mountain State Park
-  lata: '438'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: GA
-  exchange: '323123'
-  name: PINEMT VLY
-  full_name: Pine Mountain Valley
-  lata: '438'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  exchange: '323359'
+  name: PINEHARBOR
+  full_name: Pine Harbor
+  lata: '440'
+  ilec_name: DARIEN TEL. CO., INC.
   lat:
   long:
 - country: US
@@ -6633,6 +6606,24 @@ rate_centers:
   closest_city:
     name: Pinehurst
     distance_km: 0.37
+- country: US
+  region: GA
+  exchange: '323122'
+  name: PINELOG
+  full_name: Pine Log
+  lata: '438'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: GA
+  exchange: '323123'
+  name: PINEMT VLY
+  full_name: Pine Mountain Valley
+  lata: '438'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
 - country: US
   region: GA
   exchange: '034990'
@@ -6707,6 +6698,15 @@ rate_centers:
   long:
 - country: US
   region: GA
+  exchange: '323126'
+  name: PNMTSTATPK
+  full_name: Pine Mountain State Park
+  lata: '438'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: GA
   exchange: '323127'
   name: POINTPETER
   full_name: Point Peter
@@ -6726,15 +6726,6 @@ rate_centers:
   closest_city:
     name: Pooler
     distance_km: 1.98
-- country: US
-  region: GA
-  exchange: '323362'
-  name: PT WENTWTH
-  full_name: Port Wentworth
-  lata: '440'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
 - country: US
   region: GA
   exchange: '035030'
@@ -6795,6 +6786,15 @@ rate_centers:
   closest_city:
     name: Richland
     distance_km: 11.56
+- country: US
+  region: GA
+  exchange: '323362'
+  name: PT WENTWTH
+  full_name: Port Wentworth
+  lata: '440'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
 - country: US
   region: GA
   exchange: '323363'
@@ -7077,7 +7077,7 @@ rate_centers:
   name: RICEBORO
   full_name: Riceboro
   lata: '440'
-  ilec_name: BRIGHTSPEED OF GEORGIA, LLC
+  ilec_name: 'BRIGHTSPEED OF GEORGIA, LLC                               '
   lat:
   long:
 - country: US
@@ -7098,7 +7098,7 @@ rate_centers:
   name: RICHMONDHL
   full_name: Richmond Hill
   lata: '440'
-  ilec_name: BRIGHTSPEED OF GEORGIA, LLC
+  ilec_name: 'BRIGHTSPEED OF GEORGIA, LLC                               '
   lat: '31.902391'
   long: "-81.2625"
   closest_city:
@@ -7406,20 +7406,20 @@ rate_centers:
     distance_km: 0.26
 - country: US
   region: GA
-  exchange: '323156'
-  name: SANDYCROSS
-  full_name: Sandy Cross
-  lata: '438'
-  ilec_name: WINDSTREAM GEORGIA, INC.
-  lat:
-  long:
-- country: US
-  region: GA
   exchange: '323153'
   name: SANDY SPG
   full_name: Sandy Springs
   lata: '438'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: GA
+  exchange: '323156'
+  name: SANDYCROSS
+  full_name: Sandy Cross
+  lata: '438'
+  ilec_name: WINDSTREAM GEORGIA, INC.
   lat:
   long:
 - country: US
@@ -7748,6 +7748,18 @@ rate_centers:
   long:
 - country: US
   region: GA
+  exchange: '035420'
+  name: SO GUYTON
+  full_name: South Guyton
+  lata: '440'
+  ilec_name: PLANTERS RURAL TEL. COOP., INC.
+  lat: '32.199905'
+  long: "-81.298049"
+  closest_city:
+    name: Bloomingdale
+    distance_km: 8.39
+- country: US
+  region: GA
   exchange: '035400'
   name: SOCIALCRCL
   full_name: Social Circle
@@ -7788,18 +7800,6 @@ rate_centers:
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
   lat:
   long:
-- country: US
-  region: GA
-  exchange: '035420'
-  name: SO GUYTON
-  full_name: South Guyton
-  lata: '440'
-  ilec_name: PLANTERS RURAL TEL. COOP., INC.
-  lat: '32.199905'
-  long: "-81.298049"
-  closest_city:
-    name: Bloomingdale
-    distance_km: 8.39
 - country: US
   region: GA
   exchange: '035430'
@@ -7878,18 +7878,6 @@ rate_centers:
   closest_city:
     name: St. Marys
     distance_km: 4.0
-- country: US
-  region: GA
-  exchange: '035480'
-  name: STSIMONSIS
-  full_name: St Simons Island
-  lata: '440'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat: '31.141404'
-  long: "-81.376101"
-  closest_city:
-    name: St. Simons
-    distance_km: 4.12
 - country: US
   region: GA
   exchange: '323465'
@@ -8064,6 +8052,18 @@ rate_centers:
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
   lat:
   long:
+- country: US
+  region: GA
+  exchange: '035480'
+  name: STSIMONSIS
+  full_name: St Simons Island
+  lata: '440'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat: '31.141404'
+  long: "-81.376101"
+  closest_city:
+    name: St. Simons
+    distance_km: 4.12
 - country: US
   region: GA
   exchange: '035530'
@@ -8811,7 +8811,7 @@ rate_centers:
   name: WALTHOURVL
   full_name: Walthourville
   lata: '440'
-  ilec_name: BRIGHTSPEED OF GEORGIA, LLC
+  ilec_name: 'BRIGHTSPEED OF GEORGIA, LLC                               '
   lat:
   long:
 - country: US
@@ -8915,15 +8915,6 @@ rate_centers:
     distance_km: 0.38
 - country: US
   region: GA
-  exchange: '323407'
-  name: WAVERLY
-  full_name: Waverly
-  lata: '440'
-  ilec_name: CAMDEN TEL. & TEL. CO., INC.
-  lat:
-  long:
-- country: US
-  region: GA
   exchange: '035900'
   name: WAVELYHALL
   full_name: Waverly Hall
@@ -8934,6 +8925,15 @@ rate_centers:
   closest_city:
     name: Waverly Hall
     distance_km: 0.95
+- country: US
+  region: GA
+  exchange: '323407'
+  name: WAVERLY
+  full_name: Waverly
+  lata: '440'
+  ilec_name: CAMDEN TEL. & TEL. CO., INC.
+  lat:
+  long:
 - country: US
   region: GA
   exchange: '035910'

@@ -542,15 +542,6 @@ rate_centers:
   long:
 - country: US
   region: ME
-  exchange: '300055'
-  name: BIGLAKETWP
-  full_name: Big Lake Township
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
   exchange: '080960'
   name: BIGELOW
   full_name: Bigelow
@@ -561,6 +552,15 @@ rate_centers:
   closest_city:
     name: Kingfield
     distance_km: 18.17
+- country: US
+  region: ME
+  exchange: '300055'
+  name: BIGLAKETWP
+  full_name: Big Lake Township
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
 - country: US
   region: ME
   exchange: '080970'
@@ -650,15 +650,6 @@ rate_centers:
   long:
 - country: US
   region: ME
-  exchange: '300066'
-  name: BOOTHBAY
-  full_name: Boothbay
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
   exchange: '080990'
   name: BOOTHBAHBR
   full_name: Boothbay Harbor
@@ -669,6 +660,15 @@ rate_centers:
   closest_city:
     name: Bath
     distance_km: 18.8
+- country: US
+  region: ME
+  exchange: '300066'
+  name: BOOTHBAY
+  full_name: Boothbay
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
 - country: US
   region: ME
   exchange: '300067'
@@ -769,6 +769,15 @@ rate_centers:
   full_name: Bristol
   lata: '120'
   ilec_name: TIDEWATER TELECOM, INC.
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '300077'
+  name: BRNTCOTHBR
+  full_name: Burnt Coat Harbor
+  lata: '120'
+  ilec_name: THE ISLAND TELEPHONE COMPANY
   lat:
   long:
 - country: US
@@ -922,15 +931,6 @@ rate_centers:
   full_name: Burnham
   lata: '120'
   ilec_name: UNITY TEL. CO., INC.
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '300077'
-  name: BRNTCOTHBR
-  full_name: Burnt Coat Harbor
-  lata: '120'
-  ilec_name: THE ISLAND TELEPHONE COMPANY
   lat:
   long:
 - country: US
@@ -1121,15 +1121,6 @@ rate_centers:
   long:
 - country: US
   region: ME
-  exchange: '300156'
-  name: CRYG PL TW
-  full_name: Carrying Place Town Township
-  lata: '120'
-  ilec_name: SOMERSET TEL. CO.
-  lat:
-  long:
-- country: US
-  region: ME
   exchange: '300112'
   name: CARTHAGE
   full_name: Carthage
@@ -1195,15 +1186,6 @@ rate_centers:
   full_name: Cedar Grove
   lata: '120'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '300158'
-  name: CTR LOVELL
-  full_name: Center Lovell
-  lata: '120'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
   lat:
   long:
 - country: US
@@ -1562,6 +1544,15 @@ rate_centers:
   long:
 - country: US
   region: ME
+  exchange: '300156'
+  name: CRYG PL TW
+  full_name: Carrying Place Town Township
+  lata: '120'
+  ilec_name: SOMERSET TEL. CO.
+  lat:
+  long:
+- country: US
+  region: ME
   exchange: '300157'
   name: CRYSTAL
   full_name: Crystal
@@ -1571,16 +1562,13 @@ rate_centers:
   long:
 - country: US
   region: ME
-  exchange: '081240'
-  name: CUMBERLAND
-  full_name: Cumberland
+  exchange: '300158'
+  name: CTR LOVELL
+  full_name: Center Lovell
   lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat: '43.793145'
-  long: "-70.257104"
-  closest_city:
-    name: Cumberland Center
-    distance_km: 0.61
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
+  lat:
+  long:
 - country: US
   region: ME
   exchange: '300159'
@@ -1599,6 +1587,18 @@ rate_centers:
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
   lat:
   long:
+- country: US
+  region: ME
+  exchange: '081240'
+  name: CUMBERLAND
+  full_name: Cumberland
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat: '43.793145'
+  long: "-70.257104"
+  closest_city:
+    name: Cumberland Center
+    distance_km: 0.61
 - country: US
   region: ME
   exchange: '300162'
@@ -1754,15 +1754,6 @@ rate_centers:
   long:
 - country: US
   region: ME
-  exchange: '300180'
-  name: DEERISLAND
-  full_name: Deer Island
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
   exchange: '081280'
   name: DEER ISLE
   full_name: Deer Isle
@@ -1778,6 +1769,15 @@ rate_centers:
   exchange: '300179'
   name: DEERING
   full_name: Deering
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '300180'
+  name: DEERISLAND
+  full_name: Deer Island
   lata: '120'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
   lat:
@@ -1958,18 +1958,6 @@ rate_centers:
   long:
 - country: US
   region: ME
-  exchange: '081330'
-  name: EAGLE LAKE
-  full_name: Eagle Lake
-  lata: '120'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
-  lat: '47.040772'
-  long: "-68.597483"
-  closest_city:
-    name: Grand Isle
-    distance_km: 44.62
-- country: US
-  region: ME
   exchange: '300199'
   name: E ANDOVER
   full_name: East Andover
@@ -1984,15 +1972,6 @@ rate_centers:
   full_name: East Baldwin
   lata: '120'
   ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '300235'
-  name: EBLUE HILL
-  full_name: East Blue Hill
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
   lat:
   long:
 - country: US
@@ -2033,15 +2012,6 @@ rate_centers:
   long:
 - country: US
   region: ME
-  exchange: '300240'
-  name: EEDDINGTON
-  full_name: East Eddington
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
   exchange: '300205'
   name: E EDGECOMB
   full_name: East Edgecomb
@@ -2069,45 +2039,9 @@ rate_centers:
   long:
 - country: US
   region: ME
-  exchange: '300241'
-  name: EHARPSWELL
-  full_name: East Harpswell
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '300220'
-  name: EAST HIRAM
-  full_name: East Hiram
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '300225'
-  name: EASTHOLDEN
-  full_name: East Holden
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
   exchange: '300208'
   name: E LEBANON
   full_name: East Lebanon
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '300243'
-  name: ELIVERMORE
-  full_name: East Livermore
   lata: '120'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
   lat:
@@ -2132,18 +2066,6 @@ rate_centers:
   long:
 - country: US
   region: ME
-  exchange: '081340'
-  name: EMILLINCKT
-  full_name: East Millinocket
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat: '45.627'
-  long: "-68.575395"
-  closest_city:
-    name: Mattawamkeag
-    distance_km: 21.2
-- country: US
-  region: ME
   exchange: '300211'
   name: E MOXIE TW
   full_name: East Moxie Township
@@ -2153,56 +2075,11 @@ rate_centers:
   long:
 - country: US
   region: ME
-  exchange: '300250'
-  name: ENEWPORTLD
-  full_name: East New Portland
-  lata: '120'
-  ilec_name: SOMERSET TEL. CO.
-  lat:
-  long:
-- country: US
-  region: ME
   exchange: '300212'
   name: E NEWPORT
   full_name: East Newport
   lata: '120'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '300227'
-  name: EASTORLAND
-  full_name: East Orland
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '300252'
-  name: EPARSOSFLD
-  full_name: East Parsonsfield
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '300221'
-  name: EAST PERU
-  full_name: East Peru
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '300228'
-  name: EASTPOLAND
-  full_name: East Poland
-  lata: '120'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
   lat:
   long:
 - country: US
@@ -2225,15 +2102,6 @@ rate_centers:
   long:
 - country: US
   region: ME
-  exchange: '300230'
-  name: EASTSEBAGO
-  full_name: East Sebago
-  lata: '120'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
-  lat:
-  long:
-- country: US
-  region: ME
   exchange: '300215'
   name: E STONEHAM
   full_name: East Stoneham
@@ -2252,11 +2120,53 @@ rate_centers:
   long:
 - country: US
   region: ME
-  exchange: '300231'
-  name: EASTSUMNER
-  full_name: East Sumner
+  exchange: '081350'
+  name: E VASSALBO
+  full_name: East Vassalboro
   lata: '120'
-  ilec_name: OXFORD COUNTY TEL. & TEL. CO.
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
+  lat: '44.448433'
+  long: "-69.605391"
+  closest_city:
+    name: Waterville
+    distance_km: 11.56
+- country: US
+  region: ME
+  exchange: '083201'
+  name: E WINTHROP
+  full_name: East Winthrop
+  lata: '120'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '081330'
+  name: EAGLE LAKE
+  full_name: Eagle Lake
+  lata: '120'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
+  lat: '47.040772'
+  long: "-68.597483"
+  closest_city:
+    name: Grand Isle
+    distance_km: 44.62
+- country: US
+  region: ME
+  exchange: '300220'
+  name: EAST HIRAM
+  full_name: East Hiram
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '300221'
+  name: EAST PERU
+  full_name: East Peru
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
   lat:
   long:
 - country: US
@@ -2270,45 +2180,6 @@ rate_centers:
   long:
 - country: US
   region: ME
-  exchange: '081350'
-  name: E VASSALBO
-  full_name: East Vassalboro
-  lata: '120'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
-  lat: '44.448433'
-  long: "-69.605391"
-  closest_city:
-    name: Waterville
-    distance_km: 11.56
-- country: US
-  region: ME
-  exchange: '300255'
-  name: EWATERBORO
-  full_name: East Waterboro
-  lata: '120'
-  ilec_name: SACO RIVER TELEPHONE LLC
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '300256'
-  name: EWATERFORD
-  full_name: East Waterford
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '300232'
-  name: EASTWILTON
-  full_name: East Wilton
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
   exchange: '300223'
   name: EAST WINN
   full_name: East Winn
@@ -2318,18 +2189,18 @@ rate_centers:
   long:
 - country: US
   region: ME
-  exchange: '083201'
-  name: E WINTHROP
-  full_name: East Winthrop
+  exchange: '300224'
+  name: EASTBROOK
+  full_name: Eastbrook
   lata: '120'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
   lat:
   long:
 - country: US
   region: ME
-  exchange: '300224'
-  name: EASTBROOK
-  full_name: Eastbrook
+  exchange: '300225'
+  name: EASTHOLDEN
+  full_name: East Holden
   lata: '120'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
   lat:
@@ -2348,6 +2219,24 @@ rate_centers:
     distance_km: 7.6
 - country: US
   region: ME
+  exchange: '300227'
+  name: EASTORLAND
+  full_name: East Orland
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '300228'
+  name: EASTPOLAND
+  full_name: East Poland
+  lata: '120'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
+  lat:
+  long:
+- country: US
+  region: ME
   exchange: '081370'
   name: EASTPORT
   full_name: Eastport
@@ -2358,6 +2247,33 @@ rate_centers:
   closest_city:
     name: Eastport
     distance_km: 2.88
+- country: US
+  region: ME
+  exchange: '300230'
+  name: EASTSEBAGO
+  full_name: East Sebago
+  lata: '120'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '300231'
+  name: EASTSUMNER
+  full_name: East Sumner
+  lata: '120'
+  ilec_name: OXFORD COUNTY TEL. & TEL. CO.
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '300232'
+  name: EASTWILTON
+  full_name: East Wilton
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
 - country: US
   region: ME
   exchange: '300233'
@@ -2372,6 +2288,15 @@ rate_centers:
   exchange: '300234'
   name: EBEEMEE TW
   full_name: Ebeemee Township
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '300235'
+  name: EBLUE HILL
+  full_name: East Blue Hill
   lata: '120'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
   lat:
@@ -2417,6 +2342,24 @@ rate_centers:
   long:
 - country: US
   region: ME
+  exchange: '300240'
+  name: EEDDINGTON
+  full_name: East Eddington
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '300241'
+  name: EHARPSWELL
+  full_name: East Harpswell
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
   exchange: '081390'
   name: ELIOT
   full_name: Eliot
@@ -2427,6 +2370,15 @@ rate_centers:
   closest_city:
     name: South Berwick
     distance_km: 5.92
+- country: US
+  region: ME
+  exchange: '300243'
+  name: ELIVERMORE
+  full_name: East Livermore
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
 - country: US
   region: ME
   exchange: '300244'
@@ -2480,11 +2432,41 @@ rate_centers:
     distance_km: 8.99
 - country: US
   region: ME
+  exchange: '081340'
+  name: EMILLINCKT
+  full_name: East Millinocket
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat: '45.627'
+  long: "-68.575395"
+  closest_city:
+    name: Mattawamkeag
+    distance_km: 21.2
+- country: US
+  region: ME
+  exchange: '300250'
+  name: ENEWPORTLD
+  full_name: East New Portland
+  lata: '120'
+  ilec_name: SOMERSET TEL. CO.
+  lat:
+  long:
+- country: US
+  region: ME
   exchange: '300251'
   name: ENFIELD
   full_name: Enfield
   lata: '120'
   ilec_name: MID-MAINE TELECOM LLC
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '300252'
+  name: EPARSOSFLD
+  full_name: East Parsonsfield
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
   lat:
   long:
 - country: US
@@ -2515,6 +2497,24 @@ rate_centers:
   full_name: Eustis
   lata: '120'
   ilec_name: SOMERSET TEL. CO.
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '300255'
+  name: EWATERBORO
+  full_name: East Waterboro
+  lata: '120'
+  ilec_name: SACO RIVER TELEPHONE LLC
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '300256'
+  name: EWATERFORD
+  full_name: East Waterford
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
   lat:
   long:
 - country: US
@@ -2636,24 +2636,6 @@ rate_centers:
   long:
 - country: US
   region: ME
-  exchange: '300270'
-  name: FORESTCITY
-  full_name: Forest City
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '300282'
-  name: FRST CY TW
-  full_name: Forest City Township
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
   exchange: '300269'
   name: FOREST TWP
   full_name: Forest Township
@@ -2663,16 +2645,13 @@ rate_centers:
   long:
 - country: US
   region: ME
-  exchange: '081460'
-  name: FT FAIRFLD
-  full_name: Fort Fairfield
+  exchange: '300270'
+  name: FORESTCITY
+  full_name: Forest City
   lata: '120'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat: '46.770851'
-  long: "-67.828345"
-  closest_city:
-    name: Presque Isle
-    distance_km: 15.31
+  lat:
+  long:
 - country: US
   region: ME
   exchange: '081470'
@@ -2715,6 +2694,15 @@ rate_centers:
   closest_city:
     name: Ellsworth
     distance_km: 20.17
+- country: US
+  region: ME
+  exchange: '300275'
+  name: FRCHTWN TW
+  full_name: Frenchtown Township
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
 - country: US
   region: ME
   exchange: '081490'
@@ -2762,15 +2750,6 @@ rate_centers:
     distance_km: 20.43
 - country: US
   region: ME
-  exchange: '300275'
-  name: FRCHTWN TW
-  full_name: Frenchtown Township
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
   exchange: '081520'
   name: FRENCHVL
   full_name: Frenchville
@@ -2786,6 +2765,15 @@ rate_centers:
   exchange: '300281'
   name: FRIENDSHIP
   full_name: Friendship
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '300282'
+  name: FRST CY TW
+  full_name: Forest City Township
   lata: '120'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
   lat:
@@ -2820,6 +2808,18 @@ rate_centers:
   closest_city:
     name: Kezar Falls
     distance_km: 24.24
+- country: US
+  region: ME
+  exchange: '081460'
+  name: FT FAIRFLD
+  full_name: Fort Fairfield
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat: '46.770851'
+  long: "-67.828345"
+  closest_city:
+    name: Presque Isle
+    distance_km: 15.31
 - country: US
   region: ME
   exchange: '081540'
@@ -2861,18 +2861,18 @@ rate_centers:
   long:
 - country: US
   region: ME
-  exchange: '300292'
-  name: GLENCOVE
-  full_name: Glen Cove
+  exchange: '300291'
+  name: GLENBURN
+  full_name: Glenburn
   lata: '120'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
   lat:
   long:
 - country: US
   region: ME
-  exchange: '300291'
-  name: GLENBURN
-  full_name: Glenburn
+  exchange: '300292'
+  name: GLENCOVE
+  full_name: Glen Cove
   lata: '120'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
   lat:
@@ -2930,15 +2930,6 @@ rate_centers:
   long:
 - country: US
   region: ME
-  exchange: '300299'
-  name: GRANDBEACH
-  full_name: Grand Beach
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
   exchange: '081570'
   name: GRAND ISLE
   full_name: Grand Isle
@@ -2951,9 +2942,9 @@ rate_centers:
     distance_km: 0.31
 - country: US
   region: ME
-  exchange: '300311'
-  name: GRNDLKSTRM
-  full_name: Grand Lake Stream
+  exchange: '300299'
+  name: GRANDBEACH
+  full_name: Grand Beach
   lata: '120'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
   lat:
@@ -2972,27 +2963,9 @@ rate_centers:
     distance_km: 10.34
 - country: US
   region: ME
-  exchange: '300314'
-  name: GRTCHBGUIS
-  full_name: Great Chebeague Island
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
   exchange: '300301'
   name: GRCRNBRYIS
   full_name: Great Cranberry Island
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '300313'
-  name: GRT DIMD
-  full_name: Great Diamond Island
   lata: '120'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
   lat:
@@ -3059,18 +3032,18 @@ rate_centers:
   long:
 - country: US
   region: ME
-  exchange: '300309'
-  name: GREENWOOD
-  full_name: Greenwood
+  exchange: '300308'
+  name: GREENWD MT
+  full_name: Greenwood Mountain
   lata: '120'
   ilec_name: OXFORD WEST TELEPHONE COMPANY
   lat:
   long:
 - country: US
   region: ME
-  exchange: '300308'
-  name: GREENWD MT
-  full_name: Greenwood Mountain
+  exchange: '300309'
+  name: GREENWOOD
+  full_name: Greenwood
   lata: '120'
   ilec_name: OXFORD WEST TELEPHONE COMPANY
   lat:
@@ -3086,9 +3059,36 @@ rate_centers:
   long:
 - country: US
   region: ME
+  exchange: '300311'
+  name: GRNDLKSTRM
+  full_name: Grand Lake Stream
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
   exchange: '300312'
   name: GRNDSTNTWP
   full_name: Grindstone Township
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '300313'
+  name: GRT DIMD
+  full_name: Great Diamond Island
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '300314'
+  name: GRTCHBGUIS
+  full_name: Great Chebeague Island
   lata: '120'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
   lat:
@@ -3107,18 +3107,18 @@ rate_centers:
     distance_km: 29.35
 - country: US
   region: ME
-  exchange: '300317'
-  name: HALLQUARRY
-  full_name: Hall Quarry
+  exchange: '300316'
+  name: HALLOWELL
+  full_name: Hallowell
   lata: '120'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
   lat:
   long:
 - country: US
   region: ME
-  exchange: '300316'
-  name: HALLOWELL
-  full_name: Hallowell
+  exchange: '300317'
+  name: HALLQUARRY
+  full_name: Hall Quarry
   lata: '120'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
   lat:
@@ -3308,15 +3308,6 @@ rate_centers:
   long:
 - country: US
   region: ME
-  exchange: '300347'
-  name: HRSYTWN TW
-  full_name: Herseytown Township
-  lata: '120'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
-  lat:
-  long:
-- country: US
-  region: ME
   exchange: '300336'
   name: HIGGINSBCH
   full_name: Higgins Beach
@@ -3419,6 +3410,15 @@ rate_centers:
   long:
 - country: US
   region: ME
+  exchange: '300347'
+  name: HRSYTWN TW
+  full_name: Herseytown Township
+  lata: '120'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
+  lat:
+  long:
+- country: US
+  region: ME
   exchange: '300348'
   name: HUDSON
   full_name: Hudson
@@ -3446,15 +3446,6 @@ rate_centers:
   long:
 - country: US
   region: ME
-  exchange: '300353'
-  name: INDIANPOND
-  full_name: Indian Pond
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
   exchange: '300351'
   name: INDIAN STR
   full_name: Indian Stream
@@ -3473,9 +3464,27 @@ rate_centers:
   long:
 - country: US
   region: ME
+  exchange: '300353'
+  name: INDIANPOND
+  full_name: Indian Pond
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
   exchange: '300354'
   name: INDUSTRY
   full_name: Industry
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '300355'
+  name: IS OF SPGS
+  full_name: Isle Of Springs
   lata: '120'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
   lat:
@@ -3492,15 +3501,6 @@ rate_centers:
   closest_city:
     name: Island Falls
     distance_km: 0.49
-- country: US
-  region: ME
-  exchange: '300355'
-  name: IS OF SPGS
-  full_name: Isle Of Springs
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
 - country: US
   region: ME
   exchange: '081710'
@@ -3632,6 +3632,15 @@ rate_centers:
   long:
 - country: US
   region: ME
+  exchange: '300370'
+  name: KENEBNKBCH
+  full_name: Kennebunk Beach
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
   exchange: '300371'
   name: KENNEBAGO
   full_name: Kennebago Lake
@@ -3650,27 +3659,6 @@ rate_centers:
   long:
 - country: US
   region: ME
-  exchange: '081750'
-  name: KENNEBUNK
-  full_name: Kennebunk
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat: '43.382595'
-  long: "-70.539697"
-  closest_city:
-    name: West Kennebunk
-    distance_km: 4.85
-- country: US
-  region: ME
-  exchange: '300370'
-  name: KENEBNKBCH
-  full_name: Kennebunk Beach
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
   exchange: '081760'
   name: KENNEBNKPT
   full_name: Kennebunkport
@@ -3681,6 +3669,18 @@ rate_centers:
   closest_city:
     name: West Kennebunk
     distance_km: 10.43
+- country: US
+  region: ME
+  exchange: '081750'
+  name: KENNEBUNK
+  full_name: Kennebunk
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat: '43.382595'
+  long: "-70.539697"
+  closest_city:
+    name: West Kennebunk
+    distance_km: 4.85
 - country: US
   region: ME
   exchange: '300375'
@@ -4094,33 +4094,6 @@ rate_centers:
     distance_km: 11.89
 - country: US
   region: ME
-  exchange: '300425'
-  name: LTCRNBRYIS
-  full_name: Little Cranberry Island
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '300427'
-  name: LTLDEER IS
-  full_name: Little Deer Isle
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '300426'
-  name: LTL DIM IS
-  full_name: Little Diamond Island
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
   exchange: '300415'
   name: LITLEJHNIS
   full_name: Littlejohn Island
@@ -4172,18 +4145,18 @@ rate_centers:
     distance_km: 6.69
 - country: US
   region: ME
-  exchange: '300421'
-  name: LONGISLAND
-  full_name: Long Island
+  exchange: '300420'
+  name: LONG POND
+  full_name: Long Pond
   lata: '120'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
   lat:
   long:
 - country: US
   region: ME
-  exchange: '300420'
-  name: LONG POND
-  full_name: Long Pond
+  exchange: '300421'
+  name: LONGISLAND
+  full_name: Long Island
   lata: '120'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
   lat:
@@ -4214,6 +4187,33 @@ rate_centers:
   exchange: '300424'
   name: LOWELLTOWN
   full_name: Lowelltown
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '300425'
+  name: LTCRNBRYIS
+  full_name: Little Cranberry Island
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '300426'
+  name: LTL DIM IS
+  full_name: Little Diamond Island
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '300427'
+  name: LTLDEER IS
+  full_name: Little Deer Isle
   lata: '120'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
   lat:
@@ -4733,15 +4733,6 @@ rate_centers:
   long:
 - country: US
   region: ME
-  exchange: '300482'
-  name: MOOSERIVER
-  full_name: Moose River
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
   exchange: '300480'
   name: MOOSEHEAD
   full_name: Moosehead
@@ -4761,6 +4752,15 @@ rate_centers:
   closest_city:
     name: Rangeley
     distance_km: 35.93
+- country: US
+  region: ME
+  exchange: '300482'
+  name: MOOSERIVER
+  full_name: Moose River
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
 - country: US
   region: ME
   exchange: '300483'
@@ -4787,6 +4787,15 @@ rate_centers:
   exchange: '300485'
   name: MOSCOW
   full_name: Moscow
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '300486'
+  name: MOXIE GORE
+  full_name: Moxie Gore
   lata: '120'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
   lat:
@@ -4823,15 +4832,6 @@ rate_centers:
     distance_km: 16.13
 - country: US
   region: ME
-  exchange: '300486'
-  name: MOXIE GORE
-  full_name: Moxie Gore
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
   exchange: '082150'
   name: NAPLES
   full_name: Naples
@@ -4853,18 +4853,6 @@ rate_centers:
   long:
 - country: US
   region: ME
-  exchange: '082160'
-  name: NEWGLOCSTR
-  full_name: New Gloucester
-  lata: '120'
-  ilec_name: PINE TREE TELEPHONE LLC
-  lat: '43.961728'
-  long: "-70.281597"
-  closest_city:
-    name: Auburn
-    distance_km: 13.96
-- country: US
-  region: ME
   exchange: '082170'
   name: NEW HARBOR
   full_name: New Harbor
@@ -4875,15 +4863,6 @@ rate_centers:
   closest_city:
     name: Bath
     distance_km: 27.32
-- country: US
-  region: ME
-  exchange: '300501'
-  name: NEWLIMRICK
-  full_name: New Limerick
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
 - country: US
   region: ME
   exchange: '300493'
@@ -4914,18 +4893,6 @@ rate_centers:
   closest_city:
     name: Caribou
     distance_km: 12.82
-- country: US
-  region: ME
-  exchange: '082190'
-  name: NEWVINYARD
-  full_name: New Vineyard
-  lata: '120'
-  ilec_name: SOMERSET TEL. CO.
-  lat: '44.805899'
-  long: "-70.124108"
-  closest_city:
-    name: Kingfield
-    distance_km: 17.16
 - country: US
   region: ME
   exchange: '300496'
@@ -4967,6 +4934,27 @@ rate_centers:
   long:
 - country: US
   region: ME
+  exchange: '082160'
+  name: NEWGLOCSTR
+  full_name: New Gloucester
+  lata: '120'
+  ilec_name: PINE TREE TELEPHONE LLC
+  lat: '43.961728'
+  long: "-70.281597"
+  closest_city:
+    name: Auburn
+    distance_km: 13.96
+- country: US
+  region: ME
+  exchange: '300501'
+  name: NEWLIMRICK
+  full_name: New Limerick
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
   exchange: '082210'
   name: NEWPORT
   full_name: Newport
@@ -4988,55 +4976,28 @@ rate_centers:
   long:
 - country: US
   region: ME
-  exchange: '300525'
-  name: NOBLEBORO
-  full_name: Nobleboro
-  lata: '120'
-  ilec_name: TIDEWATER TELECOM, INC.
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '300538'
-  name: NORCROSS
-  full_name: Norcross
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '082220'
-  name: NORRIDGWCK
-  full_name: Norridgewock
+  exchange: '082190'
+  name: NEWVINYARD
+  full_name: New Vineyard
   lata: '120'
   ilec_name: SOMERSET TEL. CO.
-  lat: '44.713519'
-  long: "-69.788751"
+  lat: '44.805899'
+  long: "-70.124108"
   closest_city:
-    name: North Anson
-    distance_km: 18.55
+    name: Kingfield
+    distance_km: 17.16
 - country: US
   region: ME
-  exchange: '300541'
-  name: NORTHAMITY
-  full_name: North Amity
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '082230'
-  name: NORTHANSON
-  full_name: North Anson
+  exchange: '082270'
+  name: NNEWPORTLD
+  full_name: North New Portland
   lata: '120'
   ilec_name: SOMERSET TEL. CO.
-  lat: '44.854762'
-  long: "-69.895608"
+  lat: '44.924238'
+  long: "-70.022558"
   closest_city:
-    name: North Anson
-    distance_km: 0.75
+    name: Kingfield
+    distance_km: 11.4
 - country: US
   region: ME
   exchange: '300506'
@@ -5044,6 +5005,162 @@ rate_centers:
   full_name: North Baldwin
   lata: '120'
   ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '082240'
+  name: NO BERWICK
+  full_name: North Berwick
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat: '43.304797'
+  long: "-70.735817"
+  closest_city:
+    name: South Berwick
+    distance_km: 9.45
+- country: US
+  region: ME
+  exchange: '300508'
+  name: NO BUCKSPT
+  full_name: North Bucksport
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '300509'
+  name: NO CASTINE
+  full_name: North Castine
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '082462'
+  name: NO DEERING
+  full_name: North Deering
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '300511'
+  name: NO GORHAM
+  full_name: North Gorham
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '300512'
+  name: NO LIVERMR
+  full_name: North Livermore
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '082260'
+  name: NO LOVELL
+  full_name: North Lovell
+  lata: '120'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
+  lat: '44.174917'
+  long: "-70.892289"
+  closest_city:
+    name: Bethel
+    distance_km: 26.81
+- country: US
+  region: ME
+  exchange: '300514'
+  name: NO NEWPORT
+  full_name: North Newport
+  lata: '120'
+  ilec_name: WEST PENOBSCOT TEL. & TEL. CO
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '082280'
+  name: NO NORWAY
+  full_name: North Norway
+  lata: '120'
+  ilec_name: OXFORD WEST TELEPHONE COMPANY
+  lat: '44.26043'
+  long: "-70.625908"
+  closest_city:
+    name: South Paris
+    distance_km: 10.23
+- country: US
+  region: ME
+  exchange: '300516'
+  name: NO RAYMOND
+  full_name: North Raymond
+  lata: '120'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '300517'
+  name: NO SEBAGO
+  full_name: North Sebago
+  lata: '120'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '082921'
+  name: NO TURNER
+  full_name: North Turner
+  lata: '120'
+  ilec_name: OXFORD COUNTY TEL. & TEL. CO.
+  lat: '44.278552'
+  long: "-70.246293"
+  closest_city:
+    name: Turner
+    distance_km: 2.46
+- country: US
+  region: ME
+  exchange: '300519'
+  name: NO WALDOBO
+  full_name: North Waldoboro
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '300520'
+  name: NO WATERBO
+  full_name: North Waterboro
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '300521'
+  name: NO WATERFD
+  full_name: North Waterford
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '300522'
+  name: NO WINDHAM
+  full_name: North Windham
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
   lat:
   long:
 - country: US
@@ -5066,16 +5183,13 @@ rate_centers:
   long:
 - country: US
   region: ME
-  exchange: '082240'
-  name: NO BERWICK
-  full_name: North Berwick
+  exchange: '300525'
+  name: NOBLEBORO
+  full_name: Nobleboro
   lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat: '43.304797'
-  long: "-70.735817"
-  closest_city:
-    name: South Berwick
-    distance_km: 9.45
+  ilec_name: TIDEWATER TELECOM, INC.
+  lat:
+  long:
 - country: US
   region: ME
   exchange: '300526'
@@ -5105,36 +5219,9 @@ rate_centers:
   long:
 - country: US
   region: ME
-  exchange: '300508'
-  name: NO BUCKSPT
-  full_name: North Bucksport
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '300509'
-  name: NO CASTINE
-  full_name: North Castine
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
   exchange: '300529'
   name: NOCHESTEVL
   full_name: North Chesterville
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '082462'
-  name: NO DEERING
-  full_name: North Deering
   lata: '120'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
   lat:
@@ -5171,75 +5258,9 @@ rate_centers:
     distance_km: 35.09
 - country: US
   region: ME
-  exchange: '300511'
-  name: NO GORHAM
-  full_name: North Gorham
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
   exchange: '300533'
   name: NOHARPSWEL
   full_name: North Harpswell
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '082981'
-  name: NORTHHAVEN
-  full_name: North Haven
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '300540'
-  name: NORTH JAY
-  full_name: North Jay
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '300546'
-  name: NORTHLEEDS
-  full_name: North Leeds
-  lata: '120'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '300512'
-  name: NO LIVERMR
-  full_name: North Livermore
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '082260'
-  name: NO LOVELL
-  full_name: North Lovell
-  lata: '120'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
-  lat: '44.174917'
-  long: "-70.892289"
-  closest_city:
-    name: Bethel
-    distance_km: 26.81
-- country: US
-  region: ME
-  exchange: '300547'
-  name: NORTHLUBEC
-  full_name: North Lubec
   lata: '120'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
   lat:
@@ -5255,18 +5276,6 @@ rate_centers:
   long:
 - country: US
   region: ME
-  exchange: '082270'
-  name: NNEWPORTLD
-  full_name: North New Portland
-  lata: '120'
-  ilec_name: SOMERSET TEL. CO.
-  lat: '44.924238'
-  long: "-70.022558"
-  closest_city:
-    name: Kingfield
-    distance_km: 11.4
-- country: US
-  region: ME
   exchange: '300535'
   name: NONEWCASTL
   full_name: North Newcastle
@@ -5274,27 +5283,6 @@ rate_centers:
   ilec_name: TIDEWATER TELECOM, INC.
   lat:
   long:
-- country: US
-  region: ME
-  exchange: '300514'
-  name: NO NEWPORT
-  full_name: North Newport
-  lata: '120'
-  ilec_name: WEST PENOBSCOT TEL. & TEL. CO
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '082280'
-  name: NO NORWAY
-  full_name: North Norway
-  lata: '120'
-  ilec_name: OXFORD WEST TELEPHONE COMPANY
-  lat: '44.26043'
-  long: "-70.625908"
-  closest_city:
-    name: South Paris
-    distance_km: 10.23
 - country: US
   region: ME
   exchange: '300536'
@@ -5315,13 +5303,133 @@ rate_centers:
   long:
 - country: US
   region: ME
-  exchange: '300516'
-  name: NO RAYMOND
-  full_name: North Raymond
+  exchange: '300538'
+  name: NORCROSS
+  full_name: Norcross
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '082220'
+  name: NORRIDGWCK
+  full_name: Norridgewock
+  lata: '120'
+  ilec_name: SOMERSET TEL. CO.
+  lat: '44.713519'
+  long: "-69.788751"
+  closest_city:
+    name: North Anson
+    distance_km: 18.55
+- country: US
+  region: ME
+  exchange: '300540'
+  name: NORTH JAY
+  full_name: North Jay
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '300541'
+  name: NORTHAMITY
+  full_name: North Amity
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '082230'
+  name: NORTHANSON
+  full_name: North Anson
+  lata: '120'
+  ilec_name: SOMERSET TEL. CO.
+  lat: '44.854762'
+  long: "-69.895608"
+  closest_city:
+    name: North Anson
+    distance_km: 0.75
+- country: US
+  region: ME
+  exchange: '082300'
+  name: NORTHETHBR
+  full_name: Northeast Harbor
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat: '44.304647'
+  long: "-68.291387"
+  closest_city:
+    name: Northeast Harbor
+    distance_km: 1.23
+- country: US
+  region: ME
+  exchange: '300544'
+  name: NORTHFIELD
+  full_name: Northfield
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '082981'
+  name: NORTHHAVEN
+  full_name: North Haven
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '300546'
+  name: NORTHLEEDS
+  full_name: North Leeds
   lata: '120'
   ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
   lat:
   long:
+- country: US
+  region: ME
+  exchange: '300547'
+  name: NORTHLUBEC
+  full_name: North Lubec
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '300548'
+  name: NORTHPORT
+  full_name: Northport
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '300549'
+  name: NORTHWAYNE
+  full_name: North Wayne
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '082310'
+  name: NORWAY
+  full_name: Norway
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat: '44.209018'
+  long: "-70.528758"
+  closest_city:
+    name: South Paris
+    distance_km: 1.78
 - country: US
   region: ME
   exchange: '082611'
@@ -5338,15 +5446,6 @@ rate_centers:
   full_name: North Scarboro
   lata: '120'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '300517'
-  name: NO SEBAGO
-  full_name: North Sebago
-  lata: '120'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
   lat:
   long:
 - country: US
@@ -5369,57 +5468,9 @@ rate_centers:
   long:
 - country: US
   region: ME
-  exchange: '082921'
-  name: NO TURNER
-  full_name: North Turner
-  lata: '120'
-  ilec_name: OXFORD COUNTY TEL. & TEL. CO.
-  lat: '44.278552'
-  long: "-70.246293"
-  closest_city:
-    name: Turner
-    distance_km: 2.46
-- country: US
-  region: ME
   exchange: '300555'
   name: NOVASSALBO
   full_name: North Vassalboro
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '300519'
-  name: NO WALDOBO
-  full_name: North Waldoboro
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '300520'
-  name: NO WATERBO
-  full_name: North Waterboro
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '300521'
-  name: NO WATERFD
-  full_name: North Waterford
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '300549'
-  name: NORTHWAYNE
-  full_name: North Wayne
   lata: '120'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
   lat:
@@ -5438,15 +5489,6 @@ rate_centers:
     distance_km: 16.78
 - country: US
   region: ME
-  exchange: '300522'
-  name: NO WINDHAM
-  full_name: North Windham
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
   exchange: '300557'
   name: NOYARMOUTH
   full_name: North Yarmouth
@@ -5456,18 +5498,6 @@ rate_centers:
   long:
 - country: US
   region: ME
-  exchange: '082300'
-  name: NORTHETHBR
-  full_name: Northeast Harbor
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat: '44.304647'
-  long: "-68.291387"
-  closest_city:
-    name: Northeast Harbor
-    distance_km: 1.23
-- country: US
-  region: ME
   exchange: '300558'
   name: NRHRNMNJCT
   full_name: Northern Maine Junction
@@ -5475,36 +5505,6 @@ rate_centers:
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
   lat:
   long:
-- country: US
-  region: ME
-  exchange: '300544'
-  name: NORTHFIELD
-  full_name: Northfield
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '300548'
-  name: NORTHPORT
-  full_name: Northport
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '082310'
-  name: NORWAY
-  full_name: Norway
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat: '44.209018'
-  long: "-70.528758"
-  closest_city:
-    name: South Paris
-    distance_km: 1.78
 - country: US
   region: ME
   exchange: '300559'
@@ -5564,18 +5564,6 @@ rate_centers:
   long:
 - country: US
   region: ME
-  exchange: '082330'
-  name: OLDORCHBCH
-  full_name: Old Orchard Beach
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat: '43.518492'
-  long: "-70.381556"
-  closest_city:
-    name: Dunstan
-    distance_km: 5.65
-- country: US
-  region: ME
   exchange: '082340'
   name: OLD TOWN
   full_name: Old Town
@@ -5586,6 +5574,18 @@ rate_centers:
   closest_city:
     name: Bradley
     distance_km: 2.87
+- country: US
+  region: ME
+  exchange: '082330'
+  name: OLDORCHBCH
+  full_name: Old Orchard Beach
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat: '43.518492'
+  long: "-70.381556"
+  closest_city:
+    name: Dunstan
+    distance_km: 5.65
 - country: US
   region: ME
   exchange: '082341'
@@ -5795,15 +5795,6 @@ rate_centers:
   long:
 - country: US
   region: ME
-  exchange: '300625'
-  name: PRLN PD TW
-  full_name: Parlin Pond Township
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
   exchange: '300588'
   name: PARSONSFLD
   full_name: Parsonsfield
@@ -5852,18 +5843,18 @@ rate_centers:
   long:
 - country: US
   region: ME
-  exchange: '300594'
-  name: PEMAQUID
-  full_name: Pemaquid
+  exchange: '300593'
+  name: PEMAQUDHBR
+  full_name: Pemaquid Harbor
   lata: '120'
   ilec_name: TIDEWATER TELECOM, INC.
   lat:
   long:
 - country: US
   region: ME
-  exchange: '300593'
-  name: PEMAQUDHBR
-  full_name: Pemaquid Harbor
+  exchange: '300594'
+  name: PEMAQUID
+  full_name: Pemaquid
   lata: '120'
   ilec_name: TIDEWATER TELECOM, INC.
   lat:
@@ -6167,6 +6158,15 @@ rate_centers:
     distance_km: 29.09
 - country: US
   region: ME
+  exchange: '300625'
+  name: PRLN PD TW
+  full_name: Parlin Pond Township
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
   exchange: '300626'
   name: PROSPECT
   full_name: Prospect
@@ -6445,51 +6445,6 @@ rate_centers:
   full_name: Saco
   lata: '120'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '300737'
-  name: ST AGATHA
-  full_name: Saint Agatha
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '300738'
-  name: ST ALBANS
-  full_name: Saint Albans
-  lata: '120'
-  ilec_name: HARTLAND & ST. ALBANS TEL. CO.
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '300739'
-  name: ST DAVID
-  full_name: Saint David
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '300741'
-  name: ST GEORGE
-  full_name: Saint George
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '300742'
-  name: ST JOHN
-  full_name: Saint John
-  lata: '120'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
   lat:
   long:
 - country: US
@@ -6857,6 +6812,15 @@ rate_centers:
     distance_km: 17.3
 - country: US
   region: ME
+  exchange: '300691'
+  name: SLDRTWN TW
+  full_name: Soldiertown Township
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
   exchange: '082700'
   name: SMITHFIELD
   full_name: Smithfield
@@ -6881,86 +6845,11 @@ rate_centers:
     distance_km: 3.28
 - country: US
   region: ME
-  exchange: '300710'
-  name: SOLDIERPND
-  full_name: Soldier Pond
-  lata: '120'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '300711'
-  name: SOLDIERTWN
-  full_name: Soldiertown
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '300691'
-  name: SLDRTWN TW
-  full_name: Soldiertown Township
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '082720'
-  name: SOLON
-  full_name: Solon
-  lata: '120'
-  ilec_name: SOMERSET TEL. CO.
-  lat: '44.950061'
-  long: "-69.855381"
-  closest_city:
-    name: North Anson
-    distance_km: 10.4
-- country: US
-  region: ME
-  exchange: '300714'
-  name: SOMERVILLE
-  full_name: Somerville
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '300720'
-  name: SORRENTO
-  full_name: Sorrento
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
   exchange: '300694'
   name: SO ANDOVER
   full_name: South Andover
   lata: '120'
   ilec_name: OXFORD WEST TELEPHONE COMPANY
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '300722'
-  name: SOUTH ARM
-  full_name: South Arm
-  lata: '120'
-  ilec_name: OXFORD WEST TELEPHONE COMPANY
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '300703'
-  name: SOBANCROFT
-  full_name: South Bancroft
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
   lat:
   long:
 - country: US
@@ -6998,39 +6887,66 @@ rate_centers:
     distance_km: 23.84
 - country: US
   region: ME
-  exchange: '300704'
-  name: SOBROOKSVL
-  full_name: South Brooksville
+  exchange: '082760'
+  name: SO LEBANON
+  full_name: South Lebanon
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat: '43.338481'
+  long: "-70.94165"
+  closest_city:
+    name: South Berwick
+    distance_km: 16.68
+- country: US
+  region: ME
+  exchange: '300699'
+  name: SO LIVERMR
+  full_name: South Livermore
   lata: '120'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
   lat:
   long:
 - country: US
   region: ME
-  exchange: '300724'
-  name: SOUTHCASCO
-  full_name: South Casco
+  exchange: '300700'
+  name: SO WATERFD
+  full_name: South Waterford
   lata: '120'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
   lat:
   long:
 - country: US
   region: ME
-  exchange: '082750'
-  name: SOUTHCHINA
-  full_name: South China
+  exchange: '300701'
+  name: SO WINDHAM
+  full_name: South Windham
   lata: '120'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
-  lat: '44.396086'
-  long: "-69.568028"
-  closest_city:
-    name: Augusta
-    distance_km: 14.74
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
 - country: US
   region: ME
-  exchange: '300726'
-  name: SOUTHELIOT
-  full_name: South Eliot
+  exchange: '300702'
+  name: SO WINDSOR
+  full_name: South Windsor
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '300703'
+  name: SOBANCROFT
+  full_name: South Bancroft
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '300704'
+  name: SOBROOKSVL
+  full_name: South Brooksville
   lata: '120'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
   lat:
@@ -7073,24 +6989,6 @@ rate_centers:
   long:
 - country: US
   region: ME
-  exchange: '300727'
-  name: SOUTHHIRAM
-  full_name: South Hiram
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '300723'
-  name: SOUTH HOPE
-  full_name: South Hope
-  lata: '120'
-  ilec_name: TIDEWATER TELECOM, INC.
-  lat:
-  long:
-- country: US
-  region: ME
   exchange: '300709'
   name: SOJEFFERSN
   full_name: South Jefferson
@@ -7100,23 +6998,20 @@ rate_centers:
   long:
 - country: US
   region: ME
-  exchange: '082760'
-  name: SO LEBANON
-  full_name: South Lebanon
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat: '43.338481'
-  long: "-70.94165"
-  closest_city:
-    name: South Berwick
-    distance_km: 16.68
-- country: US
-  region: ME
-  exchange: '300728'
-  name: SOUTHLEEDS
-  full_name: South Leeds
+  exchange: '300710'
+  name: SOLDIERPND
+  full_name: Soldier Pond
   lata: '120'
   ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '300711'
+  name: SOLDIERTWN
+  full_name: Soldiertown
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
   lat:
   long:
 - country: US
@@ -7130,9 +7025,21 @@ rate_centers:
   long:
 - country: US
   region: ME
-  exchange: '300699'
-  name: SO LIVERMR
-  full_name: South Livermore
+  exchange: '082720'
+  name: SOLON
+  full_name: Solon
+  lata: '120'
+  ilec_name: SOMERSET TEL. CO.
+  lat: '44.950061'
+  long: "-69.855381"
+  closest_city:
+    name: North Anson
+    distance_km: 10.4
+- country: US
+  region: ME
+  exchange: '300714'
+  name: SOMERVILLE
+  full_name: Somerville
   lata: '120'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
   lat:
@@ -7142,15 +7049,6 @@ rate_centers:
   exchange: '300715'
   name: SOORRINGTN
   full_name: South Orrington
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '300729'
-  name: SOUTHPARIS
-  full_name: South Paris
   lata: '120'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
   lat:
@@ -7193,6 +7091,15 @@ rate_centers:
   long:
 - country: US
   region: ME
+  exchange: '300720'
+  name: SORRENTO
+  full_name: Sorrento
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
   exchange: '300721'
   name: SOTHOMASTN
   full_name: South Thomaston
@@ -7202,27 +7109,75 @@ rate_centers:
   long:
 - country: US
   region: ME
-  exchange: '300700'
-  name: SO WATERFD
-  full_name: South Waterford
+  exchange: '300722'
+  name: SOUTH ARM
+  full_name: South Arm
+  lata: '120'
+  ilec_name: OXFORD WEST TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '300723'
+  name: SOUTH HOPE
+  full_name: South Hope
+  lata: '120'
+  ilec_name: TIDEWATER TELECOM, INC.
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '300724'
+  name: SOUTHCASCO
+  full_name: South Casco
+  lata: '120'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '082750'
+  name: SOUTHCHINA
+  full_name: South China
+  lata: '120'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
+  lat: '44.396086'
+  long: "-69.568028"
+  closest_city:
+    name: Augusta
+    distance_km: 14.74
+- country: US
+  region: ME
+  exchange: '300726'
+  name: SOUTHELIOT
+  full_name: South Eliot
   lata: '120'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
   lat:
   long:
 - country: US
   region: ME
-  exchange: '300701'
-  name: SO WINDHAM
-  full_name: South Windham
+  exchange: '300727'
+  name: SOUTHHIRAM
+  full_name: South Hiram
   lata: '120'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
   lat:
   long:
 - country: US
   region: ME
-  exchange: '300702'
-  name: SO WINDSOR
-  full_name: South Windsor
+  exchange: '300728'
+  name: SOUTHLEEDS
+  full_name: South Leeds
+  lata: '120'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '300729'
+  name: SOUTHPARIS
+  full_name: South Paris
   lata: '120'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
   lat:
@@ -7295,6 +7250,33 @@ rate_centers:
   long:
 - country: US
   region: ME
+  exchange: '300737'
+  name: ST AGATHA
+  full_name: Saint Agatha
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '300738'
+  name: ST ALBANS
+  full_name: Saint Albans
+  lata: '120'
+  ilec_name: HARTLAND & ST. ALBANS TEL. CO.
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '300739'
+  name: ST DAVID
+  full_name: Saint David
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
   exchange: '082780'
   name: ST FRANCIS
   full_name: St Francis
@@ -7305,6 +7287,24 @@ rate_centers:
   closest_city:
     name: Grand Isle
     distance_km: 57.81
+- country: US
+  region: ME
+  exchange: '300741'
+  name: ST GEORGE
+  full_name: Saint George
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '300742'
+  name: ST JOHN
+  full_name: Saint John
+  lata: '120'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
+  lat:
+  long:
 - country: US
   region: ME
   exchange: '300743'
@@ -7826,6 +7826,159 @@ rate_centers:
     distance_km: 26.0
 - country: US
   region: ME
+  exchange: '300794'
+  name: W APPLETON
+  full_name: West Appleton
+  lata: '120'
+  ilec_name: TIDEWATER TELECOM, INC.
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '300795'
+  name: W BALDWIN
+  full_name: West Baldwin
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '300796'
+  name: W BOWDOIN
+  full_name: West Bowdoin
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '300797'
+  name: W BROOKSVL
+  full_name: West Brooksville
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '300798'
+  name: W BTHBAYHB
+  full_name: West Boothbay Harbor
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '083080'
+  name: W ENFIELD
+  full_name: West Enfield
+  lata: '120'
+  ilec_name: MID-MAINE TELECOM LLC
+  lat: '45.237026'
+  long: "-68.649212"
+  closest_city:
+    name: Old Town
+    distance_km: 32.56
+- country: US
+  region: ME
+  exchange: '300800'
+  name: W FALMOUTH
+  full_name: West Falmouth
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '083090'
+  name: W GARDINER
+  full_name: West Gardiner
+  lata: '120'
+  ilec_name: COBBOSSEECONTEE TEL. CO.
+  lat: '44.246814'
+  long: "-69.87472"
+  closest_city:
+    name: Hallowell
+    distance_km: 6.85
+- country: US
+  region: ME
+  exchange: '300802'
+  name: W GOULDSBO
+  full_name: West Gouldsboro
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '083110'
+  name: W LEBANON
+  full_name: West Lebanon
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat: '43.416568'
+  long: "-70.974337"
+  closest_city:
+    name: Sanford
+    distance_km: 17.55
+- country: US
+  region: ME
+  exchange: '300804'
+  name: W NEWFIELD
+  full_name: West Newfield
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '300805'
+  name: W PEMBROKE
+  full_name: West Pembroke
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '300806'
+  name: W ROCKPORT
+  full_name: West Rockport
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '300807'
+  name: W SULLIVAN
+  full_name: West Sullivan
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '300808'
+  name: W TREMONT
+  full_name: West Tremont
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '300809'
+  name: W WINTERPT
+  full_name: West Winterport
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
   exchange: '300810'
   name: WADE
   full_name: Wade
@@ -8048,24 +8201,6 @@ rate_centers:
   long:
 - country: US
   region: ME
-  exchange: '300794'
-  name: W APPLETON
-  full_name: West Appleton
-  lata: '120'
-  ilec_name: TIDEWATER TELECOM, INC.
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '300795'
-  name: W BALDWIN
-  full_name: West Baldwin
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
   exchange: '300832'
   name: WEST BATH
   full_name: West Bath
@@ -8075,111 +8210,9 @@ rate_centers:
   long:
 - country: US
   region: ME
-  exchange: '083070'
-  name: WESTBETHEL
-  full_name: West Bethel
-  lata: '120'
-  ilec_name: OXFORD WEST TELEPHONE COMPANY
-  lat: '44.405213'
-  long: "-70.862436"
-  closest_city:
-    name: Bethel
-    distance_km: 6.05
-- country: US
-  region: ME
-  exchange: '300798'
-  name: W BTHBAYHB
-  full_name: West Boothbay Harbor
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '300796'
-  name: W BOWDOIN
-  full_name: West Bowdoin
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '300797'
-  name: W BROOKSVL
-  full_name: West Brooksville
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '080881'
-  name: WESTBUXTON
-  full_name: West Buxton
-  lata: '120'
-  ilec_name: SACO RIVER TELEPHONE LLC
-  lat: '43.613835'
-  long: "-70.54153"
-  closest_city:
-    name: Saco
-    distance_km: 10.48
-- country: US
-  region: ME
-  exchange: '083080'
-  name: W ENFIELD
-  full_name: West Enfield
-  lata: '120'
-  ilec_name: MID-MAINE TELECOM LLC
-  lat: '45.237026'
-  long: "-68.649212"
-  closest_city:
-    name: Old Town
-    distance_km: 32.56
-- country: US
-  region: ME
-  exchange: '300800'
-  name: W FALMOUTH
-  full_name: West Falmouth
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '300849'
-  name: WFARMINGTN
-  full_name: West Farmington
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
   exchange: '300833'
   name: WEST FORKS
   full_name: West Forks
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '083090'
-  name: W GARDINER
-  full_name: West Gardiner
-  lata: '120'
-  ilec_name: COBBOSSEECONTEE TEL. CO.
-  lat: '44.246814'
-  long: "-69.87472"
-  closest_city:
-    name: Hallowell
-    distance_km: 6.85
-- country: US
-  region: ME
-  exchange: '300802'
-  name: W GOULDSBO
-  full_name: West Gouldsboro
   lata: '120'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
   lat:
@@ -8198,48 +8231,9 @@ rate_centers:
     distance_km: 6.49
 - country: US
   region: ME
-  exchange: '300868'
-  name: WJONESPORT
-  full_name: West Jonesport
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '300869'
-  name: WKENNEBUNK
-  full_name: West Kennebunk
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '083110'
-  name: W LEBANON
-  full_name: West Lebanon
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat: '43.416568'
-  long: "-70.974337"
-  closest_city:
-    name: Sanford
-    distance_km: 17.55
-- country: US
-  region: ME
   exchange: '300835'
   name: WEST MINOT
   full_name: West Minot
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '300804'
-  name: W NEWFIELD
-  full_name: West Newfield
   lata: '120'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
   lat:
@@ -8258,15 +8252,6 @@ rate_centers:
     distance_km: 12.6
 - country: US
   region: ME
-  exchange: '300805'
-  name: W PEMBROKE
-  full_name: West Pembroke
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
   exchange: '300837'
   name: WEST PERU
   full_name: West Peru
@@ -8276,97 +8261,16 @@ rate_centers:
   long:
 - country: US
   region: ME
-  exchange: '300844'
-  name: WESTPOLAND
-  full_name: West Poland
+  exchange: '083070'
+  name: WESTBETHEL
+  full_name: West Bethel
   lata: '120'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '083130'
-  name: WESTRIPLEY
-  full_name: West Ripley
-  lata: '120'
-  ilec_name: HARTLAND & ST. ALBANS TEL. CO.
-  lat: '44.989264'
-  long: "-69.381501"
+  ilec_name: OXFORD WEST TELEPHONE COMPANY
+  lat: '44.405213'
+  long: "-70.862436"
   closest_city:
-    name: Corinna
-    distance_km: 11.95
-- country: US
-  region: ME
-  exchange: '300806'
-  name: W ROCKPORT
-  full_name: West Rockport
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '300875'
-  name: WSCARBORGH
-  full_name: West Scarborough
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '300876'
-  name: WSEBOEIS
-  full_name: West Seboeis
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '300877'
-  name: WSOUTHPORT
-  full_name: West Southport
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '300807'
-  name: W SULLIVAN
-  full_name: West Sullivan
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '300848'
-  name: WESTSUMNER
-  full_name: West Sumner
-  lata: '120'
-  ilec_name: OXFORD COUNTY TEL. & TEL. CO.
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '300808'
-  name: W TREMONT
-  full_name: West Tremont
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
-- country: US
-  region: ME
-  exchange: '300809'
-  name: W WINTERPT
-  full_name: West Winterport
-  lata: '120'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
-  lat:
-  long:
+    name: Bethel
+    distance_km: 6.05
 - country: US
   region: ME
   exchange: '083140'
@@ -8379,6 +8283,18 @@ rate_centers:
   closest_city:
     name: Westbrook
     distance_km: 1.92
+- country: US
+  region: ME
+  exchange: '080881'
+  name: WESTBUXTON
+  full_name: West Buxton
+  lata: '120'
+  ilec_name: SACO RIVER TELEPHONE LLC
+  lat: '43.613835'
+  long: "-70.54153"
+  closest_city:
+    name: Saco
+    distance_km: 10.48
 - country: US
   region: ME
   exchange: '300841'
@@ -8408,6 +8324,15 @@ rate_centers:
   long:
 - country: US
   region: ME
+  exchange: '300844'
+  name: WESTPOLAND
+  full_name: West Poland
+  lata: '120'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
+  lat:
+  long:
+- country: US
+  region: ME
   exchange: '300845'
   name: WESTPORT
   full_name: Westport
@@ -8420,6 +8345,36 @@ rate_centers:
   exchange: '300846'
   name: WESTPT IS
   full_name: Westport Island
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '083130'
+  name: WESTRIPLEY
+  full_name: West Ripley
+  lata: '120'
+  ilec_name: HARTLAND & ST. ALBANS TEL. CO.
+  lat: '44.989264'
+  long: "-69.381501"
+  closest_city:
+    name: Corinna
+    distance_km: 11.95
+- country: US
+  region: ME
+  exchange: '300848'
+  name: WESTSUMNER
+  full_name: West Sumner
+  lata: '120'
+  ilec_name: OXFORD COUNTY TEL. & TEL. CO.
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '300849'
+  name: WFARMINGTN
+  full_name: West Farmington
   lata: '120'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
   lat:
@@ -8609,6 +8564,24 @@ rate_centers:
     distance_km: 15.41
 - country: US
   region: ME
+  exchange: '300868'
+  name: WJONESPORT
+  full_name: West Jonesport
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '300869'
+  name: WKENNEBUNK
+  full_name: West Kennebunk
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
   exchange: '300870'
   name: WOODFORDS
   full_name: Woodfords
@@ -8651,6 +8624,33 @@ rate_centers:
   exchange: '300874'
   name: WOOLWICH
   full_name: Woolwich
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '300875'
+  name: WSCARBORGH
+  full_name: West Scarborough
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '300876'
+  name: WSEBOEIS
+  full_name: West Seboeis
+  lata: '120'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
+  lat:
+  long:
+- country: US
+  region: ME
+  exchange: '300877'
+  name: WSOUTHPORT
+  full_name: West Southport
   lata: '120'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-ME
   lat:

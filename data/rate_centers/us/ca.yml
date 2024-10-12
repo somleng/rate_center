@@ -2,6 +2,15 @@
 rate_centers:
 - country: US
   region: CA
+  exchange: '345892'
+  name: AATROBE
+  full_name: Latrobe
+  lata: '726'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
   exchange: '347024'
   name: ACAMPO
   full_name: Acampo
@@ -107,19 +116,19 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '345292'
-  name: AGUACALNTE
-  full_name: Agua Caliente
-  lata: '722'
+  exchange: '346236'
+  name: AGUA DULCE
+  full_name: Agua Dulce
+  lata: '730'
   ilec_name: PACIFIC BELL
   lat:
   long:
 - country: US
   region: CA
-  exchange: '346236'
-  name: AGUA DULCE
-  full_name: Agua Dulce
-  lata: '730'
+  exchange: '345292'
+  name: AGUACALNTE
+  full_name: Agua Caliente
+  lata: '722'
   ilec_name: PACIFIC BELL
   lat:
   long:
@@ -407,19 +416,19 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '345899'
-  name: ALTASIERRA
-  full_name: Alta Sierra
-  lata: '726'
+  exchange: '346244'
+  name: ALTADENA
+  full_name: Altadena
+  lata: '730'
   ilec_name: PACIFIC BELL
   lat:
   long:
 - country: US
   region: CA
-  exchange: '346244'
-  name: ALTADENA
-  full_name: Altadena
-  lata: '730'
+  exchange: '345899'
+  name: ALTASIERRA
+  full_name: Alta Sierra
+  lata: '726'
   ilec_name: PACIFIC BELL
   lat:
   long:
@@ -482,20 +491,20 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '347028'
-  name: AMADORCITY
-  full_name: Amador City
-  lata: '738'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
   exchange: '347027'
   name: AMADOR STA
   full_name: Amador Station
   lata: '738'
   ilec_name: VOLCANO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '347028'
+  name: AMADORCITY
+  full_name: Amador City
+  lata: '738'
+  ilec_name: PACIFIC BELL
   lat:
   long:
 - country: US
@@ -791,6 +800,15 @@ rate_centers:
   long:
 - country: US
   region: CA
+  exchange: '346254'
+  name: ARROWHDSPG
+  full_name: Arrowhead Springs
+  lata: '730'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat:
+  long:
+- country: US
+  region: CA
   exchange: '018420'
   name: ARROWHEAD
   full_name: Arrowhead
@@ -801,15 +819,6 @@ rate_centers:
   closest_city:
     name: Lake Arrowhead
     distance_km: 1.51
-- country: US
-  region: CA
-  exchange: '346254'
-  name: ARROWHDSPG
-  full_name: Arrowhead Springs
-  lata: '730'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat:
-  long:
 - country: US
   region: CA
   exchange: '018430'
@@ -908,24 +917,6 @@ rate_centers:
     distance_km: 3.26
 - country: US
   region: CA
-  exchange: '345908'
-  name: AUBURN
-  full_name: Auburn
-  lata: '726'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '345907'
-  name: AUBNLKTLS
-  full_name: Auburn Lake Trails
-  lata: '726'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
   exchange: '018480'
   name: AUBN MAIN
   full_name: 'Auburn: Main DA'
@@ -948,6 +939,24 @@ rate_centers:
   closest_city:
     name: Auburn
     distance_km: 0.46
+- country: US
+  region: CA
+  exchange: '345907'
+  name: AUBNLKTLS
+  full_name: Auburn Lake Trails
+  lata: '726'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '345908'
+  name: AUBURN
+  full_name: Auburn
+  lata: '726'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
 - country: US
   region: CA
   exchange: '347032'
@@ -1064,42 +1073,6 @@ rate_centers:
     distance_km: 1.34
 - country: US
   region: CA
-  exchange: '018550'
-  name: BKFD MAIN
-  full_name: 'Bakersfield: Main DA'
-  lata: '734'
-  ilec_name: PACIFIC BELL
-  lat: '35.373939'
-  long: "-119.017698"
-  closest_city:
-    name: Bakersfield
-    distance_km: 2.86
-- country: US
-  region: CA
-  exchange: '018560'
-  name: BKFD NORTH
-  full_name: 'Bakersfield: North DA'
-  lata: '734'
-  ilec_name: PACIFIC BELL
-  lat: '35.373939'
-  long: "-119.017698"
-  closest_city:
-    name: Bakersfield
-    distance_km: 2.86
-- country: US
-  region: CA
-  exchange: '018570'
-  name: BKFD SOUTH
-  full_name: 'Bakersfield: South DA'
-  lata: '734'
-  ilec_name: PACIFIC BELL
-  lat: '35.373939'
-  long: "-119.017698"
-  closest_city:
-    name: Bakersfield
-    distance_km: 2.86
-- country: US
-  region: CA
   exchange: '022543'
   name: BALBOA
   full_name: Balboa
@@ -1208,18 +1181,6 @@ rate_centers:
   exchange: '018600'
   name: BARSTOW
   full_name: 'Barstow: Barstow DA'
-  lata: '730'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat: '34.900585'
-  long: "-117.025936"
-  closest_city:
-    name: Barstow
-    distance_km: 4.29
-- country: US
-  region: CA
-  exchange: '018610'
-  name: BRSW YERM
-  full_name: 'Barstow: Yermo DA'
   lata: '730'
   ilec_name: FRONTIER CALIFORNIA INC.
   lat: '34.900585'
@@ -1391,15 +1352,6 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '345319'
-  name: BELMARINKY
-  full_name: Bel Marin Keyes
-  lata: '722'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat:
-  long:
-- country: US
-  region: CA
   exchange: '345686'
   name: BELDEN
   full_name: Belden
@@ -1418,11 +1370,29 @@ rate_centers:
   long:
 - country: US
   region: CA
+  exchange: '022162'
+  name: BELLAVISTA
+  full_name: Bella Vista
+  lata: '724'
+  ilec_name: CITIZENS TELECOM CA. DBA FRONTIER COM OF CA
+  lat:
+  long:
+- country: US
+  region: CA
   exchange: '346276'
   name: BELLCANYON
   full_name: Bell Canyon
   lata: '730'
   ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '022662'
+  name: BELLFLOWER
+  full_name: Bellflower
+  lata: '730'
+  ilec_name: FRONTIER CALIFORNIA INC.
   lat:
   long:
 - country: US
@@ -1436,18 +1406,18 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '022162'
-  name: BELLAVISTA
-  full_name: Bella Vista
-  lata: '724'
-  ilec_name: CITIZENS TELECOM CA. DBA FRONTIER COM OF CA
+  exchange: '345319'
+  name: BELMARINKY
+  full_name: Bel Marin Keyes
+  lata: '722'
+  ilec_name: FRONTIER CALIFORNIA INC.
   lat:
   long:
 - country: US
   region: CA
-  exchange: '022662'
-  name: BELLFLOWER
-  full_name: Bellflower
+  exchange: '346279'
+  name: BELMNTSHOR
+  full_name: Belmont Shore
   lata: '730'
   ilec_name: FRONTIER CALIFORNIA INC.
   lat:
@@ -1463,11 +1433,11 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '346279'
-  name: BELMNTSHOR
-  full_name: Belmont Shore
-  lata: '730'
-  ilec_name: FRONTIER CALIFORNIA INC.
+  exchange: '345321'
+  name: BELTIBURON
+  full_name: Belvedere Tiburon
+  lata: '722'
+  ilec_name: PACIFIC BELL
   lat:
   long:
 - country: US
@@ -1482,15 +1452,6 @@ rate_centers:
   closest_city:
     name: Belvedere
     distance_km: 0.89
-- country: US
-  region: CA
-  exchange: '345321'
-  name: BELTIBURON
-  full_name: Belvedere Tiburon
-  lata: '722'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
 - country: US
   region: CA
   exchange: '346105'
@@ -1547,6 +1508,18 @@ rate_centers:
   long:
 - country: US
   region: CA
+  exchange: '018660'
+  name: BERENDMESA
+  full_name: Berrenda Mesa
+  lata: '734'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat: '35.657889'
+  long: "-120.043291"
+  closest_city:
+    name: Shandon
+    distance_km: 30.71
+- country: US
+  region: CA
   exchange: '345325'
   name: BERKELEY
   full_name: Berkeley
@@ -1563,18 +1536,6 @@ rate_centers:
   ilec_name: FRONTIER CALIFORNIA INC.
   lat:
   long:
-- country: US
-  region: CA
-  exchange: '018660'
-  name: BERENDMESA
-  full_name: Berrenda Mesa
-  lata: '734'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat: '35.657889'
-  long: "-120.043291"
-  closest_city:
-    name: Shandon
-    distance_km: 30.71
 - country: US
   region: CA
   exchange: '345688'
@@ -1605,6 +1566,15 @@ rate_centers:
   closest_city:
     name: Beverly Hills
     distance_km: 1.17
+- country: US
+  region: CA
+  exchange: '345689'
+  name: BGBNDHTSPG
+  full_name: Big Bend Hot Springs
+  lata: '724'
+  ilec_name: CITIZENS TELECOM CA. DBA FRONTIER COM OF CA
+  lat:
+  long:
 - country: US
   region: CA
   exchange: '018680'
@@ -1646,42 +1616,9 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '018690'
-  name: BIGBEAR CY
-  full_name: Big Bear City
-  lata: '730'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat: '34.257007'
-  long: "-116.877393"
-  closest_city:
-    name: Big Bear Lake
-    distance_km: 2.26
-- country: US
-  region: CA
-  exchange: '018700'
-  name: BIGBEAR LK
-  full_name: Big Bear Lake
-  lata: '730'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat: '34.2435'
-  long: "-116.913942"
-  closest_city:
-    name: Big Bear Lake
-    distance_km: 1.73
-- country: US
-  region: CA
   exchange: '345692'
   name: BIG BEND
   full_name: Big Bend
-  lata: '724'
-  ilec_name: CITIZENS TELECOM CA. DBA FRONTIER COM OF CA
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '345689'
-  name: BGBNDHTSPG
-  full_name: Big Bend Hot Springs
   lata: '724'
   ilec_name: CITIZENS TELECOM CA. DBA FRONTIER COM OF CA
   lat:
@@ -1711,15 +1648,6 @@ rate_centers:
   closest_city:
     name: Big Creek
     distance_km: 1.62
-- country: US
-  region: CA
-  exchange: '347037'
-  name: BIGOAKFLAT
-  full_name: Big Oak Flat
-  lata: '738'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
 - country: US
   region: CA
   exchange: '345912'
@@ -1752,15 +1680,6 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '345695'
-  name: BIGSPRINGS
-  full_name: Big Springs
-  lata: '724'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
   exchange: '018740'
   name: BIG SUR
   full_name: Big Sur
@@ -1782,6 +1701,30 @@ rate_centers:
   long:
 - country: US
   region: CA
+  exchange: '018690'
+  name: BIGBEAR CY
+  full_name: Big Bear City
+  lata: '730'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat: '34.257007'
+  long: "-116.877393"
+  closest_city:
+    name: Big Bear Lake
+    distance_km: 2.26
+- country: US
+  region: CA
+  exchange: '018700'
+  name: BIGBEAR LK
+  full_name: Big Bear Lake
+  lata: '730'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat: '34.2435'
+  long: "-116.913942"
+  closest_city:
+    name: Big Bear Lake
+    distance_km: 1.73
+- country: US
+  region: CA
   exchange: '018750'
   name: BIGGS
   full_name: Biggs
@@ -1792,6 +1735,24 @@ rate_centers:
   closest_city:
     name: Biggs
     distance_km: 0.93
+- country: US
+  region: CA
+  exchange: '347037'
+  name: BIGOAKFLAT
+  full_name: Big Oak Flat
+  lata: '738'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '345695'
+  name: BIGSPRINGS
+  full_name: Big Springs
+  lata: '724'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
 - country: US
   region: CA
   exchange: '345913'
@@ -1833,16 +1794,40 @@ rate_centers:
     distance_km: 0.25
 - country: US
   region: CA
-  exchange: '018770'
-  name: BSHP RNCH
-  full_name: Bishop Ranch
-  lata: '722'
+  exchange: '018550'
+  name: BKFD MAIN
+  full_name: 'Bakersfield: Main DA'
+  lata: '734'
   ilec_name: PACIFIC BELL
-  lat: '37.750409'
-  long: "-121.964064"
+  lat: '35.373939'
+  long: "-119.017698"
   closest_city:
-    name: Norris Canyon
-    distance_km: 2.18
+    name: Bakersfield
+    distance_km: 2.86
+- country: US
+  region: CA
+  exchange: '018560'
+  name: BKFD NORTH
+  full_name: 'Bakersfield: North DA'
+  lata: '734'
+  ilec_name: PACIFIC BELL
+  lat: '35.373939'
+  long: "-119.017698"
+  closest_city:
+    name: Bakersfield
+    distance_km: 2.86
+- country: US
+  region: CA
+  exchange: '018570'
+  name: BKFD SOUTH
+  full_name: 'Bakersfield: South DA'
+  lata: '734'
+  ilec_name: PACIFIC BELL
+  lat: '35.373939'
+  long: "-119.017698"
+  closest_city:
+    name: Bakersfield
+    distance_km: 2.86
 - country: US
   region: CA
   exchange: '345329'
@@ -2145,6 +2130,30 @@ rate_centers:
   long:
 - country: US
   region: CA
+  exchange: '018920'
+  name: BRBN BRBN
+  full_name: 'Burbank: Burbank DA'
+  lata: '730'
+  ilec_name: PACIFIC BELL
+  lat: '34.182638'
+  long: "-118.308395"
+  closest_city:
+    name: Burbank
+    distance_km: 1.51
+- country: US
+  region: CA
+  exchange: '018930'
+  name: BRBN SNVY
+  full_name: 'Burbank: Sun Valley DA'
+  lata: '730'
+  ilec_name: PACIFIC BELL
+  lat: '34.218667'
+  long: "-118.373884"
+  closest_city:
+    name: Burbank
+    distance_km: 5.76
+- country: US
+  region: CA
   exchange: '018880'
   name: BREA
   full_name: Brea
@@ -2280,6 +2289,18 @@ rate_centers:
   long:
 - country: US
   region: CA
+  exchange: '018610'
+  name: BRSW YERM
+  full_name: 'Barstow: Yermo DA'
+  lata: '730'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat: '34.900585'
+  long: "-117.025936"
+  closest_city:
+    name: Barstow
+    distance_km: 4.29
+- country: US
+  region: CA
   exchange: '346302'
   name: BRYN MAWR
   full_name: Bryn Mawr
@@ -2296,6 +2317,18 @@ rate_centers:
   ilec_name: PACIFIC BELL
   lat:
   long:
+- country: US
+  region: CA
+  exchange: '018770'
+  name: BSHP RNCH
+  full_name: Bishop Ranch
+  lata: '722'
+  ilec_name: PACIFIC BELL
+  lat: '37.750409'
+  long: "-121.964064"
+  closest_city:
+    name: Norris Canyon
+    distance_km: 2.18
 - country: US
   region: CA
   exchange: '347168'
@@ -2326,30 +2359,6 @@ rate_centers:
   ilec_name: CITIZENS TELECOM CA. DBA FRONTIER COM OF CA
   lat:
   long:
-- country: US
-  region: CA
-  exchange: '018920'
-  name: BRBN BRBN
-  full_name: 'Burbank: Burbank DA'
-  lata: '730'
-  ilec_name: PACIFIC BELL
-  lat: '34.182638'
-  long: "-118.308395"
-  closest_city:
-    name: Burbank
-    distance_km: 1.51
-- country: US
-  region: CA
-  exchange: '018930'
-  name: BRBN SNVY
-  full_name: 'Burbank: Sun Valley DA'
-  lata: '730'
-  ilec_name: PACIFIC BELL
-  lat: '34.218667'
-  long: "-118.373884"
-  closest_city:
-    name: Burbank
-    distance_km: 5.76
 - country: US
   region: CA
   exchange: '024141'
@@ -2463,18 +2472,18 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '019101'
-  name: CALABASAS
-  full_name: Calabasas
+  exchange: '346306'
+  name: CALABAS HL
+  full_name: Calabasas Hills
   lata: '730'
   ilec_name: PACIFIC BELL
   lat:
   long:
 - country: US
   region: CA
-  exchange: '346306'
-  name: CALABAS HL
-  full_name: Calabasas Hills
+  exchange: '019101'
+  name: CALABASAS
+  full_name: Calabasas
   lata: '730'
   ilec_name: PACIFIC BELL
   lat:
@@ -2502,30 +2511,6 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '018990'
-  name: CALIFORNCY
-  full_name: California City
-  lata: '730'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat: '35.124052'
-  long: "-117.98554"
-  closest_city:
-    name: California City
-    distance_km: 10.98
-- country: US
-  region: CA
-  exchange: '019000'
-  name: CLFRNHTSPG
-  full_name: California Hot Springs
-  lata: '734'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat: '35.876213'
-  long: "-118.649933"
-  closest_city:
-    name: Pine Flat
-    distance_km: 0.67
-- country: US
-  region: CA
   exchange: '019010'
   name: CALIF VLGE
   full_name: California Village
@@ -2536,6 +2521,18 @@ rate_centers:
   closest_city:
     name: Needles
     distance_km: 3.96
+- country: US
+  region: CA
+  exchange: '018990'
+  name: CALIFORNCY
+  full_name: California City
+  lata: '730'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat: '35.124052'
+  long: "-117.98554"
+  closest_city:
+    name: California City
+    distance_km: 10.98
 - country: US
   region: CA
   exchange: '019020'
@@ -2661,13 +2658,16 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '347045'
-  name: CMPCONNELL
-  full_name: Camp Connell
-  lata: '738'
+  exchange: '019070'
+  name: CAMPBELL
+  full_name: Campbell
+  lata: '722'
   ilec_name: PACIFIC BELL
-  lat:
-  long:
+  lat: '37.282128'
+  long: "-121.943961"
+  closest_city:
+    name: Campbell
+    distance_km: 0.91
 - country: US
   region: CA
   exchange: '345353'
@@ -2679,22 +2679,16 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '024631'
-  name: CMP NELSON
-  full_name: Camp Nelson
-  lata: '728'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '346835'
-  name: CMP PNDLTN
-  full_name: Camp Pendleton
+  exchange: '019080'
+  name: CAMPO
+  full_name: Campo
   lata: '732'
   ilec_name: PACIFIC BELL
-  lat:
-  long:
+  lat: '32.623204'
+  long: "-116.46472"
+  closest_city:
+    name: Campo
+    distance_km: 2.02
 - country: US
   region: CA
   exchange: '345922'
@@ -2713,30 +2707,6 @@ rate_centers:
   ilec_name: PACIFIC BELL
   lat:
   long:
-- country: US
-  region: CA
-  exchange: '019070'
-  name: CAMPBELL
-  full_name: Campbell
-  lata: '722'
-  ilec_name: PACIFIC BELL
-  lat: '37.282128'
-  long: "-121.943961"
-  closest_city:
-    name: Campbell
-    distance_km: 0.91
-- country: US
-  region: CA
-  exchange: '019080'
-  name: CAMPO
-  full_name: Campo
-  lata: '732'
-  ilec_name: PACIFIC BELL
-  lat: '32.623204'
-  long: "-116.46472"
-  closest_city:
-    name: Campo
-    distance_km: 2.02
 - country: US
   region: CA
   exchange: '019090'
@@ -2799,15 +2769,6 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '346314'
-  name: CANYONCTRY
-  full_name: Canyon Country
-  lata: '730'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
   exchange: '345708'
   name: CANYON DAM
   full_name: Canyon Dam
@@ -2826,11 +2787,29 @@ rate_centers:
   long:
 - country: US
   region: CA
+  exchange: '346314'
+  name: CANYONCTRY
+  full_name: Canyon Country
+  lata: '730'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
   exchange: '345924'
   name: CAPAY
   full_name: Capay
   lata: '726'
   ilec_name: GLOBAL VALLEY NETWORKS
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '345355'
+  name: CAPITOLA
+  full_name: Capitola
+  lata: '722'
+  ilec_name: PACIFIC BELL
   lat:
   long:
 - country: US
@@ -2854,15 +2833,6 @@ rate_centers:
   closest_city:
     name: San Juan Capistrano
     distance_km: 1.22
-- country: US
-  region: CA
-  exchange: '345355'
-  name: CAPITOLA
-  full_name: Capitola
-  lata: '722'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
 - country: US
   region: CA
   exchange: '346831'
@@ -2913,15 +2883,6 @@ rate_centers:
     distance_km: 0.49
 - country: US
   region: CA
-  exchange: '346986'
-  name: CARMELHLDS
-  full_name: Carmel Highlands
-  lata: '736'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
   exchange: '019130'
   name: CARMEL VLY
   full_name: Carmel Valley
@@ -2932,6 +2893,15 @@ rate_centers:
   closest_city:
     name: Carmel Valley Village
     distance_km: 2.13
+- country: US
+  region: CA
+  exchange: '346986'
+  name: CARMELHLDS
+  full_name: Carmel Highlands
+  lata: '736'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
 - country: US
   region: CA
   exchange: '345925'
@@ -3117,6 +3087,15 @@ rate_centers:
     distance_km: 2.02
 - country: US
   region: CA
+  exchange: '346320'
+  name: CDARPINSPK
+  full_name: Cedarpines Park
+  lata: '730'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat:
+  long:
+- country: US
+  region: CA
   exchange: '346321'
   name: CEDAR GLEN
   full_name: Cedar Glen
@@ -3131,15 +3110,6 @@ rate_centers:
   full_name: Cedar Ridge
   lata: '726'
   ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '346320'
-  name: CDARPINSPK
-  full_name: Cedarpines Park
-  lata: '730'
-  ilec_name: FRONTIER CALIFORNIA INC.
   lat:
   long:
 - country: US
@@ -3357,15 +3327,6 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '362846'
-  name: CHRIACO SU
-  full_name: Chiriaco Summit
-  lata: '973'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat:
-  long:
-- country: US
-  region: CA
   exchange: '019260'
   name: CHOWCHILLA
   full_name: Chowchilla
@@ -3376,6 +3337,15 @@ rate_centers:
   closest_city:
     name: Chowchilla
     distance_km: 2.6
+- country: US
+  region: CA
+  exchange: '362846'
+  name: CHRIACO SU
+  full_name: Chiriaco Summit
+  lata: '973'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat:
+  long:
 - country: US
   region: CA
   exchange: '019270'
@@ -3423,15 +3393,6 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '346357'
-  name: CYINDUSTRY
-  full_name: City Industry
-  lata: '730'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat:
-  long:
-- country: US
-  region: CA
   exchange: '019300'
   name: CLAREMONT
   full_name: Claremont-San Dimas
@@ -3474,6 +3435,27 @@ rate_centers:
   long:
 - country: US
   region: CA
+  exchange: '345362'
+  name: CLEARLAKPK
+  full_name: Clearlake Park
+  lata: '722'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '019330'
+  name: CLEMENTS
+  full_name: Clements
+  lata: '738'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat: '38.194071'
+  long: "-121.093048"
+  closest_city:
+    name: Dogtown
+    distance_km: 5.69
+- country: US
+  region: CA
   exchange: '345363'
   name: CLERLAHLDS
   full_name: Clearlake Highlands
@@ -3495,25 +3477,28 @@ rate_centers:
     distance_km: 0.62
 - country: US
   region: CA
-  exchange: '345362'
-  name: CLEARLAKPK
-  full_name: Clearlake Park
-  lata: '722'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
+  exchange: '019000'
+  name: CLFRNHTSPG
+  full_name: California Hot Springs
+  lata: '734'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat: '35.876213'
+  long: "-118.649933"
+  closest_city:
+    name: Pine Flat
+    distance_km: 0.67
 - country: US
   region: CA
-  exchange: '019330'
-  name: CLEMENTS
-  full_name: Clements
-  lata: '738'
+  exchange: '019410'
+  name: CLFX WEMR
+  full_name: 'Colfax: Weimar DA'
+  lata: '726'
   ilec_name: FRONTIER CALIFORNIA INC.
-  lat: '38.194071'
-  long: "-121.093048"
+  lat: '39.040351'
+  long: "-120.969721"
   closest_city:
-    name: Dogtown
-    distance_km: 5.69
+    name: Colfax
+    distance_km: 6.11
 - country: US
   region: CA
   exchange: '345719'
@@ -3556,6 +3541,57 @@ rate_centers:
   closest_city:
     name: Clovis
     distance_km: 1.82
+- country: US
+  region: CA
+  exchange: '024631'
+  name: CMP NELSON
+  full_name: Camp Nelson
+  lata: '728'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '346835'
+  name: CMP PNDLTN
+  full_name: Camp Pendleton
+  lata: '732'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '347045'
+  name: CMPCONNELL
+  full_name: Camp Connell
+  lata: '738'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '019440'
+  name: CMTN CMTN
+  full_name: 'Compton: Compton DA'
+  lata: '730'
+  ilec_name: PACIFIC BELL
+  lat: '33.90188'
+  long: "-118.213757"
+  closest_city:
+    name: Compton
+    distance_km: 1.6
+- country: US
+  region: CA
+  exchange: '019450'
+  name: CMTN GRDN
+  full_name: 'Compton: Gardena DA'
+  lata: '730'
+  ilec_name: PACIFIC BELL
+  lat: '33.883771'
+  long: "-118.289726"
+  closest_city:
+    name: Gardena
+    distance_km: 1.99
 - country: US
   region: CA
   exchange: '021021'
@@ -3654,18 +3690,6 @@ rate_centers:
     distance_km: 0.6
 - country: US
   region: CA
-  exchange: '019410'
-  name: CLFX WEMR
-  full_name: 'Colfax: Weimar DA'
-  lata: '726'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat: '39.040351'
-  long: "-120.969721"
-  closest_city:
-    name: Colfax
-    distance_km: 6.11
-- country: US
-  region: CA
   exchange: '345933'
   name: COLLEGE CY
   full_name: College City
@@ -3751,30 +3775,6 @@ rate_centers:
   ilec_name: PACIFIC BELL
   lat:
   long:
-- country: US
-  region: CA
-  exchange: '019440'
-  name: CMTN CMTN
-  full_name: 'Compton: Compton DA'
-  lata: '730'
-  ilec_name: PACIFIC BELL
-  lat: '33.90188'
-  long: "-118.213757"
-  closest_city:
-    name: Compton
-    distance_km: 1.6
-- country: US
-  region: CA
-  exchange: '019450'
-  name: CMTN GRDN
-  full_name: 'Compton: Gardena DA'
-  lata: '730'
-  ilec_name: PACIFIC BELL
-  lat: '33.883771'
-  long: "-118.289726"
-  closest_city:
-    name: Gardena
-    distance_km: 1.99
 - country: US
   region: CA
   exchange: '019460'
@@ -3906,19 +3906,19 @@ rate_centers:
     distance_km: 2.71
 - country: US
   region: CA
-  exchange: '346989'
-  name: CORRALTER
-  full_name: Corral De Tierra
-  lata: '736'
+  exchange: '345373'
+  name: CORRALITOS
+  full_name: Corralitos
+  lata: '722'
   ilec_name: PACIFIC BELL
   lat:
   long:
 - country: US
   region: CA
-  exchange: '345373'
-  name: CORRALITOS
-  full_name: Corralitos
-  lata: '722'
+  exchange: '346989'
+  name: CORRALTER
+  full_name: Corral De Tierra
+  lata: '736'
   ilec_name: PACIFIC BELL
   lat:
   long:
@@ -4242,6 +4242,15 @@ rate_centers:
     distance_km: 0.86
 - country: US
   region: CA
+  exchange: '346357'
+  name: CYINDUSTRY
+  full_name: City Industry
+  lata: '730'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat:
+  long:
+- country: US
+  region: CA
   exchange: '019660'
   name: CYPRESS
   full_name: Cypress
@@ -4413,15 +4422,6 @@ rate_centers:
     distance_km: 0.6
 - country: US
   region: CA
-  exchange: '346991'
-  name: DELREYOAKS
-  full_name: Del Rey Oaks
-  lata: '736'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
   exchange: '346363'
   name: DEL ROSA
   full_name: Del Rosa
@@ -4456,6 +4456,15 @@ rate_centers:
   name: DELHI
   full_name: Delhi
   lata: '738'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '346991'
+  name: DELREYOAKS
+  full_name: Del Rey Oaks
+  lata: '736'
   ilec_name: PACIFIC BELL
   lat:
   long:
@@ -4509,36 +4518,6 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '019740'
-  name: DSERTHTSPG
-  full_name: Desert Hot Springs
-  lata: '973'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat: '33.96586'
-  long: "-116.498924"
-  closest_city:
-    name: Desert Hot Springs
-    distance_km: 4.23
-- country: US
-  region: CA
-  exchange: '025211'
-  name: DESRTKNOLL
-  full_name: Desert Knolls
-  lata: '730'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '346372'
-  name: DSRT KNLS
-  full_name: Desert Knolls
-  lata: '730'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat:
-  long:
-- country: US
-  region: CA
   exchange: '346365'
   name: DESERTLAKE
   full_name: Desert Lake
@@ -4552,6 +4531,15 @@ rate_centers:
   name: DESERTSHRS
   full_name: Desert Shores
   lata: '973'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '025211'
+  name: DESRTKNOLL
+  full_name: Desert Knolls
+  lata: '730'
   ilec_name: FRONTIER CALIFORNIA INC.
   lat:
   long:
@@ -4785,6 +4773,27 @@ rate_centers:
   long:
 - country: US
   region: CA
+  exchange: '019740'
+  name: DSERTHTSPG
+  full_name: Desert Hot Springs
+  lata: '973'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat: '33.96586'
+  long: "-116.498924"
+  closest_city:
+    name: Desert Hot Springs
+    distance_km: 4.23
+- country: US
+  region: CA
+  exchange: '346372'
+  name: DSRT KNLS
+  full_name: Desert Knolls
+  lata: '730'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat:
+  long:
+- country: US
+  region: CA
   exchange: '346373'
   name: DUARTE
   full_name: Duarte
@@ -4902,6 +4911,42 @@ rate_centers:
   long:
 - country: US
   region: CA
+  exchange: '346374'
+  name: E HIGHLAND
+  full_name: East Highland
+  lata: '730'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '346375'
+  name: E IRVINE
+  full_name: East Irvine
+  lata: '730'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '345947'
+  name: E NICOLAUS
+  full_name: East Nicolaus
+  lata: '726'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '345395'
+  name: E PALOALTO
+  full_name: East Palo Alto
+  lata: '722'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
   exchange: '019880'
   name: EAGLE LAKE
   full_name: Eagle Lake
@@ -4980,54 +5025,6 @@ rate_centers:
     distance_km: 17.97
 - country: US
   region: CA
-  exchange: '019930'
-  name: ECONTRCOST
-  full_name: East Contra Costa
-  lata: '722'
-  ilec_name: PACIFIC BELL
-  lat: '37.934021'
-  long: "-121.693049"
-  closest_city:
-    name: Brentwood
-    distance_km: 2.28
-- country: US
-  region: CA
-  exchange: '346374'
-  name: E HIGHLAND
-  full_name: East Highland
-  lata: '730'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '346375'
-  name: E IRVINE
-  full_name: East Irvine
-  lata: '730'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '345947'
-  name: E NICOLAUS
-  full_name: East Nicolaus
-  lata: '726'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '345395'
-  name: E PALOALTO
-  full_name: East Palo Alto
-  lata: '722'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
   exchange: '346126'
   name: EASTON
   full_name: Easton
@@ -5053,6 +5050,18 @@ rate_centers:
   ilec_name: PACIFIC BELL
   lat:
   long:
+- country: US
+  region: CA
+  exchange: '019930'
+  name: ECONTRCOST
+  full_name: East Contra Costa
+  lata: '722'
+  ilec_name: PACIFIC BELL
+  lat: '37.934021'
+  long: "-121.693049"
+  closest_city:
+    name: Brentwood
+    distance_km: 2.28
 - country: US
   region: CA
   exchange: '345397'
@@ -5154,15 +5163,6 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '345951'
-  name: ELDORADHLS
-  full_name: El Dorado Hills
-  lata: '726'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
   exchange: '345399'
   name: EL GRANADA
   full_name: El Granada
@@ -5256,39 +5256,9 @@ rate_centers:
     distance_km: 1.36
 - country: US
   region: CA
-  exchange: '345405'
-  name: ELSOBRANTE
-  full_name: El Sobrante
-  lata: '722'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '020010'
-  name: ELSBR-PINL
-  full_name: El Sobrante-Pinole
-  lata: '722'
-  ilec_name: PACIFIC BELL
-  lat: '37.973644'
-  long: "-122.299899"
-  closest_city:
-    name: Pinole
-    distance_km: 2.61
-- country: US
-  region: CA
   exchange: '023864'
   name: EL TORO
   full_name: El Toro
-  lata: '730'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '346390'
-  name: ELTRMRINBS
-  full_name: El Toro Marine Corps Air Sta
   lata: '730'
   ilec_name: PACIFIC BELL
   lat:
@@ -5308,6 +5278,15 @@ rate_centers:
   name: ELDERWOOD
   full_name: Elderwood
   lata: '728'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '345951'
+  name: ELDORADHLS
+  full_name: El Dorado Hills
+  lata: '726'
   ilec_name: PACIFIC BELL
   lat:
   long:
@@ -5385,6 +5364,18 @@ rate_centers:
   long:
 - country: US
   region: CA
+  exchange: '020010'
+  name: ELSBR-PINL
+  full_name: El Sobrante-Pinole
+  lata: '722'
+  ilec_name: PACIFIC BELL
+  lat: '37.973644'
+  long: "-122.299899"
+  closest_city:
+    name: Pinole
+    distance_km: 2.61
+- country: US
+  region: CA
   exchange: '020050'
   name: ELSINORE
   full_name: Elsinore
@@ -5395,6 +5386,24 @@ rate_centers:
   closest_city:
     name: Lake Elsinore
     distance_km: 1.75
+- country: US
+  region: CA
+  exchange: '345405'
+  name: ELSOBRANTE
+  full_name: El Sobrante
+  lata: '722'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '346390'
+  name: ELTRMRINBS
+  full_name: El Toro Marine Corps Air Sta
+  lata: '730'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
 - country: US
   region: CA
   exchange: '345953'
@@ -5604,18 +5613,6 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '020150'
-  name: FRFLD-SUIS
-  full_name: Fairfield-Suisun
-  lata: '722'
-  ilec_name: PACIFIC BELL
-  lat: '38.241307'
-  long: "-122.040891"
-  closest_city:
-    name: Fairfield
-    distance_km: 2.0
-- country: US
-  region: CA
   exchange: '347061'
   name: FAIRMEAD
   full_name: Fairmead
@@ -5623,18 +5620,6 @@ rate_centers:
   ilec_name: PACIFIC BELL
   lat:
   long:
-- country: US
-  region: CA
-  exchange: '020160'
-  name: FALLRVRMLS
-  full_name: Fall River Mills
-  lata: '724'
-  ilec_name: CITIZENS TELECOM CA. DBA FRONTIER COM OF CA
-  lat: '41.000948'
-  long: "-121.43421"
-  closest_city:
-    name: Fall River Mills
-    distance_km: 0.83
 - country: US
   region: CA
   exchange: '020170'
@@ -5656,6 +5641,18 @@ rate_centers:
   ilec_name: PACIFIC BELL
   lat:
   long:
+- country: US
+  region: CA
+  exchange: '020160'
+  name: FALLRVRMLS
+  full_name: Fall River Mills
+  lata: '724'
+  ilec_name: CITIZENS TELECOM CA. DBA FRONTIER COM OF CA
+  lat: '41.000948'
+  long: "-121.43421"
+  closest_city:
+    name: Fall River Mills
+    distance_km: 0.83
 - country: US
   region: CA
   exchange: '346393'
@@ -5802,6 +5799,15 @@ rate_centers:
   long:
 - country: US
   region: CA
+  exchange: '346992'
+  name: FHUNTERLG
+  full_name: Fort Hunter Liggett
+  lata: '736'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
   exchange: '347064'
   name: FIDDLETOWN
   full_name: Fiddletown
@@ -5880,6 +5886,15 @@ rate_centers:
   long:
 - country: US
   region: CA
+  exchange: '345743'
+  name: FKOFSALMON
+  full_name: Forks of Salmon
+  lata: '724'
+  ilec_name: SISKIYOU TEL. CO.
+  lat:
+  long:
+- country: US
+  region: CA
   exchange: '345959'
   name: FLORIN
   full_name: Florin
@@ -5949,6 +5964,18 @@ rate_centers:
   long:
 - country: US
   region: CA
+  exchange: '020250'
+  name: FORESTHILL
+  full_name: Foresthill
+  lata: '726'
+  ilec_name: FORESTHILL TEL. CO., INC.
+  lat: '39.017971'
+  long: "-120.818982"
+  closest_city:
+    name: Foresthill
+    distance_km: 1.77
+- country: US
+  region: CA
   exchange: '345417'
   name: FORESTKNLS
   full_name: Forest Knolls
@@ -5967,18 +5994,6 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '020250'
-  name: FORESTHILL
-  full_name: Foresthill
-  lata: '726'
-  ilec_name: FORESTHILL TEL. CO., INC.
-  lat: '39.017971'
-  long: "-120.818982"
-  closest_city:
-    name: Foresthill
-    distance_km: 1.77
-- country: US
-  region: CA
   exchange: '020260'
   name: FORESTVL
   full_name: Forestville
@@ -5989,24 +6004,6 @@ rate_centers:
   closest_city:
     name: Forestville
     distance_km: 1.16
-- country: US
-  region: CA
-  exchange: '345743'
-  name: FKOFSALMON
-  full_name: Forks of Salmon
-  lata: '724'
-  ilec_name: SISKIYOU TEL. CO.
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '345749'
-  name: FT BIDWELL
-  full_name: Fort Bidwell
-  lata: '724'
-  ilec_name: CITIZENS TELECOM CA. DBA FRONTIER COM OF CA
-  lat:
-  long:
 - country: US
   region: CA
   exchange: '020270'
@@ -6026,15 +6023,6 @@ rate_centers:
   full_name: Fort Dick
   lata: '722'
   ilec_name: FRONTIER COMMUNICATIONS WEST COAST INC. - CA
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '346992'
-  name: FHUNTERLG
-  full_name: Fort Hunter Liggett
-  lata: '736'
-  ilec_name: PACIFIC BELL
   lat:
   long:
 - country: US
@@ -6061,15 +6049,6 @@ rate_centers:
   closest_city:
     name: Fort Jones
     distance_km: 0.36
-- country: US
-  region: CA
-  exchange: '346404'
-  name: FTMACARTHR
-  full_name: Fort MacArthur
-  lata: '730'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
 - country: US
   region: CA
   exchange: '345421'
@@ -6177,6 +6156,63 @@ rate_centers:
   long:
 - country: US
   region: CA
+  exchange: '347065'
+  name: FRENCHCAMP
+  full_name: French Camp
+  lata: '738'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '020350'
+  name: FRENCHGLCH
+  full_name: French Gulch
+  lata: '724'
+  ilec_name: PACIFIC BELL
+  lat: '40.700107'
+  long: "-122.641288"
+  closest_city:
+    name: French Gulch
+    distance_km: 2.02
+- country: US
+  region: CA
+  exchange: '020360'
+  name: FRESNO
+  full_name: Fresno
+  lata: '728'
+  ilec_name: PACIFIC BELL
+  lat: '36.74123'
+  long: "-119.792199"
+  closest_city:
+    name: Calwa
+    distance_km: 4.15
+- country: US
+  region: CA
+  exchange: '020150'
+  name: FRFLD-SUIS
+  full_name: Fairfield-Suisun
+  lata: '722'
+  ilec_name: PACIFIC BELL
+  lat: '38.241307'
+  long: "-122.040891"
+  closest_city:
+    name: Fairfield
+    distance_km: 2.0
+- country: US
+  region: CA
+  exchange: '020370'
+  name: FRIANT
+  full_name: Friant
+  lata: '728'
+  ilec_name: PONDEROSA TEL. CO.
+  lat: '36.981877'
+  long: "-119.715597"
+  closest_city:
+    name: Friant
+    distance_km: 0.4
+- country: US
+  region: CA
   exchange: '020320'
   name: FRNK GRNLF
   full_name: 'Fremont-Newark: Greenleaf DA'
@@ -6213,49 +6249,22 @@ rate_centers:
     distance_km: 4.06
 - country: US
   region: CA
-  exchange: '347065'
-  name: FRENCHCAMP
-  full_name: French Camp
-  lata: '738'
-  ilec_name: PACIFIC BELL
+  exchange: '345749'
+  name: FT BIDWELL
+  full_name: Fort Bidwell
+  lata: '724'
+  ilec_name: CITIZENS TELECOM CA. DBA FRONTIER COM OF CA
   lat:
   long:
 - country: US
   region: CA
-  exchange: '020350'
-  name: FRENCHGLCH
-  full_name: French Gulch
-  lata: '724'
+  exchange: '346404'
+  name: FTMACARTHR
+  full_name: Fort MacArthur
+  lata: '730'
   ilec_name: PACIFIC BELL
-  lat: '40.700107'
-  long: "-122.641288"
-  closest_city:
-    name: French Gulch
-    distance_km: 2.02
-- country: US
-  region: CA
-  exchange: '020360'
-  name: FRESNO
-  full_name: Fresno
-  lata: '728'
-  ilec_name: PACIFIC BELL
-  lat: '36.74123'
-  long: "-119.792199"
-  closest_city:
-    name: Calwa
-    distance_km: 4.15
-- country: US
-  region: CA
-  exchange: '020370'
-  name: FRIANT
-  full_name: Friant
-  lata: '728'
-  ilec_name: PONDEROSA TEL. CO.
-  lat: '36.981877'
-  long: "-119.715597"
-  closest_city:
-    name: Friant
-    distance_km: 0.4
+  lat:
+  long:
 - country: US
   region: CA
   exchange: '020380'
@@ -6441,19 +6450,19 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '345966'
-  name: GLENALPINE
-  full_name: Glen Alpine
-  lata: '726'
+  exchange: '345436'
+  name: GLEN ELLEN
+  full_name: Glen Ellen
+  lata: '722'
   ilec_name: PACIFIC BELL
   lat:
   long:
 - country: US
   region: CA
-  exchange: '345436'
-  name: GLEN ELLEN
-  full_name: Glen Ellen
-  lata: '722'
+  exchange: '345966'
+  name: GLENALPINE
+  full_name: Glen Alpine
+  lata: '726'
   ilec_name: PACIFIC BELL
   lat:
   long:
@@ -6660,30 +6669,6 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '020520'
-  name: GRVY MAIN
-  full_name: 'Grass Valley: Main DA'
-  lata: '726'
-  ilec_name: PACIFIC BELL
-  lat: '39.217308'
-  long: "-121.055701"
-  closest_city:
-    name: Grass Valley
-    distance_km: 0.78
-- country: US
-  region: CA
-  exchange: '020530'
-  name: GRVY SOUTH
-  full_name: 'Grass Valley: South DA'
-  lata: '726'
-  ilec_name: PACIFIC BELL
-  lat: '39.217308'
-  long: "-121.055701"
-  closest_city:
-    name: Grass Valley
-    distance_km: 0.78
-- country: US
-  region: CA
   exchange: '345438'
   name: GRATON
   full_name: Graton
@@ -6696,15 +6681,6 @@ rate_centers:
   exchange: '346416'
   name: GREEN VLY
   full_name: Green Valley
-  lata: '730'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '346417'
-  name: GREENVLYLK
-  full_name: Green Valley Lake
   lata: '730'
   ilec_name: FRONTIER CALIFORNIA INC.
   lat:
@@ -6751,6 +6727,15 @@ rate_centers:
   closest_city:
     name: Greenville
     distance_km: 1.21
+- country: US
+  region: CA
+  exchange: '346417'
+  name: GREENVLYLK
+  full_name: Green Valley Lake
+  lata: '730'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat:
+  long:
 - country: US
   region: CA
   exchange: '345971'
@@ -6826,6 +6811,30 @@ rate_centers:
   ilec_name: PACIFIC BELL
   lat:
   long:
+- country: US
+  region: CA
+  exchange: '020520'
+  name: GRVY MAIN
+  full_name: 'Grass Valley: Main DA'
+  lata: '726'
+  ilec_name: PACIFIC BELL
+  lat: '39.217308'
+  long: "-121.055701"
+  closest_city:
+    name: Grass Valley
+    distance_km: 0.78
+- country: US
+  region: CA
+  exchange: '020530'
+  name: GRVY SOUTH
+  full_name: 'Grass Valley: South DA'
+  lata: '726'
+  ilec_name: PACIFIC BELL
+  lat: '39.217308'
+  long: "-121.055701"
+  closest_city:
+    name: Grass Valley
+    distance_km: 0.78
 - country: US
   region: CA
   exchange: '020600'
@@ -7026,6 +7035,15 @@ rate_centers:
     distance_km: 2.16
 - country: US
   region: CA
+  exchange: '346422'
+  name: HARBORCITY
+  full_name: Harbor City
+  lata: '730'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
   exchange: '346846'
   name: HARBSN CYN
   full_name: Harbison Canyon
@@ -7045,15 +7063,6 @@ rate_centers:
   closest_city:
     name: Alpine
     distance_km: 1.14
-- country: US
-  region: CA
-  exchange: '346422'
-  name: HARBORCITY
-  full_name: Harbor City
-  lata: '730'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
 - country: US
   region: CA
   exchange: '346142'
@@ -7287,18 +7296,6 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '020810'
-  name: HRCUL-RODE
-  full_name: Hercules-Rodeo
-  lata: '722'
-  ilec_name: PACIFIC BELL
-  lat: '38.012547'
-  long: "-122.271244"
-  closest_city:
-    name: Hercules
-    distance_km: 1.47
-- country: US
-  region: CA
   exchange: '347183'
   name: HERITGERCH
   full_name: Heritage Ranch
@@ -7461,6 +7458,15 @@ rate_centers:
   long:
 - country: US
   region: CA
+  exchange: '021752'
+  name: HNTNGTN PK
+  full_name: Huntington Park
+  lata: '730'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
   exchange: '345979'
   name: HOBART ML
   full_name: Hobart Mills
@@ -7509,20 +7515,20 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '021831'
-  name: HOLLYWOOD
-  full_name: Hollywood
-  lata: '730'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
   exchange: '346448'
   name: HOLLYWDBCH
   full_name: Hollywood Beach
   lata: '730'
   ilec_name: FRONTIER CALIFORNIA INC.
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '021831'
+  name: HOLLYWOOD
+  full_name: Hollywood
+  lata: '730'
+  ilec_name: PACIFIC BELL
   lat:
   long:
 - country: US
@@ -7674,6 +7680,18 @@ rate_centers:
   long:
 - country: US
   region: CA
+  exchange: '020810'
+  name: HRCUL-RODE
+  full_name: Hercules-Rodeo
+  lata: '722'
+  ilec_name: PACIFIC BELL
+  lat: '38.012547'
+  long: "-122.271244"
+  closest_city:
+    name: Hercules
+    distance_km: 1.47
+- country: US
+  region: CA
   exchange: '020930'
   name: HUGHSON
   full_name: Hughson
@@ -7704,6 +7722,15 @@ rate_centers:
   long:
 - country: US
   region: CA
+  exchange: '346146'
+  name: HUNTIGTNLK
+  full_name: Huntington Lake
+  lata: '728'
+  ilec_name: PONDEROSA TEL. CO.
+  lat:
+  long:
+- country: US
+  region: CA
   exchange: '020940'
   name: HUNTITNBCH
   full_name: Huntington Beach
@@ -7714,24 +7741,6 @@ rate_centers:
   closest_city:
     name: Huntington Beach
     distance_km: 3.38
-- country: US
-  region: CA
-  exchange: '346146'
-  name: HUNTIGTNLK
-  full_name: Huntington Lake
-  lata: '728'
-  ilec_name: PONDEROSA TEL. CO.
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '021752'
-  name: HNTNGTN PK
-  full_name: Huntington Park
-  lata: '730'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
 - country: US
   region: CA
   exchange: '020950'
@@ -8133,19 +8142,19 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '362856'
-  name: JOHNSONVLY
-  full_name: Johnson Valley
-  lata: '973'
+  exchange: '346461'
+  name: JOHNSONDL
+  full_name: Johnsondale
+  lata: '730'
   ilec_name: FRONTIER CALIFORNIA INC.
   lat:
   long:
 - country: US
   region: CA
-  exchange: '346461'
-  name: JOHNSONDL
-  full_name: Johnsondale
-  lata: '730'
+  exchange: '362856'
+  name: JOHNSONVLY
+  full_name: Johnson Valley
+  lata: '973'
   ilec_name: FRONTIER CALIFORNIA INC.
   lat:
   long:
@@ -8433,15 +8442,6 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '346155'
-  name: KINGSCNYON
-  full_name: Kings Canyon
-  lata: '728'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat:
-  long:
-- country: US
-  region: CA
   exchange: '021240'
   name: KINGSBURG
   full_name: Kingsburg
@@ -8454,11 +8454,11 @@ rate_centers:
     distance_km: 1.2
 - country: US
   region: CA
-  exchange: '347085'
-  name: KIRKWOOD
-  full_name: Kirkwood
-  lata: '738'
-  ilec_name: VOLCANO TEL. CO.
+  exchange: '346155'
+  name: KINGSCNYON
+  full_name: Kings Canyon
+  lata: '728'
+  ilec_name: FRONTIER CALIFORNIA INC.
   lat:
   long:
 - country: US
@@ -8473,6 +8473,15 @@ rate_centers:
   closest_city:
     name: Kirkwood
     distance_km: 1.39
+- country: US
+  region: CA
+  exchange: '347085'
+  name: KIRKWOOD
+  full_name: Kirkwood
+  lata: '738'
+  ilec_name: VOLCANO TEL. CO.
+  lat:
+  long:
 - country: US
   region: CA
   exchange: '347086'
@@ -8526,6 +8535,15 @@ rate_centers:
     distance_km: 0.72
 - country: US
   region: CA
+  exchange: '345465'
+  name: KNIGHTSEN
+  full_name: Knightsen
+  lata: '722'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
   exchange: '021280'
   name: KNIGHTSLDG
   full_name: Knights Landing
@@ -8536,15 +8554,6 @@ rate_centers:
   closest_city:
     name: Knights Landing
     distance_km: 0.36
-- country: US
-  region: CA
-  exchange: '345465'
-  name: KNIGHTSEN
-  full_name: Knightsen
-  lata: '722'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
 - country: US
   region: CA
   exchange: '346156'
@@ -8574,6 +8583,15 @@ rate_centers:
   long:
 - country: US
   region: CA
+  exchange: '346468'
+  name: LA AFB
+  full_name: Los Angeles AFB
+  lata: '730'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
   exchange: '346469'
   name: LA CANADA
   full_name: La Canada
@@ -8590,19 +8608,6 @@ rate_centers:
   ilec_name: PACIFIC BELL
   lat:
   long:
-- country: US
-  region: CA
-  exchange: '021290'
-  name: LACRSCENTA
-  full_name: La Crescenta
-  lata: '730'
-  ilec_name: PACIFIC BELL
-  lat: '34.209136'
-  long: "-118.224916"
-  closest_city:
-    name: !binary |-
-      TGEgQ2HDsWFkYSBGbGludHJpZGdl
-    distance_km: 2.27
 - country: US
   region: CA
   exchange: '025291'
@@ -8624,15 +8629,6 @@ rate_centers:
   closest_city:
     name: La Habra
     distance_km: 1.17
-- country: US
-  region: CA
-  exchange: '346481'
-  name: LAHABRHTS
-  full_name: La Habra Heights
-  lata: '730'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat:
-  long:
 - country: US
   region: CA
   exchange: '021310'
@@ -8719,15 +8715,6 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '345473'
-  name: LASELVABCH
-  full_name: La Selva Beach
-  lata: '722'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
   exchange: '019301'
   name: LA VERNE
   full_name: La Verne
@@ -8735,6 +8722,19 @@ rate_centers:
   ilec_name: FRONTIER CALIFORNIA INC.
   lat:
   long:
+- country: US
+  region: CA
+  exchange: '021290'
+  name: LACRSCENTA
+  full_name: La Crescenta
+  lata: '730'
+  ilec_name: PACIFIC BELL
+  lat: '34.209136'
+  long: "-118.224916"
+  closest_city:
+    name: !binary |-
+      TGEgQ2HDsWFkYSBGbGludHJpZGdl
+    distance_km: 2.27
 - country: US
   region: CA
   exchange: '346477'
@@ -8758,6 +8758,24 @@ rate_centers:
     distance_km: 0.11
 - country: US
   region: CA
+  exchange: '019111'
+  name: LAGNNIGUEL
+  full_name: Laguna Niguel
+  lata: '730'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '023861'
+  name: LAGNNIGUEL
+  full_name: Laguna Niguel
+  lata: '730'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
   exchange: '021360'
   name: LAGUNA BCH
   full_name: Laguna Beach
@@ -8773,24 +8791,6 @@ rate_centers:
   exchange: '346479'
   name: LAGUNA HLS
   full_name: Laguna Hills
-  lata: '730'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '019111'
-  name: LAGNNIGUEL
-  full_name: Laguna Niguel
-  lata: '730'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '023861'
-  name: LAGNNIGUEL
-  full_name: Laguna Niguel
   lata: '730'
   ilec_name: PACIFIC BELL
   lat:
@@ -8815,46 +8815,13 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '021370'
-  name: LK ALMANOR
-  full_name: Lake Almanor
-  lata: '724'
-  ilec_name: CITIZENS TELECOMM DBA FRONTIER COMM GOLDEN STATE
-  lat: '40.273554'
-  long: "-121.089891"
-  closest_city:
-    name: Hamilton Branch
-    distance_km: 0.66
-- country: US
-  region: CA
-  exchange: '346499'
-  name: LKARROWHED
-  full_name: Lake Arrowhead
+  exchange: '346481'
+  name: LAHABRHTS
+  full_name: La Habra Heights
   lata: '730'
   ilec_name: FRONTIER CALIFORNIA INC.
   lat:
   long:
-- country: US
-  region: CA
-  exchange: '346497'
-  name: LK BALBOA
-  full_name: Lake Balboa
-  lata: '730'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '021380'
-  name: LKBERRYESS
-  full_name: Lake Berryessa
-  lata: '722'
-  ilec_name: PACIFIC BELL
-  lat: '38.53433'
-  long: "-122.223484"
-  closest_city:
-    name: Moskowite Corner
-    distance_km: 10.1
 - country: US
   region: CA
   exchange: '345783'
@@ -8866,19 +8833,19 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '346500'
-  name: LKELSINORE
-  full_name: Lake Elsinore
-  lata: '730'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat:
-  long:
-- country: US
-  region: CA
   exchange: '346482'
   name: LAKEFOREST
   full_name: Lake Forest
   lata: '730'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '345784'
+  name: LAKEHEAD
+  full_name: Lakehead
+  lata: '724'
   ilec_name: PACIFIC BELL
   lat:
   long:
@@ -8894,54 +8861,6 @@ rate_centers:
   closest_city:
     name: Lake Hughes
     distance_km: 1.83
-- country: US
-  region: CA
-  exchange: '021400'
-  name: LKISABELLA
-  full_name: Lake Isabella
-  lata: '730'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat: '35.624371'
-  long: "-118.476375"
-  closest_city:
-    name: Lake Isabella
-    distance_km: 1.58
-- country: US
-  region: CA
-  exchange: '018711'
-  name: LK LS AGLS
-  full_name: Lake Los Angeles
-  lata: '730'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '347185'
-  name: LKNACIMNTO
-  full_name: Lake Nacimiento
-  lata: '740'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '346502'
-  name: LKSHERWOOD
-  full_name: Lake Sherwood
-  lata: '730'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '345784'
-  name: LAKEHEAD
-  full_name: Lakehead
-  lata: '724'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
 - country: US
   region: CA
   exchange: '021410'
@@ -9064,6 +8983,15 @@ rate_centers:
   long:
 - country: US
   region: CA
+  exchange: '345473'
+  name: LASELVABCH
+  full_name: La Selva Beach
+  lata: '722'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
   exchange: '021971'
   name: LATHROP
   full_name: Lathrop
@@ -9083,15 +9011,6 @@ rate_centers:
   closest_city:
     name: Laton
     distance_km: 1.2
-- country: US
-  region: CA
-  exchange: '345892'
-  name: AATROBE
-  full_name: Latrobe
-  lata: '726'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
 - country: US
   region: CA
   exchange: '346488'
@@ -9322,15 +9241,6 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '346862'
-  name: LNDA VSTA
-  full_name: Linda Vista
-  lata: '732'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
   exchange: '021560'
   name: LINDEN
   full_name: Linden
@@ -9373,29 +9283,20 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '023002'
-  name: LITTLEROCK
-  full_name: Little Rock
-  lata: '730'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '345795'
-  name: LTL SHASTA
-  full_name: Little Shasta
-  lata: '724'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
   exchange: '345788'
   name: LITTLE VLY
   full_name: Little Valley
   lata: '724'
   ilec_name: CITIZENS TELECOM CA. DBA FRONTIER COM OF CA
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '023002'
+  name: LITTLEROCK
+  full_name: Little Rock
+  lata: '730'
+  ilec_name: PACIFIC BELL
   lat:
   long:
 - country: US
@@ -9436,10 +9337,109 @@ rate_centers:
     distance_km: 0.28
 - country: US
   region: CA
+  exchange: '021370'
+  name: LK ALMANOR
+  full_name: Lake Almanor
+  lata: '724'
+  ilec_name: CITIZENS TELECOMM DBA FRONTIER COMM GOLDEN STATE
+  lat: '40.273554'
+  long: "-121.089891"
+  closest_city:
+    name: Hamilton Branch
+    distance_km: 0.66
+- country: US
+  region: CA
+  exchange: '346497'
+  name: LK BALBOA
+  full_name: Lake Balboa
+  lata: '730'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '018711'
+  name: LK LS AGLS
+  full_name: Lake Los Angeles
+  lata: '730'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '346499'
+  name: LKARROWHED
+  full_name: Lake Arrowhead
+  lata: '730'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '021380'
+  name: LKBERRYESS
+  full_name: Lake Berryessa
+  lata: '722'
+  ilec_name: PACIFIC BELL
+  lat: '38.53433'
+  long: "-122.223484"
+  closest_city:
+    name: Moskowite Corner
+    distance_km: 10.1
+- country: US
+  region: CA
+  exchange: '346500'
+  name: LKELSINORE
+  full_name: Lake Elsinore
+  lata: '730'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '021400'
+  name: LKISABELLA
+  full_name: Lake Isabella
+  lata: '730'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat: '35.624371'
+  long: "-118.476375"
+  closest_city:
+    name: Lake Isabella
+    distance_km: 1.58
+- country: US
+  region: CA
+  exchange: '347185'
+  name: LKNACIMNTO
+  full_name: Lake Nacimiento
+  lata: '740'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '346502'
+  name: LKSHERWOOD
+  full_name: Lake Sherwood
+  lata: '730'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat:
+  long:
+- country: US
+  region: CA
   exchange: '346503'
   name: LLANO
   full_name: Llano
   lata: '730'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '346862'
+  name: LNDA VSTA
+  full_name: Linda Vista
+  lata: '732'
   ilec_name: PACIFIC BELL
   lat:
   long:
@@ -9601,15 +9601,6 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '346509'
-  name: LOSALMITOS
-  full_name: Los Alamitos
-  lata: '730'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat:
-  long:
-- country: US
-  region: CA
   exchange: '021680'
   name: LOS ALAMOS
   full_name: Los Alamos
@@ -9634,13 +9625,157 @@ rate_centers:
     distance_km: 2.28
 - country: US
   region: CA
-  exchange: '346468'
-  name: LA AFB
-  full_name: Los Angeles AFB
+  exchange: '021840'
+  name: LOS BANOS
+  full_name: Los Banos
+  lata: '738'
+  ilec_name: PACIFIC BELL
+  lat: '37.057576'
+  long: "-120.851779"
+  closest_city:
+    name: Los Banos
+    distance_km: 1.16
+- country: US
+  region: CA
+  exchange: '021850'
+  name: LOS GATOS
+  full_name: Los Gatos
+  lata: '722'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat: '37.236909'
+  long: "-121.950457"
+  closest_city:
+    name: Los Gatos
+    distance_km: 0.88
+- country: US
+  region: CA
+  exchange: '346508'
+  name: LOS NIETOS
+  full_name: Los Nietos
   lata: '730'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '347188'
+  name: LOS OLIVOS
+  full_name: Los Olivos
+  lata: '740'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '347189'
+  name: LOS OSOS
+  full_name: Los Osos
+  lata: '740'
   ilec_name: PACIFIC BELL
   lat:
   long:
+- country: US
+  region: CA
+  exchange: '346509'
+  name: LOSALMITOS
+  full_name: Los Alamitos
+  lata: '730'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '346999'
+  name: LOSLAURLES
+  full_name: Los Laureles
+  lata: '736'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '021860'
+  name: LOSMOLINOS
+  full_name: Los Molinos
+  lata: '724'
+  ilec_name: PACIFIC BELL
+  lat: '40.027387'
+  long: "-122.093836"
+  closest_city:
+    name: Los Molinos
+    distance_km: 0.37
+- country: US
+  region: CA
+  exchange: '346512'
+  name: LOSSRRANOS
+  full_name: Los Serranos
+  lata: '730'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '021870'
+  name: LOST HILLS
+  full_name: Lost Hills
+  lata: '734'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat: '35.607417'
+  long: "-119.700453"
+  closest_city:
+    name: Lost Hills
+    distance_km: 2.8
+- country: US
+  region: CA
+  exchange: '346513'
+  name: LOST LAKE
+  full_name: Lost Lake
+  lata: '730'
+  ilec_name: FRONTIER COMMUNICATIONS OF THE SOUTHWEST INC. - AZ
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '345997'
+  name: LOTUS
+  full_name: Lotus
+  lata: '726'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '345793'
+  name: LOVELOCK
+  full_name: Lovelock
+  lata: '724'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '021880'
+  name: LOWER LAKE
+  full_name: Lower Lake
+  lata: '722'
+  ilec_name: PACIFIC BELL
+  lat: '38.910512'
+  long: "-122.615552"
+  closest_city:
+    name: Lower Lake
+    distance_km: 0.64
+- country: US
+  region: CA
+  exchange: '021890'
+  name: LOYALTON
+  full_name: Loyalton
+  lata: '724'
+  ilec_name: PACIFIC BELL
+  lat: '39.681746'
+  long: "-120.243226"
+  closest_city:
+    name: Loyalton
+    distance_km: 0.57
 - country: US
   region: CA
   exchange: '021771'
@@ -9979,148 +10114,13 @@ rate_centers:
     distance_km: 6.55
 - country: US
   region: CA
-  exchange: '021840'
-  name: LOS BANOS
-  full_name: Los Banos
-  lata: '738'
-  ilec_name: PACIFIC BELL
-  lat: '37.057576'
-  long: "-120.851779"
-  closest_city:
-    name: Los Banos
-    distance_km: 1.16
-- country: US
-  region: CA
-  exchange: '021850'
-  name: LOS GATOS
-  full_name: Los Gatos
-  lata: '722'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat: '37.236909'
-  long: "-121.950457"
-  closest_city:
-    name: Los Gatos
-    distance_km: 0.88
-- country: US
-  region: CA
-  exchange: '346999'
-  name: LOSLAURLES
-  full_name: Los Laureles
-  lata: '736'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '021860'
-  name: LOSMOLINOS
-  full_name: Los Molinos
-  lata: '724'
-  ilec_name: PACIFIC BELL
-  lat: '40.027387'
-  long: "-122.093836"
-  closest_city:
-    name: Los Molinos
-    distance_km: 0.37
-- country: US
-  region: CA
-  exchange: '346508'
-  name: LOS NIETOS
-  full_name: Los Nietos
-  lata: '730'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '347188'
-  name: LOS OLIVOS
-  full_name: Los Olivos
-  lata: '740'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '347189'
-  name: LOS OSOS
-  full_name: Los Osos
-  lata: '740'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '346512'
-  name: LOSSRRANOS
-  full_name: Los Serranos
-  lata: '730'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '021870'
-  name: LOST HILLS
-  full_name: Lost Hills
-  lata: '734'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat: '35.607417'
-  long: "-119.700453"
-  closest_city:
-    name: Lost Hills
-    distance_km: 2.8
-- country: US
-  region: CA
-  exchange: '346513'
-  name: LOST LAKE
-  full_name: Lost Lake
-  lata: '730'
-  ilec_name: FRONTIER COMMUNICATIONS OF THE SOUTHWEST INC. - AZ
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '345997'
-  name: LOTUS
-  full_name: Lotus
-  lata: '726'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '345793'
-  name: LOVELOCK
-  full_name: Lovelock
+  exchange: '345795'
+  name: LTL SHASTA
+  full_name: Little Shasta
   lata: '724'
   ilec_name: PACIFIC BELL
   lat:
   long:
-- country: US
-  region: CA
-  exchange: '021880'
-  name: LOWER LAKE
-  full_name: Lower Lake
-  lata: '722'
-  ilec_name: PACIFIC BELL
-  lat: '38.910512'
-  long: "-122.615552"
-  closest_city:
-    name: Lower Lake
-    distance_km: 0.64
-- country: US
-  region: CA
-  exchange: '021890'
-  name: LOYALTON
-  full_name: Loyalton
-  lata: '724'
-  ilec_name: PACIFIC BELL
-  lat: '39.681746'
-  long: "-120.243226"
-  closest_city:
-    name: Loyalton
-    distance_km: 0.57
 - country: US
   region: CA
   exchange: '345484'
@@ -10471,15 +10471,6 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '346579'
-  name: MTLIJHTSPG
-  full_name: Matilija Hot Springs
-  lata: '730'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
   exchange: '022020'
   name: MAXWELL
   full_name: Maxwell
@@ -10573,15 +10564,6 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '346005'
-  name: MEADOWVSTA
-  full_name: Meadow Vista
-  lata: '726'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
   exchange: '022060'
   name: MEADOWVIEW
   full_name: Meadowview
@@ -10592,6 +10574,15 @@ rate_centers:
   closest_city:
     name: Freeport
     distance_km: 1.65
+- country: US
+  region: CA
+  exchange: '346005'
+  name: MEADOWVSTA
+  full_name: Meadow Vista
+  lata: '726'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
 - country: US
   region: CA
   exchange: '021023'
@@ -10786,18 +10777,6 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '022140'
-  name: MILLVALLEY
-  full_name: Mill Valley
-  lata: '722'
-  ilec_name: PACIFIC BELL
-  lat: '37.906681'
-  long: "-122.559554"
-  closest_city:
-    name: Mill Valley
-    distance_km: 1.55
-- country: US
-  region: CA
   exchange: '022150'
   name: MILLBRAE
   full_name: Millbrae
@@ -10808,6 +10787,18 @@ rate_centers:
   closest_city:
     name: Millbrae
     distance_km: 0.53
+- country: US
+  region: CA
+  exchange: '022140'
+  name: MILLVALLEY
+  full_name: Mill Valley
+  lata: '722'
+  ilec_name: PACIFIC BELL
+  lat: '37.906681'
+  long: "-122.559554"
+  closest_city:
+    name: Mill Valley
+    distance_km: 1.55
 - country: US
   region: CA
   exchange: '022160'
@@ -10897,18 +10888,6 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '022210'
-  name: MIRANTPHST
-  full_name: Miramonte-Pinehurst
-  lata: '728'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat: '36.698117'
-  long: "-119.051421"
-  closest_city:
-    name: Wilsonia
-    distance_km: 9.44
-- country: US
-  region: CA
   exchange: '022220'
   name: MIRANDA
   full_name: Miranda
@@ -10921,22 +10900,16 @@ rate_centers:
     distance_km: 1.2
 - country: US
   region: CA
-  exchange: '346560'
-  name: MISSIONHL
-  full_name: Mission Hills
-  lata: '730'
+  exchange: '022210'
+  name: MIRANTPHST
+  full_name: Miramonte-Pinehurst
+  lata: '728'
   ilec_name: FRONTIER CALIFORNIA INC.
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '345508'
-  name: MSSNSNJOSE
-  full_name: Mission San Jose
-  lata: '722'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
+  lat: '36.698117'
+  long: "-119.051421"
+  closest_city:
+    name: Wilsonia
+    distance_km: 9.44
 - country: US
   region: CA
   exchange: '019112'
@@ -10953,6 +10926,15 @@ rate_centers:
   full_name: Mission Viejo
   lata: '730'
   ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '346560'
+  name: MISSIONHL
+  full_name: Mission Hills
+  lata: '730'
+  ilec_name: FRONTIER CALIFORNIA INC.
   lat:
   long:
 - country: US
@@ -11140,24 +11122,6 @@ rate_centers:
     distance_km: 1.15
 - country: US
   region: CA
-  exchange: '345502'
-  name: MONTESRENO
-  full_name: Monte Sereno
-  lata: '722'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '345503'
-  name: MONTEVISTA
-  full_name: Monte Vista
-  lata: '722'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
   exchange: '022300'
   name: MONTEBELLO
   full_name: Montebello
@@ -11195,6 +11159,24 @@ rate_centers:
   name: MONTEREYPK
   full_name: Monterey Park
   lata: '730'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '345502'
+  name: MONTESRENO
+  full_name: Monte Sereno
+  lata: '722'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '345503'
+  name: MONTEVISTA
+  full_name: Monte Vista
+  lata: '722'
   ilec_name: PACIFIC BELL
   lat:
   long:
@@ -11332,6 +11314,51 @@ rate_centers:
   long:
 - country: US
   region: CA
+  exchange: '345507'
+  name: MOUNT EDEN
+  full_name: Mount Eden
+  lata: '722'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '347105'
+  name: MOUNTAINHS
+  full_name: Mountain House
+  lata: '738'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '346574'
+  name: MOUNTANCTR
+  full_name: Mountain Center
+  lata: '730'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '346575'
+  name: MOUNTNMESA
+  full_name: Mountain Mesa
+  lata: '730'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '345508'
+  name: MSSNSNJOSE
+  full_name: Mission San Jose
+  lata: '722'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
   exchange: '346576'
   name: MT BALDY
   full_name: Mount Baldy
@@ -11351,24 +11378,6 @@ rate_centers:
   closest_city:
     name: Mount Bullion
     distance_km: 1.27
-- country: US
-  region: CA
-  exchange: '345507'
-  name: MOUNT EDEN
-  full_name: Mount Eden
-  lata: '722'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '345511'
-  name: MTHAMILTON
-  full_name: Mount Hamilton
-  lata: '722'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
 - country: US
   region: CA
   exchange: '345812'
@@ -11398,54 +11407,6 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '022410'
-  name: MT SHASTA
-  full_name: Mount Shasta
-  lata: '724'
-  ilec_name: PACIFIC BELL
-  lat: '41.31635'
-  long: "-122.314932"
-  closest_city:
-    name: Mount Shasta
-    distance_km: 0.47
-- country: US
-  region: CA
-  exchange: '346578'
-  name: MT WILSON
-  full_name: Mount Wilson
-  lata: '730'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '346574'
-  name: MOUNTANCTR
-  full_name: Mountain Center
-  lata: '730'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '347105'
-  name: MOUNTAINHS
-  full_name: Mountain House
-  lata: '738'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '346575'
-  name: MOUNTNMESA
-  full_name: Mountain Mesa
-  lata: '730'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat:
-  long:
-- country: US
-  region: CA
   exchange: '022420'
   name: MT PASS
   full_name: Mountain Pass
@@ -11467,6 +11428,18 @@ rate_centers:
   long:
 - country: US
   region: CA
+  exchange: '022410'
+  name: MT SHASTA
+  full_name: Mount Shasta
+  lata: '724'
+  ilec_name: PACIFIC BELL
+  lat: '41.31635'
+  long: "-122.314932"
+  closest_city:
+    name: Mount Shasta
+    distance_km: 0.47
+- country: US
+  region: CA
   exchange: '022430'
   name: MT VIEW
   full_name: Mountain View
@@ -11477,6 +11450,33 @@ rate_centers:
   closest_city:
     name: Mountain View
     distance_km: 1.24
+- country: US
+  region: CA
+  exchange: '346578'
+  name: MT WILSON
+  full_name: Mount Wilson
+  lata: '730'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '345511'
+  name: MTHAMILTON
+  full_name: Mount Hamilton
+  lata: '722'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '346579'
+  name: MTLIJHTSPG
+  full_name: Matilija Hot Springs
+  lata: '730'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
 - country: US
   region: CA
   exchange: '345512'
@@ -11558,6 +11558,24 @@ rate_centers:
   name: MYERS FLAT
   full_name: Myers Flat
   lata: '722'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '345516'
+  name: N RICHMOND
+  full_name: North Richmond
+  lata: '722'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '346582'
+  name: N TUSTIN
+  full_name: North Tustin
+  lata: '730'
   ilec_name: PACIFIC BELL
   lat:
   long:
@@ -11647,15 +11665,6 @@ rate_centers:
     distance_km: 0.82
 - country: US
   region: CA
-  exchange: '346172'
-  name: NEWAUBERRY
-  full_name: New Auberry
-  lata: '728'
-  ilec_name: PONDEROSA TEL. CO.
-  lat:
-  long:
-- country: US
-  region: CA
   exchange: '346960'
   name: NEW CUYAMA
   full_name: New Cuyama
@@ -11665,23 +11674,20 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '022490'
-  name: NEWPINECRK
-  full_name: New Pine Creek
-  lata: '670'
-  ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
-  lat: '41.993089'
-  long: "-120.291532"
-  closest_city:
-    name: New Pine Creek
-    distance_km: 1.01
-- country: US
-  region: CA
   exchange: '345519'
   name: NEWARK
   full_name: Newark
   lata: '722'
   ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '346172'
+  name: NEWAUBERRY
+  full_name: New Auberry
+  lata: '728'
+  ilec_name: PONDEROSA TEL. CO.
   lat:
   long:
 - country: US
@@ -11749,6 +11755,42 @@ rate_centers:
   long:
 - country: US
   region: CA
+  exchange: '022530'
+  name: NEWMAN
+  full_name: Newman
+  lata: '738'
+  ilec_name: PACIFIC BELL
+  lat: '37.316744'
+  long: "-121.024791"
+  closest_city:
+    name: Newman
+    distance_km: 0.34
+- country: US
+  region: CA
+  exchange: '022490'
+  name: NEWPINECRK
+  full_name: New Pine Creek
+  lata: '670'
+  ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
+  lat: '41.993089'
+  long: "-120.291532"
+  closest_city:
+    name: New Pine Creek
+    distance_km: 1.01
+- country: US
+  region: CA
+  exchange: '022540'
+  name: NEWPORTBCH
+  full_name: Newport Beach
+  lata: '730'
+  ilec_name: PACIFIC BELL
+  lat: '33.601706'
+  long: "-117.902021"
+  closest_city:
+    name: Newport Beach
+    distance_km: 3.59
+- country: US
+  region: CA
   exchange: '346590'
   name: NHLLCSTCDA
   full_name: Newhall:Castaic Da
@@ -11765,30 +11807,6 @@ rate_centers:
   ilec_name: PACIFIC BELL
   lat:
   long:
-- country: US
-  region: CA
-  exchange: '022530'
-  name: NEWMAN
-  full_name: Newman
-  lata: '738'
-  ilec_name: PACIFIC BELL
-  lat: '37.316744'
-  long: "-121.024791"
-  closest_city:
-    name: Newman
-    distance_km: 0.34
-- country: US
-  region: CA
-  exchange: '022540'
-  name: NEWPORTBCH
-  full_name: Newport Beach
-  lata: '730'
-  ilec_name: PACIFIC BELL
-  lat: '33.601706'
-  long: "-117.902021"
-  closest_city:
-    name: Newport Beach
-    distance_km: 3.59
 - country: US
   region: CA
   exchange: '022550'
@@ -11893,6 +11911,63 @@ rate_centers:
   long:
 - country: US
   region: CA
+  exchange: '018831'
+  name: NO EDWARDS
+  full_name: North Edwards
+  lata: '730'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '023851'
+  name: NO HGHLNDS
+  full_name: North Highlands
+  lata: '726'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '022600'
+  name: NO HOLLYWD
+  full_name: North Hollywood
+  lata: '730'
+  ilec_name: PACIFIC BELL
+  lat: '34.167587'
+  long: "-118.372802"
+  closest_city:
+    name: Burbank
+    distance_km: 5.07
+- country: US
+  region: CA
+  exchange: '346015'
+  name: NO SCRMNTO
+  full_name: North Sacramento
+  lata: '726'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '021022'
+  name: NO SHORES
+  full_name: North Shores
+  lata: '973'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '362862'
+  name: NOPALM SPG
+  full_name: North Palm Springs
+  lata: '973'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat:
+  long:
+- country: US
+  region: CA
   exchange: '346595'
   name: NORCO
   full_name: Norco
@@ -11920,15 +11995,6 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '018831'
-  name: NO EDWARDS
-  full_name: North Edwards
-  lata: '730'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat:
-  long:
-- country: US
-  region: CA
   exchange: '022590'
   name: NORTH FORK
   full_name: North Fork
@@ -11939,117 +12005,6 @@ rate_centers:
   closest_city:
     name: North Fork
     distance_km: 1.91
-- country: US
-  region: CA
-  exchange: '023851'
-  name: NO HGHLNDS
-  full_name: North Highlands
-  lata: '726'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '022600'
-  name: NO HOLLYWD
-  full_name: North Hollywood
-  lata: '730'
-  ilec_name: PACIFIC BELL
-  lat: '34.167587'
-  long: "-118.372802"
-  closest_city:
-    name: Burbank
-    distance_km: 5.07
-- country: US
-  region: CA
-  exchange: '362862'
-  name: NOPALM SPG
-  full_name: North Palm Springs
-  lata: '973'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '345516'
-  name: N RICHMOND
-  full_name: North Richmond
-  lata: '722'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '346015'
-  name: NO SCRMNTO
-  full_name: North Sacramento
-  lata: '726'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '022610'
-  name: NOSAN JUAN
-  full_name: North San Juan
-  lata: '726'
-  ilec_name: PACIFIC BELL
-  lat: '39.368549'
-  long: "-121.110348"
-  closest_city:
-    name: North San Juan
-    distance_km: 0.53
-- country: US
-  region: CA
-  exchange: '362863'
-  name: NORTHSHORE
-  full_name: North Shore
-  lata: '973'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '021022'
-  name: NO SHORES
-  full_name: North Shores
-  lata: '973'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '022620'
-  name: NTAH BCWY
-  full_name: 'North Tahoe: Brockway DA'
-  lata: '726'
-  ilec_name: PACIFIC BELL
-  lat: '39.223435'
-  long: "-120.007691"
-  closest_city:
-    name: Kings Beach
-    distance_km: 2.63
-- country: US
-  region: CA
-  exchange: '022630'
-  name: NTAH THCY
-  full_name: 'North Tahoe: Tahoe City DA'
-  lata: '726'
-  ilec_name: PACIFIC BELL
-  lat: '39.167801'
-  long: "-120.147789"
-  closest_city:
-    name: Sunnyside-Tahoe City
-    distance_km: 2.16
-- country: US
-  region: CA
-  exchange: '346582'
-  name: N TUSTIN
-  full_name: North Tustin
-  lata: '730'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
 - country: US
   region: CA
   exchange: '022640'
@@ -12076,6 +12031,15 @@ rate_centers:
     distance_km: 10.49
 - country: US
   region: CA
+  exchange: '362863'
+  name: NORTHSHORE
+  full_name: North Shore
+  lata: '973'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat:
+  long:
+- country: US
+  region: CA
   exchange: '346018'
   name: NORTHSTAR
   full_name: Northstar
@@ -12097,6 +12061,18 @@ rate_centers:
     distance_km: 0.86
 - country: US
   region: CA
+  exchange: '022610'
+  name: NOSAN JUAN
+  full_name: North San Juan
+  lata: '726'
+  ilec_name: PACIFIC BELL
+  lat: '39.368549'
+  long: "-121.110348"
+  closest_city:
+    name: North San Juan
+    distance_km: 0.53
+- country: US
+  region: CA
   exchange: '022670'
   name: NOVATO
   full_name: Novato
@@ -12107,6 +12083,30 @@ rate_centers:
   closest_city:
     name: Novato
     distance_km: 2.01
+- country: US
+  region: CA
+  exchange: '022620'
+  name: NTAH BCWY
+  full_name: 'North Tahoe: Brockway DA'
+  lata: '726'
+  ilec_name: PACIFIC BELL
+  lat: '39.223435'
+  long: "-120.007691"
+  closest_city:
+    name: Kings Beach
+    distance_km: 2.63
+- country: US
+  region: CA
+  exchange: '022630'
+  name: NTAH THCY
+  full_name: 'North Tahoe: Tahoe City DA'
+  lata: '726'
+  ilec_name: PACIFIC BELL
+  lat: '39.167801'
+  long: "-120.147789"
+  closest_city:
+    name: Sunnyside-Tahoe City
+    distance_km: 2.16
 - country: US
   region: CA
   exchange: '345818'
@@ -12131,15 +12131,6 @@ rate_centers:
   name: NUT TREE
   full_name: Nut Tree
   lata: '722'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '345821'
-  name: OBRIEN
-  full_name: O'Brien
-  lata: '724'
   ilec_name: PACIFIC BELL
   lat:
   long:
@@ -12229,6 +12220,153 @@ rate_centers:
   long:
 - country: US
   region: CA
+  exchange: '019932'
+  name: OAKLEY
+  full_name: Oakley
+  lata: '722'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '022770'
+  name: OAKVIEW
+  full_name: Oakview
+  lata: '730'
+  ilec_name: PACIFIC BELL
+  lat: '34.394732'
+  long: "-119.295789"
+  closest_city:
+    name: Oak View
+    distance_km: 0.97
+- country: US
+  region: CA
+  exchange: '345526'
+  name: OAKVILLE
+  full_name: Oakville
+  lata: '722'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '021024'
+  name: OASIS
+  full_name: Oasis
+  lata: '973'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '345821'
+  name: OBRIEN
+  full_name: O'Brien
+  lata: '724'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '022780'
+  name: OCCIDENTAL
+  full_name: Occidental
+  lata: '722'
+  ilec_name: PACIFIC BELL
+  lat: '38.409705'
+  long: "-122.950157"
+  closest_city:
+    name: Occidental
+    distance_km: 1.68
+- country: US
+  region: CA
+  exchange: '345528'
+  name: OCEAN COVE
+  full_name: Ocean Cove
+  lata: '722'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '347193'
+  name: OCEANO
+  full_name: Oceano
+  lata: '740'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '022820'
+  name: OCOTILLO
+  full_name: Ocotillo
+  lata: '732'
+  ilec_name: PACIFIC BELL
+  lat: '32.791101'
+  long: "-115.84806"
+  closest_city:
+    name: Seeley
+    distance_km: 15.31
+- country: US
+  region: CA
+  exchange: '022790'
+  name: OCSD CRLS
+  full_name: 'Oceanside: Carlsbad DA'
+  lata: '732'
+  ilec_name: PACIFIC BELL
+  lat: '33.116805'
+  long: "-117.272246"
+  closest_city:
+    name: Carlsbad
+    distance_km: 1.35
+- country: US
+  region: CA
+  exchange: '022800'
+  name: OCSD OCSD
+  full_name: 'Oceanside: Oceanside DA'
+  lata: '732'
+  ilec_name: PACIFIC BELL
+  lat: '33.158868'
+  long: "-117.340672"
+  closest_city:
+    name: Carlsbad
+    distance_km: 6.55
+- country: US
+  region: CA
+  exchange: '022810'
+  name: OCSD PDTN
+  full_name: 'Oceanside: Pendleton DA'
+  lata: '732'
+  ilec_name: PACIFIC BELL
+  lat: '33.298874'
+  long: "-117.310999"
+  closest_city:
+    name: Oceanside
+    distance_km: 8.25
+- country: US
+  region: CA
+  exchange: '018561'
+  name: OILDALE
+  full_name: Oildale
+  lata: '734'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '022830'
+  name: OJAI
+  full_name: Ojai
+  lata: '730'
+  ilec_name: PACIFIC BELL
+  lat: '34.436123'
+  long: "-119.254554"
+  closest_city:
+    name: Ojai
+    distance_km: 1.57
+- country: US
+  region: CA
   exchange: '022720'
   name: OKLD ALMD
   full_name: 'Oakland: Alameda DA'
@@ -12287,144 +12425,6 @@ rate_centers:
   closest_city:
     name: Piedmont
     distance_km: 3.52
-- country: US
-  region: CA
-  exchange: '019932'
-  name: OAKLEY
-  full_name: Oakley
-  lata: '722'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '022770'
-  name: OAKVIEW
-  full_name: Oakview
-  lata: '730'
-  ilec_name: PACIFIC BELL
-  lat: '34.394732'
-  long: "-119.295789"
-  closest_city:
-    name: Oak View
-    distance_km: 0.97
-- country: US
-  region: CA
-  exchange: '345526'
-  name: OAKVILLE
-  full_name: Oakville
-  lata: '722'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '021024'
-  name: OASIS
-  full_name: Oasis
-  lata: '973'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '022780'
-  name: OCCIDENTAL
-  full_name: Occidental
-  lata: '722'
-  ilec_name: PACIFIC BELL
-  lat: '38.409705'
-  long: "-122.950157"
-  closest_city:
-    name: Occidental
-    distance_km: 1.68
-- country: US
-  region: CA
-  exchange: '345528'
-  name: OCEAN COVE
-  full_name: Ocean Cove
-  lata: '722'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '347193'
-  name: OCEANO
-  full_name: Oceano
-  lata: '740'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '022790'
-  name: OCSD CRLS
-  full_name: 'Oceanside: Carlsbad DA'
-  lata: '732'
-  ilec_name: PACIFIC BELL
-  lat: '33.116805'
-  long: "-117.272246"
-  closest_city:
-    name: Carlsbad
-    distance_km: 1.35
-- country: US
-  region: CA
-  exchange: '022800'
-  name: OCSD OCSD
-  full_name: 'Oceanside: Oceanside DA'
-  lata: '732'
-  ilec_name: PACIFIC BELL
-  lat: '33.158868'
-  long: "-117.340672"
-  closest_city:
-    name: Carlsbad
-    distance_km: 6.55
-- country: US
-  region: CA
-  exchange: '022810'
-  name: OCSD PDTN
-  full_name: 'Oceanside: Pendleton DA'
-  lata: '732'
-  ilec_name: PACIFIC BELL
-  lat: '33.298874'
-  long: "-117.310999"
-  closest_city:
-    name: Oceanside
-    distance_km: 8.25
-- country: US
-  region: CA
-  exchange: '022820'
-  name: OCOTILLO
-  full_name: Ocotillo
-  lata: '732'
-  ilec_name: PACIFIC BELL
-  lat: '32.791101'
-  long: "-115.84806"
-  closest_city:
-    name: Seeley
-    distance_km: 15.31
-- country: US
-  region: CA
-  exchange: '018561'
-  name: OILDALE
-  full_name: Oildale
-  lata: '734'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '022830'
-  name: OJAI
-  full_name: Ojai
-  lata: '730'
-  ilec_name: PACIFIC BELL
-  lat: '34.436123'
-  long: "-119.254554"
-  closest_city:
-    name: Ojai
-    distance_km: 1.57
 - country: US
   region: CA
   exchange: '022840'
@@ -12757,28 +12757,19 @@ rate_centers:
     distance_km: 0.46
 - country: US
   region: CA
+  exchange: '346611'
+  name: P VRDS PEN
+  full_name: Palos Verdes Peninsula
+  lata: '730'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat:
+  long:
+- country: US
+  region: CA
   exchange: '345539'
   name: PACHECO
   full_name: Pacheco
   lata: '722'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '021321'
-  name: PACIFICBCH
-  full_name: Pacific Beach
-  lata: '732'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '347003'
-  name: PACIFICGRV
-  full_name: Pacific Grove
-  lata: '736'
   ilec_name: PACIFIC BELL
   lat:
   long:
@@ -12803,6 +12794,24 @@ rate_centers:
   closest_city:
     name: Pacifica
     distance_km: 2.6
+- country: US
+  region: CA
+  exchange: '021321'
+  name: PACIFICBCH
+  full_name: Pacific Beach
+  lata: '732'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '347003'
+  name: PACIFICGRV
+  full_name: Pacific Grove
+  lata: '736'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
 - country: US
   region: CA
   exchange: '346613'
@@ -12850,18 +12859,6 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '022960'
-  name: PALMDESERT
-  full_name: Palm Desert
-  lata: '973'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat: '33.724062'
-  long: "-116.374059"
-  closest_city:
-    name: Palm Desert
-    distance_km: 1.58
-- country: US
-  region: CA
   exchange: '022970'
   name: PALM SPG
   full_name: Palm Springs
@@ -12874,40 +12871,16 @@ rate_centers:
     distance_km: 2.86
 - country: US
   region: CA
-  exchange: '022980'
-  name: PLDL AGDL
-  full_name: 'Palmdale: Agua Dulce DA'
-  lata: '730'
-  ilec_name: PACIFIC BELL
-  lat: '34.58457'
-  long: "-118.116311"
+  exchange: '022960'
+  name: PALMDESERT
+  full_name: Palm Desert
+  lata: '973'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat: '33.724062'
+  long: "-116.374059"
   closest_city:
-    name: Palmdale
-    distance_km: 1.46
-- country: US
-  region: CA
-  exchange: '022990'
-  name: PLDL LNVY
-  full_name: 'Palmdale: Leona Valley DA'
-  lata: '730'
-  ilec_name: PACIFIC BELL
-  lat: '34.58457'
-  long: "-118.116311"
-  closest_city:
-    name: Palmdale
-    distance_km: 1.46
-- country: US
-  region: CA
-  exchange: '023000'
-  name: PLDL PLDL
-  full_name: 'Palmdale: Palmdale DA'
-  lata: '730'
-  ilec_name: PACIFIC BELL
-  lat: '34.58457'
-  long: "-118.116311"
-  closest_city:
-    name: Palmdale
-    distance_km: 1.46
+    name: Palm Desert
+    distance_km: 1.58
 - country: US
   region: CA
   exchange: '346615'
@@ -12973,15 +12946,6 @@ rate_centers:
   exchange: '346617'
   name: PALOSVRDES
   full_name: Palos Verdes Estates
-  lata: '730'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '346611'
-  name: P VRDS PEN
-  full_name: Palos Verdes Peninsula
   lata: '730'
   ilec_name: FRONTIER CALIFORNIA INC.
   lat:
@@ -13061,42 +13025,6 @@ rate_centers:
   closest_city:
     name: Parlier
     distance_km: 1.73
-- country: US
-  region: CA
-  exchange: '023080'
-  name: PSDN LACN
-  full_name: 'Pasadena: La Cañada DA'
-  lata: '730'
-  ilec_name: PACIFIC BELL
-  lat: '34.14172'
-  long: "-118.132266"
-  closest_city:
-    name: Pasadena
-    distance_km: 2.09
-- country: US
-  region: CA
-  exchange: '023081'
-  name: PSDN LARL
-  full_name: 'Pasadena: Laurel DA'
-  lata: '730'
-  ilec_name: PACIFIC BELL
-  lat: '34.14172'
-  long: "-118.132266"
-  closest_city:
-    name: Pasadena
-    distance_km: 2.09
-- country: US
-  region: CA
-  exchange: '023070'
-  name: PSDN PSDN
-  full_name: 'Pasadena: Pasadena DA'
-  lata: '730'
-  ilec_name: PACIFIC BELL
-  lat: '34.14172'
-  long: "-118.132266"
-  closest_city:
-    name: Pasadena
-    distance_km: 2.09
 - country: US
   region: CA
   exchange: '023090'
@@ -13222,15 +13150,6 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '346030'
-  name: PENNVALLEY
-  full_name: Penn Valley
-  lata: '726'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
   exchange: '345544'
   name: PENNGROVE
   full_name: Penngrove
@@ -13243,6 +13162,15 @@ rate_centers:
   exchange: '346029'
   name: PENNINGTON
   full_name: Pennington
+  lata: '726'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '346030'
+  name: PENNVALLEY
+  full_name: Penn Valley
   lata: '726'
   ilec_name: PACIFIC BELL
   lat:
@@ -13301,30 +13229,6 @@ rate_centers:
   closest_city:
     name: Pescadero
     distance_km: 1.08
-- country: US
-  region: CA
-  exchange: '023170'
-  name: PTLM MAIN
-  full_name: 'Petaluma: Main DA'
-  lata: '722'
-  ilec_name: PACIFIC BELL
-  lat: '38.241665'
-  long: "-122.64375"
-  closest_city:
-    name: Petaluma
-    distance_km: 1.5
-- country: US
-  region: CA
-  exchange: '023180'
-  name: PTLM SWIFT
-  full_name: 'Petaluma: Swift DA'
-  lata: '722'
-  ilec_name: PACIFIC BELL
-  lat: '38.241665'
-  long: "-122.64375"
-  closest_city:
-    name: Petaluma
-    distance_km: 1.5
 - country: US
   region: CA
   exchange: '023190'
@@ -13447,18 +13351,6 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '023230'
-  name: PINEVALLEY
-  full_name: Pine Valley
-  lata: '732'
-  ilec_name: PACIFIC BELL
-  lat: '32.823274'
-  long: "-116.524805"
-  closest_city:
-    name: Pine Valley
-    distance_km: 2.42
-- country: US
-  region: CA
   exchange: '023240'
   name: PINECREST
   full_name: Pinecrest
@@ -13487,6 +13379,18 @@ rate_centers:
   ilec_name: PONDEROSA TEL. CO.
   lat:
   long:
+- country: US
+  region: CA
+  exchange: '023230'
+  name: PINEVALLEY
+  full_name: Pine Valley
+  lata: '732'
+  ilec_name: PACIFIC BELL
+  lat: '32.823274'
+  long: "-116.524805"
+  closest_city:
+    name: Pine Valley
+    distance_km: 2.42
 - country: US
   region: CA
   exchange: '023250'
@@ -13588,18 +13492,6 @@ rate_centers:
     distance_km: 1.18
 - country: US
   region: CA
-  exchange: '023310'
-  name: PSBG WEST
-  full_name: Pittsburg West
-  lata: '722'
-  ilec_name: PACIFIC BELL
-  lat: '38.023594'
-  long: "-121.94867"
-  closest_city:
-    name: Bay Point
-    distance_km: 1.53
-- country: US
-  region: CA
   exchange: '345834'
   name: PITTVILLE
   full_name: Pittville
@@ -13631,42 +13523,6 @@ rate_centers:
   closest_city:
     name: Placentia
     distance_km: 1.23
-- country: US
-  region: CA
-  exchange: '023340'
-  name: PLVL KYBRZ
-  full_name: 'Placerville: Kyburz DA'
-  lata: '726'
-  ilec_name: PACIFIC BELL
-  lat: '38.731841'
-  long: "-120.798299"
-  closest_city:
-    name: Placerville
-    distance_km: 0.12
-- country: US
-  region: CA
-  exchange: '023350'
-  name: PLVL SOUTH
-  full_name: 'Placerville: South DA'
-  lata: '726'
-  ilec_name: PACIFIC BELL
-  lat: '38.731841'
-  long: "-120.798299"
-  closest_city:
-    name: Placerville
-    distance_km: 0.12
-- country: US
-  region: CA
-  exchange: '023360'
-  name: PLVL WEST
-  full_name: 'Placerville: West DA'
-  lata: '726'
-  ilec_name: PACIFIC BELL
-  lat: '38.731841'
-  long: "-120.798299"
-  closest_city:
-    name: Placerville
-    distance_km: 0.12
 - country: US
   region: CA
   exchange: '023370'
@@ -13720,16 +13576,40 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '023390'
-  name: PLEASATGRV
-  full_name: Pleasant Grove
-  lata: '726'
+  exchange: '022980'
+  name: PLDL AGDL
+  full_name: 'Palmdale: Agua Dulce DA'
+  lata: '730'
   ilec_name: PACIFIC BELL
-  lat: '38.822724'
-  long: "-121.481603"
+  lat: '34.58457'
+  long: "-118.116311"
   closest_city:
-    name: East Nicolaus
-    distance_km: 11.12
+    name: Palmdale
+    distance_km: 1.46
+- country: US
+  region: CA
+  exchange: '022990'
+  name: PLDL LNVY
+  full_name: 'Palmdale: Leona Valley DA'
+  lata: '730'
+  ilec_name: PACIFIC BELL
+  lat: '34.58457'
+  long: "-118.116311"
+  closest_city:
+    name: Palmdale
+    distance_km: 1.46
+- country: US
+  region: CA
+  exchange: '023000'
+  name: PLDL PLDL
+  full_name: 'Palmdale: Palmdale DA'
+  lata: '730'
+  ilec_name: PACIFIC BELL
+  lat: '34.58457'
+  long: "-118.116311"
+  closest_city:
+    name: Palmdale
+    distance_km: 1.46
 - country: US
   region: CA
   exchange: '345556'
@@ -13753,6 +13633,18 @@ rate_centers:
     distance_km: 1.09
 - country: US
   region: CA
+  exchange: '023390'
+  name: PLEASATGRV
+  full_name: Pleasant Grove
+  lata: '726'
+  ilec_name: PACIFIC BELL
+  lat: '38.822724'
+  long: "-121.481603"
+  closest_city:
+    name: East Nicolaus
+    distance_km: 11.12
+- country: US
+  region: CA
   exchange: '346035'
   name: PLUMAS LK
   full_name: Plumas Lake
@@ -13760,6 +13652,42 @@ rate_centers:
   ilec_name: PACIFIC BELL
   lat:
   long:
+- country: US
+  region: CA
+  exchange: '023340'
+  name: PLVL KYBRZ
+  full_name: 'Placerville: Kyburz DA'
+  lata: '726'
+  ilec_name: PACIFIC BELL
+  lat: '38.731841'
+  long: "-120.798299"
+  closest_city:
+    name: Placerville
+    distance_km: 0.12
+- country: US
+  region: CA
+  exchange: '023350'
+  name: PLVL SOUTH
+  full_name: 'Placerville: South DA'
+  lata: '726'
+  ilec_name: PACIFIC BELL
+  lat: '38.731841'
+  long: "-120.798299"
+  closest_city:
+    name: Placerville
+    distance_km: 0.12
+- country: US
+  region: CA
+  exchange: '023360'
+  name: PLVL WEST
+  full_name: 'Placerville: West DA'
+  lata: '726'
+  ilec_name: PACIFIC BELL
+  lat: '38.731841'
+  long: "-120.798299"
+  closest_city:
+    name: Placerville
+    distance_km: 0.12
 - country: US
   region: CA
   exchange: '023410'
@@ -13774,18 +13702,6 @@ rate_centers:
     distance_km: 1.12
 - country: US
   region: CA
-  exchange: '023420'
-  name: POINTARENA
-  full_name: Point Arena
-  lata: '722'
-  ilec_name: PACIFIC BELL
-  lat: '38.909692'
-  long: "-123.690052"
-  closest_city:
-    name: Point Arena
-    distance_km: 0.55
-- country: US
-  region: CA
   exchange: '023430'
   name: POINT MUGU
   full_name: Point Mugu
@@ -13798,13 +13714,25 @@ rate_centers:
     distance_km: 6.0
 - country: US
   region: CA
-  exchange: '346643'
-  name: PTMUGUNAWC
-  full_name: Point Mugu NAWC
-  lata: '730'
-  ilec_name: FRONTIER CALIFORNIA INC.
+  exchange: '347008'
+  name: POINT SUR
+  full_name: Point Sur
+  lata: '736'
+  ilec_name: PACIFIC BELL
   lat:
   long:
+- country: US
+  region: CA
+  exchange: '023420'
+  name: POINTARENA
+  full_name: Point Arena
+  lata: '722'
+  ilec_name: PACIFIC BELL
+  lat: '38.909692'
+  long: "-123.690052"
+  closest_city:
+    name: Point Arena
+    distance_km: 0.55
 - country: US
   region: CA
   exchange: '347009'
@@ -13812,15 +13740,6 @@ rate_centers:
   full_name: Point Pinos
   lata: '736'
   ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '346041'
-  name: PTPLEASANT
-  full_name: Point Pleasant
-  lata: '726'
-  ilec_name: CITIZENS TELECOM CA. DBA FRONTIER COM OF CA
   lat:
   long:
 - country: US
@@ -13835,33 +13754,6 @@ rate_centers:
   closest_city:
     name: Point Reyes Station
     distance_km: 2.2
-- country: US
-  region: CA
-  exchange: '345566'
-  name: PT RYS CSG
-  full_name: Point Reyes Coast Guard Light Station
-  lata: '722'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '345569'
-  name: PTRICHMOND
-  full_name: Point Richmond
-  lata: '722'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '347008'
-  name: POINT SUR
-  full_name: Point Sur
-  lata: '736'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
 - country: US
   region: CA
   exchange: '346039'
@@ -13903,37 +13795,10 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '345565'
-  name: PT CHICAGO
-  full_name: Port Chicago
-  lata: '722'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
   exchange: '345560'
   name: PORT COSTA
   full_name: Port Costa
   lata: '722'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '346642'
-  name: PT HUENEME
-  full_name: Port Hueneme
-  lata: '730'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '347198'
-  name: PTSAN LUIS
-  full_name: Port San Luis
-  lata: '740'
   ilec_name: PACIFIC BELL
   lat:
   long:
@@ -14080,6 +13945,141 @@ rate_centers:
   long:
 - country: US
   region: CA
+  exchange: '023310'
+  name: PSBG WEST
+  full_name: Pittsburg West
+  lata: '722'
+  ilec_name: PACIFIC BELL
+  lat: '38.023594'
+  long: "-121.94867"
+  closest_city:
+    name: Bay Point
+    distance_km: 1.53
+- country: US
+  region: CA
+  exchange: '023080'
+  name: PSDN LACN
+  full_name: 'Pasadena: La Cañada DA'
+  lata: '730'
+  ilec_name: PACIFIC BELL
+  lat: '34.14172'
+  long: "-118.132266"
+  closest_city:
+    name: Pasadena
+    distance_km: 2.09
+- country: US
+  region: CA
+  exchange: '023081'
+  name: PSDN LARL
+  full_name: 'Pasadena: Laurel DA'
+  lata: '730'
+  ilec_name: PACIFIC BELL
+  lat: '34.14172'
+  long: "-118.132266"
+  closest_city:
+    name: Pasadena
+    distance_km: 2.09
+- country: US
+  region: CA
+  exchange: '023070'
+  name: PSDN PSDN
+  full_name: 'Pasadena: Pasadena DA'
+  lata: '730'
+  ilec_name: PACIFIC BELL
+  lat: '34.14172'
+  long: "-118.132266"
+  closest_city:
+    name: Pasadena
+    distance_km: 2.09
+- country: US
+  region: CA
+  exchange: '345565'
+  name: PT CHICAGO
+  full_name: Port Chicago
+  lata: '722'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '346642'
+  name: PT HUENEME
+  full_name: Port Hueneme
+  lata: '730'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '345566'
+  name: PT RYS CSG
+  full_name: Point Reyes Coast Guard Light Station
+  lata: '722'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '023170'
+  name: PTLM MAIN
+  full_name: 'Petaluma: Main DA'
+  lata: '722'
+  ilec_name: PACIFIC BELL
+  lat: '38.241665'
+  long: "-122.64375"
+  closest_city:
+    name: Petaluma
+    distance_km: 1.5
+- country: US
+  region: CA
+  exchange: '023180'
+  name: PTLM SWIFT
+  full_name: 'Petaluma: Swift DA'
+  lata: '722'
+  ilec_name: PACIFIC BELL
+  lat: '38.241665'
+  long: "-122.64375"
+  closest_city:
+    name: Petaluma
+    distance_km: 1.5
+- country: US
+  region: CA
+  exchange: '346643'
+  name: PTMUGUNAWC
+  full_name: Point Mugu NAWC
+  lata: '730'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '346041'
+  name: PTPLEASANT
+  full_name: Point Pleasant
+  lata: '726'
+  ilec_name: CITIZENS TELECOM CA. DBA FRONTIER COM OF CA
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '345569'
+  name: PTRICHMOND
+  full_name: Point Richmond
+  lata: '722'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '347198'
+  name: PTSAN LUIS
+  full_name: Port San Luis
+  lata: '740'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
   exchange: '345838'
   name: PULGA
   full_name: Pulga
@@ -14203,27 +14203,6 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '346648'
-  name: RCH BELAGO
-  full_name: Rancho Belago
-  lata: '730'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '023530'
-  name: RNCHOBRNDO
-  full_name: Rancho Bernardo
-  lata: '732'
-  ilec_name: PACIFIC BELL
-  lat: '33.023435'
-  long: "-117.071331"
-  closest_city:
-    name: Poway
-    distance_km: 6.26
-- country: US
-  region: CA
   exchange: '024791'
   name: RANCHOCFRN
   full_name: Rancho California
@@ -14242,24 +14221,6 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '346649'
-  name: RCH DMGUEZ
-  full_name: Rancho Dominguez
-  lata: '730'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '022971'
-  name: RNCHOMIRGE
-  full_name: Rancho Mirage
-  lata: '973'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat:
-  long:
-- country: US
-  region: CA
   exchange: '362869'
   name: RANCHOMIRG
   full_name: Rancho Mirage
@@ -14273,57 +14234,6 @@ rate_centers:
   name: RANCHOMURT
   full_name: Rancho Murieta
   lata: '726'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '346663'
-  name: RNCHPALVDS
-  full_name: Rancho Palos Verdes
-  lata: '730'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '023540'
-  name: RNCHOPNQTS
-  full_name: Rancho Penasquitos
-  lata: '732'
-  ilec_name: PACIFIC BELL
-  lat: '32.961008'
-  long: "-117.123382"
-  closest_city:
-    name: Fairbanks Ranch
-    distance_km: 6.77
-- country: US
-  region: CA
-  exchange: '021331'
-  name: RNCHOSNDGO
-  full_name: Rancho San Diego
-  lata: '732'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '023550'
-  name: RNCHOSANFE
-  full_name: Rancho Santa Fe
-  lata: '732'
-  ilec_name: PACIFIC BELL
-  lat: '33.018243'
-  long: "-117.199396"
-  closest_city:
-    name: Rancho Santa Fe
-    distance_km: 0.64
-- country: US
-  region: CA
-  exchange: '024911'
-  name: RNHAMRITA
-  full_name: Rancho Santa Margarita
-  lata: '730'
   ilec_name: PACIFIC BELL
   lat:
   long:
@@ -14348,18 +14258,6 @@ rate_centers:
   closest_city:
     name: Rancho Tehama Reserve
     distance_km: 2.79
-- country: US
-  region: CA
-  exchange: '023570'
-  name: RNCHOVIEJO
-  full_name: Rancho Viejo
-  lata: '730'
-  ilec_name: PACIFIC BELL
-  lat: '33.531472'
-  long: "-117.550266"
-  closest_city:
-    name: Rancho Mission Viejo
-    distance_km: 2.22
 - country: US
   region: CA
   exchange: '023580'
@@ -14396,6 +14294,33 @@ rate_centers:
   closest_city:
     name: Yosemite Lakes
     distance_km: 12.29
+- country: US
+  region: CA
+  exchange: '346648'
+  name: RCH BELAGO
+  full_name: Rancho Belago
+  lata: '730'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '346649'
+  name: RCH DMGUEZ
+  full_name: Rancho Dominguez
+  lata: '730'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '345570'
+  name: RDWD ESTTS
+  full_name: Redwood Estates
+  lata: '722'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat:
+  long:
 - country: US
   region: CA
   exchange: '023610'
@@ -14492,15 +14417,6 @@ rate_centers:
   closest_city:
     name: Redwood City
     distance_km: 2.19
-- country: US
-  region: CA
-  exchange: '345570'
-  name: RDWD ESTTS
-  full_name: Redwood Estates
-  lata: '722'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat:
-  long:
 - country: US
   region: CA
   exchange: '345574'
@@ -14671,6 +14587,15 @@ rate_centers:
     distance_km: 0.83
 - country: US
   region: CA
+  exchange: '345577'
+  name: RIO MAR
+  full_name: Rio del Mar
+  lata: '722'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
   exchange: '345578'
   name: RIO NIDO
   full_name: Rio Nido
@@ -14701,15 +14626,6 @@ rate_centers:
     distance_km: 1.95
 - country: US
   region: CA
-  exchange: '345577'
-  name: RIO MAR
-  full_name: Rio del Mar
-  lata: '722'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
   exchange: '346659'
   name: RIPLEY
   full_name: Ripley
@@ -14729,15 +14645,6 @@ rate_centers:
   closest_city:
     name: Ripon
     distance_km: 0.28
-- country: US
-  region: CA
-  exchange: '347121'
-  name: RIVERPINES
-  full_name: River Pines
-  lata: '738'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
 - country: US
   region: CA
   exchange: '023760'
@@ -14764,6 +14671,15 @@ rate_centers:
     distance_km: 1.03
 - country: US
   region: CA
+  exchange: '347121'
+  name: RIVERPINES
+  full_name: River Pines
+  lata: '738'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
   exchange: '023780'
   name: RIVERSIDE
   full_name: Riverside
@@ -14774,6 +14690,99 @@ rate_centers:
   closest_city:
     name: Riverside
     distance_km: 5.85
+- country: US
+  region: CA
+  exchange: '346661'
+  name: RLG HL EST
+  full_name: Rolling Hills Estates
+  lata: '730'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '023530'
+  name: RNCHOBRNDO
+  full_name: Rancho Bernardo
+  lata: '732'
+  ilec_name: PACIFIC BELL
+  lat: '33.023435'
+  long: "-117.071331"
+  closest_city:
+    name: Poway
+    distance_km: 6.26
+- country: US
+  region: CA
+  exchange: '022971'
+  name: RNCHOMIRGE
+  full_name: Rancho Mirage
+  lata: '973'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '023540'
+  name: RNCHOPNQTS
+  full_name: Rancho Penasquitos
+  lata: '732'
+  ilec_name: PACIFIC BELL
+  lat: '32.961008'
+  long: "-117.123382"
+  closest_city:
+    name: Fairbanks Ranch
+    distance_km: 6.77
+- country: US
+  region: CA
+  exchange: '023550'
+  name: RNCHOSANFE
+  full_name: Rancho Santa Fe
+  lata: '732'
+  ilec_name: PACIFIC BELL
+  lat: '33.018243'
+  long: "-117.199396"
+  closest_city:
+    name: Rancho Santa Fe
+    distance_km: 0.64
+- country: US
+  region: CA
+  exchange: '021331'
+  name: RNCHOSNDGO
+  full_name: Rancho San Diego
+  lata: '732'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '023570'
+  name: RNCHOVIEJO
+  full_name: Rancho Viejo
+  lata: '730'
+  ilec_name: PACIFIC BELL
+  lat: '33.531472'
+  long: "-117.550266"
+  closest_city:
+    name: Rancho Mission Viejo
+    distance_km: 2.22
+- country: US
+  region: CA
+  exchange: '346663'
+  name: RNCHPALVDS
+  full_name: Rancho Palos Verdes
+  lata: '730'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '024911'
+  name: RNHAMRITA
+  full_name: Rancho Santa Margarita
+  lata: '730'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
 - country: US
   region: CA
   exchange: '023790'
@@ -14860,15 +14869,6 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '346661'
-  name: RLG HL EST
-  full_name: Rolling Hills Estates
-  lata: '730'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat:
-  long:
-- country: US
-  region: CA
   exchange: '346667'
   name: ROMOLAND
   full_name: Romoland
@@ -14906,30 +14906,6 @@ rate_centers:
   ilec_name: PACIFIC BELL
   lat:
   long:
-- country: US
-  region: CA
-  exchange: '023810'
-  name: RSVL CTHT
-  full_name: 'Roseville: Citrus Heights DA'
-  lata: '726'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF CALIFORNIA COMPANY
-  lat: '38.751344'
-  long: "-121.285412"
-  closest_city:
-    name: Roseville
-    distance_km: 3.64
-- country: US
-  region: CA
-  exchange: '023820'
-  name: RSVL MAIN
-  full_name: 'Roseville: Main DA'
-  lata: '726'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF CALIFORNIA COMPANY
-  lat: '38.751344'
-  long: "-121.285412"
-  closest_city:
-    name: Roseville
-    distance_km: 3.64
 - country: US
   region: CA
   exchange: '346669'
@@ -14995,6 +14971,30 @@ rate_centers:
   long:
 - country: US
   region: CA
+  exchange: '023810'
+  name: RSVL CTHT
+  full_name: 'Roseville: Citrus Heights DA'
+  lata: '726'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF CALIFORNIA COMPANY
+  lat: '38.751344'
+  long: "-121.285412"
+  closest_city:
+    name: Roseville
+    distance_km: 3.64
+- country: US
+  region: CA
+  exchange: '023820'
+  name: RSVL MAIN
+  full_name: 'Roseville: Main DA'
+  lata: '726'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF CALIFORNIA COMPANY
+  lat: '38.751344'
+  long: "-121.285412"
+  closest_city:
+    name: Roseville
+    distance_km: 3.64
+- country: US
+  region: CA
   exchange: '346055'
   name: RUMSEY
   full_name: Rumsey
@@ -15043,28 +15043,37 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '023840'
-  name: SCRM MAIN
-  full_name: 'Sacramento: Main DA'
-  lata: '726'
-  ilec_name: PACIFIC BELL
-  lat: '38.575598'
-  long: "-121.482308"
+  exchange: '018601'
+  name: S BARSTOW
+  full_name: South Barstow
+  lata: '730'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat: '34.900585'
+  long: "-117.025936"
   closest_city:
-    name: Sacramento
-    distance_km: 1.49
+    name: Barstow
+    distance_km: 4.29
 - country: US
   region: CA
-  exchange: '023850'
-  name: SCRM NORTH
-  full_name: 'Sacramento: North DA'
-  lata: '726'
-  ilec_name: PACIFIC BELL
-  lat: '38.575598'
-  long: "-121.482308"
+  exchange: '023920'
+  name: S BERNDINO
+  full_name: San Bernardino
+  lata: '730'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat: '34.110048'
+  long: "-117.295087"
   closest_city:
-    name: Sacramento
-    distance_km: 1.49
+    name: San Bernardino
+    distance_km: 3.51
+- country: US
+  region: CA
+  exchange: '346674'
+  name: S EL MONTE
+  full_name: South El Monte
+  lata: '730'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
 - country: US
   region: CA
   exchange: '023860'
@@ -15130,15 +15139,6 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '362872'
-  name: SLTNSSTTPK
-  full_name: Salton Sea State Park
-  lata: '973'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat:
-  long:
-- country: US
-  region: CA
   exchange: '345849'
   name: SALYER
   full_name: Salyer
@@ -15166,39 +15166,6 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '023890'
-  name: SANANDREAS
-  full_name: San Andreas
-  lata: '738'
-  ilec_name: PACIFIC BELL
-  lat: '38.193299'
-  long: "-120.677049"
-  closest_city:
-    name: San Andreas
-    distance_km: 0.25
-- country: US
-  region: CA
-  exchange: '345599'
-  name: SANANSELMO
-  full_name: San Anselmo
-  lata: '722'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '023900'
-  name: SANANTONIO
-  full_name: San Antonio
-  lata: '722'
-  ilec_name: GLOBAL VALLEY NETWORKS
-  lat: '37.394584'
-  long: "-121.487746"
-  closest_city:
-    name: Diablo Grande
-    distance_km: 19.87
-- country: US
-  region: CA
   exchange: '023910'
   name: SAN ARDO
   full_name: San Ardo
@@ -15220,18 +15187,6 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '023920'
-  name: S BERNDINO
-  full_name: San Bernardino
-  lata: '730'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat: '34.110048'
-  long: "-117.295087"
-  closest_city:
-    name: San Bernardino
-    distance_km: 3.51
-- country: US
-  region: CA
   exchange: '024611'
   name: SAN BRUNO
   full_name: San Bruno
@@ -15250,63 +15205,6 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '023930'
-  name: SNCRL-BLMT
-  full_name: San Carlos-Belmont
-  lata: '722'
-  ilec_name: PACIFIC BELL
-  lat: '37.50886'
-  long: "-122.259214"
-  closest_city:
-    name: San Carlos
-    distance_km: 1.4
-- country: US
-  region: CA
-  exchange: '346684'
-  name: SANCLMENTE
-  full_name: San Clemente
-  lata: '730'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '023940'
-  name: SNDG LVTA
-  full_name: 'San Diego: Linda Vista DA'
-  lata: '732'
-  ilec_name: PACIFIC BELL
-  lat: '32.802961'
-  long: "-117.157305"
-  closest_city:
-    name: San Diego
-    distance_km: 4.55
-- country: US
-  region: CA
-  exchange: '023950'
-  name: SNDG MRMS
-  full_name: 'San Diego: Mira Mesa DA'
-  lata: '732'
-  ilec_name: PACIFIC BELL
-  lat: '32.915095'
-  long: "-117.127728"
-  closest_city:
-    name: San Diego
-    distance_km: 9.33
-- country: US
-  region: CA
-  exchange: '023960'
-  name: SNDG SNDG
-  full_name: 'San Diego: San Diego DA'
-  lata: '732'
-  ilec_name: PACIFIC BELL
-  lat: '32.717896'
-  long: "-117.14805"
-  closest_city:
-    name: Coronado
-    distance_km: 6.01
-- country: US
-  region: CA
   exchange: '346677'
   name: SAN DIMAS
   full_name: San Dimas
@@ -15316,59 +15214,11 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '023970'
-  name: SNFN GRHL
-  full_name: 'San Fernando: Granada Hills DA'
+  exchange: '346678'
+  name: SAN FE SPG
+  full_name: Santa Fe Springs
   lata: '730'
   ilec_name: FRONTIER CALIFORNIA INC.
-  lat: '34.282447'
-  long: "-118.439563"
-  closest_city:
-    name: San Fernando
-    distance_km: 0.75
-- country: US
-  region: CA
-  exchange: '023980'
-  name: SNFN PACM
-  full_name: 'San Fernando: Pacoima DA'
-  lata: '730'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat: '34.282447'
-  long: "-118.439563"
-  closest_city:
-    name: San Fernando
-    distance_km: 0.75
-- country: US
-  region: CA
-  exchange: '023990'
-  name: SNFN SNFN
-  full_name: 'San Fernando: San Fernando DA'
-  lata: '730'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat: '34.282447'
-  long: "-118.439563"
-  closest_city:
-    name: San Fernando
-    distance_km: 0.75
-- country: US
-  region: CA
-  exchange: '024000'
-  name: SNFN SPLV
-  full_name: 'San Fernando: Sepulveda DA'
-  lata: '730'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat: '34.282447'
-  long: "-118.439563"
-  closest_city:
-    name: San Fernando
-    distance_km: 0.75
-- country: US
-  region: CA
-  exchange: '345601'
-  name: SANFRANCSC
-  full_name: San Francisco
-  lata: '722'
-  ilec_name: PACIFIC BELL
   lat:
   long:
 - country: US
@@ -15409,90 +15259,6 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '345602'
-  name: SANFRNCZN1
-  full_name: San Francisco Zone 1
-  lata: '722'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '345603'
-  name: SANFRNCZN2
-  full_name: San Francisco Zone 2
-  lata: '722'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '345604'
-  name: SANFRNCZN3
-  full_name: San Francisco Zone 3
-  lata: '722'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '024010'
-  name: SNFC CNTRL
-  full_name: 'San Francisco: Central DA'
-  lata: '722'
-  ilec_name: PACIFIC BELL
-  lat: '37.789974'
-  long: "-122.406446"
-  closest_city:
-    name: San Francisco
-    distance_km: 5.09
-- country: US
-  region: CA
-  exchange: '024020'
-  name: SNFC JUNPR
-  full_name: 'San Francisco: Juniper DA'
-  lata: '722'
-  ilec_name: PACIFIC BELL
-  lat: '37.789974'
-  long: "-122.406446"
-  closest_city:
-    name: San Francisco
-    distance_km: 5.09
-- country: US
-  region: CA
-  exchange: '024030'
-  name: SNFC MT-EV
-  full_name: 'San Francisco: Montrose-Evergreen DA'
-  lata: '722'
-  ilec_name: PACIFIC BELL
-  lat: '37.789974'
-  long: "-122.406446"
-  closest_city:
-    name: San Francisco
-    distance_km: 5.09
-- country: US
-  region: CA
-  exchange: '346687'
-  name: SANGABRIEL
-  full_name: San Gabriel
-  lata: '730'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '024040'
-  name: SNGBLCNN
-  full_name: San Gabriel Canyon
-  lata: '730'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat: '34.23993'
-  long: "-117.816149"
-  closest_city:
-    name: Glendora
-    distance_km: 10.93
-- country: US
-  region: CA
   exchange: '345593'
   name: SAN GERNMO
   full_name: San Geronimo
@@ -15500,63 +15266,6 @@ rate_centers:
   ilec_name: PACIFIC BELL
   lat:
   long:
-- country: US
-  region: CA
-  exchange: '346688'
-  name: SANJACINTO
-  full_name: San Jacinto
-  lata: '730'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '024050'
-  name: SANJOAQUIN
-  full_name: San Joaquin
-  lata: '728'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat: '36.606545'
-  long: "-120.183278"
-  closest_city:
-    name: San Joaquin
-    distance_km: 0.58
-- country: US
-  region: CA
-  exchange: '024060'
-  name: SNJS NORTH
-  full_name: 'San Jose: North DA'
-  lata: '722'
-  ilec_name: PACIFIC BELL
-  lat: '37.332603'
-  long: "-121.890442"
-  closest_city:
-    name: Fruitdale
-    distance_km: 4.63
-- country: US
-  region: CA
-  exchange: '024070'
-  name: SNJS SOUTH
-  full_name: 'San Jose: South DA'
-  lata: '722'
-  ilec_name: PACIFIC BELL
-  lat: '37.332603'
-  long: "-121.890442"
-  closest_city:
-    name: Fruitdale
-    distance_km: 4.63
-- country: US
-  region: CA
-  exchange: '024080'
-  name: SNJS WEST
-  full_name: 'San Jose: West DA'
-  lata: '722'
-  ilec_name: PACIFIC BELL
-  lat: '37.332603'
-  long: "-121.890442"
-  closest_city:
-    name: Fruitdale
-    distance_km: 4.63
 - country: US
   region: CA
   exchange: '024090'
@@ -15571,51 +15280,6 @@ rate_centers:
     distance_km: 0.48
 - country: US
   region: CA
-  exchange: '347020'
-  name: SNJNBTISTA
-  full_name: San Juan Bautista
-  lata: '736'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '019114'
-  name: SNJNCPSTRN
-  full_name: San Juan Capistrano
-  lata: '730'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '020731'
-  name: SANLEANDRO
-  full_name: San Leandro
-  lata: '722'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '022761'
-  name: SANLEANDRO
-  full_name: San Leandro
-  lata: '722'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '345606'
-  name: SANLORENZO
-  full_name: San Lorenzo
-  lata: '722'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
   exchange: '024100'
   name: SAN LUCAS
   full_name: San Lucas
@@ -15626,27 +15290,6 @@ rate_centers:
   closest_city:
     name: San Lucas
     distance_km: 0.65
-- country: US
-  region: CA
-  exchange: '024110'
-  name: SNLUSOBSPO
-  full_name: San Luis Obispo
-  lata: '740'
-  ilec_name: PACIFIC BELL
-  lat: '35.284871'
-  long: "-120.666541"
-  closest_city:
-    name: San Luis Obispo
-    distance_km: 2.01
-- country: US
-  region: CA
-  exchange: '346891'
-  name: SANLUISREY
-  full_name: San Luis Rey
-  lata: '732'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
 - country: US
   region: CA
   exchange: '024120'
@@ -15706,6 +15349,15 @@ rate_centers:
     distance_km: 12.87
 - country: US
   region: CA
+  exchange: '346681'
+  name: SAN MONICA
+  full_name: Santa Monica
+  lata: '730'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat:
+  long:
+- country: US
+  region: CA
   exchange: '345596'
   name: SAN PABLO
   full_name: San Pablo
@@ -15725,15 +15377,6 @@ rate_centers:
   closest_city:
     name: Rolling Hills
     distance_km: 6.08
-- country: US
-  region: CA
-  exchange: '345607'
-  name: SANQUENTIN
-  full_name: San Quentin
-  lata: '722'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
 - country: US
   region: CA
   exchange: '024170'
@@ -15757,15 +15400,6 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '345629'
-  name: SNRAMONVLG
-  full_name: San Ramon Village
-  lata: '722'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
   exchange: '347202'
   name: SAN SIMEON
   full_name: San Simeon
@@ -15775,10 +15409,82 @@ rate_centers:
   long:
 - country: US
   region: CA
+  exchange: '346683'
+  name: SAN SUSANA
+  full_name: Santa Susana
+  lata: '730'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '346889'
+  name: SAN YSABEL
+  full_name: Santa Ysabel
+  lata: '732'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
   exchange: '019282'
   name: SAN YSIDRO
   full_name: San Ysidro
   lata: '732'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '023890'
+  name: SANANDREAS
+  full_name: San Andreas
+  lata: '738'
+  ilec_name: PACIFIC BELL
+  lat: '38.193299'
+  long: "-120.677049"
+  closest_city:
+    name: San Andreas
+    distance_km: 0.25
+- country: US
+  region: CA
+  exchange: '345599'
+  name: SANANSELMO
+  full_name: San Anselmo
+  lata: '722'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '023900'
+  name: SANANTONIO
+  full_name: San Antonio
+  lata: '722'
+  ilec_name: GLOBAL VALLEY NETWORKS
+  lat: '37.394584'
+  long: "-121.487746"
+  closest_city:
+    name: Diablo Grande
+    distance_km: 19.87
+- country: US
+  region: CA
+  exchange: '024210'
+  name: SANBARBARA
+  full_name: Santa Barbara
+  lata: '740'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat: '34.417726'
+  long: "-119.699571"
+  closest_city:
+    name: Santa Barbara
+    distance_km: 2.24
+- country: US
+  region: CA
+  exchange: '346684'
+  name: SANCLMENTE
+  full_name: San Clemente
+  lata: '730'
   ilec_name: PACIFIC BELL
   lat:
   long:
@@ -15814,6 +15520,51 @@ rate_centers:
   long:
 - country: US
   region: CA
+  exchange: '345601'
+  name: SANFRANCSC
+  full_name: San Francisco
+  lata: '722'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '345602'
+  name: SANFRNCZN1
+  full_name: San Francisco Zone 1
+  lata: '722'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '345603'
+  name: SANFRNCZN2
+  full_name: San Francisco Zone 2
+  lata: '722'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '345604'
+  name: SANFRNCZN3
+  full_name: San Francisco Zone 3
+  lata: '722'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '346687'
+  name: SANGABRIEL
+  full_name: San Gabriel
+  lata: '730'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
   exchange: '024190'
   name: SANGER
   full_name: Sanger
@@ -15826,98 +15577,59 @@ rate_centers:
     distance_km: 1.03
 - country: US
   region: CA
-  exchange: '024200'
-  name: SANTA ANA
-  full_name: Santa Ana
-  lata: '730'
-  ilec_name: PACIFIC BELL
-  lat: '33.706333'
-  long: "-117.886197"
-  closest_city:
-    name: Santa Ana
-    distance_km: 3.4
-- country: US
-  region: CA
-  exchange: '346711'
-  name: SNANTCNYON
-  full_name: Santa Anita Canyon
+  exchange: '346688'
+  name: SANJACINTO
+  full_name: San Jacinto
   lata: '730'
   ilec_name: FRONTIER CALIFORNIA INC.
   lat:
   long:
 - country: US
   region: CA
-  exchange: '024210'
-  name: SANBARBARA
-  full_name: Santa Barbara
-  lata: '740'
+  exchange: '024050'
+  name: SANJOAQUIN
+  full_name: San Joaquin
+  lata: '728'
   ilec_name: FRONTIER CALIFORNIA INC.
-  lat: '34.417726'
-  long: "-119.699571"
+  lat: '36.606545'
+  long: "-120.183278"
   closest_city:
-    name: Santa Barbara
-    distance_km: 2.24
+    name: San Joaquin
+    distance_km: 0.58
 - country: US
   region: CA
-  exchange: '346732'
-  name: STCATALINA
-  full_name: Santa Catalina
-  lata: '730'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '024081'
-  name: SANTACLARA
-  full_name: Santa Clara
+  exchange: '020731'
+  name: SANLEANDRO
+  full_name: San Leandro
   lata: '722'
   ilec_name: PACIFIC BELL
   lat:
   long:
 - country: US
   region: CA
-  exchange: '024220'
-  name: SNCA NHCS
-  full_name: 'Santa Clarita: Newhall-Castaic DA'
-  lata: '730'
-  ilec_name: PACIFIC BELL
-  lat: '34.385708'
-  long: "-118.525616"
-  closest_city:
-    name: Santa Clarita
-    distance_km: 4.44
-- country: US
-  region: CA
-  exchange: '024230'
-  name: SNCA SGCC
-  full_name: 'Santa Clarita: Saugus Canyon Country DA'
-  lata: '730'
-  ilec_name: PACIFIC BELL
-  lat: '34.417587'
-  long: "-118.446597"
-  closest_city:
-    name: Santa Clarita
-    distance_km: 4.57
-- country: US
-  region: CA
-  exchange: '024240'
-  name: SANTA CRUZ
-  full_name: Santa Cruz
+  exchange: '022761'
+  name: SANLEANDRO
+  full_name: San Leandro
   lata: '722'
   ilec_name: PACIFIC BELL
-  lat: '36.972952'
-  long: "-122.022942"
-  closest_city:
-    name: Santa Cruz
-    distance_km: 1.23
+  lat:
+  long:
 - country: US
   region: CA
-  exchange: '346678'
-  name: SAN FE SPG
-  full_name: Santa Fe Springs
-  lata: '730'
-  ilec_name: FRONTIER CALIFORNIA INC.
+  exchange: '345606'
+  name: SANLORENZO
+  full_name: San Lorenzo
+  lata: '722'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '346891'
+  name: SANLUISREY
+  full_name: San Luis Rey
+  lata: '732'
+  ilec_name: PACIFIC BELL
   lat:
   long:
 - country: US
@@ -15934,79 +15646,37 @@ rate_centers:
     distance_km: 0.51
 - country: US
   region: CA
-  exchange: '024260'
-  name: SANTAMARIA
-  full_name: Santa Maria
-  lata: '740'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat: '34.948603'
-  long: "-120.435887"
-  closest_city:
-    name: Santa Maria
-    distance_km: 1.82
-- country: US
-  region: CA
-  exchange: '346681'
-  name: SAN MONICA
-  full_name: Santa Monica
-  lata: '730'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '024270'
-  name: SNMN MRVS
-  full_name: 'Santa Monica: Mar Vista DA'
-  lata: '730'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat: '34.015801'
-  long: "-118.491932"
-  closest_city:
-    name: Santa Monica
-    distance_km: 1.32
-- country: US
-  region: CA
-  exchange: '024280'
-  name: SNMN SNMN
-  full_name: 'Santa Monica: Santa Monica DA'
-  lata: '730'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat: '34.015801'
-  long: "-118.491932"
-  closest_city:
-    name: Santa Monica
-    distance_km: 1.32
-- country: US
-  region: CA
-  exchange: '347124'
-  name: SANTAHELLA
-  full_name: Santa Nella
-  lata: '738'
+  exchange: '345607'
+  name: SANQUENTIN
+  full_name: San Quentin
+  lata: '722'
   ilec_name: PACIFIC BELL
   lat:
   long:
 - country: US
   region: CA
-  exchange: '024290'
-  name: SANTAPAULA
-  full_name: Santa Paula
+  exchange: '024200'
+  name: SANTA ANA
+  full_name: Santa Ana
   lata: '730'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat: '34.357467'
-  long: "-119.056805"
+  ilec_name: PACIFIC BELL
+  lat: '33.706333'
+  long: "-117.886197"
   closest_city:
-    name: Santa Paula
-    distance_km: 0.87
+    name: Santa Ana
+    distance_km: 3.4
 - country: US
   region: CA
-  exchange: '346202'
-  name: ST RITA PK
-  full_name: Santa Rita Park
-  lata: '728'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat:
-  long:
+  exchange: '024240'
+  name: SANTA CRUZ
+  full_name: Santa Cruz
+  lata: '722'
+  ilec_name: PACIFIC BELL
+  lat: '36.972952'
+  long: "-122.022942"
+  closest_city:
+    name: Santa Cruz
+    distance_km: 1.23
 - country: US
   region: CA
   exchange: '024300'
@@ -16021,33 +15691,6 @@ rate_centers:
     distance_km: 0.95
 - country: US
   region: CA
-  exchange: '346733'
-  name: STROSAVLY
-  full_name: Santa Rosa Valley
-  lata: '730'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '346683'
-  name: SAN SUSANA
-  full_name: Santa Susana
-  lata: '730'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '345611'
-  name: SANVENETIA
-  full_name: Santa Venetia
-  lata: '722'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
   exchange: '024310'
   name: SANTA YNEZ
   full_name: Santa Ynez
@@ -16060,19 +15703,61 @@ rate_centers:
     distance_km: 2.2
 - country: US
   region: CA
-  exchange: '346889'
-  name: SAN YSABEL
-  full_name: Santa Ysabel
-  lata: '732'
+  exchange: '024081'
+  name: SANTACLARA
+  full_name: Santa Clara
+  lata: '722'
   ilec_name: PACIFIC BELL
   lat:
   long:
+- country: US
+  region: CA
+  exchange: '347124'
+  name: SANTAHELLA
+  full_name: Santa Nella
+  lata: '738'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '024260'
+  name: SANTAMARIA
+  full_name: Santa Maria
+  lata: '740'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat: '34.948603'
+  long: "-120.435887"
+  closest_city:
+    name: Santa Maria
+    distance_km: 1.82
+- country: US
+  region: CA
+  exchange: '024290'
+  name: SANTAPAULA
+  full_name: Santa Paula
+  lata: '730'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat: '34.357467'
+  long: "-119.056805"
+  closest_city:
+    name: Santa Paula
+    distance_km: 0.87
 - country: US
   region: CA
   exchange: '019951'
   name: SANTEE
   full_name: Santee
   lata: '732'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '345611'
+  name: SANVENETIA
+  full_name: Santa Venetia
+  lata: '722'
   ilec_name: PACIFIC BELL
   lat:
   long:
@@ -16185,6 +15870,39 @@ rate_centers:
   full_name: Scotts Valley
   lata: '722'
   ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '023840'
+  name: SCRM MAIN
+  full_name: 'Sacramento: Main DA'
+  lata: '726'
+  ilec_name: PACIFIC BELL
+  lat: '38.575598'
+  long: "-121.482308"
+  closest_city:
+    name: Sacramento
+    distance_km: 1.49
+- country: US
+  region: CA
+  exchange: '023850'
+  name: SCRM NORTH
+  full_name: 'Sacramento: North DA'
+  lata: '726'
+  ilec_name: PACIFIC BELL
+  lat: '38.575598'
+  long: "-121.482308"
+  closest_city:
+    name: Sacramento
+    distance_km: 1.49
+- country: US
+  region: CA
+  exchange: '345617'
+  name: SEA RANCH
+  full_name: The Sea Ranch
+  lata: '722'
+  ilec_name: FRONTIER CALIFORNIA INC.
   lat:
   long:
 - country: US
@@ -16396,18 +16114,18 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '025111'
-  name: SHERMAOAKS
-  full_name: Sherman Oaks
+  exchange: '346702'
+  name: SHERMANVLG
+  full_name: Sherman Village
   lata: '730'
   ilec_name: PACIFIC BELL
   lat:
   long:
 - country: US
   region: CA
-  exchange: '346702'
-  name: SHERMANVLG
-  full_name: Sherman Village
+  exchange: '025111'
+  name: SHERMAOAKS
+  full_name: Sherman Oaks
   lata: '730'
   ilec_name: PACIFIC BELL
   lat:
@@ -16492,6 +16210,15 @@ rate_centers:
   long:
 - country: US
   region: CA
+  exchange: '346707'
+  name: SILVEDCNYN
+  full_name: Silverado Canyon
+  lata: '730'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
   exchange: '024470'
   name: SILVERADO
   full_name: Silverado
@@ -16502,15 +16229,6 @@ rate_centers:
   closest_city:
     name: Williams Canyon
     distance_km: 3.22
-- country: US
-  region: CA
-  exchange: '346707'
-  name: SILVEDCNYN
-  full_name: Silverado Canyon
-  lata: '730'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
 - country: US
   region: CA
   exchange: '345858'
@@ -16543,6 +16261,15 @@ rate_centers:
   long:
 - country: US
   region: CA
+  exchange: '021361'
+  name: SLAGUNABCH
+  full_name: South Laguna Beach
+  lata: '730'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat:
+  long:
+- country: US
+  region: CA
   exchange: '345859'
   name: SLOAT
   full_name: Sloat
@@ -16557,6 +16284,15 @@ rate_centers:
   full_name: Sloughhouse
   lata: '726'
   ilec_name: CITIZENS TELECOM CA. DBA FRONTIER COM OF CA
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '362872'
+  name: SLTNSSTTPK
+  full_name: Salton Sea State Park
+  lata: '973'
+  ilec_name: FRONTIER CALIFORNIA INC.
   lat:
   long:
 - country: US
@@ -16585,6 +16321,87 @@ rate_centers:
     distance_km: 0.77
 - country: US
   region: CA
+  exchange: '346711'
+  name: SNANTCNYON
+  full_name: Santa Anita Canyon
+  lata: '730'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '024220'
+  name: SNCA NHCS
+  full_name: 'Santa Clarita: Newhall-Castaic DA'
+  lata: '730'
+  ilec_name: PACIFIC BELL
+  lat: '34.385708'
+  long: "-118.525616"
+  closest_city:
+    name: Santa Clarita
+    distance_km: 4.44
+- country: US
+  region: CA
+  exchange: '024230'
+  name: SNCA SGCC
+  full_name: 'Santa Clarita: Saugus Canyon Country DA'
+  lata: '730'
+  ilec_name: PACIFIC BELL
+  lat: '34.417587'
+  long: "-118.446597"
+  closest_city:
+    name: Santa Clarita
+    distance_km: 4.57
+- country: US
+  region: CA
+  exchange: '023930'
+  name: SNCRL-BLMT
+  full_name: San Carlos-Belmont
+  lata: '722'
+  ilec_name: PACIFIC BELL
+  lat: '37.50886'
+  long: "-122.259214"
+  closest_city:
+    name: San Carlos
+    distance_km: 1.4
+- country: US
+  region: CA
+  exchange: '023940'
+  name: SNDG LVTA
+  full_name: 'San Diego: Linda Vista DA'
+  lata: '732'
+  ilec_name: PACIFIC BELL
+  lat: '32.802961'
+  long: "-117.157305"
+  closest_city:
+    name: San Diego
+    distance_km: 4.55
+- country: US
+  region: CA
+  exchange: '023950'
+  name: SNDG MRMS
+  full_name: 'San Diego: Mira Mesa DA'
+  lata: '732'
+  ilec_name: PACIFIC BELL
+  lat: '32.915095'
+  long: "-117.127728"
+  closest_city:
+    name: San Diego
+    distance_km: 9.33
+- country: US
+  region: CA
+  exchange: '023960'
+  name: SNDG SNDG
+  full_name: 'San Diego: San Diego DA'
+  lata: '732'
+  ilec_name: PACIFIC BELL
+  lat: '32.717896'
+  long: "-117.14805"
+  closest_city:
+    name: Coronado
+    distance_km: 6.01
+- country: US
+  region: CA
   exchange: '024520'
   name: SNELLING
   full_name: Snelling
@@ -16597,6 +16414,192 @@ rate_centers:
     distance_km: 0.3
 - country: US
   region: CA
+  exchange: '024010'
+  name: SNFC CNTRL
+  full_name: 'San Francisco: Central DA'
+  lata: '722'
+  ilec_name: PACIFIC BELL
+  lat: '37.789974'
+  long: "-122.406446"
+  closest_city:
+    name: San Francisco
+    distance_km: 5.09
+- country: US
+  region: CA
+  exchange: '024020'
+  name: SNFC JUNPR
+  full_name: 'San Francisco: Juniper DA'
+  lata: '722'
+  ilec_name: PACIFIC BELL
+  lat: '37.789974'
+  long: "-122.406446"
+  closest_city:
+    name: San Francisco
+    distance_km: 5.09
+- country: US
+  region: CA
+  exchange: '024030'
+  name: SNFC MT-EV
+  full_name: 'San Francisco: Montrose-Evergreen DA'
+  lata: '722'
+  ilec_name: PACIFIC BELL
+  lat: '37.789974'
+  long: "-122.406446"
+  closest_city:
+    name: San Francisco
+    distance_km: 5.09
+- country: US
+  region: CA
+  exchange: '023970'
+  name: SNFN GRHL
+  full_name: 'San Fernando: Granada Hills DA'
+  lata: '730'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat: '34.282447'
+  long: "-118.439563"
+  closest_city:
+    name: San Fernando
+    distance_km: 0.75
+- country: US
+  region: CA
+  exchange: '023980'
+  name: SNFN PACM
+  full_name: 'San Fernando: Pacoima DA'
+  lata: '730'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat: '34.282447'
+  long: "-118.439563"
+  closest_city:
+    name: San Fernando
+    distance_km: 0.75
+- country: US
+  region: CA
+  exchange: '023990'
+  name: SNFN SNFN
+  full_name: 'San Fernando: San Fernando DA'
+  lata: '730'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat: '34.282447'
+  long: "-118.439563"
+  closest_city:
+    name: San Fernando
+    distance_km: 0.75
+- country: US
+  region: CA
+  exchange: '024000'
+  name: SNFN SPLV
+  full_name: 'San Fernando: Sepulveda DA'
+  lata: '730'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat: '34.282447'
+  long: "-118.439563"
+  closest_city:
+    name: San Fernando
+    distance_km: 0.75
+- country: US
+  region: CA
+  exchange: '024040'
+  name: SNGBLCNN
+  full_name: San Gabriel Canyon
+  lata: '730'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat: '34.23993'
+  long: "-117.816149"
+  closest_city:
+    name: Glendora
+    distance_km: 10.93
+- country: US
+  region: CA
+  exchange: '347020'
+  name: SNJNBTISTA
+  full_name: San Juan Bautista
+  lata: '736'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '019114'
+  name: SNJNCPSTRN
+  full_name: San Juan Capistrano
+  lata: '730'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '024060'
+  name: SNJS NORTH
+  full_name: 'San Jose: North DA'
+  lata: '722'
+  ilec_name: PACIFIC BELL
+  lat: '37.332603'
+  long: "-121.890442"
+  closest_city:
+    name: Fruitdale
+    distance_km: 4.63
+- country: US
+  region: CA
+  exchange: '024070'
+  name: SNJS SOUTH
+  full_name: 'San Jose: South DA'
+  lata: '722'
+  ilec_name: PACIFIC BELL
+  lat: '37.332603'
+  long: "-121.890442"
+  closest_city:
+    name: Fruitdale
+    distance_km: 4.63
+- country: US
+  region: CA
+  exchange: '024080'
+  name: SNJS WEST
+  full_name: 'San Jose: West DA'
+  lata: '722'
+  ilec_name: PACIFIC BELL
+  lat: '37.332603'
+  long: "-121.890442"
+  closest_city:
+    name: Fruitdale
+    distance_km: 4.63
+- country: US
+  region: CA
+  exchange: '024110'
+  name: SNLUSOBSPO
+  full_name: San Luis Obispo
+  lata: '740'
+  ilec_name: PACIFIC BELL
+  lat: '35.284871'
+  long: "-120.666541"
+  closest_city:
+    name: San Luis Obispo
+    distance_km: 2.01
+- country: US
+  region: CA
+  exchange: '024270'
+  name: SNMN MRVS
+  full_name: 'Santa Monica: Mar Vista DA'
+  lata: '730'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat: '34.015801'
+  long: "-118.491932"
+  closest_city:
+    name: Santa Monica
+    distance_km: 1.32
+- country: US
+  region: CA
+  exchange: '024280'
+  name: SNMN SNMN
+  full_name: 'Santa Monica: Santa Monica DA'
+  lata: '730'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat: '34.015801'
+  long: "-118.491932"
+  closest_city:
+    name: Santa Monica
+    distance_km: 1.32
+- country: US
+  region: CA
   exchange: '346722'
   name: SNOWVALLEY
   full_name: Snow Valley
@@ -16604,6 +16607,69 @@ rate_centers:
   ilec_name: FRONTIER CALIFORNIA INC.
   lat:
   long:
+- country: US
+  region: CA
+  exchange: '024580'
+  name: SNRA JUNO
+  full_name: 'Sonora: Juno DA'
+  lata: '738'
+  ilec_name: PACIFIC BELL
+  lat: '37.982683'
+  long: "-120.388935"
+  closest_city:
+    name: Sonora
+    distance_km: 0.54
+- country: US
+  region: CA
+  exchange: '024590'
+  name: SNRA MAIN
+  full_name: 'Sonora: Main DA'
+  lata: '738'
+  ilec_name: PACIFIC BELL
+  lat: '37.982683'
+  long: "-120.388935"
+  closest_city:
+    name: Sonora
+    distance_km: 0.54
+- country: US
+  region: CA
+  exchange: '345629'
+  name: SNRAMONVLG
+  full_name: San Ramon Village
+  lata: '722'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '346723'
+  name: SO LAGUNA
+  full_name: South Laguna
+  lata: '730'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '023071'
+  name: SO PASADNA
+  full_name: South Pasadena
+  lata: '730'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '024600'
+  name: SO PLACER
+  full_name: South Placer
+  lata: '726'
+  ilec_name: PACIFIC BELL
+  lat: '38.817255'
+  long: "-121.198791"
+  closest_city:
+    name: Loomis
+    distance_km: 0.93
 - country: US
   region: CA
   exchange: '024530'
@@ -16616,6 +16682,15 @@ rate_centers:
   closest_city:
     name: Soda Springs
     distance_km: 0.94
+- country: US
+  region: CA
+  exchange: '346199'
+  name: SODOSPALOS
+  full_name: South Dos Palos
+  lata: '728'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat:
+  long:
 - country: US
   region: CA
   exchange: '346917'
@@ -16693,30 +16768,6 @@ rate_centers:
     distance_km: 0.39
 - country: US
   region: CA
-  exchange: '024580'
-  name: SNRA JUNO
-  full_name: 'Sonora: Juno DA'
-  lata: '738'
-  ilec_name: PACIFIC BELL
-  lat: '37.982683'
-  long: "-120.388935"
-  closest_city:
-    name: Sonora
-    distance_km: 0.54
-- country: US
-  region: CA
-  exchange: '024590'
-  name: SNRA MAIN
-  full_name: 'Sonora: Main DA'
-  lata: '738'
-  ilec_name: PACIFIC BELL
-  lat: '37.982683'
-  long: "-120.388935"
-  closest_city:
-    name: Sonora
-    distance_km: 0.54
-- country: US
-  region: CA
   exchange: '345631'
   name: SOQUEL
   full_name: Soquel
@@ -16735,36 +16786,6 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '018601'
-  name: S BARSTOW
-  full_name: South Barstow
-  lata: '730'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat: '34.900585'
-  long: "-117.025936"
-  closest_city:
-    name: Barstow
-    distance_km: 4.29
-- country: US
-  region: CA
-  exchange: '346199'
-  name: SODOSPALOS
-  full_name: South Dos Palos
-  lata: '728'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '346674'
-  name: S EL MONTE
-  full_name: South El Monte
-  lata: '730'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
   exchange: '021751'
   name: SOUTH GATE
   full_name: South Gate
@@ -16772,57 +16793,6 @@ rate_centers:
   ilec_name: PACIFIC BELL
   lat:
   long:
-- country: US
-  region: CA
-  exchange: '346723'
-  name: SO LAGUNA
-  full_name: South Laguna
-  lata: '730'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '021361'
-  name: SLAGUNABCH
-  full_name: South Laguna Beach
-  lata: '730'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '023071'
-  name: SO PASADNA
-  full_name: South Pasadena
-  lata: '730'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '024600'
-  name: SO PLACER
-  full_name: South Placer
-  lata: '726'
-  ilec_name: PACIFIC BELL
-  lat: '38.817255'
-  long: "-121.198791"
-  closest_city:
-    name: Loomis
-    distance_km: 0.93
-- country: US
-  region: CA
-  exchange: '024610'
-  name: SSNFRNCSCO
-  full_name: South San Francisco
-  lata: '722'
-  ilec_name: PACIFIC BELL
-  lat: '37.639882'
-  long: "-122.415218"
-  closest_city:
-    name: South San Francisco
-    distance_km: 1.59
 - country: US
   region: CA
   exchange: '024620'
@@ -16864,20 +16834,20 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '346918'
-  name: SPRING VLY
-  full_name: Spring Valley
-  lata: '732'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
   exchange: '346729'
   name: SPRGVLYLK
   full_name: Spring Valley Lake
   lata: '730'
   ilec_name: FRONTIER CALIFORNIA INC.
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '346918'
+  name: SPRING VLY
+  full_name: Spring Valley
+  lata: '732'
+  ilec_name: PACIFIC BELL
   lat:
   long:
 - country: US
@@ -16906,6 +16876,18 @@ rate_centers:
     distance_km: 6.08
 - country: US
   region: CA
+  exchange: '024610'
+  name: SSNFRNCSCO
+  full_name: South San Francisco
+  lata: '722'
+  ilec_name: PACIFIC BELL
+  lat: '37.639882'
+  long: "-122.415218"
+  closest_city:
+    name: South San Francisco
+    distance_km: 1.59
+- country: US
+  region: CA
   exchange: '024650'
   name: ST HELENA
   full_name: St Helena
@@ -16916,6 +16898,15 @@ rate_centers:
   closest_city:
     name: St. Helena
     distance_km: 0.92
+- country: US
+  region: CA
+  exchange: '346202'
+  name: ST RITA PK
+  full_name: Santa Rita Park
+  lata: '728'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat:
+  long:
 - country: US
   region: CA
   exchange: '346972'
@@ -16972,9 +16963,9 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '346735'
-  name: STVNSONRCH
-  full_name: Stevenson Ranch
+  exchange: '346732'
+  name: STCATALINA
+  full_name: Santa Catalina
   lata: '730'
   ilec_name: PACIFIC BELL
   lat:
@@ -17008,6 +16999,15 @@ rate_centers:
   long:
 - country: US
   region: CA
+  exchange: '345862'
+  name: STIRLINGCY
+  full_name: Stirling City
+  lata: '724'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
   exchange: '024660'
   name: STNSN-BLNS
   full_name: Stinson Beach-Bolinas
@@ -17018,15 +17018,6 @@ rate_centers:
   closest_city:
     name: Stinson Beach
     distance_km: 1.28
-- country: US
-  region: CA
-  exchange: '345862'
-  name: STIRLINGCY
-  full_name: Stirling City
-  lata: '724'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
 - country: US
   region: CA
   exchange: '024670'
@@ -17092,6 +17083,15 @@ rate_centers:
   long:
 - country: US
   region: CA
+  exchange: '346733'
+  name: STROSAVLY
+  full_name: Santa Rosa Valley
+  lata: '730'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat:
+  long:
+- country: US
+  region: CA
   exchange: '345864'
   name: STRWBRYVLY
   full_name: Strawberry Valley
@@ -17104,6 +17104,15 @@ rate_centers:
   exchange: '346734'
   name: STUDIOCITY
   full_name: Studio City
+  lata: '730'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '346735'
+  name: STVNSONRCH
+  full_name: Stevenson Ranch
   lata: '730'
   ilec_name: PACIFIC BELL
   lat:
@@ -17146,15 +17155,6 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '345865'
-  name: SUMMITCITY
-  full_name: Summit City
-  lata: '724'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
   exchange: '024700'
   name: SUMMIT VLY
   full_name: Summit Valley
@@ -17165,6 +17165,15 @@ rate_centers:
   closest_city:
     name: Crestline
     distance_km: 8.2
+- country: US
+  region: CA
+  exchange: '345865'
+  name: SUMMITCITY
+  full_name: Summit City
+  lata: '724'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
 - country: US
   region: CA
   exchange: '024710'
@@ -17182,15 +17191,6 @@ rate_centers:
   exchange: '346739'
   name: SUN VALLEY
   full_name: Sun Valley
-  lata: '730'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '346744'
-  name: SUNVILLAGE
-  full_name: Sun Village
   lata: '730'
   ilec_name: PACIFIC BELL
   lat:
@@ -17256,6 +17256,15 @@ rate_centers:
   full_name: Sunset Beach
   lata: '730'
   ilec_name: FRONTIER CALIFORNIA INC.
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '346744'
+  name: SUNVILLAGE
+  full_name: Sun Village
+  lata: '730'
+  ilec_name: PACIFIC BELL
   lat:
   long:
 - country: US
@@ -17371,18 +17380,18 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '346074'
-  name: TAHOEPINES
-  full_name: Tahoe Pines
+  exchange: '346073'
+  name: TAHOE VLY
+  full_name: Tahoe Valley
   lata: '726'
   ilec_name: PACIFIC BELL
   lat:
   long:
 - country: US
   region: CA
-  exchange: '346073'
-  name: TAHOE VLY
-  full_name: Tahoe Valley
+  exchange: '346074'
+  name: TAHOEPINES
+  full_name: Tahoe Pines
   lata: '726'
   ilec_name: PACIFIC BELL
   lat:
@@ -17494,18 +17503,6 @@ rate_centers:
     distance_km: 1.08
 - country: US
   region: CA
-  exchange: '024800'
-  name: TEMSCL CNY
-  full_name: Temescal Canyon
-  lata: '730'
-  ilec_name: PACIFIC BELL
-  lat: '33.804691'
-  long: "-117.509879"
-  closest_city:
-    name: Temescal Valley
-    distance_km: 6.48
-- country: US
-  region: CA
   exchange: '346752'
   name: TEMPLECITY
   full_name: Temple City
@@ -17522,6 +17519,18 @@ rate_centers:
   ilec_name: PACIFIC BELL
   lat:
   long:
+- country: US
+  region: CA
+  exchange: '024800'
+  name: TEMSCL CNY
+  full_name: Temescal Canyon
+  lata: '730'
+  ilec_name: PACIFIC BELL
+  lat: '33.804691'
+  long: "-117.509879"
+  closest_city:
+    name: Temescal Valley
+    distance_km: 6.48
 - country: US
   region: CA
   exchange: '345870'
@@ -17570,15 +17579,6 @@ rate_centers:
   closest_city:
     name: Terra Bella
     distance_km: 0.98
-- country: US
-  region: CA
-  exchange: '345617'
-  name: SEA RANCH
-  full_name: The Sea Ranch
-  lata: '722'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat:
-  long:
 - country: US
   region: CA
   exchange: '021025'
@@ -17662,30 +17662,6 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '024850'
-  name: TMCV SERN
-  full_name: 'Timber Cove: Sea Ranch DA'
-  lata: '722'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat: '38.531909'
-  long: "-123.269473"
-  closest_city:
-    name: Timber Cove
-    distance_km: 1.37
-- country: US
-  region: CA
-  exchange: '024860'
-  name: TMCV TMCV
-  full_name: 'Timber Cove: Timber Cove DA'
-  lata: '722'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat: '38.531909'
-  long: "-123.269473"
-  closest_city:
-    name: Timber Cove
-    distance_km: 1.37
-- country: US
-  region: CA
   exchange: '024870'
   name: TIPTON
   full_name: Tipton
@@ -17708,6 +17684,30 @@ rate_centers:
   closest_city:
     name: Centerville
     distance_km: 4.58
+- country: US
+  region: CA
+  exchange: '024850'
+  name: TMCV SERN
+  full_name: 'Timber Cove: Sea Ranch DA'
+  lata: '722'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat: '38.531909'
+  long: "-123.269473"
+  closest_city:
+    name: Timber Cove
+    distance_km: 1.37
+- country: US
+  region: CA
+  exchange: '024860'
+  name: TMCV TMCV
+  full_name: 'Timber Cove: Timber Cove DA'
+  lata: '722'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat: '38.531909'
+  long: "-123.269473"
+  closest_city:
+    name: Timber Cove
+    distance_km: 1.37
 - country: US
   region: CA
   exchange: '346211'
@@ -18028,18 +18028,6 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '025020'
-  name: TWNTYNPLMS
-  full_name: Twentynine Palms
-  lata: '973'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat: '34.160565'
-  long: "-116.108218"
-  closest_city:
-    name: Twentynine Palms
-    distance_km: 4.14
-- country: US
-  region: CA
   exchange: '346081'
   name: TWIN BRDGS
   full_name: Twin Bridges
@@ -18056,6 +18044,18 @@ rate_centers:
   ilec_name: FRONTIER CALIFORNIA INC.
   lat:
   long:
+- country: US
+  region: CA
+  exchange: '025020'
+  name: TWNTYNPLMS
+  full_name: Twentynine Palms
+  lata: '973'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat: '34.160565'
+  long: "-116.108218"
+  closest_city:
+    name: Twentynine Palms
+    distance_km: 4.14
 - country: US
   region: CA
   exchange: '025030'
@@ -18151,15 +18151,6 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '020761'
-  name: VALLEVISTA
-  full_name: Valle Vista
-  lata: '730'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat:
-  long:
-- country: US
-  region: CA
   exchange: '347143'
   name: VALLECITO
   full_name: Vallecito
@@ -18181,10 +18172,10 @@ rate_centers:
     distance_km: 2.05
 - country: US
   region: CA
-  exchange: '346976'
-  name: VLY ACRES
-  full_name: Valley Acres
-  lata: '734'
+  exchange: '020761'
+  name: VALLEVISTA
+  full_name: Valle Vista
+  lata: '730'
   ilec_name: FRONTIER CALIFORNIA INC.
   lat:
   long:
@@ -18200,6 +18191,27 @@ rate_centers:
   closest_city:
     name: Valley Center
     distance_km: 0.58
+- country: US
+  region: CA
+  exchange: '025100'
+  name: VALLEY SPG
+  full_name: Valley Springs
+  lata: '738'
+  ilec_name: PACIFIC BELL
+  lat: '38.192922'
+  long: "-120.823656"
+  closest_city:
+    name: Valley Springs
+    distance_km: 2.62
+- country: US
+  region: CA
+  exchange: '346771'
+  name: VALLEY VLG
+  full_name: Valley Village
+  lata: '730'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
 - country: US
   region: CA
   exchange: '025090'
@@ -18227,27 +18239,6 @@ rate_centers:
   name: VALLEYHOME
   full_name: Valley Home
   lata: '738'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '025100'
-  name: VALLEY SPG
-  full_name: Valley Springs
-  lata: '738'
-  ilec_name: PACIFIC BELL
-  lat: '38.192922'
-  long: "-120.823656"
-  closest_city:
-    name: Valley Springs
-    distance_km: 2.62
-- country: US
-  region: CA
-  exchange: '346771'
-  name: VALLEY VLG
-  full_name: Valley Village
-  lata: '730'
   ilec_name: PACIFIC BELL
   lat:
   long:
@@ -18290,30 +18281,6 @@ rate_centers:
   ilec_name: FRONTIER CALIFORNIA INC.
   lat:
   long:
-- country: US
-  region: CA
-  exchange: '025120'
-  name: VNTRA CNTL
-  full_name: Ventura Central
-  lata: '730'
-  ilec_name: PACIFIC BELL
-  lat: '34.275285'
-  long: "-119.301193"
-  closest_city:
-    name: San Buenaventura
-    distance_km: 6.41
-- country: US
-  region: CA
-  exchange: '025130'
-  name: VNTRA EAST
-  full_name: Ventura East
-  lata: '730'
-  ilec_name: PACIFIC BELL
-  lat: '34.263114'
-  long: "-119.236479"
-  closest_city:
-    name: San Buenaventura
-    distance_km: 1.31
 - country: US
   region: CA
   exchange: '346776'
@@ -18371,42 +18338,6 @@ rate_centers:
   ilec_name: PACIFIC BELL
   lat:
   long:
-- country: US
-  region: CA
-  exchange: '025200'
-  name: VTVL ADLN
-  full_name: 'Victorville: Adelanto DA'
-  lata: '730'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat: '34.542655'
-  long: "-117.299114"
-  closest_city:
-    name: Victorville
-    distance_km: 5.26
-- country: US
-  region: CA
-  exchange: '025210'
-  name: VTVL APVY
-  full_name: 'Victorville: Apple Valley DA'
-  lata: '730'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat: '34.542655'
-  long: "-117.299114"
-  closest_city:
-    name: Victorville
-    distance_km: 5.26
-- country: US
-  region: CA
-  exchange: '025220'
-  name: VTVL HSPR
-  full_name: 'Victorville: Hesperia DA'
-  lata: '730'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat: '34.542655'
-  long: "-117.299114"
-  closest_city:
-    name: Victorville
-    distance_km: 5.26
 - country: US
   region: CA
   exchange: '025150'
@@ -18520,6 +18451,39 @@ rate_centers:
     distance_km: 3.43
 - country: US
   region: CA
+  exchange: '346976'
+  name: VLY ACRES
+  full_name: Valley Acres
+  lata: '734'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '025120'
+  name: VNTRA CNTL
+  full_name: Ventura Central
+  lata: '730'
+  ilec_name: PACIFIC BELL
+  lat: '34.275285'
+  long: "-119.301193"
+  closest_city:
+    name: San Buenaventura
+    distance_km: 6.41
+- country: US
+  region: CA
+  exchange: '025130'
+  name: VNTRA EAST
+  full_name: Ventura East
+  lata: '730'
+  ilec_name: PACIFIC BELL
+  lat: '34.263114'
+  long: "-119.236479"
+  closest_city:
+    name: San Buenaventura
+    distance_km: 1.31
+- country: US
+  region: CA
   exchange: '025190'
   name: VOLCANO
   full_name: Volcano
@@ -18530,6 +18494,81 @@ rate_centers:
   closest_city:
     name: Volcano
     distance_km: 1.33
+- country: US
+  region: CA
+  exchange: '025200'
+  name: VTVL ADLN
+  full_name: 'Victorville: Adelanto DA'
+  lata: '730'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat: '34.542655'
+  long: "-117.299114"
+  closest_city:
+    name: Victorville
+    distance_km: 5.26
+- country: US
+  region: CA
+  exchange: '025210'
+  name: VTVL APVY
+  full_name: 'Victorville: Apple Valley DA'
+  lata: '730'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat: '34.542655'
+  long: "-117.299114"
+  closest_city:
+    name: Victorville
+    distance_km: 5.26
+- country: US
+  region: CA
+  exchange: '025220'
+  name: VTVL HSPR
+  full_name: 'Victorville: Hesperia DA'
+  lata: '730'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat: '34.542655'
+  long: "-117.299114"
+  closest_city:
+    name: Victorville
+    distance_km: 5.26
+- country: US
+  region: CA
+  exchange: '025360'
+  name: W ANGELES
+  full_name: West Los Angeles
+  lata: '730'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat: '34.052394'
+  long: "-118.451302"
+  closest_city:
+    name: Santa Monica
+    distance_km: 4.22
+- country: US
+  region: CA
+  exchange: '345660'
+  name: W MENLO PK
+  full_name: West Menlo Park
+  lata: '722'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '023841'
+  name: W SCRMENTO
+  full_name: West Sacramento
+  lata: '726'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
+- country: US
+  region: CA
+  exchange: '346791'
+  name: W TOLUCALK
+  full_name: West Toluca Lake
+  lata: '730'
+  ilec_name: PACIFIC BELL
+  lat:
+  long:
 - country: US
   region: CA
   exchange: '345062'
@@ -18658,30 +18697,6 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '025290'
-  name: WTFR DNPR
-  full_name: 'Waterford: Don Pedro DA'
-  lata: '738'
-  ilec_name: PACIFIC BELL
-  lat: '37.640992'
-  long: "-120.758967"
-  closest_city:
-    name: Waterford
-    distance_km: 0.39
-- country: US
-  region: CA
-  exchange: '025300'
-  name: WTFR MAIN
-  full_name: 'Waterford: Main DA'
-  lata: '738'
-  ilec_name: PACIFIC BELL
-  lat: '37.640992'
-  long: "-120.758967"
-  closest_city:
-    name: Waterford
-    distance_km: 0.39
-- country: US
-  region: CA
   exchange: '025310'
   name: WATSONVL
   full_name: Watsonville
@@ -18805,15 +18820,6 @@ rate_centers:
     distance_km: 0.22
 - country: US
   region: CA
-  exchange: '346800'
-  name: WESTCOVINA
-  full_name: West Covina
-  lata: '730'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat:
-  long:
-- country: US
-  region: CA
   exchange: '346799'
   name: WEST HILLS
   full_name: West Hills
@@ -18832,27 +18838,6 @@ rate_centers:
   long:
 - country: US
   region: CA
-  exchange: '025360'
-  name: W ANGELES
-  full_name: West Los Angeles
-  lata: '730'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat: '34.052394'
-  long: "-118.451302"
-  closest_city:
-    name: Santa Monica
-    distance_km: 4.22
-- country: US
-  region: CA
-  exchange: '345660'
-  name: W MENLO PK
-  full_name: West Menlo Park
-  lata: '722'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
   exchange: '025370'
   name: WEST POINT
   full_name: West Point
@@ -18865,20 +18850,11 @@ rate_centers:
     distance_km: 1.11
 - country: US
   region: CA
-  exchange: '023841'
-  name: W SCRMENTO
-  full_name: West Sacramento
-  lata: '726'
-  ilec_name: PACIFIC BELL
-  lat:
-  long:
-- country: US
-  region: CA
-  exchange: '346791'
-  name: W TOLUCALK
-  full_name: West Toluca Lake
+  exchange: '346800'
+  name: WESTCOVINA
+  full_name: West Covina
   lata: '730'
-  ilec_name: PACIFIC BELL
+  ilec_name: FRONTIER CALIFORNIA INC.
   lat:
   long:
 - country: US
@@ -18940,6 +18916,15 @@ rate_centers:
   long:
 - country: US
   region: CA
+  exchange: '346803'
+  name: WESTWD VLG
+  full_name: Westwood Village
+  lata: '730'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat:
+  long:
+- country: US
+  region: CA
   exchange: '025390'
   name: WESTWOOD
   full_name: Westwood
@@ -18950,15 +18935,6 @@ rate_centers:
   closest_city:
     name: Westwood
     distance_km: 0.4
-- country: US
-  region: CA
-  exchange: '346803'
-  name: WESTWD VLG
-  full_name: Westwood Village
-  lata: '730'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat:
-  long:
 - country: US
   region: CA
   exchange: '025400'
@@ -19330,6 +19306,18 @@ rate_centers:
   long:
 - country: US
   region: CA
+  exchange: '025540'
+  name: WRIGHTWOOD
+  full_name: 'Wrightwood: Wrightwood DA'
+  lata: '730'
+  ilec_name: FRONTIER CALIFORNIA INC.
+  lat: '34.360644'
+  long: "-117.640159"
+  closest_city:
+    name: Wrightwood
+    distance_km: 1.55
+- country: US
+  region: CA
   exchange: '025550'
   name: WRWD PHLN
   full_name: 'Wrightwood: Phelan DA'
@@ -19342,16 +19330,28 @@ rate_centers:
     distance_km: 1.24
 - country: US
   region: CA
-  exchange: '025540'
-  name: WRIGHTWOOD
-  full_name: 'Wrightwood: Wrightwood DA'
-  lata: '730'
-  ilec_name: FRONTIER CALIFORNIA INC.
-  lat: '34.360644'
-  long: "-117.640159"
+  exchange: '025290'
+  name: WTFR DNPR
+  full_name: 'Waterford: Don Pedro DA'
+  lata: '738'
+  ilec_name: PACIFIC BELL
+  lat: '37.640992'
+  long: "-120.758967"
   closest_city:
-    name: Wrightwood
-    distance_km: 1.55
+    name: Waterford
+    distance_km: 0.39
+- country: US
+  region: CA
+  exchange: '025300'
+  name: WTFR MAIN
+  full_name: 'Waterford: Main DA'
+  lata: '738'
+  ilec_name: PACIFIC BELL
+  lat: '37.640992'
+  long: "-120.758967"
+  closest_city:
+    name: Waterford
+    distance_km: 0.39
 - country: US
   region: CA
   exchange: '345888'

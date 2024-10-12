@@ -93,6 +93,19 @@ rate_centers:
   long:
 - country: US
   region: PR
+  exchange: '175070'
+  name: ANASCO
+  full_name: Añasco
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.280407'
+  long: "-67.146974"
+  closest_city:
+    name: !binary |-
+      QcOxYXNjbw==
+    distance_km: 0.9
+- country: US
+  region: PR
   exchange: '175080'
   name: ARECIBO
   full_name: Arecibo
@@ -124,19 +137,6 @@ rate_centers:
   closest_city:
     name: Arroyo
     distance_km: 1.23
-- country: US
-  region: PR
-  exchange: '175070'
-  name: ANASCO
-  full_name: Añasco
-  lata: '820'
-  ilec_name: PUERTO RICO TEL. CO.
-  lat: '18.280407'
-  long: "-67.146974"
-  closest_city:
-    name: !binary |-
-      QcOxYXNjbw==
-    distance_km: 0.9
 - country: US
   region: PR
   exchange: '347228'
@@ -288,18 +288,18 @@ rate_centers:
   long:
 - country: US
   region: PR
-  exchange: '347244'
-  name: BUENCONSJO
-  full_name: Buen Consejo
+  exchange: '347243'
+  name: BUENAVISTA
+  full_name: Buena Vista
   lata: '820'
   ilec_name: PUERTO RICO TEL. CO.
   lat:
   long:
 - country: US
   region: PR
-  exchange: '347243'
-  name: BUENAVISTA
-  full_name: Buena Vista
+  exchange: '347244'
+  name: BUENCONSJO
+  full_name: Buen Consejo
   lata: '820'
   ilec_name: PUERTO RICO TEL. CO.
   lat:
@@ -342,15 +342,6 @@ rate_centers:
     distance_km: 0.94
 - country: US
   region: PR
-  exchange: '347249'
-  name: CANTERA
-  full_name: Cantera
-  lata: '820'
-  ilec_name: PUERTO RICO TEL. CO.
-  lat:
-  long:
-- country: US
-  region: PR
   exchange: '175170'
   name: CANOVANAS
   full_name: Canóvanas
@@ -364,6 +355,15 @@ rate_centers:
     distance_km: 0.85
 - country: US
   region: PR
+  exchange: '347249'
+  name: CANTERA
+  full_name: Cantera
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
   exchange: '175601'
   name: CAPARRA
   full_name: Caparra
@@ -373,18 +373,18 @@ rate_centers:
   long:
 - country: US
   region: PR
-  exchange: '347252'
-  name: CAPARRAHTS
-  full_name: Caparra Heights
+  exchange: '347251'
+  name: CAPARRA HL
+  full_name: Caparra Hills
   lata: '820'
   ilec_name: PUERTO RICO TEL. CO.
   lat:
   long:
 - country: US
   region: PR
-  exchange: '347251'
-  name: CAPARRA HL
-  full_name: Caparra Hills
+  exchange: '347252'
+  name: CAPARRAHTS
+  full_name: Caparra Heights
   lata: '820'
   ilec_name: PUERTO RICO TEL. CO.
   lat:
@@ -621,15 +621,6 @@ rate_centers:
     distance_km: 0.46
 - country: US
   region: PR
-  exchange: '347278'
-  name: ELCOMNDANT
-  full_name: El Comandante
-  lata: '820'
-  ilec_name: PUERTO RICO TEL. CO.
-  lat:
-  long:
-- country: US
-  region: PR
   exchange: '347275'
   name: EL ROSARIO
   full_name: El Rosario
@@ -651,6 +642,15 @@ rate_centers:
   exchange: '347277'
   name: EL YUNQUE
   full_name: El Yunque
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '347278'
+  name: ELCOMNDANT
+  full_name: El Comandante
   lata: '820'
   ilec_name: PUERTO RICO TEL. CO.
   lat:
@@ -744,6 +744,18 @@ rate_centers:
   long:
 - country: US
   region: PR
+  exchange: '175300'
+  name: GUANICA
+  full_name: Guánica
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '17.976129'
+  long: "-66.914495"
+  closest_city:
+    name: Fuig
+    distance_km: 1.1
+- country: US
+  region: PR
   exchange: '347289'
   name: GUARAGUAO
   full_name: Guaraguao
@@ -799,18 +811,6 @@ rate_centers:
   closest_city:
     name: Gurabo
     distance_km: 0.66
-- country: US
-  region: PR
-  exchange: '175300'
-  name: GUANICA
-  full_name: Guánica
-  lata: '820'
-  ilec_name: PUERTO RICO TEL. CO.
-  lat: '17.976129'
-  long: "-66.914495"
-  closest_city:
-    name: Fuig
-    distance_km: 1.1
 - country: US
   region: PR
   exchange: '175161'
@@ -1280,18 +1280,18 @@ rate_centers:
   long:
 - country: US
   region: PR
-  exchange: '347339'
-  name: PUNTASANTG
-  full_name: Punta Santiago
+  exchange: '347338'
+  name: PUNTA STGO
+  full_name: Punta Stgo
   lata: '820'
   ilec_name: PUERTO RICO TEL. CO.
   lat:
   long:
 - country: US
   region: PR
-  exchange: '347338'
-  name: PUNTA STGO
-  full_name: Punta Stgo
+  exchange: '347339'
+  name: PUNTASANTG
+  full_name: Punta Santiago
   lata: '820'
   ilec_name: PUERTO RICO TEL. CO.
   lat:
@@ -1335,18 +1335,6 @@ rate_centers:
     distance_km: 0.84
 - country: US
   region: PR
-  exchange: '175660'
-  name: ROOSEVLTRD
-  full_name: Roosevelt Roads
-  lata: '820'
-  ilec_name: PUERTO RICO TEL. CO.
-  lat: '18.220301'
-  long: "-65.652105"
-  closest_city:
-    name: Daguao
-    distance_km: 2.93
-- country: US
-  region: PR
   exchange: '175640'
   name: RIO GRANDE
   full_name: Río Grande
@@ -1371,6 +1359,18 @@ rate_centers:
     name: !binary |-
       Q2HDsW8gTWFydGluIFBlw7Fh
     distance_km: 0.98
+- country: US
+  region: PR
+  exchange: '175660'
+  name: ROOSEVLTRD
+  full_name: Roosevelt Roads
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '18.220301'
+  long: "-65.652105"
+  closest_city:
+    name: Daguao
+    distance_km: 2.93
 - country: US
   region: PR
   exchange: '175670'
@@ -1415,15 +1415,6 @@ rate_centers:
     distance_km: 0.14
 - country: US
   region: PR
-  exchange: '347356'
-  name: SANANTONIO
-  full_name: San Antonio
-  lata: '820'
-  ilec_name: PUERTO RICO TEL. CO.
-  lat:
-  long:
-- country: US
-  region: PR
   exchange: '175690'
   name: SAN GERMAN
   full_name: San Germán
@@ -1435,6 +1426,18 @@ rate_centers:
     name: !binary |-
       U2FuIEdlcm3DoW4=
     distance_km: 0.38
+- country: US
+  region: PR
+  exchange: '175720'
+  name: SAN ISABEL
+  full_name: Santa Isabel
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat: '17.968715'
+  long: "-66.404771"
+  closest_city:
+    name: Santa Isabel
+    distance_km: 0.06
 - country: US
   region: PR
   exchange: '347352'
@@ -1464,6 +1467,24 @@ rate_centers:
   long:
 - country: US
   region: PR
+  exchange: '347355'
+  name: SAN ROSA
+  full_name: San Rosa
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
+  exchange: '347356'
+  name: SANANTONIO
+  full_name: San Antonio
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
+- country: US
+  region: PR
   exchange: '175700'
   name: SANLORENZO
   full_name: San Lorenzo
@@ -1474,15 +1495,6 @@ rate_centers:
   closest_city:
     name: San Lorenzo
     distance_km: 0.93
-- country: US
-  region: PR
-  exchange: '347355'
-  name: SAN ROSA
-  full_name: San Rosa
-  lata: '820'
-  ilec_name: PUERTO RICO TEL. CO.
-  lat:
-  long:
 - country: US
   region: PR
   exchange: '175710'
@@ -1496,18 +1508,6 @@ rate_centers:
     name: !binary |-
       U2FuIFNlYmFzdGnDoW4=
     distance_km: 0.88
-- country: US
-  region: PR
-  exchange: '175720'
-  name: SAN ISABEL
-  full_name: Santa Isabel
-  lata: '820'
-  ilec_name: PUERTO RICO TEL. CO.
-  lat: '17.968715'
-  long: "-66.404771"
-  closest_city:
-    name: Santa Isabel
-    distance_km: 0.06
 - country: US
   region: PR
   exchange: '347359'
@@ -1686,15 +1686,6 @@ rate_centers:
     distance_km: 0.14
 - country: US
   region: PR
-  exchange: '347377'
-  name: VILNEVAREZ
-  full_name: Villa Nevarez
-  lata: '820'
-  ilec_name: PUERTO RICO TEL. CO.
-  lat:
-  long:
-- country: US
-  region: PR
   exchange: '175840'
   name: VILLALBA
   full_name: Villalba
@@ -1705,6 +1696,15 @@ rate_centers:
   closest_city:
     name: Villalba
     distance_km: 1.0
+- country: US
+  region: PR
+  exchange: '347377'
+  name: VILNEVAREZ
+  full_name: Villa Nevarez
+  lata: '820'
+  ilec_name: PUERTO RICO TEL. CO.
+  lat:
+  long:
 - country: US
   region: PR
   exchange: '175850'

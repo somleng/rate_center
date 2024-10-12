@@ -1247,15 +1247,6 @@ rate_centers:
   long:
 - country: US
   region: KY
-  exchange: '325337'
-  name: BLCKCRSRDS
-  full_name: Blacks Crossroads
-  lata: '466'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
-- country: US
-  region: KY
   exchange: '067830'
   name: BLAINE
   full_name: Blaine
@@ -1304,6 +1295,15 @@ rate_centers:
   long:
 - country: US
   region: KY
+  exchange: '325337'
+  name: BLCKCRSRDS
+  full_name: Blacks Crossroads
+  lata: '466'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
+- country: US
+  region: KY
   exchange: '067840'
   name: BLEDSOE
   full_name: Bledsoe
@@ -1328,24 +1328,6 @@ rate_centers:
     distance_km: 0.5
 - country: US
   region: KY
-  exchange: '325340'
-  name: BLUEDIAMND
-  full_name: Blue Diamond
-  lata: '466'
-  ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LEXINGTON
-  lat:
-  long:
-- country: US
-  region: KY
-  exchange: '324554'
-  name: BLUERDG MR
-  full_name: Blue Ridge Manor
-  lata: '462'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
-- country: US
-  region: KY
   exchange: '325339'
   name: BLUE RIVER
   full_name: Blue River
@@ -1355,11 +1337,29 @@ rate_centers:
   long:
 - country: US
   region: KY
+  exchange: '325340'
+  name: BLUEDIAMND
+  full_name: Blue Diamond
+  lata: '466'
+  ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LEXINGTON
+  lat:
+  long:
+- country: US
+  region: KY
   exchange: '325341'
   name: BLUEHOLE
   full_name: Bluehole
   lata: '466'
   ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LONDON
+  lat:
+  long:
+- country: US
+  region: KY
+  exchange: '324554'
+  name: BLUERDG MR
+  full_name: Blue Ridge Manor
+  lata: '462'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
   long:
 - country: US
@@ -1658,20 +1658,20 @@ rate_centers:
   long:
 - country: US
   region: KY
-  exchange: '325358'
-  name: BRIGHTSHAD
-  full_name: Bright Shade
-  lata: '466'
-  ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LONDON
-  lat:
-  long:
-- country: US
-  region: KY
   exchange: '325357'
   name: BRIGHTON
   full_name: Brighton
   lata: '466'
   ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LEXINGTON
+  lat:
+  long:
+- country: US
+  region: KY
+  exchange: '325358'
+  name: BRIGHTSHAD
+  full_name: Bright Shade
+  lata: '466'
+  ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LONDON
   lat:
   long:
 - country: US
@@ -1692,6 +1692,18 @@ rate_centers:
   ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LEXINGTON
   lat:
   long:
+- country: US
+  region: KY
+  exchange: '068011'
+  name: BRKSVL RUL
+  full_name: Burkesville Rural
+  lata: '462'
+  ilec_name: DUO COUNTY TEL. COOP., INC.
+  lat: '36.791028'
+  long: "-85.365269"
+  closest_city:
+    name: Burkesville
+    distance_km: 0.2
 - country: US
   region: KY
   exchange: '325360'
@@ -1826,24 +1838,6 @@ rate_centers:
   long:
 - country: US
   region: KY
-  exchange: '324568'
-  name: BRWNSBR FR
-  full_name: Brownsboro Farm
-  lata: '462'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
-- country: US
-  region: KY
-  exchange: '324569'
-  name: BRWNSBR VL
-  full_name: Brownsboro Village
-  lata: '462'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
-- country: US
-  region: KY
   exchange: '067960'
   name: BROWNSVL
   full_name: Brownsville
@@ -1879,6 +1873,24 @@ rate_centers:
   full_name: Brush Creek
   lata: '466'
   ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LONDON
+  lat:
+  long:
+- country: US
+  region: KY
+  exchange: '324568'
+  name: BRWNSBR FR
+  full_name: Brownsboro Farm
+  lata: '462'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
+- country: US
+  region: KY
+  exchange: '324569'
+  name: BRWNSBR VL
+  full_name: Brownsboro Village
+  lata: '462'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
   long:
 - country: US
@@ -2035,18 +2047,6 @@ rate_centers:
   full_name: Burkesville
   lata: '462'
   ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LEXINGTON
-  lat: '36.791028'
-  long: "-85.365269"
-  closest_city:
-    name: Burkesville
-    distance_km: 0.2
-- country: US
-  region: KY
-  exchange: '068011'
-  name: BRKSVL RUL
-  full_name: Burkesville Rural
-  lata: '462'
-  ilec_name: DUO COUNTY TEL. COOP., INC.
   lat: '36.791028'
   long: "-85.365269"
   closest_city:
@@ -2276,36 +2276,9 @@ rate_centers:
   long:
 - country: US
   region: KY
-  exchange: '324972'
-  name: CAMPBKNRDG
-  full_name: Camp Breckinridge
-  lata: '464'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
-- country: US
-  region: KY
-  exchange: '325436'
-  name: CMPDNILBON
-  full_name: Camp Daniel Boone
-  lata: '466'
-  ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LEXINGTON
-  lat:
-  long:
-- country: US
-  region: KY
   exchange: '325393'
   name: CAMP DIX
   full_name: Camp Dix
-  lata: '466'
-  ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LEXINGTON
-  lat:
-  long:
-- country: US
-  region: KY
-  exchange: '325394'
-  name: CAMPNELSON
-  full_name: Camp Nelson
   lata: '466'
   ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LEXINGTON
   lat:
@@ -2334,6 +2307,24 @@ rate_centers:
   closest_city:
     name: Campbellsville
     distance_km: 0.75
+- country: US
+  region: KY
+  exchange: '324972'
+  name: CAMPBKNRDG
+  full_name: Camp Breckinridge
+  lata: '464'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
+- country: US
+  region: KY
+  exchange: '325394'
+  name: CAMPNELSON
+  full_name: Camp Nelson
+  lata: '466'
+  ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LEXINGTON
+  lat:
+  long:
 - country: US
   region: KY
   exchange: '068090'
@@ -2921,15 +2912,6 @@ rate_centers:
   long:
 - country: US
   region: KY
-  exchange: '325429'
-  name: CLERCRKSPG
-  full_name: Clear Creek Springs
-  lata: '466'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
-- country: US
-  region: KY
   exchange: '325427'
   name: CLEARFIELD
   full_name: Clearfield
@@ -2953,6 +2935,15 @@ rate_centers:
   full_name: Clementsville
   lata: '466'
   ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LEXINGTON
+  lat:
+  long:
+- country: US
+  region: KY
+  exchange: '325429'
+  name: CLERCRKSPG
+  full_name: Clear Creek Springs
+  lata: '466'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
   long:
 - country: US
@@ -3044,6 +3035,15 @@ rate_centers:
     distance_km: 0.41
 - country: US
   region: KY
+  exchange: '325436'
+  name: CMPDNILBON
+  full_name: Camp Daniel Boone
+  lata: '466'
+  ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LEXINGTON
+  lat:
+  long:
+- country: US
+  region: KY
   exchange: '325437'
   name: COAL RUN
   full_name: Coal Run
@@ -3092,20 +3092,20 @@ rate_centers:
     distance_km: 7.72
 - country: US
   region: KY
-  exchange: '360678'
-  name: COLDSPRING
-  full_name: Cold Spring
-  lata: '922'
-  ilec_name: CINCINNATI BELL
-  lat:
-  long:
-- country: US
-  region: KY
   exchange: '325441'
   name: COLDIRON
   full_name: Coldiron
   lata: '466'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
+- country: US
+  region: KY
+  exchange: '360678'
+  name: COLDSPRING
+  full_name: Cold Spring
+  lata: '922'
+  ilec_name: CINCINNATI BELL
   lat:
   long:
 - country: US
@@ -3464,18 +3464,18 @@ rate_centers:
   long:
 - country: US
   region: KY
-  exchange: '360683'
-  name: CRESCNT PK
-  full_name: Crescent Park
+  exchange: '360682'
+  name: CRESCETSPG
+  full_name: Crescent Springs
   lata: '922'
   ilec_name: CINCINNATI BELL
   lat:
   long:
 - country: US
   region: KY
-  exchange: '360682'
-  name: CRESCETSPG
-  full_name: Crescent Springs
+  exchange: '360683'
+  name: CRESCNT PK
+  full_name: Crescent Park
   lata: '922'
   ilec_name: CINCINNATI BELL
   lat:
@@ -3632,6 +3632,15 @@ rate_centers:
   long:
 - country: US
   region: KY
+  exchange: '325469'
+  name: CUMBELDFLS
+  full_name: Cumberland Falls
+  lata: '466'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
+- country: US
+  region: KY
   exchange: '068390'
   name: CUMBERLAND
   full_name: Cumberland
@@ -3642,15 +3651,6 @@ rate_centers:
   closest_city:
     name: Cumberland
     distance_km: 0.6
-- country: US
-  region: KY
-  exchange: '325469'
-  name: CUMBELDFLS
-  full_name: Cumberland Falls
-  lata: '466'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
 - country: US
   region: KY
   exchange: '324606'
@@ -4385,6 +4385,33 @@ rate_centers:
   long:
 - country: US
   region: KY
+  exchange: '325519'
+  name: E HICKMAN
+  full_name: East Hickman
+  lata: '466'
+  ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LEXINGTON
+  lat:
+  long:
+- country: US
+  region: KY
+  exchange: '325520'
+  name: E MCDOWELL
+  full_name: East McDowell
+  lata: '466'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
+- country: US
+  region: KY
+  exchange: '325521'
+  name: E PINEVLE
+  full_name: East Pineville
+  lata: '466'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
+- country: US
+  region: KY
   exchange: '324616'
   name: EAGLE
   full_name: Eagle
@@ -4420,45 +4447,6 @@ rate_centers:
   full_name: Earnestville
   lata: '466'
   ilec_name: PEOPLES RURAL TEL. COOP. CORP.
-  lat:
-  long:
-- country: US
-  region: KY
-  exchange: '068510'
-  name: EBERNSTADT
-  full_name: East Bernstadt
-  lata: '466'
-  ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LONDON
-  lat: '37.191799'
-  long: "-84.11912"
-  closest_city:
-    name: East Bernstadt
-    distance_km: 0.17
-- country: US
-  region: KY
-  exchange: '325519'
-  name: E HICKMAN
-  full_name: East Hickman
-  lata: '466'
-  ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LEXINGTON
-  lat:
-  long:
-- country: US
-  region: KY
-  exchange: '325520'
-  name: E MCDOWELL
-  full_name: East McDowell
-  lata: '466'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
-- country: US
-  region: KY
-  exchange: '325521'
-  name: E PINEVLE
-  full_name: East Pineville
-  lata: '466'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
   long:
 - country: US
@@ -4524,6 +4512,18 @@ rate_centers:
   ilec_name: PEOPLES RURAL TEL. COOP. CORP.
   lat:
   long:
+- country: US
+  region: KY
+  exchange: '068510'
+  name: EBERNSTADT
+  full_name: East Bernstadt
+  lata: '466'
+  ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LONDON
+  lat: '37.191799'
+  long: "-84.11912"
+  closest_city:
+    name: East Bernstadt
+    distance_km: 0.17
 - country: US
   region: KY
   exchange: '068520'
@@ -4661,15 +4661,6 @@ rate_centers:
   long:
 - country: US
   region: KY
-  exchange: '325536'
-  name: ELKCHESTER
-  full_name: Elk Chester
-  lata: '466'
-  ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LEXINGTON
-  lat:
-  long:
-- country: US
-  region: KY
   exchange: '324623'
   name: ELK CREEK
   full_name: Elk Creek
@@ -4693,6 +4684,15 @@ rate_centers:
   full_name: Elkatawa
   lata: '466'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
+- country: US
+  region: KY
+  exchange: '325536'
+  name: ELKCHESTER
+  full_name: Elk Chester
+  lata: '466'
+  ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LEXINGTON
   lat:
   long:
 - country: US
@@ -5105,15 +5105,6 @@ rate_centers:
   long:
 - country: US
   region: KY
-  exchange: '325022'
-  name: FALLSROUGH
-  full_name: Falls Of Rough
-  lata: '464'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
-- country: US
-  region: KY
   exchange: '068650'
   name: FALLSBURG
   full_name: Fallsburg
@@ -5124,6 +5115,15 @@ rate_centers:
   closest_city:
     name: Louisa
     distance_km: 9.49
+- country: US
+  region: KY
+  exchange: '325022'
+  name: FALLSROUGH
+  full_name: Falls Of Rough
+  lata: '464'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
 - country: US
   region: KY
   exchange: '068660'
@@ -5426,15 +5426,6 @@ rate_centers:
   long:
 - country: US
   region: KY
-  exchange: '325586'
-  name: FLEMNG NEO
-  full_name: Fleming Neon
-  lata: '466'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
-- country: US
-  region: KY
   exchange: '068760'
   name: FLEMINGSBG
   full_name: Flemingsburg
@@ -5445,6 +5436,15 @@ rate_centers:
   closest_city:
     name: Flemingsburg
     distance_km: 1.08
+- country: US
+  region: KY
+  exchange: '325586'
+  name: FLEMNG NEO
+  full_name: Fleming Neon
+  lata: '466'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
 - country: US
   region: KY
   exchange: '325587'
@@ -5564,29 +5564,11 @@ rate_centers:
   long:
 - country: US
   region: KY
-  exchange: '326547'
-  name: FTCAMPBELL
-  full_name: Fort Campbell
-  lata: '470'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
-- country: US
-  region: KY
   exchange: '324641'
   name: FORT KNOX
   full_name: Fort Knox
   lata: '462'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
-- country: US
-  region: KY
-  exchange: '360698'
-  name: FTMITCHELL
-  full_name: Fort Mitchell
-  lata: '922'
-  ilec_name: CINCINNATI BELL
   lat:
   long:
 - country: US
@@ -5717,15 +5699,6 @@ rate_centers:
     distance_km: 2.35
 - country: US
   region: KY
-  exchange: '324648'
-  name: FRNKLICRDS
-  full_name: Franklin Crossroads
-  lata: '462'
-  ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LEXINGTON
-  lat:
-  long:
-- country: US
-  region: KY
   exchange: '324646'
   name: FRANKLINTN
   full_name: Franklinton
@@ -5834,6 +5807,15 @@ rate_centers:
   long:
 - country: US
   region: KY
+  exchange: '324648'
+  name: FRNKLICRDS
+  full_name: Franklin Crossroads
+  lata: '462'
+  ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LEXINGTON
+  lat:
+  long:
+- country: US
+  region: KY
   exchange: '325607'
   name: FROZEN CRK
   full_name: Frozen Creek
@@ -5848,6 +5830,24 @@ rate_centers:
   full_name: Frys Hill
   lata: '462'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
+- country: US
+  region: KY
+  exchange: '326547'
+  name: FTCAMPBELL
+  full_name: Fort Campbell
+  lata: '470'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
+- country: US
+  region: KY
+  exchange: '360698'
+  name: FTMITCHELL
+  full_name: Fort Mitchell
+  lata: '922'
+  ilec_name: CINCINNATI BELL
   lat:
   long:
 - country: US
@@ -6995,15 +6995,6 @@ rate_centers:
   long:
 - country: US
   region: KY
-  exchange: '324679'
-  name: HARRODSCRK
-  full_name: Harrods Creek
-  lata: '462'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
-- country: US
-  region: KY
   exchange: '069090'
   name: HARRODSBG
   full_name: Harrodsburg
@@ -7014,6 +7005,15 @@ rate_centers:
   closest_city:
     name: Harrodsburg
     distance_km: 0.35
+- country: US
+  region: KY
+  exchange: '324679'
+  name: HARRODSCRK
+  full_name: Harrods Creek
+  lata: '462'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
 - country: US
   region: KY
   exchange: '069100'
@@ -7727,20 +7727,20 @@ rate_centers:
   long:
 - country: US
   region: KY
-  exchange: '324701'
-  name: HOWEVALLEY
-  full_name: Howe Valley
-  lata: '462'
-  ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LEXINGTON
-  lat:
-  long:
-- country: US
-  region: KY
   exchange: '326549'
   name: HOWEL
   full_name: Howel
   lata: '470'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
+- country: US
+  region: KY
+  exchange: '324701'
+  name: HOWEVALLEY
+  full_name: Howe Valley
+  lata: '462'
+  ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LEXINGTON
   lat:
   long:
 - country: US
@@ -7889,19 +7889,19 @@ rate_centers:
   long:
 - country: US
   region: KY
-  exchange: '325716'
-  name: INDIANFLDS
-  full_name: Indian Fields
-  lata: '466'
+  exchange: '324705'
+  name: INDIAN HLS
+  full_name: Indian Hills
+  lata: '462'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
   long:
 - country: US
   region: KY
-  exchange: '324705'
-  name: INDIAN HLS
-  full_name: Indian Hills
-  lata: '462'
+  exchange: '325716'
+  name: INDIANFLDS
+  full_name: Indian Fields
+  lata: '466'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
   long:
@@ -8054,6 +8054,15 @@ rate_centers:
   long:
 - country: US
   region: KY
+  exchange: '325075'
+  name: JACKSNSTOR
+  full_name: Jackson Store
+  lata: '464'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
+- country: US
+  region: KY
   exchange: '069320'
   name: JACKSON
   full_name: Jackson
@@ -8064,15 +8073,6 @@ rate_centers:
   closest_city:
     name: Jackson
     distance_km: 0.54
-- country: US
-  region: KY
-  exchange: '325075'
-  name: JACKSNSTOR
-  full_name: Jackson Store
-  lata: '464'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
 - country: US
   region: KY
   exchange: '324707'
@@ -8771,20 +8771,20 @@ rate_centers:
   long:
 - country: US
   region: KY
-  exchange: '325769'
-  name: LAKEVW HGT
-  full_name: Lakeview Heights
-  lata: '466'
-  ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LEXINGTON
-  lat:
-  long:
-- country: US
-  region: KY
   exchange: '325768'
   name: LAKEVILLE
   full_name: Lakeville
   lata: '466'
   ilec_name: FOOTHILLS RURAL TEL. COOP. CORP.
+  lat:
+  long:
+- country: US
+  region: KY
+  exchange: '325769'
+  name: LAKEVW HGT
+  full_name: Lakeview Heights
+  lata: '466'
+  ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LEXINGTON
   lat:
   long:
 - country: US
@@ -9182,20 +9182,20 @@ rate_centers:
   long:
 - country: US
   region: KY
-  exchange: '324729'
-  name: LICKSKILLT
-  full_name: Lick Skillet
-  lata: '462'
-  ilec_name: WINDSTREAM KENTUCKY WEST, INC.
-  lat:
-  long:
-- country: US
-  region: KY
   exchange: '325794'
   name: LICKBURG
   full_name: Lickburg
   lata: '466'
   ilec_name: FOOTHILLS RURAL TEL. COOP. CORP.
+  lat:
+  long:
+- country: US
+  region: KY
+  exchange: '324729'
+  name: LICKSKILLT
+  full_name: Lick Skillet
+  lata: '462'
+  ilec_name: WINDSTREAM KENTUCKY WEST, INC.
   lat:
   long:
 - country: US
@@ -9245,18 +9245,18 @@ rate_centers:
   long:
 - country: US
   region: KY
-  exchange: '324732'
-  name: LINCOLNRDG
-  full_name: Lincoln Ridge
+  exchange: '324731'
+  name: LINCLNSHIR
+  full_name: Lincolnshire
   lata: '462'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
   long:
 - country: US
   region: KY
-  exchange: '324731'
-  name: LINCLNSHIR
-  full_name: Lincolnshire
+  exchange: '324732'
+  name: LINCOLNRDG
+  full_name: Lincoln Ridge
   lata: '462'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
@@ -9317,15 +9317,6 @@ rate_centers:
   long:
 - country: US
   region: KY
-  exchange: '325821'
-  name: LTLHICKMAN
-  full_name: Little Hickman
-  lata: '466'
-  ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LEXINGTON
-  lat:
-  long:
-- country: US
-  region: KY
   exchange: '069570'
   name: LITTLEROCK
   full_name: Little Rock
@@ -9336,15 +9327,6 @@ rate_centers:
   closest_city:
     name: North Middletown
     distance_km: 8.11
-- country: US
-  region: KY
-  exchange: '325820'
-  name: LTL SANDY
-  full_name: Little Sandy
-  lata: '466'
-  ilec_name: MOUNTAIN RURAL TEL. COOP. CORP., INC.
-  lat:
-  long:
 - country: US
   region: KY
   exchange: '069580'
@@ -9398,20 +9380,20 @@ rate_centers:
   long:
 - country: US
   region: KY
-  exchange: '325098'
-  name: LOCK E
-  full_name: Lock E
-  lata: '464'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
-- country: US
-  region: KY
   exchange: '325807'
   name: LOCK 8
   full_name: Lock No 8
   lata: '466'
   ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LEXINGTON
+  lat:
+  long:
+- country: US
+  region: KY
+  exchange: '325098'
+  name: LOCK E
+  full_name: Lock E
+  lata: '464'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
   long:
 - country: US
@@ -9521,18 +9503,18 @@ rate_centers:
   long:
 - country: US
   region: KY
-  exchange: '324737'
-  name: LONGBRANCH
-  full_name: Long Branch
+  exchange: '324736'
+  name: LONG RIDGE
+  full_name: Long Ridge
   lata: '462'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
   long:
 - country: US
   region: KY
-  exchange: '324736'
-  name: LONG RIDGE
-  full_name: Long Ridge
+  exchange: '324737'
+  name: LONGBRANCH
+  full_name: Long Branch
   lata: '462'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
@@ -9682,6 +9664,24 @@ rate_centers:
   full_name: Loyall
   lata: '466'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
+- country: US
+  region: KY
+  exchange: '325820'
+  name: LTL SANDY
+  full_name: Little Sandy
+  lata: '466'
+  ilec_name: MOUNTAIN RURAL TEL. COOP. CORP., INC.
+  lat:
+  long:
+- country: US
+  region: KY
+  exchange: '325821'
+  name: LTLHICKMAN
+  full_name: Little Hickman
+  lata: '466'
+  ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LEXINGTON
   lat:
   long:
 - country: US
@@ -9887,6 +9887,15 @@ rate_centers:
   long:
 - country: US
   region: KY
+  exchange: '325111'
+  name: MAM CV NTL
+  full_name: Mammoth Cave National Park
+  lata: '464'
+  ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LONDON
+  lat:
+  long:
+- country: US
+  region: KY
   exchange: '069730'
   name: MAMOTHCAVE
   full_name: Mammoth Cave
@@ -9897,15 +9906,6 @@ rate_centers:
   closest_city:
     name: Park City
     distance_km: 10.75
-- country: US
-  region: KY
-  exchange: '325111'
-  name: MAM CV NTL
-  full_name: Mammoth Cave National Park
-  lata: '464'
-  ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LONDON
-  lat:
-  long:
 - country: US
   region: KY
   exchange: '069740'
@@ -10406,27 +10406,9 @@ rate_centers:
   long:
 - country: US
   region: KY
-  exchange: '324752'
-  name: MEADWBK FR
-  full_name: Meadowbrook Farm
-  lata: '462'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
-- country: US
-  region: KY
   exchange: '324750'
   name: MEADOWLAWN
   full_name: Meadowlawn
-  lata: '462'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
-- country: US
-  region: KY
-  exchange: '324751'
-  name: MEADVW EST
-  full_name: Meadowview Estates
   lata: '462'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
@@ -10443,6 +10425,24 @@ rate_centers:
   closest_city:
     name: Cannonsburg
     distance_km: 3.96
+- country: US
+  region: KY
+  exchange: '324751'
+  name: MEADVW EST
+  full_name: Meadowview Estates
+  lata: '462'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
+- country: US
+  region: KY
+  exchange: '324752'
+  name: MEADWBK FR
+  full_name: Meadowbrook Farm
+  lata: '462'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
 - country: US
   region: KY
   exchange: '325868'
@@ -11027,11 +11027,71 @@ rate_centers:
   long:
 - country: US
   region: KY
+  exchange: '069960'
+  name: MOUNT EDEN
+  full_name: Mount Eden
+  lata: '462'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat: '38.058093'
+  long: "-85.149435"
+  closest_city:
+    name: Taylorsville
+    distance_km: 16.27
+- country: US
+  region: KY
+  exchange: '325902'
+  name: MOUNTSALEM
+  full_name: Mount Salem
+  lata: '466'
+  ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LEXINGTON
+  lat:
+  long:
+- country: US
+  region: KY
+  exchange: '070010'
+  name: MOUSIE
+  full_name: Mousie
+  lata: '466'
+  ilec_name: THACKER/GRIGSBY TEL. CO.
+  lat: '37.417583'
+  long: "-82.871627"
+  closest_city:
+    name: Wayland
+    distance_km: 7.35
+- country: US
+  region: KY
+  exchange: '325904'
+  name: MOUTHCARD
+  full_name: Mouthcard
+  lata: '466'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
+- country: US
+  region: KY
+  exchange: '325905'
+  name: MOZELLE
+  full_name: Mozelle
+  lata: '466'
+  ilec_name: LESLIE COUNTY TEL. CO.
+  lat:
+  long:
+- country: US
+  region: KY
   exchange: '324768'
   name: MT AERIAL
   full_name: Mount Aerial
   lata: '462'
   ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LEXINGTON
+  lat:
+  long:
+- country: US
+  region: KY
+  exchange: '326987'
+  name: MT ASH
+  full_name: Mountain Ash
+  lata: '474'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
   long:
 - country: US
@@ -11043,18 +11103,6 @@ rate_centers:
   ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LEXINGTON
   lat:
   long:
-- country: US
-  region: KY
-  exchange: '069960'
-  name: MOUNT EDEN
-  full_name: Mount Eden
-  lata: '462'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat: '38.058093'
-  long: "-85.149435"
-  closest_city:
-    name: Taylorsville
-    distance_km: 16.27
 - country: US
   region: KY
   exchange: '325907'
@@ -11105,15 +11153,6 @@ rate_centers:
   long:
 - country: US
   region: KY
-  exchange: '325902'
-  name: MOUNTSALEM
-  full_name: Mount Salem
-  lata: '466'
-  ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LEXINGTON
-  lat:
-  long:
-- country: US
-  region: KY
   exchange: '325133'
   name: MT SHERMAN
   full_name: Mount Sherman
@@ -11121,18 +11160,6 @@ rate_centers:
   ilec_name: SO CENTRAL RURAL TELECOMM COOPERATIVE, INC.
   lat:
   long:
-- country: US
-  region: KY
-  exchange: '069980'
-  name: MTSTERLING
-  full_name: Mount Sterling
-  lata: '466'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat: '38.058143'
-  long: "-83.942797"
-  closest_city:
-    name: Mount Sterling
-    distance_km: 0.83
 - country: US
   region: KY
   exchange: '069990'
@@ -11147,6 +11174,18 @@ rate_centers:
     distance_km: 1.09
 - country: US
   region: KY
+  exchange: '069980'
+  name: MTSTERLING
+  full_name: Mount Sterling
+  lata: '466'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat: '38.058143'
+  long: "-83.942797"
+  closest_city:
+    name: Mount Sterling
+    distance_km: 0.83
+- country: US
+  region: KY
   exchange: '070000'
   name: MTWASHIGTN
   full_name: Mount Washington
@@ -11157,45 +11196,6 @@ rate_centers:
   closest_city:
     name: Mount Washington
     distance_km: 1.89
-- country: US
-  region: KY
-  exchange: '326987'
-  name: MT ASH
-  full_name: Mountain Ash
-  lata: '474'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
-- country: US
-  region: KY
-  exchange: '070010'
-  name: MOUSIE
-  full_name: Mousie
-  lata: '466'
-  ilec_name: THACKER/GRIGSBY TEL. CO.
-  lat: '37.417583'
-  long: "-82.871627"
-  closest_city:
-    name: Wayland
-    distance_km: 7.35
-- country: US
-  region: KY
-  exchange: '325904'
-  name: MOUTHCARD
-  full_name: Mouthcard
-  lata: '466'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
-- country: US
-  region: KY
-  exchange: '325905'
-  name: MOZELLE
-  full_name: Mozelle
-  lata: '466'
-  ilec_name: LESLIE COUNTY TEL. CO.
-  lat:
-  long:
 - country: US
   region: KY
   exchange: '325913'
@@ -11483,18 +11483,6 @@ rate_centers:
   long:
 - country: US
   region: KY
-  exchange: '070070'
-  name: NEWCONCORD
-  full_name: New Concord
-  lata: '464'
-  ilec_name: WEST KENTUCKY RURAL TEL
-  lat: '36.552149'
-  long: "-88.151137"
-  closest_city:
-    name: Hazel
-    distance_km: 16.4
-- country: US
-  region: KY
   exchange: '070080'
   name: NEW HAVEN
   full_name: New Haven
@@ -11516,18 +11504,6 @@ rate_centers:
   long:
 - country: US
   region: KY
-  exchange: '070090'
-  name: NEWLIBERTY
-  full_name: New Liberty
-  lata: '462'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat: '38.617898'
-  long: "-84.908248"
-  closest_city:
-    name: Sanders
-    distance_km: 5.29
-- country: US
-  region: KY
   exchange: '324779'
   name: NEW MARKET
   full_name: New Market
@@ -11546,6 +11522,18 @@ rate_centers:
   long:
 - country: US
   region: KY
+  exchange: '070070'
+  name: NEWCONCORD
+  full_name: New Concord
+  lata: '464'
+  ilec_name: WEST KENTUCKY RURAL TEL
+  lat: '36.552149'
+  long: "-88.151137"
+  closest_city:
+    name: Hazel
+    distance_km: 16.4
+- country: US
+  region: KY
   exchange: '325932'
   name: NEWFOUNDLD
   full_name: Newfoundland
@@ -11553,6 +11541,18 @@ rate_centers:
   ilec_name: MOUNTAIN RURAL TEL. COOP. CORP., INC.
   lat:
   long:
+- country: US
+  region: KY
+  exchange: '070090'
+  name: NEWLIBERTY
+  full_name: New Liberty
+  lata: '462'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat: '38.617898'
+  long: "-84.908248"
+  closest_city:
+    name: Sanders
+    distance_km: 5.29
 - country: US
   region: KY
   exchange: '325140'
@@ -11621,6 +11621,18 @@ rate_centers:
   long:
 - country: US
   region: KY
+  exchange: '070110'
+  name: NO GARRETT
+  full_name: North Garrett
+  lata: '462'
+  ilec_name: BRANDENBURG TEL. CO.
+  lat: '37.906347'
+  long: "-86.120646"
+  closest_city:
+    name: Ekron
+    distance_km: 5.57
+- country: US
+  region: KY
   exchange: '325938'
   name: NOBLE
   full_name: Noble
@@ -11648,36 +11660,6 @@ rate_centers:
   long:
 - country: US
   region: KY
-  exchange: '324784'
-  name: NORBRN EST
-  full_name: Norbourne Estates
-  lata: '462'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
-- country: US
-  region: KY
-  exchange: '325941'
-  name: NORTH FORK
-  full_name: North Fork
-  lata: '466'
-  ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LEXINGTON
-  lat:
-  long:
-- country: US
-  region: KY
-  exchange: '070110'
-  name: NO GARRETT
-  full_name: North Garrett
-  lata: '462'
-  ilec_name: BRANDENBURG TEL. CO.
-  lat: '37.906347'
-  long: "-86.120646"
-  closest_city:
-    name: Ekron
-    distance_km: 5.57
-- country: US
-  region: KY
   exchange: '070120'
   name: NOMIDDLETN
   full_name: North Middletown
@@ -11695,6 +11677,24 @@ rate_centers:
   full_name: North Pleasureville
   lata: '462'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
+- country: US
+  region: KY
+  exchange: '324784'
+  name: NORBRN EST
+  full_name: Norbourne Estates
+  lata: '462'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
+- country: US
+  region: KY
+  exchange: '325941'
+  name: NORTH FORK
+  full_name: North Fork
+  lata: '466'
+  ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LEXINGTON
   lat:
   long:
 - country: US
@@ -11822,20 +11822,20 @@ rate_centers:
   long:
 - country: US
   region: KY
-  exchange: '325947'
-  name: OILSPRINGS
-  full_name: Oil Springs
-  lata: '466'
-  ilec_name: FOOTHILLS RURAL TEL. COOP. CORP.
-  lat:
-  long:
-- country: US
-  region: KY
   exchange: '325946'
   name: OIL VALLEY
   full_name: Oil Valley
   lata: '466'
   ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LEXINGTON
+  lat:
+  long:
+- country: US
+  region: KY
+  exchange: '325947'
+  name: OILSPRINGS
+  full_name: Oil Springs
+  lata: '466'
+  ilec_name: FOOTHILLS RURAL TEL. COOP. CORP.
   lat:
   long:
 - country: US
@@ -11954,18 +11954,18 @@ rate_centers:
   long:
 - country: US
   region: KY
-  exchange: '324792'
-  name: ORH GRS HL
-  full_name: Orchard Grass Hills
+  exchange: '324791'
+  name: ORELL
+  full_name: Orell
   lata: '462'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
   long:
 - country: US
   region: KY
-  exchange: '324791'
-  name: ORELL
-  full_name: Orell
+  exchange: '324792'
+  name: ORH GRS HL
+  full_name: Orchard Grass Hills
   lata: '462'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
@@ -12197,15 +12197,6 @@ rate_centers:
   long:
 - country: US
   region: KY
-  exchange: '324802'
-  name: PKW VILLAG
-  full_name: Parkway Village
-  lata: '462'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
-- country: US
-  region: KY
   exchange: '325966'
   name: PARNELL
   full_name: Parnell
@@ -12343,15 +12334,6 @@ rate_centers:
   full_name: Pendleton
   lata: '462'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
-- country: US
-  region: KY
-  exchange: '360721'
-  name: PNDLTN CTY
-  full_name: Pendleton County
-  lata: '922'
-  ilec_name: CINCINNATI BELL
   lat:
   long:
 - country: US
@@ -12668,6 +12650,15 @@ rate_centers:
   long:
 - country: US
   region: KY
+  exchange: '324802'
+  name: PKW VILLAG
+  full_name: Parkway Village
+  lata: '462'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
+- country: US
+  region: KY
   exchange: '325998'
   name: PLACE
   full_name: Place
@@ -12695,6 +12686,15 @@ rate_centers:
   long:
 - country: US
   region: KY
+  exchange: '326000'
+  name: PLEASANTVW
+  full_name: Pleasant View
+  lata: '466'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
+- country: US
+  region: KY
   exchange: '070330'
   name: PLEASATRDG
   full_name: Pleasant Ridge
@@ -12707,10 +12707,10 @@ rate_centers:
     distance_km: 0.7
 - country: US
   region: KY
-  exchange: '326000'
-  name: PLEASANTVW
-  full_name: Pleasant View
-  lata: '466'
+  exchange: '324804'
+  name: PLEASUREVL
+  full_name: Pleasureville
+  lata: '462'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
   long:
@@ -12719,15 +12719,6 @@ rate_centers:
   exchange: '324805'
   name: PLSURRDGPK
   full_name: Pleasure Ridge Park
-  lata: '462'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
-- country: US
-  region: KY
-  exchange: '324804'
-  name: PLEASUREVL
-  full_name: Pleasureville
   lata: '462'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
@@ -12743,20 +12734,11 @@ rate_centers:
   long:
 - country: US
   region: KY
-  exchange: '326017'
-  name: PT LEAVELL
-  full_name: Point Leavell
-  lata: '466'
-  ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LEXINGTON
-  lat:
-  long:
-- country: US
-  region: KY
-  exchange: '324809'
-  name: PTPLEASANT
-  full_name: Point Pleasant
-  lata: '462'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  exchange: '360721'
+  name: PNDLTN CTY
+  full_name: Pendleton County
+  lata: '922'
+  ilec_name: CINCINNATI BELL
   lat:
   long:
 - country: US
@@ -12824,15 +12806,6 @@ rate_centers:
   long:
 - country: US
   region: KY
-  exchange: '324806'
-  name: POPULARHIL
-  full_name: Poplar Hills
-  lata: '462'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
-- country: US
-  region: KY
   exchange: '326007'
   name: POPLAR PL
   full_name: Poplar Plains
@@ -12847,6 +12820,15 @@ rate_centers:
   full_name: Poplarville
   lata: '466'
   ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LEXINGTON
+  lat:
+  long:
+- country: US
+  region: KY
+  exchange: '324806'
+  name: POPULARHIL
+  full_name: Poplar Hills
+  lata: '462'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
   long:
 - country: US
@@ -13030,6 +13012,24 @@ rate_centers:
   full_name: Pryse
   lata: '466'
   ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LONDON
+  lat:
+  long:
+- country: US
+  region: KY
+  exchange: '326017'
+  name: PT LEAVELL
+  full_name: Point Leavell
+  lata: '466'
+  ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LEXINGTON
+  lat:
+  long:
+- country: US
+  region: KY
+  exchange: '324809'
+  name: PTPLEASANT
+  full_name: Point Pleasant
+  lata: '462'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
   long:
 - country: US
@@ -13303,15 +13303,6 @@ rate_centers:
   full_name: Revelo
   lata: '466'
   ilec_name: HIGHLAND TEL. COOP, INC.
-  lat:
-  long:
-- country: US
-  region: KY
-  exchange: '325193'
-  name: RYNLDS STA
-  full_name: Reynolds Station
-  lata: '464'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
   long:
 - country: US
@@ -13898,6 +13889,24 @@ rate_centers:
   long:
 - country: US
   region: KY
+  exchange: '325193'
+  name: RYNLDS STA
+  full_name: Reynolds Station
+  lata: '464'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
+- country: US
+  region: KY
+  exchange: '326065'
+  name: SABTN BRCH
+  full_name: Sebastians Branch
+  lata: '466'
+  ilec_name: PEOPLES RURAL TEL. COOP. CORP.
+  lat:
+  long:
+- country: US
+  region: KY
   exchange: '070470'
   name: SACRAMENTO
   full_name: Sacramento
@@ -13920,96 +13929,6 @@ rate_centers:
   closest_city:
     name: Sadieville
     distance_km: 1.37
-- country: US
-  region: KY
-  exchange: '326141'
-  name: STCATHRINE
-  full_name: Saint Catharine
-  lata: '466'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
-- country: US
-  region: KY
-  exchange: '326553'
-  name: ST ELMO
-  full_name: Saint Elmo
-  lata: '470'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
-- country: US
-  region: KY
-  exchange: '324867'
-  name: ST FRANCIS
-  full_name: Saint Francis
-  lata: '462'
-  ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LEXINGTON
-  lat:
-  long:
-- country: US
-  region: KY
-  exchange: '326128'
-  name: ST HELENS
-  full_name: Saint Helens
-  lata: '466'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
-- country: US
-  region: KY
-  exchange: '324868'
-  name: ST JOHN
-  full_name: Saint John
-  lata: '462'
-  ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LEXINGTON
-  lat:
-  long:
-- country: US
-  region: KY
-  exchange: '325222'
-  name: ST JOSEPH
-  full_name: Saint Joseph
-  lata: '464'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
-- country: US
-  region: KY
-  exchange: '324869'
-  name: ST MARY
-  full_name: Saint Mary
-  lata: '462'
-  ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LEXINGTON
-  lat:
-  long:
-- country: US
-  region: KY
-  exchange: '324872'
-  name: STMATTHEWS
-  full_name: Saint Matthews
-  lata: '462'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
-- country: US
-  region: KY
-  exchange: '326129'
-  name: ST PAUL
-  full_name: Saint Paul
-  lata: '466'
-  ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LEXINGTON
-  lat:
-  long:
-- country: US
-  region: KY
-  exchange: '325223'
-  name: ST VINCENT
-  full_name: Saint Vincent
-  lata: '464'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
 - country: US
   region: KY
   exchange: '326067'
@@ -14279,6 +14198,15 @@ rate_centers:
     distance_km: 1.4
 - country: US
   region: KY
+  exchange: '326081'
+  name: SCRANTON
+  full_name: Scranton
+  lata: '466'
+  ilec_name: MOUNTAIN RURAL TEL. COOP. CORP., INC.
+  lat:
+  long:
+- country: US
+  region: KY
   exchange: '070561'
   name: SCTSVL RUL
   full_name: Scottsville Rural
@@ -14289,15 +14217,6 @@ rate_centers:
   closest_city:
     name: Scottsville
     distance_km: 1.4
-- country: US
-  region: KY
-  exchange: '326081'
-  name: SCRANTON
-  full_name: Scranton
-  lata: '466'
-  ilec_name: MOUNTAIN RURAL TEL. COOP. CORP., INC.
-  lat:
-  long:
 - country: US
   region: KY
   exchange: '326082'
@@ -14314,15 +14233,6 @@ rate_centers:
   full_name: Se Ree
   lata: '464'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
-- country: US
-  region: KY
-  exchange: '326065'
-  name: SABTN BRCH
-  full_name: Sebastians Branch
-  lata: '466'
-  ilec_name: PEOPLES RURAL TEL. COOP. CORP.
   lat:
   long:
 - country: US
@@ -14450,6 +14360,15 @@ rate_centers:
   long:
 - country: US
   region: KY
+  exchange: '360726'
+  name: SFTMITCHLL
+  full_name: South Fort Mitchell
+  lata: '922'
+  ilec_name: CINCINNATI BELL
+  lat:
+  long:
+- country: US
+  region: KY
   exchange: '326090'
   name: SHAKERTOWN
   full_name: Shakertown
@@ -14537,18 +14456,18 @@ rate_centers:
   long:
 - country: US
   region: KY
-  exchange: '326098'
-  name: SHELBYCITY
-  full_name: Shelby City
+  exchange: '326097'
+  name: SHELBY GAP
+  full_name: Shelby Gap
   lata: '466'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
   long:
 - country: US
   region: KY
-  exchange: '326097'
-  name: SHELBY GAP
-  full_name: Shelby Gap
+  exchange: '326098'
+  name: SHELBYCITY
+  full_name: Shelby City
   lata: '466'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
@@ -14876,15 +14795,6 @@ rate_centers:
   long:
 - country: US
   region: KY
-  exchange: '325215'
-  name: SMITHMILLS
-  full_name: Smith Mills
-  lata: '464'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
-- country: US
-  region: KY
   exchange: '324851'
   name: SMITHFIELD
   full_name: Smithfield
@@ -14904,6 +14814,15 @@ rate_centers:
   closest_city:
     name: Smithland
     distance_km: 0.43
+- country: US
+  region: KY
+  exchange: '325215'
+  name: SMITHMILLS
+  full_name: Smith Mills
+  lata: '464'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
 - country: US
   region: KY
   exchange: '070670'
@@ -14932,6 +14851,54 @@ rate_centers:
   full_name: Snow
   lata: '466'
   ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LEXINGTON
+  lat:
+  long:
+- country: US
+  region: KY
+  exchange: '326116'
+  name: SO ELKHORN
+  full_name: South Elkhorn
+  lata: '466'
+  ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LEXINGTON
+  lat:
+  long:
+- country: US
+  region: KY
+  exchange: '070700'
+  name: SO HARDIN
+  full_name: South Hardin
+  lata: '462'
+  ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LEXINGTON
+  lat: '37.525855'
+  long: "-85.901554"
+  closest_city:
+    name: Sonora
+    distance_km: 0.9
+- country: US
+  region: KY
+  exchange: '324855'
+  name: SO PARK VW
+  full_name: South Park View
+  lata: '462'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
+- country: US
+  region: KY
+  exchange: '326117'
+  name: SO RIPLEY
+  full_name: South Ripley
+  lata: '466'
+  ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LONDON
+  lat:
+  long:
+- country: US
+  region: KY
+  exchange: '325217'
+  name: SOCAROLLTN
+  full_name: South Carrollton
+  lata: '464'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
   long:
 - country: US
@@ -14993,66 +14960,6 @@ rate_centers:
   long:
 - country: US
   region: KY
-  exchange: '070690'
-  name: SORGHO
-  full_name: Sorgho
-  lata: '464'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat: '37.751579'
-  long: "-87.24813"
-  closest_city:
-    name: Sorgho
-    distance_km: 2.56
-- country: US
-  region: KY
-  exchange: '325217'
-  name: SOCAROLLTN
-  full_name: South Carrollton
-  lata: '464'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
-- country: US
-  region: KY
-  exchange: '326116'
-  name: SO ELKHORN
-  full_name: South Elkhorn
-  lata: '466'
-  ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LEXINGTON
-  lat:
-  long:
-- country: US
-  region: KY
-  exchange: '360726'
-  name: SFTMITCHLL
-  full_name: South Fort Mitchell
-  lata: '922'
-  ilec_name: CINCINNATI BELL
-  lat:
-  long:
-- country: US
-  region: KY
-  exchange: '070700'
-  name: SO HARDIN
-  full_name: South Hardin
-  lata: '462'
-  ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LEXINGTON
-  lat: '37.525855'
-  long: "-85.901554"
-  closest_city:
-    name: Sonora
-    distance_km: 0.9
-- country: US
-  region: KY
-  exchange: '324855'
-  name: SO PARK VW
-  full_name: South Park View
-  lata: '462'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
-- country: US
-  region: KY
   exchange: '324859'
   name: SOPLEASUVL
   full_name: South Pleasureville
@@ -15071,11 +14978,23 @@ rate_centers:
   long:
 - country: US
   region: KY
-  exchange: '326117'
-  name: SO RIPLEY
-  full_name: South Ripley
-  lata: '466'
-  ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LONDON
+  exchange: '070690'
+  name: SORGHO
+  full_name: Sorgho
+  lata: '464'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat: '37.751579'
+  long: "-87.24813"
+  closest_city:
+    name: Sorgho
+    distance_km: 2.56
+- country: US
+  region: KY
+  exchange: '360729'
+  name: SOUTHGATE
+  full_name: Southgate
+  lata: '922'
+  ilec_name: CINCINNATI BELL
   lat:
   long:
 - country: US
@@ -15101,6 +15020,15 @@ rate_centers:
   long:
 - country: US
   region: KY
+  exchange: '324860'
+  name: SOUTHVILLE
+  full_name: Southville
+  lata: '462'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
+- country: US
+  region: KY
   exchange: '070720'
   name: SOWILLIMSN
   full_name: South Williamson
@@ -15111,24 +15039,6 @@ rate_centers:
   closest_city:
     name: South Williamson
     distance_km: 0.98
-- country: US
-  region: KY
-  exchange: '360729'
-  name: SOUTHGATE
-  full_name: Southgate
-  lata: '922'
-  ilec_name: CINCINNATI BELL
-  lat:
-  long:
-- country: US
-  region: KY
-  exchange: '324860'
-  name: SOUTHVILLE
-  full_name: Southville
-  lata: '462'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
 - country: US
   region: KY
   exchange: '324861'
@@ -15194,24 +15104,6 @@ rate_centers:
   long:
 - country: US
   region: KY
-  exchange: '324864'
-  name: SPRINGLICK
-  full_name: Spring Lick
-  lata: '462'
-  ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LONDON
-  lat:
-  long:
-- country: US
-  region: KY
-  exchange: '324865'
-  name: SPRINGMILL
-  full_name: Spring Mill
-  lata: '462'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
-- country: US
-  region: KY
   exchange: '324863'
   name: SPRING VLY
   full_name: Spring Valley
@@ -15251,6 +15143,24 @@ rate_centers:
   long:
 - country: US
   region: KY
+  exchange: '324864'
+  name: SPRINGLICK
+  full_name: Spring Lick
+  lata: '462'
+  ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LONDON
+  lat:
+  long:
+- country: US
+  region: KY
+  exchange: '324865'
+  name: SPRINGMILL
+  full_name: Spring Mill
+  lata: '462'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
+- country: US
+  region: KY
   exchange: '324866'
   name: SPURLINGTN
   full_name: Spurlington
@@ -15270,6 +15180,87 @@ rate_centers:
   closest_city:
     name: St. Charles
     distance_km: 1.01
+- country: US
+  region: KY
+  exchange: '326553'
+  name: ST ELMO
+  full_name: Saint Elmo
+  lata: '470'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
+- country: US
+  region: KY
+  exchange: '324867'
+  name: ST FRANCIS
+  full_name: Saint Francis
+  lata: '462'
+  ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LEXINGTON
+  lat:
+  long:
+- country: US
+  region: KY
+  exchange: '326128'
+  name: ST HELENS
+  full_name: Saint Helens
+  lata: '466'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
+- country: US
+  region: KY
+  exchange: '324868'
+  name: ST JOHN
+  full_name: Saint John
+  lata: '462'
+  ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LEXINGTON
+  lat:
+  long:
+- country: US
+  region: KY
+  exchange: '325222'
+  name: ST JOSEPH
+  full_name: Saint Joseph
+  lata: '464'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
+- country: US
+  region: KY
+  exchange: '324869'
+  name: ST MARY
+  full_name: Saint Mary
+  lata: '462'
+  ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LEXINGTON
+  lat:
+  long:
+- country: US
+  region: KY
+  exchange: '326129'
+  name: ST PAUL
+  full_name: Saint Paul
+  lata: '466'
+  ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LEXINGTON
+  lat:
+  long:
+- country: US
+  region: KY
+  exchange: '325223'
+  name: ST VINCENT
+  full_name: Saint Vincent
+  lata: '464'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
+- country: US
+  region: KY
+  exchange: '326130'
+  name: STA CAMP
+  full_name: Station Camp
+  lata: '466'
+  ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LONDON
+  lat:
+  long:
 - country: US
   region: KY
   exchange: '326131'
@@ -15386,11 +15377,11 @@ rate_centers:
   long:
 - country: US
   region: KY
-  exchange: '326130'
-  name: STA CAMP
-  full_name: Station Camp
+  exchange: '326141'
+  name: STCATHRINE
+  full_name: Saint Catharine
   lata: '466'
-  ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LONDON
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
   long:
 - country: US
@@ -15402,18 +15393,6 @@ rate_centers:
   ilec_name: HIGHLAND TEL. COOP, INC.
   lat:
   long:
-- country: US
-  region: KY
-  exchange: '070800'
-  name: STNSWHLYCY
-  full_name: Stearns-Whitley City
-  lata: '466'
-  ilec_name: HIGHLAND TEL. COOP, INC.
-  lat: '36.698889'
-  long: "-84.477926"
-  closest_city:
-    name: Stearns
-    distance_km: 0.37
 - country: US
   region: KY
   exchange: '326143'
@@ -15498,6 +15477,27 @@ rate_centers:
   closest_city:
     name: Hyden
     distance_km: 7.54
+- country: US
+  region: KY
+  exchange: '324872'
+  name: STMATTHEWS
+  full_name: Saint Matthews
+  lata: '462'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
+- country: US
+  region: KY
+  exchange: '070800'
+  name: STNSWHLYCY
+  full_name: Stearns-Whitley City
+  lata: '466'
+  ilec_name: HIGHLAND TEL. COOP, INC.
+  lat: '36.698889'
+  long: "-84.477926"
+  closest_city:
+    name: Stearns
+    distance_km: 0.37
 - country: US
   region: KY
   exchange: '070820'
@@ -16025,20 +16025,20 @@ rate_centers:
   long:
 - country: US
   region: KY
-  exchange: '326185'
-  name: THREEPOINT
-  full_name: Three Point
-  lata: '466'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
-- country: US
-  region: KY
   exchange: '325232'
   name: THREEFORKS
   full_name: Threeforks
   lata: '464'
   ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LONDON
+  lat:
+  long:
+- country: US
+  region: KY
+  exchange: '326185'
+  name: THREEPOINT
+  full_name: Three Point
+  lata: '466'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
   long:
 - country: US
@@ -16370,20 +16370,20 @@ rate_centers:
   long:
 - country: US
   region: KY
-  exchange: '326211'
-  name: UNIONMILLS
-  full_name: Union Mills
-  lata: '466'
-  ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LEXINGTON
-  lat:
-  long:
-- country: US
-  region: KY
   exchange: '324893'
   name: UNION STAR
   full_name: Union Star
   lata: '462'
   ilec_name: BRANDENBURG TEL. CO.
+  lat:
+  long:
+- country: US
+  region: KY
+  exchange: '326211'
+  name: UNIONMILLS
+  full_name: Union Mills
+  lata: '466'
+  ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LEXINGTON
   lat:
   long:
 - country: US
@@ -16466,10 +16466,10 @@ rate_centers:
   long:
 - country: US
   region: KY
-  exchange: '326216'
-  name: VALLEYHILL
-  full_name: Valley Hill
-  lata: '466'
+  exchange: '324895'
+  name: VALLEY ST
+  full_name: Valley Statn
+  lata: '462'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
   long:
@@ -16484,10 +16484,10 @@ rate_centers:
   long:
 - country: US
   region: KY
-  exchange: '324895'
-  name: VALLEY ST
-  full_name: Valley Statn
-  lata: '462'
+  exchange: '326216'
+  name: VALLEYHILL
+  full_name: Valley Hill
+  lata: '466'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
   long:
@@ -16720,6 +16720,48 @@ rate_centers:
   full_name: Volga
   lata: '466'
   ilec_name: FOOTHILLS RURAL TEL. COOP. CORP.
+  lat:
+  long:
+- country: US
+  region: KY
+  exchange: '071090'
+  name: W LIBERTY
+  full_name: West Liberty
+  lata: '466'
+  ilec_name: MOUNTAIN RURAL TEL. COOP. CORP., INC.
+  lat: '37.918265'
+  long: "-83.251348"
+  closest_city:
+    name: West Liberty
+    distance_km: 1.38
+- country: US
+  region: KY
+  exchange: '071100'
+  name: W LOUISVL
+  full_name: West Louisville
+  lata: '464'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat: '37.698625'
+  long: "-87.283588"
+  closest_city:
+    name: West Louisville
+    distance_km: 0.34
+- country: US
+  region: KY
+  exchange: '325242'
+  name: W PADUCAH
+  full_name: West Paducah
+  lata: '464'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
+- country: US
+  region: KY
+  exchange: '326234'
+  name: W VAN LEAR
+  full_name: West Van Lear
+  lata: '466'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
   long:
 - country: US
@@ -17084,15 +17126,6 @@ rate_centers:
   long:
 - country: US
   region: KY
-  exchange: '324910'
-  name: WESTCLIFTY
-  full_name: West Clifty
-  lata: '462'
-  ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LONDON
-  lat:
-  long:
-- country: US
-  region: KY
   exchange: '326555'
   name: WEST FORK
   full_name: West Fork
@@ -17100,60 +17133,6 @@ rate_centers:
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
   long:
-- country: US
-  region: KY
-  exchange: '326259'
-  name: WESTIRVINE
-  full_name: West Irvine
-  lata: '466'
-  ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LONDON
-  lat:
-  long:
-- country: US
-  region: KY
-  exchange: '071090'
-  name: W LIBERTY
-  full_name: West Liberty
-  lata: '466'
-  ilec_name: MOUNTAIN RURAL TEL. COOP. CORP., INC.
-  lat: '37.918265'
-  long: "-83.251348"
-  closest_city:
-    name: West Liberty
-    distance_km: 1.38
-- country: US
-  region: KY
-  exchange: '071100'
-  name: W LOUISVL
-  full_name: West Louisville
-  lata: '464'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat: '37.698625'
-  long: "-87.283588"
-  closest_city:
-    name: West Louisville
-    distance_km: 0.34
-- country: US
-  region: KY
-  exchange: '325242'
-  name: W PADUCAH
-  full_name: West Paducah
-  lata: '464'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
-- country: US
-  region: KY
-  exchange: '071110'
-  name: WESTPLAINS
-  full_name: West Plains
-  lata: '464'
-  ilec_name: WEST KENTUCKY RURAL TEL
-  lat: '36.841273'
-  long: "-88.531971"
-  closest_city:
-    name: Symsonia
-    distance_km: 8.91
 - country: US
   region: KY
   exchange: '071120'
@@ -17168,15 +17147,6 @@ rate_centers:
     distance_km: 0.71
 - country: US
   region: KY
-  exchange: '326234'
-  name: W VAN LEAR
-  full_name: West Van Lear
-  lata: '466'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
-- country: US
-  region: KY
   exchange: '326258'
   name: WESTBEND
   full_name: Westbend
@@ -17184,6 +17154,36 @@ rate_centers:
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
   long:
+- country: US
+  region: KY
+  exchange: '324910'
+  name: WESTCLIFTY
+  full_name: West Clifty
+  lata: '462'
+  ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LONDON
+  lat:
+  long:
+- country: US
+  region: KY
+  exchange: '326259'
+  name: WESTIRVINE
+  full_name: West Irvine
+  lata: '466'
+  ilec_name: WINDSTREAM KENTUCKY EAST, INC. - LONDON
+  lat:
+  long:
+- country: US
+  region: KY
+  exchange: '071110'
+  name: WESTPLAINS
+  full_name: West Plains
+  lata: '464'
+  ilec_name: WEST KENTUCKY RURAL TEL
+  lat: '36.841273'
+  long: "-88.531971"
+  closest_city:
+    name: Symsonia
+    distance_km: 8.91
 - country: US
   region: KY
   exchange: '324911'
@@ -17282,15 +17282,6 @@ rate_centers:
     distance_km: 12.16
 - country: US
   region: KY
-  exchange: '325251'
-  name: WHITEMILLS
-  full_name: White Mills
-  lata: '464'
-  ilec_name: WEST KENTUCKY RURAL TEL
-  lat:
-  long:
-- country: US
-  region: KY
   exchange: '326265'
   name: WHITE OAK
   full_name: White Oak
@@ -17314,6 +17305,15 @@ rate_centers:
   full_name: Whitehouse
   lata: '466'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
+- country: US
+  region: KY
+  exchange: '325251'
+  name: WHITEMILLS
+  full_name: White Mills
+  lata: '464'
+  ilec_name: WEST KENTUCKY RURAL TEL
   lat:
   long:
 - country: US
@@ -17729,15 +17729,6 @@ rate_centers:
   long:
 - country: US
   region: KY
-  exchange: '324923'
-  name: WRTHNG HLS
-  full_name: Worthington Hills
-  lata: '462'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
-- country: US
-  region: KY
   exchange: '324922'
   name: WORTHVILLE
   full_name: Worthville
@@ -17752,6 +17743,15 @@ rate_centers:
   full_name: Wrigley
   lata: '466'
   ilec_name: MOUNTAIN RURAL TEL. COOP. CORP., INC.
+  lat:
+  long:
+- country: US
+  region: KY
+  exchange: '324923'
+  name: WRTHNG HLS
+  full_name: Worthington Hills
+  lata: '462'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
   long:
 - country: US

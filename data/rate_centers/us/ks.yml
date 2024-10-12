@@ -293,18 +293,6 @@ rate_centers:
     distance_km: 0.52
 - country: US
   region: KS
-  exchange: '06179E'
-  name: ANDALE METRO
-  full_name: Andale Metro
-  lata: '532'
-  ilec_name: SOUTHWESTERN BELL
-  lat: '37.789936'
-  long: "-97.633088"
-  closest_city:
-    name: Andale
-    distance_km: 0.52
-- country: US
-  region: KS
   exchange: '061800'
   name: ANDOVER
   full_name: Andover
@@ -617,6 +605,18 @@ rate_centers:
     distance_km: 0.64
 - country: US
   region: KS
+  exchange: '06179E'
+  name: ANDALE METRO
+  full_name: Andale Metro
+  lata: '532'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '37.789936'
+  long: "-97.633088"
+  closest_city:
+    name: Andale
+    distance_km: 0.52
+- country: US
+  region: KS
   exchange: '333378'
   name: BAILEYVL
   full_name: Baileyville
@@ -695,18 +695,6 @@ rate_centers:
   exchange: '062010'
   name: BASEHOR
   full_name: Basehor
-  lata: '524'
-  ilec_name: SOUTHWESTERN BELL
-  lat: '39.14251'
-  long: "-94.940882"
-  closest_city:
-    name: Basehor
-    distance_km: 1.22
-- country: US
-  region: KS
-  exchange: 06201E
-  name: BASEHOR METRO
-  full_name: Basehor Metro
   lata: '524'
   ilec_name: SOUTHWESTERN BELL
   lat: '39.14251'
@@ -1112,6 +1100,18 @@ rate_centers:
   long:
 - country: US
   region: KS
+  exchange: '062210'
+  name: BLRP-WTVL
+  full_name: Blue Rapids-Waterville
+  lata: '534'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '39.639793'
+  long: "-96.696806"
+  closest_city:
+    name: Blue Rapids
+    distance_km: 5.42
+- country: US
+  region: KS
   exchange: '062200'
   name: BLUE MOUND
   full_name: Blue Mound
@@ -1131,18 +1131,6 @@ rate_centers:
   ilec_name: SOUTHWESTERN BELL
   lat:
   long:
-- country: US
-  region: KS
-  exchange: '062210'
-  name: BLRP-WTVL
-  full_name: Blue Rapids-Waterville
-  lata: '534'
-  ilec_name: SOUTHWESTERN BELL
-  lat: '39.639793'
-  long: "-96.696806"
-  closest_city:
-    name: Blue Rapids
-    distance_km: 5.42
 - country: US
   region: KS
   exchange: '062220'
@@ -1364,18 +1352,6 @@ rate_centers:
     distance_km: 0.19
 - country: US
   region: KS
-  exchange: 06231E
-  name: BUCYRUS METRO
-  full_name: Bucyrus Metro
-  lata: '524'
-  ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
-  lat: '38.723613'
-  long: "-94.716131"
-  closest_city:
-    name: Bucyrus
-    distance_km: 0.19
-- country: US
-  region: KS
   exchange: '062320'
   name: BUFFALO
   full_name: Buffalo
@@ -1557,6 +1533,30 @@ rate_centers:
   ilec_name: SOUTH CENTRAL TEL ASSN INC
   lat:
   long:
+- country: US
+  region: KS
+  exchange: 06201E
+  name: BASEHOR METRO
+  full_name: Basehor Metro
+  lata: '524'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '39.14251'
+  long: "-94.940882"
+  closest_city:
+    name: Basehor
+    distance_km: 1.22
+- country: US
+  region: KS
+  exchange: 06231E
+  name: BUCYRUS METRO
+  full_name: Bucyrus Metro
+  lata: '524'
+  ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
+  lat: '38.723613'
+  long: "-94.716131"
+  closest_city:
+    name: Bucyrus
+    distance_km: 0.19
 - country: US
   region: KS
   exchange: '330744'
@@ -1742,18 +1742,6 @@ rate_centers:
   long:
 - country: US
   region: KS
-  exchange: '062490'
-  name: CEDARPOINT
-  full_name: Cedar Point
-  lata: '532'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF KANSAS COMPANY - KS
-  lat: '38.258114'
-  long: "-96.815132"
-  closest_city:
-    name: Cedar Point
-    distance_km: 0.68
-- country: US
-  region: KS
   exchange: '062500'
   name: CEDAR VALE
   full_name: Cedar Vale
@@ -1764,6 +1752,18 @@ rate_centers:
   closest_city:
     name: Cedar Vale
     distance_km: 0.52
+- country: US
+  region: KS
+  exchange: '062490'
+  name: CEDARPOINT
+  full_name: Cedar Point
+  lata: '532'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF KANSAS COMPANY - KS
+  lat: '38.258114'
+  long: "-96.815132"
+  closest_city:
+    name: Cedar Point
+    distance_km: 0.68
 - country: US
   region: KS
   exchange: '330745'
@@ -1856,18 +1856,6 @@ rate_centers:
   exchange: '062560'
   name: CHENEY
   full_name: Cheney
-  lata: '532'
-  ilec_name: SOUTHWESTERN BELL
-  lat: '37.633588'
-  long: "-97.784934"
-  closest_city:
-    name: Cheney
-    distance_km: 0.5
-- country: US
-  region: KS
-  exchange: 06256E
-  name: CHENEY METRO
-  full_name: Cheney Metro
   lata: '532'
   ilec_name: SOUTHWESTERN BELL
   lat: '37.633588'
@@ -2153,18 +2141,6 @@ rate_centers:
     distance_km: 0.52
 - country: US
   region: KS
-  exchange: '062740'
-  name: COLUMBUS
-  full_name: Columbus
-  lata: '532'
-  ilec_name: COLUMBUS TEL. CO.
-  lat: '37.173434'
-  long: "-94.842807"
-  closest_city:
-    name: Columbus
-    distance_km: 0.23
-- country: US
-  region: KS
   exchange: '062750'
   name: COLUBSRURL
   full_name: Columbus Rural
@@ -2175,6 +2151,18 @@ rate_centers:
   closest_city:
     name: Columbus
     distance_km: 2.57
+- country: US
+  region: KS
+  exchange: '062740'
+  name: COLUMBUS
+  full_name: Columbus
+  lata: '532'
+  ilec_name: COLUMBUS TEL. CO.
+  lat: '37.173434'
+  long: "-94.842807"
+  closest_city:
+    name: Columbus
+    distance_km: 0.23
 - country: US
   region: KS
   exchange: '332982'
@@ -2450,6 +2438,18 @@ rate_centers:
     distance_km: 0.77
 - country: US
   region: KS
+  exchange: 06256E
+  name: CHENEY METRO
+  full_name: Cheney Metro
+  lata: '532'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '37.633588'
+  long: "-97.784934"
+  closest_city:
+    name: Cheney
+    distance_km: 0.5
+- country: US
+  region: KS
   exchange: '062920'
   name: DAMAR
   full_name: Damar
@@ -2474,18 +2474,6 @@ rate_centers:
   exchange: '062930'
   name: DE SOTO
   full_name: De Soto
-  lata: '524'
-  ilec_name: SOUTHWESTERN BELL
-  lat: '38.972976'
-  long: "-94.97616"
-  closest_city:
-    name: De Soto
-    distance_km: 1.9
-- country: US
-  region: KS
-  exchange: '06293E'
-  name: DE SOTO METRO
-  full_name: De Soto Metro
   lata: '524'
   ilec_name: SOUTHWESTERN BELL
   lat: '38.972976'
@@ -2726,18 +2714,6 @@ rate_centers:
     distance_km: 0.04
 - country: US
   region: KS
-  exchange: 06307E
-  name: DOUGLASS METRO
-  full_name: Douglass Metro
-  lata: '532'
-  ilec_name: SOUTHWESTERN BELL
-  lat: '37.516633'
-  long: "-97.010126"
-  closest_city:
-    name: Douglass
-    distance_km: 0.04
-- country: US
-  region: KS
   exchange: '333460'
   name: DOVER
   full_name: Dover
@@ -2840,20 +2816,35 @@ rate_centers:
     distance_km: 0.73
 - country: US
   region: KS
+  exchange: '06293E'
+  name: DE SOTO METRO
+  full_name: De Soto Metro
+  lata: '524'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '38.972976'
+  long: "-94.97616"
+  closest_city:
+    name: De Soto
+    distance_km: 1.9
+- country: US
+  region: KS
+  exchange: 06307E
+  name: DOUGLASS METRO
+  full_name: Douglass Metro
+  lata: '532'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '37.516633'
+  long: "-97.010126"
+  closest_city:
+    name: Douglass
+    distance_km: 0.04
+- country: US
+  region: KS
   exchange: '333013'
   name: EARLTON
   full_name: Earlton
   lata: '532'
   ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
-  lat:
-  long:
-- country: US
-  region: KS
-  exchange: '333030'
-  name: ESTBOROUGH
-  full_name: Eastborough
-  lata: '532'
-  ilec_name: SOUTHWESTERN BELL
   lat:
   long:
 - country: US
@@ -2873,18 +2864,6 @@ rate_centers:
   exchange: '063130'
   name: EDGERTON
   full_name: Edgerton
-  lata: '524'
-  ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
-  lat: '38.765744'
-  long: "-95.019032"
-  closest_city:
-    name: Edgerton
-    distance_km: 4.25
-- country: US
-  region: KS
-  exchange: 06313E
-  name: EDGERTON METRO
-  full_name: Edgerton Metro
   lata: '524'
   ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
   lat: '38.765744'
@@ -2951,18 +2930,6 @@ rate_centers:
   exchange: '063170'
   name: EL DORADO
   full_name: El Dorado
-  lata: '532'
-  ilec_name: SOUTHWESTERN BELL
-  lat: '37.817237'
-  long: "-96.858085"
-  closest_city:
-    name: El Dorado
-    distance_km: 0.5
-- country: US
-  region: KS
-  exchange: 06317E
-  name: EL DORADO METRO
-  full_name: El Dorado Metro
   lata: '532'
   ilec_name: SOUTHWESTERN BELL
   lat: '37.817237'
@@ -3224,6 +3191,15 @@ rate_centers:
     distance_km: 0.42
 - country: US
   region: KS
+  exchange: '333030'
+  name: ESTBOROUGH
+  full_name: Eastborough
+  lata: '532'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: KS
   exchange: '063330'
   name: EUDORA
   full_name: Eudora
@@ -3258,6 +3234,30 @@ rate_centers:
   closest_city:
     name: Everest
     distance_km: 0.31
+- country: US
+  region: KS
+  exchange: 06313E
+  name: EDGERTON METRO
+  full_name: Edgerton Metro
+  lata: '524'
+  ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
+  lat: '38.765744'
+  long: "-95.019032"
+  closest_city:
+    name: Edgerton
+    distance_km: 4.25
+- country: US
+  region: KS
+  exchange: 06317E
+  name: EL DORADO METRO
+  full_name: El Dorado Metro
+  lata: '532'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '37.817237'
+  long: "-96.858085"
+  closest_city:
+    name: El Dorado
+    distance_km: 0.5
 - country: US
   region: KS
   exchange: '333477'
@@ -3416,24 +3416,6 @@ rate_centers:
   long:
 - country: US
   region: KS
-  exchange: '330761'
-  name: FTLEAVEWTH
-  full_name: Fort Leavenworth
-  lata: '524'
-  ilec_name: SOUTHWESTERN BELL
-  lat:
-  long:
-- country: US
-  region: KS
-  exchange: '333485'
-  name: FT RILEY
-  full_name: Fort Riley
-  lata: '534'
-  ilec_name: UNITED TEL. CO. OF KANSAS DBA CENTURYLINK
-  lat:
-  long:
-- country: US
-  region: KS
   exchange: '063430'
   name: FORT SCOTT
   full_name: Fort Scott
@@ -3539,6 +3521,24 @@ rate_centers:
   long:
 - country: US
   region: KS
+  exchange: '333485'
+  name: FT RILEY
+  full_name: Fort Riley
+  lata: '534'
+  ilec_name: UNITED TEL. CO. OF KANSAS DBA CENTURYLINK
+  lat:
+  long:
+- country: US
+  region: KS
+  exchange: '330761'
+  name: FTLEAVEWTH
+  full_name: Fort Leavenworth
+  lata: '524'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: KS
   exchange: '063480'
   name: FULTON
   full_name: Fulton
@@ -3608,18 +3608,6 @@ rate_centers:
     distance_km: 0.46
 - country: US
   region: KS
-  exchange: '063530'
-  name: GARDENCITY
-  full_name: Garden City
-  lata: '532'
-  ilec_name: SOUTHWESTERN BELL
-  lat: '37.974367'
-  long: "-100.872434"
-  closest_city:
-    name: Garden City
-    distance_km: 1.73
-- country: US
-  region: KS
   exchange: '063540'
   name: GARDEN PL
   full_name: Garden Plain
@@ -3632,33 +3620,21 @@ rate_centers:
     distance_km: 0.86
 - country: US
   region: KS
-  exchange: 06354E
-  name: GARDEN PLAIN METRO
-  full_name: Garden Plain Metro
+  exchange: '063530'
+  name: GARDENCITY
+  full_name: Garden City
   lata: '532'
   ilec_name: SOUTHWESTERN BELL
-  lat: '37.657307'
-  long: "-97.686253"
+  lat: '37.974367'
+  long: "-100.872434"
   closest_city:
-    name: Garden Plain
-    distance_km: 0.86
+    name: Garden City
+    distance_km: 1.73
 - country: US
   region: KS
   exchange: '063550'
   name: GARDNER
   full_name: Gardner
-  lata: '524'
-  ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
-  lat: '38.809518'
-  long: "-94.924802"
-  closest_city:
-    name: Gardner
-    distance_km: 0.38
-- country: US
-  region: KS
-  exchange: 06355E
-  name: GARDNER METRO
-  full_name: Gardner Metro
   lata: '524'
   ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
   lat: '38.809518'
@@ -4073,6 +4049,30 @@ rate_centers:
     distance_km: 0.1
 - country: US
   region: KS
+  exchange: 06354E
+  name: GARDEN PLAIN METRO
+  full_name: Garden Plain Metro
+  lata: '532'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '37.657307'
+  long: "-97.686253"
+  closest_city:
+    name: Garden Plain
+    distance_km: 0.86
+- country: US
+  region: KS
+  exchange: 06355E
+  name: GARDNER METRO
+  full_name: Gardner Metro
+  lata: '524'
+  ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
+  lat: '38.809518'
+  long: "-94.924802"
+  closest_city:
+    name: Gardner
+    distance_km: 0.38
+- country: US
+  region: KS
   exchange: '063800'
   name: HADDAM
   full_name: Haddam
@@ -4127,18 +4127,6 @@ rate_centers:
   exchange: '063820'
   name: HALSTEAD
   full_name: Halstead
-  lata: '532'
-  ilec_name: SOUTHWESTERN BELL
-  lat: '38.008758'
-  long: "-97.50555"
-  closest_city:
-    name: Halstead
-    distance_km: 1.07
-- country: US
-  region: KS
-  exchange: '06382E'
-  name: HALSTEAD METRO
-  full_name: Halstead Metro
   lata: '532'
   ilec_name: SOUTHWESTERN BELL
   lat: '38.008758'
@@ -4808,6 +4796,18 @@ rate_centers:
     distance_km: 2.01
 - country: US
   region: KS
+  exchange: '06382E'
+  name: HALSTEAD METRO
+  full_name: Halstead Metro
+  lata: '532'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '38.008758'
+  long: "-97.50555"
+  closest_city:
+    name: Halstead
+    distance_km: 1.07
+- country: US
+  region: KS
   exchange: '333533'
   name: IDANA
   full_name: Idana
@@ -5321,24 +5321,6 @@ rate_centers:
     distance_km: 1.76
 - country: US
   region: KS
-  exchange: '330777'
-  name: LK OF FRST
-  full_name: Lake Of The Forest
-  lata: '524'
-  ilec_name: SOUTHWESTERN BELL
-  lat:
-  long:
-- country: US
-  region: KS
-  exchange: '330778'
-  name: LK QUIVIRA
-  full_name: Lake Quivira
-  lata: '524'
-  ilec_name: SOUTHWESTERN BELL
-  lat:
-  long:
-- country: US
-  region: KS
   exchange: '064500'
   name: LAKIN
   full_name: Lakin
@@ -5372,18 +5354,6 @@ rate_centers:
   exchange: '064510'
   name: LANCASTER
   full_name: Lancaster
-  lata: '524'
-  ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
-  lat: '39.575214'
-  long: "-95.302467"
-  closest_city:
-    name: Lancaster
-    distance_km: 0.48
-- country: US
-  region: KS
-  exchange: 06451E
-  name: LANCASTER METRO
-  full_name: Lancaster Metro
   lata: '524'
   ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
   lat: '39.575214'
@@ -5513,18 +5483,6 @@ rate_centers:
     distance_km: 1.84
 - country: US
   region: KS
-  exchange: '06458E'
-  name: LEAVENWORTH METRO
-  full_name: Leavenworth Metro
-  lata: '524'
-  ilec_name: SOUTHWESTERN BELL
-  lat: '39.309599'
-  long: "-94.913203"
-  closest_city:
-    name: Leavenworth
-    distance_km: 1.84
-- country: US
-  region: KS
   exchange: '330772'
   name: LEAWOOD
   full_name: Leawood
@@ -5615,18 +5573,6 @@ rate_centers:
   exchange: '064640'
   name: LEON
   full_name: Leon
-  lata: '532'
-  ilec_name: SOUTHWESTERN BELL
-  lat: '37.693228'
-  long: "-96.783656"
-  closest_city:
-    name: Leon
-    distance_km: 0.38
-- country: US
-  region: KS
-  exchange: 06464E
-  name: LEON METRO
-  full_name: Leon Metro
   lata: '532'
   ilec_name: SOUTHWESTERN BELL
   lat: '37.693228'
@@ -5825,18 +5771,6 @@ rate_centers:
     distance_km: 0.45
 - country: US
   region: KS
-  exchange: 06476E
-  name: LINWOOD METRO
-  full_name: Linwood Metro
-  lata: '524'
-  ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
-  lat: '39.001509'
-  long: "-95.031046"
-  closest_city:
-    name: Linwood
-    distance_km: 0.45
-- country: US
-  region: KS
   exchange: '064770'
   name: LITTLE RIV
   full_name: Little River
@@ -5847,6 +5781,24 @@ rate_centers:
   closest_city:
     name: Little River
     distance_km: 0.51
+- country: US
+  region: KS
+  exchange: '330777'
+  name: LK OF FRST
+  full_name: Lake Of The Forest
+  lata: '524'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: KS
+  exchange: '330778'
+  name: LK QUIVIRA
+  full_name: Lake Quivira
+  lata: '524'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
 - country: US
   region: KS
   exchange: '064780'
@@ -5870,18 +5822,6 @@ rate_centers:
   long:
 - country: US
   region: KS
-  exchange: '064790'
-  name: LONGISLAND
-  full_name: Long Island
-  lata: '534'
-  ilec_name: RURAL TEL. SERVICE CO., INC. DBA NEX-TECH
-  lat: '39.95213'
-  long: "-99.532254"
-  closest_city:
-    name: Long Island
-    distance_km: 0.68
-- country: US
-  region: KS
   exchange: '064800'
   name: LONGFORD
   full_name: Longford
@@ -5892,6 +5832,18 @@ rate_centers:
   closest_city:
     name: Longford
     distance_km: 0.29
+- country: US
+  region: KS
+  exchange: '064790'
+  name: LONGISLAND
+  full_name: Long Island
+  lata: '534'
+  ilec_name: RURAL TEL. SERVICE CO., INC. DBA NEX-TECH
+  lat: '39.95213'
+  long: "-99.532254"
+  closest_city:
+    name: Long Island
+    distance_km: 0.68
 - country: US
   region: KS
   exchange: '064810'
@@ -6030,6 +5982,54 @@ rate_centers:
   closest_city:
     name: Lyons
     distance_km: 0.48
+- country: US
+  region: KS
+  exchange: 06451E
+  name: LANCASTER METRO
+  full_name: Lancaster Metro
+  lata: '524'
+  ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
+  lat: '39.575214'
+  long: "-95.302467"
+  closest_city:
+    name: Lancaster
+    distance_km: 0.48
+- country: US
+  region: KS
+  exchange: '06458E'
+  name: LEAVENWORTH METRO
+  full_name: Leavenworth Metro
+  lata: '524'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '39.309599'
+  long: "-94.913203"
+  closest_city:
+    name: Leavenworth
+    distance_km: 1.84
+- country: US
+  region: KS
+  exchange: 06464E
+  name: LEON METRO
+  full_name: Leon Metro
+  lata: '532'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '37.693228'
+  long: "-96.783656"
+  closest_city:
+    name: Leon
+    distance_km: 0.38
+- country: US
+  region: KS
+  exchange: 06476E
+  name: LINWOOD METRO
+  full_name: Linwood Metro
+  lata: '524'
+  ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
+  lat: '39.001509'
+  long: "-95.031046"
+  closest_city:
+    name: Linwood
+    distance_km: 0.45
 - country: US
   region: KS
   exchange: '064880'
@@ -6365,15 +6365,6 @@ rate_centers:
   long:
 - country: US
   region: KS
-  exchange: '398701'
-  name: MELROSE
-  full_name: Melrose (Cherokee)
-  lata: '532'
-  ilec_name: CRAW-KAN TEL. COOP.,INC. - KS
-  lat:
-  long:
-- country: US
-  region: KS
   exchange: '065090'
   name: MELROSE
   full_name: Melrose (Johnson)
@@ -6384,6 +6375,15 @@ rate_centers:
   closest_city:
     name: Prairie Village
     distance_km: 3.92
+- country: US
+  region: KS
+  exchange: '398701'
+  name: MELROSE
+  full_name: Melrose (Cherokee)
+  lata: '532'
+  ilec_name: CRAW-KAN TEL. COOP.,INC. - KS
+  lat:
+  long:
 - country: US
   region: KS
   exchange: '065100'
@@ -6572,18 +6572,18 @@ rate_centers:
   long:
 - country: US
   region: KS
-  exchange: '330785'
-  name: MISSIONHLS
-  full_name: Mission Hills
+  exchange: '330784'
+  name: MISSION WD
+  full_name: Mission Woods
   lata: '524'
   ilec_name: SOUTHWESTERN BELL
   lat:
   long:
 - country: US
   region: KS
-  exchange: '330784'
-  name: MISSION WD
-  full_name: Mission Woods
+  exchange: '330785'
+  name: MISSIONHLS
+  full_name: Mission Hills
   lata: '524'
   ilec_name: SOUTHWESTERN BELL
   lat:
@@ -6806,18 +6806,6 @@ rate_centers:
     distance_km: 0.37
 - country: US
   region: KS
-  exchange: '06529E'
-  name: MOUNT HOPE METRO
-  full_name: Mount Hope Metro
-  lata: '532'
-  ilec_name: SOUTHWESTERN BELL
-  lat: '37.8749'
-  long: "-97.665761"
-  closest_city:
-    name: Mount Hope
-    distance_km: 0.37
-- country: US
-  region: KS
   exchange: '065300'
   name: MULBERRY
   full_name: Mulberry
@@ -6897,6 +6885,27 @@ rate_centers:
   closest_city:
     name: Muscotah
     distance_km: 0.53
+- country: US
+  region: KS
+  exchange: '06529E'
+  name: MOUNT HOPE METRO
+  full_name: Mount Hope Metro
+  lata: '532'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '37.8749'
+  long: "-97.665761"
+  closest_city:
+    name: Mount Hope
+    distance_km: 0.37
+- country: US
+  region: KS
+  exchange: '065480'
+  name: N TOPEKA
+  full_name: North Topeka
+  lata: '534'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
 - country: US
   region: KS
   exchange: '065360'
@@ -7058,38 +7067,11 @@ rate_centers:
   long:
 - country: US
   region: KS
-  exchange: '333626'
-  name: NEWCAMBRIA
-  full_name: New Cambria
-  lata: '534'
-  ilec_name: SOUTHWESTERN BELL
-  lat:
-  long:
-- country: US
-  region: KS
-  exchange: '330791'
-  name: NEWCENTURY
-  full_name: New Century
-  lata: '524'
-  ilec_name: SOUTHWESTERN BELL
-  lat:
-  long:
-- country: US
-  region: KS
   exchange: '333192'
   name: NEW GOTTLD
   full_name: New Gottland
   lata: '532'
   ilec_name: HOME TEL. CO., INC.
-  lat:
-  long:
-- country: US
-  region: KS
-  exchange: '330792'
-  name: NEWLNCASTR
-  full_name: New Lancaster
-  lata: '524'
-  ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
   lat:
   long:
 - country: US
@@ -7112,6 +7094,33 @@ rate_centers:
   long:
 - country: US
   region: KS
+  exchange: '333626'
+  name: NEWCAMBRIA
+  full_name: New Cambria
+  lata: '534'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: KS
+  exchange: '330791'
+  name: NEWCENTURY
+  full_name: New Century
+  lata: '524'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: KS
+  exchange: '330792'
+  name: NEWLNCASTR
+  full_name: New Lancaster
+  lata: '524'
+  ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
+  lat:
+  long:
+- country: US
+  region: KS
   exchange: '333627'
   name: NEWMAN
   full_name: Newman
@@ -7124,18 +7133,6 @@ rate_centers:
   exchange: '065440'
   name: NEWTON
   full_name: Newton
-  lata: '532'
-  ilec_name: SOUTHWESTERN BELL
-  lat: '38.051276'
-  long: "-97.34041"
-  closest_city:
-    name: Newton
-    distance_km: 1.66
-- country: US
-  region: KS
-  exchange: 06544E
-  name: NEWTON METRO
-  full_name: Newton Metro
   lata: '532'
   ilec_name: SOUTHWESTERN BELL
   lat: '38.051276'
@@ -7175,16 +7172,13 @@ rate_centers:
   long:
 - country: US
   region: KS
-  exchange: '065460'
-  name: NORCATUR
-  full_name: Norcatur
-  lata: '534'
+  exchange: '333198'
+  name: NO NEWTON
+  full_name: North Newton
+  lata: '532'
   ilec_name: SOUTHWESTERN BELL
-  lat: '39.831927'
-  long: "-100.186546"
-  closest_city:
-    name: Norcatur
-    distance_km: 0.36
+  lat:
+  long:
 - country: US
   region: KS
   exchange: '065470'
@@ -7199,22 +7193,16 @@ rate_centers:
     distance_km: 13.26
 - country: US
   region: KS
-  exchange: '333198'
-  name: NO NEWTON
-  full_name: North Newton
-  lata: '532'
-  ilec_name: SOUTHWESTERN BELL
-  lat:
-  long:
-- country: US
-  region: KS
-  exchange: '065480'
-  name: N TOPEKA
-  full_name: North Topeka
+  exchange: '065460'
+  name: NORCATUR
+  full_name: Norcatur
   lata: '534'
   ilec_name: SOUTHWESTERN BELL
-  lat:
-  long:
+  lat: '39.831927'
+  long: "-100.186546"
+  closest_city:
+    name: Norcatur
+    distance_km: 0.36
 - country: US
   region: KS
   exchange: '333630'
@@ -7260,6 +7248,18 @@ rate_centers:
   closest_city:
     name: Norwich
     distance_km: 0.46
+- country: US
+  region: KS
+  exchange: 06544E
+  name: NEWTON METRO
+  full_name: Newton Metro
+  lata: '532'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '38.051276'
+  long: "-97.34041"
+  closest_city:
+    name: Newton
+    distance_km: 1.66
 - country: US
   region: KS
   exchange: '333632'
@@ -7499,18 +7499,6 @@ rate_centers:
     distance_km: 0.75
 - country: US
   region: KS
-  exchange: 06561E
-  name: OSAWATOMIE METRO
-  full_name: Osawatomie Metro
-  lata: '524'
-  ilec_name: UNITED TEL. CO. OF KANSAS DBA CENTURYLINK
-  lat: '38.499604'
-  long: "-94.947183"
-  closest_city:
-    name: Osawatomie
-    distance_km: 0.75
-- country: US
-  region: KS
   exchange: '065620'
   name: OSBORNE
   full_name: Osborne
@@ -7616,6 +7604,18 @@ rate_centers:
     distance_km: 0.49
 - country: US
   region: KS
+  exchange: 06561E
+  name: OSAWATOMIE METRO
+  full_name: Osawatomie Metro
+  lata: '524'
+  ilec_name: UNITED TEL. CO. OF KANSAS DBA CENTURYLINK
+  lat: '38.499604'
+  long: "-94.947183"
+  closest_city:
+    name: Osawatomie
+    distance_km: 0.75
+- country: US
+  region: KS
   exchange: '333649'
   name: PAGE CITY
   full_name: Page City
@@ -7661,18 +7661,6 @@ rate_centers:
   exchange: '065720'
   name: PAOLA
   full_name: Paola
-  lata: '524'
-  ilec_name: SOUTHWESTERN BELL
-  lat: '38.568866'
-  long: "-94.883938"
-  closest_city:
-    name: Paola
-    distance_km: 2.23
-- country: US
-  region: KS
-  exchange: 06572E
-  name: PAOLA METRO
-  full_name: Paola Metro
   lata: '524'
   ilec_name: SOUTHWESTERN BELL
   lat: '38.568866'
@@ -8145,6 +8133,18 @@ rate_centers:
   closest_city:
     name: Protection
     distance_km: 0.69
+- country: US
+  region: KS
+  exchange: 06572E
+  name: PAOLA METRO
+  full_name: Paola Metro
+  lata: '524'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '38.568866'
+  long: "-94.883938"
+  closest_city:
+    name: Paola
+    distance_km: 2.23
 - country: US
   region: KS
   exchange: '065990'
@@ -8627,6 +8627,18 @@ rate_centers:
     distance_km: 14.39
 - country: US
   region: KS
+  exchange: '066690'
+  name: S TOPEKA
+  full_name: South Topeka
+  lata: '534'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '38.819245'
+  long: "-95.692084"
+  closest_city:
+    name: Carbondale
+    distance_km: 0.1
+- country: US
+  region: KS
   exchange: '066270'
   name: SABETHA
   full_name: Sabetha
@@ -8649,15 +8661,6 @@ rate_centers:
   closest_city:
     name: Strong City
     distance_km: 12.66
-- country: US
-  region: KS
-  exchange: '333716'
-  name: STBENEDICT
-  full_name: Saint Benedict
-  lata: '534'
-  ilec_name: SOUTHWESTERN BELL
-  lat:
-  long:
 - country: US
   region: KS
   exchange: '066290'
@@ -9005,6 +9008,15 @@ rate_centers:
   long:
 - country: US
   region: KS
+  exchange: '333273'
+  name: SILVERDALE
+  full_name: Silverdale
+  lata: '532'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: KS
   exchange: '066450'
   name: SILVERLAKE
   full_name: Silver Lake
@@ -9015,15 +9027,6 @@ rate_centers:
   closest_city:
     name: Silver Lake
     distance_km: 0.42
-- country: US
-  region: KS
-  exchange: '333273'
-  name: SILVERDALE
-  full_name: Silverdale
-  lata: '532'
-  ilec_name: SOUTHWESTERN BELL
-  lat:
-  long:
 - country: US
   region: KS
   exchange: '066460'
@@ -9068,6 +9071,135 @@ rate_centers:
   long:
 - country: US
   region: KS
+  exchange: '066550'
+  name: SO CHESTER
+  full_name: South Chester
+  lata: '958'
+  ilec_name: GREAT PLAINS COMMUNICATIONS, INC.
+  lat: '39.991197'
+  long: "-97.619451"
+  closest_city:
+    name: Munden
+    distance_km: 11.14
+- country: US
+  region: KS
+  exchange: '066560'
+  name: SO DANBURY
+  full_name: South Danbury
+  lata: '646'
+  ilec_name: HARTMAN TEL. EXCH., INC.
+  lat: '39.989489'
+  long: "-100.398597"
+  closest_city:
+    name: Oberlin
+    distance_km: 21.68
+- country: US
+  region: KS
+  exchange: '066570'
+  name: SO DU BOIS
+  full_name: South Du Bois
+  lata: '958'
+  ilec_name: WINDSTREAM NEBRASKA, INC.
+  lat: '39.990421'
+  long: "-96.053054"
+  closest_city:
+    name: Bern
+    distance_km: 7.69
+- country: US
+  region: KS
+  exchange: '066590'
+  name: SO HAIGLER
+  full_name: South Haigler
+  lata: '646'
+  ilec_name: HARTMAN TEL. EXCH., INC.
+  lat: '39.99285'
+  long: "-101.935519"
+  closest_city:
+    name: St. Francis
+    distance_km: 27.15
+- country: US
+  region: KS
+  exchange: '333275'
+  name: SO HUTCHSN
+  full_name: South Hutchinson
+  lata: '532'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: KS
+  exchange: '066620'
+  name: SO LIBERTY
+  full_name: South Liberty
+  lata: '958'
+  ilec_name: WINDSTREAM NEBRASKA, INC.
+  lat: '39.992839'
+  long: "-96.484884"
+  closest_city:
+    name: Oketo
+    distance_km: 10.26
+- country: US
+  region: KS
+  exchange: '066630'
+  name: SO NAPONEE
+  full_name: South Naponee
+  lata: '646'
+  ilec_name: CITIZENS TELECOM OF NE LLC DBA FRONTIER COM OF NE
+  lat: '39.993019'
+  long: "-99.1427"
+  closest_city:
+    name: Woodruff
+    distance_km: 24.62
+- country: US
+  region: KS
+  exchange: '066510'
+  name: SOBARNESTN
+  full_name: South Barneston
+  lata: '958'
+  ilec_name: WINDSTREAM NEBRASKA, INC.
+  lat: '39.991606'
+  long: "-96.575932"
+  closest_city:
+    name: Oketo
+    distance_km: 3.72
+- country: US
+  region: KS
+  exchange: '066520'
+  name: SOBENKELMN
+  full_name: South Benkelman
+  lata: '646'
+  ilec_name: BENKELMAN TEL. CO., INC.
+  lat: '39.993406'
+  long: "-101.530967"
+  closest_city:
+    name: McDonald
+    distance_km: 26.95
+- country: US
+  region: KS
+  exchange: '066530'
+  name: SOBLOOMITN
+  full_name: South Bloomington
+  lata: '646'
+  ilec_name: CITIZENS TELECOM OF NE LLC DBA FRONTIER COM OF NE
+  lat: '39.993015'
+  long: "-99.040547"
+  closest_city:
+    name: Kensington
+    distance_km: 25.17
+- country: US
+  region: KS
+  exchange: '066580'
+  name: SOFRANKLIN
+  full_name: South Franklin
+  lata: '646'
+  ilec_name: CITIZENS TELECOM OF NE LLC DBA FRONTIER COM OF NE
+  lat: '39.991855'
+  long: "-98.951692"
+  closest_city:
+    name: Athol
+    distance_km: 25.23
+- country: US
+  region: KS
   exchange: '066480'
   name: SOLDIER
   full_name: Soldier
@@ -9110,6 +9242,42 @@ rate_centers:
   long:
 - country: US
   region: KS
+  exchange: '066650'
+  name: SOPAWNEECY
+  full_name: South Pawnee City
+  lata: '958'
+  ilec_name: WINDSTREAM NEBRASKA, INC.
+  lat: '39.99306'
+  long: "-96.155148"
+  closest_city:
+    name: Saint Benedict
+    distance_km: 12.01
+- country: US
+  region: KS
+  exchange: '066660'
+  name: SOREDCLOUD
+  full_name: South Red Cloud
+  lata: '958'
+  ilec_name: GREAT PLAINS COMMUNICATIONS, INC.
+  lat: '39.989992'
+  long: "-98.524208"
+  closest_city:
+    name: Lebanon
+    distance_km: 20.2
+- country: US
+  region: KS
+  exchange: '066680'
+  name: SOSUPERIOR
+  full_name: South Superior
+  lata: '958'
+  ilec_name: WINDSTREAM NEBRASKA, INC.
+  lat: '39.992798'
+  long: "-98.067962"
+  closest_city:
+    name: Webber
+    distance_km: 7.07
+- country: US
+  region: KS
   exchange: '066500'
   name: SOUTH ALMA
   full_name: South Alma
@@ -9122,42 +9290,6 @@ rate_centers:
     distance_km: 6.09
 - country: US
   region: KS
-  exchange: '066510'
-  name: SOBARNESTN
-  full_name: South Barneston
-  lata: '958'
-  ilec_name: WINDSTREAM NEBRASKA, INC.
-  lat: '39.991606'
-  long: "-96.575932"
-  closest_city:
-    name: Oketo
-    distance_km: 3.72
-- country: US
-  region: KS
-  exchange: '066520'
-  name: SOBENKELMN
-  full_name: South Benkelman
-  lata: '646'
-  ilec_name: BENKELMAN TEL. CO., INC.
-  lat: '39.993406'
-  long: "-101.530967"
-  closest_city:
-    name: McDonald
-    distance_km: 26.95
-- country: US
-  region: KS
-  exchange: '066530'
-  name: SOBLOOMITN
-  full_name: South Bloomington
-  lata: '646'
-  ilec_name: CITIZENS TELECOM OF NE LLC DBA FRONTIER COM OF NE
-  lat: '39.993015'
-  long: "-99.040547"
-  closest_city:
-    name: Kensington
-    distance_km: 25.17
-- country: US
-  region: KS
   exchange: '066540'
   name: SOUTHBYRON
   full_name: South Byron
@@ -9168,66 +9300,6 @@ rate_centers:
   closest_city:
     name: Republic
     distance_km: 8.96
-- country: US
-  region: KS
-  exchange: '066550'
-  name: SO CHESTER
-  full_name: South Chester
-  lata: '958'
-  ilec_name: GREAT PLAINS COMMUNICATIONS, INC.
-  lat: '39.991197'
-  long: "-97.619451"
-  closest_city:
-    name: Munden
-    distance_km: 11.14
-- country: US
-  region: KS
-  exchange: '066560'
-  name: SO DANBURY
-  full_name: South Danbury
-  lata: '646'
-  ilec_name: HARTMAN TEL. EXCH., INC.
-  lat: '39.989489'
-  long: "-100.398597"
-  closest_city:
-    name: Oberlin
-    distance_km: 21.68
-- country: US
-  region: KS
-  exchange: '066570'
-  name: SO DU BOIS
-  full_name: South Du Bois
-  lata: '958'
-  ilec_name: WINDSTREAM NEBRASKA, INC.
-  lat: '39.990421'
-  long: "-96.053054"
-  closest_city:
-    name: Bern
-    distance_km: 7.69
-- country: US
-  region: KS
-  exchange: '066580'
-  name: SOFRANKLIN
-  full_name: South Franklin
-  lata: '646'
-  ilec_name: CITIZENS TELECOM OF NE LLC DBA FRONTIER COM OF NE
-  lat: '39.991855'
-  long: "-98.951692"
-  closest_city:
-    name: Athol
-    distance_km: 25.23
-- country: US
-  region: KS
-  exchange: '066590'
-  name: SO HAIGLER
-  full_name: South Haigler
-  lata: '646'
-  ilec_name: HARTMAN TEL. EXCH., INC.
-  lat: '39.99285'
-  long: "-101.935519"
-  closest_city:
-    name: St. Francis
-    distance_km: 27.15
 - country: US
   region: KS
   exchange: '066600'
@@ -9254,27 +9326,6 @@ rate_centers:
     distance_km: 0.28
 - country: US
   region: KS
-  exchange: '333275'
-  name: SO HUTCHSN
-  full_name: South Hutchinson
-  lata: '532'
-  ilec_name: SOUTHWESTERN BELL
-  lat:
-  long:
-- country: US
-  region: KS
-  exchange: '066620'
-  name: SO LIBERTY
-  full_name: South Liberty
-  lata: '958'
-  ilec_name: WINDSTREAM NEBRASKA, INC.
-  lat: '39.992839'
-  long: "-96.484884"
-  closest_city:
-    name: Oketo
-    distance_km: 10.26
-- country: US
-  region: KS
   exchange: '333277'
   name: SOUTHMOUND
   full_name: South Mound
@@ -9282,18 +9333,6 @@ rate_centers:
   ilec_name: CRAW-KAN TEL. COOP.,INC. - KS
   lat:
   long:
-- country: US
-  region: KS
-  exchange: '066630'
-  name: SO NAPONEE
-  full_name: South Naponee
-  lata: '646'
-  ilec_name: CITIZENS TELECOM OF NE LLC DBA FRONTIER COM OF NE
-  lat: '39.993019'
-  long: "-99.1427"
-  closest_city:
-    name: Woodruff
-    distance_km: 24.62
 - country: US
   region: KS
   exchange: '066640'
@@ -9306,66 +9345,6 @@ rate_centers:
   closest_city:
     name: Bremen
     distance_km: 10.69
-- country: US
-  region: KS
-  exchange: '066650'
-  name: SOPAWNEECY
-  full_name: South Pawnee City
-  lata: '958'
-  ilec_name: WINDSTREAM NEBRASKA, INC.
-  lat: '39.99306'
-  long: "-96.155148"
-  closest_city:
-    name: Saint Benedict
-    distance_km: 12.01
-- country: US
-  region: KS
-  exchange: '066660'
-  name: SOREDCLOUD
-  full_name: South Red Cloud
-  lata: '958'
-  ilec_name: GREAT PLAINS COMMUNICATIONS, INC.
-  lat: '39.989992'
-  long: "-98.524208"
-  closest_city:
-    name: Lebanon
-    distance_km: 20.2
-- country: US
-  region: KS
-  exchange: '066670'
-  name: SRPUBLCNCY
-  full_name: South Republican City
-  lata: '646'
-  ilec_name: CITIZENS TELECOM OF NE LLC DBA FRONTIER COM OF NE
-  lat: '39.991831'
-  long: "-99.258147"
-  closest_city:
-    name: Woodruff
-    distance_km: 14.78
-- country: US
-  region: KS
-  exchange: '066680'
-  name: SOSUPERIOR
-  full_name: South Superior
-  lata: '958'
-  ilec_name: WINDSTREAM NEBRASKA, INC.
-  lat: '39.992798'
-  long: "-98.067962"
-  closest_city:
-    name: Webber
-    distance_km: 7.07
-- country: US
-  region: KS
-  exchange: '066690'
-  name: S TOPEKA
-  full_name: South Topeka
-  lata: '534'
-  ilec_name: SOUTHWESTERN BELL
-  lat: '38.819245'
-  long: "-95.692084"
-  closest_city:
-    name: Carbondale
-    distance_km: 0.1
 - country: US
   region: KS
   exchange: '066700'
@@ -9431,18 +9410,6 @@ rate_centers:
     distance_km: 0.78
 - country: US
   region: KS
-  exchange: 06672E
-  name: SPRING HILL METRO
-  full_name: Spring Hill Metro
-  lata: '524'
-  ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
-  lat: '38.749905'
-  long: "-94.823175"
-  closest_city:
-    name: Spring Hill
-    distance_km: 0.78
-- country: US
-  region: KS
   exchange: '333280'
   name: SPRINGVALE
   full_name: Springvale
@@ -9450,6 +9417,18 @@ rate_centers:
   ilec_name: HAVILAND TEL. CO., INC.
   lat:
   long:
+- country: US
+  region: KS
+  exchange: '066670'
+  name: SRPUBLCNCY
+  full_name: South Republican City
+  lata: '646'
+  ilec_name: CITIZENS TELECOM OF NE LLC DBA FRONTIER COM OF NE
+  lat: '39.991831'
+  long: "-99.258147"
+  closest_city:
+    name: Woodruff
+    distance_km: 14.78
 - country: US
   region: KS
   exchange: '066730'
@@ -9541,6 +9520,15 @@ rate_centers:
   full_name: Stark
   lata: '532'
   ilec_name: CRAW-KAN TEL. COOP.,INC. - KS
+  lat:
+  long:
+- country: US
+  region: KS
+  exchange: '333716'
+  name: STBENEDICT
+  full_name: Saint Benedict
+  lata: '534'
+  ilec_name: SOUTHWESTERN BELL
   lat:
   long:
 - country: US
@@ -9722,6 +9710,18 @@ rate_centers:
     distance_km: 3.41
 - country: US
   region: KS
+  exchange: 06672E
+  name: SPRING HILL METRO
+  full_name: Spring Hill Metro
+  lata: '524'
+  ilec_name: UNITED TEL OF EASTERN KANSAS DBA CENTURYLINK
+  lat: '38.749905'
+  long: "-94.823175"
+  closest_city:
+    name: Spring Hill
+    distance_km: 0.78
+- country: US
+  region: KS
   exchange: '333723'
   name: TALMAGE
   full_name: Talmage
@@ -9821,18 +9821,6 @@ rate_centers:
     distance_km: 0.03
 - country: US
   region: KS
-  exchange: '06693E'
-  name: TONGANOXIE METRO
-  full_name: Tonganoxie Metro
-  lata: '524'
-  ilec_name: SOUTHWESTERN BELL
-  lat: '39.109015'
-  long: "-95.08127"
-  closest_city:
-    name: Tonganoxie
-    distance_km: 0.03
-- country: US
-  region: KS
   exchange: '066940'
   name: TOPEKA
   full_name: Topeka
@@ -9872,18 +9860,6 @@ rate_centers:
   exchange: '066970'
   name: TOWANDA
   full_name: Towanda
-  lata: '532'
-  ilec_name: SOUTHWESTERN BELL
-  lat: '37.801191'
-  long: "-97.00995"
-  closest_city:
-    name: Towanda
-    distance_km: 1.36
-- country: US
-  region: KS
-  exchange: '06697E'
-  name: TOWANDA METRO
-  full_name: Towanda Metro
   lata: '532'
   ilec_name: SOUTHWESTERN BELL
   lat: '37.801191'
@@ -9987,6 +9963,30 @@ rate_centers:
   closest_city:
     name: Tyro
     distance_km: 0.77
+- country: US
+  region: KS
+  exchange: '06693E'
+  name: TONGANOXIE METRO
+  full_name: Tonganoxie Metro
+  lata: '524'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '39.109015'
+  long: "-95.08127"
+  closest_city:
+    name: Tonganoxie
+    distance_km: 0.03
+- country: US
+  region: KS
+  exchange: '06697E'
+  name: TOWANDA METRO
+  full_name: Towanda Metro
+  lata: '532'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '37.801191'
+  long: "-97.00995"
+  closest_city:
+    name: Towanda
+    distance_km: 1.36
 - country: US
   region: KS
   exchange: '067030'
@@ -10202,16 +10202,28 @@ rate_centers:
   long:
 - country: US
   region: KS
-  exchange: '067110'
-  name: WAKEENEY
-  full_name: WaKeeney
-  lata: '534'
-  ilec_name: RURAL TEL. SERVICE CO., INC. DBA NEX-TECH
-  lat: '39.026338'
-  long: "-99.882023"
+  exchange: '067300'
+  name: W MINERAL
+  full_name: West Mineral
+  lata: '532'
+  ilec_name: CRAW-KAN TEL. COOP.,INC. - KS
+  lat: '37.285301'
+  long: "-94.933136"
   closest_city:
-    name: WaKeeney
-    distance_km: 0.33
+    name: West Mineral
+    distance_km: 0.58
+- country: US
+  region: KS
+  exchange: '067310'
+  name: W TOPEKA
+  full_name: West Topeka
+  lata: '534'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '38.964216'
+  long: "-95.965522"
+  closest_city:
+    name: Auburn
+    distance_km: 14.39
 - country: US
   region: KS
   exchange: '333746'
@@ -10248,6 +10260,18 @@ rate_centers:
   ilec_name: SOUTHWESTERN BELL
   lat:
   long:
+- country: US
+  region: KS
+  exchange: '067110'
+  name: WAKEENEY
+  full_name: WaKeeney
+  lata: '534'
+  ilec_name: RURAL TEL. SERVICE CO., INC. DBA NEX-TECH
+  lat: '39.026338'
+  long: "-99.882023"
+  closest_city:
+    name: WaKeeney
+    distance_km: 0.33
 - country: US
   region: KS
   exchange: '067120'
@@ -10424,6 +10448,18 @@ rate_centers:
   long:
 - country: US
   region: KS
+  exchange: '067270'
+  name: WCLEVELAND
+  full_name: West Cleveland
+  lata: '524'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF MISSOURI COMPANY
+  lat: '38.684481'
+  long: "-94.616193"
+  closest_city:
+    name: Louisburg
+    distance_km: 8.89
+- country: US
+  region: KS
   exchange: '067220'
   name: WEBBER
   full_name: Webber
@@ -10511,54 +10547,6 @@ rate_centers:
     distance_km: 0.36
 - country: US
   region: KS
-  exchange: '067270'
-  name: WCLEVELAND
-  full_name: West Cleveland
-  lata: '524'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF MISSOURI COMPANY
-  lat: '38.684481'
-  long: "-94.616193"
-  closest_city:
-    name: Louisburg
-    distance_km: 8.89
-- country: US
-  region: KS
-  exchange: 06727E
-  name: WEST CLEVELAND METRO
-  full_name: West Cleveland Metro
-  lata: '524'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF MISSOURI COMPANY
-  lat: '38.684481'
-  long: "-94.616193"
-  closest_city:
-    name: Louisburg
-    distance_km: 8.89
-- country: US
-  region: KS
-  exchange: '067280'
-  name: WESTDREXEL
-  full_name: West Drexel
-  lata: '524'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF MISSOURI COMPANY
-  lat: '38.485188'
-  long: "-94.623748"
-  closest_city:
-    name: Linn Valley
-    distance_km: 14.39
-- country: US
-  region: KS
-  exchange: '06728E'
-  name: WEST DREXEL METRO
-  full_name: West Drexel Metro
-  lata: '524'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF MISSOURI COMPANY
-  lat: '38.485188'
-  long: "-94.623748"
-  closest_city:
-    name: Linn Valley
-    distance_km: 14.39
-- country: US
-  region: KS
   exchange: '067290'
   name: WEST HUME
   full_name: West Hume
@@ -10571,27 +10559,15 @@ rate_centers:
     distance_km: 6.86
 - country: US
   region: KS
-  exchange: '067300'
-  name: W MINERAL
-  full_name: West Mineral
-  lata: '532'
-  ilec_name: CRAW-KAN TEL. COOP.,INC. - KS
-  lat: '37.285301'
-  long: "-94.933136"
+  exchange: '067280'
+  name: WESTDREXEL
+  full_name: West Drexel
+  lata: '524'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF MISSOURI COMPANY
+  lat: '38.485188'
+  long: "-94.623748"
   closest_city:
-    name: West Mineral
-    distance_km: 0.58
-- country: US
-  region: KS
-  exchange: '067310'
-  name: W TOPEKA
-  full_name: West Topeka
-  lata: '534'
-  ilec_name: SOUTHWESTERN BELL
-  lat: '38.964216'
-  long: "-95.965522"
-  closest_city:
-    name: Auburn
+    name: Linn Valley
     distance_km: 14.39
 - country: US
   region: KS
@@ -10628,18 +10604,18 @@ rate_centers:
     distance_km: 0.32
 - country: US
   region: KS
-  exchange: '330825'
-  name: WESTWOOD
-  full_name: Westwood
+  exchange: '330824'
+  name: WESTWD HLS
+  full_name: Westwood Hills
   lata: '524'
   ilec_name: SOUTHWESTERN BELL
   lat:
   long:
 - country: US
   region: KS
-  exchange: '330824'
-  name: WESTWD HLS
-  full_name: Westwood Hills
+  exchange: '330825'
+  name: WESTWOOD
+  full_name: Westwood
   lata: '524'
   ilec_name: SOUTHWESTERN BELL
   lat:
@@ -10997,6 +10973,30 @@ rate_centers:
   long:
 - country: US
   region: KS
+  exchange: 06727E
+  name: WEST CLEVELAND METRO
+  full_name: West Cleveland Metro
+  lata: '524'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF MISSOURI COMPANY
+  lat: '38.684481'
+  long: "-94.616193"
+  closest_city:
+    name: Louisburg
+    distance_km: 8.89
+- country: US
+  region: KS
+  exchange: '06728E'
+  name: WEST DREXEL METRO
+  full_name: West Drexel Metro
+  lata: '524'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF MISSOURI COMPANY
+  lat: '38.485188'
+  long: "-94.623748"
+  closest_city:
+    name: Linn Valley
+    distance_km: 14.39
+- country: US
+  region: KS
   exchange: '330829'
   name: XAVIER
   full_name: Xavier
@@ -11049,7 +11049,7 @@ rate_centers:
   name: ZENDA
   full_name: Zenda
   lata: '532'
-  ilec_name: ZENDA TEL. CO., INC.
+  ilec_name: 'ZENDA TEL. CO., INC.                                      '
   lat: '37.450896'
   long: "-98.283001"
   closest_city:

@@ -725,6 +725,15 @@ rate_centers:
     distance_km: 0.17
 - country: US
   region: MT
+  exchange: '341259'
+  name: CHCOHOTSPG
+  full_name: Chico Hot Springs
+  lata: '650'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: MT
   exchange: '106150'
   name: CHESTER
   full_name: Chester
@@ -735,15 +744,6 @@ rate_centers:
   closest_city:
     name: Chester
     distance_km: 0.48
-- country: US
-  region: MT
-  exchange: '341259'
-  name: CHCOHOTSPG
-  full_name: Chico Hot Springs
-  lata: '650'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
 - country: US
   region: MT
   exchange: '341006'
@@ -1265,18 +1265,6 @@ rate_centers:
     distance_km: 22.6
 - country: US
   region: MT
-  exchange: '106450'
-  name: EGLACIERPK
-  full_name: East Glacier Park
-  lata: '648'
-  ilec_name: QWEST CORPORATION
-  lat: '48.44932'
-  long: "-113.210488"
-  closest_city:
-    name: East Glacier Park Village
-    distance_km: 1.03
-- country: US
-  region: MT
   exchange: '106873'
   name: EASTHELENA
   full_name: East Helena
@@ -1293,6 +1281,18 @@ rate_centers:
   ilec_name: QWEST CORPORATION
   lat:
   long:
+- country: US
+  region: MT
+  exchange: '106450'
+  name: EGLACIERPK
+  full_name: East Glacier Park
+  lata: '648'
+  ilec_name: QWEST CORPORATION
+  lat: '48.44932'
+  long: "-113.210488"
+  closest_city:
+    name: East Glacier Park Village
+    distance_km: 1.03
 - country: US
   region: MT
   exchange: '106460'
@@ -1595,27 +1595,6 @@ rate_centers:
     distance_km: 1.78
 - country: US
   region: MT
-  exchange: '106590'
-  name: FORTBENTON
-  full_name: Fort Benton
-  lata: '648'
-  ilec_name: TRIANGLE TEL. COOP. ASSN., INC.
-  lat: '47.823224'
-  long: "-110.664871"
-  closest_city:
-    name: Fort Benton
-    distance_km: 0.95
-- country: US
-  region: MT
-  exchange: '341060'
-  name: FTHARRISON
-  full_name: Fort Harrison
-  lata: '648'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: MT
   exchange: '106600'
   name: FORT PECK
   full_name: Fort Peck
@@ -1650,6 +1629,18 @@ rate_centers:
   closest_city:
     name: Fort Smith
     distance_km: 1.21
+- country: US
+  region: MT
+  exchange: '106590'
+  name: FORTBENTON
+  full_name: Fort Benton
+  lata: '648'
+  ilec_name: TRIANGLE TEL. COOP. ASSN., INC.
+  lat: '47.823224'
+  long: "-110.664871"
+  closest_city:
+    name: Fort Benton
+    distance_km: 0.95
 - country: US
   region: MT
   exchange: '362716'
@@ -1739,20 +1730,20 @@ rate_centers:
     distance_km: 0.7
 - country: US
   region: MT
+  exchange: '341060'
+  name: FTHARRISON
+  full_name: Fort Harrison
+  lata: '648'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: MT
   exchange: '341061'
   name: GALATA
   full_name: Galata
   lata: '648'
   ilec_name: NORTHERN TEL. COOP., INC.
-  lat:
-  long:
-- country: US
-  region: MT
-  exchange: '341062'
-  name: GALEN
-  full_name: Galen
-  lata: '648'
-  ilec_name: QWEST CORPORATION
   lat:
   long:
 - country: US
@@ -1767,6 +1758,15 @@ rate_centers:
   closest_city:
     name: Gallatin Gateway
     distance_km: 0.4
+- country: US
+  region: MT
+  exchange: '341062'
+  name: GALEN
+  full_name: Galen
+  lata: '648'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
 - country: US
   region: MT
   exchange: '106690'
@@ -2813,20 +2813,20 @@ rate_centers:
   long:
 - country: US
   region: MT
-  exchange: '341331'
-  name: MCCABE
-  full_name: McCabe
-  lata: '650'
-  ilec_name: NEMONT TEL COOP INC
-  lat:
-  long:
-- country: US
-  region: MT
   exchange: '341330'
   name: MC LEOD
   full_name: McLeod
   lata: '650'
   ilec_name: TRIANGLE TEL. COOP. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: MT
+  exchange: '341331'
+  name: MCCABE
+  full_name: McCabe
+  lata: '650'
+  ilec_name: NEMONT TEL COOP INC
   lat:
   long:
 - country: US
@@ -3071,15 +3071,6 @@ rate_centers:
   long:
 - country: US
   region: MT
-  exchange: '341135'
-  name: NORRIS
-  full_name: Norris
-  lata: '648'
-  ilec_name: 3 RIVERS TEL. COOP., INC.
-  lat:
-  long:
-- country: US
-  region: MT
   exchange: '107340'
   name: NO BROADUS
   full_name: North Broadus
@@ -3090,18 +3081,6 @@ rate_centers:
   closest_city:
     name: Broadus
     distance_km: 30.13
-- country: US
-  region: MT
-  exchange: '107350'
-  name: NOCUT BANK
-  full_name: North Cut Bank
-  lata: '648'
-  ilec_name: NORTHERN TEL. COOP., INC.
-  lat: '48.73094'
-  long: "-112.364695"
-  closest_city:
-    name: Santa Rita
-    distance_km: 4.94
 - country: US
   region: MT
   exchange: '107360'
@@ -3126,30 +3105,6 @@ rate_centers:
   closest_city:
     name: Glasgow
     distance_km: 5.51
-- country: US
-  region: MT
-  exchange: '107380'
-  name: NORTHHAVRE
-  full_name: North Havre
-  lata: '648'
-  ilec_name: TRIANGLE TEL. COOP. ASSN., INC.
-  lat: '48.801841'
-  long: "-109.678304"
-  closest_city:
-    name: Hilldale Colony
-    distance_km: 7.68
-- country: US
-  region: MT
-  exchange: '107390'
-  name: NOHINSDALE
-  full_name: North Hinsdale
-  lata: '650'
-  ilec_name: NEMONT TEL COOP INC
-  lat: '48.442908'
-  long: "-107.063225"
-  closest_city:
-    name: Hinsdale
-    distance_km: 4.39
 - country: US
   region: MT
   exchange: '107400'
@@ -3210,6 +3165,51 @@ rate_centers:
   closest_city:
     name: Wolf Point
     distance_km: 38.54
+- country: US
+  region: MT
+  exchange: '107350'
+  name: NOCUT BANK
+  full_name: North Cut Bank
+  lata: '648'
+  ilec_name: NORTHERN TEL. COOP., INC.
+  lat: '48.73094'
+  long: "-112.364695"
+  closest_city:
+    name: Santa Rita
+    distance_km: 4.94
+- country: US
+  region: MT
+  exchange: '107390'
+  name: NOHINSDALE
+  full_name: North Hinsdale
+  lata: '650'
+  ilec_name: NEMONT TEL COOP INC
+  lat: '48.442908'
+  long: "-107.063225"
+  closest_city:
+    name: Hinsdale
+    distance_km: 4.39
+- country: US
+  region: MT
+  exchange: '341135'
+  name: NORRIS
+  full_name: Norris
+  lata: '648'
+  ilec_name: 3 RIVERS TEL. COOP., INC.
+  lat:
+  long:
+- country: US
+  region: MT
+  exchange: '107380'
+  name: NORTHHAVRE
+  full_name: North Havre
+  lata: '648'
+  ilec_name: TRIANGLE TEL. COOP. ASSN., INC.
+  lat: '48.801841'
+  long: "-109.678304"
+  closest_city:
+    name: Hilldale Colony
+    distance_km: 7.68
 - country: US
   region: MT
   exchange: '107450'
@@ -3827,6 +3827,18 @@ rate_centers:
     distance_km: 0.27
 - country: US
   region: MT
+  exchange: '107860'
+  name: S ALBERTON
+  full_name: South Alberton
+  lata: '648'
+  ilec_name: BLACKFOOT TEL. COOP., INC.
+  lat: '47.004542'
+  long: "-114.464069"
+  closest_city:
+    name: Alberton
+    distance_km: 1.34
+- country: US
+  region: MT
   exchange: '107760'
   name: SACO
   full_name: Saco
@@ -3839,15 +3851,6 @@ rate_centers:
     distance_km: 0.25
 - country: US
   region: MT
-  exchange: '341395'
-  name: ST XAVIER
-  full_name: Saint Xavier
-  lata: '650'
-  ilec_name: PROJECT TEL. CO., INC.
-  lat:
-  long:
-- country: US
-  region: MT
   exchange: '341165'
   name: SALTESE
   full_name: Saltese
@@ -3857,20 +3860,20 @@ rate_centers:
   long:
 - country: US
   region: MT
-  exchange: '341166'
-  name: SANDCOULEE
-  full_name: Sand Coulee
-  lata: '648'
-  ilec_name: 3 RIVERS TEL. COOP., INC.
-  lat:
-  long:
-- country: US
-  region: MT
   exchange: '341380'
   name: SAND SPRGS
   full_name: Sand Springs
   lata: '650'
   ilec_name: MID-RIVERS TEL. COOP., INC.
+  lat:
+  long:
+- country: US
+  region: MT
+  exchange: '341166'
+  name: SANDCOULEE
+  full_name: Sand Coulee
+  lata: '648'
+  ilec_name: 3 RIVERS TEL. COOP., INC.
   lat:
   long:
 - country: US
@@ -4061,39 +4064,6 @@ rate_centers:
   long:
 - country: US
   region: MT
-  exchange: '107850'
-  name: SOMERS
-  full_name: Somers
-  lata: '648'
-  ilec_name: CENTURYTEL OF MONTANA, INC. DBA CENTURYLINK
-  lat: '48.0819'
-  long: "-114.227968"
-  closest_city:
-    name: Somers
-    distance_km: 0.48
-- country: US
-  region: MT
-  exchange: '341393'
-  name: SONNETTE
-  full_name: Sonnette
-  lata: '650'
-  ilec_name: RANGE TEL COOP INC
-  lat:
-  long:
-- country: US
-  region: MT
-  exchange: '107860'
-  name: S ALBERTON
-  full_name: South Alberton
-  lata: '648'
-  ilec_name: BLACKFOOT TEL. COOP., INC.
-  lat: '47.004542'
-  long: "-114.464069"
-  closest_city:
-    name: Alberton
-    distance_km: 1.34
-- country: US
-  region: MT
   exchange: '107870'
   name: SO BROADUS
   full_name: South Broadus
@@ -4116,6 +4086,51 @@ rate_centers:
   closest_city:
     name: Riverview Colony
     distance_km: 12.06
+- country: US
+  region: MT
+  exchange: '107920'
+  name: SO WOLF PT
+  full_name: South Wolf Point
+  lata: '650'
+  ilec_name: MID-RIVERS TEL. COOP., INC.
+  lat: '48.143971'
+  long: "-105.519223"
+  closest_city:
+    name: Wolf Point
+    distance_km: 10.68
+- country: US
+  region: MT
+  exchange: '107850'
+  name: SOMERS
+  full_name: Somers
+  lata: '648'
+  ilec_name: CENTURYTEL OF MONTANA, INC. DBA CENTURYLINK
+  lat: '48.0819'
+  long: "-114.227968"
+  closest_city:
+    name: Somers
+    distance_km: 0.48
+- country: US
+  region: MT
+  exchange: '107910'
+  name: SOMILES CY
+  full_name: South Miles City
+  lata: '650'
+  ilec_name: RANGE TEL COOP INC
+  lat: '46.218328'
+  long: "-105.675661"
+  closest_city:
+    name: Miles City
+    distance_km: 24.32
+- country: US
+  region: MT
+  exchange: '341393'
+  name: SONNETTE
+  full_name: Sonnette
+  lata: '650'
+  ilec_name: RANGE TEL COOP INC
+  lat:
+  long:
 - country: US
   region: MT
   exchange: '107890'
@@ -4142,30 +4157,6 @@ rate_centers:
     distance_km: 19.04
 - country: US
   region: MT
-  exchange: '107910'
-  name: SOMILES CY
-  full_name: South Miles City
-  lata: '650'
-  ilec_name: RANGE TEL COOP INC
-  lat: '46.218328'
-  long: "-105.675661"
-  closest_city:
-    name: Miles City
-    distance_km: 24.32
-- country: US
-  region: MT
-  exchange: '107920'
-  name: SO WOLF PT
-  full_name: South Wolf Point
-  lata: '650'
-  ilec_name: MID-RIVERS TEL. COOP., INC.
-  lat: '48.143971'
-  long: "-105.519223"
-  closest_city:
-    name: Wolf Point
-    distance_km: 10.68
-- country: US
-  region: MT
   exchange: '341178'
   name: SQUARE BTE
   full_name: Square Butte
@@ -4173,18 +4164,6 @@ rate_centers:
   ilec_name: TRIANGLE TEL. COOP. ASSN., INC.
   lat:
   long:
-- country: US
-  region: MT
-  exchange: '107930'
-  name: STIGNATIUS
-  full_name: St Ignatius
-  lata: '648'
-  ilec_name: BLACKFOOT TEL. COOP., INC.
-  lat: '47.325884'
-  long: "-114.089441"
-  closest_city:
-    name: St. Ignatius
-    distance_km: 0.92
 - country: US
   region: MT
   exchange: '108111'
@@ -4220,6 +4199,15 @@ rate_centers:
     distance_km: 1.38
 - country: US
   region: MT
+  exchange: '341395'
+  name: ST XAVIER
+  full_name: Saint Xavier
+  lata: '650'
+  ilec_name: PROJECT TEL. CO., INC.
+  lat:
+  long:
+- country: US
+  region: MT
   exchange: '107960'
   name: STANFORD
   full_name: Stanford
@@ -4242,6 +4230,18 @@ rate_centers:
   closest_city:
     name: Stevensville
     distance_km: 1.25
+- country: US
+  region: MT
+  exchange: '107930'
+  name: STIGNATIUS
+  full_name: St Ignatius
+  lata: '648'
+  ilec_name: BLACKFOOT TEL. COOP., INC.
+  lat: '47.325884'
+  long: "-114.089441"
+  closest_city:
+    name: St. Ignatius
+    distance_km: 0.92
 - country: US
   region: MT
   exchange: '107980'
@@ -4508,18 +4508,6 @@ rate_centers:
     distance_km: 0.43
 - country: US
   region: MT
-  exchange: '108110'
-  name: VLINSTRLPK
-  full_name: Valley Industrial Park
-  lata: '650'
-  ilec_name: NEMONT TEL COOP INC
-  lat: '48.406614'
-  long: "-106.550452"
-  closest_city:
-    name: St. Marie
-    distance_km: 3.83
-- country: US
-  region: MT
   exchange: '106781'
   name: VAUGHN
   full_name: Vaughn
@@ -4562,6 +4550,18 @@ rate_centers:
     distance_km: 0.64
 - country: US
   region: MT
+  exchange: '108110'
+  name: VLINSTRLPK
+  full_name: Valley Industrial Park
+  lata: '650'
+  ilec_name: NEMONT TEL COOP INC
+  lat: '48.406614'
+  long: "-106.550452"
+  closest_city:
+    name: St. Marie
+    distance_km: 3.83
+- country: US
+  region: MT
   exchange: '341402'
   name: VOLBORG
   full_name: Volborg
@@ -4569,6 +4569,30 @@ rate_centers:
   ilec_name: RANGE TEL COOP INC
   lat:
   long:
+- country: US
+  region: MT
+  exchange: '108170'
+  name: W GLACIER
+  full_name: West Glacier
+  lata: '648'
+  ilec_name: QWEST CORPORATION
+  lat: '48.493132'
+  long: "-113.976213"
+  closest_city:
+    name: West Glacier
+    distance_km: 1.48
+- country: US
+  region: MT
+  exchange: '108180'
+  name: W GLENDIVE
+  full_name: West Glendive
+  lata: '650'
+  ilec_name: MID-RIVERS TEL. COOP., INC.
+  lat: '47.105151'
+  long: "-104.769343"
+  closest_city:
+    name: West Glendive
+    distance_km: 1.16
 - country: US
   region: MT
   exchange: '341208'
@@ -4619,18 +4643,6 @@ rate_centers:
   long:
 - country: US
   region: MT
-  exchange: '108150'
-  name: WEST BEACH
-  full_name: West Beach
-  lata: '638'
-  ilec_name: MIDSTATE COMMUNICATIONS, INC.
-  lat: '46.925537'
-  long: "-104.049802"
-  closest_city:
-    name: Wibaux
-    distance_km: 12.61
-- country: US
-  region: MT
   exchange: '108160'
   name: WCAMPCROOK
   full_name: West Camp Crook
@@ -4643,64 +4655,16 @@ rate_centers:
     distance_km: 54.73
 - country: US
   region: MT
-  exchange: '108170'
-  name: W GLACIER
-  full_name: West Glacier
-  lata: '648'
-  ilec_name: QWEST CORPORATION
-  lat: '48.493132'
-  long: "-113.976213"
-  closest_city:
-    name: West Glacier
-    distance_km: 1.48
-- country: US
-  region: MT
-  exchange: '108180'
-  name: W GLENDIVE
-  full_name: West Glendive
-  lata: '650'
-  ilec_name: MID-RIVERS TEL. COOP., INC.
-  lat: '47.105151'
-  long: "-104.769343"
-  closest_city:
-    name: West Glendive
-    distance_km: 1.16
-- country: US
-  region: MT
-  exchange: '108200'
-  name: WSQUAW GAP
-  full_name: West Homesteaders Gap
+  exchange: '108150'
+  name: WEST BEACH
+  full_name: West Beach
   lata: '638'
-  ilec_name: RESERVATION TEL. COOP.
-  lat: '47.483405'
-  long: "-104.040388"
+  ilec_name: MIDSTATE COMMUNICATIONS, INC.
+  lat: '46.925537'
+  long: "-104.049802"
   closest_city:
-    name: Crane
-    distance_km: 18.94
-- country: US
-  region: MT
-  exchange: '108190'
-  name: WESTSIDNEY
-  full_name: West Sidney
-  lata: '650'
-  ilec_name: MID-RIVERS TEL. COOP., INC.
-  lat: '47.673881'
-  long: "-104.35195"
-  closest_city:
-    name: Crane
-    distance_km: 13.15
-- country: US
-  region: MT
-  exchange: '108210'
-  name: WYELLOWSTN
-  full_name: West Yellowstone
-  lata: '650'
-  ilec_name: QWEST CORPORATION
-  lat: '44.658926'
-  long: "-111.099698"
-  closest_city:
-    name: West Yellowstone
-    distance_km: 0.63
+    name: Wibaux
+    distance_km: 12.61
 - country: US
   region: MT
   exchange: '108220'
@@ -4715,16 +4679,16 @@ rate_centers:
     distance_km: 0.62
 - country: US
   region: MT
-  exchange: '108230'
-  name: WHSLPHRSPG
-  full_name: White Sulphur Springs
+  exchange: '108190'
+  name: WESTSIDNEY
+  full_name: West Sidney
   lata: '650'
-  ilec_name: TRIANGLE TEL. COOP. ASSN., INC.
-  lat: '46.54861'
-  long: "-110.910434"
+  ilec_name: MID-RIVERS TEL. COOP., INC.
+  lat: '47.673881'
+  long: "-104.35195"
   closest_city:
-    name: White Sulphur Springs
-    distance_km: 0.62
+    name: Crane
+    distance_km: 13.15
 - country: US
   region: MT
   exchange: '108240'
@@ -4788,6 +4752,18 @@ rate_centers:
   ilec_name: NORTHERN TEL. COOP., INC.
   lat:
   long:
+- country: US
+  region: MT
+  exchange: '108230'
+  name: WHSLPHRSPG
+  full_name: White Sulphur Springs
+  lata: '650'
+  ilec_name: TRIANGLE TEL. COOP. ASSN., INC.
+  lat: '46.54861'
+  long: "-110.910434"
+  closest_city:
+    name: White Sulphur Springs
+    distance_km: 0.62
 - country: US
   region: MT
   exchange: '108270'
@@ -4932,6 +4908,30 @@ rate_centers:
   closest_city:
     name: Worden
     distance_km: 0.6
+- country: US
+  region: MT
+  exchange: '108200'
+  name: WSQUAW GAP
+  full_name: West Homesteaders Gap
+  lata: '638'
+  ilec_name: RESERVATION TEL. COOP.
+  lat: '47.483405'
+  long: "-104.040388"
+  closest_city:
+    name: Crane
+    distance_km: 18.94
+- country: US
+  region: MT
+  exchange: '108210'
+  name: WYELLOWSTN
+  full_name: West Yellowstone
+  lata: '650'
+  ilec_name: QWEST CORPORATION
+  lat: '44.658926'
+  long: "-111.099698"
+  closest_city:
+    name: West Yellowstone
+    distance_km: 0.63
 - country: US
   region: MT
   exchange: '108360'

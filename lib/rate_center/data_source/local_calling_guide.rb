@@ -31,7 +31,7 @@ module RateCenter
 
           rc_data = rc_data.is_a?(Array) ? rc_data : Array([ rc_data ])
           rate_centers = rc_data.map do |d|
-            OpenStruct.new(d.transform_values { |v| v.strip unless v.strip.empty? })
+            OpenStruct.new(d.transform_values { |v| v.strip.empty? ? nil : v })
           end
 
           Response.new(rate_centers: rate_centers)
@@ -79,7 +79,7 @@ module RateCenter
           rate_centers = client.fetch_rate_center_data(region:).rate_centers
           next if rate_centers.empty?
 
-          data = rate_centers.sort_by { |rc| [ rc.rc, rc.exch ] }.map do |rate_center|
+          data = rate_centers.sort_by { |rc| [ (rc.rcshort || rc.rc), rc.exch ] }.map do |rate_center|
             {
               "country" => "US",
               "region" => region,

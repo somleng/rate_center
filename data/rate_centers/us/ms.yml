@@ -146,6 +146,15 @@ rate_centers:
   long:
 - country: US
   region: MS
+  exchange: '328056'
+  name: ARETESIA
+  full_name: Artesia
+  lata: '482'
+  ilec_name: FRANKLIN TEL. CO., INC.
+  lat:
+  long:
+- country: US
+  region: MS
   exchange: '328057'
   name: ARKABUTLA
   full_name: Arkabutla
@@ -160,15 +169,6 @@ rate_centers:
   full_name: Arm
   lata: '482'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
-- country: US
-  region: MS
-  exchange: '328056'
-  name: ARETESIA
-  full_name: Artesia
-  lata: '482'
-  ilec_name: FRANKLIN TEL. CO., INC.
   lat:
   long:
 - country: US
@@ -852,7 +852,7 @@ rate_centers:
   name: BYHALIA
   full_name: Byhalia
   lata: '468'
-  ilec_name: BRIGHTSPEED OF MISSISSIPPI, LLC
+  ilec_name: 'BRIGHTSPEED OF MISSISSIPPI, LLC                           '
   lat: '34.867324'
   long: "-89.681813"
   closest_city:
@@ -1185,7 +1185,7 @@ rate_centers:
   name: CHULAHOMA
   full_name: Chulahoma
   lata: '468'
-  ilec_name: BRIGHTSPEED OF MISSISSIPPI, LLC
+  ilec_name: 'BRIGHTSPEED OF MISSISSIPPI, LLC                           '
   lat: '34.668936'
   long: "-89.626358"
   closest_city:
@@ -1376,18 +1376,6 @@ rate_centers:
     distance_km: 0.7
 - country: US
   region: MS
-  exchange: '103830'
-  name: COLUMBUS
-  full_name: Columbus
-  lata: '482'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat: '33.500967'
-  long: "-88.417777"
-  closest_city:
-    name: Columbus
-    distance_km: 1.15
-- country: US
-  region: MS
   exchange: '103840'
   name: COLUMBSAFB
   full_name: Columbus AFB
@@ -1398,6 +1386,18 @@ rate_centers:
   closest_city:
     name: Columbus AFB
     distance_km: 1.08
+- country: US
+  region: MS
+  exchange: '103830'
+  name: COLUMBUS
+  full_name: Columbus
+  lata: '482'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat: '33.500967'
+  long: "-88.417777"
+  closest_city:
+    name: Columbus
+    distance_km: 1.15
 - country: US
   region: MS
   exchange: '103850'
@@ -1589,15 +1589,6 @@ rate_centers:
   long:
 - country: US
   region: MS
-  exchange: '328733'
-  name: DIBERVILLE
-  full_name: D'Iberville
-  lata: '484'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
-- country: US
-  region: MS
   exchange: '328190'
   name: DAHOMY
   full_name: Dahomy
@@ -1733,6 +1724,15 @@ rate_centers:
   exchange: '328732'
   name: DIAMONDHD
   full_name: Diamondhead
+  lata: '484'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
+- country: US
+  region: MS
+  exchange: '328733'
+  name: DIBERVILLE
+  full_name: D'Iberville
   lata: '484'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
@@ -2513,6 +2513,15 @@ rate_centers:
     distance_km: 2.71
 - country: US
   region: MS
+  exchange: '328276'
+  name: GREENWDSPG
+  full_name: Greenwood Springs
+  lata: '482'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
+- country: US
+  region: MS
   exchange: '104170'
   name: GREENWOOD
   full_name: Greenwood
@@ -2523,15 +2532,6 @@ rate_centers:
   closest_city:
     name: Greenwood
     distance_km: 1.73
-- country: US
-  region: MS
-  exchange: '328276'
-  name: GREENWDSPG
-  full_name: Greenwood Springs
-  lata: '482'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
 - country: US
   region: MS
   exchange: '104180'
@@ -2828,6 +2828,18 @@ rate_centers:
     distance_km: 0.96
 - country: US
   region: MS
+  exchange: '104290'
+  name: HOLLY SPG
+  full_name: Holly Springs
+  lata: '482'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat: '34.766281'
+  long: "-89.449783"
+  closest_city:
+    name: Holly Springs
+    distance_km: 1.21
+- country: US
+  region: MS
   exchange: '104280'
   name: HOLLYBLUFF
   full_name: Holly Bluff
@@ -2847,18 +2859,6 @@ rate_centers:
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
   long:
-- country: US
-  region: MS
-  exchange: '104290'
-  name: HOLLY SPG
-  full_name: Holly Springs
-  lata: '482'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat: '34.766281'
-  long: "-89.449783"
-  closest_city:
-    name: Holly Springs
-    distance_km: 1.21
 - country: US
   region: MS
   exchange: '328304'
@@ -3248,15 +3248,6 @@ rate_centers:
     distance_km: 1.85
 - country: US
   region: MS
-  exchange: '326323'
-  name: LKCORMORNT
-  full_name: Lake Cormorant
-  lata: '468'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
-- country: US
-  region: MS
   exchange: '328749'
   name: LAKESHORE
   full_name: Lakeshore
@@ -3434,19 +3425,19 @@ rate_centers:
   long:
 - country: US
   region: MS
-  exchange: '328368'
-  name: LTL ROCK
-  full_name: Little Rock
+  exchange: '328355'
+  name: LITTON
+  full_name: Litton
   lata: '482'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
   long:
 - country: US
   region: MS
-  exchange: '328355'
-  name: LITTON
-  full_name: Litton
-  lata: '482'
+  exchange: '326323'
+  name: LKCORMORNT
+  full_name: Lake Cormorant
+  lata: '468'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
   long:
@@ -3594,6 +3585,15 @@ rate_centers:
   name: LOVE
   full_name: Love
   lata: '468'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
+- country: US
+  region: MS
+  exchange: '328368'
+  name: LTL ROCK
+  full_name: Little Rock
+  lata: '482'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
   long:
@@ -3902,6 +3902,15 @@ rate_centers:
   long:
 - country: US
   region: MS
+  exchange: '328400'
+  name: MC NEILL
+  full_name: McNeill
+  lata: '482'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
+- country: US
+  region: MS
   exchange: '328401'
   name: MCCALL CRK
   full_name: McCall Creek
@@ -3986,15 +3995,6 @@ rate_centers:
   exchange: '328409'
   name: MCNAIR
   full_name: McNair
-  lata: '482'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
-- country: US
-  region: MS
-  exchange: '328400'
-  name: MC NEILL
-  full_name: McNeill
   lata: '482'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
@@ -4113,7 +4113,7 @@ rate_centers:
   name: MILLER
   full_name: Miller
   lata: '468'
-  ilec_name: BRIGHTSPEED OF MISSISSIPPI, LLC
+  ilec_name: 'BRIGHTSPEED OF MISSISSIPPI, LLC                           '
   lat:
   long:
 - country: US
@@ -4122,7 +4122,7 @@ rate_centers:
   name: MINERLWLLS
   full_name: Mineral Wells
   lata: '468'
-  ilec_name: BRIGHTSPEED OF MISSISSIPPI, LLC
+  ilec_name: 'BRIGHTSPEED OF MISSISSIPPI, LLC                           '
   lat:
   long:
 - country: US
@@ -4139,15 +4139,6 @@ rate_centers:
   exchange: '328754'
   name: MISISSPPCY
   full_name: Mississippi City
-  lata: '484'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
-- country: US
-  region: MS
-  exchange: '328756'
-  name: MSTSTFCLTY
-  full_name: Mississippi Test Facility
   lata: '484'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
@@ -4295,6 +4286,15 @@ rate_centers:
     distance_km: 1.69
 - country: US
   region: MS
+  exchange: '328433'
+  name: MOUND CITY
+  full_name: Mound City
+  lata: '482'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
+- country: US
+  region: MS
   exchange: '104780'
   name: MOUNDBAYOU
   full_name: Mound Bayou
@@ -4307,15 +4307,6 @@ rate_centers:
     distance_km: 0.31
 - country: US
   region: MS
-  exchange: '328433'
-  name: MOUND CITY
-  full_name: Mound City
-  lata: '482'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
-- country: US
-  region: MS
   exchange: '104790'
   name: MOUNTOLIVE
   full_name: Mount Olive
@@ -4326,6 +4317,15 @@ rate_centers:
   closest_city:
     name: Mount Olive
     distance_km: 0.76
+- country: US
+  region: MS
+  exchange: '328756'
+  name: MSTSTFCLTY
+  full_name: Mississippi Test Facility
+  lata: '484'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
 - country: US
   region: MS
   exchange: '104800'
@@ -4400,18 +4400,6 @@ rate_centers:
     distance_km: 2.15
 - country: US
   region: MS
-  exchange: '104830'
-  name: NVALAIRSTA
-  full_name: Naval Air Station
-  lata: '482'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat: '32.557491'
-  long: "-88.574384"
-  closest_city:
-    name: Meridian Station
-    distance_km: 3.4
-- country: US
-  region: MS
   exchange: '104840'
   name: NEELY
   full_name: Neely
@@ -4466,18 +4454,6 @@ rate_centers:
     distance_km: 1.82
 - country: US
   region: MS
-  exchange: '104870'
-  name: NEWAUGUSTA
-  full_name: New Augusta
-  lata: '482'
-  ilec_name: FRANKLIN TEL. CO., INC.
-  lat: '31.209181'
-  long: "-89.032896"
-  closest_city:
-    name: New Augusta
-    distance_km: 0.82
-- country: US
-  region: MS
   exchange: '104880'
   name: NEW HEBRON
   full_name: New Hebron
@@ -4499,6 +4475,27 @@ rate_centers:
   long:
 - country: US
   region: MS
+  exchange: '104870'
+  name: NEWAUGUSTA
+  full_name: New Augusta
+  lata: '482'
+  ilec_name: FRANKLIN TEL. CO., INC.
+  lat: '31.209181'
+  long: "-89.032896"
+  closest_city:
+    name: New Augusta
+    distance_km: 0.82
+- country: US
+  region: MS
+  exchange: '328448'
+  name: NEWTON
+  full_name: Newton
+  lata: '482'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
+- country: US
+  region: MS
   exchange: '104891'
   name: NEWTONHKRY
   full_name: Newton
@@ -4509,15 +4506,6 @@ rate_centers:
   closest_city:
     name: Newton
     distance_km: 1.93
-- country: US
-  region: MS
-  exchange: '328448'
-  name: NEWTON
-  full_name: Newton
-  lata: '482'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
 - country: US
   region: MS
   exchange: '328450'
@@ -4538,18 +4526,18 @@ rate_centers:
   long:
 - country: US
   region: MS
-  exchange: '328453'
-  name: NORFIELD
-  full_name: Norfield
+  exchange: '328452'
+  name: NOCAROLLTN
+  full_name: North Carrollton
   lata: '482'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
   long:
 - country: US
   region: MS
-  exchange: '328452'
-  name: NOCAROLLTN
-  full_name: North Carrollton
+  exchange: '328453'
+  name: NORFIELD
+  full_name: Norfield
   lata: '482'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
@@ -4575,6 +4563,18 @@ rate_centers:
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
   long:
+- country: US
+  region: MS
+  exchange: '104830'
+  name: NVALAIRSTA
+  full_name: Naval Air Station
+  lata: '482'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat: '32.557491'
+  long: "-88.574384"
+  closest_city:
+    name: Meridian Station
+    distance_km: 3.4
 - country: US
   region: MS
   exchange: '328456'
@@ -4686,7 +4686,7 @@ rate_centers:
   name: OLIVE BRCH
   full_name: Olive Branch
   lata: '468'
-  ilec_name: BRIGHTSPEED OF MISSISSIPPI, LLC
+  ilec_name: 'BRIGHTSPEED OF MISSISSIPPI, LLC                           '
   lat: '34.968279'
   long: "-89.814524"
   closest_city:
@@ -5219,6 +5219,15 @@ rate_centers:
     distance_km: 1.23
 - country: US
   region: MS
+  exchange: '328513'
+  name: PORTERVL
+  full_name: Porterville
+  lata: '482'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
+- country: US
+  region: MS
   exchange: '105110'
   name: PORTGIBSON
   full_name: Port Gibson
@@ -5229,15 +5238,6 @@ rate_centers:
   closest_city:
     name: Port Gibson
     distance_km: 0.28
-- country: US
-  region: MS
-  exchange: '328513'
-  name: PORTERVL
-  full_name: Porterville
-  lata: '482'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
 - country: US
   region: MS
   exchange: '104291'
@@ -5949,16 +5949,7 @@ rate_centers:
   name: SHILOH
   full_name: Shiloh
   lata: '468'
-  ilec_name: BRIGHTSPEED OF WESTERN TENNESSEE, LLC
-  lat:
-  long:
-- country: US
-  region: MS
-  exchange: '326334'
-  name: SHLH-YLCK
-  full_name: Shiloh-Yellow Creek
-  lata: '468'
-  ilec_name: BRIGHTSPEED OF WESTERN TENNESSEE, LLC
+  ilec_name: 'BRIGHTSPEED OF WESTERN TENNESSEE, LLC                     '
   lat:
   long:
 - country: US
@@ -5977,6 +5968,15 @@ rate_centers:
   full_name: Shivers
   lata: '482'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
+- country: US
+  region: MS
+  exchange: '326334'
+  name: SHLH-YLCK
+  full_name: Shiloh-Yellow Creek
+  lata: '468'
+  ilec_name: 'BRIGHTSPEED OF WESTERN TENNESSEE, LLC                     '
   lat:
   long:
 - country: US
@@ -6023,15 +6023,6 @@ rate_centers:
   long:
 - country: US
   region: MS
-  exchange: '328594'
-  name: SILVERCITY
-  full_name: Silver City
-  lata: '482'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
-- country: US
-  region: MS
   exchange: '105360'
   name: SILVER CRK
   full_name: Silver Creek
@@ -6044,10 +6035,10 @@ rate_centers:
     distance_km: 0.83
 - country: US
   region: MS
-  exchange: '105001'
-  name: SNGGRIVISL
-  full_name: Singing River Island
-  lata: '484'
+  exchange: '328594'
+  name: SILVERCITY
+  full_name: Silver City
+  lata: '482'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
   long:
@@ -6113,10 +6104,40 @@ rate_centers:
     distance_km: 0.47
 - country: US
   region: MS
+  exchange: '105001'
+  name: SNGGRIVISL
+  full_name: Singing River Island
+  lata: '484'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
+- country: US
+  region: MS
+  exchange: '105400'
+  name: SO MOSCOW
+  full_name: South Moscow
+  lata: '468'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat: '34.983309'
+  long: "-89.337497"
+  closest_city:
+    name: Lamar
+    distance_km: 8.16
+- country: US
+  region: MS
   exchange: '328602'
   name: SONTAG
   full_name: Sontag
   lata: '482'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
+- country: US
+  region: MS
+  exchange: '328767'
+  name: SOPASCAGOL
+  full_name: South Pascagoula
+  lata: '484'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
   long:
@@ -6132,27 +6153,6 @@ rate_centers:
   closest_city:
     name: Soso
     distance_km: 0.5
-- country: US
-  region: MS
-  exchange: '105400'
-  name: SO MOSCOW
-  full_name: South Moscow
-  lata: '468'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat: '34.983309'
-  long: "-89.337497"
-  closest_city:
-    name: Lamar
-    distance_km: 8.16
-- country: US
-  region: MS
-  exchange: '328767'
-  name: SOPASCAGOL
-  full_name: South Pascagoula
-  lata: '484'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
 - country: US
   region: MS
   exchange: '104681'
@@ -6239,15 +6239,6 @@ rate_centers:
     distance_km: 1.11
 - country: US
   region: MS
-  exchange: '328611'
-  name: STATECOLLG
-  full_name: State College
-  lata: '482'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
-- country: US
-  region: MS
   exchange: '105420'
   name: STATE LINE
   full_name: State Line
@@ -6258,6 +6249,15 @@ rate_centers:
   closest_city:
     name: State Line
     distance_km: 0.58
+- country: US
+  region: MS
+  exchange: '328611'
+  name: STATECOLLG
+  full_name: State College
+  lata: '482'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
 - country: US
   region: MS
   exchange: '328612'
@@ -7184,6 +7184,15 @@ rate_centers:
   long:
 - country: US
   region: MS
+  exchange: '328702'
+  name: WENTERPRIS
+  full_name: West Enterprise
+  lata: '482'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
+- country: US
+  region: MS
   exchange: '105690'
   name: WESSON
   full_name: Wesson
@@ -7206,15 +7215,6 @@ rate_centers:
   closest_city:
     name: West
     distance_km: 0.54
-- country: US
-  region: MS
-  exchange: '328702'
-  name: WENTERPRIS
-  full_name: West Enterprise
-  lata: '482'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
 - country: US
   region: MS
   exchange: '105710'
@@ -7401,7 +7401,7 @@ rate_centers:
   name: YELLOW CRK
   full_name: Yellow Creek
   lata: '468'
-  ilec_name: BRIGHTSPEED OF WESTERN TENNESSEE, LLC
+  ilec_name: 'BRIGHTSPEED OF WESTERN TENNESSEE, LLC                     '
   lat: '34.997347'
   long: "-88.225681"
   closest_city:

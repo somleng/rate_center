@@ -932,32 +932,20 @@ rate_centers:
   long:
 - country: US
   region: MN
-  exchange: '337454'
-  name: BELLEPLAIN
-  full_name: Belle Plaine
-  lata: '628'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: MN
-  exchange: '090040'
-  name: BLLP JRDN
-  full_name: Belle Plaine-Jordan
-  lata: '628'
-  ilec_name: FRONTIER COMMUNICATIONS OF MINNESOTA, INC.
-  lat: '44.667776'
-  long: "-93.620965"
-  closest_city:
-    name: Jordan
-    distance_km: 1.17
-- country: US
-  region: MN
   exchange: '337453'
   name: BELLECHSTR
   full_name: Bellechester
   lata: '628'
   ilec_name: SLEEPY EYE TEL. CO.
+  lat:
+  long:
+- country: US
+  region: MN
+  exchange: '337454'
+  name: BELLEPLAIN
+  full_name: Belle Plaine
+  lata: '628'
+  ilec_name: QWEST CORPORATION
   lat:
   long:
 - country: US
@@ -1253,11 +1241,32 @@ rate_centers:
   long:
 - country: US
   region: MN
+  exchange: '090040'
+  name: BLLP JRDN
+  full_name: Belle Plaine-Jordan
+  lata: '628'
+  ilec_name: FRONTIER COMMUNICATIONS OF MINNESOTA, INC.
+  lat: '44.667776'
+  long: "-93.620965"
+  closest_city:
+    name: Jordan
+    distance_km: 1.17
+- country: US
+  region: MN
   exchange: '337258'
   name: BLOMKEST
   full_name: Blomkest
   lata: '626'
   ilec_name: CITIZENS TELECOM CO MN-FRONTIER CITIZENS COM-MN
+  lat:
+  long:
+- country: US
+  region: MN
+  exchange: '09538Z'
+  name: BLOOMINGTN
+  full_name: Bloomington
+  lata: '628'
+  ilec_name: QWEST CORPORATION
   lat:
   long:
 - country: US
@@ -1272,15 +1281,6 @@ rate_centers:
   closest_city:
     name: Blooming Prairie
     distance_km: 0.24
-- country: US
-  region: MN
-  exchange: '09538Z'
-  name: BLOOMINGTN
-  full_name: Bloomington
-  lata: '628'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
 - country: US
   region: MN
   exchange: '090220'
@@ -1520,18 +1520,18 @@ rate_centers:
   long:
 - country: US
   region: MN
-  exchange: '337466'
-  name: BROOK PARK
-  full_name: Brook Park
+  exchange: '09538Q'
+  name: BRKLYNCNTR
+  full_name: Brooklyn Center
   lata: '628'
   ilec_name: QWEST CORPORATION
   lat:
   long:
 - country: US
   region: MN
-  exchange: '09538Q'
-  name: BRKLYNCNTR
-  full_name: Brooklyn Center
+  exchange: '337466'
+  name: BROOK PARK
+  full_name: Brook Park
   lata: '628'
   ilec_name: QWEST CORPORATION
   lat:
@@ -1997,18 +1997,18 @@ rate_centers:
   long:
 - country: US
   region: MN
-  exchange: '337477'
-  name: CEDAR
-  full_name: Cedar
+  exchange: '337476'
+  name: CDR E BETH
+  full_name: Cedar East Bethel
   lata: '628'
   ilec_name: QWEST CORPORATION
   lat:
   long:
 - country: US
   region: MN
-  exchange: '337476'
-  name: CDR E BETH
-  full_name: Cedar East Bethel
+  exchange: '337477'
+  name: CEDAR
+  full_name: Cedar
   lata: '628'
   ilec_name: QWEST CORPORATION
   lat:
@@ -2385,7 +2385,7 @@ rate_centers:
   name: CLOVERTON
   full_name: Cloverton
   lata: '352'
-  ilec_name: BRIGHTSPEED OF NORTHWEST WISCONSIN, LLC
+  ilec_name: 'BRIGHTSPEED OF NORTHWEST WISCONSIN, LLC                   '
   lat: '46.16783'
   long: "-92.315752"
   closest_city:
@@ -3374,6 +3374,51 @@ rate_centers:
   long:
 - country: US
   region: MN
+  exchange: '091240'
+  name: E DRAYTON
+  full_name: East Drayton
+  lata: '636'
+  ilec_name: POLAR COMMUN MUTUAL AID CORP.
+  lat: '48.557654'
+  long: "-97.163604"
+  closest_city:
+    name: Donaldson
+    distance_km: 19.55
+- country: US
+  region: MN
+  exchange: '338972'
+  name: E GULLLAKE
+  full_name: East Gull Lake
+  lata: '636'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: MN
+  exchange: '091300'
+  name: E VLY SPG
+  full_name: East Valley Springs
+  lata: '620'
+  ilec_name: ALLIANCE COMMUNICATIONS COOPERATIVE, INC. - SD
+  lat: '43.573311'
+  long: "-96.448618"
+  closest_city:
+    name: Beaver Creek
+    distance_km: 8.19
+- country: US
+  region: MN
+  exchange: '091220'
+  name: EABERCROMB
+  full_name: East Abercrombie
+  lata: '636'
+  ilec_name: RED RIVER RURAL TEL ASSN DBA RED RIVER COMM - MN
+  lat: '46.449138'
+  long: "-96.714062"
+  closest_city:
+    name: Kent
+    distance_km: 2.69
+- country: US
+  region: MN
   exchange: '095383'
   name: EAGAN
   full_name: Eagan
@@ -3407,27 +3452,6 @@ rate_centers:
     distance_km: 0.77
 - country: US
   region: MN
-  exchange: '091220'
-  name: EABERCROMB
-  full_name: East Abercrombie
-  lata: '636'
-  ilec_name: RED RIVER RURAL TEL ASSN DBA RED RIVER COMM - MN
-  lat: '46.449138'
-  long: "-96.714062"
-  closest_city:
-    name: Kent
-    distance_km: 2.69
-- country: US
-  region: MN
-  exchange: '337508'
-  name: EASTBETHEL
-  full_name: East Bethel
-  lata: '628'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: MN
   exchange: '091230'
   name: EAST CHAIN
   full_name: East Chain
@@ -3438,54 +3462,6 @@ rate_centers:
   closest_city:
     name: Fairmont
     distance_km: 11.78
-- country: US
-  region: MN
-  exchange: '091240'
-  name: E DRAYTON
-  full_name: East Drayton
-  lata: '636'
-  ilec_name: POLAR COMMUN MUTUAL AID CORP.
-  lat: '48.557654'
-  long: "-97.163604"
-  closest_city:
-    name: Donaldson
-    distance_km: 19.55
-- country: US
-  region: MN
-  exchange: '091250'
-  name: EASTELKTON
-  full_name: East Elkton
-  lata: '640'
-  ilec_name: INTERSTATE TELECOM COOP, INC. - SD
-  lat: '44.234588'
-  long: "-96.452367"
-  closest_city:
-    name: Lake Benton
-    distance_km: 13.41
-- country: US
-  region: MN
-  exchange: '091260'
-  name: EFAIRMOUNT
-  full_name: East Fairmount
-  lata: '636'
-  ilec_name: RED RIVER RURAL TEL ASSN DBA RED RIVER COMM - MN
-  lat: '46.059628'
-  long: "-96.556598"
-  closest_city:
-    name: Campbell
-    distance_km: 12.4
-- country: US
-  region: MN
-  exchange: '091270'
-  name: EGARRETSON
-  full_name: East Garretson
-  lata: '640'
-  ilec_name: ALLIANCE COMM. COOPERATIVE, INC. (SPLIT ROCK)
-  lat: '43.708141'
-  long: "-96.447919"
-  closest_city:
-    name: Beaver Creek
-    distance_km: 12.68
 - country: US
   region: MN
   exchange: '091280'
@@ -3500,37 +3476,25 @@ rate_centers:
     distance_km: 16.86
 - country: US
   region: MN
-  exchange: '091290'
-  name: EGRNDFORKS
-  full_name: East Grand Forks
-  lata: '636'
-  ilec_name: QWEST CORPORATION
-  lat: '47.93547'
-  long: "-97.018332"
-  closest_city:
-    name: East Grand Forks
-    distance_km: 0.84
-- country: US
-  region: MN
-  exchange: '338972'
-  name: E GULLLAKE
-  full_name: East Gull Lake
-  lata: '636'
+  exchange: '337508'
+  name: EASTBETHEL
+  full_name: East Bethel
+  lata: '628'
   ilec_name: QWEST CORPORATION
   lat:
   long:
 - country: US
   region: MN
-  exchange: '091300'
-  name: E VLY SPG
-  full_name: East Valley Springs
-  lata: '620'
-  ilec_name: ALLIANCE COMMUNICATIONS COOPERATIVE, INC. - SD
-  lat: '43.573311'
-  long: "-96.448618"
+  exchange: '091250'
+  name: EASTELKTON
+  full_name: East Elkton
+  lata: '640'
+  ilec_name: INTERSTATE TELECOM COOP, INC. - SD
+  lat: '44.234588'
+  long: "-96.452367"
   closest_city:
-    name: Beaver Creek
-    distance_km: 8.19
+    name: Lake Benton
+    distance_km: 13.41
 - country: US
   region: MN
   exchange: '091310'
@@ -3617,6 +3581,18 @@ rate_centers:
   long:
 - country: US
   region: MN
+  exchange: '091260'
+  name: EFAIRMOUNT
+  full_name: East Fairmount
+  lata: '636'
+  ilec_name: RED RIVER RURAL TEL ASSN DBA RED RIVER COMM - MN
+  lat: '46.059628'
+  long: "-96.556598"
+  closest_city:
+    name: Campbell
+    distance_km: 12.4
+- country: US
+  region: MN
   exchange: '090171'
   name: EFFIE
   full_name: Effie
@@ -3624,6 +3600,30 @@ rate_centers:
   ilec_name: PEOPLES TEL. CO.
   lat:
   long:
+- country: US
+  region: MN
+  exchange: '091270'
+  name: EGARRETSON
+  full_name: East Garretson
+  lata: '640'
+  ilec_name: ALLIANCE COMM. COOPERATIVE, INC. (SPLIT ROCK)
+  lat: '43.708141'
+  long: "-96.447919"
+  closest_city:
+    name: Beaver Creek
+    distance_km: 12.68
+- country: US
+  region: MN
+  exchange: '091290'
+  name: EGRNDFORKS
+  full_name: East Grand Forks
+  lata: '636'
+  ilec_name: QWEST CORPORATION
+  lat: '47.93547'
+  long: "-97.018332"
+  closest_city:
+    name: East Grand Forks
+    distance_km: 0.84
 - country: US
   region: MN
   exchange: '091350'
@@ -4055,15 +4055,6 @@ rate_centers:
   long:
 - country: US
   region: MN
-  exchange: '094561'
-  name: FLS JUNCTN
-  full_name: Falls Junction
-  lata: '620'
-  ilec_name: REDWOOD COUNTY TEL. CO.
-  lat:
-  long:
-- country: US
-  region: MN
   exchange: '091550'
   name: FARIBAULT
   full_name: Faribault
@@ -4253,6 +4244,15 @@ rate_centers:
   long:
 - country: US
   region: MN
+  exchange: '094561'
+  name: FLS JUNCTN
+  full_name: Falls Junction
+  lata: '620'
+  ilec_name: REDWOOD COUNTY TEL. CO.
+  lat:
+  long:
+- country: US
+  region: MN
   exchange: '091640'
   name: FOLEY
   full_name: Foley
@@ -4302,24 +4302,6 @@ rate_centers:
   closest_city:
     name: Foreston
     distance_km: 0.39
-- country: US
-  region: MN
-  exchange: '338996'
-  name: FT RIPLEY
-  full_name: Fort Ripley
-  lata: '636'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: MN
-  exchange: '337525'
-  name: FTSNELLING
-  full_name: Fort Snelling
-  lata: '628'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
 - country: US
   region: MN
   exchange: '091660'
@@ -4488,6 +4470,24 @@ rate_centers:
   closest_city:
     name: Frost
     distance_km: 0.23
+- country: US
+  region: MN
+  exchange: '338996'
+  name: FT RIPLEY
+  full_name: Fort Ripley
+  lata: '636'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: MN
+  exchange: '337525'
+  name: FTSNELLING
+  full_name: Fort Snelling
+  lata: '628'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
 - country: US
   region: MN
   exchange: '091740'
@@ -4742,15 +4742,6 @@ rate_centers:
   long:
 - country: US
   region: MN
-  exchange: '337531'
-  name: GLNPRAIRIE
-  full_name: Glen Prairie
-  lata: '628'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: MN
   exchange: '091860'
   name: GLENCOE
   full_name: Glencoe
@@ -4797,6 +4788,15 @@ rate_centers:
   closest_city:
     name: Glenwood
     distance_km: 2.27
+- country: US
+  region: MN
+  exchange: '337531'
+  name: GLNPRAIRIE
+  full_name: Glen Prairie
+  lata: '628'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
 - country: US
   region: MN
   exchange: '337316'
@@ -4850,18 +4850,6 @@ rate_centers:
     distance_km: 0.45
 - country: US
   region: MN
-  exchange: '091920'
-  name: GOODTHUNDR
-  full_name: Good Thunder
-  lata: '620'
-  ilec_name: CONSOLIDATED COMMUNICATIONS MID-COM COMPANY - MN
-  lat: '44.009841'
-  long: "-94.06397"
-  closest_city:
-    name: Good Thunder
-    distance_km: 0.62
-- country: US
-  region: MN
   exchange: '091930'
   name: GOODHUE
   full_name: Goodhue
@@ -4893,6 +4881,18 @@ rate_centers:
   closest_city:
     name: Goodridge
     distance_km: 0.32
+- country: US
+  region: MN
+  exchange: '091920'
+  name: GOODTHUNDR
+  full_name: Good Thunder
+  lata: '620'
+  ilec_name: CONSOLIDATED COMMUNICATIONS MID-COM COMPANY - MN
+  lat: '44.009841'
+  long: "-94.06397"
+  closest_city:
+    name: Good Thunder
+    distance_km: 0.62
 - country: US
   region: MN
   exchange: '336821'
@@ -4955,20 +4955,44 @@ rate_centers:
     distance_km: 0.25
 - country: US
   region: MN
-  exchange: '337132'
-  name: GRANDFALLS
-  full_name: Grand Falls
-  lata: '624'
-  ilec_name: CITIZENS TELECOM CO MN-FRONTIER CITIZENS COM-MN
-  lat:
-  long:
-- country: US
-  region: MN
   exchange: '337130'
   name: GRAND LAKE
   full_name: Grand Lake
   lata: '624'
   ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: MN
+  exchange: '091980'
+  name: GRAND MDW
+  full_name: Grand Meadow
+  lata: '620'
+  ilec_name: HOME TEL. CO.
+  lat: '43.698978'
+  long: "-92.566176"
+  closest_city:
+    name: Grand Meadow
+    distance_km: 0.86
+- country: US
+  region: MN
+  exchange: '091990'
+  name: GRAND RPDS
+  full_name: Grand Rapids
+  lata: '624'
+  ilec_name: QWEST CORPORATION
+  lat: '47.234899'
+  long: "-93.523207"
+  closest_city:
+    name: Grand Rapids
+    distance_km: 0.8
+- country: US
+  region: MN
+  exchange: '337132'
+  name: GRANDFALLS
+  full_name: Grand Falls
+  lata: '624'
+  ilec_name: CITIZENS TELECOM CO MN-FRONTIER CITIZENS COM-MN
   lat:
   long:
 - country: US
@@ -4985,18 +5009,6 @@ rate_centers:
     distance_km: 0.82
 - country: US
   region: MN
-  exchange: '091980'
-  name: GRAND MDW
-  full_name: Grand Meadow
-  lata: '620'
-  ilec_name: HOME TEL. CO.
-  lat: '43.698978'
-  long: "-92.566176"
-  closest_city:
-    name: Grand Meadow
-    distance_km: 0.86
-- country: US
-  region: MN
   exchange: '337134'
   name: GRANDPORTG
   full_name: Grand Portage
@@ -5004,18 +5016,6 @@ rate_centers:
   ilec_name: CENTURYTEL OF MINNESOTA, INC. DBA CENTURYLINK
   lat:
   long:
-- country: US
-  region: MN
-  exchange: '091990'
-  name: GRAND RPDS
-  full_name: Grand Rapids
-  lata: '624'
-  ilec_name: QWEST CORPORATION
-  lat: '47.234899'
-  long: "-93.523207"
-  closest_city:
-    name: Grand Rapids
-    distance_km: 0.8
 - country: US
   region: MN
   exchange: '337534'
@@ -6692,18 +6692,6 @@ rate_centers:
   long:
 - country: US
   region: MN
-  exchange: '092800'
-  name: LACRESCENT
-  full_name: La Crescent
-  lata: '620'
-  ilec_name: ACE TEL. ASSN. - MN
-  lat: '43.834183'
-  long: "-91.308299"
-  closest_city:
-    name: La Crescent
-    distance_km: 0.57
-- country: US
-  region: MN
   exchange: '337161'
   name: LA PRAIRIE
   full_name: La Prairie
@@ -6722,13 +6710,16 @@ rate_centers:
   long:
 - country: US
   region: MN
-  exchange: '337342'
-  name: LCQUIPARLE
-  full_name: Lac Qui Parle
-  lata: '626'
-  ilec_name: FARMERS MUTUAL TEL. CO.
-  lat:
-  long:
+  exchange: '092800'
+  name: LACRESCENT
+  full_name: La Crescent
+  lata: '620'
+  ilec_name: ACE TEL. ASSN. - MN
+  lat: '43.834183'
+  long: "-91.308299"
+  closest_city:
+    name: La Crescent
+    distance_km: 0.57
 - country: US
   region: MN
   exchange: '092810'
@@ -6743,30 +6734,6 @@ rate_centers:
     distance_km: 0.3
 - country: US
   region: MN
-  exchange: '092820'
-  name: LAKEBENTON
-  full_name: Lake Benton
-  lata: '620'
-  ilec_name: INTERSTATE TELECOM COOP, INC. - MN
-  lat: '44.258377'
-  long: "-96.280045"
-  closest_city:
-    name: Lake Benton
-    distance_km: 0.97
-- country: US
-  region: MN
-  exchange: '092830'
-  name: LK BRONSON
-  full_name: Lake Bronson
-  lata: '636'
-  ilec_name: WIKSTROM TEL. CO., INC.
-  lat: '48.733547'
-  long: "-96.670267"
-  closest_city:
-    name: Lake Bronson
-    distance_km: 0.48
-- country: US
-  region: MN
   exchange: '092840'
   name: LAKE CITY
   full_name: Lake City
@@ -6779,31 +6746,10 @@ rate_centers:
     distance_km: 1.3
 - country: US
   region: MN
-  exchange: '092850'
-  name: LK CRYSTAL
-  full_name: Lake Crystal
-  lata: '620'
-  ilec_name: CONSOLIDATED COMMUNICATIONS MID-COM COMPANY - MN
-  lat: '44.109923'
-  long: "-94.218479"
-  closest_city:
-    name: Lake Crystal
-    distance_km: 0.51
-- country: US
-  region: MN
   exchange: '337570'
   name: LAKE ELMO
   full_name: Lake Elmo
   lata: '628'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: MN
-  exchange: '339042'
-  name: LAKEGEORGE
-  full_name: Lake George
-  lata: '636'
   ilec_name: QWEST CORPORATION
   lat:
   long:
@@ -6814,6 +6760,60 @@ rate_centers:
   full_name: Lake Henry
   lata: '628'
   ilec_name: WINDSTREAM LAKEDALE, INC.
+  lat:
+  long:
+- country: US
+  region: MN
+  exchange: '092870'
+  name: LAKE PARK
+  full_name: Lake Park
+  lata: '636'
+  ilec_name: LORETEL SYSTEMS, INC.
+  lat: '46.891765'
+  long: "-96.091482"
+  closest_city:
+    name: Lake Park
+    distance_km: 1.04
+- country: US
+  region: MN
+  exchange: '339041'
+  name: LAKE SHORE
+  full_name: Lake Shore
+  lata: '636'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: MN
+  exchange: '092820'
+  name: LAKEBENTON
+  full_name: Lake Benton
+  lata: '620'
+  ilec_name: INTERSTATE TELECOM COOP, INC. - MN
+  lat: '44.258377'
+  long: "-96.280045"
+  closest_city:
+    name: Lake Benton
+    distance_km: 0.97
+- country: US
+  region: MN
+  exchange: '092890'
+  name: LAKEFIELD
+  full_name: Lakefield
+  lata: '620'
+  ilec_name: FRONTIER COMMUNICATIONS OF MINNESOTA, INC.
+  lat: '43.675953'
+  long: "-95.177026"
+  closest_city:
+    name: Lakefield
+    distance_km: 0.65
+- country: US
+  region: MN
+  exchange: '339042'
+  name: LAKEGEORGE
+  full_name: Lake George
+  lata: '636'
+  ilec_name: QWEST CORPORATION
   lat:
   long:
 - country: US
@@ -6836,93 +6836,9 @@ rate_centers:
   long:
 - country: US
   region: MN
-  exchange: '092860'
-  name: LK LILLIAN
-  full_name: Lake Lillian
-  lata: '626'
-  ilec_name: CITIZENS TELECOM CO MN-FRONTIER CITIZENS COM-MN
-  lat: '44.939319'
-  long: "-94.882556"
-  closest_city:
-    name: Lake Lillian
-    distance_km: 0.75
-- country: US
-  region: MN
-  exchange: '337585'
-  name: LKMINNETNK
-  full_name: Lake Minnetonka
-  lata: '628'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: MN
-  exchange: '092870'
-  name: LAKE PARK
-  full_name: Lake Park
-  lata: '636'
-  ilec_name: LORETEL SYSTEMS, INC.
-  lat: '46.891765'
-  long: "-96.091482"
-  closest_city:
-    name: Lake Park
-    distance_km: 1.04
-- country: US
-  region: MN
-  exchange: '337586'
-  name: LKSTCRXBCH
-  full_name: Lake Saint Croix Beach
-  lata: '628'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: MN
-  exchange: '339041'
-  name: LAKE SHORE
-  full_name: Lake Shore
-  lata: '636'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: MN
-  exchange: '092880'
-  name: LAKEWILSON
-  full_name: Lake Wilson
-  lata: '620'
-  ilec_name: FRONTIER COMMUNICATIONS OF MINNESOTA, INC.
-  lat: '44.00144'
-  long: "-95.958359"
-  closest_city:
-    name: Lake Wilson
-    distance_km: 0.79
-- country: US
-  region: MN
-  exchange: '092890'
-  name: LAKEFIELD
-  full_name: Lakefield
-  lata: '620'
-  ilec_name: FRONTIER COMMUNICATIONS OF MINNESOTA, INC.
-  lat: '43.675953'
-  long: "-95.177026"
-  closest_city:
-    name: Lakefield
-    distance_km: 0.65
-- country: US
-  region: MN
   exchange: '337572'
   name: LAKELAND
   full_name: Lakeland
-  lata: '628'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: MN
-  exchange: '337574'
-  name: LAKELDSHRS
-  full_name: Lakeland Shores
   lata: '628'
   ilec_name: QWEST CORPORATION
   lat:
@@ -6938,6 +6854,15 @@ rate_centers:
   long:
 - country: US
   region: MN
+  exchange: '337574'
+  name: LAKELDSHRS
+  full_name: Lakeland Shores
+  lata: '628'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: MN
   exchange: '089753'
   name: LAKEVILLE
   full_name: Lakeville
@@ -6945,6 +6870,18 @@ rate_centers:
   ilec_name: FRONTIER COMMUNICATIONS OF MINNESOTA, INC.
   lat:
   long:
+- country: US
+  region: MN
+  exchange: '092880'
+  name: LAKEWILSON
+  full_name: Lake Wilson
+  lata: '620'
+  ilec_name: FRONTIER COMMUNICATIONS OF MINNESOTA, INC.
+  lat: '44.00144'
+  long: "-95.958359"
+  closest_city:
+    name: Lake Wilson
+    distance_km: 0.79
 - country: US
   region: MN
   exchange: '092900'
@@ -7063,6 +7000,15 @@ rate_centers:
   full_name: Lawndale
   lata: '636'
   ilec_name: ROTHSAY TEL. CO., INC.
+  lat:
+  long:
+- country: US
+  region: MN
+  exchange: '337342'
+  name: LCQUIPARLE
+  full_name: Lac Qui Parle
+  lata: '626'
+  ilec_name: FARMERS MUTUAL TEL. CO.
   lat:
   long:
 - country: US
@@ -7349,20 +7295,65 @@ rate_centers:
     distance_km: 0.78
 - country: US
   region: MN
-  exchange: '337168'
-  name: LTL MARAIS
-  full_name: Little Marais
-  lata: '624'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: MN
   exchange: '337345'
   name: LITTLESAUK
   full_name: Little Sauk
   lata: '626'
   ilec_name: CENTURYLINK OF MINNESOTA, INC.
+  lat:
+  long:
+- country: US
+  region: MN
+  exchange: '092830'
+  name: LK BRONSON
+  full_name: Lake Bronson
+  lata: '636'
+  ilec_name: WIKSTROM TEL. CO., INC.
+  lat: '48.733547'
+  long: "-96.670267"
+  closest_city:
+    name: Lake Bronson
+    distance_km: 0.48
+- country: US
+  region: MN
+  exchange: '092850'
+  name: LK CRYSTAL
+  full_name: Lake Crystal
+  lata: '620'
+  ilec_name: CONSOLIDATED COMMUNICATIONS MID-COM COMPANY - MN
+  lat: '44.109923'
+  long: "-94.218479"
+  closest_city:
+    name: Lake Crystal
+    distance_km: 0.51
+- country: US
+  region: MN
+  exchange: '092860'
+  name: LK LILLIAN
+  full_name: Lake Lillian
+  lata: '626'
+  ilec_name: CITIZENS TELECOM CO MN-FRONTIER CITIZENS COM-MN
+  lat: '44.939319'
+  long: "-94.882556"
+  closest_city:
+    name: Lake Lillian
+    distance_km: 0.75
+- country: US
+  region: MN
+  exchange: '337585'
+  name: LKMINNETNK
+  full_name: Lake Minnetonka
+  lata: '628'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: MN
+  exchange: '337586'
+  name: LKSTCRXBCH
+  full_name: Lake Saint Croix Beach
+  lata: '628'
+  ilec_name: QWEST CORPORATION
   lat:
   long:
 - country: US
@@ -7485,6 +7476,15 @@ rate_centers:
   closest_city:
     name: Lowry
     distance_km: 0.47
+- country: US
+  region: MN
+  exchange: '337168'
+  name: LTL MARAIS
+  full_name: Little Marais
+  lata: '624'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
 - country: US
   region: MN
   exchange: '093140'
@@ -7724,20 +7724,20 @@ rate_centers:
   long:
 - country: US
   region: MN
-  exchange: '339067'
-  name: MANHTN BCH
-  full_name: Manhattan Bch
-  lata: '636'
-  ilec_name: EMILY COOP. TEL. CO.
-  lat:
-  long:
-- country: US
-  region: MN
   exchange: '339066'
   name: MANHATNBCH
   full_name: Manhattan Beach
   lata: '636'
   ilec_name: TRI-CO TECHNOLOGIES, LLC DBA CROSSLAKE COMM
+  lat:
+  long:
+- country: US
+  region: MN
+  exchange: '339067'
+  name: MANHTN BCH
+  full_name: Manhattan Bch
+  lata: '636'
+  ilec_name: EMILY COOP. TEL. CO.
   lat:
   long:
 - country: US
@@ -7817,20 +7817,20 @@ rate_centers:
     distance_km: 0.47
 - country: US
   region: MN
-  exchange: '093681'
-  name: MAPLEPLAIN
-  full_name: Maple Plain
-  lata: '628'
-  ilec_name: CITIZENS TELECOM CO MN-FRONTIER CITIZENS COM-MN
-  lat:
-  long:
-- country: US
-  region: MN
   exchange: '094171'
   name: MAPLEGROVE
   full_name: Maplegrove
   lata: '628'
   ilec_name: CENTURYLINK OF MINNESOTA, INC.
+  lat:
+  long:
+- country: US
+  region: MN
+  exchange: '093681'
+  name: MAPLEPLAIN
+  full_name: Maple Plain
+  lata: '628'
+  ilec_name: CITIZENS TELECOM CO MN-FRONTIER CITIZENS COM-MN
   lat:
   long:
 - country: US
@@ -7914,7 +7914,7 @@ rate_centers:
   name: MARKVILLE
   full_name: Markville
   lata: '352'
-  ilec_name: BRIGHTSPEED OF NORTHWEST WISCONSIN, LLC
+  ilec_name: 'BRIGHTSPEED OF NORTHWEST WISCONSIN, LLC                   '
   lat:
   long:
 - country: US
@@ -8315,6 +8315,15 @@ rate_centers:
     distance_km: 9.96
 - country: US
   region: MN
+  exchange: '337602'
+  name: MINETNKBCH
+  full_name: Minnetonka Beach
+  lata: '628'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: MN
   exchange: '336921'
   name: MINN CITY
   full_name: Minn City
@@ -8324,18 +8333,18 @@ rate_centers:
   long:
 - country: US
   region: MN
-  exchange: '337603'
-  name: MINNEAPOLS
-  full_name: Minneapolis
+  exchange: '095381'
+  name: MINNEAPOLI
+  full_name: Minneapolis-St Paul
   lata: '628'
   ilec_name: QWEST CORPORATION
   lat:
   long:
 - country: US
   region: MN
-  exchange: '095381'
-  name: MINNEAPOLI
-  full_name: Minneapolis-St Paul
+  exchange: '337603'
+  name: MINNEAPOLS
+  full_name: Minneapolis
   lata: '628'
   ilec_name: QWEST CORPORATION
   lat:
@@ -8372,15 +8381,6 @@ rate_centers:
   long:
 - country: US
   region: MN
-  exchange: '337362'
-  name: MINNESTFLS
-  full_name: Minnesota Falls
-  lata: '626'
-  ilec_name: CENTURYLINK OF MINNESOTA, INC.
-  lat:
-  long:
-- country: US
-  region: MN
   exchange: '093540'
   name: MINNESOTLK
   full_name: Minnesota Lake
@@ -8393,6 +8393,15 @@ rate_centers:
     distance_km: 0.57
 - country: US
   region: MN
+  exchange: '337362'
+  name: MINNESTFLS
+  full_name: Minnesota Falls
+  lata: '626'
+  ilec_name: CENTURYLINK OF MINNESOTA, INC.
+  lat:
+  long:
+- country: US
+  region: MN
   exchange: '337604'
   name: MINNETONKA
   full_name: Minnetonka
@@ -8402,9 +8411,9 @@ rate_centers:
   long:
 - country: US
   region: MN
-  exchange: '337602'
-  name: MINETNKBCH
-  full_name: Minnetonka Beach
+  exchange: '337605'
+  name: MINNETRSTA
+  full_name: Minnetrista
   lata: '628'
   ilec_name: QWEST CORPORATION
   lat:
@@ -8414,15 +8423,6 @@ rate_centers:
   exchange: '337606'
   name: MINTNKAMLS
   full_name: Minnetonka Mills
-  lata: '628'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: MN
-  exchange: '337605'
-  name: MINNETRSTA
-  full_name: Minnetrista
   lata: '628'
   ilec_name: QWEST CORPORATION
   lat:
@@ -8446,6 +8446,15 @@ rate_centers:
   full_name: Mizpah
   lata: '636'
   ilec_name: PAUL BUNYAN RURAL TEL. COOP.
+  lat:
+  long:
+- country: US
+  region: MN
+  exchange: '337607'
+  name: MNDS VIEW
+  full_name: Mounds View
+  lata: '628'
+  ilec_name: QWEST CORPORATION
   lat:
   long:
 - country: US
@@ -8624,24 +8633,6 @@ rate_centers:
   long:
 - country: US
   region: MN
-  exchange: '337607'
-  name: MNDS VIEW
-  full_name: Mounds View
-  lata: '628'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: MN
-  exchange: '095542'
-  name: MT IRON
-  full_name: Mountain Iron
-  lata: '624'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: MN
   exchange: '093690'
   name: MOUNTAINLK
   full_name: Mountain Lake
@@ -8652,6 +8643,15 @@ rate_centers:
   closest_city:
     name: Mountain Lake
     distance_km: 0.27
+- country: US
+  region: MN
+  exchange: '095542'
+  name: MT IRON
+  full_name: Mountain Iron
+  lata: '624'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
 - country: US
   region: MN
   exchange: '337182'
@@ -8688,6 +8688,24 @@ rate_centers:
   name: MYRTLE
   full_name: Myrtle
   lata: '620'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: MN
+  exchange: '336933'
+  name: N MANKATO
+  full_name: North Mankato
+  lata: '620'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF MINNESOTA CO - MN
+  lat:
+  long:
+- country: US
+  region: MN
+  exchange: '337614'
+  name: N ST PAUL
+  full_name: North Saint Paul
+  lata: '628'
   ilec_name: QWEST CORPORATION
   lat:
   long:
@@ -8816,24 +8834,6 @@ rate_centers:
   long:
 - country: US
   region: MN
-  exchange: '09538A'
-  name: NEWBRIGHTN
-  full_name: New Brighton
-  lata: '628'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: MN
-  exchange: '093683'
-  name: NEWGERMANY
-  full_name: New Germany
-  lata: '628'
-  ilec_name: CITIZENS TELECOM CO MN-FRONTIER CITIZENS COM-MN
-  lat:
-  long:
-- country: US
-  region: MN
   exchange: '337617'
   name: NEW HOPE
   full_name: New Hope
@@ -8891,15 +8891,6 @@ rate_centers:
     distance_km: 0.48
 - country: US
   region: MN
-  exchange: '337371'
-  name: NEWPRAIRIE
-  full_name: New Prairie
-  lata: '626'
-  ilec_name: STARBUCK TEL. CO.
-  lat:
-  long:
-- country: US
-  region: MN
   exchange: '093770'
   name: NEW RICHLD
   full_name: New Richland
@@ -8945,16 +8936,13 @@ rate_centers:
     distance_km: 1.18
 - country: US
   region: MN
-  exchange: '093800'
-  name: NEWYORK ML
-  full_name: New York Mills
-  lata: '636'
-  ilec_name: EAST OTTER TAIL TEL. CO.
-  lat: '46.51702'
-  long: "-95.373284"
-  closest_city:
-    name: New York Mills
-    distance_km: 0.31
+  exchange: '09538A'
+  name: NEWBRIGHTN
+  full_name: New Brighton
+  lata: '628'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
 - country: US
   region: MN
   exchange: '093810'
@@ -8967,6 +8955,15 @@ rate_centers:
   closest_city:
     name: Newfolden
     distance_km: 0.43
+- country: US
+  region: MN
+  exchange: '093683'
+  name: NEWGERMANY
+  full_name: New Germany
+  lata: '628'
+  ilec_name: CITIZENS TELECOM CO MN-FRONTIER CITIZENS COM-MN
+  lat:
+  long:
 - country: US
   region: MN
   exchange: '336939'
@@ -8985,6 +8982,27 @@ rate_centers:
   ilec_name: QWEST CORPORATION
   lat:
   long:
+- country: US
+  region: MN
+  exchange: '337371'
+  name: NEWPRAIRIE
+  full_name: New Prairie
+  lata: '626'
+  ilec_name: STARBUCK TEL. CO.
+  lat:
+  long:
+- country: US
+  region: MN
+  exchange: '093800'
+  name: NEWYORK ML
+  full_name: New York Mills
+  lata: '636'
+  ilec_name: EAST OTTER TAIL TEL. CO.
+  lat: '46.51702'
+  long: "-95.373284"
+  closest_city:
+    name: New York Mills
+    distance_km: 0.31
 - country: US
   region: MN
   exchange: '093820'
@@ -9047,63 +9065,6 @@ rate_centers:
     distance_km: 2.15
 - country: US
   region: MN
-  exchange: '336944'
-  name: NODINE
-  full_name: Nodine
-  lata: '620'
-  ilec_name: ACE TEL. ASSN. - MN
-  lat:
-  long:
-- country: US
-  region: MN
-  exchange: '093870'
-  name: NOKAY LAKE
-  full_name: Nokay Lake
-  lata: '636'
-  ilec_name: CONSOLIDATED TEL. CO.
-  lat: '46.333343'
-  long: "-94.000211"
-  closest_city:
-    name: Garrison
-    distance_km: 13.88
-- country: US
-  region: MN
-  exchange: '093880'
-  name: NORCROSS
-  full_name: Norcross
-  lata: '626'
-  ilec_name: RUNESTONE TELEPHONE ASSOCIATION
-  lat: '45.874629'
-  long: "-96.210345"
-  closest_city:
-    name: Norcross
-    distance_km: 1.27
-- country: US
-  region: MN
-  exchange: '093890'
-  name: NORTH BRCH
-  full_name: North Branch
-  lata: '628'
-  ilec_name: QWEST CORPORATION
-  lat: '45.518764'
-  long: "-92.984192"
-  closest_city:
-    name: North Branch
-    distance_km: 1.96
-- country: US
-  region: MN
-  exchange: '093900'
-  name: NOBURR OAK
-  full_name: North Burr Oak
-  lata: '620'
-  ilec_name: MABEL COOP. TEL. CO. - IA
-  lat: '43.499783'
-  long: "-91.864431"
-  closest_city:
-    name: Canton
-    distance_km: 6.25
-- country: US
-  region: MN
   exchange: '093910'
   name: NO CHESTER
   full_name: North Chester
@@ -9114,30 +9075,6 @@ rate_centers:
   closest_city:
     name: Le Roy
     distance_km: 12.62
-- country: US
-  region: MN
-  exchange: '093920'
-  name: NOESTHERVL
-  full_name: North Estherville
-  lata: '630'
-  ilec_name: QWEST CORPORATION
-  lat: '43.502285'
-  long: "-94.832594"
-  closest_city:
-    name: Dunnell
-    distance_km: 7.95
-- country: US
-  region: MN
-  exchange: '093930'
-  name: NOLAKEPARK
-  full_name: North Lake Park
-  lata: '630'
-  ilec_name: QWEST CORPORATION
-  lat: '43.497778'
-  long: "-95.315563"
-  closest_city:
-    name: Round Lake
-    distance_km: 13.21
 - country: US
   region: MN
   exchange: '093940'
@@ -9152,6 +9089,81 @@ rate_centers:
     distance_km: 9.65
 - country: US
   region: MN
+  exchange: '336942'
+  name: NO REDWOOD
+  full_name: North Redwood
+  lata: '620'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: MN
+  exchange: '09538B'
+  name: NO ST PAUL
+  full_name: North St Paul
+  lata: '628'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: MN
+  exchange: '093900'
+  name: NOBURR OAK
+  full_name: North Burr Oak
+  lata: '620'
+  ilec_name: MABEL COOP. TEL. CO. - IA
+  lat: '43.499783'
+  long: "-91.864431"
+  closest_city:
+    name: Canton
+    distance_km: 6.25
+- country: US
+  region: MN
+  exchange: '336944'
+  name: NODINE
+  full_name: Nodine
+  lata: '620'
+  ilec_name: ACE TEL. ASSN. - MN
+  lat:
+  long:
+- country: US
+  region: MN
+  exchange: '093920'
+  name: NOESTHERVL
+  full_name: North Estherville
+  lata: '630'
+  ilec_name: QWEST CORPORATION
+  lat: '43.502285'
+  long: "-94.832594"
+  closest_city:
+    name: Dunnell
+    distance_km: 7.95
+- country: US
+  region: MN
+  exchange: '093870'
+  name: NOKAY LAKE
+  full_name: Nokay Lake
+  lata: '636'
+  ilec_name: CONSOLIDATED TEL. CO.
+  lat: '46.333343'
+  long: "-94.000211"
+  closest_city:
+    name: Garrison
+    distance_km: 13.88
+- country: US
+  region: MN
+  exchange: '093930'
+  name: NOLAKEPARK
+  full_name: North Lake Park
+  lata: '630'
+  ilec_name: QWEST CORPORATION
+  lat: '43.497778'
+  long: "-95.315563"
+  closest_city:
+    name: Round Lake
+    distance_km: 13.21
+- country: US
+  region: MN
   exchange: '093950'
   name: NOLTL ROCK
   full_name: North Little Rock
@@ -9164,15 +9176,6 @@ rate_centers:
     distance_km: 11.27
 - country: US
   region: MN
-  exchange: '336933'
-  name: N MANKATO
-  full_name: North Mankato
-  lata: '620'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF MINNESOTA CO - MN
-  lat:
-  long:
-- country: US
-  region: MN
   exchange: '093960'
   name: NONEWALBIN
   full_name: North New Albin
@@ -9183,6 +9186,42 @@ rate_centers:
   closest_city:
     name: Eitzen
     distance_km: 14.58
+- country: US
+  region: MN
+  exchange: '093880'
+  name: NORCROSS
+  full_name: Norcross
+  lata: '626'
+  ilec_name: RUNESTONE TELEPHONE ASSOCIATION
+  lat: '45.874629'
+  long: "-96.210345"
+  closest_city:
+    name: Norcross
+    distance_km: 1.27
+- country: US
+  region: MN
+  exchange: '093980'
+  name: NORKRAPIDS
+  full_name: North Rock Rapids
+  lata: '630'
+  ilec_name: HEARTLAND TELECO OF IA DBA PREMIER COMMUNICATIONS
+  lat: '43.500983'
+  long: "-96.175474"
+  closest_city:
+    name: Steen
+    distance_km: 7.22
+- country: US
+  region: MN
+  exchange: '093890'
+  name: NORTH BRCH
+  full_name: North Branch
+  lata: '628'
+  ilec_name: QWEST CORPORATION
+  lat: '45.518764'
+  long: "-92.984192"
+  closest_city:
+    name: North Branch
+    distance_km: 1.96
 - country: US
   region: MN
   exchange: '337626'
@@ -9204,57 +9243,6 @@ rate_centers:
   closest_city:
     name: Frost
     distance_km: 9.24
-- country: US
-  region: MN
-  exchange: '336942'
-  name: NO REDWOOD
-  full_name: North Redwood
-  lata: '620'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: MN
-  exchange: '093980'
-  name: NORKRAPIDS
-  full_name: North Rock Rapids
-  lata: '630'
-  ilec_name: HEARTLAND TELECO OF IA DBA PREMIER COMMUNICATIONS
-  lat: '43.500983'
-  long: "-96.175474"
-  closest_city:
-    name: Steen
-    distance_km: 7.22
-- country: US
-  region: MN
-  exchange: '337614'
-  name: N ST PAUL
-  full_name: North Saint Paul
-  lata: '628'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: MN
-  exchange: '093990'
-  name: NOSPIRITLK
-  full_name: North Spirit Lake
-  lata: '630'
-  ilec_name: QWEST CORPORATION
-  lat: '43.501169'
-  long: "-95.101008"
-  closest_city:
-    name: Jackson
-    distance_km: 16.6
-- country: US
-  region: MN
-  exchange: '09538B'
-  name: NO ST PAUL
-  full_name: North St Paul
-  lata: '628'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
 - country: US
   region: MN
   exchange: '339093'
@@ -9302,15 +9290,6 @@ rate_centers:
     distance_km: 0.41
 - country: US
   region: MN
-  exchange: '337630'
-  name: NW APPLVLY
-  full_name: Northwest Apple Valley
-  lata: '628'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: MN
   exchange: '094030'
   name: NORWOOD
   full_name: Norwood
@@ -9323,13 +9302,16 @@ rate_centers:
     distance_km: 0.81
 - country: US
   region: MN
-  exchange: '337629'
-  name: NRWD YG AM
-  full_name: Norwood Young America
-  lata: '628'
-  ilec_name: CENTURYLINK OF MINNESOTA, INC.
-  lat:
-  long:
+  exchange: '093990'
+  name: NOSPIRITLK
+  full_name: North Spirit Lake
+  lata: '630'
+  ilec_name: QWEST CORPORATION
+  lat: '43.501169'
+  long: "-95.101008"
+  closest_city:
+    name: Jackson
+    distance_km: 16.6
 - country: US
   region: MN
   exchange: '337628'
@@ -9346,6 +9328,24 @@ rate_centers:
   full_name: Noyes
   lata: '636'
   ilec_name: POLAR COMMUN MUTUAL AID CORP.
+  lat:
+  long:
+- country: US
+  region: MN
+  exchange: '337629'
+  name: NRWD YG AM
+  full_name: Norwood Young America
+  lata: '628'
+  ilec_name: CENTURYLINK OF MINNESOTA, INC.
+  lat:
+  long:
+- country: US
+  region: MN
+  exchange: '337630'
+  name: NW APPLVLY
+  full_name: Northwest Apple Valley
+  lata: '628'
+  ilec_name: QWEST CORPORATION
   lat:
   long:
 - country: US
@@ -9377,15 +9377,6 @@ rate_centers:
   long:
 - country: US
   region: MN
-  exchange: '337634'
-  name: OAKTERRACE
-  full_name: Oak Terrace
-  lata: '628'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: MN
   exchange: '337633'
   name: OAKDALE
   full_name: Oakdale
@@ -9399,6 +9390,15 @@ rate_centers:
   name: OAKLAND
   full_name: Oakland
   lata: '620'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: MN
+  exchange: '337634'
+  name: OAKTERRACE
+  full_name: Oak Terrace
+  lata: '628'
   ilec_name: QWEST CORPORATION
   lat:
   long:
@@ -9743,18 +9743,6 @@ rate_centers:
   long:
 - country: US
   region: MN
-  exchange: '094240'
-  name: PARKRAPIDS
-  full_name: Park Rapids
-  lata: '636'
-  ilec_name: QWEST CORPORATION
-  lat: '46.925842'
-  long: "-95.054972"
-  closest_city:
-    name: Park Rapids
-    distance_km: 1.01
-- country: US
-  region: MN
   exchange: '094250'
   name: PARKESPRRI
   full_name: Parkers Prairie
@@ -9765,6 +9753,18 @@ rate_centers:
   closest_city:
     name: Parkers Prairie
     distance_km: 0.45
+- country: US
+  region: MN
+  exchange: '094240'
+  name: PARKRAPIDS
+  full_name: Park Rapids
+  lata: '636'
+  ilec_name: QWEST CORPORATION
+  lat: '46.925842'
+  long: "-95.054972"
+  closest_city:
+    name: Park Rapids
+    distance_km: 1.01
 - country: US
   region: MN
   exchange: '337190'
@@ -10019,18 +10019,6 @@ rate_centers:
   long:
 - country: US
   region: MN
-  exchange: '094380'
-  name: PINEISLAND
-  full_name: Pine Island
-  lata: '620'
-  ilec_name: PINE ISLAND TEL. CO.
-  lat: '44.20153'
-  long: "-92.650445"
-  closest_city:
-    name: Pine Island
-    distance_km: 2.75
-- country: US
-  region: MN
   exchange: '339116'
   name: PINE LAKE
   full_name: Pine Lake
@@ -10059,6 +10047,18 @@ rate_centers:
   ilec_name: QWEST CORPORATION
   lat:
   long:
+- country: US
+  region: MN
+  exchange: '094380'
+  name: PINEISLAND
+  full_name: Pine Island
+  lata: '620'
+  ilec_name: PINE ISLAND TEL. CO.
+  lat: '44.20153'
+  long: "-92.650445"
+  closest_city:
+    name: Pine Island
+    distance_km: 2.75
 - country: US
   region: MN
   exchange: '339118'
@@ -10132,15 +10132,6 @@ rate_centers:
   full_name: Plymouth
   lata: '628'
   ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: MN
-  exchange: '337649'
-  name: PT DOUGLAS
-  full_name: Point Douglas
-  lata: '628'
-  ilec_name: CENTURYLINK OF MINNESOTA, INC.
   lat:
   long:
 - country: US
@@ -10276,6 +10267,15 @@ rate_centers:
   full_name: Prosper
   lata: '620'
   ilec_name: MABEL TEL. COOP. CO. - MN
+  lat:
+  long:
+- country: US
+  region: MN
+  exchange: '337649'
+  name: PT DOUGLAS
+  full_name: Point Douglas
+  lata: '628'
+  ilec_name: CENTURYLINK OF MINNESOTA, INC.
   lat:
   long:
 - country: US
@@ -10457,18 +10457,6 @@ rate_centers:
     distance_km: 0.82
 - country: US
   region: MN
-  exchange: '094580'
-  name: REDLKFALLS
-  full_name: Red Lake Falls
-  lata: '636'
-  ilec_name: GARDEN VALLEY TEL. CO.
-  lat: '47.892142'
-  long: "-96.265391"
-  closest_city:
-    name: Red Lake Falls
-    distance_km: 1.09
-- country: US
-  region: MN
   exchange: '337389'
   name: RED TOP
   full_name: Red Top
@@ -10497,6 +10485,18 @@ rate_centers:
   ilec_name: PAUL BUNYAN RURAL TEL. COOP.
   lat:
   long:
+- country: US
+  region: MN
+  exchange: '094580'
+  name: REDLKFALLS
+  full_name: Red Lake Falls
+  lata: '636'
+  ilec_name: GARDEN VALLEY TEL. CO.
+  lat: '47.892142'
+  long: "-96.265391"
+  closest_city:
+    name: Red Lake Falls
+    distance_km: 1.09
 - country: US
   region: MN
   exchange: '337201'
@@ -10961,6 +10961,15 @@ rate_centers:
     distance_km: 0.94
 - country: US
   region: MN
+  exchange: '336981'
+  name: RUSHFD VLG
+  full_name: Rushford Village
+  lata: '620'
+  ilec_name: ACE TEL. ASSN. - MN
+  lat:
+  long:
+- country: US
+  region: MN
   exchange: '094750'
   name: RUSHFORD
   full_name: Rushford
@@ -10971,15 +10980,6 @@ rate_centers:
   closest_city:
     name: Rushford
     distance_km: 0.81
-- country: US
-  region: MN
-  exchange: '336981'
-  name: RUSHFD VLG
-  full_name: Rushford Village
-  lata: '620'
-  ilec_name: ACE TEL. ASSN. - MN
-  lat:
-  long:
 - country: US
   region: MN
   exchange: '094760'
@@ -11069,87 +11069,6 @@ rate_centers:
   long:
 - country: US
   region: MN
-  exchange: '337407'
-  name: ST ANTHONY
-  full_name: Saint Anthony
-  lata: '626'
-  ilec_name: ALBANY MUTUAL TEL. ASSN., INC.
-  lat:
-  long:
-- country: US
-  region: MN
-  exchange: '337409'
-  name: ST ATHY VL
-  full_name: Saint Anthony Village
-  lata: '626'
-  ilec_name: ALBANY MUTUAL TEL. ASSN., INC.
-  lat:
-  long:
-- country: US
-  region: MN
-  exchange: '337410'
-  name: ST AUGUSTA
-  full_name: Saint Augusta
-  lata: '626'
-  ilec_name: CITIZENS TELECOM CO MN-FRONTIER CITIZENS COM-MN
-  lat:
-  long:
-- country: US
-  region: MN
-  exchange: '337687'
-  name: STBONFCIUS
-  full_name: Saint Bonifacius
-  lata: '628'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: MN
-  exchange: '337682'
-  name: ST FRANCIS
-  full_name: Saint Francis
-  lata: '628'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: MN
-  exchange: '337691'
-  name: STLOUIS PK
-  full_name: Saint Louis Park
-  lata: '628'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: MN
-  exchange: '337692'
-  name: STMARYPNT
-  full_name: Saint Marys Point
-  lata: '628'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: MN
-  exchange: '337684'
-  name: ST PAUL
-  full_name: Saint Paul
-  lata: '628'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: MN
-  exchange: '337693'
-  name: STPAULPARK
-  full_name: Saint Paul Park
-  lata: '628'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: MN
   exchange: '337399'
   name: SAINT ROSA
   full_name: Saint Rosa
@@ -11219,6 +11138,15 @@ rate_centers:
   long:
 - country: US
   region: MN
+  exchange: '337401'
+  name: SAUK RPDS
+  full_name: Sauk Rapids
+  lata: '626'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: MN
   exchange: '094830'
   name: SAUKCENTRE
   full_name: Sauk Centre
@@ -11229,15 +11157,6 @@ rate_centers:
   closest_city:
     name: Sauk Centre
     distance_km: 0.5
-- country: US
-  region: MN
-  exchange: '337401'
-  name: SAUK RPDS
-  full_name: Sauk Rapids
-  lata: '626'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
 - country: US
   region: MN
   exchange: '092691'
@@ -11597,6 +11516,15 @@ rate_centers:
   long:
 - country: US
   region: MN
+  exchange: '337677'
+  name: SO ST PAUL
+  full_name: South Saint Paul
+  lata: '628'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: MN
   exchange: '337404'
   name: SOBIESKI
   full_name: Sobieski
@@ -11660,9 +11588,9 @@ rate_centers:
     distance_km: 0.31
 - country: US
   region: MN
-  exchange: '337677'
-  name: SO ST PAUL
-  full_name: South Saint Paul
+  exchange: '337680'
+  name: SPGLK PARK
+  full_name: Spring Lake Park
   lata: '628'
   ilec_name: QWEST CORPORATION
   lat:
@@ -11702,42 +11630,6 @@ rate_centers:
     distance_km: 0.62
 - country: US
   region: MN
-  exchange: '337406'
-  name: SPRINGHILL
-  full_name: Spring Hill
-  lata: '626'
-  ilec_name: MELROSE TEL. CO.
-  lat:
-  long:
-- country: US
-  region: MN
-  exchange: '093332'
-  name: SPRINGLAKE
-  full_name: Spring Lake
-  lata: '624'
-  ilec_name: PEOPLES TEL. CO.
-  lat:
-  long:
-- country: US
-  region: MN
-  exchange: '337680'
-  name: SPGLK PARK
-  full_name: Spring Lake Park
-  lata: '628'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: MN
-  exchange: '337681'
-  name: SPRINGPARK
-  full_name: Spring Park
-  lata: '628'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: MN
   exchange: '094990'
   name: SPRING VLY
   full_name: Spring Valley
@@ -11762,6 +11654,33 @@ rate_centers:
     distance_km: 0.86
 - country: US
   region: MN
+  exchange: '337406'
+  name: SPRINGHILL
+  full_name: Spring Hill
+  lata: '626'
+  ilec_name: MELROSE TEL. CO.
+  lat:
+  long:
+- country: US
+  region: MN
+  exchange: '093332'
+  name: SPRINGLAKE
+  full_name: Spring Lake
+  lata: '624'
+  ilec_name: PEOPLES TEL. CO.
+  lat:
+  long:
+- country: US
+  region: MN
+  exchange: '337681'
+  name: SPRINGPARK
+  full_name: Spring Park
+  lata: '628'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: MN
   exchange: '095010'
   name: SQUAW LAKE
   full_name: Squaw Lake
@@ -11772,6 +11691,33 @@ rate_centers:
   closest_city:
     name: Squaw Lake
     distance_km: 1.36
+- country: US
+  region: MN
+  exchange: '337407'
+  name: ST ANTHONY
+  full_name: Saint Anthony
+  lata: '626'
+  ilec_name: ALBANY MUTUAL TEL. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: MN
+  exchange: '337409'
+  name: ST ATHY VL
+  full_name: Saint Anthony Village
+  lata: '626'
+  ilec_name: ALBANY MUTUAL TEL. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: MN
+  exchange: '337410'
+  name: ST AUGUSTA
+  full_name: Saint Augusta
+  lata: '626'
+  ilec_name: CITIZENS TELECOM CO MN-FRONTIER CITIZENS COM-MN
+  lat:
+  long:
 - country: US
   region: MN
   exchange: '093684'
@@ -11819,16 +11765,13 @@ rate_centers:
     distance_km: 3.6
 - country: US
   region: MN
-  exchange: '095050'
-  name: STCROIXBCH
-  full_name: St Croix Beach
+  exchange: '337682'
+  name: ST FRANCIS
+  full_name: Saint Francis
   lata: '628'
   ilec_name: QWEST CORPORATION
-  lat: '44.918261'
-  long: "-92.767457"
-  closest_city:
-    name: St. Marys Point
-    distance_km: 0.64
+  lat:
+  long:
 - country: US
   region: MN
   exchange: '095060'
@@ -11901,6 +11844,15 @@ rate_centers:
   closest_city:
     name: Albertville
     distance_km: 1.83
+- country: US
+  region: MN
+  exchange: '337684'
+  name: ST PAUL
+  full_name: Saint Paul
+  lata: '628'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
 - country: US
   region: MN
   exchange: '095110'
@@ -11978,6 +11930,27 @@ rate_centers:
     distance_km: 0.43
 - country: US
   region: MN
+  exchange: '337687'
+  name: STBONFCIUS
+  full_name: Saint Bonifacius
+  lata: '628'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: MN
+  exchange: '095050'
+  name: STCROIXBCH
+  full_name: St Croix Beach
+  lata: '628'
+  ilec_name: QWEST CORPORATION
+  lat: '44.918261'
+  long: "-92.767457"
+  closest_city:
+    name: St. Marys Point
+    distance_km: 0.64
+- country: US
+  region: MN
   exchange: '095150'
   name: STEEN
   full_name: Steen
@@ -12038,6 +12011,24 @@ rate_centers:
     distance_km: 0.94
 - country: US
   region: MN
+  exchange: '337691'
+  name: STLOUIS PK
+  full_name: Saint Louis Park
+  lata: '628'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: MN
+  exchange: '337692'
+  name: STMARYPNT
+  full_name: Saint Marys Point
+  lata: '628'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: MN
   exchange: '337009'
   name: STOCKTON
   full_name: Stockton
@@ -12057,6 +12048,15 @@ rate_centers:
   closest_city:
     name: Storden
     distance_km: 0.4
+- country: US
+  region: MN
+  exchange: '337693'
+  name: STPAULPARK
+  full_name: Saint Paul Park
+  lata: '628'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
 - country: US
   region: MN
   exchange: '095210'
@@ -12551,18 +12551,6 @@ rate_centers:
   long:
 - country: US
   region: MN
-  exchange: '095380'
-  name: TWINCITIES
-  full_name: Twin Cities
-  lata: '628'
-  ilec_name: QWEST CORPORATION
-  lat: '45.043456'
-  long: "-93.290898"
-  closest_city:
-    name: Brooklyn Center
-    distance_km: 3.39
-- country: US
-  region: MN
   exchange: '095390'
   name: TWIN LAKES
   full_name: Twin Lakes
@@ -12573,6 +12561,18 @@ rate_centers:
   closest_city:
     name: Emmons
     distance_km: 7.85
+- country: US
+  region: MN
+  exchange: '095380'
+  name: TWINCITIES
+  full_name: Twin Cities
+  lata: '628'
+  ilec_name: QWEST CORPORATION
+  lat: '45.043456'
+  long: "-93.290898"
+  closest_city:
+    name: Brooklyn Center
+    distance_km: 3.39
 - country: US
   region: MN
   exchange: '095400'
@@ -12844,6 +12844,39 @@ rate_centers:
   full_name: Vlasaty
   lata: '620'
   ilec_name: CITIZENS TELECOM CO MN-FRONTIER CITIZENS COM-MN
+  lat:
+  long:
+- country: US
+  region: MN
+  exchange: '095770'
+  name: W CONCORD
+  full_name: West Concord
+  lata: '620'
+  ilec_name: CITIZENS TELECOM CO MN-FRONTIER CITIZENS COM-MN
+  lat: '44.152159'
+  long: "-92.899658"
+  closest_city:
+    name: West Concord
+    distance_km: 0.08
+- country: US
+  region: MN
+  exchange: '095780'
+  name: W DANBURY
+  full_name: West Danbury
+  lata: '352'
+  ilec_name: 'BRIGHTSPEED OF NORTHWEST WISCONSIN, LLC                   '
+  lat: '46.016015'
+  long: "-92.366885"
+  closest_city:
+    name: Askov
+    distance_km: 37.34
+- country: US
+  region: MN
+  exchange: '337706'
+  name: W LAKELAND
+  full_name: West Lakeland
+  lata: '628'
+  ilec_name: QWEST CORPORATION
   lat:
   long:
 - country: US
@@ -13289,48 +13322,6 @@ rate_centers:
     distance_km: 0.3
 - country: US
   region: MN
-  exchange: '095770'
-  name: W CONCORD
-  full_name: West Concord
-  lata: '620'
-  ilec_name: CITIZENS TELECOM CO MN-FRONTIER CITIZENS COM-MN
-  lat: '44.152159'
-  long: "-92.899658"
-  closest_city:
-    name: West Concord
-    distance_km: 0.08
-- country: US
-  region: MN
-  exchange: '095780'
-  name: W DANBURY
-  full_name: West Danbury
-  lata: '352'
-  ilec_name: BRIGHTSPEED OF NORTHWEST WISCONSIN, LLC
-  lat: '46.016015'
-  long: "-92.366885"
-  closest_city:
-    name: Askov
-    distance_km: 37.34
-- country: US
-  region: MN
-  exchange: '337706'
-  name: W LAKELAND
-  full_name: West Lakeland
-  lata: '628'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: MN
-  exchange: '337715'
-  name: WESTSTPAUL
-  full_name: West Saint Paul
-  lata: '628'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: MN
   exchange: '095386'
   name: WEST ST PA
   full_name: West St Paul
@@ -13379,11 +13370,38 @@ rate_centers:
   long:
 - country: US
   region: MN
+  exchange: '337715'
+  name: WESTSTPAUL
+  full_name: West Saint Paul
+  lata: '628'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: MN
   exchange: '337046'
   name: WHALAN
   full_name: Whalan
   lata: '620'
   ilec_name: ACE TEL. ASSN. - MN
+  lat:
+  long:
+- country: US
+  region: MN
+  exchange: '095384'
+  name: WHBEARLAKE
+  full_name: White Bear Lake
+  lata: '628'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: MN
+  exchange: '337717'
+  name: WHBEARTWSP
+  full_name: White Bear Township
+  lata: '628'
+  ilec_name: QWEST CORPORATION
   lat:
   long:
 - country: US
@@ -13412,22 +13430,16 @@ rate_centers:
     distance_km: 1.02
 - country: US
   region: MN
-  exchange: '095384'
-  name: WHBEARLAKE
-  full_name: White Bear Lake
+  exchange: '095830'
+  name: WHITE ROCK
+  full_name: White Rock
   lata: '628'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: MN
-  exchange: '337717'
-  name: WHBEARTWSP
-  full_name: White Bear Township
-  lata: '628'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
+  ilec_name: SLEEPY EYE TEL. CO.
+  lat: '44.459332'
+  long: "-92.766399"
+  closest_city:
+    name: Cannon Falls
+    distance_km: 12.36
 - country: US
   region: MN
   exchange: '095820'
@@ -13440,18 +13452,6 @@ rate_centers:
   closest_city:
     name: White Earth
     distance_km: 0.17
-- country: US
-  region: MN
-  exchange: '095830'
-  name: WHITE ROCK
-  full_name: White Rock
-  lata: '628'
-  ilec_name: SLEEPY EYE TEL. CO.
-  lat: '44.459332'
-  long: "-92.766399"
-  closest_city:
-    name: Cannon Falls
-    distance_km: 12.36
 - country: US
   region: MN
   exchange: '337047'

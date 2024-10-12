@@ -393,7 +393,7 @@ rate_centers:
   name: BASILE
   full_name: Basile
   lata: '488'
-  ilec_name: BRIGHTSPEED OF LOUISIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF LOUISIANA, LLC                             '
   lat: '30.492563'
   long: "-92.591494"
   closest_city:
@@ -452,6 +452,15 @@ rate_centers:
   long:
 - country: US
   region: LA
+  exchange: '329096'
+  name: BAYOU SALE
+  full_name: Bayou Sale
+  lata: '488'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
+- country: US
+  region: LA
   exchange: '329230'
   name: BAYOUCORNE
   full_name: Bayou Corne
@@ -474,15 +483,6 @@ rate_centers:
   name: BAYOUPIGEN
   full_name: Bayou Pigeon
   lata: '492'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
-- country: US
-  region: LA
-  exchange: '329096'
-  name: BAYOU SALE
-  full_name: Bayou Sale
-  lata: '488'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
   long:
@@ -513,7 +513,16 @@ rate_centers:
   name: BELL CITY
   full_name: Bell City
   lata: '488'
-  ilec_name: BRIGHTSPEED OF LOUISIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF LOUISIANA, LLC                             '
+  lat:
+  long:
+- country: US
+  region: LA
+  exchange: '329379'
+  name: BELLE ROSE
+  full_name: Belle Rose
+  lata: '492'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
   long:
 - country: US
@@ -540,15 +549,6 @@ rate_centers:
   name: BELLERIVER
   full_name: Belle River
   lata: '490'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
-- country: US
-  region: LA
-  exchange: '329379'
-  name: BELLE ROSE
-  full_name: Belle Rose
-  lata: '492'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
   long:
@@ -801,7 +801,7 @@ rate_centers:
   name: BRISTOL
   full_name: Bristol
   lata: '488'
-  ilec_name: BRIGHTSPEED OF LOUISIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF LOUISIANA, LLC                             '
   lat:
   long:
 - country: US
@@ -1005,7 +1005,7 @@ rate_centers:
   name: CANKTON
   full_name: Cankton
   lata: '488'
-  ilec_name: BRIGHTSPEED OF LOUISIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF LOUISIANA, LLC                             '
   lat: '30.374623'
   long: "-92.158322"
   closest_city:
@@ -1170,7 +1170,7 @@ rate_centers:
   name: CHATAIGNIR
   full_name: Chataignier
   lata: '488'
-  ilec_name: BRIGHTSPEED OF LOUISIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF LOUISIANA, LLC                             '
   lat: '30.568938'
   long: "-92.324347"
   closest_city:
@@ -1263,7 +1263,7 @@ rate_centers:
   name: CHURCH PT
   full_name: Church Point
   lata: '488'
-  ilec_name: BRIGHTSPEED OF LOUISIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF LOUISIANA, LLC                             '
   lat: '30.408259'
   long: "-92.216365"
   closest_city:
@@ -1583,19 +1583,19 @@ rate_centers:
   long:
 - country: US
   region: LA
-  exchange: '329116'
-  name: CYPRMT PT
-  full_name: Cypremort Point
-  lata: '488'
+  exchange: '328846'
+  name: CYPRESS
+  full_name: Cypress
+  lata: '486'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
   long:
 - country: US
   region: LA
-  exchange: '328846'
-  name: CYPRESS
-  full_name: Cypress
-  lata: '486'
+  exchange: '329116'
+  name: CYPRMT PT
+  full_name: Cypremort Point
+  lata: '488'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
   long:
@@ -1632,7 +1632,7 @@ rate_centers:
   name: DE QUINCY
   full_name: De Quincy
   lata: '488'
-  ilec_name: BRIGHTSPEED OF LOUISIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF LOUISIANA, LLC                             '
   lat: '30.448622'
   long: "-93.432899"
   closest_city:
@@ -1956,7 +1956,7 @@ rate_centers:
   name: EASTON
   full_name: Easton
   lata: '488'
-  ilec_name: BRIGHTSPEED OF LOUISIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF LOUISIANA, LLC                             '
   lat:
   long:
 - country: US
@@ -2061,7 +2061,7 @@ rate_centers:
   name: ELTON
   full_name: Elton
   lata: '488'
-  ilec_name: BRIGHTSPEED OF LOUISIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF LOUISIANA, LLC                             '
   lat: '30.481146'
   long: "-92.690522"
   closest_city:
@@ -2220,7 +2220,7 @@ rate_centers:
   name: FENTON
   full_name: Fenton
   lata: '488'
-  ilec_name: BRIGHTSPEED OF LOUISIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF LOUISIANA, LLC                             '
   lat: '30.367899'
   long: "-92.917578"
   closest_city:
@@ -2375,18 +2375,6 @@ rate_centers:
     distance_km: 18.5
 - country: US
   region: LA
-  exchange: '072100'
-  name: FTNECESSTY
-  full_name: Fort Necessity
-  lata: '486'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat: '32.048895'
-  long: "-91.817274"
-  closest_city:
-    name: Gilbert
-    distance_km: 15.14
-- country: US
-  region: LA
   exchange: '072762'
   name: FORT POLK
   full_name: Fort Polk
@@ -2457,6 +2445,18 @@ rate_centers:
   ilec_name: EAST ASCENSION TELEPHONE COMPANY, LLC
   lat:
   long:
+- country: US
+  region: LA
+  exchange: '072100'
+  name: FTNECESSTY
+  full_name: Fort Necessity
+  lata: '486'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat: '32.048895'
+  long: "-91.817274"
+  closest_city:
+    name: Gilbert
+    distance_km: 15.14
 - country: US
   region: LA
   exchange: '328887'
@@ -2780,24 +2780,6 @@ rate_centers:
   long:
 - country: US
   region: LA
-  exchange: '328905'
-  name: GRANDBAYOU
-  full_name: Grand Bayou
-  lata: '486'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
-- country: US
-  region: LA
-  exchange: '329275'
-  name: GRANDCLLOU
-  full_name: Grand Caillou
-  lata: '490'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
-- country: US
-  region: LA
   exchange: '072250'
   name: GRAND CANE
   full_name: Grand Cane
@@ -2808,6 +2790,27 @@ rate_centers:
   closest_city:
     name: Grand Cane
     distance_km: 0.23
+- country: US
+  region: LA
+  exchange: '072270'
+  name: GRAND ISLE
+  full_name: Grand Isle
+  lata: '490'
+  ilec_name: LAFOURCHE TEL. CO.
+  lat: '29.232287'
+  long: "-89.990628"
+  closest_city:
+    name: Grand Isle
+    distance_km: 4.42
+- country: US
+  region: LA
+  exchange: '328905'
+  name: GRANDBAYOU
+  full_name: Grand Bayou
+  lata: '486'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
 - country: US
   region: LA
   exchange: '072260'
@@ -2822,25 +2825,22 @@ rate_centers:
     distance_km: 31.63
 - country: US
   region: LA
-  exchange: '329140'
-  name: GRANDCOTEU
-  full_name: Grand Coteau
-  lata: '488'
-  ilec_name: BRIGHTSPEED OF LOUISIANA, LLC
+  exchange: '329275'
+  name: GRANDCLLOU
+  full_name: Grand Caillou
+  lata: '490'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
   long:
 - country: US
   region: LA
-  exchange: '072270'
-  name: GRAND ISLE
-  full_name: Grand Isle
-  lata: '490'
-  ilec_name: LAFOURCHE TEL. CO.
-  lat: '29.232287'
-  long: "-89.990628"
-  closest_city:
-    name: Grand Isle
-    distance_km: 4.42
+  exchange: '329140'
+  name: GRANDCOTEU
+  full_name: Grand Coteau
+  lata: '488'
+  ilec_name: 'BRIGHTSPEED OF LOUISIANA, LLC                             '
+  lat:
+  long:
 - country: US
   region: LA
   exchange: '329404'
@@ -2870,15 +2870,6 @@ rate_centers:
   long:
 - country: US
   region: LA
-  exchange: '329277'
-  name: GREENSDTCH
-  full_name: Greens Ditch
-  lata: '490'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
-- country: US
-  region: LA
   exchange: '072280'
   name: GREENSBURG
   full_name: Greensburg
@@ -2889,6 +2880,15 @@ rate_centers:
   closest_city:
     name: Greensburg
     distance_km: 0.65
+- country: US
+  region: LA
+  exchange: '329277'
+  name: GREENSDTCH
+  full_name: Greens Ditch
+  lata: '490'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
 - country: US
   region: LA
   exchange: '329406'
@@ -3075,7 +3075,7 @@ rate_centers:
   name: HAYES
   full_name: Hayes
   lata: '488'
-  ilec_name: BRIGHTSPEED OF LOUISIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF LOUISIANA, LLC                             '
   lat: '30.119074'
   long: "-92.918109"
   closest_city:
@@ -3342,7 +3342,7 @@ rate_centers:
   name: IOTA
   full_name: Iota
   lata: '488'
-  ilec_name: BRIGHTSPEED OF LOUISIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF LOUISIANA, LLC                             '
   lat: '30.335989'
   long: "-92.492732"
   closest_city:
@@ -3354,7 +3354,7 @@ rate_centers:
   name: IOWA
   full_name: Iowa
   lata: '488'
-  ilec_name: BRIGHTSPEED OF LOUISIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF LOUISIANA, LLC                             '
   lat: '30.233879'
   long: "-93.015475"
   closest_city:
@@ -3422,19 +3422,19 @@ rate_centers:
     distance_km: 1.0
 - country: US
   region: LA
-  exchange: '329291'
-  name: JEFFERSON
-  full_name: Jefferson
-  lata: '490'
+  exchange: '329149'
+  name: JEFFERSNIS
+  full_name: Jefferson Island
+  lata: '488'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
   long:
 - country: US
   region: LA
-  exchange: '329149'
-  name: JEFFERSNIS
-  full_name: Jefferson Island
-  lata: '488'
+  exchange: '329291'
+  name: JEFFERSON
+  full_name: Jefferson
+  lata: '490'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
   long:
@@ -3648,7 +3648,7 @@ rate_centers:
   name: KINDER
   full_name: Kinder
   lata: '488'
-  ilec_name: BRIGHTSPEED OF LOUISIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF LOUISIANA, LLC                             '
   lat: '30.492595'
   long: "-92.847402"
   closest_city:
@@ -3756,7 +3756,7 @@ rate_centers:
   name: LACASSINE
   full_name: Lacassine
   lata: '488'
-  ilec_name: BRIGHTSPEED OF LOUISIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF LOUISIANA, LLC                             '
   lat: '30.232935'
   long: "-92.923278"
   closest_city:
@@ -3809,6 +3809,15 @@ rate_centers:
   long:
 - country: US
   region: LA
+  exchange: '328945'
+  name: LAKE BRUIN
+  full_name: Lake Bruin
+  lata: '486'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
+- country: US
+  region: LA
   exchange: '072680'
   name: LAKEARTHUR
   full_name: Lake Arthur
@@ -3821,64 +3830,19 @@ rate_centers:
     distance_km: 0.47
 - country: US
   region: LA
-  exchange: '328945'
-  name: LAKE BRUIN
-  full_name: Lake Bruin
-  lata: '486'
+  exchange: '329420'
+  name: LAKELAND
+  full_name: Lakeland
+  lata: '492'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
   long:
-- country: US
-  region: LA
-  exchange: '072690'
-  name: LKCATHERIN
-  full_name: Lake Catherine
-  lata: '490'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat: '30.098937'
-  long: "-89.768984"
-  closest_city:
-    name: Eden Isle
-    distance_km: 14.62
-- country: US
-  region: LA
-  exchange: '072700'
-  name: LK CHARLES
-  full_name: Lake Charles
-  lata: '488'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat: '30.233203'
-  long: "-93.206852"
-  closest_city:
-    name: Lake Charles
-    distance_km: 3.6
-- country: US
-  region: LA
-  exchange: '072710'
-  name: LKPROVIDNC
-  full_name: Lake Providence
-  lata: '486'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat: '32.806955'
-  long: "-91.184728"
-  closest_city:
-    name: Lake Providence
-    distance_km: 0.72
 - country: US
   region: LA
   exchange: '328946'
   name: LAKESTJOHN
   full_name: Lake Saint John
   lata: '486'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
-- country: US
-  region: LA
-  exchange: '329420'
-  name: LAKELAND
-  full_name: Lakeland
-  lata: '492'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
   long:
@@ -3938,6 +3902,15 @@ rate_centers:
     distance_km: 0.49
 - country: US
   region: LA
+  exchange: '329159'
+  name: LE BEAU
+  full_name: Lebeau
+  lata: '488'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
+- country: US
+  region: LA
   exchange: '328949'
   name: LE MOYEN
   full_name: Le Moyen
@@ -3952,15 +3925,6 @@ rate_centers:
   full_name: Leander
   lata: '486'
   ilec_name: CENTURYTEL CENTRAL LOUISIANA LLC DBA CENTURYLINK
-  lat:
-  long:
-- country: US
-  region: LA
-  exchange: '329159'
-  name: LE BEAU
-  full_name: Lebeau
-  lata: '488'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
   long:
 - country: US
@@ -4130,6 +4094,42 @@ rate_centers:
     distance_km: 0.38
 - country: US
   region: LA
+  exchange: '072700'
+  name: LK CHARLES
+  full_name: Lake Charles
+  lata: '488'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat: '30.233203'
+  long: "-93.206852"
+  closest_city:
+    name: Lake Charles
+    distance_km: 3.6
+- country: US
+  region: LA
+  exchange: '072690'
+  name: LKCATHERIN
+  full_name: Lake Catherine
+  lata: '490'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat: '30.098937'
+  long: "-89.768984"
+  closest_city:
+    name: Eden Isle
+    distance_km: 14.62
+- country: US
+  region: LA
+  exchange: '072710'
+  name: LKPROVIDNC
+  full_name: Lake Providence
+  lata: '486'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat: '32.806955'
+  long: "-91.184728"
+  closest_city:
+    name: Lake Providence
+    distance_km: 0.72
+- country: US
+  region: LA
   exchange: '329424'
   name: LOBDELL
   full_name: Lobdell
@@ -4296,7 +4296,7 @@ rate_centers:
   name: MAMOU
   full_name: Mamou
   lata: '488'
-  ilec_name: BRIGHTSPEED OF LOUISIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF LOUISIANA, LLC                             '
   lat: '30.632501'
   long: "-92.419346"
   closest_city:
@@ -4967,18 +4967,6 @@ rate_centers:
   long:
 - country: US
   region: LA
-  exchange: '073150'
-  name: NEWORLEANS
-  full_name: New Orleans
-  lata: '490'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat: '29.947792'
-  long: "-90.075694"
-  closest_city:
-    name: Gretna
-    distance_km: 4.8
-- country: US
-  region: LA
   exchange: '073160'
   name: NEW ROADS
   full_name: New Roads
@@ -5021,6 +5009,30 @@ rate_centers:
     distance_km: 0.59
 - country: US
   region: LA
+  exchange: '073150'
+  name: NEWORLEANS
+  full_name: New Orleans
+  lata: '490'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat: '29.947792'
+  long: "-90.075694"
+  closest_city:
+    name: Gretna
+    distance_km: 4.8
+- country: US
+  region: LA
+  exchange: '073190'
+  name: NO CORNOR
+  full_name: North Cornor
+  lata: '482'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat: '31.000477'
+  long: "-91.349954"
+  closest_city:
+    name: Jackson
+    distance_km: 22.88
+- country: US
+  region: LA
   exchange: '328998'
   name: NOBLE
   full_name: Noble
@@ -5040,18 +5052,6 @@ rate_centers:
   closest_city:
     name: Norco
     distance_km: 1.17
-- country: US
-  region: LA
-  exchange: '073190'
-  name: NO CORNOR
-  full_name: North Cornor
-  lata: '482'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat: '31.000477'
-  long: "-91.349954"
-  closest_city:
-    name: Jackson
-    distance_km: 22.88
 - country: US
   region: LA
   exchange: '329326'
@@ -5273,18 +5273,6 @@ rate_centers:
   long:
 - country: US
   region: LA
-  exchange: '073310'
-  name: PEARLRIVER
-  full_name: Pearl River
-  lata: '490'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat: '30.374266'
-  long: "-89.750566"
-  closest_city:
-    name: Pearl River
-    distance_km: 0.62
-- country: US
-  region: LA
   exchange: '073320'
   name: PEARLINGTN
   full_name: Pearlington
@@ -5295,6 +5283,18 @@ rate_centers:
   closest_city:
     name: Slidell
     distance_km: 17.34
+- country: US
+  region: LA
+  exchange: '073310'
+  name: PEARLRIVER
+  full_name: Pearl River
+  lata: '490'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat: '30.374266'
+  long: "-89.750566"
+  closest_city:
+    name: Pearl River
+    distance_km: 0.62
 - country: US
   region: LA
   exchange: '073330'
@@ -5376,7 +5376,7 @@ rate_centers:
   name: PINEPRAIRI
   full_name: Pine Prairie
   lata: '488'
-  ilec_name: BRIGHTSPEED OF LOUISIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF LOUISIANA, LLC                             '
   lat: '30.78548'
   long: "-92.432547"
   closest_city:
@@ -5484,30 +5484,9 @@ rate_centers:
   name: POINT BLUE
   full_name: Point Blue
   lata: '488'
-  ilec_name: BRIGHTSPEED OF LOUISIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF LOUISIANA, LLC                             '
   lat:
   long:
-- country: US
-  region: LA
-  exchange: '329446'
-  name: PT CLAIR
-  full_name: Point Clair
-  lata: '492'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
-- country: US
-  region: LA
-  exchange: '073430'
-  name: PT HACHE
-  full_name: Pointe a la Hache
-  lata: '490'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat: '29.581374'
-  long: "-89.798541"
-  closest_city:
-    name: Pointe a la Hache
-    distance_km: 1.9
 - country: US
   region: LA
   exchange: '073440'
@@ -5564,27 +5543,6 @@ rate_centers:
   long:
 - country: US
   region: LA
-  exchange: '073470'
-  name: PT SULPHUR
-  full_name: Port Sulphur
-  lata: '490'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat: '29.474338'
-  long: "-89.694287"
-  closest_city:
-    name: Port Sulphur
-    distance_km: 4.22
-- country: US
-  region: LA
-  exchange: '329447'
-  name: PT VINCENT
-  full_name: Port Vincent
-  lata: '492'
-  ilec_name: EAST ASCENSION TELEPHONE COMPANY, LLC
-  lat:
-  long:
-- country: US
-  region: LA
   exchange: '329016'
   name: POWHATAN
   full_name: Powhatan
@@ -5626,6 +5584,48 @@ rate_centers:
   full_name: Provencal
   lata: '486'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
+- country: US
+  region: LA
+  exchange: '329446'
+  name: PT CLAIR
+  full_name: Point Clair
+  lata: '492'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
+- country: US
+  region: LA
+  exchange: '073430'
+  name: PT HACHE
+  full_name: Pointe a la Hache
+  lata: '490'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat: '29.581374'
+  long: "-89.798541"
+  closest_city:
+    name: Pointe a la Hache
+    distance_km: 1.9
+- country: US
+  region: LA
+  exchange: '073470'
+  name: PT SULPHUR
+  full_name: Port Sulphur
+  lata: '490'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat: '29.474338'
+  long: "-89.694287"
+  closest_city:
+    name: Port Sulphur
+    distance_km: 4.22
+- country: US
+  region: LA
+  exchange: '329447'
+  name: PT VINCENT
+  full_name: Port Vincent
+  lata: '492'
+  ilec_name: EAST ASCENSION TELEPHONE COMPANY, LLC
   lat:
   long:
 - country: US
@@ -5718,7 +5718,7 @@ rate_centers:
   name: REDDELL
   full_name: Reddell
   lata: '488'
-  ilec_name: BRIGHTSPEED OF LOUISIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF LOUISIANA, LLC                             '
   lat:
   long:
 - country: US
@@ -5817,7 +5817,7 @@ rate_centers:
   name: ROANOKE
   full_name: Roanoke
   lata: '488'
-  ilec_name: BRIGHTSPEED OF LOUISIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF LOUISIANA, LLC                             '
   lat: '30.241165'
   long: "-92.739338"
   closest_city:
@@ -5928,42 +5928,6 @@ rate_centers:
   closest_city:
     name: Ruston
     distance_km: 1.26
-- country: US
-  region: LA
-  exchange: '329458'
-  name: ST AMANT
-  full_name: Saint Amant
-  lata: '492'
-  ilec_name: EAST ASCENSION TELEPHONE COMPANY, LLC
-  lat:
-  long:
-- country: US
-  region: LA
-  exchange: '329460'
-  name: ST JAMES
-  full_name: Saint James
-  lata: '492'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
-- country: US
-  region: LA
-  exchange: '329051'
-  name: ST MAURICE
-  full_name: Saint Maurice
-  lata: '486'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
-- country: US
-  region: LA
-  exchange: '329350'
-  name: ST ROSE
-  full_name: Saint Rose
-  lata: '490'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
 - country: US
   region: LA
   exchange: '073610'
@@ -6194,6 +6158,39 @@ rate_centers:
   long:
 - country: US
   region: LA
+  exchange: '329044'
+  name: SO MNSFLD
+  full_name: South Mansfield
+  lata: '486'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
+- country: US
+  region: LA
+  exchange: '073690'
+  name: SODODGE CY
+  full_name: South Dodge City
+  lata: '530'
+  ilec_name: 'BRIGHTSPEED OF SOUTH ARKANSAS, LLC                        '
+  lat: '33.015321'
+  long: "-92.967882"
+  closest_city:
+    name: Haynesville
+    distance_km: 16.73
+- country: US
+  region: LA
+  exchange: '073700'
+  name: SOJCT CITY
+  full_name: South Junction City
+  lata: '530'
+  ilec_name: 'BRIGHTSPEED OF SOUTH ARKANSAS, LLC                        '
+  lat: '33.018846'
+  long: "-92.726494"
+  closest_city:
+    name: Junction City
+    distance_km: 1.34
+- country: US
+  region: LA
   exchange: '329045'
   name: SONDHEIMER
   full_name: Sondheimer
@@ -6215,34 +6212,10 @@ rate_centers:
     distance_km: 0.7
 - country: US
   region: LA
-  exchange: '073690'
-  name: SODODGE CY
-  full_name: South Dodge City
-  lata: '530'
-  ilec_name: BRIGHTSPEED OF SOUTH ARKANSAS, LLC
-  lat: '33.015321'
-  long: "-92.967882"
-  closest_city:
-    name: Haynesville
-    distance_km: 16.73
-- country: US
-  region: LA
-  exchange: '073700'
-  name: SOJCT CITY
-  full_name: South Junction City
-  lata: '530'
-  ilec_name: BRIGHTSPEED OF SOUTH ARKANSAS, LLC
-  lat: '33.018846'
-  long: "-92.726494"
-  closest_city:
-    name: Junction City
-    distance_km: 1.34
-- country: US
-  region: LA
-  exchange: '329044'
-  name: SO MNSFLD
-  full_name: South Mansfield
-  lata: '486'
+  exchange: '329456'
+  name: SOUTHERN
+  full_name: Southern
+  lata: '492'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
   long:
@@ -6258,15 +6231,6 @@ rate_centers:
   closest_city:
     name: Kentwood
     distance_km: 8.48
-- country: US
-  region: LA
-  exchange: '329456'
-  name: SOUTHERN
-  full_name: Southern
-  lata: '492'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat:
-  long:
 - country: US
   region: LA
   exchange: '071411'
@@ -6314,6 +6278,15 @@ rate_centers:
     distance_km: 0.72
 - country: US
   region: LA
+  exchange: '329458'
+  name: ST AMANT
+  full_name: Saint Amant
+  lata: '492'
+  ilec_name: EAST ASCENSION TELEPHONE COMPANY, LLC
+  lat:
+  long:
+- country: US
+  region: LA
   exchange: '073750'
   name: ST BERNARD
   full_name: St Bernard
@@ -6326,18 +6299,6 @@ rate_centers:
     distance_km: 2.85
 - country: US
   region: LA
-  exchange: '073760'
-  name: STFRNCISVL
-  full_name: St Francisville
-  lata: '492'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat: '30.774055'
-  long: "-91.384131"
-  closest_city:
-    name: St. Francisville
-    distance_km: 1.34
-- country: US
-  region: LA
   exchange: '073770'
   name: ST GABRIEL
   full_name: St Gabriel
@@ -6348,6 +6309,15 @@ rate_centers:
   closest_city:
     name: St. Gabriel
     distance_km: 0.44
+- country: US
+  region: LA
+  exchange: '329460'
+  name: ST JAMES
+  full_name: Saint James
+  lata: '492'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
 - country: US
   region: LA
   exchange: '073780'
@@ -6374,16 +6344,22 @@ rate_centers:
     distance_km: 14.01
 - country: US
   region: LA
-  exchange: '073800'
-  name: STMARTINVL
-  full_name: St Martinville
-  lata: '488'
+  exchange: '329051'
+  name: ST MAURICE
+  full_name: Saint Maurice
+  lata: '486'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
-  lat: '30.126015'
-  long: "-91.835375"
-  closest_city:
-    name: St. Martinville
-    distance_km: 0.34
+  lat:
+  long:
+- country: US
+  region: LA
+  exchange: '329350'
+  name: ST ROSE
+  full_name: Saint Rose
+  lata: '490'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat:
+  long:
 - country: US
   region: LA
   exchange: '329052'
@@ -6426,6 +6402,30 @@ rate_centers:
   closest_city:
     name: Sterlington
     distance_km: 2.58
+- country: US
+  region: LA
+  exchange: '073760'
+  name: STFRNCISVL
+  full_name: St Francisville
+  lata: '492'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat: '30.774055'
+  long: "-91.384131"
+  closest_city:
+    name: St. Francisville
+    distance_km: 1.34
+- country: US
+  region: LA
+  exchange: '073800'
+  name: STMARTINVL
+  full_name: St Martinville
+  lata: '488'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
+  lat: '30.126015'
+  long: "-91.835375"
+  closest_city:
+    name: St. Martinville
+    distance_km: 0.34
 - country: US
   region: LA
   exchange: '329055'
@@ -6474,7 +6474,7 @@ rate_centers:
   name: SUMMERFLD
   full_name: Summerfield
   lata: '530'
-  ilec_name: BRIGHTSPEED OF SOUTH ARKANSAS, LLC
+  ilec_name: 'BRIGHTSPEED OF SOUTH ARKANSAS, LLC                        '
   lat:
   long:
 - country: US
@@ -6501,7 +6501,7 @@ rate_centers:
   name: SUNSET
   full_name: Sunset
   lata: '488'
-  ilec_name: BRIGHTSPEED OF LOUISIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF LOUISIANA, LLC                             '
   lat: '30.41856'
   long: "-92.06526"
   closest_city:
@@ -6648,7 +6648,7 @@ rate_centers:
   name: THORNWELL
   full_name: Thornwell
   lata: '488'
-  ilec_name: BRIGHTSPEED OF LOUISIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF LOUISIANA, LLC                             '
   lat: '30.098136'
   long: "-92.801553"
   closest_city:
@@ -6881,18 +6881,6 @@ rate_centers:
     distance_km: 1.74
 - country: US
   region: LA
-  exchange: '073960'
-  name: VL PLATTE
-  full_name: Ville Platte
-  lata: '488'
-  ilec_name: BRIGHTSPEED OF LOUISIANA, LLC
-  lat: '30.682205'
-  long: "-92.276491"
-  closest_city:
-    name: Ville Platte
-    distance_km: 0.9
-- country: US
-  region: LA
   exchange: '073970'
   name: VINTON
   full_name: Vinton
@@ -6924,6 +6912,18 @@ rate_centers:
   closest_city:
     name: Vivian
     distance_km: 0.3
+- country: US
+  region: LA
+  exchange: '073960'
+  name: VL PLATTE
+  full_name: Ville Platte
+  lata: '488'
+  ilec_name: 'BRIGHTSPEED OF LOUISIANA, LLC                             '
+  lat: '30.682205'
+  long: "-92.276491"
+  closest_city:
+    name: Ville Platte
+    distance_km: 0.9
 - country: US
   region: LA
   exchange: '329073'
@@ -7020,7 +7020,7 @@ rate_centers:
   name: WELSH
   full_name: Welsh
   lata: '488'
-  ilec_name: BRIGHTSPEED OF LOUISIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF LOUISIANA, LLC                             '
   lat: '30.240352'
   long: "-92.826731"
   closest_city:
@@ -7028,19 +7028,19 @@ rate_centers:
     distance_km: 1.38
 - country: US
   region: LA
-  exchange: '073021'
-  name: WESTMONROE
-  full_name: West Monroe
-  lata: '486'
+  exchange: '329214'
+  name: WESTLAKE
+  full_name: Westlake
+  lata: '488'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
   long:
 - country: US
   region: LA
-  exchange: '329214'
-  name: WESTLAKE
-  full_name: Westlake
-  lata: '488'
+  exchange: '073021'
+  name: WESTMONROE
+  full_name: West Monroe
+  lata: '486'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTH CENTRAL BELL TEL
   lat:
   long:

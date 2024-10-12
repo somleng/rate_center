@@ -75,10 +75,11 @@ module RateCenter
         cities_by_state.each do |state, cities|
           data_file = data_directory.join("#{state.downcase}.yml")
 
-          data = cities.sort_by(&:city).map do |city|
+          data = cities.sort_by { |city| [ city.city, city.county ] }.map do |city|
             {
               "country" => "US",
               "region" => city.state_id,
+              "county" => city.county_name,
               "name" => city.city,
               "lat" => city.lat,
               "long" => city.lng

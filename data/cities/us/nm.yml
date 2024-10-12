@@ -2,6 +2,7 @@
 cities:
 - country: US
   region: NM
+  county: Socorro
   name: Abeytas
   lat: '34.4652'
   long: "-106.8137"
@@ -14,6 +15,7 @@ cities:
     distance_km: 45.99
 - country: US
   region: NM
+  county: Rio Arriba
   name: Abiquiu
   lat: '36.2017'
   long: "-106.3238"
@@ -26,6 +28,7 @@ cities:
     distance_km: 26.92
 - country: US
   region: NM
+  county: Cibola
   name: Acomita Lake
   lat: '35.0658'
   long: "-107.6165"
@@ -38,6 +41,7 @@ cities:
     distance_km: 75.43
 - country: US
   region: NM
+  county: Valencia
   name: Adelino
   lat: '34.7064'
   long: "-106.7318"
@@ -50,6 +54,7 @@ cities:
     distance_km: 42.39
 - country: US
   region: NM
+  county: Santa Fe
   name: Agua Fria
   lat: '35.6615'
   long: "-106.0149"
@@ -62,6 +67,7 @@ cities:
     distance_km: 30.39
 - country: US
   region: NM
+  county: Socorro
   name: Alamillo
   lat: '34.2519'
   long: "-106.9158"
@@ -74,6 +80,7 @@ cities:
     distance_km: 47.1
 - country: US
   region: NM
+  county: Socorro
   name: Alamo
   lat: '34.4184'
   long: "-107.5125"
@@ -86,6 +93,7 @@ cities:
     distance_km: 69.98
 - country: US
   region: NM
+  county: Otero
   name: Alamogordo
   lat: '32.8837'
   long: "-105.9625"
@@ -98,6 +106,7 @@ cities:
     distance_km: 21.82
 - country: US
   region: NM
+  county: Bernalillo
   name: Albuquerque
   lat: '35.1054'
   long: "-106.6465"
@@ -110,6 +119,7 @@ cities:
     distance_km: 24.39
 - country: US
   region: NM
+  county: Rio Arriba
   name: Alcalde
   lat: '36.0854'
   long: "-106.0575"
@@ -122,6 +132,7 @@ cities:
     distance_km: 14.63
 - country: US
   region: NM
+  county: Sandoval
   name: Algodones
   lat: '35.3804'
   long: "-106.4731"
@@ -134,6 +145,7 @@ cities:
     distance_km: 33.85
 - country: US
   region: NM
+  county: Catron
   name: Alma
   lat: '33.3817'
   long: "-108.8995"
@@ -146,6 +158,7 @@ cities:
     distance_km: 49.25
 - country: US
   region: NM
+  county: Colfax
   name: Angel Fire
   lat: '36.3821'
   long: "-105.2718"
@@ -158,6 +171,7 @@ cities:
     distance_km: 34.92
 - country: US
   region: NM
+  county: San Juan
   name: Angustura
   lat: '36.7138'
   long: "-107.9154"
@@ -170,6 +184,7 @@ cities:
     distance_km: 62.73
 - country: US
   region: NM
+  county: Hidalgo
   name: Animas
   lat: '31.9449'
   long: "-108.8065"
@@ -182,6 +197,8 @@ cities:
     distance_km: 25.42
 - country: US
   region: NM
+  county: !binary |-
+    RG/DsWEgQW5h
   name: Anthony
   lat: '32.0131'
   long: "-106.5984"
@@ -194,6 +211,7 @@ cities:
     distance_km: 17.84
 - country: US
   region: NM
+  county: Guadalupe
   name: Anton Chico
   lat: '35.1948'
   long: "-105.1439"
@@ -206,6 +224,7 @@ cities:
     distance_km: 45.75
 - country: US
   region: NM
+  county: Cibola
   name: Anzac Village
   lat: '35.0624'
   long: "-107.7416"
@@ -218,6 +237,7 @@ cities:
     distance_km: 64.38
 - country: US
   region: NM
+  county: Catron
   name: Apache Creek
   lat: '33.8486'
   long: "-108.6141"
@@ -230,6 +250,7 @@ cities:
     distance_km: 56.03
 - country: US
   region: NM
+  county: Catron
   name: Aragon
   lat: '33.8899'
   long: "-108.5201"
@@ -242,6 +263,7 @@ cities:
     distance_km: 50.42
 - country: US
   region: NM
+  county: Grant
   name: Arenas Valley
   lat: '32.7765'
   long: "-108.2030"
@@ -254,6 +276,7 @@ cities:
     distance_km: 22.96
 - country: US
   region: NM
+  county: Sierra
   name: Arrey
   lat: '32.8472'
   long: "-107.3204"
@@ -266,6 +289,7 @@ cities:
     distance_km: 32.39
 - country: US
   region: NM
+  county: Santa Fe
   name: Arroyo Hondo
   lat: '35.6103'
   long: "-105.9450"
@@ -278,6 +302,7 @@ cities:
     distance_km: 33.77
 - country: US
   region: NM
+  county: Taos
   name: Arroyo Hondo
   lat: '36.5346'
   long: "-105.6665"
@@ -290,6 +315,7 @@ cities:
     distance_km: 30.11
 - country: US
   region: NM
+  county: Taos
   name: Arroyo Seco
   lat: '36.5215'
   long: "-105.5861"
@@ -302,6 +328,7 @@ cities:
     distance_km: 26.15
 - country: US
   region: NM
+  county: Eddy
   name: Artesia
   lat: '32.8497'
   long: "-104.4268"
@@ -314,6 +341,7 @@ cities:
     distance_km: 21.79
 - country: US
   region: NM
+  county: Eddy
   name: Atoka
   lat: '32.7783'
   long: "-104.3931"
@@ -326,6 +354,7 @@ cities:
     distance_km: 15.82
 - country: US
   region: NM
+  county: San Juan
   name: Aztec
   lat: '36.8225'
   long: "-107.9710"
@@ -338,6 +367,7 @@ cities:
     distance_km: 63.53
 - country: US
   region: NM
+  county: Bernalillo
   name: Barton
   lat: '35.0653'
   long: "-106.2569"
@@ -350,6 +380,7 @@ cities:
     distance_km: 35.27
 - country: US
   region: NM
+  county: Grant
   name: Bayard
   lat: '32.7579'
   long: "-108.1337"
@@ -362,6 +393,7 @@ cities:
     distance_km: 18.32
 - country: US
   region: NM
+  county: McKinley
   name: Becenti
   lat: '35.8123'
   long: "-108.1708"
@@ -374,6 +406,7 @@ cities:
     distance_km: 53.99
 - country: US
   region: NM
+  county: San Juan
   name: Beclabito
   lat: '36.8335'
   long: "-109.0040"
@@ -386,6 +419,7 @@ cities:
     distance_km: 66.27
 - country: US
   region: NM
+  county: Valencia
   name: Belen
   lat: '34.7115'
   long: "-106.7986"
@@ -398,6 +432,7 @@ cities:
     distance_km: 43.36
 - country: US
   region: NM
+  county: Otero
   name: Bent
   lat: '33.1473'
   long: "-105.8589"
@@ -410,6 +445,8 @@ cities:
     distance_km: 24.39
 - country: US
   region: NM
+  county: !binary |-
+    RG/DsWEgQW5h
   name: Berino
   lat: '32.0690'
   long: "-106.6221"
@@ -422,6 +459,7 @@ cities:
     distance_km: 20.36
 - country: US
   region: NM
+  county: Sandoval
   name: Bernalillo
   lat: '35.3127'
   long: "-106.5537"
@@ -434,6 +472,7 @@ cities:
     distance_km: 29.86
 - country: US
   region: NM
+  county: Cibola
   name: Bibo
   lat: '35.1732'
   long: "-107.4034"
@@ -446,6 +485,7 @@ cities:
     distance_km: 69.42
 - country: US
   region: NM
+  county: McKinley
   name: Black Hat
   lat: '35.6311'
   long: "-108.9641"
@@ -458,6 +498,7 @@ cities:
     distance_km: 23.36
 - country: US
   region: NM
+  county: McKinley
   name: Black Rock
   lat: '35.0835'
   long: "-108.7975"
@@ -470,6 +511,7 @@ cities:
     distance_km: 27.74
 - country: US
   region: NM
+  county: San Juan
   name: Blanco
   lat: '36.7406'
   long: "-107.8060"
@@ -482,6 +524,7 @@ cities:
     distance_km: 60.94
 - country: US
   region: NM
+  county: San Juan
   name: Bloomfield
   lat: '36.7401'
   long: "-107.9734"
@@ -494,6 +537,7 @@ cities:
     distance_km: 63.42
 - country: US
   region: NM
+  county: McKinley
   name: Bluewater
   lat: '35.3243'
   long: "-108.2060"
@@ -506,6 +550,7 @@ cities:
     distance_km: 40.11
 - country: US
   region: NM
+  county: Cibola
   name: Bluewater Village
   lat: '35.2464'
   long: "-107.9676"
@@ -518,6 +563,7 @@ cities:
     distance_km: 49.88
 - country: US
   region: NM
+  county: Otero
   name: Boles Acres
   lat: '32.8198'
   long: "-105.9780"
@@ -530,6 +576,7 @@ cities:
     distance_km: 28.39
 - country: US
   region: NM
+  county: McKinley
   name: Borrego Pass
   lat: '35.5664'
   long: "-108.0165"
@@ -542,6 +589,7 @@ cities:
     distance_km: 55.01
 - country: US
   region: NM
+  county: Valencia
   name: Bosque Farms
   lat: '34.8539'
   long: "-106.7011"
@@ -554,6 +602,7 @@ cities:
     distance_km: 25.75
 - country: US
   region: NM
+  county: Rio Arriba
   name: Brazos
   lat: '36.7528'
   long: "-106.5598"
@@ -566,6 +615,7 @@ cities:
     distance_km: 33.1
 - country: US
   region: NM
+  county: McKinley
   name: Brimhall Nizhoni
   lat: '35.7785'
   long: "-108.6322"
@@ -578,6 +628,7 @@ cities:
     distance_km: 30.02
 - country: US
   region: NM
+  county: Cibola
   name: Broadview
   lat: '35.2257'
   long: "-107.8761"
@@ -590,6 +641,7 @@ cities:
     distance_km: 56.44
 - country: US
   region: NM
+  county: Grant
   name: Buckhorn
   lat: '33.0315'
   long: "-108.6944"
@@ -602,6 +654,8 @@ cities:
     distance_km: 48.28
 - country: US
   region: NM
+  county: !binary |-
+    RG/DsWEgQW5h
   name: Butterfield Park
   lat: '32.4052'
   long: "-106.6457"
@@ -614,6 +668,7 @@ cities:
     distance_km: 45.9
 - country: US
   region: NM
+  county: Sierra
   name: Caballo
   lat: '32.9806'
   long: "-107.3075"
@@ -626,6 +681,7 @@ cities:
     distance_km: 37.98
 - country: US
   region: NM
+  county: Cibola
   name: Candy Kitchen
   lat: '34.9120'
   long: "-108.4929"
@@ -638,6 +694,7 @@ cities:
     distance_km: 32.65
 - country: US
   region: NM
+  county: Rio Arriba
   name: Canjilon
   lat: '36.4840'
   long: "-106.4334"
@@ -650,6 +707,7 @@ cities:
     distance_km: 27.55
 - country: US
   region: NM
+  county: Curry
   name: Cannon AFB
   lat: '34.3885'
   long: "-103.3185"
@@ -662,6 +720,7 @@ cities:
     distance_km: 10.39
 - country: US
   region: NM
+  county: Rio Arriba
   name: Canova
   lat: '36.1649'
   long: "-105.9857"
@@ -674,6 +733,7 @@ cities:
     distance_km: 17.5
 - country: US
   region: NM
+  county: Lincoln
   name: Capitan
   lat: '33.5393'
   long: "-105.5983"
@@ -686,6 +746,7 @@ cities:
     distance_km: 22.88
 - country: US
   region: NM
+  county: Union
   name: Capulin
   lat: '36.7445'
   long: "-103.9958"
@@ -698,6 +759,7 @@ cities:
     distance_km: 53.48
 - country: US
   region: NM
+  county: Eddy
   name: Carlsbad
   lat: '32.4010'
   long: "-104.2388"
@@ -710,6 +772,7 @@ cities:
     distance_km: 27.99
 - country: US
   region: NM
+  county: Bernalillo
   name: Carnuel
   lat: '35.0609'
   long: "-106.4587"
@@ -722,6 +785,7 @@ cities:
     distance_km: 27.65
 - country: US
   region: NM
+  county: Lincoln
   name: Carrizozo
   lat: '33.6433'
   long: "-105.8411"
@@ -734,6 +798,7 @@ cities:
     distance_km: 29.68
 - country: US
   region: NM
+  county: Valencia
   name: Casa Colorada
   lat: '34.5534'
   long: "-106.7420"
@@ -746,6 +811,7 @@ cities:
     distance_km: 45.95
 - country: US
   region: NM
+  county: Grant
   name: Casas Adobes
   lat: '32.8095'
   long: "-107.9391"
@@ -758,6 +824,7 @@ cities:
     distance_km: 31.42
 - country: US
   region: NM
+  county: McKinley
   name: Catalpa Canyon
   lat: '35.4942'
   long: "-108.7206"
@@ -770,6 +837,7 @@ cities:
     distance_km: 25.77
 - country: US
   region: NM
+  county: Roosevelt
   name: Causey
   lat: '33.8607'
   long: "-103.1066"
@@ -782,6 +850,7 @@ cities:
     distance_km: 32.22
 - country: US
   region: NM
+  county: Santa Fe
   name: !binary |-
     Q2HDsWFkYSBkZSBsb3MgQWxhbW9z
   lat: '35.5927'
@@ -795,6 +864,7 @@ cities:
     distance_km: 30.05
 - country: US
   region: NM
+  county: Sandoval
   name: !binary |-
     Q2HDsW9u
   lat: '35.6718'
@@ -808,6 +878,7 @@ cities:
     distance_km: 39.37
 - country: US
   region: NM
+  county: Santa Fe
   name: !binary |-
     Q2HDsW9uY2l0bw==
   lat: '35.5388'
@@ -821,6 +892,7 @@ cities:
     distance_km: 23.77
 - country: US
   region: NM
+  county: Rio Arriba
   name: !binary |-
     Q2HDsW9uZXM=
   lat: '36.1768'
@@ -834,6 +906,7 @@ cities:
     distance_km: 32.51
 - country: US
   region: NM
+  county: Bernalillo
   name: Cedar Crest
   lat: '35.1114'
   long: "-106.3802"
@@ -846,6 +919,7 @@ cities:
     distance_km: 25.82
 - country: US
   region: NM
+  county: Santa Fe
   name: Cedar Grove
   lat: '35.1788'
   long: "-106.1728"
@@ -858,6 +932,7 @@ cities:
     distance_km: 36.64
 - country: US
   region: NM
+  county: San Juan
   name: Cedar Hill
   lat: '36.9424'
   long: "-107.8862"
@@ -870,6 +945,7 @@ cities:
     distance_km: 73.01
 - country: US
   region: NM
+  county: Bernalillo
   name: Cedro
   lat: '35.0180'
   long: "-106.3508"
@@ -882,6 +958,7 @@ cities:
     distance_km: 29.16
 - country: US
   region: NM
+  county: San Juan
   name: Center Point
   lat: '36.8720'
   long: "-107.9551"
@@ -894,6 +971,7 @@ cities:
     distance_km: 65.51
 - country: US
   region: NM
+  county: Rio Arriba
   name: Chama
   lat: '36.8931'
   long: "-106.5843"
@@ -906,6 +984,8 @@ cities:
     distance_km: 36.98
 - country: US
   region: NM
+  county: !binary |-
+    RG/DsWEgQW5h
   name: Chamberino
   lat: '32.0364'
   long: "-106.6776"
@@ -918,6 +998,7 @@ cities:
     distance_km: 19.6
 - country: US
   region: NM
+  county: Taos
   name: Chamisal
   lat: '36.1725'
   long: "-105.7459"
@@ -930,6 +1011,7 @@ cities:
     distance_km: 15.55
 - country: US
   region: NM
+  county: Rio Arriba
   name: Chamita
   lat: '36.0706'
   long: "-106.0974"
@@ -942,6 +1024,7 @@ cities:
     distance_km: 16.68
 - country: US
   region: NM
+  county: Socorro
   name: Chamizal
   lat: '34.2182'
   long: "-106.9152"
@@ -954,6 +1037,8 @@ cities:
     distance_km: 50.69
 - country: US
   region: NM
+  county: !binary |-
+    RG/DsWEgQW5h
   name: Chaparral
   lat: '32.0442'
   long: "-106.4060"
@@ -966,6 +1051,7 @@ cities:
     distance_km: 29.46
 - country: US
   region: NM
+  county: Valencia
   name: Chical
   lat: '34.8658'
   long: "-106.6671"
@@ -978,6 +1064,7 @@ cities:
     distance_km: 24.97
 - country: US
   region: NM
+  county: Rio Arriba
   name: Chili
   lat: '36.1027'
   long: "-106.1529"
@@ -990,6 +1077,7 @@ cities:
     distance_km: 18.9
 - country: US
   region: NM
+  county: Bernalillo
   name: Chilili
   lat: '34.8974'
   long: "-106.2332"
@@ -1002,6 +1090,7 @@ cities:
     distance_km: 24.76
 - country: US
   region: NM
+  county: Santa Fe
   name: Chimayo
   lat: '35.9981'
   long: "-105.9413"
@@ -1014,6 +1103,7 @@ cities:
     distance_km: 13.04
 - country: US
   region: NM
+  county: Santa Fe
   name: Chupadero
   lat: '35.8144'
   long: "-105.9198"
@@ -1026,6 +1116,7 @@ cities:
     distance_km: 24.69
 - country: US
   region: NM
+  county: McKinley
   name: Church Rock
   lat: '35.5692'
   long: "-108.5730"
@@ -1038,6 +1129,7 @@ cities:
     distance_km: 36.65
 - country: US
   region: NM
+  county: Colfax
   name: Cimarron
   lat: '36.5083'
   long: "-104.9104"
@@ -1050,6 +1142,7 @@ cities:
     distance_km: 33.05
 - country: US
   region: NM
+  county: Luna
   name: City of the Sun
   lat: '31.8466'
   long: "-107.6504"
@@ -1062,6 +1155,7 @@ cities:
     distance_km: 84.3
 - country: US
   region: NM
+  county: Union
   name: Clayton
   lat: '36.4426'
   long: "-103.1574"
@@ -1074,6 +1168,7 @@ cities:
     distance_km: 69.81
 - country: US
   region: NM
+  county: Grant
   name: Cliff
   lat: '32.9660'
   long: "-108.6176"
@@ -1086,6 +1181,7 @@ cities:
     distance_km: 46.35
 - country: US
   region: NM
+  county: Otero
   name: Cloudcroft
   lat: '32.9532'
   long: "-105.7326"
@@ -1098,6 +1194,7 @@ cities:
     distance_km: 22.86
 - country: US
   region: NM
+  county: Curry
   name: Clovis
   lat: '34.4376'
   long: "-103.1923"
@@ -1110,6 +1207,7 @@ cities:
     distance_km: 12.84
 - country: US
   region: NM
+  county: Grant
   name: Cobre
   lat: '32.7804'
   long: "-108.1106"
@@ -1122,6 +1220,7 @@ cities:
     distance_km: 15.17
 - country: US
   region: NM
+  county: Sandoval
   name: Cochiti
   lat: '35.6104'
   long: "-106.3501"
@@ -1134,6 +1233,7 @@ cities:
     distance_km: 30.81
 - country: US
   region: NM
+  county: Sandoval
   name: Cochiti Lake
   lat: '35.6478'
   long: "-106.3425"
@@ -1146,6 +1246,7 @@ cities:
     distance_km: 26.6
 - country: US
   region: NM
+  county: Luna
   name: Columbus
   lat: '31.8271'
   long: "-107.6422"
@@ -1158,6 +1259,7 @@ cities:
     distance_km: 85.3
 - country: US
   region: NM
+  county: San Miguel
   name: Conchas Dam
   lat: '35.3623'
   long: "-104.2042"
@@ -1170,6 +1272,7 @@ cities:
     distance_km: 48.08
 - country: US
   region: NM
+  county: Santa Fe
   name: Conejo
   lat: '35.6287'
   long: "-105.9423"
@@ -1182,6 +1285,7 @@ cities:
     distance_km: 32.48
 - country: US
   region: NM
+  county: McKinley
   name: Continental Divide
   lat: '35.4329'
   long: "-108.3358"
@@ -1194,6 +1298,7 @@ cities:
     distance_km: 38.15
 - country: US
   region: NM
+  county: Rio Arriba
   name: Cordova
   lat: '36.0128'
   long: "-105.8566"
@@ -1206,6 +1311,7 @@ cities:
     distance_km: 20.1
 - country: US
   region: NM
+  county: Lincoln
   name: Corona
   lat: '34.2501'
   long: "-105.5970"
@@ -1218,6 +1324,7 @@ cities:
     distance_km: 66.65
 - country: US
   region: NM
+  county: Sandoval
   name: Corrales
   lat: '35.2366'
   long: "-106.6191"
@@ -1230,6 +1337,7 @@ cities:
     distance_km: 27.54
 - country: US
   region: NM
+  county: Taos
   name: Costilla
   lat: '36.9786'
   long: "-105.5353"
@@ -1242,6 +1350,7 @@ cities:
     distance_km: 52.61
 - country: US
   region: NM
+  county: Hidalgo
   name: Cotton City
   lat: '32.1104'
   long: "-108.8801"
@@ -1254,6 +1363,7 @@ cities:
     distance_km: 33.94
 - country: US
   region: NM
+  county: Rio Arriba
   name: Coyote
   lat: '36.1615'
   long: "-106.6067"
@@ -1266,6 +1376,7 @@ cities:
     distance_km: 35.32
 - country: US
   region: NM
+  county: McKinley
   name: Crestview
   lat: '35.4878'
   long: "-108.8574"
@@ -1278,6 +1389,7 @@ cities:
     distance_km: 26.06
 - country: US
   region: NM
+  county: San Juan
   name: Crouch Mesa
   lat: '36.7480'
   long: "-108.0853"
@@ -1290,6 +1402,7 @@ cities:
     distance_km: 53.41
 - country: US
   region: NM
+  county: McKinley
   name: Crownpoint
   lat: '35.7173'
   long: "-108.1432"
@@ -1302,6 +1415,7 @@ cities:
     distance_km: 56.48
 - country: US
   region: NM
+  county: Catron
   name: Cruzville
   lat: '33.8100'
   long: "-108.6684"
@@ -1314,6 +1428,7 @@ cities:
     distance_km: 58.05
 - country: US
   region: NM
+  county: San Juan
   name: Crystal
   lat: '36.0290'
   long: "-108.9898"
@@ -1326,6 +1441,7 @@ cities:
     distance_km: 27.56
 - country: US
   region: NM
+  county: Santa Fe
   name: Cuartelez
   lat: '35.9929'
   long: "-106.0196"
@@ -1338,6 +1454,7 @@ cities:
     distance_km: 12.68
 - country: US
   region: NM
+  county: Sandoval
   name: Cuba
   lat: '36.0146'
   long: "-106.9680"
@@ -1350,6 +1467,7 @@ cities:
     distance_km: 32.37
 - country: US
   region: NM
+  county: Cibola
   name: Cubero
   lat: '35.0904'
   long: "-107.5261"
@@ -1362,6 +1480,7 @@ cities:
     distance_km: 78.85
 - country: US
   region: NM
+  county: Santa Fe
   name: Cundiyo
   lat: '35.9610'
   long: "-105.9010"
@@ -1374,6 +1493,7 @@ cities:
     distance_km: 16.83
 - country: US
   region: NM
+  county: Santa Fe
   name: Cuyamungue
   lat: '35.8648'
   long: "-106.0096"
@@ -1386,6 +1506,7 @@ cities:
     distance_km: 17.59
 - country: US
   region: NM
+  county: Santa Fe
   name: Cuyamungue Grant
   lat: '35.8464'
   long: "-105.9948"
@@ -1398,6 +1519,7 @@ cities:
     distance_km: 18.43
 - country: US
   region: NM
+  county: Catron
   name: Datil
   lat: '34.1423'
   long: "-107.8424"
@@ -1410,6 +1532,7 @@ cities:
     distance_km: 64.1
 - country: US
   region: NM
+  county: Torrance
   name: Deer Canyon
   lat: '34.4436'
   long: "-106.2607"
@@ -1422,6 +1545,7 @@ cities:
     distance_km: 52.66
 - country: US
   region: NM
+  county: Luna
   name: Deming
   lat: '32.2631'
   long: "-107.7525"
@@ -1434,6 +1558,7 @@ cities:
     distance_km: 65.55
 - country: US
   region: NM
+  county: Union
   name: Des Moines
   lat: '36.7614'
   long: "-103.8342"
@@ -1446,6 +1571,7 @@ cities:
     distance_km: 67.48
 - country: US
   region: NM
+  county: Chaves
   name: Dexter
   lat: '33.1954'
   long: "-104.3687"
@@ -1458,6 +1584,7 @@ cities:
     distance_km: 26.9
 - country: US
   region: NM
+  county: Rio Arriba
   name: Dixon
   lat: '36.1886'
   long: "-105.8784"
@@ -1470,6 +1597,7 @@ cities:
     distance_km: 17.58
 - country: US
   region: NM
+  county: Roosevelt
   name: Dora
   lat: '33.9334'
   long: "-103.3369"
@@ -1482,6 +1610,8 @@ cities:
     distance_km: 25.4
 - country: US
   region: NM
+  county: !binary |-
+    RG/DsWEgQW5h
   name: !binary |-
     RG/DsWEgQW5h
   lat: '32.3940'
@@ -1495,6 +1625,7 @@ cities:
     distance_km: 43.37
 - country: US
   region: NM
+  county: Rio Arriba
   name: Dulce
   lat: '36.9399'
   long: "-107.0049"
@@ -1507,6 +1638,7 @@ cities:
     distance_km: 47.16
 - country: US
   region: NM
+  county: Torrance
   name: Duran
   lat: '34.4636'
   long: "-105.3807"
@@ -1519,6 +1651,7 @@ cities:
     distance_km: 75.28
 - country: US
   region: NM
+  county: Colfax
   name: Eagle Nest
   lat: '36.5496'
   long: "-105.2591"
@@ -1531,6 +1664,7 @@ cities:
     distance_km: 31.05
 - country: US
   region: NM
+  county: San Miguel
   name: East Pecos
   lat: '35.5765'
   long: "-105.6500"
@@ -1543,6 +1677,7 @@ cities:
     distance_km: 29.53
 - country: US
   region: NM
+  county: Santa Fe
   name: Edgewood
   lat: '35.1318'
   long: "-106.2151"
@@ -1555,6 +1690,7 @@ cities:
     distance_km: 35.52
 - country: US
   region: NM
+  county: Valencia
   name: El Cerro
   lat: '34.7807'
   long: "-106.6955"
@@ -1567,6 +1703,7 @@ cities:
     distance_km: 33.71
 - country: US
   region: NM
+  county: Valencia
   name: El Cerro Mission
   lat: '34.7688'
   long: "-106.6447"
@@ -1579,6 +1716,7 @@ cities:
     distance_km: 34.76
 - country: US
   region: NM
+  county: Rio Arriba
   name: El Duende
   lat: '36.0738'
   long: "-106.1269"
@@ -1591,6 +1729,7 @@ cities:
     distance_km: 19.2
 - country: US
   region: NM
+  county: Cibola
   name: El Morro Valley
   lat: '35.0362'
   long: "-108.3225"
@@ -1603,6 +1742,7 @@ cities:
     distance_km: 44.76
 - country: US
   region: NM
+  county: Santa Fe
   name: El Rancho
   lat: '35.8928'
   long: "-106.0856"
@@ -1615,6 +1755,7 @@ cities:
     distance_km: 18.11
 - country: US
   region: NM
+  county: Rio Arriba
   name: El Rito
   lat: '36.3380'
   long: "-106.1844"
@@ -1627,6 +1768,7 @@ cities:
     distance_km: 18.13
 - country: US
   region: NM
+  county: Santa Fe
   name: El Valle de Arroyo Seco
   lat: '35.9526'
   long: "-106.0260"
@@ -1639,6 +1781,7 @@ cities:
     distance_km: 17.01
 - country: US
   region: NM
+  county: Santa Fe
   name: Eldorado at Santa Fe
   lat: '35.5273'
   long: "-105.9340"
@@ -1651,6 +1794,7 @@ cities:
     distance_km: 26.61
 - country: US
   region: NM
+  county: Sierra
   name: Elephant Butte
   lat: '33.1806'
   long: "-107.2269"
@@ -1663,6 +1807,7 @@ cities:
     distance_km: 57.67
 - country: US
   region: NM
+  county: Roosevelt
   name: Elida
   lat: '33.9469'
   long: "-103.6531"
@@ -1675,6 +1820,7 @@ cities:
     distance_km: 34.1
 - country: US
   region: NM
+  county: Santa Fe
   name: Encantado
   lat: '35.7934'
   long: "-105.9111"
@@ -1687,6 +1833,7 @@ cities:
     distance_km: 26.45
 - country: US
   region: NM
+  county: Cibola
   name: Encinal
   lat: '35.1112'
   long: "-107.4651"
@@ -1699,6 +1846,7 @@ cities:
     distance_km: 74.38
 - country: US
   region: NM
+  county: Torrance
   name: Encino
   lat: '34.6518'
   long: "-105.4586"
@@ -1711,6 +1859,7 @@ cities:
     distance_km: 61.34
 - country: US
   region: NM
+  county: Rio Arriba
   name: Ensenada
   lat: '36.7310'
   long: "-106.5368"
@@ -1723,6 +1872,7 @@ cities:
     distance_km: 30.21
 - country: US
   region: NM
+  county: Socorro
   name: Escondida
   lat: '34.1012'
   long: "-106.8974"
@@ -1735,6 +1885,7 @@ cities:
     distance_km: 54.57
 - country: US
   region: NM
+  county: Catron
   name: Escudilla Bonita
   lat: '34.1122'
   long: "-109.0231"
@@ -1747,6 +1898,7 @@ cities:
     distance_km: 54.82
 - country: US
   region: NM
+  county: Rio Arriba
   name: !binary |-
     RXNwYcOxb2xh
   lat: '36.0044'
@@ -1760,6 +1912,7 @@ cities:
     distance_km: 12.12
 - country: US
   region: NM
+  county: Torrance
   name: Estancia
   lat: '34.7667'
   long: "-106.0301"
@@ -1772,6 +1925,7 @@ cities:
     distance_km: 32.95
 - country: US
   region: NM
+  county: Lea
   name: Eunice
   lat: '32.4461'
   long: "-103.1986"
@@ -1784,6 +1938,8 @@ cities:
     distance_km: 36.98
 - country: US
   region: NM
+  county: !binary |-
+    RG/DsWEgQW5h
   name: Fairacres
   lat: '32.3047'
   long: "-106.8367"
@@ -1796,6 +1952,7 @@ cities:
     distance_km: 40.21
 - country: US
   region: NM
+  county: San Juan
   name: Farmington
   lat: '36.7555'
   long: "-108.1823"
@@ -1808,6 +1965,7 @@ cities:
     distance_km: 44.73
 - country: US
   region: NM
+  county: Grant
   name: Faywood
   lat: '32.6247'
   long: "-107.8723"
@@ -1820,6 +1978,7 @@ cities:
     distance_km: 41.0
 - country: US
   region: NM
+  county: Cibola
   name: Fence Lake
   lat: '34.6534'
   long: "-108.6738"
@@ -1832,6 +1991,7 @@ cities:
     distance_km: 38.17
 - country: US
   region: NM
+  county: San Juan
   name: Flora Vista
   lat: '36.8040'
   long: "-108.0876"
@@ -1844,6 +2004,7 @@ cities:
     distance_km: 53.07
 - country: US
   region: NM
+  county: Roosevelt
   name: Floyd
   lat: '34.2288'
   long: "-103.5526"
@@ -1856,6 +2017,7 @@ cities:
     distance_km: 21.38
 - country: US
   region: NM
+  county: Union
   name: Folsom
   lat: '36.8478'
   long: "-103.9176"
@@ -1868,6 +2030,7 @@ cities:
     distance_km: 65.04
 - country: US
   region: NM
+  county: De Baca
   name: Fort Sumner
   lat: '34.4790'
   long: "-104.2332"
@@ -1880,6 +2043,7 @@ cities:
     distance_km: 56.08
 - country: US
   region: NM
+  county: McKinley
   name: Fort Wingate
   lat: '35.4708'
   long: "-108.5439"
@@ -1892,6 +2056,7 @@ cities:
     distance_km: 33.55
 - country: US
   region: NM
+  county: San Juan
   name: Fruitland
   lat: '36.7432'
   long: "-108.3951"
@@ -1904,6 +2069,7 @@ cities:
     distance_km: 37.14
 - country: US
   region: NM
+  county: Santa Fe
   name: Galisteo
   lat: '35.3984'
   long: "-105.9571"
@@ -1916,6 +2082,7 @@ cities:
     distance_km: 32.15
 - country: US
   region: NM
+  county: Rio Arriba
   name: Gallina
   lat: '36.2295'
   long: "-106.8205"
@@ -1928,6 +2095,7 @@ cities:
     distance_km: 26.09
 - country: US
   region: NM
+  county: McKinley
   name: Gallup
   lat: '35.5182'
   long: "-108.7431"
@@ -1940,6 +2108,7 @@ cities:
     distance_km: 28.26
 - country: US
   region: NM
+  county: McKinley
   name: Gamerco
   lat: '35.5699'
   long: "-108.7641"
@@ -1952,6 +2121,8 @@ cities:
     distance_km: 26.95
 - country: US
   region: NM
+  county: !binary |-
+    RG/DsWEgQW5h
   name: Garfield
   lat: '32.7569'
   long: "-107.2665"
@@ -1964,6 +2135,7 @@ cities:
     distance_km: 41.81
 - country: US
   region: NM
+  county: Grant
   name: Gila
   lat: '32.9485'
   long: "-108.5762"
@@ -1976,6 +2148,7 @@ cities:
     distance_km: 46.56
 - country: US
   region: NM
+  county: Grant
   name: Gila Hot Springs
   lat: '33.1902'
   long: "-108.2045"
@@ -1988,6 +2161,7 @@ cities:
     distance_km: 46.52
 - country: US
   region: NM
+  county: Hidalgo
   name: Glen Acres
   lat: '32.3750'
   long: "-108.7162"
@@ -2000,6 +2174,7 @@ cities:
     distance_km: 48.08
 - country: US
   region: NM
+  county: Catron
   name: Glenwood
   lat: '33.3188'
   long: "-108.8811"
@@ -2012,6 +2187,7 @@ cities:
     distance_km: 46.54
 - country: US
   region: NM
+  county: Santa Fe
   name: Glorieta
   lat: '35.5840'
   long: "-105.7629"
@@ -2024,6 +2200,7 @@ cities:
     distance_km: 27.66
 - country: US
   region: NM
+  county: Santa Fe
   name: Golden
   lat: '35.2637'
   long: "-106.2230"
@@ -2036,6 +2213,7 @@ cities:
     distance_km: 34.0
 - country: US
   region: NM
+  county: Cibola
   name: Golden Acres
   lat: '35.2112'
   long: "-107.9182"
@@ -2048,6 +2226,7 @@ cities:
     distance_km: 53.46
 - country: US
   region: NM
+  county: Curry
   name: Grady
   lat: '34.8217'
   long: "-103.3157"
@@ -2060,6 +2239,7 @@ cities:
     distance_km: 31.18
 - country: US
   region: NM
+  county: Cibola
   name: Grants
   lat: '35.1538'
   long: "-107.8335"
@@ -2072,6 +2252,7 @@ cities:
     distance_km: 60.5
 - country: US
   region: NM
+  county: Union
   name: Grenville
   lat: '36.5906'
   long: "-103.6147"
@@ -2084,6 +2265,7 @@ cities:
     distance_km: 76.09
 - country: US
   region: NM
+  county: Grant
   name: Hachita
   lat: '31.9153'
   long: "-108.3253"
@@ -2096,6 +2278,7 @@ cities:
     distance_km: 45.55
 - country: US
   region: NM
+  county: Chaves
   name: Hagerman
   lat: '33.1146'
   long: "-104.3284"
@@ -2108,6 +2291,7 @@ cities:
     distance_km: 24.19
 - country: US
   region: NM
+  county: Grant
   name: Hanover
   lat: '32.8149'
   long: "-108.0897"
@@ -2120,6 +2304,7 @@ cities:
     distance_km: 17.66
 - country: US
   region: NM
+  county: Eddy
   name: Happy Valley
   lat: '32.4236'
   long: "-104.2903"
@@ -2132,6 +2317,8 @@ cities:
     distance_km: 27.75
 - country: US
   region: NM
+  county: !binary |-
+    RG/DsWEgQW5h
   name: Hatch
   lat: '32.6663'
   long: "-107.1644"
@@ -2144,6 +2331,7 @@ cities:
     distance_km: 52.49
 - country: US
   region: NM
+  county: McKinley
   name: Haystack
   lat: '35.3612'
   long: "-107.9340"
@@ -2156,6 +2344,7 @@ cities:
     distance_km: 46.55
 - country: US
   region: NM
+  county: Rio Arriba
   name: Hernandez
   lat: '36.0567'
   long: "-106.1185"
@@ -2168,6 +2357,7 @@ cities:
     distance_km: 17.76
 - country: US
   region: NM
+  county: Otero
   name: High Rolls
   lat: '32.9388'
   long: "-105.8214"
@@ -2180,6 +2370,7 @@ cities:
     distance_km: 23.6
 - country: US
   region: NM
+  county: Valencia
   name: Highland Meadows
   lat: '34.9400'
   long: "-107.1656"
@@ -2192,6 +2383,7 @@ cities:
     distance_km: 47.57
 - country: US
   region: NM
+  county: Sierra
   name: Hillsboro
   lat: '32.9219'
   long: "-107.5773"
@@ -2204,6 +2396,7 @@ cities:
     distance_km: 38.39
 - country: US
   region: NM
+  county: Lea
   name: Hobbs
   lat: '32.7281'
   long: "-103.1600"
@@ -2216,6 +2409,7 @@ cities:
     distance_km: 32.51
 - country: US
   region: NM
+  county: Otero
   name: Holloman AFB
   lat: '32.8483'
   long: "-106.0998"
@@ -2228,6 +2422,7 @@ cities:
     distance_km: 35.22
 - country: US
   region: NM
+  county: McKinley
   name: Homer C Jones
   lat: '35.3078'
   long: "-108.0966"
@@ -2240,6 +2435,7 @@ cities:
     distance_km: 41.88
 - country: US
   region: NM
+  county: Catron
   name: Homestead
   lat: '34.1488'
   long: "-107.8820"
@@ -2252,6 +2448,7 @@ cities:
     distance_km: 60.44
 - country: US
   region: NM
+  county: Eddy
   name: Hope
   lat: '32.8159'
   long: "-104.7371"
@@ -2264,6 +2461,7 @@ cities:
     distance_km: 31.45
 - country: US
   region: NM
+  county: Sierra
   name: Hot Springs Landing
   lat: '33.2047'
   long: "-107.2100"
@@ -2276,6 +2474,7 @@ cities:
     distance_km: 60.16
 - country: US
   region: NM
+  county: Quay
   name: House
   lat: '34.6492'
   long: "-103.9038"
@@ -2288,6 +2487,7 @@ cities:
     distance_km: 30.65
 - country: US
   region: NM
+  county: Grant
   name: Hurley
   lat: '32.6982'
   long: "-108.1321"
@@ -2300,6 +2500,7 @@ cities:
     distance_km: 22.82
 - country: US
   region: NM
+  county: Santa Fe
   name: Hyde Park
   lat: '35.7112'
   long: "-105.8866"
@@ -2312,6 +2513,7 @@ cities:
     distance_km: 31.35
 - country: US
   region: NM
+  county: Torrance
   name: Indian Hills
   lat: '34.9832'
   long: "-106.1398"
@@ -2324,6 +2526,7 @@ cities:
     distance_km: 24.59
 - country: US
   region: NM
+  county: Bernalillo
   name: Isleta
   lat: '34.9042'
   long: "-106.6992"
@@ -2336,6 +2539,7 @@ cities:
     distance_km: 28.11
 - country: US
   region: NM
+  county: McKinley
   name: Iyanbito
   lat: '35.5160'
   long: "-108.4878"
@@ -2348,6 +2552,7 @@ cities:
     distance_km: 35.76
 - country: US
   region: NM
+  county: Santa Fe
   name: Jacona
   lat: '35.8887'
   long: "-106.0386"
@@ -2360,6 +2565,7 @@ cities:
     distance_km: 15.89
 - country: US
   region: NM
+  county: Santa Fe
   name: Jaconita
   lat: '35.8857'
   long: "-106.0611"
@@ -2372,6 +2578,7 @@ cities:
     distance_km: 17.09
 - country: US
   region: NM
+  county: Lea
   name: Jal
   lat: '32.1148'
   long: "-103.1900"
@@ -2384,6 +2591,7 @@ cities:
     distance_km: 46.15
 - country: US
   region: NM
+  county: McKinley
   name: Jamestown
   lat: '35.4692'
   long: "-108.4396"
@@ -2396,6 +2604,7 @@ cities:
     distance_km: 36.66
 - country: US
   region: NM
+  county: Valencia
   name: Jarales
   lat: '34.6147'
   long: "-106.7631"
@@ -2408,6 +2617,7 @@ cities:
     distance_km: 48.76
 - country: US
   region: NM
+  county: Sandoval
   name: Jemez Pueblo
   lat: '35.6066'
   long: "-106.7333"
@@ -2420,6 +2630,7 @@ cities:
     distance_km: 36.3
 - country: US
   region: NM
+  county: Sandoval
   name: Jemez Springs
   lat: '35.7732'
   long: "-106.6909"
@@ -2432,6 +2643,7 @@ cities:
     distance_km: 37.03
 - country: US
   region: NM
+  county: Luna
   name: Keeler Farm
   lat: '32.3161'
   long: "-107.7602"
@@ -2444,6 +2656,7 @@ cities:
     distance_km: 60.26
 - country: US
   region: NM
+  county: Sierra
   name: Kingston
   lat: '32.9173'
   long: "-107.7097"
@@ -2456,6 +2669,7 @@ cities:
     distance_km: 43.28
 - country: US
   region: NM
+  county: San Juan
   name: Kirtland
   lat: '36.7502'
   long: "-108.3588"
@@ -2468,6 +2682,7 @@ cities:
     distance_km: 33.82
 - country: US
   region: NM
+  county: Bernalillo
   name: Kirtland AFB
   lat: '35.0497'
   long: "-106.5599"
@@ -2480,6 +2695,7 @@ cities:
     distance_km: 27.68
 - country: US
   region: NM
+  county: Santa Fe
   name: La Bajada
   lat: '35.5565'
   long: "-106.2436"
@@ -2492,6 +2708,7 @@ cities:
     distance_km: 30.89
 - country: US
   region: NM
+  county: San Juan
   name: La Boca
   lat: '36.9945'
   long: "-107.6065"
@@ -2504,6 +2721,7 @@ cities:
     distance_km: 61.09
 - country: US
   region: NM
+  county: Santa Fe
   name: La Cienega
   lat: '35.5794'
   long: "-106.1130"
@@ -2516,6 +2734,7 @@ cities:
     distance_km: 29.19
 - country: US
   region: NM
+  county: Sandoval
   name: La Cueva
   lat: '35.8694'
   long: "-106.6485"
@@ -2528,6 +2747,7 @@ cities:
     distance_km: 32.99
 - country: US
   region: NM
+  county: Santa Fe
   name: La Cueva
   lat: '35.5776'
   long: "-105.7339"
@@ -2540,6 +2760,7 @@ cities:
     distance_km: 27.04
 - country: US
   region: NM
+  county: Luna
   name: La Hacienda
   lat: '32.2060'
   long: "-107.7250"
@@ -2552,6 +2773,7 @@ cities:
     distance_km: 72.3
 - country: US
   region: NM
+  county: Eddy
   name: La Huerta
   lat: '32.4489'
   long: "-104.2225"
@@ -2564,6 +2786,7 @@ cities:
     distance_km: 28.4
 - country: US
   region: NM
+  county: Sandoval
   name: La Jara
   lat: '36.1055'
   long: "-106.9419"
@@ -2576,6 +2799,7 @@ cities:
     distance_km: 23.47
 - country: US
   region: NM
+  county: Socorro
   name: La Joya
   lat: '34.3450'
   long: "-106.8466"
@@ -2588,6 +2812,7 @@ cities:
     distance_km: 44.44
 - country: US
   region: NM
+  county: Otero
   name: La Luz
   lat: '32.9698'
   long: "-105.9388"
@@ -2600,6 +2825,7 @@ cities:
     distance_km: 18.4
 - country: US
   region: NM
+  county: Rio Arriba
   name: La Madera
   lat: '36.3808'
   long: "-106.0420"
@@ -2612,6 +2838,7 @@ cities:
     distance_km: 13.77
 - country: US
   region: NM
+  county: Sandoval
   name: La Madera
   lat: '35.2345'
   long: "-106.3340"
@@ -2624,6 +2851,8 @@ cities:
     distance_km: 33.26
 - country: US
   region: NM
+  county: !binary |-
+    RG/DsWEgQW5h
   name: La Mesa
   lat: '32.1244'
   long: "-106.7090"
@@ -2636,6 +2865,7 @@ cities:
     distance_km: 21.46
 - country: US
   region: NM
+  county: Rio Arriba
   name: La Mesilla
   lat: '35.9461'
   long: "-106.0719"
@@ -2648,6 +2878,7 @@ cities:
     distance_km: 17.17
 - country: US
   region: NM
+  county: San Juan
   name: La Plata
   lat: '36.8952'
   long: "-108.2003"
@@ -2660,6 +2891,7 @@ cities:
     distance_km: 44.67
 - country: US
   region: NM
+  county: Santa Fe
   name: La Puebla
   lat: '35.9882'
   long: "-106.0005"
@@ -2672,6 +2904,7 @@ cities:
     distance_km: 13.65
 - country: US
   region: NM
+  county: Santa Fe
   name: La Tierra
   lat: '35.7473'
   long: "-106.0308"
@@ -2684,6 +2917,8 @@ cities:
     distance_km: 27.65
 - country: US
   region: NM
+  county: !binary |-
+    RG/DsWEgQW5h
   name: La Union
   lat: '31.9508'
   long: "-106.6622"
@@ -2696,6 +2931,7 @@ cities:
     distance_km: 18.81
 - country: US
   region: NM
+  county: Rio Arriba
   name: La Villita
   lat: '36.1001'
   long: "-106.0515"
@@ -2708,6 +2944,7 @@ cities:
     distance_km: 15.37
 - country: US
   region: NM
+  county: Cibola
   name: Laguna
   lat: '35.0473'
   long: "-107.4031"
@@ -2720,6 +2957,7 @@ cities:
     distance_km: 66.68
 - country: US
   region: NM
+  county: Chaves
   name: Lake Arthur
   lat: '32.9994'
   long: "-104.3637"
@@ -2732,6 +2970,7 @@ cities:
     distance_km: 17.07
 - country: US
   region: NM
+  county: Grant
   name: Lake Roberts
   lat: '33.0313'
   long: "-108.1689"
@@ -2744,6 +2983,7 @@ cities:
     distance_km: 30.59
 - country: US
   region: NM
+  county: Grant
   name: Lake Roberts Heights
   lat: '33.0271'
   long: "-108.1381"
@@ -2756,6 +2996,7 @@ cities:
     distance_km: 30.65
 - country: US
   region: NM
+  county: De Baca
   name: Lake Sumner
   lat: '34.6186'
   long: "-104.3801"
@@ -2768,6 +3009,7 @@ cities:
     distance_km: 45.3
 - country: US
   region: NM
+  county: San Juan
   name: Lake Valley
   lat: '36.0901'
   long: "-108.1642"
@@ -2780,6 +3022,7 @@ cities:
     distance_km: 47.73
 - country: US
   region: NM
+  county: Santa Fe
   name: Lamy
   lat: '35.4854'
   long: "-105.8863"
@@ -2792,6 +3035,7 @@ cities:
     distance_km: 22.89
 - country: US
   region: NM
+  county: Santa Fe
   name: Las Campanas
   lat: '35.7159'
   long: "-106.0582"
@@ -2804,6 +3048,8 @@ cities:
     distance_km: 28.71
 - country: US
   region: NM
+  county: !binary |-
+    RG/DsWEgQW5h
   name: Las Cruces
   lat: '32.3265'
   long: "-106.7893"
@@ -2816,6 +3062,7 @@ cities:
     distance_km: 40.36
 - country: US
   region: NM
+  county: Valencia
   name: Las Maravillas
   lat: '34.7340'
   long: "-106.6690"
@@ -2828,6 +3075,7 @@ cities:
     distance_km: 38.68
 - country: US
   region: NM
+  county: Socorro
   name: Las Nutrias
   lat: '34.4699'
   long: "-106.7708"
@@ -2840,6 +3088,7 @@ cities:
     distance_km: 47.26
 - country: US
   region: NM
+  county: Sierra
   name: Las Palomas
   lat: '33.0589'
   long: "-107.2983"
@@ -2852,6 +3101,7 @@ cities:
     distance_km: 45.85
 - country: US
   region: NM
+  county: San Miguel
   name: Las Vegas
   lat: '35.6011'
   long: "-105.2206"
@@ -2864,6 +3114,7 @@ cities:
     distance_km: 41.35
 - country: US
   region: NM
+  county: San Juan
   name: Lee Acres
   lat: '36.7031'
   long: "-108.0648"
@@ -2876,6 +3127,7 @@ cities:
     distance_km: 55.84
 - country: US
   region: NM
+  county: Socorro
   name: Lemitar
   lat: '34.1551'
   long: "-106.9122"
@@ -2888,6 +3140,7 @@ cities:
     distance_km: 57.44
 - country: US
   region: NM
+  county: Rio Arriba
   name: Lindrith
   lat: '36.3173'
   long: "-107.0459"
@@ -2900,6 +3153,7 @@ cities:
     distance_km: 33.47
 - country: US
   region: NM
+  county: Grant
   name: Little Walnut Village
   lat: '32.8257'
   long: "-108.2811"
@@ -2912,6 +3166,7 @@ cities:
     distance_km: 28.68
 - country: US
   region: NM
+  county: Eddy
   name: Livingston Wheeler
   lat: '32.3944'
   long: "-104.1981"
@@ -2924,6 +3179,7 @@ cities:
     distance_km: 29.27
 - country: US
   region: NM
+  county: Guadalupe
   name: Llano del Medio
   lat: '35.1881'
   long: "-105.1163"
@@ -2936,6 +3192,7 @@ cities:
     distance_km: 46.95
 - country: US
   region: NM
+  county: Cibola
   name: Lobo Canyon
   lat: '35.2238'
   long: "-107.7209"
@@ -2948,6 +3205,7 @@ cities:
     distance_km: 64.02
 - country: US
   region: NM
+  county: Eddy
   name: Loco Hills
   lat: '32.8197'
   long: "-103.9783"
@@ -2960,6 +3218,7 @@ cities:
     distance_km: 39.8
 - country: US
   region: NM
+  county: Quay
   name: Logan
   lat: '35.3576'
   long: "-103.4426"
@@ -2972,6 +3231,7 @@ cities:
     distance_km: 32.63
 - country: US
   region: NM
+  county: Hidalgo
   name: Lordsburg
   lat: '32.3438'
   long: "-108.7021"
@@ -2984,6 +3244,7 @@ cities:
     distance_km: 46.74
 - country: US
   region: NM
+  county: Los Alamos
   name: Los Alamos
   lat: '35.8927'
   long: "-106.2862"
@@ -2996,6 +3257,7 @@ cities:
     distance_km: 21.3
 - country: US
   region: NM
+  county: Santa Fe
   name: Los Cerrillos
   lat: '35.4272'
   long: "-106.1212"
@@ -3008,6 +3270,7 @@ cities:
     distance_km: 34.41
 - country: US
   region: NM
+  county: Valencia
   name: Los Chaves
   lat: '34.7334'
   long: "-106.7611"
@@ -3020,6 +3283,7 @@ cities:
     distance_km: 40.04
 - country: US
   region: NM
+  county: Rio Arriba
   name: Los Luceros
   lat: '36.1151'
   long: "-106.0371"
@@ -3032,6 +3296,7 @@ cities:
     distance_km: 15.83
 - country: US
   region: NM
+  county: Valencia
   name: Los Lunas
   lat: '34.8115'
   long: "-106.7803"
@@ -3044,6 +3309,7 @@ cities:
     distance_km: 32.33
 - country: US
   region: NM
+  county: Rio Arriba
   name: Los Ojos
   lat: '36.7361'
   long: "-106.5669"
@@ -3056,6 +3322,7 @@ cities:
     distance_km: 31.54
 - country: US
   region: NM
+  county: Bernalillo
   name: Los Ranchos de Albuquerque
   lat: '35.1625'
   long: "-106.6482"
@@ -3068,6 +3335,7 @@ cities:
     distance_km: 25.91
 - country: US
   region: NM
+  county: Eddy
   name: Loving
   lat: '32.2862'
   long: "-104.0976"
@@ -3080,6 +3348,7 @@ cities:
     distance_km: 28.51
 - country: US
   region: NM
+  county: Lea
   name: Lovington
   lat: '32.9128'
   long: "-103.3276"
@@ -3092,6 +3361,7 @@ cities:
     distance_km: 38.67
 - country: US
   region: NM
+  county: Catron
   name: Lower Frisco
   lat: '33.6515'
   long: "-108.7895"
@@ -3104,6 +3374,7 @@ cities:
     distance_km: 37.93
 - country: US
   region: NM
+  county: Socorro
   name: Luis Lopez
   lat: '33.9904'
   long: "-106.8878"
@@ -3116,6 +3387,7 @@ cities:
     distance_km: 49.71
 - country: US
   region: NM
+  county: Rio Arriba
   name: Lumberton
   lat: '36.9328'
   long: "-106.9352"
@@ -3128,6 +3400,7 @@ cities:
     distance_km: 41.61
 - country: US
   region: NM
+  county: Catron
   name: Luna
   lat: '33.8181'
   long: "-108.9435"
@@ -3140,6 +3413,7 @@ cities:
     distance_km: 55.77
 - country: US
   region: NM
+  county: Rio Arriba
   name: Lybrook
   lat: '36.2290'
   long: "-107.5549"
@@ -3152,6 +3426,7 @@ cities:
     distance_km: 46.1
 - country: US
   region: NM
+  county: Rio Arriba
   name: Lyden
   lat: '36.1537'
   long: "-106.0147"
@@ -3164,6 +3439,7 @@ cities:
     distance_km: 18.14
 - country: US
   region: NM
+  county: Santa Fe
   name: Madrid
   lat: '35.4033'
   long: "-106.1537"
@@ -3176,6 +3452,7 @@ cities:
     distance_km: 36.6
 - country: US
   region: NM
+  county: Valencia
   name: Madrone
   lat: '34.5792'
   long: "-106.7285"
@@ -3188,6 +3465,7 @@ cities:
     distance_km: 44.99
 - country: US
   region: NM
+  county: Socorro
   name: Magdalena
   lat: '34.1095'
   long: "-107.2319"
@@ -3200,6 +3478,7 @@ cities:
     distance_km: 56.12
 - country: US
   region: NM
+  county: Eddy
   name: Malaga
   lat: '32.2227'
   long: "-104.0692"
@@ -3212,6 +3491,7 @@ cities:
     distance_km: 28.87
 - country: US
   region: NM
+  county: McKinley
   name: Manuelito
   lat: '35.4387'
   long: "-108.9946"
@@ -3224,6 +3504,7 @@ cities:
     distance_km: 29.03
 - country: US
   region: NM
+  county: Torrance
   name: Manzano
   lat: '34.6437'
   long: "-106.3671"
@@ -3236,6 +3517,7 @@ cities:
     distance_km: 37.17
 - country: US
   region: NM
+  county: Torrance
   name: Manzano Springs
   lat: '34.9614'
   long: "-106.2328"
@@ -3248,6 +3530,7 @@ cities:
     distance_km: 23.83
 - country: US
   region: NM
+  county: Colfax
   name: Maxwell
   lat: '36.5411'
   long: "-104.5431"
@@ -3260,6 +3543,7 @@ cities:
     distance_km: 33.43
 - country: US
   region: NM
+  county: Otero
   name: Mayhill
   lat: '32.8961'
   long: "-105.4960"
@@ -3272,6 +3556,7 @@ cities:
     distance_km: 32.74
 - country: US
   region: NM
+  county: Cibola
   name: McCartys Village
   lat: '35.0614'
   long: "-107.6634"
@@ -3284,6 +3569,7 @@ cities:
     distance_km: 71.18
 - country: US
   region: NM
+  county: McKinley
   name: McGaffey
   lat: '35.3720'
   long: "-108.5207"
@@ -3296,6 +3582,7 @@ cities:
     distance_km: 26.76
 - country: US
   region: NM
+  county: Torrance
   name: McIntosh
   lat: '34.8819'
   long: "-106.0559"
@@ -3308,6 +3595,7 @@ cities:
     distance_km: 37.14
 - country: US
   region: NM
+  county: Valencia
   name: Meadow Lake
   lat: '34.8024'
   long: "-106.5701"
@@ -3320,6 +3608,7 @@ cities:
     distance_km: 31.84
 - country: US
   region: NM
+  county: Rio Arriba
   name: Medanales
   lat: '36.1765'
   long: "-106.1777"
@@ -3332,6 +3621,7 @@ cities:
     distance_km: 19.32
 - country: US
   region: NM
+  county: Curry
   name: Melrose
   lat: '34.4289'
   long: "-103.6296"
@@ -3344,6 +3634,7 @@ cities:
     distance_km: 23.48
 - country: US
   region: NM
+  county: Otero
   name: Mescalero
   lat: '33.1448'
   long: "-105.7897"
@@ -3356,6 +3647,8 @@ cities:
     distance_km: 22.68
 - country: US
   region: NM
+  county: !binary |-
+    RG/DsWEgQW5h
   name: Mesilla
   lat: '32.2693'
   long: "-106.8091"
@@ -3368,6 +3661,7 @@ cities:
     distance_km: 35.5
 - country: US
   region: NM
+  county: Cibola
   name: Mesita
   lat: '35.0026'
   long: "-107.3122"
@@ -3380,6 +3674,8 @@ cities:
     distance_km: 57.12
 - country: US
   region: NM
+  county: !binary |-
+    RG/DsWEgQW5h
   name: Mesquite
   lat: '32.1670'
   long: "-106.6885"
@@ -3392,6 +3688,7 @@ cities:
     distance_km: 20.39
 - country: US
   region: NM
+  county: Catron
   name: Middle Frisco
   lat: '33.6949'
   long: "-108.7639"
@@ -3404,6 +3701,7 @@ cities:
     distance_km: 43.19
 - country: US
   region: NM
+  county: Chaves
   name: Midway
   lat: '33.2958'
   long: "-104.4518"
@@ -3416,6 +3714,7 @@ cities:
     distance_km: 22.86
 - country: US
   region: NM
+  county: Cibola
   name: Milan
   lat: '35.1949'
   long: "-107.8946"
@@ -3428,6 +3727,7 @@ cities:
     distance_km: 55.33
 - country: US
   region: NM
+  county: Grant
   name: Mimbres
   lat: '32.8398'
   long: "-107.9606"
@@ -3440,6 +3740,7 @@ cities:
     distance_km: 30.03
 - country: US
   region: NM
+  county: Catron
   name: Mogollon
   lat: '33.4034'
   long: "-108.7992"
@@ -3452,6 +3753,7 @@ cities:
     distance_km: 48.75
 - country: US
   region: NM
+  county: Valencia
   name: Monterey Park
   lat: '34.7511'
   long: "-106.6530"
@@ -3464,6 +3766,7 @@ cities:
     distance_km: 36.73
 - country: US
   region: NM
+  county: Lea
   name: Monument
   lat: '32.6243'
   long: "-103.2776"
@@ -3476,6 +3779,7 @@ cities:
     distance_km: 36.95
 - country: US
   region: NM
+  county: Cibola
   name: Moquino
   lat: '35.1700'
   long: "-107.3640"
@@ -3488,6 +3792,7 @@ cities:
     distance_km: 65.82
 - country: US
   region: NM
+  county: Mora
   name: Mora
   lat: '35.9634'
   long: "-105.3312"
@@ -3500,6 +3805,7 @@ cities:
     distance_km: 41.42
 - country: US
   region: NM
+  county: Torrance
   name: Moriarty
   lat: '35.0034'
   long: "-106.0444"
@@ -3512,6 +3818,7 @@ cities:
     distance_km: 31.83
 - country: US
   region: NM
+  county: Eddy
   name: Morningside
   lat: '32.8610'
   long: "-104.3971"
@@ -3524,6 +3831,7 @@ cities:
     distance_km: 22.93
 - country: US
   region: NM
+  county: Harding
   name: Mosquero
   lat: '35.7743'
   long: "-103.9544"
@@ -3536,6 +3844,7 @@ cities:
     distance_km: 48.48
 - country: US
   region: NM
+  county: Cibola
   name: Mount Taylor
   lat: '35.1241'
   long: "-107.8075"
@@ -3548,6 +3857,7 @@ cities:
     distance_km: 61.25
 - country: US
   region: NM
+  county: Cibola
   name: Mountain View
   lat: '35.0046'
   long: "-108.3979"
@@ -3560,6 +3870,7 @@ cities:
     distance_km: 42.12
 - country: US
   region: NM
+  county: Luna
   name: Mountain View
   lat: '32.2288'
   long: "-107.7462"
@@ -3572,6 +3883,7 @@ cities:
     distance_km: 69.09
 - country: US
   region: NM
+  county: Torrance
   name: Mountainair
   lat: '34.5212'
   long: "-106.2392"
@@ -3584,6 +3896,7 @@ cities:
     distance_km: 51.2
 - country: US
   region: NM
+  county: Lea
   name: Nadine
   lat: '32.6231'
   long: "-103.1078"
@@ -3596,6 +3909,7 @@ cities:
     distance_km: 42.81
 - country: US
   region: NM
+  county: San Juan
   name: Nageezi
   lat: '36.2488'
   long: "-107.7471"
@@ -3608,6 +3922,7 @@ cities:
     distance_km: 62.92
 - country: US
   region: NM
+  county: McKinley
   name: Nakaibito
   lat: '35.7826'
   long: "-108.8039"
@@ -3620,6 +3935,7 @@ cities:
     distance_km: 21.17
 - country: US
   region: NM
+  county: Santa Fe
   name: Nambe
   lat: '35.8984'
   long: "-105.9667"
@@ -3632,6 +3948,7 @@ cities:
     distance_km: 21.46
 - country: US
   region: NM
+  county: San Juan
   name: Napi Headquarters
   lat: '36.6505'
   long: "-108.2145"
@@ -3644,6 +3961,7 @@ cities:
     distance_km: 44.38
 - country: US
   region: NM
+  county: Quay
   name: Nara Visa
   lat: '35.6068'
   long: "-103.1043"
@@ -3656,6 +3974,7 @@ cities:
     distance_km: 59.41
 - country: US
   region: NM
+  county: San Juan
   name: Naschitti
   lat: '36.0626'
   long: "-108.6800"
@@ -3668,6 +3987,7 @@ cities:
     distance_km: 24.93
 - country: US
   region: NM
+  county: McKinley
   name: Navajo
   lat: '35.9024'
   long: "-109.0321"
@@ -3680,6 +4000,7 @@ cities:
     distance_km: 27.09
 - country: US
   region: NM
+  county: San Juan
   name: Navajo Dam
   lat: '36.8339'
   long: "-107.6460"
@@ -3692,6 +4013,7 @@ cities:
     distance_km: 58.81
 - country: US
   region: NM
+  county: San Juan
   name: Nenahnezad
   lat: '36.7354'
   long: "-108.4252"
@@ -3704,6 +4026,7 @@ cities:
     distance_km: 39.96
 - country: US
   region: NM
+  county: San Juan
   name: Newcomb
   lat: '36.2852'
   long: "-108.7116"
@@ -3716,6 +4039,7 @@ cities:
     distance_km: 21.48
 - country: US
   region: NM
+  county: Guadalupe
   name: Newkirk
   lat: '35.0635'
   long: "-104.2715"
@@ -3728,6 +4052,7 @@ cities:
     distance_km: 48.69
 - country: US
   region: NM
+  county: Lincoln
   name: Nogal
   lat: '33.5382'
   long: "-105.7119"
@@ -3740,6 +4065,7 @@ cities:
     distance_km: 18.72
 - country: US
   region: NM
+  county: Cibola
   name: North Acomita Village
   lat: '35.0673'
   long: "-107.5649"
@@ -3752,6 +4078,7 @@ cities:
     distance_km: 80.02
 - country: US
   region: NM
+  county: Lea
   name: North Hobbs
   lat: '32.7731'
   long: "-103.1250"
@@ -3764,6 +4091,7 @@ cities:
     distance_km: 37.65
 - country: US
   region: NM
+  county: Grant
   name: North Hurley
   lat: '32.7198'
   long: "-108.1285"
@@ -3776,6 +4104,7 @@ cities:
     distance_km: 20.79
 - country: US
   region: NM
+  county: San Juan
   name: North Light Plant
   lat: '36.8670'
   long: "-108.0330"
@@ -3788,6 +4117,7 @@ cities:
     distance_km: 58.57
 - country: US
   region: NM
+  county: San Miguel
   name: North San Ysidro
   lat: '35.4747'
   long: "-105.5661"
@@ -3800,6 +4130,7 @@ cities:
     distance_km: 23.35
 - country: US
   region: NM
+  county: Bernalillo
   name: North Valley
   lat: '35.1736'
   long: "-106.6231"
@@ -3812,6 +4143,7 @@ cities:
     distance_km: 24.24
 - country: US
   region: NM
+  county: Sierra
   name: Oasis
   lat: '32.9277'
   long: "-107.3164"
@@ -3824,6 +4156,7 @@ cities:
     distance_km: 33.03
 - country: US
   region: NM
+  county: Rio Arriba
   name: Ohkay Owingeh
   lat: '36.0440'
   long: "-106.0565"
@@ -3836,6 +4169,7 @@ cities:
     distance_km: 12.07
 - country: US
   region: NM
+  county: San Juan
   name: Ojo Amarillo
   lat: '36.6942'
   long: "-108.3704"
@@ -3848,6 +4182,7 @@ cities:
     distance_km: 36.8
 - country: US
   region: NM
+  county: Taos
   name: Ojo Caliente
   lat: '36.3146'
   long: "-106.0374"
@@ -3860,6 +4195,7 @@ cities:
     distance_km: 19.88
 - country: US
   region: NM
+  county: McKinley
   name: Ojo Encino
   lat: '35.9525'
   long: "-107.3445"
@@ -3872,6 +4208,7 @@ cities:
     distance_km: 35.4
 - country: US
   region: NM
+  county: Rio Arriba
   name: Ojo Sarco
   lat: '36.1250'
   long: "-105.7846"
@@ -3884,6 +4221,7 @@ cities:
     distance_km: 11.18
 - country: US
   region: NM
+  county: Luna
   name: Old Town
   lat: '32.5125'
   long: "-107.9232"
@@ -3896,6 +4234,8 @@ cities:
     distance_km: 38.54
 - country: US
   region: NM
+  county: !binary |-
+    RG/DsWEgQW5h
   name: Organ
   lat: '32.4251'
   long: "-106.6025"
@@ -3908,6 +4248,7 @@ cities:
     distance_km: 47.26
 - country: US
   region: NM
+  county: Otero
   name: Orogrande
   lat: '32.3874'
   long: "-106.1003"
@@ -3920,6 +4261,7 @@ cities:
     distance_km: 58.41
 - country: US
   region: NM
+  county: Bernalillo
   name: Paa-Ko
   lat: '35.1998'
   long: "-106.3337"
@@ -3932,6 +4274,7 @@ cities:
     distance_km: 31.49
 - country: US
   region: NM
+  county: Cibola
   name: Paguate
   lat: '35.1473'
   long: "-107.3814"
@@ -3944,6 +4287,7 @@ cities:
     distance_km: 67.08
 - country: US
   region: NM
+  county: Bernalillo
   name: Pajarito Mesa
   lat: '34.9855'
   long: "-106.7817"
@@ -3956,6 +4300,7 @@ cities:
     distance_km: 36.34
 - country: US
   region: NM
+  county: Bernalillo
   name: Paradise Hills
   lat: '35.1981'
   long: "-106.7023"
@@ -3968,6 +4313,7 @@ cities:
     distance_km: 31.93
 - country: US
   region: NM
+  county: Cibola
   name: Paraje
   lat: '35.0444'
   long: "-107.4681"
@@ -3980,6 +4326,7 @@ cities:
     distance_km: 72.03
 - country: US
   region: NM
+  county: Guadalupe
   name: Pastura
   lat: '34.7851'
   long: "-104.9421"
@@ -3992,6 +4339,7 @@ cities:
     distance_km: 48.56
 - country: US
   region: NM
+  county: Santa Fe
   name: Peak Place
   lat: '35.7911'
   long: "-105.9432"
@@ -4004,6 +4352,7 @@ cities:
     distance_km: 23.65
 - country: US
   region: NM
+  county: Luna
   name: Pecan Park
   lat: '32.2704'
   long: "-107.6740"
@@ -4016,6 +4365,7 @@ cities:
     distance_km: 66.03
 - country: US
   region: NM
+  county: San Miguel
   name: Pecos
   lat: '35.5757'
   long: "-105.6784"
@@ -4028,6 +4378,7 @@ cities:
     distance_km: 27.71
 - country: US
   region: NM
+  county: Valencia
   name: Peralta
   lat: '34.8283'
   long: "-106.6859"
@@ -4040,6 +4391,7 @@ cities:
     distance_km: 28.35
 - country: US
   region: NM
+  county: Sandoval
   name: !binary |-
     UGXDsWEgQmxhbmNh
   lat: '35.5709'
@@ -4053,6 +4405,7 @@ cities:
     distance_km: 34.99
 - country: US
   region: NM
+  county: Taos
   name: !binary |-
     UGXDsWFzY28=
   lat: '36.1703'
@@ -4066,6 +4419,8 @@ cities:
     distance_km: 17.7
 - country: US
   region: NM
+  county: !binary |-
+    RG/DsWEgQW5h
   name: Picacho Hills
   lat: '32.3158'
   long: "-106.8785"
@@ -4078,6 +4433,7 @@ cities:
     distance_km: 43.35
 - country: US
   region: NM
+  county: Taos
   name: Picuris Pueblo
   lat: '36.1995'
   long: "-105.7133"
@@ -4090,6 +4446,7 @@ cities:
     distance_km: 19.47
 - country: US
   region: NM
+  county: Catron
   name: Pie Town
   lat: '34.3400'
   long: "-108.1708"
@@ -4102,6 +4459,7 @@ cities:
     distance_km: 58.26
 - country: US
   region: NM
+  county: McKinley
   name: Pinedale
   lat: '35.6078'
   long: "-108.4225"
@@ -4114,6 +4472,7 @@ cities:
     distance_km: 33.31
 - country: US
   region: NM
+  county: McKinley
   name: Pinehaven
   lat: '35.3357'
   long: "-108.6710"
@@ -4126,6 +4485,7 @@ cities:
     distance_km: 27.54
 - country: US
   region: NM
+  county: Cibola
   name: Pinehill
   lat: '34.8922'
   long: "-108.4224"
@@ -4138,6 +4498,7 @@ cities:
     distance_km: 34.68
 - country: US
   region: NM
+  county: Otero
   name: Pinon
   lat: '32.6182'
   long: "-105.3867"
@@ -4150,6 +4511,7 @@ cities:
     distance_km: 49.76
 - country: US
   region: NM
+  county: Grant
   name: Pinos Altos
   lat: '32.8665'
   long: "-108.2221"
@@ -4162,6 +4524,7 @@ cities:
     distance_km: 22.99
 - country: US
   region: NM
+  county: Sandoval
   name: Placitas
   lat: '35.3226'
   long: "-106.4437"
@@ -4174,6 +4537,7 @@ cities:
     distance_km: 29.76
 - country: US
   region: NM
+  county: Hidalgo
   name: Playas
   lat: '31.9125'
   long: "-108.5363"
@@ -4186,6 +4550,7 @@ cities:
     distance_km: 47.18
 - country: US
   region: NM
+  county: Catron
   name: Pleasanton
   lat: '33.2759'
   long: "-108.8792"
@@ -4198,6 +4563,7 @@ cities:
     distance_km: 49.34
 - country: US
   region: NM
+  county: Santa Fe
   name: Pojoaque
   lat: '35.8962'
   long: "-106.0105"
@@ -4210,6 +4576,7 @@ cities:
     distance_km: 18.55
 - country: US
   region: NM
+  county: Socorro
   name: Polvadera
   lat: '34.2020'
   long: "-106.9172"
@@ -4222,6 +4589,7 @@ cities:
     distance_km: 52.48
 - country: US
   region: NM
+  county: Sandoval
   name: Ponderosa
   lat: '35.6555'
   long: "-106.6544"
@@ -4234,6 +4602,7 @@ cities:
     distance_km: 30.34
 - country: US
   region: NM
+  county: Bernalillo
   name: Ponderosa Pine
   lat: '34.9720'
   long: "-106.3369"
@@ -4246,6 +4615,7 @@ cities:
     distance_km: 30.26
 - country: US
   region: NM
+  county: Roosevelt
   name: Portales
   lat: '34.1754'
   long: "-103.3565"
@@ -4258,6 +4628,7 @@ cities:
     distance_km: 6.91
 - country: US
   region: NM
+  county: McKinley
   name: Prewitt
   lat: '35.3682'
   long: "-108.0748"
@@ -4270,6 +4641,7 @@ cities:
     distance_km: 46.57
 - country: US
   region: NM
+  county: Rio Arriba
   name: Pueblito
   lat: '36.0727'
   long: "-106.0811"
@@ -4282,6 +4654,7 @@ cities:
     distance_km: 15.52
 - country: US
   region: NM
+  county: Valencia
   name: Pueblitos
   lat: '34.6109'
   long: "-106.7818"
@@ -4294,6 +4667,7 @@ cities:
     distance_km: 50.36
 - country: US
   region: NM
+  county: San Miguel
   name: Pueblo
   lat: '35.3273'
   long: "-105.4354"
@@ -4306,6 +4680,7 @@ cities:
     distance_km: 30.47
 - country: US
   region: NM
+  county: McKinley
   name: Pueblo Pintado
   lat: '35.9614'
   long: "-107.6224"
@@ -4318,6 +4693,7 @@ cities:
     distance_km: 33.66
 - country: US
   region: NM
+  county: Sandoval
   name: Pueblo of Sandia Village
   lat: '35.2536'
   long: "-106.5706"
@@ -4330,6 +4706,7 @@ cities:
     distance_km: 25.55
 - country: US
   region: NM
+  county: Guadalupe
   name: Puerto de Luna
   lat: '34.8297'
   long: "-104.6222"
@@ -4342,6 +4719,7 @@ cities:
     distance_km: 59.68
 - country: US
   region: NM
+  county: Luna
   name: Pulpotio Bareas
   lat: '32.2179'
   long: "-107.7728"
@@ -4354,6 +4732,7 @@ cities:
     distance_km: 68.87
 - country: US
   region: NM
+  county: Torrance
   name: Punta de Agua
   lat: '34.6016'
   long: "-106.2922"
@@ -4366,6 +4745,7 @@ cities:
     distance_km: 44.45
 - country: US
   region: NM
+  county: McKinley
   name: Purty Rock
   lat: '35.4903'
   long: "-108.8954"
@@ -4378,6 +4758,7 @@ cities:
     distance_km: 27.06
 - country: US
   region: NM
+  county: Catron
   name: Quemado
   lat: '34.3414'
   long: "-108.5060"
@@ -4390,6 +4771,7 @@ cities:
     distance_km: 61.49
 - country: US
   region: NM
+  county: Taos
   name: Questa
   lat: '36.7114'
   long: "-105.5935"
@@ -4402,6 +4784,8 @@ cities:
     distance_km: 33.49
 - country: US
   region: NM
+  county: !binary |-
+    RG/DsWEgQW5h
   name: Radium Springs
   lat: '32.4783'
   long: "-106.9031"
@@ -4414,6 +4798,7 @@ cities:
     distance_km: 44.34
 - country: US
   region: NM
+  county: McKinley
   name: Ramah
   lat: '35.1263'
   long: "-108.5063"
@@ -4426,6 +4811,7 @@ cities:
     distance_km: 27.6
 - country: US
   region: NM
+  county: Catron
   name: Rancho Grande
   lat: '33.6826'
   long: "-108.8581"
@@ -4438,6 +4824,7 @@ cities:
     distance_km: 40.47
 - country: US
   region: NM
+  county: Taos
   name: Ranchos de Taos
   lat: '36.3619'
   long: "-105.6016"
@@ -4450,6 +4837,7 @@ cities:
     distance_km: 29.77
 - country: US
   region: NM
+  county: Colfax
   name: Raton
   lat: '36.8849'
   long: "-104.4396"
@@ -4462,6 +4850,7 @@ cities:
     distance_km: 55.82
 - country: US
   region: NM
+  county: Taos
   name: Red River
   lat: '36.7041'
   long: "-105.4064"
@@ -4474,6 +4863,7 @@ cities:
     distance_km: 20.69
 - country: US
   region: NM
+  county: McKinley
   name: Red Rock Ranch
   lat: '35.4242'
   long: "-108.0262"
@@ -4486,6 +4876,7 @@ cities:
     distance_km: 53.78
 - country: US
   region: NM
+  county: Grant
   name: Redrock
   lat: '32.6885'
   long: "-108.7406"
@@ -4498,6 +4889,7 @@ cities:
     distance_km: 37.98
 - country: US
   region: NM
+  county: Sandoval
   name: Regina
   lat: '36.1947'
   long: "-106.9453"
@@ -4510,6 +4902,7 @@ cities:
     distance_km: 19.01
 - country: US
   region: NM
+  county: Catron
   name: Reserve
   lat: '33.7090'
   long: "-108.7614"
@@ -4522,6 +4915,7 @@ cities:
     distance_km: 44.76
 - country: US
   region: NM
+  county: San Miguel
   name: Ribera
   lat: '35.3700'
   long: "-105.4441"
@@ -4534,6 +4928,8 @@ cities:
     distance_km: 31.12
 - country: US
   region: NM
+  county: !binary |-
+    RG/DsWEgQW5h
   name: Rincon
   lat: '32.6726'
   long: "-107.0759"
@@ -4546,6 +4942,7 @@ cities:
     distance_km: 53.39
 - country: US
   region: NM
+  county: Santa Fe
   name: Rio Chiquito
   lat: '35.9949'
   long: "-105.9069"
@@ -4558,6 +4955,7 @@ cities:
     distance_km: 15.94
 - country: US
   region: NM
+  county: Valencia
   name: Rio Communities
   lat: '34.6459'
   long: "-106.7164"
@@ -4570,6 +4968,7 @@ cities:
     distance_km: 45.46
 - country: US
   region: NM
+  county: Taos
   name: Rio Lucio
   lat: '36.1922'
   long: "-105.7200"
@@ -4582,6 +4981,7 @@ cities:
     distance_km: 18.48
 - country: US
   region: NM
+  county: Sandoval
   name: Rio Rancho
   lat: '35.2873'
   long: "-106.6982"
@@ -4594,6 +4994,7 @@ cities:
     distance_km: 30.63
 - country: US
   region: NM
+  county: Sandoval
   name: Rio Rancho Estates
   lat: '35.3004'
   long: "-106.7985"
@@ -4606,6 +5007,7 @@ cities:
     distance_km: 28.32
 - country: US
   region: NM
+  county: Santa Fe
   name: Rio en Medio
   lat: '35.8221'
   long: "-105.9010"
@@ -4618,6 +5020,7 @@ cities:
     distance_km: 25.09
 - country: US
   region: NM
+  county: Catron
   name: Rivers
   lat: '33.6757'
   long: "-108.7768"
@@ -4630,6 +5033,7 @@ cities:
     distance_km: 40.82
 - country: US
   region: NM
+  county: McKinley
   name: Rock Springs
   lat: '35.6188'
   long: "-108.8345"
@@ -4642,6 +5046,7 @@ cities:
     distance_km: 19.23
 - country: US
   region: NM
+  county: Hidalgo
   name: Rodeo
   lat: '31.8396'
   long: "-109.0265"
@@ -4654,6 +5059,8 @@ cities:
     distance_km: 46.67
 - country: US
   region: NM
+  county: !binary |-
+    RG/DsWEgQW5h
   name: Rodey
   lat: '32.6538'
   long: "-107.1358"
@@ -4666,6 +5073,7 @@ cities:
     distance_km: 50.86
 - country: US
   region: NM
+  county: Grant
   name: Rosedale
   lat: '32.7694'
   long: "-108.2417"
@@ -4678,6 +5086,7 @@ cities:
     distance_km: 26.61
 - country: US
   region: NM
+  county: Chaves
   name: Roswell
   lat: '33.3730'
   long: "-104.5294"
@@ -4690,6 +5099,7 @@ cities:
     distance_km: 33.94
 - country: US
   region: NM
+  county: San Miguel
   name: Rowe
   lat: '35.4922'
   long: "-105.6715"
@@ -4702,6 +5112,7 @@ cities:
     distance_km: 31.26
 - country: US
   region: NM
+  county: Harding
   name: Roy
   lat: '35.9451'
   long: "-104.1963"
@@ -4714,6 +5125,7 @@ cities:
     distance_km: 46.01
 - country: US
   region: NM
+  county: Lincoln
   name: Ruidoso
   lat: '33.3646'
   long: "-105.6434"
@@ -4726,6 +5138,7 @@ cities:
     distance_km: 6.36
 - country: US
   region: NM
+  county: Lincoln
   name: Ruidoso Downs
   lat: '33.3311'
   long: "-105.5969"
@@ -4738,6 +5151,7 @@ cities:
     distance_km: 11.8
 - country: US
   region: NM
+  county: Otero
   name: Sacramento
   lat: '32.7917'
   long: "-105.5723"
@@ -4750,6 +5164,7 @@ cities:
     distance_km: 23.8
 - country: US
   region: NM
+  county: McKinley
   name: Sagar
   lat: '35.2474'
   long: "-108.7670"
@@ -4762,6 +5177,8 @@ cities:
     distance_km: 27.58
 - country: US
   region: NM
+  county: !binary |-
+    RG/DsWEgQW5h
   name: Salem
   lat: '32.7121'
   long: "-107.2056"
@@ -4774,6 +5191,7 @@ cities:
     distance_km: 46.96
 - country: US
   region: NM
+  county: Socorro
   name: San Acacia
   lat: '34.2550'
   long: "-106.9023"
@@ -4786,6 +5204,7 @@ cities:
     distance_km: 46.43
 - country: US
   region: NM
+  county: Socorro
   name: San Antonio
   lat: '33.9161'
   long: "-106.8700"
@@ -4798,6 +5217,7 @@ cities:
     distance_km: 46.93
 - country: US
   region: NM
+  county: Bernalillo
   name: San Antonito
   lat: '35.1574'
   long: "-106.3475"
@@ -4810,6 +5230,7 @@ cities:
     distance_km: 28.64
 - country: US
   region: NM
+  county: Taos
   name: San Cristobal
   lat: '36.6101'
   long: "-105.6319"
@@ -4822,6 +5243,7 @@ cities:
     distance_km: 22.82
 - country: US
   region: NM
+  county: Sandoval
   name: San Felipe Pueblo
   lat: '35.4338'
   long: "-106.4250"
@@ -4834,6 +5256,7 @@ cities:
     distance_km: 34.8
 - country: US
   region: NM
+  county: Cibola
   name: San Fidel
   lat: '35.1025'
   long: "-107.5975"
@@ -4846,6 +5269,7 @@ cities:
     distance_km: 78.22
 - country: US
   region: NM
+  county: Santa Fe
   name: San Ildefonso Pueblo
   lat: '35.8955'
   long: "-106.1225"
@@ -4858,6 +5282,7 @@ cities:
     distance_km: 15.98
 - country: US
   region: NM
+  county: Quay
   name: San Jon
   lat: '35.1113'
   long: "-103.3364"
@@ -4870,6 +5295,7 @@ cities:
     distance_km: 31.91
 - country: US
   region: NM
+  county: Rio Arriba
   name: San Jose
   lat: '36.0367'
   long: "-106.1004"
@@ -4882,6 +5308,7 @@ cities:
     distance_km: 15.52
 - country: US
   region: NM
+  county: Grant
   name: San Lorenzo
   lat: '32.8086'
   long: "-107.9221"
@@ -4894,6 +5321,7 @@ cities:
     distance_km: 32.99
 - country: US
   region: NM
+  county: Sandoval
   name: San Luis
   lat: '35.7009'
   long: "-107.0431"
@@ -4906,6 +5334,7 @@ cities:
     distance_km: 32.33
 - country: US
   region: NM
+  county: Cibola
   name: San Mateo
   lat: '35.3381'
   long: "-107.6450"
@@ -4918,6 +5347,8 @@ cities:
     distance_km: 59.52
 - country: US
   region: NM
+  county: !binary |-
+    RG/DsWEgQW5h
   name: San Miguel
   lat: '32.1535'
   long: "-106.7269"
@@ -4930,6 +5361,8 @@ cities:
     distance_km: 20.48
 - country: US
   region: NM
+  county: !binary |-
+    RG/DsWEgQW5h
   name: San Pablo
   lat: '32.2507'
   long: "-106.7626"
@@ -4942,6 +5375,7 @@ cities:
     distance_km: 31.64
 - country: US
   region: NM
+  county: Santa Fe
   name: San Pedro
   lat: '35.2280'
   long: "-106.1848"
@@ -4954,6 +5388,7 @@ cities:
     distance_km: 33.95
 - country: US
   region: NM
+  county: Cibola
   name: San Rafael
   lat: '35.1010'
   long: "-107.8899"
@@ -4966,6 +5401,8 @@ cities:
     distance_km: 53.38
 - country: US
   region: NM
+  county: !binary |-
+    RG/DsWEgQW5h
   name: San Ysidro
   lat: '32.3568'
   long: "-106.8129"
@@ -4978,6 +5415,7 @@ cities:
     distance_km: 44.33
 - country: US
   region: NM
+  county: Bernalillo
   name: Sandia Heights
   lat: '35.1747'
   long: "-106.4884"
@@ -4990,6 +5428,7 @@ cities:
     distance_km: 17.87
 - country: US
   region: NM
+  county: Bernalillo
   name: Sandia Knolls
   lat: '35.1604'
   long: "-106.2987"
@@ -5002,6 +5441,7 @@ cities:
     distance_km: 30.09
 - country: US
   region: NM
+  county: Bernalillo
   name: Sandia Park
   lat: '35.1649'
   long: "-106.3657"
@@ -5014,6 +5454,7 @@ cities:
     distance_km: 27.33
 - country: US
   region: NM
+  county: San Juan
   name: Sanostee
   lat: '36.4329'
   long: "-108.8730"
@@ -5026,6 +5467,7 @@ cities:
     distance_km: 21.9
 - country: US
   region: NM
+  county: Sandoval
   name: Santa Ana Pueblo
   lat: '35.3495'
   long: "-106.5202"
@@ -5038,6 +5480,7 @@ cities:
     distance_km: 32.0
 - country: US
   region: NM
+  county: Grant
   name: Santa Clara
   lat: '32.7801'
   long: "-108.1493"
@@ -5050,6 +5493,7 @@ cities:
     distance_km: 18.25
 - country: US
   region: NM
+  county: Rio Arriba
   name: Santa Clara Pueblo
   lat: '35.9726'
   long: "-106.0927"
@@ -5062,6 +5506,7 @@ cities:
     distance_km: 15.17
 - country: US
   region: NM
+  county: Santa Fe
   name: Santa Cruz
   lat: '35.9939'
   long: "-106.0359"
@@ -5074,6 +5519,7 @@ cities:
     distance_km: 12.35
 - country: US
   region: NM
+  county: Santa Fe
   name: Santa Fe
   lat: '35.6619'
   long: "-105.9819"
@@ -5086,6 +5532,7 @@ cities:
     distance_km: 29.19
 - country: US
   region: NM
+  county: Santa Fe
   name: Santa Fe Foothills
   lat: '35.6279'
   long: "-105.8980"
@@ -5098,6 +5545,7 @@ cities:
     distance_km: 34.89
 - country: US
   region: NM
+  county: Guadalupe
   name: Santa Rosa
   lat: '34.9361'
   long: "-104.6769"
@@ -5110,6 +5558,8 @@ cities:
     distance_km: 60.52
 - country: US
   region: NM
+  county: !binary |-
+    RG/DsWEgQW5h
   name: Santa Teresa
   lat: '31.8701'
   long: "-106.6714"
@@ -5122,6 +5572,7 @@ cities:
     distance_km: 27.51
 - country: US
   region: NM
+  county: Sandoval
   name: Santo Domingo Pueblo
   lat: '35.5175'
   long: "-106.3670"
@@ -5134,6 +5585,7 @@ cities:
     distance_km: 37.57
 - country: US
   region: NM
+  county: Valencia
   name: Sausal
   lat: '34.6803'
   long: "-106.7589"
@@ -5146,6 +5598,7 @@ cities:
     distance_km: 45.73
 - country: US
   region: NM
+  county: Cibola
   name: Seama
   lat: '35.0429'
   long: "-107.5272"
@@ -5158,6 +5611,7 @@ cities:
     distance_km: 77.02
 - country: US
   region: NM
+  county: Cibola
   name: Seboyeta
   lat: '35.2001'
   long: "-107.3861"
@@ -5170,6 +5624,7 @@ cities:
     distance_km: 67.65
 - country: US
   region: NM
+  county: Bernalillo
   name: Sedillo
   lat: '35.0906'
   long: "-106.2869"
@@ -5182,6 +5637,7 @@ cities:
     distance_km: 32.91
 - country: US
   region: NM
+  county: San Miguel
   name: Sena
   lat: '35.3036'
   long: "-105.3913"
@@ -5194,6 +5650,7 @@ cities:
     distance_km: 33.53
 - country: US
   region: NM
+  county: Santa Fe
   name: Seton Village
   lat: '35.5999'
   long: "-105.9334"
@@ -5206,6 +5663,7 @@ cities:
     distance_km: 33.4
 - country: US
   region: NM
+  county: San Juan
   name: Sheep Springs
   lat: '36.1593'
   long: "-108.6905"
@@ -5218,6 +5676,7 @@ cities:
     distance_km: 21.94
 - country: US
   region: NM
+  county: San Juan
   name: Shiprock
   lat: '36.7924'
   long: "-108.7005"
@@ -5230,6 +5689,7 @@ cities:
     distance_km: 44.18
 - country: US
   region: NM
+  county: Grant
   name: Silver City
   lat: '32.7783'
   long: "-108.2699"
@@ -5242,6 +5702,7 @@ cities:
     distance_km: 28.77
 - country: US
   region: NM
+  county: Cibola
   name: Skyline-Ganipa
   lat: '35.0361'
   long: "-107.6162"
@@ -5254,6 +5715,7 @@ cities:
     distance_km: 74.67
 - country: US
   region: NM
+  county: Socorro
   name: Socorro
   lat: '34.0543'
   long: "-106.9065"
@@ -5266,6 +5728,7 @@ cities:
     distance_km: 53.35
 - country: US
   region: NM
+  county: San Miguel
   name: Soham
   lat: '35.4168'
   long: "-105.4985"
@@ -5278,6 +5741,7 @@ cities:
     distance_km: 25.28
 - country: US
   region: NM
+  county: Santa Fe
   name: Sombrillo
   lat: '35.9802'
   long: "-106.0352"
@@ -5290,6 +5754,7 @@ cities:
     distance_km: 13.87
 - country: US
   region: NM
+  county: Cibola
   name: South Acomita Village
   lat: '35.0533'
   long: "-107.5722"
@@ -5302,6 +5767,7 @@ cities:
     distance_km: 79.0
 - country: US
   region: NM
+  county: San Juan
   name: South River
   lat: '36.7892'
   long: "-108.0600"
@@ -5314,6 +5780,7 @@ cities:
     distance_km: 55.49
 - country: US
   region: NM
+  county: Bernalillo
   name: South Valley
   lat: '35.0093'
   long: "-106.6819"
@@ -5326,6 +5793,7 @@ cities:
     distance_km: 28.78
 - country: US
   region: NM
+  county: San Juan
   name: Spencerville
   lat: '36.8244'
   long: "-108.0563"
@@ -5338,6 +5806,7 @@ cities:
     distance_km: 55.97
 - country: US
   region: NM
+  county: Colfax
   name: Springer
   lat: '36.3623'
   long: "-104.5997"
@@ -5350,6 +5819,7 @@ cities:
     distance_km: 32.63
 - country: US
   region: NM
+  county: Santa Fe
   name: Stanley
   lat: '35.1542'
   long: "-105.9764"
@@ -5362,6 +5832,7 @@ cities:
     distance_km: 37.47
 - country: US
   region: NM
+  county: Cibola
   name: Stoneridge
   lat: '35.3019'
   long: "-108.1034"
@@ -5374,6 +5845,7 @@ cities:
     distance_km: 42.46
 - country: US
   region: NM
+  county: McKinley
   name: Sundance
   lat: '35.5105'
   long: "-108.6397"
@@ -5386,6 +5858,8 @@ cities:
     distance_km: 29.35
 - country: US
   region: NM
+  county: !binary |-
+    RG/DsWEgQW5h
   name: Sunland Park
   lat: '31.8201'
   long: "-106.5958"
@@ -5398,6 +5872,7 @@ cities:
     distance_km: 29.38
 - country: US
   region: NM
+  county: Santa Fe
   name: Sunlit Hills
   lat: '35.5957'
   long: "-105.9210"
@@ -5410,6 +5885,7 @@ cities:
     distance_km: 32.47
 - country: US
   region: NM
+  county: Luna
   name: Sunshine
   lat: '32.1344'
   long: "-107.7838"
@@ -5422,6 +5898,7 @@ cities:
     distance_km: 75.42
 - country: US
   region: NM
+  county: Torrance
   name: Tajique
   lat: '34.7601'
   long: "-106.3010"
@@ -5434,6 +5911,7 @@ cities:
     distance_km: 36.39
 - country: US
   region: NM
+  county: Taos
   name: Talpa
   lat: '36.3421'
   long: "-105.5923"
@@ -5446,6 +5924,7 @@ cities:
     distance_km: 29.2
 - country: US
   region: NM
+  county: Santa Fe
   name: Tano Road
   lat: '35.7374'
   long: "-105.9819"
@@ -5458,6 +5937,7 @@ cities:
     distance_km: 29.49
 - country: US
   region: NM
+  county: Taos
   name: Taos
   lat: '36.3871'
   long: "-105.5803"
@@ -5470,6 +5950,7 @@ cities:
     distance_km: 33.0
 - country: US
   region: NM
+  county: Taos
   name: Taos Pueblo
   lat: '36.4657'
   long: "-105.5634"
@@ -5482,6 +5963,7 @@ cities:
     distance_km: 29.16
 - country: US
   region: NM
+  county: Taos
   name: Taos Ski Valley
   lat: '36.5901'
   long: "-105.4370"
@@ -5494,6 +5976,7 @@ cities:
     distance_km: 18.56
 - country: US
   region: NM
+  county: Lea
   name: Tatum
   lat: '33.2553'
   long: "-103.3112"
@@ -5506,6 +5989,7 @@ cities:
     distance_km: 42.75
 - country: US
   region: NM
+  county: San Miguel
   name: Tecolote
   lat: '35.4604'
   long: "-105.2842"
@@ -5518,6 +6002,7 @@ cities:
     distance_km: 32.72
 - country: US
   region: NM
+  county: San Miguel
   name: Tecolotito
   lat: '35.2307'
   long: "-105.1631"
@@ -5530,6 +6015,7 @@ cities:
     distance_km: 41.54
 - country: US
   region: NM
+  county: Santa Fe
   name: Tesuque
   lat: '35.7487'
   long: "-105.9209"
@@ -5542,6 +6028,7 @@ cities:
     distance_km: 27.94
 - country: US
   region: NM
+  county: Santa Fe
   name: Tesuque Pueblo
   lat: '35.8090'
   long: "-105.9752"
@@ -5554,6 +6041,7 @@ cities:
     distance_km: 21.53
 - country: US
   region: NM
+  county: Curry
   name: Texico
   lat: '34.3897'
   long: "-103.0513"
@@ -5566,6 +6054,7 @@ cities:
     distance_km: 14.57
 - country: US
   region: NM
+  county: McKinley
   name: Thoreau
   lat: '35.4251'
   long: "-108.2012"
@@ -5578,6 +6067,7 @@ cities:
     distance_km: 43.44
 - country: US
   region: NM
+  county: Santa Fe
   name: Thunder Mountain
   lat: '35.1009'
   long: "-106.2278"
@@ -5590,6 +6080,7 @@ cities:
     distance_km: 36.5
 - country: US
   region: NM
+  county: Rio Arriba
   name: Tierra Amarilla
   lat: '36.7061'
   long: "-106.5599"
@@ -5602,6 +6093,7 @@ cities:
     distance_km: 28.19
 - country: US
   region: NM
+  county: Bernalillo
   name: Tijeras
   lat: '35.0884'
   long: "-106.3761"
@@ -5614,6 +6106,7 @@ cities:
     distance_km: 28.13
 - country: US
   region: NM
+  county: McKinley
   name: Timberlake
   lat: '35.2012'
   long: "-108.4843"
@@ -5626,6 +6119,7 @@ cities:
     distance_km: 35.23
 - country: US
   region: NM
+  county: Otero
   name: Timberon
   lat: '32.6360'
   long: "-105.6925"
@@ -5638,6 +6132,7 @@ cities:
     distance_km: 35.31
 - country: US
   region: NM
+  county: McKinley
   name: Tohatchi
   lat: '35.8423'
   long: "-108.7503"
@@ -5650,6 +6145,7 @@ cities:
     distance_km: 22.81
 - country: US
   region: NM
+  county: Valencia
   name: Tome
   lat: '34.7390'
   long: "-106.7251"
@@ -5662,6 +6158,7 @@ cities:
     distance_km: 38.71
 - country: US
   region: NM
+  county: Torrance
   name: Torreon
   lat: '34.7242'
   long: "-106.3008"
@@ -5674,6 +6171,8 @@ cities:
     distance_km: 39.41
 - country: US
   region: NM
+  county: !binary |-
+    RG/DsWEgQW5h
   name: Tortugas
   lat: '32.2697'
   long: "-106.7546"
@@ -5686,6 +6185,7 @@ cities:
     distance_km: 33.27
 - country: US
   region: NM
+  county: San Juan
   name: Totah Vista
   lat: '36.7113'
   long: "-108.2035"
@@ -5698,6 +6198,7 @@ cities:
     distance_km: 43.52
 - country: US
   region: NM
+  county: Santa Fe
   name: Tres Arroyos
   lat: '35.6799'
   long: "-106.0398"
@@ -5710,6 +6211,7 @@ cities:
     distance_km: 29.02
 - country: US
   region: NM
+  county: Grant
   name: Trout Valley
   lat: '33.0363'
   long: "-108.1893"
@@ -5722,6 +6224,7 @@ cities:
     distance_km: 31.41
 - country: US
   region: NM
+  county: Rio Arriba
   name: Truchas
   lat: '36.0338'
   long: "-105.8095"
@@ -5734,6 +6237,7 @@ cities:
     distance_km: 19.24
 - country: US
   region: NM
+  county: Sierra
   name: Truth or Consequences
   lat: '33.1864'
   long: "-107.2589"
@@ -5746,6 +6250,7 @@ cities:
     distance_km: 58.76
 - country: US
   region: NM
+  county: McKinley
   name: Tse Bonito
   lat: '35.6466'
   long: "-109.0070"
@@ -5758,6 +6263,7 @@ cities:
     distance_km: 27.35
 - country: US
   region: NM
+  county: Quay
   name: Tucumcari
   lat: '35.1700'
   long: "-103.7046"
@@ -5770,6 +6276,7 @@ cities:
     distance_km: 34.25
 - country: US
   region: NM
+  county: Otero
   name: Tularosa
   lat: '33.0753'
   long: "-106.0175"
@@ -5782,6 +6289,7 @@ cities:
     distance_km: 24.59
 - country: US
   region: NM
+  county: San Juan
   name: Turley
   lat: '36.7366'
   long: "-107.7900"
@@ -5794,6 +6302,7 @@ cities:
     distance_km: 60.0
 - country: US
   region: NM
+  county: Otero
   name: Twin Forks
   lat: '32.9463'
   long: "-105.6374"
@@ -5806,6 +6315,7 @@ cities:
     distance_km: 26.48
 - country: US
   region: NM
+  county: McKinley
   name: Twin Lakes
   lat: '35.6833'
   long: "-108.7709"
@@ -5818,6 +6328,7 @@ cities:
     distance_km: 19.48
 - country: US
   region: NM
+  county: Grant
   name: Tyrone
   lat: '32.7099'
   long: "-108.3028"
@@ -5830,6 +6341,8 @@ cities:
     distance_km: 34.59
 - country: US
   region: NM
+  county: !binary |-
+    RG/DsWEgQW5h
   name: University Park
   lat: '32.2767'
   long: "-106.7462"
@@ -5842,6 +6355,7 @@ cities:
     distance_km: 33.7
 - country: US
   region: NM
+  county: San Juan
   name: Upper Fruitland
   lat: '36.7204'
   long: "-108.3236"
@@ -5854,6 +6368,7 @@ cities:
     distance_km: 32.83
 - country: US
   region: NM
+  county: Colfax
   name: Ute Park
   lat: '36.5467'
   long: "-105.1038"
@@ -5866,6 +6381,7 @@ cities:
     distance_km: 32.39
 - country: US
   region: NM
+  county: Taos
   name: Vadito
   lat: '36.1929'
   long: "-105.6755"
@@ -5878,6 +6394,8 @@ cities:
     distance_km: 20.55
 - country: US
   region: NM
+  county: !binary |-
+    RG/DsWEgQW5h
   name: Vado
   lat: '32.1278'
   long: "-106.6571"
@@ -5890,6 +6408,7 @@ cities:
     distance_km: 23.15
 - country: US
   region: NM
+  county: Santa Fe
   name: Valencia
   lat: '35.5780'
   long: "-105.7908"
@@ -5902,6 +6421,7 @@ cities:
     distance_km: 27.14
 - country: US
   region: NM
+  county: Valencia
   name: Valencia
   lat: '34.8053'
   long: "-106.6868"
@@ -5914,6 +6434,7 @@ cities:
     distance_km: 30.9
 - country: US
   region: NM
+  county: Santa Fe
   name: Valle Vista
   lat: '35.5841'
   long: "-106.0584"
@@ -5926,6 +6447,7 @@ cities:
     distance_km: 30.42
 - country: US
   region: NM
+  county: McKinley
   name: Vanderwagen
   lat: '35.2714'
   long: "-108.7517"
@@ -5938,6 +6460,7 @@ cities:
     distance_km: 27.75
 - country: US
   region: NM
+  county: Guadalupe
   name: Vaughn
   lat: '34.6072'
   long: "-105.2126"
@@ -5950,6 +6473,7 @@ cities:
     distance_km: 60.92
 - country: US
   region: NM
+  county: Socorro
   name: Veguita
   lat: '34.5146'
   long: "-106.7679"
@@ -5962,6 +6486,7 @@ cities:
     distance_km: 48.26
 - country: US
   region: NM
+  county: Rio Arriba
   name: Velarde
   lat: '36.1608'
   long: "-105.9659"
@@ -5974,6 +6499,7 @@ cities:
     distance_km: 18.14
 - country: US
   region: NM
+  county: Luna
   name: Ventura
   lat: '32.2438'
   long: "-107.6832"
@@ -5986,6 +6512,7 @@ cities:
     distance_km: 68.66
 - country: US
   region: NM
+  county: San Miguel
   name: Villanueva
   lat: '35.2659'
   long: "-105.3602"
@@ -5998,6 +6525,7 @@ cities:
     distance_km: 36.99
 - country: US
   region: NM
+  county: Hidalgo
   name: Virden
   lat: '32.6890'
   long: "-109.0015"
@@ -6010,6 +6538,7 @@ cities:
     distance_km: 48.57
 - country: US
   region: NM
+  county: Mora
   name: Wagon Mound
   lat: '36.0048'
   long: "-104.7091"
@@ -6022,6 +6551,7 @@ cities:
     distance_km: 46.96
 - country: US
   region: NM
+  county: San Juan
   name: Waterflow
   lat: '36.7568'
   long: "-108.4673"
@@ -6034,6 +6564,7 @@ cities:
     distance_km: 43.12
 - country: US
   region: NM
+  county: Mora
   name: Watrous
   lat: '35.7900'
   long: "-104.9821"
@@ -6046,6 +6577,7 @@ cities:
     distance_km: 36.93
 - country: US
   region: NM
+  county: Otero
   name: Weed
   lat: '32.8025'
   long: "-105.5248"
@@ -6058,6 +6590,7 @@ cities:
     distance_km: 26.2
 - country: US
   region: NM
+  county: San Juan
   name: West Hammond
   lat: '36.6807'
   long: "-108.0433"
@@ -6070,6 +6603,7 @@ cities:
     distance_km: 58.19
 - country: US
   region: NM
+  county: McKinley
   name: White Cliffs
   lat: '35.5491'
   long: "-108.6644"
@@ -6082,6 +6616,7 @@ cities:
     distance_km: 32.75
 - country: US
   region: NM
+  county: Los Alamos
   name: White Rock
   lat: '35.8075'
   long: "-106.2067"
@@ -6094,6 +6629,8 @@ cities:
     distance_km: 23.33
 - country: US
   region: NM
+  county: !binary |-
+    RG/DsWEgQW5h
   name: White Sands
   lat: '32.3804'
   long: "-106.4791"
@@ -6106,6 +6643,7 @@ cities:
     distance_km: 39.23
 - country: US
   region: NM
+  county: Grant
   name: White Signal
   lat: '32.5724'
   long: "-108.3512"
@@ -6118,6 +6656,7 @@ cities:
     distance_km: 41.72
 - country: US
   region: NM
+  county: Eddy
   name: Whites City
   lat: '32.1767'
   long: "-104.3739"
@@ -6130,6 +6669,7 @@ cities:
     distance_km: 29.53
 - country: US
   region: NM
+  county: Torrance
   name: Willard
   lat: '34.5948'
   long: "-106.0325"
@@ -6142,6 +6682,7 @@ cities:
     distance_km: 45.19
 - country: US
   region: NM
+  county: McKinley
   name: Williams Acres
   lat: '35.4969'
   long: "-108.8699"
@@ -6154,6 +6695,7 @@ cities:
     distance_km: 25.48
 - country: US
   region: NM
+  county: Sierra
   name: Williamsburg
   lat: '33.1158'
   long: "-107.2951"
@@ -6166,6 +6708,7 @@ cities:
     distance_km: 51.83
 - country: US
   region: NM
+  county: Hidalgo
   name: Windmill
   lat: '31.9769'
   long: "-108.6315"
@@ -6178,6 +6721,7 @@ cities:
     distance_km: 40.66
 - country: US
   region: NM
+  county: Sierra
   name: Winston
   lat: '33.3460'
   long: "-107.6488"
@@ -6190,6 +6734,7 @@ cities:
     distance_km: 62.43
 - country: US
   region: NM
+  county: McKinley
   name: Yah-ta-hey
   lat: '35.6291'
   long: "-108.7927"
@@ -6202,6 +6747,7 @@ cities:
     distance_km: 22.72
 - country: US
   region: NM
+  county: Rio Arriba
   name: Youngsville
   lat: '36.1928'
   long: "-106.5660"
@@ -6214,6 +6760,7 @@ cities:
     distance_km: 32.35
 - country: US
   region: NM
+  county: Sandoval
   name: Zia Pueblo
   lat: '35.5200'
   long: "-106.7149"
@@ -6226,6 +6773,7 @@ cities:
     distance_km: 28.88
 - country: US
   region: NM
+  county: McKinley
   name: Zuni Pueblo
   lat: '35.0693'
   long: "-108.8558"

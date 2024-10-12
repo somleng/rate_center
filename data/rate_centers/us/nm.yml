@@ -164,18 +164,6 @@ rate_centers:
     distance_km: 0.5
 - country: US
   region: NM
-  exchange: '127000'
-  name: ANTLPE RDG
-  full_name: Antelope Ridge
-  lata: '664'
-  ilec_name: LEACO RURAL TEL. COOP., INC.
-  lat: '32.207102'
-  long: "-103.66797"
-  closest_city:
-    name: Malaga
-    distance_km: 37.79
-- country: US
-  region: NM
   exchange: '127010'
   name: ANTHONY
   full_name: Anthony
@@ -186,6 +174,18 @@ rate_centers:
   closest_city:
     name: Anthony
     distance_km: 3.05
+- country: US
+  region: NM
+  exchange: '127000'
+  name: ANTLPE RDG
+  full_name: Antelope Ridge
+  lata: '664'
+  ilec_name: LEACO RURAL TEL. COOP., INC.
+  lat: '32.207102'
+  long: "-103.66797"
+  closest_city:
+    name: Malaga
+    distance_km: 37.79
 - country: US
   region: NM
   exchange: '127020'
@@ -239,18 +239,18 @@ rate_centers:
   long:
 - country: US
   region: NM
-  exchange: '342985'
-  name: ARREY
-  full_name: Arrey
+  exchange: '342984'
+  name: AROYOHONDO
+  full_name: Arroyo Hondo
   lata: '664'
   ilec_name: QWEST CORPORATION
   lat:
   long:
 - country: US
   region: NM
-  exchange: '342984'
-  name: AROYOHONDO
-  full_name: Arroyo Hondo
+  exchange: '342985'
+  name: ARREY
+  full_name: Arrey
   lata: '664'
   ilec_name: QWEST CORPORATION
   lat:
@@ -536,6 +536,24 @@ rate_centers:
     distance_km: 1.33
 - country: US
   region: NM
+  exchange: '128231'
+  name: CANONCITO
+  full_name: Cañoncito (Santa Fe)
+  lata: '664'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: NM
+  exchange: '408549'
+  name: CANONCITO
+  full_name: Cañoncito (Bernalillo)
+  lata: '664'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: NM
   exchange: '343015'
   name: CANONES
   full_name: Canones
@@ -587,18 +605,6 @@ rate_centers:
     distance_km: 1.82
 - country: US
   region: NM
-  exchange: '127150'
-  name: CRLSBACRNS
-  full_name: Carlsbad Caverns
-  lata: '664'
-  ilec_name: 'VALOR TELECOM TX,LP-NM #1 DBA WINDSTREAM COMM SW'
-  lat: '32.175398'
-  long: "-104.370901"
-  closest_city:
-    name: Whites City
-    distance_km: 0.32
-- country: US
-  region: NM
   exchange: '127160'
   name: CARRIZOZO
   full_name: Carrizozo
@@ -639,24 +645,6 @@ rate_centers:
   closest_city:
     name: Causey
     distance_km: 3.18
-- country: US
-  region: NM
-  exchange: '408549'
-  name: CANONCITO
-  full_name: Cañoncito (Bernalillo)
-  lata: '664'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: NM
-  exchange: '128231'
-  name: CANONCITO
-  full_name: Cañoncito (Santa Fe)
-  lata: '664'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
 - country: US
   region: NM
   exchange: '343024'
@@ -1008,6 +996,18 @@ rate_centers:
   ilec_name: 'VALOR TELECOM TX,LP-NM #2 DBA WINDSTREAM COMM SW'
   lat:
   long:
+- country: US
+  region: NM
+  exchange: '127150'
+  name: CRLSBACRNS
+  full_name: Carlsbad Caverns
+  lata: '664'
+  ilec_name: 'VALOR TELECOM TX,LP-NM #1 DBA WINDSTREAM COMM SW'
+  lat: '32.175398'
+  long: "-104.370901"
+  closest_city:
+    name: Whites City
+    distance_km: 0.32
 - country: US
   region: NM
   exchange: '343060'
@@ -1437,15 +1437,6 @@ rate_centers:
   long:
 - country: US
   region: NM
-  exchange: '343101'
-  name: FT STANTON
-  full_name: Fort Stanton
-  lata: '664'
-  ilec_name: 'VALOR TELECOM TX,LP-NM #2 DBA WINDSTREAM COMM SW'
-  lat:
-  long:
-- country: US
-  region: NM
   exchange: '127490'
   name: FORTSUMNER
   full_name: Fort Sumner
@@ -1458,18 +1449,27 @@ rate_centers:
     distance_km: 2.32
 - country: US
   region: NM
-  exchange: '343102'
-  name: FT WINGATE
-  full_name: Fort Wingate
+  exchange: '343100'
+  name: FRUITLAND
+  full_name: Fruitland
   lata: '664'
   ilec_name: QWEST CORPORATION
   lat:
   long:
 - country: US
   region: NM
-  exchange: '343100'
-  name: FRUITLAND
-  full_name: Fruitland
+  exchange: '343101'
+  name: FT STANTON
+  full_name: Fort Stanton
+  lata: '664'
+  ilec_name: 'VALOR TELECOM TX,LP-NM #2 DBA WINDSTREAM COMM SW'
+  lat:
+  long:
+- country: US
+  region: NM
+  exchange: '343102'
+  name: FT WINGATE
+  full_name: Fort Wingate
   lata: '664'
   ilec_name: QWEST CORPORATION
   lat:
@@ -1716,15 +1716,6 @@ rate_centers:
   long:
 - country: US
   region: NM
-  exchange: '343127'
-  name: HIRLSMTNPK
-  full_name: High Rolls Mountain Park
-  lata: '664'
-  ilec_name: TULAROSA BASIN TELEPHONE CO., INC.
-  lat:
-  long:
-- country: US
-  region: NM
   exchange: '127580'
   name: HILLSBORO
   full_name: Hillsboro
@@ -1735,6 +1726,15 @@ rate_centers:
   closest_city:
     name: Hillsboro
     distance_km: 1.08
+- country: US
+  region: NM
+  exchange: '343127'
+  name: HIRLSMTNPK
+  full_name: High Rolls Mountain Park
+  lata: '664'
+  ilec_name: TULAROSA BASIN TELEPHONE CO., INC.
+  lat:
+  long:
 - country: US
   region: NM
   exchange: '127590'
@@ -1878,15 +1878,6 @@ rate_centers:
   long:
 - country: US
   region: NM
-  exchange: '343143'
-  name: JEMEZPUBLO
-  full_name: Jemez Pueblo
-  lata: '664'
-  ilec_name: 'VALOR TELECOM TX,LP-NM #2 DBA WINDSTREAM COMM SW'
-  lat:
-  long:
-- country: US
-  region: NM
   exchange: '127640'
   name: JEMEZ SPG
   full_name: Jemez Springs
@@ -1897,6 +1888,15 @@ rate_centers:
   closest_city:
     name: Jemez Springs
     distance_km: 0.91
+- country: US
+  region: NM
+  exchange: '343143'
+  name: JEMEZPUBLO
+  full_name: Jemez Pueblo
+  lata: '664'
+  ilec_name: 'VALOR TELECOM TX,LP-NM #2 DBA WINDSTREAM COMM SW'
+  lat:
+  long:
 - country: US
   region: NM
   exchange: '343144'
@@ -2094,15 +2094,6 @@ rate_centers:
   long:
 - country: US
   region: NM
-  exchange: '343164'
-  name: LASTRAMPAS
-  full_name: Las Trampas
-  lata: '664'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: NM
   exchange: '127700'
   name: LAS VEGAS
   full_name: Las Vegas
@@ -2113,6 +2104,15 @@ rate_centers:
   closest_city:
     name: Las Vegas
     distance_km: 0.61
+- country: US
+  region: NM
+  exchange: '343164'
+  name: LASTRAMPAS
+  full_name: Las Trampas
+  lata: '664'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
 - country: US
   region: NM
   exchange: '343165'
@@ -2724,18 +2724,6 @@ rate_centers:
   long:
 - country: US
   region: NM
-  exchange: '127970'
-  name: OJOCALINTE
-  full_name: Ojo Caliente
-  lata: '664'
-  ilec_name: 'VALOR TELECOM TX,LP-NM #2 DBA WINDSTREAM COMM SW'
-  lat: '36.315095'
-  long: "-106.043808"
-  closest_city:
-    name: Ojo Caliente
-    distance_km: 0.58
-- country: US
-  region: NM
   exchange: '343225'
   name: OJO ENCINO
   full_name: Ojo Encino
@@ -2761,6 +2749,18 @@ rate_centers:
   ilec_name: E.N.M.R. TEL COOP
   lat:
   long:
+- country: US
+  region: NM
+  exchange: '127970'
+  name: OJOCALINTE
+  full_name: Ojo Caliente
+  lata: '664'
+  ilec_name: 'VALOR TELECOM TX,LP-NM #2 DBA WINDSTREAM COMM SW'
+  lat: '36.315095'
+  long: "-106.043808"
+  closest_city:
+    name: Ojo Caliente
+    distance_km: 0.58
 - country: US
   region: NM
   exchange: '343229'
@@ -3239,15 +3239,6 @@ rate_centers:
   long:
 - country: US
   region: NM
-  exchange: '343280'
-  name: RRNCHESTTS
-  full_name: Rio Rancho Estates
-  lata: '664'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: NM
   exchange: '343275'
   name: ROAD FORKS
   full_name: Road Forks
@@ -3309,6 +3300,15 @@ rate_centers:
   closest_city:
     name: Roy
     distance_km: 0.62
+- country: US
+  region: NM
+  exchange: '343280'
+  name: RRNCHESTTS
+  full_name: Rio Rancho Estates
+  lata: '664'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
 - country: US
   region: NM
   exchange: '128180'
@@ -3380,24 +3380,6 @@ rate_centers:
   long:
 - country: US
   region: NM
-  exchange: '343294'
-  name: SANANTONIO
-  full_name: San Antonio
-  lata: '664'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: NM
-  exchange: '343314'
-  name: SNANTONITO
-  full_name: San Antonito
-  lata: '664'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: NM
   exchange: '343287'
   name: SAN FIDEL
   full_name: San Fidel
@@ -3410,15 +3392,6 @@ rate_centers:
   exchange: '343288'
   name: SAN FRAN
   full_name: San Francsico
-  lata: '664'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: NM
-  exchange: '343298'
-  name: SANILDENFN
-  full_name: San Ildefonso
   lata: '664'
   ilec_name: QWEST CORPORATION
   lat:
@@ -3446,38 +3419,11 @@ rate_centers:
   long:
 - country: US
   region: NM
-  exchange: '343299'
-  name: SANJUANPUB
-  full_name: San Juan Pueblo
-  lata: '664'
-  ilec_name: 'VALOR TELECOM TX,LP-NM #2 DBA WINDSTREAM COMM SW'
-  lat:
-  long:
-- country: US
-  region: NM
-  exchange: '343300'
-  name: SANLORENZO
-  full_name: San Lorenzo
-  lata: '664'
-  ilec_name: WESTERN NEW MEXICO TEL. CO., INC.
-  lat:
-  long:
-- country: US
-  region: NM
   exchange: '343291'
   name: SAN MATEO
   full_name: San Mateo
   lata: '664'
   ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: NM
-  exchange: '343315'
-  name: SNPATRICIO
-  full_name: San Patricio
-  lata: '664'
-  ilec_name: PENASCO VALLEY TEL. COOP., INC.
   lat:
   long:
 - country: US
@@ -3503,6 +3449,15 @@ rate_centers:
     distance_km: 7.01
 - country: US
   region: NM
+  exchange: '343294'
+  name: SANANTONIO
+  full_name: San Antonio
+  lata: '664'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: NM
   exchange: '343295'
   name: SANDIAPARK
   full_name: Sandia Park
@@ -3521,6 +3476,42 @@ rate_centers:
   long:
 - country: US
   region: NM
+  exchange: '343297'
+  name: SANDOMINGP
+  full_name: Santo Domingo Pueblo
+  lata: '664'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: NM
+  exchange: '343298'
+  name: SANILDENFN
+  full_name: San Ildefonso
+  lata: '664'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: NM
+  exchange: '343299'
+  name: SANJUANPUB
+  full_name: San Juan Pueblo
+  lata: '664'
+  ilec_name: 'VALOR TELECOM TX,LP-NM #2 DBA WINDSTREAM COMM SW'
+  lat:
+  long:
+- country: US
+  region: NM
+  exchange: '343300'
+  name: SANLORENZO
+  full_name: San Lorenzo
+  lata: '664'
+  ilec_name: WESTERN NEW MEXICO TEL. CO., INC.
+  lat:
+  long:
+- country: US
+  region: NM
   exchange: '128220'
   name: SANOSTEE
   full_name: Sanostee
@@ -3531,15 +3522,6 @@ rate_centers:
   closest_city:
     name: Sanostee
     distance_km: 0.91
-- country: US
-  region: NM
-  exchange: '343305'
-  name: SANTAANAPB
-  full_name: Santa Ana Pueblo
-  lata: '664'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
 - country: US
   region: NM
   exchange: '343302'
@@ -3575,21 +3557,9 @@ rate_centers:
     distance_km: 0.8
 - country: US
   region: NM
-  exchange: '128250'
-  name: SNA TERESA
-  full_name: Santa Teresa
-  lata: '664'
-  ilec_name: QWEST CORPORATION
-  lat: '31.86039'
-  long: "-106.688217"
-  closest_city:
-    name: Santa Teresa
-    distance_km: 1.92
-- country: US
-  region: NM
-  exchange: '343297'
-  name: SANDOMINGP
-  full_name: Santo Domingo Pueblo
+  exchange: '343305'
+  name: SANTAANAPB
+  full_name: Santa Ana Pueblo
   lata: '664'
   ilec_name: QWEST CORPORATION
   lat:
@@ -3665,6 +3635,48 @@ rate_centers:
     distance_km: 0.39
 - country: US
   region: NM
+  exchange: '128250'
+  name: SNA TERESA
+  full_name: Santa Teresa
+  lata: '664'
+  ilec_name: QWEST CORPORATION
+  lat: '31.86039'
+  long: "-106.688217"
+  closest_city:
+    name: Santa Teresa
+    distance_km: 1.92
+- country: US
+  region: NM
+  exchange: '343314'
+  name: SNANTONITO
+  full_name: San Antonito
+  lata: '664'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: NM
+  exchange: '343315'
+  name: SNPATRICIO
+  full_name: San Patricio
+  lata: '664'
+  ilec_name: PENASCO VALLEY TEL. COOP., INC.
+  lat:
+  long:
+- country: US
+  region: NM
+  exchange: '128290'
+  name: SO CLOVIS
+  full_name: South Clovis
+  lata: '664'
+  ilec_name: E.N.M.R. TEL COOP
+  lat: '34.351534'
+  long: "-103.406023"
+  closest_city:
+    name: Cannon AFB
+    distance_km: 9.02
+- country: US
+  region: NM
   exchange: '128280'
   name: SOCORRO
   full_name: Socorro
@@ -3684,18 +3696,6 @@ rate_centers:
   ilec_name: E.N.M.R. TEL COOP
   lat:
   long:
-- country: US
-  region: NM
-  exchange: '128290'
-  name: SO CLOVIS
-  full_name: South Clovis
-  lata: '664'
-  ilec_name: E.N.M.R. TEL COOP
-  lat: '34.351534'
-  long: "-103.406023"
-  closest_city:
-    name: Cannon AFB
-    distance_km: 9.02
 - country: US
   region: NM
   exchange: '128300'
@@ -4121,15 +4121,6 @@ rate_centers:
     distance_km: 0.52
 - country: US
   region: NM
-  exchange: '343358'
-  name: VL LOSRNCH
-  full_name: Village Of Los Ranchos
-  lata: '664'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: NM
   exchange: '128510'
   name: VIRDEN
   full_name: Virden
@@ -4140,6 +4131,15 @@ rate_centers:
   closest_city:
     name: Virden
     distance_km: 0.9
+- country: US
+  region: NM
+  exchange: '343358'
+  name: VL LOSRNCH
+  full_name: Village Of Los Ranchos
+  lata: '664'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
 - country: US
   region: NM
   exchange: '128520'
@@ -4193,6 +4193,27 @@ rate_centers:
   long:
 - country: US
   region: NM
+  exchange: '128550'
+  name: WHITE ROCK
+  full_name: White Rock
+  lata: '664'
+  ilec_name: QWEST CORPORATION
+  lat: '35.832107'
+  long: "-106.200545"
+  closest_city:
+    name: White Rock
+    distance_km: 2.79
+- country: US
+  region: NM
+  exchange: '343365'
+  name: WHITE SMR
+  full_name: White Sands Missile Range
+  lata: '664'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: NM
   exchange: '128540'
   name: WHITELAKES
   full_name: White Lakes
@@ -4214,30 +4235,9 @@ rate_centers:
   long:
 - country: US
   region: NM
-  exchange: '128550'
-  name: WHITE ROCK
-  full_name: White Rock
-  lata: '664'
-  ilec_name: QWEST CORPORATION
-  lat: '35.832107'
-  long: "-106.200545"
-  closest_city:
-    name: White Rock
-    distance_km: 2.79
-- country: US
-  region: NM
   exchange: '127691'
   name: WHITESANDS
   full_name: White Sands
-  lata: '664'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: NM
-  exchange: '343365'
-  name: WHITE SMR
-  full_name: White Sands Missile Range
   lata: '664'
   ilec_name: QWEST CORPORATION
   lat:
@@ -4253,20 +4253,20 @@ rate_centers:
   long:
 - country: US
   region: NM
-  exchange: '343370'
-  name: WILLARD
-  full_name: Willard
-  lata: '664'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: NM
   exchange: '343369'
   name: WILLAIMBRG
   full_name: Williamsburg
   lata: '664'
   ilec_name: 'VALOR TELECOM TX,LP-NM #2 DBA WINDSTREAM COMM SW'
+  lat:
+  long:
+- country: US
+  region: NM
+  exchange: '343370'
+  name: WILLARD
+  full_name: Willard
+  lata: '664'
+  ilec_name: QWEST CORPORATION
   lat:
   long:
 - country: US

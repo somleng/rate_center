@@ -188,20 +188,20 @@ rate_centers:
   long:
 - country: US
   region: WV
-  exchange: '314578'
-  name: ALUMBRIDGE
-  full_name: Alum Bridge
-  lata: '256'
-  ilec_name: CITIZENS TEL CO OF WV DBA FRONTIER OF WV
-  lat:
-  long:
-- country: US
-  region: WV
   exchange: '215771'
   name: ALUM CREEK
   full_name: Alum Creek
   lata: '254'
   ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat:
+  long:
+- country: US
+  region: WV
+  exchange: '314578'
+  name: ALUMBRIDGE
+  full_name: Alum Bridge
+  lata: '256'
+  ilec_name: CITIZENS TEL CO OF WV DBA FRONTIER OF WV
   lat:
   long:
 - country: US
@@ -1073,15 +1073,6 @@ rate_centers:
   long:
 - country: US
   region: WV
-  exchange: '313789'
-  name: BIGCHIMNEY
-  full_name: Big Chimney
-  lata: '254'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat:
-  long:
-- country: US
-  region: WV
   exchange: '313787'
   name: BIG CREEK
   full_name: Big Creek
@@ -1118,6 +1109,15 @@ rate_centers:
   long:
 - country: US
   region: WV
+  exchange: '313789'
+  name: BIGCHIMNEY
+  full_name: Big Chimney
+  lata: '254'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat:
+  long:
+- country: US
+  region: WV
   exchange: '313790'
   name: BIGSPRINGS
   full_name: Big Springs
@@ -1145,6 +1145,15 @@ rate_centers:
   long:
 - country: US
   region: WV
+  exchange: '313793'
+  name: BIRCH RUN
+  full_name: Birch Run
+  lata: '254'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat:
+  long:
+- country: US
+  region: WV
   exchange: '215500'
   name: BIRCHRIVER
   full_name: Birch River
@@ -1155,15 +1164,6 @@ rate_centers:
   closest_city:
     name: Birch River
     distance_km: 0.55
-- country: US
-  region: WV
-  exchange: '313793'
-  name: BIRCH RUN
-  full_name: Birch Run
-  lata: '254'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat:
-  long:
 - country: US
   region: WV
   exchange: '313795'
@@ -1268,6 +1268,15 @@ rate_centers:
   long:
 - country: US
   region: WV
+  exchange: '313802'
+  name: BLSLPHRSPG
+  full_name: Blue Sulphur Springs
+  lata: '254'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat:
+  long:
+- country: US
+  region: WV
   exchange: '313803'
   name: BLUE CREEK
   full_name: Blue Creek
@@ -1295,24 +1304,6 @@ rate_centers:
   long:
 - country: US
   region: WV
-  exchange: '313806'
-  name: BLUESLPHUR
-  full_name: Blue Sulphur
-  lata: '254'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat:
-  long:
-- country: US
-  region: WV
-  exchange: '313802'
-  name: BLSLPHRSPG
-  full_name: Blue Sulphur Springs
-  lata: '254'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat:
-  long:
-- country: US
-  region: WV
   exchange: '215520'
   name: BLUEFIELD
   full_name: Bluefield
@@ -1323,6 +1314,15 @@ rate_centers:
   closest_city:
     name: Bluefield
     distance_km: 1.76
+- country: US
+  region: WV
+  exchange: '313806'
+  name: BLUESLPHUR
+  full_name: Blue Sulphur
+  lata: '254'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat:
+  long:
 - country: US
   region: WV
   exchange: '215530'
@@ -1709,18 +1709,18 @@ rate_centers:
     distance_km: 5.7
 - country: US
   region: WV
-  exchange: '314626'
-  name: BRUSHYFORK
-  full_name: Brushy Fork
+  exchange: '314625'
+  name: BRUSHY RUN
+  full_name: Brushy Run
   lata: '256'
   ilec_name: FRONTIER WEST VIRGINIA INC.
   lat:
   long:
 - country: US
   region: WV
-  exchange: '314625'
-  name: BRUSHY RUN
-  full_name: Brushy Run
+  exchange: '314626'
+  name: BRUSHYFORK
+  full_name: Brushy Fork
   lata: '256'
   ilec_name: FRONTIER WEST VIRGINIA INC.
   lat:
@@ -1918,15 +1918,6 @@ rate_centers:
   full_name: Camden
   lata: '256'
   ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat:
-  long:
-- country: US
-  region: WV
-  exchange: '314657'
-  name: CMDNONGALY
-  full_name: Camden On Gauley
-  lata: '256'
-  ilec_name: CITIZENS TEL CO OF WV DBA FRONTIER OF WV
   lat:
   long:
 - country: US
@@ -2243,90 +2234,6 @@ rate_centers:
   long:
 - country: US
   region: WV
-  exchange: '215710'
-  name: CHRLSTNZN1
-  full_name: Charleston Zone 1
-  lata: '254'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat: '38.350188'
-  long: "-81.634289"
-  closest_city:
-    name: Charleston
-    distance_km: 0.27
-- country: US
-  region: WV
-  exchange: '215720'
-  name: CHRLSTNZN2
-  full_name: Charleston Zone 2
-  lata: '254'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat: '38.492277'
-  long: "-81.660018"
-  closest_city:
-    name: Sissonville
-    distance_km: 2.2
-- country: US
-  region: WV
-  exchange: '215730'
-  name: CHRLSTNZN3
-  full_name: Charleston Zone 3
-  lata: '254'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat: '38.424275'
-  long: "-81.486622"
-  closest_city:
-    name: Elkview
-    distance_km: 1.25
-- country: US
-  region: WV
-  exchange: '215740'
-  name: CHRLSTNZN4
-  full_name: Charleston Zone 4
-  lata: '254'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat: '38.234186'
-  long: "-81.540151"
-  closest_city:
-    name: Belle
-    distance_km: 0.16
-- country: US
-  region: WV
-  exchange: '215750'
-  name: CHRLSTNZN5
-  full_name: Charleston Zone 5
-  lata: '254'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat: '38.382724'
-  long: "-81.835226"
-  closest_city:
-    name: St. Albans
-    distance_km: 1.49
-- country: US
-  region: WV
-  exchange: '215760'
-  name: CHRLSTNZN6
-  full_name: Charleston Zone 6
-  lata: '254'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat: '38.424562'
-  long: "-81.843672"
-  closest_city:
-    name: Nitro
-    distance_km: 2.56
-- country: US
-  region: WV
-  exchange: '215770'
-  name: CHRLSTNZN7
-  full_name: Charleston Zone 7
-  lata: '254'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat: '38.282492'
-  long: "-81.817573"
-  closest_city:
-    name: Alum Creek
-    distance_km: 1.46
-- country: US
-  region: WV
   exchange: '313849'
   name: CHARMCO
   full_name: Charmco
@@ -2477,6 +2384,90 @@ rate_centers:
   long:
 - country: US
   region: WV
+  exchange: '215710'
+  name: CHRLSTNZN1
+  full_name: Charleston Zone 1
+  lata: '254'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat: '38.350188'
+  long: "-81.634289"
+  closest_city:
+    name: Charleston
+    distance_km: 0.27
+- country: US
+  region: WV
+  exchange: '215720'
+  name: CHRLSTNZN2
+  full_name: Charleston Zone 2
+  lata: '254'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat: '38.492277'
+  long: "-81.660018"
+  closest_city:
+    name: Sissonville
+    distance_km: 2.2
+- country: US
+  region: WV
+  exchange: '215730'
+  name: CHRLSTNZN3
+  full_name: Charleston Zone 3
+  lata: '254'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat: '38.424275'
+  long: "-81.486622"
+  closest_city:
+    name: Elkview
+    distance_km: 1.25
+- country: US
+  region: WV
+  exchange: '215740'
+  name: CHRLSTNZN4
+  full_name: Charleston Zone 4
+  lata: '254'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat: '38.234186'
+  long: "-81.540151"
+  closest_city:
+    name: Belle
+    distance_km: 0.16
+- country: US
+  region: WV
+  exchange: '215750'
+  name: CHRLSTNZN5
+  full_name: Charleston Zone 5
+  lata: '254'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat: '38.382724'
+  long: "-81.835226"
+  closest_city:
+    name: St. Albans
+    distance_km: 1.49
+- country: US
+  region: WV
+  exchange: '215760'
+  name: CHRLSTNZN6
+  full_name: Charleston Zone 6
+  lata: '254'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat: '38.424562'
+  long: "-81.843672"
+  closest_city:
+    name: Nitro
+    distance_km: 2.56
+- country: US
+  region: WV
+  exchange: '215770'
+  name: CHRLSTNZN7
+  full_name: Charleston Zone 7
+  lata: '254'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat: '38.282492'
+  long: "-81.817573"
+  closest_city:
+    name: Alum Creek
+    distance_km: 1.46
+- country: US
+  region: WV
   exchange: '313866'
   name: CINDERELLA
   full_name: Cinderella
@@ -2546,15 +2537,6 @@ rate_centers:
     distance_km: 1.31
 - country: US
   region: WV
-  exchange: '313873'
-  name: CLEARCREEK
-  full_name: Clear Creek
-  lata: '254'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat:
-  long:
-- country: US
-  region: WV
   exchange: '313871'
   name: CLEAR FORK
   full_name: Clear Fork
@@ -2569,6 +2551,15 @@ rate_centers:
   full_name: Clearco
   lata: '254'
   ilec_name: CITIZENS TEL CO OF WV DBA FRONTIER OF WV
+  lat:
+  long:
+- country: US
+  region: WV
+  exchange: '313873'
+  name: CLEARCREEK
+  full_name: Clear Creek
+  lata: '254'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
   lat:
   long:
 - country: US
@@ -2661,6 +2652,15 @@ rate_centers:
   name: CLOVERLICK
   full_name: Clover Lick
   lata: '254'
+  ilec_name: CITIZENS TEL CO OF WV DBA FRONTIER OF WV
+  lat:
+  long:
+- country: US
+  region: WV
+  exchange: '314657'
+  name: CMDNONGALY
+  full_name: Camden On Gauley
+  lata: '256'
   ilec_name: CITIZENS TEL CO OF WV DBA FRONTIER OF WV
   lat:
   long:
@@ -3344,19 +3344,19 @@ rate_centers:
   long:
 - country: US
   region: WV
-  exchange: '314681'
-  name: DEEPVALLEY
-  full_name: Deep Valley
-  lata: '256'
+  exchange: '313924'
+  name: DEEP WATER
+  full_name: Deep Water
+  lata: '254'
   ilec_name: FRONTIER WEST VIRGINIA INC.
   lat:
   long:
 - country: US
   region: WV
-  exchange: '313924'
-  name: DEEP WATER
-  full_name: Deep Water
-  lata: '254'
+  exchange: '314681'
+  name: DEEPVALLEY
+  full_name: Deep Valley
+  lata: '256'
   ilec_name: FRONTIER WEST VIRGINIA INC.
   lat:
   long:
@@ -3782,15 +3782,6 @@ rate_centers:
     distance_km: 9.02
 - country: US
   region: WV
-  exchange: '314702'
-  name: ESTEUBENVL
-  full_name: East Steubenville
-  lata: '256'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat:
-  long:
-- country: US
-  region: WV
   exchange: '313957'
   name: EASTGULF
   full_name: Eastgulf
@@ -4143,6 +4134,15 @@ rate_centers:
   name: ESKDALE
   full_name: Eskdale
   lata: '254'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat:
+  long:
+- country: US
+  region: WV
+  exchange: '314702'
+  name: ESTEUBENVL
+  full_name: East Steubenville
+  lata: '256'
   ilec_name: FRONTIER WEST VIRGINIA INC.
   lat:
   long:
@@ -4538,15 +4538,6 @@ rate_centers:
     distance_km: 0.4
 - country: US
   region: WV
-  exchange: '314727'
-  name: FT SEYBERT
-  full_name: Fort Seybert
-  lata: '256'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat:
-  long:
-- country: US
-  region: WV
   exchange: '313998'
   name: FORTSPRING
   full_name: Fort Spring
@@ -4706,10 +4697,10 @@ rate_centers:
   long:
 - country: US
   region: WV
-  exchange: '314008'
-  name: GALLAGHER
-  full_name: Gallagher
-  lata: '254'
+  exchange: '314727'
+  name: FT SEYBERT
+  full_name: Fort Seybert
+  lata: '256'
   ilec_name: FRONTIER WEST VIRGINIA INC.
   lat:
   long:
@@ -4718,6 +4709,15 @@ rate_centers:
   exchange: '314007'
   name: GALIPOLFRY
   full_name: Gallipolis Ferry
+  lata: '254'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat:
+  long:
+- country: US
+  region: WV
+  exchange: '314008'
+  name: GALLAGHER
+  full_name: Gallagher
   lata: '254'
   ilec_name: FRONTIER WEST VIRGINIA INC.
   lat:
@@ -5006,45 +5006,6 @@ rate_centers:
   long:
 - country: US
   region: WV
-  exchange: '314736'
-  name: GLENDALE
-  full_name: Glen Dale
-  lata: '256'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat:
-  long:
-- country: US
-  region: WV
-  exchange: '216160'
-  name: GLENDANIEL
-  full_name: Glen Daniel
-  lata: '254'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat: '37.784395'
-  long: "-81.338877"
-  closest_city:
-    name: Lester
-    distance_km: 6.41
-- country: US
-  region: WV
-  exchange: '314738'
-  name: GLENEASTON
-  full_name: Glen Easton
-  lata: '256'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat:
-  long:
-- country: US
-  region: WV
-  exchange: '314030'
-  name: GLENFERRIS
-  full_name: Glen Ferris
-  lata: '254'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat:
-  long:
-- country: US
-  region: WV
   exchange: '314025'
   name: GLEN FORK
   full_name: Glen Fork
@@ -5057,24 +5018,6 @@ rate_centers:
   exchange: '314026'
   name: GLEN JEAN
   full_name: Glen Jean
-  lata: '254'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat:
-  long:
-- country: US
-  region: WV
-  exchange: '314032'
-  name: GLENMORGAN
-  full_name: Glen Morgan
-  lata: '254'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat:
-  long:
-- country: US
-  region: WV
-  exchange: '314033'
-  name: GLENROGERS
-  full_name: Glen Rogers
   lata: '254'
   ilec_name: FRONTIER WEST VIRGINIA INC.
   lat:
@@ -5099,10 +5042,49 @@ rate_centers:
   long:
 - country: US
   region: WV
+  exchange: '314736'
+  name: GLENDALE
+  full_name: Glen Dale
+  lata: '256'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat:
+  long:
+- country: US
+  region: WV
+  exchange: '216160'
+  name: GLENDANIEL
+  full_name: Glen Daniel
+  lata: '254'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat: '37.784395'
+  long: "-81.338877"
+  closest_city:
+    name: Lester
+    distance_km: 6.41
+- country: US
+  region: WV
   exchange: '314737'
   name: GLENDON
   full_name: Glendon
   lata: '256'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat:
+  long:
+- country: US
+  region: WV
+  exchange: '314738'
+  name: GLENEASTON
+  full_name: Glen Easton
+  lata: '256'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat:
+  long:
+- country: US
+  region: WV
+  exchange: '314030'
+  name: GLENFERRIS
+  full_name: Glen Ferris
+  lata: '254'
   ilec_name: FRONTIER WEST VIRGINIA INC.
   lat:
   long:
@@ -5120,6 +5102,24 @@ rate_centers:
   exchange: '314031'
   name: GLENHAYES
   full_name: Glenhayes
+  lata: '254'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat:
+  long:
+- country: US
+  region: WV
+  exchange: '314032'
+  name: GLENMORGAN
+  full_name: Glen Morgan
+  lata: '254'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat:
+  long:
+- country: US
+  region: WV
+  exchange: '314033'
+  name: GLENROGERS
+  full_name: Glen Rogers
   lata: '254'
   ilec_name: FRONTIER WEST VIRGINIA INC.
   lat:
@@ -5309,15 +5309,6 @@ rate_centers:
   long:
 - country: US
   region: WV
-  exchange: '314046'
-  name: GRSLPHRSPG
-  full_name: Green Sulphur Springs
-  lata: '254'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat:
-  long:
-- country: US
-  region: WV
   exchange: '361349'
   name: GREEN VLY
   full_name: Green Valley
@@ -5390,6 +5381,15 @@ rate_centers:
   exchange: '314045'
   name: GRIMMS LDG
   full_name: Grimms Landing
+  lata: '254'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat:
+  long:
+- country: US
+  region: WV
+  exchange: '314046'
+  name: GRSLPHRSPG
+  full_name: Green Sulphur Springs
   lata: '254'
   ilec_name: FRONTIER WEST VIRGINIA INC.
   lat:
@@ -5999,6 +5999,42 @@ rate_centers:
     distance_km: 1.46
 - country: US
   region: WV
+  exchange: '216330'
+  name: HNTNGTNZN1
+  full_name: Huntington Zone 1
+  lata: '254'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat: '38.414386'
+  long: "-82.44046"
+  closest_city:
+    name: Huntington
+    distance_km: 0.65
+- country: US
+  region: WV
+  exchange: '216340'
+  name: HNTNGTNZN2
+  full_name: Huntington Zone 2
+  lata: '254'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat: '38.409157'
+  long: "-82.294097"
+  closest_city:
+    name: Barboursville
+    distance_km: 0.34
+- country: US
+  region: WV
+  exchange: '216350'
+  name: HNTNGTNZN4
+  full_name: Huntington Zone 4
+  lata: '254'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat: '38.400491'
+  long: "-82.580892"
+  closest_city:
+    name: Kenova
+    distance_km: 0.26
+- country: US
+  region: WV
   exchange: '314769'
   name: HOARD
   full_name: Hoard
@@ -6189,42 +6225,6 @@ rate_centers:
   ilec_name: FRONTIER WEST VIRGINIA INC.
   lat:
   long:
-- country: US
-  region: WV
-  exchange: '216330'
-  name: HNTNGTNZN1
-  full_name: Huntington Zone 1
-  lata: '254'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat: '38.414386'
-  long: "-82.44046"
-  closest_city:
-    name: Huntington
-    distance_km: 0.65
-- country: US
-  region: WV
-  exchange: '216340'
-  name: HNTNGTNZN2
-  full_name: Huntington Zone 2
-  lata: '254'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat: '38.409157'
-  long: "-82.294097"
-  closest_city:
-    name: Barboursville
-    distance_km: 0.34
-- country: US
-  region: WV
-  exchange: '216350'
-  name: HNTNGTNZN4
-  full_name: Huntington Zone 4
-  lata: '254'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat: '38.400491'
-  long: "-82.580892"
-  closest_city:
-    name: Kenova
-    distance_km: 0.26
 - country: US
   region: WV
   exchange: '314097'
@@ -6788,15 +6788,6 @@ rate_centers:
     distance_km: 0.21
 - country: US
   region: WV
-  exchange: '314134'
-  name: KSRSCRSLNS
-  full_name: Keslers Cross Lanes
-  lata: '254'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat:
-  long:
-- country: US
-  region: WV
   exchange: '314124'
   name: KESSLER
   full_name: Kessler
@@ -6959,6 +6950,15 @@ rate_centers:
   long:
 - country: US
   region: WV
+  exchange: '314134'
+  name: KSRSCRSLNS
+  full_name: Keslers Cross Lanes
+  lata: '254'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat:
+  long:
+- country: US
+  region: WV
   exchange: '361360'
   name: KYLE
   full_name: Kyle
@@ -7085,15 +7085,6 @@ rate_centers:
   long:
 - country: US
   region: WV
-  exchange: '314811'
-  name: LAURELPARK
-  full_name: Laurel Park
-  lata: '256'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat:
-  long:
-- country: US
-  region: WV
   exchange: '216460'
   name: LAUREL PT
   full_name: Laurel Point
@@ -7109,6 +7100,15 @@ rate_centers:
   exchange: '314810'
   name: LAUREL VLY
   full_name: Laurel Valley
+  lata: '256'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat:
+  long:
+- country: US
+  region: WV
+  exchange: '314811'
+  name: LAURELPARK
+  full_name: Laurel Park
   lata: '256'
   ilec_name: FRONTIER WEST VIRGINIA INC.
   lat:
@@ -7427,42 +7427,6 @@ rate_centers:
   long:
 - country: US
   region: WV
-  exchange: '314826'
-  name: LTL BIRCH
-  full_name: Little Birch
-  lata: '256'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat:
-  long:
-- country: US
-  region: WV
-  exchange: '314827'
-  name: LTL FALLS
-  full_name: Little Falls
-  lata: '256'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat:
-  long:
-- country: US
-  region: WV
-  exchange: '312131'
-  name: LTLGEORGEN
-  full_name: Little Georgetown
-  lata: '240'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat:
-  long:
-- country: US
-  region: WV
-  exchange: '314828'
-  name: LTL OTTER
-  full_name: Little Otter
-  lata: '256'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat:
-  long:
-- country: US
-  region: WV
   exchange: '314818'
   name: LITTLETON
   full_name: Littleton
@@ -7574,15 +7538,6 @@ rate_centers:
   long:
 - country: US
   region: WV
-  exchange: '314177'
-  name: LONGBRANCH
-  full_name: Long Branch
-  lata: '254'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat:
-  long:
-- country: US
-  region: WV
   exchange: '314819'
   name: LONG REACH
   full_name: Long Reach
@@ -7595,6 +7550,15 @@ rate_centers:
   exchange: '314176'
   name: LONGACRE
   full_name: Longacre
+  lata: '254'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat:
+  long:
+- country: US
+  region: WV
+  exchange: '314177'
+  name: LONGBRANCH
+  full_name: Long Branch
   lata: '254'
   ilec_name: FRONTIER WEST VIRGINIA INC.
   lat:
@@ -7716,6 +7680,42 @@ rate_centers:
   name: LOWGAP
   full_name: Lowgap
   lata: '254'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat:
+  long:
+- country: US
+  region: WV
+  exchange: '314826'
+  name: LTL BIRCH
+  full_name: Little Birch
+  lata: '256'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat:
+  long:
+- country: US
+  region: WV
+  exchange: '314827'
+  name: LTL FALLS
+  full_name: Little Falls
+  lata: '256'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat:
+  long:
+- country: US
+  region: WV
+  exchange: '314828'
+  name: LTL OTTER
+  full_name: Little Otter
+  lata: '256'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat:
+  long:
+- country: US
+  region: WV
+  exchange: '312131'
+  name: LTLGEORGEN
+  full_name: Little Georgetown
+  lata: '240'
   ilec_name: FRONTIER WEST VIRGINIA INC.
   lat:
   long:
@@ -8204,19 +8204,19 @@ rate_centers:
     distance_km: 14.16
 - country: US
   region: WV
-  exchange: '314844'
+  exchange: '314212'
   name: MCALPIN
-  full_name: McAlpin (Harrison)
-  lata: '256'
+  full_name: McAlpin (Raleigh)
+  lata: '254'
   ilec_name: FRONTIER WEST VIRGINIA INC.
   lat:
   long:
 - country: US
   region: WV
-  exchange: '314212'
+  exchange: '314844'
   name: MCALPIN
-  full_name: McAlpin (Raleigh)
-  lata: '254'
+  full_name: McAlpin (Harrison)
+  lata: '256'
   ilec_name: FRONTIER WEST VIRGINIA INC.
   lat:
   long:
@@ -8312,6 +8312,18 @@ rate_centers:
   long:
 - country: US
   region: WV
+  exchange: '216650'
+  name: MDW BRIDGE
+  full_name: Meadow Bridge
+  lata: '254'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat: '37.859453'
+  long: "-80.855791"
+  closest_city:
+    name: Meadow Bridge
+    distance_km: 0.21
+- country: US
+  region: WV
   exchange: '314216'
   name: MEAD
   full_name: Mead
@@ -8337,18 +8349,6 @@ rate_centers:
   ilec_name: CITIZENS TEL CO OF WV DBA FRONTIER OF WV
   lat:
   long:
-- country: US
-  region: WV
-  exchange: '216650'
-  name: MDW BRIDGE
-  full_name: Meadow Bridge
-  lata: '254'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat: '37.859453'
-  long: "-80.855791"
-  closest_city:
-    name: Meadow Bridge
-    distance_km: 0.21
 - country: US
   region: WV
   exchange: '314219'
@@ -8867,24 +8867,6 @@ rate_centers:
   long:
 - country: US
   region: WV
-  exchange: '314251'
-  name: MT CARBON
-  full_name: Mount Carbon
-  lata: '254'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat:
-  long:
-- country: US
-  region: WV
-  exchange: '314872'
-  name: MOUNTCLARE
-  full_name: Mount Clare
-  lata: '256'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat:
-  long:
-- country: US
-  region: WV
   exchange: '314245'
   name: MOUNT GAY
   full_name: Mount Gay
@@ -8906,49 +8888,10 @@ rate_centers:
     distance_km: 0.94
 - country: US
   region: WV
-  exchange: '314252'
-  name: MT LOOKOUT
-  full_name: Mount Lookout
-  lata: '254'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat:
-  long:
-- country: US
-  region: WV
-  exchange: '216740'
-  name: MT MORRIS
-  full_name: Mount Morris
-  lata: '256'
-  ilec_name: CITIZENS TEL CO OF WV DBA FRONTIER OF WV
-  lat: '39.715871'
-  long: "-80.058198"
-  closest_city:
-    name: Cassville
-    distance_km: 4.62
-- country: US
-  region: WV
   exchange: '314247'
   name: MOUNT NEBO
   full_name: Mount Nebo
   lata: '254'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat:
-  long:
-- country: US
-  region: WV
-  exchange: '314250'
-  name: MOUNTOLIVE
-  full_name: Mount Olive
-  lata: '254'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat:
-  long:
-- country: US
-  region: WV
-  exchange: '312139'
-  name: MOUNTSTORM
-  full_name: Mount Storm
-  lata: '240'
   ilec_name: FRONTIER WEST VIRGINIA INC.
   lat:
   long:
@@ -8972,6 +8915,33 @@ rate_centers:
   long:
 - country: US
   region: WV
+  exchange: '314872'
+  name: MOUNTCLARE
+  full_name: Mount Clare
+  lata: '256'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat:
+  long:
+- country: US
+  region: WV
+  exchange: '314250'
+  name: MOUNTOLIVE
+  full_name: Mount Olive
+  lata: '254'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat:
+  long:
+- country: US
+  region: WV
+  exchange: '312139'
+  name: MOUNTSTORM
+  full_name: Mount Storm
+  lata: '240'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat:
+  long:
+- country: US
+  region: WV
   exchange: '314873'
   name: MOYERS
   full_name: Moyers
@@ -8988,6 +8958,36 @@ rate_centers:
   ilec_name: FRONTIER WEST VIRGINIA INC.
   lat:
   long:
+- country: US
+  region: WV
+  exchange: '314251'
+  name: MT CARBON
+  full_name: Mount Carbon
+  lata: '254'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat:
+  long:
+- country: US
+  region: WV
+  exchange: '314252'
+  name: MT LOOKOUT
+  full_name: Mount Lookout
+  lata: '254'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat:
+  long:
+- country: US
+  region: WV
+  exchange: '216740'
+  name: MT MORRIS
+  full_name: Mount Morris
+  lata: '256'
+  ilec_name: CITIZENS TEL CO OF WV DBA FRONTIER OF WV
+  lat: '39.715871'
+  long: "-80.058198"
+  closest_city:
+    name: Cassville
+    distance_km: 4.62
 - country: US
   region: WV
   exchange: '314253'
@@ -9050,6 +9050,15 @@ rate_centers:
   exchange: '314259'
   name: MYRTLE
   full_name: Myrtle
+  lata: '254'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat:
+  long:
+- country: US
+  region: WV
+  exchange: '314260'
+  name: N PARKRSBG
+  full_name: North Parkersburg
   lata: '254'
   ilec_name: FRONTIER WEST VIRGINIA INC.
   lat:
@@ -9182,27 +9191,6 @@ rate_centers:
   long:
 - country: US
   region: WV
-  exchange: '216760'
-  name: NEWCUMBRLD
-  full_name: New Cumberland
-  lata: '256'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat: '40.490852'
-  long: "-80.602556"
-  closest_city:
-    name: New Cumberland
-    distance_km: 1.97
-- country: US
-  region: WV
-  exchange: '314270'
-  name: NEWENGLAND
-  full_name: New England
-  lata: '254'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat:
-  long:
-- country: US
-  region: WV
   exchange: '216770'
   name: NEW HAVEN
   full_name: New Haven
@@ -9222,18 +9210,6 @@ rate_centers:
   ilec_name: FRONTIER WEST VIRGINIA INC.
   lat:
   long:
-- country: US
-  region: WV
-  exchange: '216780'
-  name: NEWMRTNSVL
-  full_name: New Martinsville
-  lata: '256'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat: '39.642364'
-  long: "-80.860793"
-  closest_city:
-    name: New Martinsville
-    distance_km: 2.37
 - country: US
   region: WV
   exchange: '314881'
@@ -9275,10 +9251,31 @@ rate_centers:
     distance_km: 0.61
 - country: US
   region: WV
+  exchange: '216760'
+  name: NEWCUMBRLD
+  full_name: New Cumberland
+  lata: '256'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat: '40.490852'
+  long: "-80.602556"
+  closest_city:
+    name: New Cumberland
+    distance_km: 1.97
+- country: US
+  region: WV
   exchange: '314885'
   name: NEWELL
   full_name: Newell
   lata: '256'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat:
+  long:
+- country: US
+  region: WV
+  exchange: '314270'
+  name: NEWENGLAND
+  full_name: New England
+  lata: '254'
   ilec_name: FRONTIER WEST VIRGINIA INC.
   lat:
   long:
@@ -9291,6 +9288,18 @@ rate_centers:
   ilec_name: WAR TELEPHONE LLC
   lat:
   long:
+- country: US
+  region: WV
+  exchange: '216780'
+  name: NEWMRTNSVL
+  full_name: New Martinsville
+  lata: '256'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat: '39.642364'
+  long: "-80.860793"
+  closest_city:
+    name: New Martinsville
+    distance_km: 2.37
 - country: US
   region: WV
   exchange: '216800'
@@ -9350,6 +9359,33 @@ rate_centers:
   long:
 - country: US
   region: WV
+  exchange: '314275'
+  name: NO HILLS
+  full_name: North Hills
+  lata: '254'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat:
+  long:
+- country: US
+  region: WV
+  exchange: '314276'
+  name: NO PEYTONA
+  full_name: North Peytona
+  lata: '254'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat:
+  long:
+- country: US
+  region: WV
+  exchange: '314277'
+  name: NO SPRING
+  full_name: North Spring
+  lata: '254'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat:
+  long:
+- country: US
+  region: WV
   exchange: '314278'
   name: NOBE
   full_name: Nobe
@@ -9377,51 +9413,6 @@ rate_centers:
   long:
 - country: US
   region: WV
-  exchange: '314889'
-  name: NORMANTOWN
-  full_name: Normantown
-  lata: '256'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat:
-  long:
-- country: US
-  region: WV
-  exchange: '314275'
-  name: NO HILLS
-  full_name: North Hills
-  lata: '254'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat:
-  long:
-- country: US
-  region: WV
-  exchange: '312145'
-  name: NORTH MT
-  full_name: North Mountain
-  lata: '240'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat:
-  long:
-- country: US
-  region: WV
-  exchange: '314260'
-  name: N PARKRSBG
-  full_name: North Parkersburg
-  lata: '254'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat:
-  long:
-- country: US
-  region: WV
-  exchange: '314276'
-  name: NO PEYTONA
-  full_name: North Peytona
-  lata: '254'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat:
-  long:
-- country: US
-  region: WV
   exchange: '314888'
   name: NORIVMILLS
   full_name: North River Mills
@@ -9431,10 +9422,19 @@ rate_centers:
   long:
 - country: US
   region: WV
-  exchange: '314277'
-  name: NO SPRING
-  full_name: North Spring
-  lata: '254'
+  exchange: '314889'
+  name: NORMANTOWN
+  full_name: Normantown
+  lata: '256'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat:
+  long:
+- country: US
+  region: WV
+  exchange: '312145'
+  name: NORTH MT
+  full_name: North Mountain
+  lata: '240'
   ilec_name: FRONTIER WEST VIRGINIA INC.
   lat:
   long:
@@ -9824,42 +9824,6 @@ rate_centers:
   long:
 - country: US
   region: WV
-  exchange: '216860'
-  name: PRKRSBGZN1
-  full_name: Parkersburg Zone 1
-  lata: '254'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat: '39.264942'
-  long: "-81.558827"
-  closest_city:
-    name: Parkersburg
-    distance_km: 1.48
-- country: US
-  region: WV
-  exchange: '216870'
-  name: PRKRSBGZN2
-  full_name: Parkersburg Zone 2
-  lata: '254'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat: '39.246323'
-  long: "-81.385682"
-  closest_city:
-    name: Kanawha
-    distance_km: 8.05
-- country: US
-  region: WV
-  exchange: '216880'
-  name: PRKRSBGZN3
-  full_name: Parkersburg Zone 3
-  lata: '254'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat: '39.238914'
-  long: "-81.62836"
-  closest_city:
-    name: Lubeck
-    distance_km: 1.27
-- country: US
-  region: WV
   exchange: '216890'
   name: PARSONS
   full_name: Parsons
@@ -10229,20 +10193,20 @@ rate_centers:
   long:
 - country: US
   region: WV
-  exchange: '314918'
-  name: PLEASATVLY
-  full_name: Pleasant Valley
-  lata: '256'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat:
-  long:
-- country: US
-  region: WV
   exchange: '314321'
   name: PLEASANTVW
   full_name: Pleasant View
   lata: '254'
   ilec_name: ARMSTRONG TEL. CO. OF WV
+  lat:
+  long:
+- country: US
+  region: WV
+  exchange: '314918'
+  name: PLEASATVLY
+  full_name: Pleasant Valley
+  lata: '256'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
   lat:
   long:
 - country: US
@@ -10281,18 +10245,6 @@ rate_centers:
   ilec_name: FRONTIER WEST VIRGINIA INC.
   lat:
   long:
-- country: US
-  region: WV
-  exchange: '216980'
-  name: PTPLEASANT
-  full_name: Point Pleasant
-  lata: '254'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat: '38.857607'
-  long: "-82.116888"
-  closest_city:
-    name: Point Pleasant
-    distance_km: 1.27
 - country: US
   region: WV
   exchange: '314920'
@@ -10436,6 +10388,42 @@ rate_centers:
   long:
 - country: US
   region: WV
+  exchange: '216860'
+  name: PRKRSBGZN1
+  full_name: Parkersburg Zone 1
+  lata: '254'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat: '39.264942'
+  long: "-81.558827"
+  closest_city:
+    name: Parkersburg
+    distance_km: 1.48
+- country: US
+  region: WV
+  exchange: '216870'
+  name: PRKRSBGZN2
+  full_name: Parkersburg Zone 2
+  lata: '254'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat: '39.246323'
+  long: "-81.385682"
+  closest_city:
+    name: Kanawha
+    distance_km: 8.05
+- country: US
+  region: WV
+  exchange: '216880'
+  name: PRKRSBGZN3
+  full_name: Parkersburg Zone 3
+  lata: '254'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat: '39.238914'
+  long: "-81.62836"
+  closest_city:
+    name: Lubeck
+    distance_km: 1.27
+- country: US
+  region: WV
   exchange: '314339'
   name: PROCIOUS
   full_name: Procious
@@ -10461,6 +10449,18 @@ rate_centers:
   ilec_name: FRONTIER WEST VIRGINIA INC.
   lat:
   long:
+- country: US
+  region: WV
+  exchange: '216980'
+  name: PTPLEASANT
+  full_name: Point Pleasant
+  lata: '254'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat: '38.857607'
+  long: "-82.116888"
+  closest_city:
+    name: Point Pleasant
+    distance_km: 1.27
 - country: US
   region: WV
   exchange: '314341'
@@ -10712,6 +10712,15 @@ rate_centers:
   long:
 - country: US
   region: WV
+  exchange: '314362'
+  name: RDSLPHRSPG
+  full_name: Red Sulphur Springs
+  lata: '254'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat:
+  long:
+- country: US
+  region: WV
   exchange: '217030'
   name: READER
   full_name: Reader
@@ -10754,15 +10763,6 @@ rate_centers:
   exchange: '314365'
   name: RED JACKET
   full_name: Red Jacket
-  lata: '254'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat:
-  long:
-- country: US
-  region: WV
-  exchange: '314362'
-  name: RDSLPHRSPG
-  full_name: Red Sulphur Springs
   lata: '254'
   ilec_name: FRONTIER WEST VIRGINIA INC.
   lat:
@@ -11066,15 +11066,6 @@ rate_centers:
   long:
 - country: US
   region: WV
-  exchange: '314383'
-  name: ROCKCASTLE
-  full_name: Rock Castle
-  lata: '254'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat:
-  long:
-- country: US
-  region: WV
   exchange: '217100'
   name: ROCK CAVE
   full_name: Rock Cave
@@ -11126,6 +11117,15 @@ rate_centers:
   exchange: '314382'
   name: ROCK VIEW
   full_name: Rock View
+  lata: '254'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat:
+  long:
+- country: US
+  region: WV
+  exchange: '314383'
+  name: ROCKCASTLE
+  full_name: Rock Castle
   lata: '254'
   ilec_name: FRONTIER WEST VIRGINIA INC.
   lat:
@@ -11405,24 +11405,6 @@ rate_centers:
   long:
 - country: US
   region: WV
-  exchange: '314984'
-  name: ST CLARA
-  full_name: Saint Clara
-  lata: '256'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat:
-  long:
-- country: US
-  region: WV
-  exchange: '314985'
-  name: ST GEORGE
-  full_name: Saint George
-  lata: '256'
-  ilec_name: CITIZENS TEL CO OF WV DBA FRONTIER OF WV
-  lat:
-  long:
-- country: US
-  region: WV
   exchange: '217150'
   name: SALEM
   full_name: Salem
@@ -11438,15 +11420,6 @@ rate_centers:
   exchange: '314399'
   name: SALT ROCK
   full_name: Salt Rock
-  lata: '254'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat:
-  long:
-- country: US
-  region: WV
-  exchange: '314437'
-  name: SLSLPHRSPG
-  full_name: Salt Sulphur Springs
   lata: '254'
   ilec_name: FRONTIER WEST VIRGINIA INC.
   lat:
@@ -11894,20 +11867,20 @@ rate_centers:
   long:
 - country: US
   region: WV
-  exchange: '314973'
-  name: SHORTCREEK
-  full_name: Short Creek
-  lata: '256'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat:
-  long:
-- country: US
-  region: WV
   exchange: '314972'
   name: SHORT GAP
   full_name: Short Gap
   lata: '256'
   ilec_name: CITIZENS TEL CO OF WV DBA FRONTIER OF WV
+  lat:
+  long:
+- country: US
+  region: WV
+  exchange: '314973'
+  name: SHORTCREEK
+  full_name: Short Creek
+  lata: '256'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
   lat:
   long:
 - country: US
@@ -12068,6 +12041,24 @@ rate_centers:
   long:
 - country: US
   region: WV
+  exchange: '314437'
+  name: SLSLPHRSPG
+  full_name: Salt Sulphur Springs
+  lata: '254'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat:
+  long:
+- country: US
+  region: WV
+  exchange: '312163'
+  name: SMHSCRSRDS
+  full_name: Smiths Cross Roads
+  lata: '240'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat:
+  long:
+- country: US
+  region: WV
   exchange: '314979'
   name: SMITHBURG
   full_name: Smithburg
@@ -12096,15 +12087,6 @@ rate_centers:
   closest_city:
     name: Smithfield
     distance_km: 0.95
-- country: US
-  region: WV
-  exchange: '312163'
-  name: SMHSCRSRDS
-  full_name: Smiths Cross Roads
-  lata: '240'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat:
-  long:
 - country: US
   region: WV
   exchange: '217230'
@@ -12158,6 +12140,15 @@ rate_centers:
     distance_km: 8.0
 - country: US
   region: WV
+  exchange: '215711'
+  name: SOCHARLETN
+  full_name: South Charleston
+  lata: '254'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat:
+  long:
+- country: US
+  region: WV
   exchange: '314444'
   name: SOD
   full_name: Sod
@@ -12186,15 +12177,6 @@ rate_centers:
   closest_city:
     name: Sophia
     distance_km: 0.55
-- country: US
-  region: WV
-  exchange: '215711'
-  name: SOCHARLETN
-  full_name: South Charleston
-  lata: '254'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat:
-  long:
 - country: US
   region: WV
   exchange: '314981'
@@ -12272,18 +12254,18 @@ rate_centers:
   long:
 - country: US
   region: WV
-  exchange: '314452'
-  name: SPRINGDALE
-  full_name: Spring Dale
+  exchange: '314451'
+  name: SPRING VLY
+  full_name: Spring Valley
   lata: '254'
   ilec_name: FRONTIER WEST VIRGINIA INC.
   lat:
   long:
 - country: US
   region: WV
-  exchange: '314451'
-  name: SPRING VLY
-  full_name: Spring Valley
+  exchange: '314452'
+  name: SPRINGDALE
+  full_name: Spring Dale
   lata: '254'
   ilec_name: FRONTIER WEST VIRGINIA INC.
   lat:
@@ -12331,6 +12313,24 @@ rate_centers:
   full_name: St Albans
   lata: '254'
   ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat:
+  long:
+- country: US
+  region: WV
+  exchange: '314984'
+  name: ST CLARA
+  full_name: Saint Clara
+  lata: '256'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat:
+  long:
+- country: US
+  region: WV
+  exchange: '314985'
+  name: ST GEORGE
+  full_name: Saint George
+  lata: '256'
+  ilec_name: CITIZENS TEL CO OF WV DBA FRONTIER OF WV
   lat:
   long:
 - country: US
@@ -12473,15 +12473,6 @@ rate_centers:
   long:
 - country: US
   region: WV
-  exchange: '312164'
-  name: STRSCRSRDS
-  full_name: Stotlers Cross Roads
-  lata: '240'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat:
-  long:
-- country: US
-  region: WV
   exchange: '314989'
   name: STOUTS MLS
   full_name: Stouts Mills
@@ -12513,6 +12504,15 @@ rate_centers:
   name: STREETER
   full_name: Streeter
   lata: '254'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat:
+  long:
+- country: US
+  region: WV
+  exchange: '312164'
+  name: STRSCRSRDS
+  full_name: Stotlers Cross Roads
+  lata: '240'
   ilec_name: FRONTIER WEST VIRGINIA INC.
   lat:
   long:
@@ -13124,20 +13124,20 @@ rate_centers:
   long:
 - country: US
   region: WV
-  exchange: '315010'
-  name: UPPERTRACT
-  full_name: Upper Tract
-  lata: '256'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat:
-  long:
-- country: US
-  region: WV
   exchange: '315009'
   name: UPPERGLADE
   full_name: Upperglade
   lata: '256'
   ilec_name: CITIZENS TEL CO OF WV DBA FRONTIER OF WV
+  lat:
+  long:
+- country: US
+  region: WV
+  exchange: '315010'
+  name: UPPERTRACT
+  full_name: Upper Tract
+  lata: '256'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
   lat:
   long:
 - country: US
@@ -13169,15 +13169,6 @@ rate_centers:
   long:
 - country: US
   region: WV
-  exchange: '315015'
-  name: VALLEYBEND
-  full_name: Valley Bend
-  lata: '256'
-  ilec_name: CITIZENS TEL CO OF WV DBA FRONTIER OF WV
-  lat:
-  long:
-- country: US
-  region: WV
   exchange: '315012'
   name: VALLEY CHP
   full_name: Valley Chapel
@@ -13187,29 +13178,11 @@ rate_centers:
   long:
 - country: US
   region: WV
-  exchange: '314509'
-  name: VALLEYFORK
-  full_name: Valley Fork
-  lata: '254'
-  ilec_name: CITIZENS TEL CO OF WV DBA FRONTIER OF WV
-  lat:
-  long:
-- country: US
-  region: WV
   exchange: '217542'
   name: VALLEY GRV
   full_name: Valley Grove
   lata: '256'
   ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat:
-  long:
-- country: US
-  region: WV
-  exchange: '315016'
-  name: VALLEYHEAD
-  full_name: Valley Head
-  lata: '256'
-  ilec_name: CITIZENS TEL CO OF WV DBA FRONTIER OF WV
   lat:
   long:
 - country: US
@@ -13229,6 +13202,33 @@ rate_centers:
   exchange: '315014'
   name: VALLEY PT
   full_name: Valley Point
+  lata: '256'
+  ilec_name: CITIZENS TEL CO OF WV DBA FRONTIER OF WV
+  lat:
+  long:
+- country: US
+  region: WV
+  exchange: '315015'
+  name: VALLEYBEND
+  full_name: Valley Bend
+  lata: '256'
+  ilec_name: CITIZENS TEL CO OF WV DBA FRONTIER OF WV
+  lat:
+  long:
+- country: US
+  region: WV
+  exchange: '314509'
+  name: VALLEYFORK
+  full_name: Valley Fork
+  lata: '254'
+  ilec_name: CITIZENS TEL CO OF WV DBA FRONTIER OF WV
+  lat:
+  long:
+- country: US
+  region: WV
+  exchange: '315016'
+  name: VALLEYHEAD
+  full_name: Valley Head
   lata: '256'
   ilec_name: CITIZENS TEL CO OF WV DBA FRONTIER OF WV
   lat:
@@ -13353,6 +13353,36 @@ rate_centers:
   ilec_name: FRONTIER WEST VIRGINIA INC.
   lat:
   long:
+- country: US
+  region: WV
+  exchange: '314517'
+  name: W COLUMBIA
+  full_name: West Columbia
+  lata: '254'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat:
+  long:
+- country: US
+  region: WV
+  exchange: '217531'
+  name: W LIBERTY
+  full_name: West Liberty
+  lata: '256'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat:
+  long:
+- country: US
+  region: WV
+  exchange: '217480'
+  name: W MILFORD
+  full_name: West Milford
+  lata: '256'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat: '39.209843'
+  long: "-80.401544"
+  closest_city:
+    name: West Milford
+    distance_km: 0.62
 - country: US
   region: WV
   exchange: '217370'
@@ -13658,33 +13688,6 @@ rate_centers:
   long:
 - country: US
   region: WV
-  exchange: '314517'
-  name: W COLUMBIA
-  full_name: West Columbia
-  lata: '254'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat:
-  long:
-- country: US
-  region: WV
-  exchange: '314534'
-  name: WESTHAMLIN
-  full_name: West Hamlin
-  lata: '254'
-  ilec_name: ARMSTRONG TEL. CO. OF WV
-  lat:
-  long:
-- country: US
-  region: WV
-  exchange: '217531'
-  name: W LIBERTY
-  full_name: West Liberty
-  lata: '256'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat:
-  long:
-- country: US
-  region: WV
   exchange: '314533'
   name: WEST LOGAN
   full_name: West Logan
@@ -13692,18 +13695,6 @@ rate_centers:
   ilec_name: FRONTIER WEST VIRGINIA INC.
   lat:
   long:
-- country: US
-  region: WV
-  exchange: '217480'
-  name: W MILFORD
-  full_name: West Milford
-  lata: '256'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat: '39.209843'
-  long: "-80.401544"
-  closest_city:
-    name: West Milford
-    distance_km: 0.62
 - country: US
   region: WV
   exchange: '217490'
@@ -13716,6 +13707,15 @@ rate_centers:
   closest_city:
     name: West Union
     distance_km: 0.57
+- country: US
+  region: WV
+  exchange: '314534'
+  name: WESTHAMLIN
+  full_name: West Hamlin
+  lata: '254'
+  ilec_name: ARMSTRONG TEL. CO. OF WV
+  lat:
+  long:
 - country: US
   region: WV
   exchange: '217500'
@@ -13880,18 +13880,6 @@ rate_centers:
   long:
 - country: US
   region: WV
-  exchange: '217560'
-  name: WHSLPHRSPG
-  full_name: White Sulphur Springs
-  lata: '254'
-  ilec_name: FRONTIER WEST VIRGINIA INC.
-  lat: '37.792269'
-  long: "-80.298665"
-  closest_city:
-    name: White Sulphur Springs
-    distance_km: 0.67
-- country: US
-  region: WV
   exchange: '315044'
   name: WHITEHALL
   full_name: Whitehall
@@ -13938,6 +13926,18 @@ rate_centers:
   ilec_name: FRONTIER WEST VIRGINIA INC.
   lat:
   long:
+- country: US
+  region: WV
+  exchange: '217560'
+  name: WHSLPHRSPG
+  full_name: White Sulphur Springs
+  lata: '254'
+  ilec_name: FRONTIER WEST VIRGINIA INC.
+  lat: '37.792269'
+  long: "-80.298665"
+  closest_city:
+    name: White Sulphur Springs
+    distance_km: 0.67
 - country: US
   region: WV
   exchange: '315046'
@@ -14177,19 +14177,19 @@ rate_centers:
   long:
 - country: US
   region: WV
-  exchange: '315054'
-  name: WOLFSUMMIT
-  full_name: Wolf Summit
-  lata: '256'
+  exchange: '314560'
+  name: WOLFCREEK
+  full_name: Wolfcreek
+  lata: '254'
   ilec_name: FRONTIER WEST VIRGINIA INC.
   lat:
   long:
 - country: US
   region: WV
-  exchange: '314560'
-  name: WOLFCREEK
-  full_name: Wolfcreek
-  lata: '254'
+  exchange: '315054'
+  name: WOLFSUMMIT
+  full_name: Wolf Summit
+  lata: '256'
   ilec_name: FRONTIER WEST VIRGINIA INC.
   lat:
   long:

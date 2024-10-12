@@ -1055,15 +1055,6 @@ rate_centers:
   long:
 - country: US
   region: WA
-  exchange: '344424'
-  name: CHNAULTBCH
-  full_name: Chenault Beach
-  lata: '674'
-  ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
-  lat:
-  long:
-- country: US
-  region: WA
   exchange: '207020'
   name: CHENEY
   full_name: Cheney
@@ -1106,15 +1097,6 @@ rate_centers:
   long:
 - country: US
   region: WA
-  exchange: '344423'
-  name: CHIMACUM
-  full_name: Chimacum
-  lata: '674'
-  ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - WA
-  lat:
-  long:
-- country: US
-  region: WA
   exchange: '207040'
   name: CHIMACMCTR
   full_name: Chimacum/Center
@@ -1127,6 +1109,15 @@ rate_centers:
     distance_km: 7.69
 - country: US
   region: WA
+  exchange: '344423'
+  name: CHIMACUM
+  full_name: Chimacum
+  lata: '674'
+  ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - WA
+  lat:
+  long:
+- country: US
+  region: WA
   exchange: '207050'
   name: CHINOOK
   full_name: Chinook
@@ -1137,6 +1128,15 @@ rate_centers:
   closest_city:
     name: Chinook
     distance_km: 0.31
+- country: US
+  region: WA
+  exchange: '344424'
+  name: CHNAULTBCH
+  full_name: Chenault Beach
+  lata: '674'
+  ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
+  lat:
+  long:
 - country: US
   region: WA
   exchange: '344425'
@@ -1445,18 +1445,6 @@ rate_centers:
     distance_km: 4.65
 - country: US
   region: WA
-  exchange: '207160'
-  name: COULEECITY
-  full_name: Coulee City
-  lata: '676'
-  ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
-  lat: '47.606751'
-  long: "-119.294515"
-  closest_city:
-    name: Coulee City
-    distance_km: 0.71
-- country: US
-  region: WA
   exchange: '207170'
   name: COULEE DAM
   full_name: Coulee Dam
@@ -1467,6 +1455,18 @@ rate_centers:
   closest_city:
     name: Coulee Dam
     distance_km: 1.04
+- country: US
+  region: WA
+  exchange: '207160'
+  name: COULEECITY
+  full_name: Coulee City
+  lata: '676'
+  ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
+  lat: '47.606751'
+  long: "-119.294515"
+  closest_city:
+    name: Coulee City
+    distance_km: 0.71
 - country: US
   region: WA
   exchange: '208211'
@@ -1685,15 +1685,6 @@ rate_centers:
   long:
 - country: US
   region: WA
-  exchange: '344450'
-  name: DEERHARBOR
-  full_name: Deer Harbor
-  lata: '674'
-  ilec_name: CENTURYTEL OF INTER-ISLAND, INC. DBA CENTURYLINK
-  lat:
-  long:
-- country: US
-  region: WA
   exchange: '344850'
   name: DEER LAKE
   full_name: Deer Lake
@@ -1713,6 +1704,15 @@ rate_centers:
   closest_city:
     name: Deer Park
     distance_km: 2.82
+- country: US
+  region: WA
+  exchange: '344450'
+  name: DEERHARBOR
+  full_name: Deer Harbor
+  lata: '674'
+  ilec_name: CENTURYTEL OF INTER-ISLAND, INC. DBA CENTURYLINK
+  lat:
+  long:
 - country: US
   region: WA
   exchange: '209176'
@@ -1910,6 +1910,15 @@ rate_centers:
     distance_km: 0.8
 - country: US
   region: WA
+  exchange: '344462'
+  name: E STANWOOD
+  full_name: East Stanwood
+  lata: '674'
+  ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
+  lat:
+  long:
+- country: US
+  region: WA
   exchange: '344463'
   name: EAGLE HBR
   full_name: Eagle Harbor
@@ -1933,24 +1942,6 @@ rate_centers:
   full_name: East Farms
   lata: '676'
   ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: WA
-  exchange: '344462'
-  name: E STANWOOD
-  full_name: East Stanwood
-  lata: '674'
-  ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
-  lat:
-  long:
-- country: US
-  region: WA
-  exchange: '209167'
-  name: EWENATCHEE
-  full_name: East Wenatchee
-  lata: '674'
-  ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
   lat:
   long:
 - country: US
@@ -2255,6 +2246,15 @@ rate_centers:
   long:
 - country: US
   region: WA
+  exchange: '209167'
+  name: EWENATCHEE
+  full_name: East Wenatchee
+  lata: '674'
+  ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
+  lat:
+  long:
+- country: US
+  region: WA
   exchange: '344877'
   name: FAIRCHIAFB
   full_name: Fairchild Air Force Base
@@ -2378,9 +2378,9 @@ rate_centers:
     distance_km: 0.33
 - country: US
   region: WA
-  exchange: '344494'
-  name: FT FLAGLER
-  full_name: Fort Flagler
+  exchange: '344485'
+  name: FORT LEWIS
+  full_name: Fort Lewis
   lata: '674'
   ilec_name: QWEST CORPORATION
   lat:
@@ -2396,11 +2396,11 @@ rate_centers:
   long:
 - country: US
   region: WA
-  exchange: '344485'
-  name: FORT LEWIS
-  full_name: Fort Lewis
+  exchange: '344487'
+  name: FORTSON
+  full_name: Fortson
   lata: '674'
-  ilec_name: QWEST CORPORATION
+  ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
   lat:
   long:
 - country: US
@@ -2410,15 +2410,6 @@ rate_centers:
   full_name: Fort Worden
   lata: '674'
   ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: WA
-  exchange: '344487'
-  name: FORTSON
-  full_name: Fortson
-  lata: '674'
-  ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
   lat:
   long:
 - country: US
@@ -2497,6 +2488,15 @@ rate_centers:
   full_name: Fruitland
   lata: '676'
   ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
+  lat:
+  long:
+- country: US
+  region: WA
+  exchange: '344494'
+  name: FT FLAGLER
+  full_name: Fort Flagler
+  lata: '674'
+  ilec_name: QWEST CORPORATION
   lat:
   long:
 - country: US
@@ -2771,18 +2771,6 @@ rate_centers:
   long:
 - country: US
   region: WA
-  exchange: '207611'
-  name: GRAYLAND
-  full_name: Grayland
-  lata: '674'
-  ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
-  lat: '46.806528'
-  long: "-124.084232"
-  closest_city:
-    name: Grayland
-    distance_km: 2.69
-- country: US
-  region: WA
   exchange: '207610'
   name: GRAYHARBCO
   full_name: Grays Harbor County
@@ -2795,6 +2783,18 @@ rate_centers:
     distance_km: 0.22
 - country: US
   region: WA
+  exchange: '207611'
+  name: GRAYLAND
+  full_name: Grayland
+  lata: '674'
+  ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
+  lat: '46.806528'
+  long: "-124.084232"
+  closest_city:
+    name: Grayland
+    distance_km: 2.69
+- country: US
+  region: WA
   exchange: '207620'
   name: GRAYSRIVER
   full_name: Grays River
@@ -2805,15 +2805,6 @@ rate_centers:
   closest_city:
     name: Grays River
     distance_km: 1.32
-- country: US
-  region: WA
-  exchange: '344893'
-  name: GREENBLUFF
-  full_name: Green Bluff
-  lata: '676'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
 - country: US
   region: WA
   exchange: '344892'
@@ -2830,6 +2821,15 @@ rate_centers:
   full_name: Greenbank
   lata: '674'
   ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
+  lat:
+  long:
+- country: US
+  region: WA
+  exchange: '344893'
+  name: GREENBLUFF
+  full_name: Green Bluff
+  lata: '676'
+  ilec_name: QWEST CORPORATION
   lat:
   long:
 - country: US
@@ -3344,15 +3344,6 @@ rate_centers:
   long:
 - country: US
   region: WA
-  exchange: '344547'
-  name: KYPTTRPDST
-  full_name: Keyport Torpedo Station
-  lata: '674'
-  ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - WA
-  lat:
-  long:
-- country: US
-  region: WA
   exchange: '207780'
   name: KINGSTON
   full_name: Kingston
@@ -3437,6 +3428,15 @@ rate_centers:
   long:
 - country: US
   region: WA
+  exchange: '344547'
+  name: KYPTTRPDST
+  full_name: Keyport Torpedo Station
+  lata: '674'
+  ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - WA
+  lat:
+  long:
+- country: US
+  region: WA
   exchange: '207820'
   name: LA CENTER
   full_name: La Center
@@ -3467,20 +3467,20 @@ rate_centers:
   long:
 - country: US
   region: WA
-  exchange: '208101'
-  name: LACONNER
-  full_name: LaConner
-  lata: '674'
-  ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
-  lat:
-  long:
-- country: US
-  region: WA
   exchange: '208261'
   name: LACEY
   full_name: Lacey
   lata: '674'
   ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WA
+  exchange: '208101'
+  name: LACONNER
+  full_name: LaConner
+  lata: '674'
+  ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
   lat:
   long:
 - country: US
@@ -3497,95 +3497,11 @@ rate_centers:
     distance_km: 2.42
 - country: US
   region: WA
-  exchange: '344564'
-  name: LKCRESCENT
-  full_name: Lake Crescent
-  lata: '674'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: WA
-  exchange: '344561'
-  name: LK CUSHMAN
-  full_name: Lake Cushman
-  lata: '674'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: WA
-  exchange: '344565'
-  name: LKFORESTPK
-  full_name: Lake Forest Park
-  lata: '674'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: WA
-  exchange: '207972'
-  name: LK GOODWIN
-  full_name: Lake Goodwin
-  lata: '674'
-  ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
-  lat:
-  long:
-- country: US
-  region: WA
-  exchange: '207840'
-  name: LKQUINAULT
-  full_name: Lake Quinault
-  lata: '674'
-  ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
-  lat: '47.467204'
-  long: "-123.839375"
-  closest_city:
-    name: Amanda Park
-    distance_km: 6.21
-- country: US
-  region: WA
-  exchange: '344567'
-  name: LKSAMMAMSH
-  full_name: Lake Sammamish
-  lata: '674'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: WA
-  exchange: '207431'
-  name: LK STEVENS
-  full_name: Lake Stevens
-  lata: '674'
-  ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
-  lat:
-  long:
-- country: US
-  region: WA
-  exchange: '344568'
-  name: LKSUTHERLD
-  full_name: Lake Sutherland
-  lata: '674'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: WA
   exchange: '344552'
   name: LAKE TAPPS
   full_name: Lake Tapps
   lata: '674'
   ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: WA
-  exchange: '209166'
-  name: LKWENATCHE
-  full_name: Lake Wenatchee
-  lata: '674'
-  ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
   lat:
   long:
 - country: US
@@ -3771,6 +3687,90 @@ rate_centers:
   closest_city:
     name: Lind
     distance_km: 0.37
+- country: US
+  region: WA
+  exchange: '344561'
+  name: LK CUSHMAN
+  full_name: Lake Cushman
+  lata: '674'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WA
+  exchange: '207972'
+  name: LK GOODWIN
+  full_name: Lake Goodwin
+  lata: '674'
+  ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
+  lat:
+  long:
+- country: US
+  region: WA
+  exchange: '207431'
+  name: LK STEVENS
+  full_name: Lake Stevens
+  lata: '674'
+  ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
+  lat:
+  long:
+- country: US
+  region: WA
+  exchange: '344564'
+  name: LKCRESCENT
+  full_name: Lake Crescent
+  lata: '674'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WA
+  exchange: '344565'
+  name: LKFORESTPK
+  full_name: Lake Forest Park
+  lata: '674'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WA
+  exchange: '207840'
+  name: LKQUINAULT
+  full_name: Lake Quinault
+  lata: '674'
+  ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
+  lat: '47.467204'
+  long: "-123.839375"
+  closest_city:
+    name: Amanda Park
+    distance_km: 6.21
+- country: US
+  region: WA
+  exchange: '344567'
+  name: LKSAMMAMSH
+  full_name: Lake Sammamish
+  lata: '674'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WA
+  exchange: '344568'
+  name: LKSUTHERLD
+  full_name: Lake Sutherland
+  lata: '674'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WA
+  exchange: '209166'
+  name: LKWENATCHE
+  full_name: Lake Wenatchee
+  lata: '674'
+  ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
+  lat:
+  long:
 - country: US
   region: WA
   exchange: '362729'
@@ -4076,15 +4076,6 @@ rate_centers:
   long:
 - country: US
   region: WA
-  exchange: '344584'
-  name: MAPLEFALLS
-  full_name: Maple Falls
-  lata: '674'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: WA
   exchange: '207960'
   name: MAPLE VLY
   full_name: Maple Valley
@@ -4095,6 +4086,15 @@ rate_centers:
   closest_city:
     name: Shadow Lake
     distance_km: 2.54
+- country: US
+  region: WA
+  exchange: '344584'
+  name: MAPLEFALLS
+  full_name: Maple Falls
+  lata: '674'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
 - country: US
   region: WA
   exchange: '208717'
@@ -4541,6 +4541,24 @@ rate_centers:
     distance_km: 0.32
 - country: US
   region: WA
+  exchange: '344607'
+  name: MOUNTLTRRC
+  full_name: Mountlake Terrace
+  lata: '674'
+  ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
+  lat:
+  long:
+- country: US
+  region: WA
+  exchange: '344954'
+  name: MOXEE
+  full_name: Moxee
+  lata: '676'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WA
   exchange: '208110'
   name: MT HULL
   full_name: Mount Hull
@@ -4565,28 +4583,28 @@ rate_centers:
     distance_km: 1.75
 - country: US
   region: WA
-  exchange: '344607'
-  name: MOUNTLTRRC
-  full_name: Mountlake Terrace
+  exchange: '344609'
+  name: MUKILTEO
+  full_name: Mukilteo
   lata: '674'
   ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
   lat:
   long:
 - country: US
   region: WA
-  exchange: '344954'
-  name: MOXEE
-  full_name: Moxee
-  lata: '676'
-  ilec_name: QWEST CORPORATION
+  exchange: '344610'
+  name: N LAKEWOOD
+  full_name: North Lakewood
+  lata: '674'
+  ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
   lat:
   long:
 - country: US
   region: WA
-  exchange: '344609'
-  name: MUKILTEO
-  full_name: Mukilteo
-  lata: '674'
+  exchange: '208581'
+  name: N RICHLAND
+  full_name: North Richland
+  lata: '676'
   ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
   lat:
   long:
@@ -4721,6 +4739,15 @@ rate_centers:
   long:
 - country: US
   region: WA
+  exchange: '344329'
+  name: NO BONNEVL
+  full_name: North Bonneville
+  lata: '672'
+  ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - WA
+  lat:
+  long:
+- country: US
+  region: WA
   exchange: '344615'
   name: NOOKSACK
   full_name: Nooksack
@@ -4758,33 +4785,6 @@ rate_centers:
   closest_city:
     name: North Bend
     distance_km: 1.78
-- country: US
-  region: WA
-  exchange: '344329'
-  name: NO BONNEVL
-  full_name: North Bonneville
-  lata: '672'
-  ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - WA
-  lat:
-  long:
-- country: US
-  region: WA
-  exchange: '344610'
-  name: N LAKEWOOD
-  full_name: North Lakewood
-  lata: '674'
-  ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
-  lat:
-  long:
-- country: US
-  region: WA
-  exchange: '208581'
-  name: N RICHLAND
-  full_name: North Richland
-  lata: '676'
-  ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
-  lat:
-  long:
 - country: US
   region: WA
   exchange: '208200'
@@ -5234,18 +5234,6 @@ rate_centers:
   long:
 - country: US
   region: WA
-  exchange: '208380'
-  name: PT ROBERTS
-  full_name: Point Roberts
-  lata: '674'
-  ilec_name: WHIDBEY TEL. CO.
-  lat: '48.993523'
-  long: "-123.051193"
-  closest_city:
-    name: Point Roberts
-    distance_km: 0.76
-- country: US
-  region: WA
   exchange: '208390'
   name: POMEROY
   full_name: Pomeroy
@@ -5256,75 +5244,6 @@ rate_centers:
   closest_city:
     name: Pomeroy
     distance_km: 0.34
-- country: US
-  region: WA
-  exchange: '208400'
-  name: PT ANGELES
-  full_name: Port Angeles
-  lata: '674'
-  ilec_name: QWEST CORPORATION
-  lat: '48.100536'
-  long: "-123.270874"
-  closest_city:
-    name: Port Angeles East
-    distance_km: 7.33
-- country: US
-  region: WA
-  exchange: '344646'
-  name: PT BLAKELY
-  full_name: Port Blakely
-  lata: '674'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: WA
-  exchange: '344651'
-  name: PTDISCOVRY
-  full_name: Port Discovery
-  lata: '674'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: WA
-  exchange: '344640'
-  name: PORTGAMBLE
-  full_name: Port Gamble
-  lata: '674'
-  ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
-  lat:
-  long:
-- country: US
-  region: WA
-  exchange: '344647'
-  name: PT HADLOCK
-  full_name: Port Hadlock
-  lata: '674'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: WA
-  exchange: '208410'
-  name: PORTLUDLOW
-  full_name: Port Ludlow
-  lata: '674'
-  ilec_name: QWEST CORPORATION
-  lat: '47.932467'
-  long: "-122.682956"
-  closest_city:
-    name: Port Ludlow
-    distance_km: 2.81
-- country: US
-  region: WA
-  exchange: '344648'
-  name: PT MADISON
-  full_name: Port Madison
-  lata: '674'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
 - country: US
   region: WA
   exchange: '208420'
@@ -5339,27 +5258,6 @@ rate_centers:
     distance_km: 2.65
 - country: US
   region: WA
-  exchange: '344650'
-  name: PT STANLEY
-  full_name: Port Stanley
-  lata: '674'
-  ilec_name: CENTURYTEL OF INTER-ISLAND, INC. DBA CENTURYLINK
-  lat:
-  long:
-- country: US
-  region: WA
-  exchange: '208430'
-  name: PTTOWNSEND
-  full_name: Port Townsend
-  lata: '674'
-  ilec_name: QWEST CORPORATION
-  lat: '48.118268'
-  long: "-122.768328"
-  closest_city:
-    name: Port Townsend
-    distance_km: 1.5
-- country: US
-  region: WA
   exchange: '344639'
   name: PORTAGE
   full_name: Portage
@@ -5367,6 +5265,27 @@ rate_centers:
   ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
   lat:
   long:
+- country: US
+  region: WA
+  exchange: '344640'
+  name: PORTGAMBLE
+  full_name: Port Gamble
+  lata: '674'
+  ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
+  lat:
+  long:
+- country: US
+  region: WA
+  exchange: '208410'
+  name: PORTLUDLOW
+  full_name: Port Ludlow
+  lata: '674'
+  ilec_name: QWEST CORPORATION
+  lat: '47.932467'
+  long: "-122.682956"
+  closest_city:
+    name: Port Ludlow
+    distance_km: 2.81
 - country: US
   region: WA
   exchange: '344642'
@@ -5430,6 +5349,87 @@ rate_centers:
   closest_city:
     name: Prosser
     distance_km: 0.26
+- country: US
+  region: WA
+  exchange: '208400'
+  name: PT ANGELES
+  full_name: Port Angeles
+  lata: '674'
+  ilec_name: QWEST CORPORATION
+  lat: '48.100536'
+  long: "-123.270874"
+  closest_city:
+    name: Port Angeles East
+    distance_km: 7.33
+- country: US
+  region: WA
+  exchange: '344646'
+  name: PT BLAKELY
+  full_name: Port Blakely
+  lata: '674'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WA
+  exchange: '344647'
+  name: PT HADLOCK
+  full_name: Port Hadlock
+  lata: '674'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WA
+  exchange: '344648'
+  name: PT MADISON
+  full_name: Port Madison
+  lata: '674'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WA
+  exchange: '208380'
+  name: PT ROBERTS
+  full_name: Point Roberts
+  lata: '674'
+  ilec_name: WHIDBEY TEL. CO.
+  lat: '48.993523'
+  long: "-123.051193"
+  closest_city:
+    name: Point Roberts
+    distance_km: 0.76
+- country: US
+  region: WA
+  exchange: '344650'
+  name: PT STANLEY
+  full_name: Port Stanley
+  lata: '674'
+  ilec_name: CENTURYTEL OF INTER-ISLAND, INC. DBA CENTURYLINK
+  lat:
+  long:
+- country: US
+  region: WA
+  exchange: '344651'
+  name: PTDISCOVRY
+  full_name: Port Discovery
+  lata: '674'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WA
+  exchange: '208430'
+  name: PTTOWNSEND
+  full_name: Port Townsend
+  lata: '674'
+  ilec_name: QWEST CORPORATION
+  lat: '48.118268'
+  long: "-122.768328"
+  closest_city:
+    name: Port Townsend
+    distance_km: 1.5
 - country: US
   region: WA
   exchange: '208470'
@@ -5520,15 +5520,6 @@ rate_centers:
   closest_city:
     name: Rainier
     distance_km: 0.96
-- country: US
-  region: WA
-  exchange: '344666'
-  name: RNRNTINLPK
-  full_name: Rainier National Park
-  lata: '674'
-  ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
-  lat:
-  long:
 - country: US
   region: WA
   exchange: '344986'
@@ -5711,6 +5702,15 @@ rate_centers:
   long:
 - country: US
   region: WA
+  exchange: '344666'
+  name: RNRNTINLPK
+  full_name: Rainier National Park
+  lata: '674'
+  ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
+  lat:
+  long:
+- country: US
+  region: WA
   exchange: '344667'
   name: ROCHE HBR
   full_name: Roche Harbor
@@ -5732,15 +5732,6 @@ rate_centers:
     distance_km: 2.22
 - country: US
   region: WA
-  exchange: '344995'
-  name: ROCKISLAND
-  full_name: Rock Island
-  lata: '676'
-  ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
-  lat:
-  long:
-- country: US
-  region: WA
   exchange: '208640'
   name: ROCKFORD
   full_name: Rockford
@@ -5751,6 +5742,15 @@ rate_centers:
   closest_city:
     name: Rockford
     distance_km: 8.83
+- country: US
+  region: WA
+  exchange: '344995'
+  name: ROCKISLAND
+  full_name: Rock Island
+  lata: '676'
+  ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
+  lat:
+  long:
 - country: US
   region: WA
   exchange: '344669'
@@ -5869,6 +5869,15 @@ rate_centers:
   full_name: Ryderwood
   lata: '672'
   ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
+  lat:
+  long:
+- country: US
+  region: WA
+  exchange: '344673'
+  name: S PARK VLG
+  full_name: South Park Village
+  lata: '674'
+  ilec_name: QWEST CORPORATION
   lat:
   long:
 - country: US
@@ -6110,18 +6119,6 @@ rate_centers:
   long:
 - country: US
   region: WA
-  exchange: '208750'
-  name: SILVERLAKE
-  full_name: Silver Lake
-  lata: '674'
-  ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
-  lat: '47.880197'
-  long: "-122.195691"
-  closest_city:
-    name: Mill Creek
-    distance_km: 1.99
-- country: US
-  region: WA
   exchange: '208740'
   name: SILVERDALE
   full_name: Silverdale
@@ -6132,6 +6129,18 @@ rate_centers:
   closest_city:
     name: Chico
     distance_km: 2.77
+- country: US
+  region: WA
+  exchange: '208750'
+  name: SILVERLAKE
+  full_name: Silver Lake
+  lata: '674'
+  ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
+  lat: '47.880197'
+  long: "-122.195691"
+  closest_city:
+    name: Mill Creek
+    distance_km: 1.99
 - country: US
   region: WA
   exchange: '207601'
@@ -6224,75 +6233,6 @@ rate_centers:
     distance_km: 2.75
 - country: US
   region: WA
-  exchange: '208790'
-  name: SOAP LAKE
-  full_name: Soap Lake
-  lata: '676'
-  ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
-  lat: '47.384097'
-  long: "-119.493033"
-  closest_city:
-    name: Soap Lake
-    distance_km: 0.86
-- country: US
-  region: WA
-  exchange: '344708'
-  name: SOUTHBEACH
-  full_name: South Beach
-  lata: '674'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: WA
-  exchange: '344705'
-  name: SOBELINGHM
-  full_name: South Bellingham
-  lata: '674'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: WA
-  exchange: '208800'
-  name: SOUTH BEND
-  full_name: South Bend
-  lata: '674'
-  ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
-  lat: '46.667667'
-  long: "-123.794012"
-  closest_city:
-    name: South Bend
-    distance_km: 0.5
-- country: US
-  region: WA
-  exchange: '344709'
-  name: SOUTHCOLBY
-  full_name: South Colby
-  lata: '674'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: WA
-  exchange: '344707'
-  name: SOUTH HILL
-  full_name: South Hill
-  lata: '674'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: WA
-  exchange: '344673'
-  name: S PARK VLG
-  full_name: South Park Village
-  lata: '674'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: WA
   exchange: '208810'
   name: SO PRAIRIE
   full_name: South Prairie
@@ -6324,6 +6264,66 @@ rate_centers:
   closest_city:
     name: Langley
     distance_km: 5.0
+- country: US
+  region: WA
+  exchange: '208790'
+  name: SOAP LAKE
+  full_name: Soap Lake
+  lata: '676'
+  ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
+  lat: '47.384097'
+  long: "-119.493033"
+  closest_city:
+    name: Soap Lake
+    distance_km: 0.86
+- country: US
+  region: WA
+  exchange: '344705'
+  name: SOBELINGHM
+  full_name: South Bellingham
+  lata: '674'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WA
+  exchange: '208800'
+  name: SOUTH BEND
+  full_name: South Bend
+  lata: '674'
+  ilec_name: CENTURYTEL OF WASHINGTON, INC. DBA CENTURYLINK
+  lat: '46.667667'
+  long: "-123.794012"
+  closest_city:
+    name: South Bend
+    distance_km: 0.5
+- country: US
+  region: WA
+  exchange: '344707'
+  name: SOUTH HILL
+  full_name: South Hill
+  lata: '674'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WA
+  exchange: '344708'
+  name: SOUTHBEACH
+  full_name: South Beach
+  lata: '674'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WA
+  exchange: '344709'
+  name: SOUTHCOLBY
+  full_name: South Colby
+  lata: '674'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
 - country: US
   region: WA
   exchange: '344710'
@@ -6473,18 +6473,6 @@ rate_centers:
   long:
 - country: US
   region: WA
-  exchange: '208890'
-  name: STEVESPASS
-  full_name: Stevens Pass
-  lata: '674'
-  ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
-  lat: '47.747118'
-  long: "-121.083535"
-  closest_city:
-    name: Skykomish
-    distance_km: 20.96
-- country: US
-  region: WA
   exchange: '208900'
   name: STEVENSON
   full_name: Stevenson
@@ -6495,6 +6483,18 @@ rate_centers:
   closest_city:
     name: Stevenson
     distance_km: 1.33
+- country: US
+  region: WA
+  exchange: '208890'
+  name: STEVESPASS
+  full_name: Stevens Pass
+  lata: '674'
+  ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
+  lat: '47.747118'
+  long: "-121.083535"
+  closest_city:
+    name: Skykomish
+    distance_km: 20.96
 - country: US
   region: WA
   exchange: '208772'
@@ -7031,6 +7031,15 @@ rate_centers:
   long:
 - country: US
   region: WA
+  exchange: '208582'
+  name: W RICHLAND
+  full_name: West Richland
+  lata: '676'
+  ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
+  lat:
+  long:
+- country: US
+  region: WA
   exchange: '344349'
   name: WAHKIACUS
   full_name: Wahkiacus
@@ -7106,9 +7115,9 @@ rate_centers:
   long:
 - country: US
   region: WA
-  exchange: '206961'
-  name: WASHOUGAL
-  full_name: Washougal
+  exchange: '206962'
+  name: WASHGL RIV
+  full_name: Washougal River
   lata: '672'
   ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
   lat: '45.59037'
@@ -7118,9 +7127,9 @@ rate_centers:
     distance_km: 2.15
 - country: US
   region: WA
-  exchange: '206962'
-  name: WASHGL RIV
-  full_name: Washougal River
+  exchange: '206961'
+  name: WASHOUGAL
+  full_name: Washougal
   lata: '672'
   ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
   lat: '45.59037'
@@ -7211,15 +7220,6 @@ rate_centers:
     distance_km: 1.47
 - country: US
   region: WA
-  exchange: '208582'
-  name: W RICHLAND
-  full_name: West Richland
-  lata: '676'
-  ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
-  lat:
-  long:
-- country: US
-  region: WA
   exchange: '207612'
   name: WESTPORT
   full_name: Westport
@@ -7239,6 +7239,18 @@ rate_centers:
   ilec_name: QWEST CORPORATION
   lat:
   long:
+- country: US
+  region: WA
+  exchange: '209180'
+  name: WH SALMON
+  full_name: White Salmon
+  lata: '672'
+  ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - WA
+  lat: '45.73453'
+  long: "-121.482902"
+  closest_city:
+    name: White Salmon
+    distance_km: 0.72
 - country: US
   region: WA
   exchange: '209170'
@@ -7269,18 +7281,6 @@ rate_centers:
   ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
   lat:
   long:
-- country: US
-  region: WA
-  exchange: '209180'
-  name: WH SALMON
-  full_name: White Salmon
-  lata: '672'
-  ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - WA
-  lat: '45.73453'
-  long: "-121.482902"
-  closest_city:
-    name: White Salmon
-    distance_km: 0.72
 - country: US
   region: WA
   exchange: '209190'
