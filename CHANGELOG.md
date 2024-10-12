@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://github.com/somleng/rate_center/compare/v0.1.7...v0.2.0) (2024-10-12)
+
+
+### Features
+
+* Update README ([bd659db](https://github.com/somleng/rate_center/commit/bd659dba8f6b34e3aee898f64501c64e59497705))
+
 ## [0.1.7](https://github.com/somleng/rate_center/compare/v0.1.6...v0.1.7) (2024-10-11)
 
 
