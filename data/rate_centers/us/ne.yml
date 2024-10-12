@@ -1808,20 +1808,20 @@ rate_centers:
     distance_km: 0.44
 - country: US
   region: NE
-  exchange: '406316'
-  name: DARR
-  full_name: Darr
-  lata: '646'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: NE
   exchange: '117551'
   name: DARR
   full_name: Darr
   lata: '646'
   ilec_name: COZAD TEL. CO.
+  lat:
+  long:
+- country: US
+  region: NE
+  exchange: '406316'
+  name: DARR
+  full_name: Darr
+  lata: '646'
+  ilec_name: QWEST CORPORATION
   lat:
   long:
 - country: US
@@ -2252,20 +2252,20 @@ rate_centers:
   long:
 - country: US
   region: NE
-  exchange: '118311'
-  name: ELLSWORTH
-  full_name: Ellsworth
-  lata: '646'
-  ilec_name: GREAT PLAINS COMMUNICATIONS, INC.
-  lat:
-  long:
-- country: US
-  region: NE
   exchange: '116593'
   name: ELLSWORTH
   full_name: Ellsworth
   lata: '646'
   ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: NE
+  exchange: '118311'
+  name: ELLSWORTH
+  full_name: Ellsworth
+  lata: '646'
+  ilec_name: GREAT PLAINS COMMUNICATIONS, INC.
   lat:
   long:
 - country: US
@@ -2384,20 +2384,20 @@ rate_centers:
   long:
 - country: US
   region: NE
-  exchange: '406111'
-  name: ENOLA
-  full_name: Enola
-  lata: '644'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: NE
   exchange: '119121'
   name: ENOLA
   full_name: Enola
   lata: '644'
   ilec_name: CITIZENS TELECOM OF NE LLC DBA FRONTIER COM OF NE
+  lat:
+  long:
+- country: US
+  region: NE
+  exchange: '406111'
+  name: ENOLA
+  full_name: Enola
+  lata: '644'
+  ilec_name: QWEST CORPORATION
   lat:
   long:
 - country: US
@@ -2663,7 +2663,7 @@ rate_centers:
     distance_km: 0.51
 - country: US
   region: NE
-  exchange: '120481'
+  exchange: '116681'
   name: GANDY
   full_name: Gandy
   lata: '646'
@@ -2672,7 +2672,7 @@ rate_centers:
   long:
 - country: US
   region: NE
-  exchange: '116681'
+  exchange: '120481'
   name: GANDY
   full_name: Gandy
   lata: '646'
@@ -3080,7 +3080,7 @@ rate_centers:
     distance_km: 0.23
 - country: US
   region: NE
-  exchange: '406356'
+  exchange: '120201'
   name: HARRISBURG
   full_name: Harrisburg
   lata: '646'
@@ -3089,7 +3089,7 @@ rate_centers:
   long:
 - country: US
   region: NE
-  exchange: '120201'
+  exchange: '406356'
   name: HARRISBURG
   full_name: Harrisburg
   lata: '646'
@@ -3155,20 +3155,20 @@ rate_centers:
   long:
 - country: US
   region: NE
-  exchange: '120281'
-  name: HAVENS
-  full_name: Havens
-  lata: '646'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: NE
   exchange: '117411'
   name: HAVENS
   full_name: Havens
   lata: '646'
   ilec_name: NORTHEAST NEBRASKA TEL. CO.
+  lat:
+  long:
+- country: US
+  region: NE
+  exchange: '120281'
+  name: HAVENS
+  full_name: Havens
+  lata: '646'
+  ilec_name: QWEST CORPORATION
   lat:
   long:
 - country: US
@@ -3821,6 +3821,15 @@ rate_centers:
     distance_km: 13.9
 - country: US
   region: NE
+  exchange: '118881'
+  name: KINGSLYDAM
+  full_name: Kingsley Dam
+  lata: '646'
+  ilec_name: GLENWOOD NETWORK SERVICES, INC.
+  lat:
+  long:
+- country: US
+  region: NE
   exchange: '118951'
   name: KINGSLYDAM
   full_name: Kingsley Dam
@@ -3831,15 +3840,6 @@ rate_centers:
 - country: US
   region: NE
   exchange: '119672'
-  name: KINGSLYDAM
-  full_name: Kingsley Dam
-  lata: '646'
-  ilec_name: GLENWOOD NETWORK SERVICES, INC.
-  lat:
-  long:
-- country: US
-  region: NE
-  exchange: '118881'
   name: KINGSLYDAM
   full_name: Kingsley Dam
   lata: '646'
@@ -6521,20 +6521,20 @@ rate_centers:
     distance_km: 0.43
 - country: US
   region: NE
-  exchange: '119001'
-  name: ST BERNARD
-  full_name: St Bernard
-  lata: '644'
-  ilec_name: CITIZENS TELECOM OF NE LLC DBA FRONTIER COM OF NE
-  lat:
-  long:
-- country: US
-  region: NE
   exchange: '118722'
   name: ST BERNARD
   full_name: St Bernard
   lata: '644'
   ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: NE
+  exchange: '119001'
+  name: ST BERNARD
+  full_name: St Bernard
+  lata: '644'
+  ilec_name: CITIZENS TELECOM OF NE LLC DBA FRONTIER COM OF NE
   lat:
   long:
 - country: US
@@ -7604,7 +7604,7 @@ rate_centers:
   long:
 - country: US
   region: NE
-  exchange: '118322'
+  exchange: '117552'
   name: WILLOW IS
   full_name: Willow Island
   lata: '646'
@@ -7613,7 +7613,7 @@ rate_centers:
   long:
 - country: US
   region: NE
-  exchange: '117552'
+  exchange: '118322'
   name: WILLOW IS
   full_name: Willow Island
   lata: '646'

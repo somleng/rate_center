@@ -5,7 +5,8 @@ on:
     - cron: '0 2 * * 0'
 
 jobs:
-  fetch_data:
+  update-data:
+    name: Update Data
     runs-on: ubuntu-latest
 
     steps:
@@ -17,7 +18,8 @@ jobs:
           bundler-cache: true
 
       - name: Update Data
-        uses: ./bin/update_data
+        run: |
+          ./bin/update_data
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v7

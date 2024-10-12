@@ -79,7 +79,7 @@ module RateCenter
           rate_centers = client.fetch_rate_center_data(region:).rate_centers
           next if rate_centers.empty?
 
-          data = rate_centers.sort_by(&:rc).map do |rate_center|
+          data = rate_centers.sort_by { |rc| [ rc.rc, rc.exch ] }.map do |rate_center|
             {
               "country" => "US",
               "region" => region,

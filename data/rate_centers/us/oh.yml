@@ -2861,15 +2861,6 @@ rate_centers:
     distance_km: 8.2
 - country: US
   region: OH
-  exchange: '140741'
-  name: CENTERVLLE
-  full_name: Centerville (Montgomery)
-  lata: '328'
-  ilec_name: OHIO BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: OH
   exchange: '140200'
   name: CENTERVLLE
   full_name: Centerville (Montgomery)
@@ -2880,6 +2871,15 @@ rate_centers:
   closest_city:
     name: Five Points
     distance_km: 1.15
+- country: US
+  region: OH
+  exchange: '140741'
+  name: CENTERVLLE
+  full_name: Centerville (Montgomery)
+  lata: '328'
+  ilec_name: OHIO BELL TEL CO
+  lat:
+  long:
 - country: US
   region: OH
   exchange: '316117'
@@ -9863,7 +9863,7 @@ rate_centers:
     distance_km: 0.21
 - country: US
   region: OH
-  exchange: '381178'
+  exchange: '141771'
   name: MARNE
   full_name: Marne
   lata: '324'
@@ -9872,7 +9872,7 @@ rate_centers:
   long:
 - country: US
   region: OH
-  exchange: '141771'
+  exchange: '381178'
   name: MARNE
   full_name: Marne
   lata: '324'
