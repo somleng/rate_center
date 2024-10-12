@@ -73,7 +73,7 @@ module RateCenter
     end
 
     def find_closest(lat:, long:, data:, key:)
-      distance_to = Class.new(Struct.new(:name, :distance, keyword_init: true))
+      distance_to = Struct.new(:name, :distance, keyword_init: true)
 
       distances_to = Array(data).map do |d|
         distance_to.new(
