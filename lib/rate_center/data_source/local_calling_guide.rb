@@ -53,8 +53,7 @@ module RateCenter
           uri = URI("/xmlrc.php")
           uri.query = Rack::Utils.build_query(params)
           response = http_client.get(uri)
-          puts "Response: #{response.status}"
-          puts "Body: #{response.body}"
+          p "Parsing body for query: #{params}"
           response_parser.parse(response.body)
         end
 
