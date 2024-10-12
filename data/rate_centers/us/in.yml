@@ -36,7 +36,7 @@ rate_centers:
   name: ADAMS LAKE
   full_name: Adams Lake
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -45,7 +45,7 @@ rate_centers:
   name: ADE
   full_name: Ade
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -54,7 +54,7 @@ rate_centers:
   name: ADVANCE
   full_name: Advance
   lata: '336'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -333,7 +333,7 @@ rate_centers:
   name: ARCOLA
   full_name: Arcola
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '41.098834'
   long: "-85.294706"
   closest_city:
@@ -354,7 +354,7 @@ rate_centers:
   name: ARGOS
   full_name: Argos
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '41.240741'
   long: "-86.241779"
   closest_city:
@@ -414,7 +414,7 @@ rate_centers:
   name: ASHLEY
   full_name: Ashley
   lata: '334'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '41.525'
   long: "-85.063591"
   closest_city:
@@ -492,7 +492,7 @@ rate_centers:
   name: AURORA
   full_name: Aurora
   lata: '922'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '39.059025'
   long: "-84.898507"
   closest_city:
@@ -516,7 +516,7 @@ rate_centers:
   name: AVILLA
   full_name: Avilla
   lata: '334'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '41.366959'
   long: "-85.239719"
   closest_city:
@@ -603,7 +603,7 @@ rate_centers:
   name: BARGERSVL
   full_name: Bargersville
   lata: '336'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '39.526075'
   long: "-86.176035"
   closest_city:
@@ -633,7 +633,7 @@ rate_centers:
   name: BASS LAKE
   full_name: Bass Lake
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -663,7 +663,7 @@ rate_centers:
   name: BATTLEGRND
   full_name: Battle Ground
   lata: '336'
-  ilec_name: BRIGHTSPEED OF CENTRAL INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF CENTRAL INDIANA, LLC                       '
   lat: '40.508078'
   long: "-86.833293"
   closest_city:
@@ -786,7 +786,7 @@ rate_centers:
   name: BENNINGTON
   full_name: Bennington
   lata: '922'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -795,7 +795,7 @@ rate_centers:
   name: BENTON
   full_name: Benton
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -813,7 +813,7 @@ rate_centers:
   name: BERNE
   full_name: Berne
   lata: '334'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '40.656306'
   long: "-84.95828"
   closest_city:
@@ -864,7 +864,7 @@ rate_centers:
   name: BIG LAKE
   full_name: Big Lake
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -929,15 +929,6 @@ rate_centers:
     distance_km: 0.42
 - country: US
   region: IN
-  exchange: '320624'
-  name: BLACKOAK
-  full_name: Black Oak
-  lata: '358'
-  ilec_name: INDIANA BELL TEL CO INC
-  lat:
-  long:
-- country: US
-  region: IN
   exchange: '361504'
   name: BLACKHAWK
   full_name: Blackhawk
@@ -947,11 +938,11 @@ rate_centers:
   long:
 - country: US
   region: IN
-  exchange: '316707'
-  name: BLCKHWKBCH
-  full_name: Blackhawk Beach
-  lata: '332'
-  ilec_name: FRONTIER NORTH, INC.. - IN
+  exchange: '320624'
+  name: BLACKOAK
+  full_name: Black Oak
+  lata: '358'
+  ilec_name: INDIANA BELL TEL CO INC
   lat:
   long:
 - country: US
@@ -961,6 +952,15 @@ rate_centers:
   full_name: Blanford
   lata: '336'
   ilec_name: INDIANA BELL TEL CO INC
+  lat:
+  long:
+- country: US
+  region: IN
+  exchange: '316707'
+  name: BLCKHWKBCH
+  full_name: Blackhawk Beach
+  lata: '332'
+  ilec_name: FRONTIER NORTH, INC.. - IN
   lat:
   long:
 - country: US
@@ -986,15 +986,6 @@ rate_centers:
     distance_km: 0.62
 - country: US
   region: IN
-  exchange: '361415'
-  name: BLOOMNGGRV
-  full_name: Blooming Grove
-  lata: '937'
-  ilec_name: FRONTIER NORTH, INC.. - IN
-  lat:
-  long:
-- country: US
-  region: IN
   exchange: '056260'
   name: BLOOMINGDL
   full_name: Bloomingdale
@@ -1017,6 +1008,15 @@ rate_centers:
   closest_city:
     name: Bloomington
     distance_km: 0.58
+- country: US
+  region: IN
+  exchange: '361415'
+  name: BLOOMNGGRV
+  full_name: Blooming Grove
+  lata: '937'
+  ilec_name: FRONTIER NORTH, INC.. - IN
+  lat:
+  long:
 - country: US
   region: IN
   exchange: '056280'
@@ -1176,7 +1176,7 @@ rate_centers:
   name: BREMEN
   full_name: Bremen
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '41.458934'
   long: "-86.157896"
   closest_city:
@@ -1224,7 +1224,7 @@ rate_centers:
   name: BRINGHURST
   full_name: Bringhurst
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -1250,11 +1250,20 @@ rate_centers:
   long:
 - country: US
   region: IN
+  exchange: '317039'
+  name: BRKVLHTS
+  full_name: Brookville Heights
+  lata: '336'
+  ilec_name: INDIANA BELL TEL CO INC
+  lat:
+  long:
+- country: US
+  region: IN
   exchange: '056360'
   name: BROOK
   full_name: Brook
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '40.869013'
   long: "-87.366344"
   closest_city:
@@ -1284,7 +1293,7 @@ rate_centers:
   name: BROOKSTON
   full_name: Brookston
   lata: '336'
-  ilec_name: BRIGHTSPEED OF CENTRAL INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF CENTRAL INDIANA, LLC                       '
   lat: '40.601509'
   long: "-86.855891"
   closest_city:
@@ -1302,15 +1311,6 @@ rate_centers:
   closest_city:
     name: Brookville
     distance_km: 0.71
-- country: US
-  region: IN
-  exchange: '317039'
-  name: BRKVLHTS
-  full_name: Brookville Heights
-  lata: '336'
-  ilec_name: INDIANA BELL TEL CO INC
-  lat:
-  long:
 - country: US
   region: IN
   exchange: '056390'
@@ -1350,7 +1350,7 @@ rate_centers:
   name: BRUCE LAKE
   full_name: Bruce Lake
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -1389,7 +1389,7 @@ rate_centers:
   name: BRYANT
   full_name: Bryant
   lata: '334'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '40.531183'
   long: "-84.975781"
   closest_city:
@@ -1524,7 +1524,7 @@ rate_centers:
   name: BURNETTSVL
   full_name: Burnettsville
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '40.759706'
   long: "-86.591325"
   closest_city:
@@ -1850,15 +1850,6 @@ rate_centers:
     distance_km: 1.37
 - country: US
   region: IN
-  exchange: '361423'
-  name: CEDARGROVE
-  full_name: Cedar Grove
-  lata: '937'
-  ilec_name: FRONTIER NORTH, INC.. - IN
-  lat:
-  long:
-- country: US
-  region: IN
   exchange: '056590'
   name: CEDAR LAKE
   full_name: Cedar Lake
@@ -1869,6 +1860,15 @@ rate_centers:
   closest_city:
     name: Cedar Lake
     distance_km: 0.99
+- country: US
+  region: IN
+  exchange: '361423'
+  name: CEDARGROVE
+  full_name: Cedar Grove
+  lata: '937'
+  ilec_name: FRONTIER NORTH, INC.. - IN
+  lat:
+  long:
 - country: US
   region: IN
   exchange: '316914'
@@ -1949,6 +1949,15 @@ rate_centers:
     distance_km: 1.81
 - country: US
   region: IN
+  exchange: '324479'
+  name: CENTRABRRN
+  full_name: Central Barren
+  lata: '462'
+  ilec_name: FRONTIER NORTH, INC. - IN
+  lat:
+  long:
+- country: US
+  region: IN
   exchange: '056620'
   name: CENTRAL
   full_name: Central
@@ -1961,20 +1970,11 @@ rate_centers:
     distance_km: 9.13
 - country: US
   region: IN
-  exchange: '324479'
-  name: CENTRABRRN
-  full_name: Central Barren
-  lata: '462'
-  ilec_name: FRONTIER NORTH, INC. - IN
-  lat:
-  long:
-- country: US
-  region: IN
   exchange: '316915'
   name: CEYLON
   full_name: Ceylon
   lata: '334'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -1983,7 +1983,7 @@ rate_centers:
   name: CHALMERS
   full_name: Chalmers
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -2052,7 +2052,7 @@ rate_centers:
   name: CHILI
   full_name: Chili
   lata: '336'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -2129,6 +2129,15 @@ rate_centers:
   long:
 - country: US
   region: IN
+  exchange: '317415'
+  name: CLARKSBURG
+  full_name: Clarksburg
+  lata: '338'
+  ilec_name: FRONTIER NORTH, INC. - IN
+  lat:
+  long:
+- country: US
+  region: IN
   exchange: '056710'
   name: CLARKSHILL
   full_name: Clarks Hill
@@ -2139,15 +2148,6 @@ rate_centers:
   closest_city:
     name: Clarks Hill
     distance_km: 0.7
-- country: US
-  region: IN
-  exchange: '317415'
-  name: CLARKSBURG
-  full_name: Clarksburg
-  lata: '338'
-  ilec_name: FRONTIER NORTH, INC. - IN
-  lat:
-  long:
 - country: US
   region: IN
   exchange: '324482'
@@ -2294,6 +2294,15 @@ rate_centers:
   long:
 - country: US
   region: IN
+  exchange: '317070'
+  name: CNTY CLB H
+  full_name: Country Club Heights
+  lata: '336'
+  ilec_name: FRONTIER NORTH, INC.. - IN
+  lat:
+  long:
+- country: US
+  region: IN
   exchange: '361514'
   name: COAL BLUFF
   full_name: Coal Bluff
@@ -2346,7 +2355,7 @@ rate_centers:
   name: COESSE
   full_name: Coesse
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -2376,7 +2385,7 @@ rate_centers:
   name: COLLEGEVL
   full_name: Collegeville
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -2394,7 +2403,7 @@ rate_centers:
   name: COLUMBIACY
   full_name: Columbia City
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '41.157432'
   long: "-85.481203"
   closest_city:
@@ -2465,6 +2474,15 @@ rate_centers:
   long:
 - country: US
   region: IN
+  exchange: '317423'
+  name: CORSSROADS
+  full_name: Cross Roads
+  lata: '338'
+  ilec_name: FRONTIER NORTH, INC. - IN
+  lat:
+  long:
+- country: US
+  region: IN
   exchange: '317424'
   name: CORTLAND
   full_name: Cortland
@@ -2478,7 +2496,7 @@ rate_centers:
   name: CORUNNA
   full_name: Corunna
   lata: '334'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '41.442013'
   long: "-85.154807"
   closest_city:
@@ -2508,15 +2526,6 @@ rate_centers:
   closest_city:
     name: Corydon
     distance_km: 0.94
-- country: US
-  region: IN
-  exchange: '317070'
-  name: CNTY CLB H
-  full_name: Country Club Heights
-  lata: '336'
-  ilec_name: FRONTIER NORTH, INC.. - IN
-  lat:
-  long:
 - country: US
   region: IN
   exchange: '056860'
@@ -2637,7 +2646,7 @@ rate_centers:
   name: CROMWELL
   full_name: Cromwell
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '41.409819'
   long: "-85.613984"
   closest_city:
@@ -2655,15 +2664,6 @@ rate_centers:
   closest_city:
     name: Cross Plains
     distance_km: 3.08
-- country: US
-  region: IN
-  exchange: '317423'
-  name: CORSSROADS
-  full_name: Cross Roads
-  lata: '338'
-  ilec_name: FRONTIER NORTH, INC. - IN
-  lat:
-  long:
 - country: US
   region: IN
   exchange: '056930'
@@ -2880,7 +2880,7 @@ rate_centers:
   name: DECATUR
   full_name: Decatur
   lata: '334'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '40.826552'
   long: "-84.934521"
   closest_city:
@@ -2904,7 +2904,7 @@ rate_centers:
   name: DEEDSVILLE
   full_name: Deedsville
   lata: '336'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -2934,7 +2934,7 @@ rate_centers:
   name: DELONG
   full_name: Delong
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -2967,7 +2967,7 @@ rate_centers:
   name: DENHAM
   full_name: Denham
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -2976,7 +2976,7 @@ rate_centers:
   name: DENVER
   full_name: Denver
   lata: '336'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '40.8601'
   long: "-86.076497"
   closest_city:
@@ -3042,7 +3042,7 @@ rate_centers:
   name: DILLSBORO
   full_name: Dillsboro
   lata: '922'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '39.018069'
   long: "-85.057202"
   closest_city:
@@ -3081,7 +3081,7 @@ rate_centers:
   name: DONALDSON
   full_name: Donaldson
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -3209,6 +3209,27 @@ rate_centers:
     distance_km: 0.63
 - country: US
   region: IN
+  exchange: '057150'
+  name: E CHICAGO
+  full_name: East Chicago
+  lata: '358'
+  ilec_name: INDIANA BELL TEL CO INC
+  lat: '41.630409'
+  long: "-87.461113"
+  closest_city:
+    name: East Chicago
+    distance_km: 1.91
+- country: US
+  region: IN
+  exchange: '361429'
+  name: E GERMANTN
+  full_name: East Germantown
+  lata: '937'
+  ilec_name: FRONTIER NORTH, INC.. - IN
+  lat:
+  long:
+- country: US
+  region: IN
   exchange: '317098'
   name: EAGLECREEK
   full_name: Eagle Creek
@@ -3222,7 +3243,7 @@ rate_centers:
   name: EARL PARK
   full_name: Earl Park
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -3245,53 +3266,11 @@ rate_centers:
   long:
 - country: US
   region: IN
-  exchange: '057150'
-  name: E CHICAGO
-  full_name: East Chicago
-  lata: '358'
-  ilec_name: INDIANA BELL TEL CO INC
-  lat: '41.630409'
-  long: "-87.461113"
-  closest_city:
-    name: East Chicago
-    distance_km: 1.91
-- country: US
-  region: IN
-  exchange: '057160'
-  name: EENTERPRIS
-  full_name: East Enterprise
-  lata: '922'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
-  lat: '38.874848'
-  long: "-84.985241"
-  closest_city:
-    name: East Enterprise
-    distance_km: 0.6
-- country: US
-  region: IN
-  exchange: '361429'
-  name: E GERMANTN
-  full_name: East Germantown
-  lata: '937'
-  ilec_name: FRONTIER NORTH, INC.. - IN
-  lat:
-  long:
-- country: US
-  region: IN
   exchange: '361431'
   name: EAST HAVEN
   full_name: East Haven
   lata: '937'
   ilec_name: FRONTIER NORTH, INC.. - IN
-  lat:
-  long:
-- country: US
-  region: IN
-  exchange: '316612'
-  name: EMT CARMEL
-  full_name: East Mount Carmel
-  lata: '330'
-  ilec_name: FRONTIER NORTH, INC. - IN
   lat:
   long:
 - country: US
@@ -3365,11 +3344,23 @@ rate_centers:
   long:
 - country: US
   region: IN
+  exchange: '057160'
+  name: EENTERPRIS
+  full_name: East Enterprise
+  lata: '922'
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
+  lat: '38.874848'
+  long: "-84.985241"
+  closest_city:
+    name: East Enterprise
+    distance_km: 0.6
+- country: US
+  region: IN
   exchange: '316743'
   name: EFFNER
   full_name: Effner
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -3506,6 +3497,15 @@ rate_centers:
   long:
 - country: US
   region: IN
+  exchange: '316612'
+  name: EMT CARMEL
+  full_name: East Mount Carmel
+  lata: '330'
+  ilec_name: FRONTIER NORTH, INC. - IN
+  lat:
+  long:
+- country: US
+  region: IN
   exchange: '057270'
   name: ENGLISH
   full_name: English
@@ -3522,7 +3522,7 @@ rate_centers:
   name: ENGLISH LK
   full_name: English Lake
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -3540,7 +3540,7 @@ rate_centers:
   name: ENTERPRISE
   full_name: Enterprise
   lata: '922'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -3558,7 +3558,7 @@ rate_centers:
   name: ETNA
   full_name: Etna
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '41.276344'
   long: "-85.573914"
   closest_city:
@@ -3618,7 +3618,7 @@ rate_centers:
   name: FAIR OAKS
   full_name: Fair Oaks
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -3816,7 +3816,7 @@ rate_centers:
   name: FLORA
   full_name: Flora
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '40.543325'
   long: "-86.526792"
   closest_city:
@@ -3828,7 +3828,7 @@ rate_centers:
   name: FLORENCE
   full_name: Florence
   lata: '922'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -3878,6 +3878,18 @@ rate_centers:
   long:
 - country: US
   region: IN
+  exchange: '057410'
+  name: FORT WAYNE
+  full_name: Fort Wayne
+  lata: '334'
+  ilec_name: FRONTIER NORTH, INC.. - IN
+  lat: '41.075894'
+  long: "-85.130344"
+  closest_city:
+    name: Fort Wayne
+    distance_km: 1.81
+- country: US
+  region: IN
   exchange: '057400'
   name: FORTBRANCH
   full_name: Fort Branch
@@ -3899,23 +3911,11 @@ rate_centers:
   long:
 - country: US
   region: IN
-  exchange: '057410'
-  name: FORT WAYNE
-  full_name: Fort Wayne
-  lata: '334'
-  ilec_name: FRONTIER NORTH, INC.. - IN
-  lat: '41.075894'
-  long: "-85.130344"
-  closest_city:
-    name: Fort Wayne
-    distance_km: 1.81
-- country: US
-  region: IN
   exchange: '057420'
   name: FORTVILLE
   full_name: Fortville
   lata: '336'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '39.934491'
   long: "-85.848875"
   closest_city:
@@ -3978,7 +3978,7 @@ rate_centers:
   name: FRANCESVL
   full_name: Francesville
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '40.986039'
   long: "-86.883775"
   closest_city:
@@ -4014,7 +4014,7 @@ rate_centers:
   name: FRANKLIN
   full_name: Franklin
   lata: '336'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '39.481164'
   long: "-86.058893"
   closest_city:
@@ -4302,7 +4302,7 @@ rate_centers:
   name: GENEVA
   full_name: Geneva (Adams)
   lata: '334'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '40.592328'
   long: "-84.957692"
   closest_city:
@@ -4428,7 +4428,7 @@ rate_centers:
   name: GOODLAND
   full_name: Goodland
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '40.760146'
   long: "-87.292205"
   closest_city:
@@ -4518,7 +4518,7 @@ rate_centers:
   name: GRASSCREEK
   full_name: Grass Creek
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -4527,7 +4527,7 @@ rate_centers:
   name: GRAVEL BCH
   full_name: Gravel Beach
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -4560,7 +4560,7 @@ rate_centers:
   name: GREENDALE
   full_name: Greendale
   lata: '922'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -4575,18 +4575,6 @@ rate_centers:
   closest_city:
     name: Greenfield
     distance_km: 1.3
-- country: US
-  region: IN
-  exchange: '057720'
-  name: GREENSFORK
-  full_name: Greens Fork
-  lata: '937'
-  ilec_name: FRONTIER NORTH, INC.. - IN
-  lat: '39.892341'
-  long: "-85.043963"
-  closest_city:
-    name: Greens Fork
-    distance_km: 0.25
 - country: US
   region: IN
   exchange: '361440'
@@ -4608,6 +4596,18 @@ rate_centers:
   closest_city:
     name: Greensburg
     distance_km: 2.22
+- country: US
+  region: IN
+  exchange: '057720'
+  name: GREENSFORK
+  full_name: Greens Fork
+  lata: '937'
+  ilec_name: FRONTIER NORTH, INC.. - IN
+  lat: '39.892341'
+  long: "-85.043963"
+  closest_city:
+    name: Greens Fork
+    distance_km: 0.25
 - country: US
   region: IN
   exchange: '057740'
@@ -4686,7 +4686,7 @@ rate_centers:
   name: GROVERTOWN
   full_name: Grovertown
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -4695,7 +4695,7 @@ rate_centers:
   name: GUILFORD
   full_name: Guilford
   lata: '922'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '39.166985'
   long: "-84.914668"
   closest_city:
@@ -4758,7 +4758,7 @@ rate_centers:
   name: HAMLET
   full_name: Hamlet
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '41.376392'
   long: "-86.580855"
   closest_city:
@@ -4986,7 +4986,7 @@ rate_centers:
   name: HELMER
   full_name: Helmer
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -5232,7 +5232,7 @@ rate_centers:
   name: HOPEWELL
   full_name: Hopewell
   lata: '336'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -5241,7 +5241,7 @@ rate_centers:
   name: HOWE
   full_name: Howe
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '41.726781'
   long: "-85.424523"
   closest_city:
@@ -5253,7 +5253,7 @@ rate_centers:
   name: HUDSON
   full_name: Hudson
   lata: '334'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -5262,7 +5262,7 @@ rate_centers:
   name: HUDSONLAKE
   full_name: Hudson Lake
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -5388,7 +5388,7 @@ rate_centers:
   name: INGALLS
   full_name: Ingalls
   lata: '336'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -5406,7 +5406,7 @@ rate_centers:
   name: INWOOD
   full_name: Inwood
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -5424,7 +5424,7 @@ rate_centers:
   name: JAMESTOWN
   full_name: Jamestown
   lata: '336'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '39.9269'
   long: "-86.624746"
   closest_city:
@@ -5465,15 +5465,6 @@ rate_centers:
   long:
 - country: US
   region: IN
-  exchange: '317158'
-  name: JEFFERSON
-  full_name: Jefferson
-  lata: '336'
-  ilec_name: INDIANA BELL TEL CO INC
-  lat:
-  long:
-- country: US
-  region: IN
   exchange: '059191'
   name: JEFFERSNVL
   full_name: Jeffersonville
@@ -5490,6 +5481,15 @@ rate_centers:
   name: JEFFERSNVL
   full_name: Jeffersonville (Clark)
   lata: '462'
+  ilec_name: INDIANA BELL TEL CO INC
+  lat:
+  long:
+- country: US
+  region: IN
+  exchange: '317158'
+  name: JEFFERSON
+  full_name: Jefferson
+  lata: '336'
   ilec_name: INDIANA BELL TEL CO INC
   lat:
   long:
@@ -5580,7 +5580,7 @@ rate_centers:
   name: KEMPTON
   full_name: Kempton
   lata: '336'
-  ilec_name: BRIGHTSPEED OF CENTRAL INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF CENTRAL INDIANA, LLC                       '
   lat: '40.291165'
   long: "-86.227878"
   closest_city:
@@ -5604,7 +5604,7 @@ rate_centers:
   name: KENNARD
   full_name: Kennard
   lata: '336'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -5631,7 +5631,7 @@ rate_centers:
   name: KENTLAND
   full_name: Kentland
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '40.777848'
   long: "-87.451165"
   closest_city:
@@ -5652,7 +5652,7 @@ rate_centers:
   name: KEWANNA
   full_name: Kewanna
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '41.024835'
   long: "-86.4064"
   closest_city:
@@ -5754,7 +5754,7 @@ rate_centers:
   name: KNIGHTSTN
   full_name: Knightstown
   lata: '336'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '39.789034'
   long: "-85.523878"
   closest_city:
@@ -5775,7 +5775,7 @@ rate_centers:
   name: KNOX
   full_name: Knox
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '41.288833'
   long: "-86.623698"
   closest_city:
@@ -5808,7 +5808,7 @@ rate_centers:
   name: KOONTZLAKE
   full_name: Koontz Lake
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -5864,18 +5864,6 @@ rate_centers:
     distance_km: 0.48
 - country: US
   region: IN
-  exchange: '058180'
-  name: LAFONTAINE
-  full_name: La Fontaine
-  lata: '336'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
-  lat: '40.67522'
-  long: "-85.727755"
-  closest_city:
-    name: La Fontaine
-    distance_km: 0.49
-- country: US
-  region: IN
   exchange: '058190'
   name: LA PORTE
   full_name: La Porte
@@ -5924,11 +5912,23 @@ rate_centers:
     distance_km: 3.62
 - country: US
   region: IN
+  exchange: '058180'
+  name: LAFONTAINE
+  full_name: La Fontaine
+  lata: '336'
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
+  lat: '40.67522'
+  long: "-85.727755"
+  closest_city:
+    name: La Fontaine
+    distance_km: 0.49
+- country: US
+  region: IN
   exchange: '058230'
   name: LAGRANGE
   full_name: Lagrange
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '41.643972'
   long: "-85.416758"
   closest_city:
@@ -5948,29 +5948,11 @@ rate_centers:
     distance_km: 0.81
 - country: US
   region: IN
-  exchange: '317178'
-  name: LAKECICOTT
-  full_name: Lake Cicott
-  lata: '336'
-  ilec_name: FRONTIER NORTH, INC.. - IN
-  lat:
-  long:
-- country: US
-  region: IN
   exchange: '316785'
   name: LAKE ELIZA
   full_name: Lake Eliza
   lata: '332'
   ilec_name: FRONTIER NORTH, INC.. - IN
-  lat:
-  long:
-- country: US
-  region: IN
-  exchange: '316794'
-  name: LK FREEMAN
-  full_name: Lake Freeman
-  lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
   lat:
   long:
 - country: US
@@ -5991,27 +5973,6 @@ rate_centers:
   ilec_name: FRONTIER NORTH, INC.. - IN
   lat:
   long:
-- country: US
-  region: IN
-  exchange: '316796'
-  name: LKMAXINKCK
-  full_name: Lake Maxinkuckee
-  lata: '332'
-  ilec_name: INDIANA BELL TEL CO INC
-  lat:
-  long:
-- country: US
-  region: IN
-  exchange: '058250'
-  name: LAKEMONROE
-  full_name: Lake Monroe
-  lata: '338'
-  ilec_name: SMITHVILLE COMM., INC DBA SMITHVILLE TELEPHONE CO.
-  lat: '39.04144'
-  long: "-86.396999"
-  closest_city:
-    name: Smithville-Sanders
-    distance_km: 10.03
 - country: US
   region: IN
   exchange: '058270'
@@ -6038,25 +5999,25 @@ rate_centers:
     distance_km: 1.55
 - country: US
   region: IN
-  exchange: '316795'
-  name: LK WAWASEE
-  full_name: Lake Wawasee
-  lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  exchange: '317178'
+  name: LAKECICOTT
+  full_name: Lake Cicott
+  lata: '336'
+  ilec_name: FRONTIER NORTH, INC.. - IN
   lat:
   long:
 - country: US
   region: IN
-  exchange: '058260'
-  name: LKSFRSSONS
-  full_name: Lake of the Four Seasons
-  lata: '358'
-  ilec_name: NORTHWESTERN INDIANA TEL. CO., INC.
-  lat: '41.406282'
-  long: "-87.20507"
+  exchange: '058250'
+  name: LAKEMONROE
+  full_name: Lake Monroe
+  lata: '338'
+  ilec_name: SMITHVILLE COMM., INC DBA SMITHVILLE TELEPHONE CO.
+  lat: '39.04144'
+  long: "-86.396999"
   closest_city:
-    name: Lakes of the Four Seasons
-    distance_km: 1.27
+    name: Smithville-Sanders
+    distance_km: 10.03
 - country: US
   region: IN
   exchange: '316939'
@@ -6072,7 +6033,7 @@ rate_centers:
   name: LAKEVILLE
   full_name: Lakeville
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -6102,7 +6063,7 @@ rate_centers:
   name: LANDESS
   full_name: Landess
   lata: '336'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -6123,7 +6084,7 @@ rate_centers:
   name: LAOTTO
   full_name: Laotto
   lata: '334'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -6132,7 +6093,7 @@ rate_centers:
   name: LAPAZ
   full_name: Lapaz
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '41.498029'
   long: "-86.289684"
   closest_city:
@@ -6144,7 +6105,7 @@ rate_centers:
   name: LAPEL
   full_name: Lapel
   lata: '336'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '40.068342'
   long: "-85.840836"
   closest_city:
@@ -6156,7 +6117,7 @@ rate_centers:
   name: LARWILL
   full_name: Larwill
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '41.174903'
   long: "-85.621693"
   closest_city:
@@ -6168,7 +6129,7 @@ rate_centers:
   name: LAUD
   full_name: Laud
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '41.040488'
   long: "-85.443043"
   closest_city:
@@ -6201,7 +6162,7 @@ rate_centers:
   name: LAWRENCEBG
   full_name: Lawrenceburg
   lata: '922'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '39.098513'
   long: "-84.856053"
   closest_city:
@@ -6237,7 +6198,7 @@ rate_centers:
   name: LEESBURG
   full_name: Leesburg
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '41.327019'
   long: "-85.843556"
   closest_city:
@@ -6258,7 +6219,7 @@ rate_centers:
   name: LEITERS FD
   full_name: Leiters Ford
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -6365,6 +6326,15 @@ rate_centers:
     distance_km: 1.02
 - country: US
   region: IN
+  exchange: '316944'
+  name: LIBERTY ML
+  full_name: Liberty Mills
+  lata: '334'
+  ilec_name: FRONTIER NORTH, INC.. - IN
+  lat:
+  long:
+- country: US
+  region: IN
   exchange: '058440'
   name: LIBERTYCTR
   full_name: Liberty Center
@@ -6375,15 +6345,6 @@ rate_centers:
   closest_city:
     name: Liberty Center
     distance_km: 1.1
-- country: US
-  region: IN
-  exchange: '316944'
-  name: LIBERTY ML
-  full_name: Liberty Mills
-  lata: '334'
-  ilec_name: FRONTIER NORTH, INC.. - IN
-  lat:
-  long:
 - country: US
   region: IN
   exchange: '317183'
@@ -6450,7 +6411,7 @@ rate_centers:
   name: LINN GROVE
   full_name: Linn Grove
   lata: '334'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '40.651064'
   long: "-85.031697"
   closest_city:
@@ -6498,6 +6459,45 @@ rate_centers:
   closest_city:
     name: Lizton
     distance_km: 0.88
+- country: US
+  region: IN
+  exchange: '316794'
+  name: LK FREEMAN
+  full_name: Lake Freeman
+  lata: '332'
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
+  lat:
+  long:
+- country: US
+  region: IN
+  exchange: '316795'
+  name: LK WAWASEE
+  full_name: Lake Wawasee
+  lata: '332'
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
+  lat:
+  long:
+- country: US
+  region: IN
+  exchange: '316796'
+  name: LKMAXINKCK
+  full_name: Lake Maxinkuckee
+  lata: '332'
+  ilec_name: INDIANA BELL TEL CO INC
+  lat:
+  long:
+- country: US
+  region: IN
+  exchange: '058260'
+  name: LKSFRSSONS
+  full_name: Lake of the Four Seasons
+  lata: '358'
+  ilec_name: NORTHWESTERN INDIANA TEL. CO., INC.
+  lat: '41.406282'
+  long: "-87.20507"
+  closest_city:
+    name: Lakes of the Four Seasons
+    distance_km: 1.27
 - country: US
   region: IN
   exchange: '317188'
@@ -6723,7 +6723,7 @@ rate_centers:
   name: MANCHESTER
   full_name: Manchester
   lata: '922'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -6792,7 +6792,7 @@ rate_centers:
   name: MARIETTA
   full_name: Marietta
   lata: '336'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '39.440668'
   long: "-85.891188"
   closest_city:
@@ -6816,7 +6816,7 @@ rate_centers:
   name: MARKLAND
   full_name: Markland
   lata: '922'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -6998,18 +6998,6 @@ rate_centers:
   long:
 - country: US
   region: IN
-  exchange: '058720'
-  name: MECHANSBG
-  full_name: Mechanicsburg (Boone)
-  lata: '336'
-  ilec_name: INDIANA BELL TEL CO INC
-  lat: '40.150631'
-  long: "-86.431435"
-  closest_city:
-    name: Elizaville
-    distance_km: 5.43
-- country: US
-  region: IN
   exchange: '058730'
   name: MECHANCSBG
   full_name: Mechanicsburg (Henry)
@@ -7022,11 +7010,23 @@ rate_centers:
     distance_km: 5.47
 - country: US
   region: IN
+  exchange: '058720'
+  name: MECHANSBG
+  full_name: Mechanicsburg (Boone)
+  lata: '336'
+  ilec_name: INDIANA BELL TEL CO INC
+  lat: '40.150631'
+  long: "-86.431435"
+  closest_city:
+    name: Elizaville
+    distance_km: 5.43
+- country: US
+  region: IN
   exchange: '058740'
   name: MEDARYVL
   full_name: Medaryville
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '41.072876'
   long: "-86.890511"
   closest_city:
@@ -7143,7 +7143,7 @@ rate_centers:
   name: MEXICO
   full_name: Mexico
   lata: '336'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -7152,15 +7152,6 @@ rate_centers:
   name: MIAMI
   full_name: Miami
   lata: '336'
-  ilec_name: INDIANA BELL TEL CO INC
-  lat:
-  long:
-- country: US
-  region: IN
-  exchange: '316806'
-  name: MICHINSHRS
-  full_name: Michiana Shores
-  lata: '332'
   ilec_name: INDIANA BELL TEL CO INC
   lat:
   long:
@@ -7188,6 +7179,15 @@ rate_centers:
   closest_city:
     name: Michigantown
     distance_km: 0.9
+- country: US
+  region: IN
+  exchange: '316806'
+  name: MICHINSHRS
+  full_name: Michiana Shores
+  lata: '332'
+  ilec_name: INDIANA BELL TEL CO INC
+  lat:
+  long:
 - country: US
   region: IN
   exchange: '058820'
@@ -7257,7 +7257,7 @@ rate_centers:
   name: MILFORD
   full_name: Milford
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '41.409364'
   long: "-85.838243"
   closest_city:
@@ -7287,7 +7287,7 @@ rate_centers:
   name: MILLERSBG
   full_name: Millersburg (Elkhart)
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '41.524624'
   long: "-85.71023"
   closest_city:
@@ -7422,7 +7422,7 @@ rate_centers:
   name: MONGO
   full_name: Mongo
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '41.690191'
   long: "-85.27608"
   closest_city:
@@ -7455,7 +7455,7 @@ rate_centers:
   name: MONROE
   full_name: Monroe
   lata: '334'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '40.740291'
   long: "-84.943803"
   closest_city:
@@ -7503,7 +7503,7 @@ rate_centers:
   name: MONTEREY
   full_name: Monterey
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '41.143743'
   long: "-86.451578"
   closest_city:
@@ -7539,7 +7539,7 @@ rate_centers:
   name: MONTICELLO
   full_name: Monticello
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '40.739342'
   long: "-86.757412"
   closest_city:
@@ -7608,7 +7608,7 @@ rate_centers:
   name: MORAN
   full_name: Moran
   lata: '336'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -7679,15 +7679,6 @@ rate_centers:
     distance_km: 7.51
 - country: US
   region: IN
-  exchange: '361458'
-  name: MT AUBURN
-  full_name: Mount Auburn
-  lata: '937'
-  ilec_name: FRONTIER NORTH, INC.. - IN
-  lat:
-  long:
-- country: US
-  region: IN
   exchange: '059100'
   name: MOUNT AYR
   full_name: Mount Ayr
@@ -7698,6 +7689,24 @@ rate_centers:
   closest_city:
     name: Mount Ayr
     distance_km: 1.06
+- country: US
+  region: IN
+  exchange: '316952'
+  name: MOUNT ETNA
+  full_name: Mount Etna
+  lata: '334'
+  ilec_name: FRONTIER MIDSTATES, INC. - IN
+  lat:
+  long:
+- country: US
+  region: IN
+  exchange: '361458'
+  name: MT AUBURN
+  full_name: Mount Auburn
+  lata: '937'
+  ilec_name: FRONTIER NORTH, INC.. - IN
+  lat:
+  long:
 - country: US
   region: IN
   exchange: '361459'
@@ -7714,36 +7723,6 @@ rate_centers:
   full_name: Mount Comfort
   lata: '336'
   ilec_name: INDIANA BELL TEL CO INC
-  lat:
-  long:
-- country: US
-  region: IN
-  exchange: '316952'
-  name: MOUNT ETNA
-  full_name: Mount Etna
-  lata: '334'
-  ilec_name: FRONTIER MIDSTATES, INC. - IN
-  lat:
-  long:
-- country: US
-  region: IN
-  exchange: '059110'
-  name: MTMERIDIAN
-  full_name: Mount Meridian
-  lata: '336'
-  ilec_name: CLAY COUNTRY RURAL TEL COOP DBA ENDEAVOR COMM
-  lat: '39.606138'
-  long: "-86.749182"
-  closest_city:
-    name: Fillmore
-    distance_km: 7.08
-- country: US
-  region: IN
-  exchange: '316649'
-  name: MTPLEASANT
-  full_name: Mount Pleasant
-  lata: '330'
-  ilec_name: PERRY - SPENCER RURAL TELEPHONE COOP., INC.
   lat:
   long:
 - country: US
@@ -7770,6 +7749,27 @@ rate_centers:
   closest_city:
     name: Mount Vernon
     distance_km: 0.27
+- country: US
+  region: IN
+  exchange: '059110'
+  name: MTMERIDIAN
+  full_name: Mount Meridian
+  lata: '336'
+  ilec_name: CLAY COUNTRY RURAL TEL COOP DBA ENDEAVOR COMM
+  lat: '39.606138'
+  long: "-86.749182"
+  closest_city:
+    name: Fillmore
+    distance_km: 7.08
+- country: US
+  region: IN
+  exchange: '316649'
+  name: MTPLEASANT
+  full_name: Mount Pleasant
+  lata: '330'
+  ilec_name: PERRY - SPENCER RURAL TELEPHONE COOP., INC.
+  lat:
+  long:
 - country: US
   region: IN
   exchange: '059140'
@@ -7823,6 +7823,15 @@ rate_centers:
   long:
 - country: US
   region: IN
+  exchange: '317234'
+  name: N CROWS NS
+  full_name: North Crows Nest
+  lata: '336'
+  ilec_name: INDIANA BELL TEL CO INC
+  lat:
+  long:
+- country: US
+  region: IN
   exchange: '324505'
   name: NABB
   full_name: Nabb
@@ -7848,7 +7857,7 @@ rate_centers:
   name: NAPPANEE
   full_name: Nappanee
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '41.443876'
   long: "-86.008352"
   closest_city:
@@ -7890,7 +7899,7 @@ rate_centers:
   name: NEEDHAM
   full_name: Needham
   lata: '336'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -7934,24 +7943,6 @@ rate_centers:
   long:
 - country: US
   region: IN
-  exchange: '324508'
-  name: NEWAMSTRDM
-  full_name: New Amsterdam
-  lata: '462'
-  ilec_name: FRONTIER NORTH, INC. - IN
-  lat:
-  long:
-- country: US
-  region: IN
-  exchange: '317244'
-  name: NEWAUGUSTA
-  full_name: New Augusta
-  lata: '336'
-  ilec_name: INDIANA BELL TEL CO INC
-  lat:
-  long:
-- country: US
-  region: IN
   exchange: '317237'
   name: NEW BETHEL
   full_name: New Bethel
@@ -7970,36 +7961,6 @@ rate_centers:
   long:
 - country: US
   region: IN
-  exchange: '317245'
-  name: NEWBRNSWCK
-  full_name: New Brunswick
-  lata: '336'
-  ilec_name: INDIANA BELL TEL CO INC
-  lat:
-  long:
-- country: US
-  region: IN
-  exchange: '317259'
-  name: NWBURLNGTN
-  full_name: New Burlington
-  lata: '336'
-  ilec_name: INDIANA BELL TEL CO INC
-  lat:
-  long:
-- country: US
-  region: IN
-  exchange: '059200'
-  name: NEWCARLISL
-  full_name: New Carlisle
-  lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
-  lat: '41.708552'
-  long: "-86.505296"
-  closest_city:
-    name: New Carlisle
-    distance_km: 1.36
-- country: US
-  region: IN
   exchange: '059210'
   name: NEW CASTLE
   full_name: New Castle
@@ -8012,24 +7973,6 @@ rate_centers:
     distance_km: 0.93
 - country: US
   region: IN
-  exchange: '316822'
-  name: NEWCHICAGO
-  full_name: New Chicago
-  lata: '332'
-  ilec_name: FRONTIER NORTH, INC.. - IN
-  lat:
-  long:
-- country: US
-  region: IN
-  exchange: '316956'
-  name: NEWCORYDON
-  full_name: New Corydon
-  lata: '334'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
-  lat:
-  long:
-- country: US
-  region: IN
   exchange: '361527'
   name: NEW GOSHEN
   full_name: New Goshen
@@ -8037,18 +7980,6 @@ rate_centers:
   ilec_name: FRONTIER NORTH, INC.. - IN
   lat:
   long:
-- country: US
-  region: IN
-  exchange: '059220'
-  name: NEWHARMONY
-  full_name: New Harmony
-  lata: '330'
-  ilec_name: INDIANA BELL TEL CO INC
-  lat: '38.135274'
-  long: "-87.925285"
-  closest_city:
-    name: New Harmony
-    distance_km: 0.84
 - country: US
   region: IN
   exchange: '059230'
@@ -8061,24 +7992,6 @@ rate_centers:
   closest_city:
     name: New Haven
     distance_km: 1.06
-- country: US
-  region: IN
-  exchange: '317260'
-  name: NWLANCASTR
-  full_name: New Lancaster
-  lata: '336'
-  ilec_name: INDIANA BELL TEL CO INC
-  lat:
-  long:
-- country: US
-  region: IN
-  exchange: '361528'
-  name: NEWLEBANON
-  full_name: New Lebanon
-  lata: '938'
-  ilec_name: FRONTIER NORTH, INC. - IN
-  lat:
-  long:
 - country: US
   region: IN
   exchange: '059240'
@@ -8123,6 +8036,138 @@ rate_centers:
   long:
 - country: US
   region: IN
+  exchange: '059280'
+  name: NEW PARIS
+  full_name: New Paris
+  lata: '332'
+  ilec_name: NEW PARIS TEL., INC.
+  lat: '41.499757'
+  long: "-85.826901"
+  closest_city:
+    name: New Paris
+    distance_km: 0.19
+- country: US
+  region: IN
+  exchange: '317504'
+  name: NEW POINT
+  full_name: New Point
+  lata: '338'
+  ilec_name: FRONTIER NORTH, INC. - IN
+  lat:
+  long:
+- country: US
+  region: IN
+  exchange: '059290'
+  name: NEW ROSS
+  full_name: New Ross
+  lata: '336'
+  ilec_name: COMMUNICATIONS CORP. OF INDIANA
+  lat: '39.960279'
+  long: "-86.716741"
+  closest_city:
+    name: New Ross
+    distance_km: 0.53
+- country: US
+  region: IN
+  exchange: '324508'
+  name: NEWAMSTRDM
+  full_name: New Amsterdam
+  lata: '462'
+  ilec_name: FRONTIER NORTH, INC. - IN
+  lat:
+  long:
+- country: US
+  region: IN
+  exchange: '317244'
+  name: NEWAUGUSTA
+  full_name: New Augusta
+  lata: '336'
+  ilec_name: INDIANA BELL TEL CO INC
+  lat:
+  long:
+- country: US
+  region: IN
+  exchange: '317505'
+  name: NEWBERRY
+  full_name: Newberry
+  lata: '338'
+  ilec_name: SMITHVILLE COMM., INC DBA SMITHVILLE TELEPHONE CO.
+  lat:
+  long:
+- country: US
+  region: IN
+  exchange: '317245'
+  name: NEWBRNSWCK
+  full_name: New Brunswick
+  lata: '336'
+  ilec_name: INDIANA BELL TEL CO INC
+  lat:
+  long:
+- country: US
+  region: IN
+  exchange: '059310'
+  name: NEWBURGH
+  full_name: Newburgh
+  lata: '330'
+  ilec_name: INDIANA BELL TEL CO INC
+  lat: '37.959118'
+  long: "-87.404771"
+  closest_city:
+    name: Newburgh
+    distance_km: 1.08
+- country: US
+  region: IN
+  exchange: '059200'
+  name: NEWCARLISL
+  full_name: New Carlisle
+  lata: '332'
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
+  lat: '41.708552'
+  long: "-86.505296"
+  closest_city:
+    name: New Carlisle
+    distance_km: 1.36
+- country: US
+  region: IN
+  exchange: '316822'
+  name: NEWCHICAGO
+  full_name: New Chicago
+  lata: '332'
+  ilec_name: FRONTIER NORTH, INC.. - IN
+  lat:
+  long:
+- country: US
+  region: IN
+  exchange: '316956'
+  name: NEWCORYDON
+  full_name: New Corydon
+  lata: '334'
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
+  lat:
+  long:
+- country: US
+  region: IN
+  exchange: '059220'
+  name: NEWHARMONY
+  full_name: New Harmony
+  lata: '330'
+  ilec_name: INDIANA BELL TEL CO INC
+  lat: '38.135274'
+  long: "-87.925285"
+  closest_city:
+    name: New Harmony
+    distance_km: 0.84
+- country: US
+  region: IN
+  exchange: '361528'
+  name: NEWLEBANON
+  full_name: New Lebanon
+  lata: '938'
+  ilec_name: FRONTIER NORTH, INC. - IN
+  lat:
+  long:
+- country: US
+  region: IN
   exchange: '059260'
   name: NEWMIDDLTN
   full_name: New Middletown
@@ -8147,18 +8192,6 @@ rate_centers:
     distance_km: 1.47
 - country: US
   region: IN
-  exchange: '059280'
-  name: NEW PARIS
-  full_name: New Paris
-  lata: '332'
-  ilec_name: NEW PARIS TEL., INC.
-  lat: '41.499757'
-  long: "-85.826901"
-  closest_city:
-    name: New Paris
-    distance_km: 0.19
-- country: US
-  region: IN
   exchange: '317506'
   name: NEWPHLDLPH
   full_name: New Philadelphia
@@ -8168,11 +8201,11 @@ rate_centers:
   long:
 - country: US
   region: IN
-  exchange: '317504'
-  name: NEW POINT
-  full_name: New Point
-  lata: '338'
-  ilec_name: FRONTIER NORTH, INC. - IN
+  exchange: '317247'
+  name: NEWPORT
+  full_name: Newport
+  lata: '336'
+  ilec_name: INDIANA BELL TEL CO INC
   lat:
   long:
 - country: US
@@ -8186,101 +8219,11 @@ rate_centers:
   long:
 - country: US
   region: IN
-  exchange: '059290'
-  name: NEW ROSS
-  full_name: New Ross
-  lata: '336'
-  ilec_name: COMMUNICATIONS CORP. OF INDIANA
-  lat: '39.960279'
-  long: "-86.716741"
-  closest_city:
-    name: New Ross
-    distance_km: 0.53
-- country: US
-  region: IN
   exchange: '324510'
   name: NEWSALISBY
   full_name: New Salisbury
   lata: '462'
   ilec_name: FRONTIER NORTH, INC. - IN
-  lat:
-  long:
-- country: US
-  region: IN
-  exchange: '360663'
-  name: NEWTRENTON
-  full_name: New Trenton
-  lata: '922'
-  ilec_name: CINCINNATI BELL
-  lat:
-  long:
-- country: US
-  region: IN
-  exchange: '059300'
-  name: NEWWSHNGTN
-  full_name: New Washington
-  lata: '462'
-  ilec_name: INDIANA BELL TEL CO INC
-  lat: '38.557658'
-  long: "-85.536709"
-  closest_city:
-    name: New Washington
-    distance_km: 1.2
-- country: US
-  region: IN
-  exchange: '317250'
-  name: NEWWAVERLY
-  full_name: New Waverly
-  lata: '336'
-  ilec_name: FRONTIER NORTH, INC.. - IN
-  lat:
-  long:
-- country: US
-  region: IN
-  exchange: '317251'
-  name: NEWWHITELD
-  full_name: New Whiteland
-  lata: '336'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
-  lat:
-  long:
-- country: US
-  region: IN
-  exchange: '317252'
-  name: NEWWNCHSTR
-  full_name: New Winchester
-  lata: '336'
-  ilec_name: COMMUNICATIONS CORP. OF INDIANA
-  lat:
-  long:
-- country: US
-  region: IN
-  exchange: '317505'
-  name: NEWBERRY
-  full_name: Newberry
-  lata: '338'
-  ilec_name: SMITHVILLE COMM., INC DBA SMITHVILLE TELEPHONE CO.
-  lat:
-  long:
-- country: US
-  region: IN
-  exchange: '059310'
-  name: NEWBURGH
-  full_name: Newburgh
-  lata: '330'
-  ilec_name: INDIANA BELL TEL CO INC
-  lat: '37.959118'
-  long: "-87.404771"
-  closest_city:
-    name: Newburgh
-    distance_km: 1.08
-- country: US
-  region: IN
-  exchange: '317247'
-  name: NEWPORT
-  full_name: Newport
-  lata: '336'
-  ilec_name: INDIANA BELL TEL CO INC
   lat:
   long:
 - country: US
@@ -8303,16 +8246,130 @@ rate_centers:
   long:
 - country: US
   region: IN
+  exchange: '360663'
+  name: NEWTRENTON
+  full_name: New Trenton
+  lata: '922'
+  ilec_name: CINCINNATI BELL
+  lat:
+  long:
+- country: US
+  region: IN
+  exchange: '317250'
+  name: NEWWAVERLY
+  full_name: New Waverly
+  lata: '336'
+  ilec_name: FRONTIER NORTH, INC.. - IN
+  lat:
+  long:
+- country: US
+  region: IN
+  exchange: '317251'
+  name: NEWWHITELD
+  full_name: New Whiteland
+  lata: '336'
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
+  lat:
+  long:
+- country: US
+  region: IN
+  exchange: '317252'
+  name: NEWWNCHSTR
+  full_name: New Winchester
+  lata: '336'
+  ilec_name: COMMUNICATIONS CORP. OF INDIANA
+  lat:
+  long:
+- country: US
+  region: IN
+  exchange: '059300'
+  name: NEWWSHNGTN
+  full_name: New Washington
+  lata: '462'
+  ilec_name: INDIANA BELL TEL CO INC
+  lat: '38.557658'
+  long: "-85.536709"
+  closest_city:
+    name: New Washington
+    distance_km: 1.2
+- country: US
+  region: IN
   exchange: '059320'
   name: NINEVEH
   full_name: Nineveh
   lata: '336'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '39.368695'
   long: "-86.091616"
   closest_city:
     name: Nineveh
     distance_km: 0.84
+- country: US
+  region: IN
+  exchange: '320661'
+  name: NO HAYDEN
+  full_name: North Hayden
+  lata: '358'
+  ilec_name: INDIANA BELL TEL CO INC
+  lat:
+  long:
+- country: US
+  region: IN
+  exchange: '059340'
+  name: NO JUDSON
+  full_name: North Judson
+  lata: '332'
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
+  lat: '41.22471'
+  long: "-86.774221"
+  closest_city:
+    name: North Judson
+    distance_km: 0.98
+- country: US
+  region: IN
+  exchange: '059350'
+  name: NO LIBERTY
+  full_name: North Liberty
+  lata: '332'
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
+  lat: '41.543239'
+  long: "-86.424014"
+  closest_city:
+    name: North Liberty
+    distance_km: 1.25
+- country: US
+  region: IN
+  exchange: '317507'
+  name: NO MADISON
+  full_name: North Madison
+  lata: '338'
+  ilec_name: FRONTIER NORTH, INC. - IN
+  lat:
+  long:
+- country: US
+  region: IN
+  exchange: '059370'
+  name: NO VERNON
+  full_name: North Vernon
+  lata: '338'
+  ilec_name: FRONTIER NORTH, INC. - IN
+  lat: '39.008576'
+  long: "-85.625413"
+  closest_city:
+    name: North Vernon
+    distance_km: 1.09
+- country: US
+  region: IN
+  exchange: '059380'
+  name: NO WEBSTER
+  full_name: North Webster
+  lata: '332'
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
+  lat: '41.322341'
+  long: "-85.707318"
+  closest_city:
+    name: North Webster
+    distance_km: 0.81
 - country: US
   region: IN
   exchange: '059330'
@@ -8325,6 +8382,18 @@ rate_centers:
   closest_city:
     name: Noblesville
     distance_km: 0.85
+- country: US
+  region: IN
+  exchange: '059360'
+  name: NOMANCHETR
+  full_name: North Manchester
+  lata: '334'
+  ilec_name: FRONTIER NORTH, INC.. - IN
+  lat: '40.998421'
+  long: "-85.766646"
+  closest_city:
+    name: North Manchester
+    distance_km: 0.97
 - country: US
   region: IN
   exchange: '317255'
@@ -8354,69 +8423,6 @@ rate_centers:
   long:
 - country: US
   region: IN
-  exchange: '317234'
-  name: N CROWS NS
-  full_name: North Crows Nest
-  lata: '336'
-  ilec_name: INDIANA BELL TEL CO INC
-  lat:
-  long:
-- country: US
-  region: IN
-  exchange: '320661'
-  name: NO HAYDEN
-  full_name: North Hayden
-  lata: '358'
-  ilec_name: INDIANA BELL TEL CO INC
-  lat:
-  long:
-- country: US
-  region: IN
-  exchange: '059340'
-  name: NO JUDSON
-  full_name: North Judson
-  lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
-  lat: '41.22471'
-  long: "-86.774221"
-  closest_city:
-    name: North Judson
-    distance_km: 0.98
-- country: US
-  region: IN
-  exchange: '059350'
-  name: NO LIBERTY
-  full_name: North Liberty
-  lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
-  lat: '41.543239'
-  long: "-86.424014"
-  closest_city:
-    name: North Liberty
-    distance_km: 1.25
-- country: US
-  region: IN
-  exchange: '317507'
-  name: NO MADISON
-  full_name: North Madison
-  lata: '338'
-  ilec_name: FRONTIER NORTH, INC. - IN
-  lat:
-  long:
-- country: US
-  region: IN
-  exchange: '059360'
-  name: NOMANCHETR
-  full_name: North Manchester
-  lata: '334'
-  ilec_name: FRONTIER NORTH, INC.. - IN
-  lat: '40.998421'
-  long: "-85.766646"
-  closest_city:
-    name: North Manchester
-    distance_km: 0.97
-- country: US
-  region: IN
   exchange: '316958'
   name: NORTH OAKS
   full_name: North Oaks
@@ -8430,7 +8436,16 @@ rate_centers:
   name: NORTHSALEM
   full_name: North Salem
   lata: '336'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
+  lat:
+  long:
+- country: US
+  region: IN
+  exchange: '316826'
+  name: NOTRE DAME
+  full_name: Notre Dame
+  lata: '332'
+  ilec_name: INDIANA BELL TEL CO INC
   lat:
   long:
 - country: US
@@ -8444,42 +8459,27 @@ rate_centers:
   long:
 - country: US
   region: IN
-  exchange: '059370'
-  name: NO VERNON
-  full_name: North Vernon
-  lata: '338'
-  ilec_name: FRONTIER NORTH, INC. - IN
-  lat: '39.008576'
-  long: "-85.625413"
-  closest_city:
-    name: North Vernon
-    distance_km: 1.09
-- country: US
-  region: IN
-  exchange: '059380'
-  name: NO WEBSTER
-  full_name: North Webster
-  lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
-  lat: '41.322341'
-  long: "-85.707318"
-  closest_city:
-    name: North Webster
-    distance_km: 0.81
-- country: US
-  region: IN
-  exchange: '316826'
-  name: NOTRE DAME
-  full_name: Notre Dame
-  lata: '332'
+  exchange: '317258'
+  name: NUMA
+  full_name: Numa
+  lata: '336'
   ilec_name: INDIANA BELL TEL CO INC
   lat:
   long:
 - country: US
   region: IN
-  exchange: '317258'
-  name: NUMA
-  full_name: Numa
+  exchange: '317259'
+  name: NWBURLNGTN
+  full_name: New Burlington
+  lata: '336'
+  ilec_name: INDIANA BELL TEL CO INC
+  lat:
+  long:
+- country: US
+  region: IN
+  exchange: '317260'
+  name: NWLANCASTR
+  full_name: New Lancaster
   lata: '336'
   ilec_name: INDIANA BELL TEL CO INC
   lat:
@@ -8562,7 +8562,7 @@ rate_centers:
   name: OBER
   full_name: Ober
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -8580,7 +8580,7 @@ rate_centers:
   name: ODON
   full_name: Odon
   lata: '338'
-  ilec_name: BRIGHTSPEED OF SOUTHERN INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF SOUTHERN INDIANA, LLC                      '
   lat: '38.842188'
   long: "-86.991001"
   closest_city:
@@ -8646,7 +8646,7 @@ rate_centers:
   name: ORA
   full_name: Ora
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -8697,7 +8697,7 @@ rate_centers:
   name: ORMAS
   full_name: Ormas
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -8904,7 +8904,7 @@ rate_centers:
   name: PARR
   full_name: Parr
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -8937,7 +8937,7 @@ rate_centers:
   name: PATRIOT
   full_name: Patriot
   lata: '922'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '38.843723'
   long: "-84.831957"
   closest_city:
@@ -9018,7 +9018,7 @@ rate_centers:
   name: PENNVILLE
   full_name: Pennville
   lata: '334'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '40.492565'
   long: "-85.143242"
   closest_city:
@@ -9105,7 +9105,7 @@ rate_centers:
   name: PETERSON
   full_name: Peterson
   lata: '334'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -9114,7 +9114,7 @@ rate_centers:
   name: PETROLEUM
   full_name: Petroleum
   lata: '334'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '40.61653'
   long: "-85.147785"
   closest_city:
@@ -9126,7 +9126,7 @@ rate_centers:
   name: PIERCETON
   full_name: Pierceton
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '41.200613'
   long: "-85.707192"
   closest_city:
@@ -9231,7 +9231,7 @@ rate_centers:
   name: PLEASANTML
   full_name: Pleasant Mills
   lata: '334'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '40.775176'
   long: "-84.84089"
   closest_city:
@@ -9252,7 +9252,7 @@ rate_centers:
   name: PLYMOUTH
   full_name: Plymouth
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '41.341735'
   long: "-86.306904"
   closest_city:
@@ -9339,7 +9339,7 @@ rate_centers:
   name: PORTLAND
   full_name: Portland
   lata: '334'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '40.440354'
   long: "-84.97446"
   closest_city:
@@ -9393,7 +9393,7 @@ rate_centers:
   name: PREBLE
   full_name: Preble
   lata: '334'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '40.834997'
   long: "-85.039644"
   closest_city:
@@ -9435,7 +9435,7 @@ rate_centers:
   name: PROVIDENCE
   full_name: Providence
   lata: '336'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -9627,7 +9627,7 @@ rate_centers:
   name: REMINGTON
   full_name: Remington
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '40.757207'
   long: "-87.157036"
   closest_city:
@@ -9648,7 +9648,7 @@ rate_centers:
   name: RENSSELAER
   full_name: Rensselaer
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '40.940888'
   long: "-87.157262"
   closest_city:
@@ -9672,7 +9672,7 @@ rate_centers:
   name: REYNOLDS
   full_name: Reynolds
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '40.709298'
   long: "-86.875158"
   closest_city:
@@ -9747,7 +9747,7 @@ rate_centers:
   name: RISING SUN
   full_name: Rising Sun
   lata: '922'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '38.949962'
   long: "-84.856061"
   closest_city:
@@ -9780,7 +9780,7 @@ rate_centers:
   name: ROANN
   full_name: Roann
   lata: '336'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '40.906767'
   long: "-85.924492"
   closest_city:
@@ -9915,7 +9915,7 @@ rate_centers:
   name: ROME CITY
   full_name: Rome City
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -9987,7 +9987,7 @@ rate_centers:
   name: ROSSVILLE
   full_name: Rossville
   lata: '336'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '40.417113'
   long: "-86.589825"
   closest_city:
@@ -10040,42 +10040,6 @@ rate_centers:
     distance_km: 1.02
 - country: US
   region: IN
-  exchange: '317326'
-  name: ST BERNICE
-  full_name: Saint Bernice
-  lata: '336'
-  ilec_name: INDIANA BELL TEL CO INC
-  lat:
-  long:
-- country: US
-  region: IN
-  exchange: '316677'
-  name: ST CROIX
-  full_name: Saint Croix
-  lata: '330'
-  ilec_name: PERRY - SPENCER RURAL TELEPHONE COOP., INC.
-  lat:
-  long:
-- country: US
-  region: IN
-  exchange: '361543'
-  name: ST MARY WD
-  full_name: Saint Mary Of The Woods
-  lata: '938'
-  ilec_name: FRONTIER NORTH, INC.. - IN
-  lat:
-  long:
-- country: US
-  region: IN
-  exchange: '316855'
-  name: ST MARYS
-  full_name: Saint Marys
-  lata: '332'
-  ilec_name: INDIANA BELL TEL CO INC
-  lat:
-  long:
-- country: US
-  region: IN
   exchange: '317531'
   name: SAINT PAUL
   full_name: Saint Paul
@@ -10089,7 +10053,7 @@ rate_centers:
   name: SALAMONIA
   full_name: Salamonia
   lata: '334'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '40.383902'
   long: "-84.857428"
   closest_city:
@@ -10136,23 +10100,11 @@ rate_centers:
   long:
 - country: US
   region: IN
-  exchange: '060090'
-  name: SANJACINTO
-  full_name: San Jacinto
-  lata: '338'
-  ilec_name: SOUTHEASTERN INDIANA RURAL TEL. COOP., INC.
-  lat: '38.915357'
-  long: "-85.557191"
-  closest_city:
-    name: Dupont
-    distance_km: 4.39
-- country: US
-  region: IN
   exchange: '060100'
   name: SAN PIERRE
   full_name: San Pierre
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '41.19874'
   long: "-86.889933"
   closest_city:
@@ -10200,6 +10152,18 @@ rate_centers:
   closest_city:
     name: Reo
     distance_km: 4.43
+- country: US
+  region: IN
+  exchange: '060090'
+  name: SANJACINTO
+  full_name: San Jacinto
+  lata: '338'
+  ilec_name: SOUTHEASTERN INDIANA RURAL TEL. COOP., INC.
+  lat: '38.915357'
+  long: "-85.557191"
+  closest_city:
+    name: Dupont
+    distance_km: 4.39
 - country: US
   region: IN
   exchange: '060130'
@@ -10383,7 +10347,7 @@ rate_centers:
   name: SHADY NOOK
   full_name: Shady Nook
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -10467,7 +10431,7 @@ rate_centers:
   name: SHIPSHEWNA
   full_name: Shipshewana
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '41.674605'
   long: "-85.576565"
   closest_city:
@@ -10589,6 +10553,30 @@ rate_centers:
     distance_km: 1.66
 - country: US
   region: IN
+  exchange: '060300'
+  name: SO MILFORD
+  full_name: South Milford
+  lata: '332'
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
+  lat: '41.582802'
+  long: "-85.273063"
+  closest_city:
+    name: South Milford
+    distance_km: 5.58
+- country: US
+  region: IN
+  exchange: '060310'
+  name: SO WHITLEY
+  full_name: South Whitley
+  lata: '332'
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
+  lat: '41.093058'
+  long: "-85.640787"
+  closest_city:
+    name: South Whitley
+    distance_km: 1.48
+- country: US
+  region: IN
   exchange: '060280'
   name: SOLITUDE
   full_name: Solitude
@@ -10614,7 +10602,7 @@ rate_centers:
   name: SOMERSET
   full_name: Somerset
   lata: '336'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -10640,18 +10628,6 @@ rate_centers:
     distance_km: 1.71
 - country: US
   region: IN
-  exchange: '060300'
-  name: SO MILFORD
-  full_name: South Milford
-  lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
-  lat: '41.582802'
-  long: "-85.273063"
-  closest_city:
-    name: South Milford
-    distance_km: 5.58
-- country: US
-  region: IN
   exchange: '317320'
   name: SOUTH RAUB
   full_name: South Raub
@@ -10659,18 +10635,6 @@ rate_centers:
   ilec_name: TRI-COUNTY TEL. CO., INC.
   lat:
   long:
-- country: US
-  region: IN
-  exchange: '060310'
-  name: SO WHITLEY
-  full_name: South Whitley
-  lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
-  lat: '41.093058'
-  long: "-85.640787"
-  closest_city:
-    name: South Whitley
-    distance_km: 1.48
 - country: US
   region: IN
   exchange: '317321'
@@ -10781,18 +10745,18 @@ rate_centers:
     distance_km: 1.44
 - country: US
   region: IN
-  exchange: '361474'
-  name: SPRING GRV
-  full_name: Spring Grove
+  exchange: '361473'
+  name: SPRGGRVHTS
+  full_name: Spring Grove Heights
   lata: '937'
   ilec_name: FRONTIER NORTH, INC.. - IN
   lat:
   long:
 - country: US
   region: IN
-  exchange: '361473'
-  name: SPRGGRVHTS
-  full_name: Spring Grove Heights
+  exchange: '361474'
+  name: SPRING GRV
+  full_name: Spring Grove
   lata: '937'
   ilec_name: FRONTIER NORTH, INC.. - IN
   lat:
@@ -10862,6 +10826,24 @@ rate_centers:
     distance_km: 0.59
 - country: US
   region: IN
+  exchange: '317326'
+  name: ST BERNICE
+  full_name: Saint Bernice
+  lata: '336'
+  ilec_name: INDIANA BELL TEL CO INC
+  lat:
+  long:
+- country: US
+  region: IN
+  exchange: '316677'
+  name: ST CROIX
+  full_name: Saint Croix
+  lata: '330'
+  ilec_name: PERRY - SPENCER RURAL TELEPHONE COOP., INC.
+  lat:
+  long:
+- country: US
+  region: IN
   exchange: '060380'
   name: ST JOE
   full_name: St Joe
@@ -10920,6 +10902,24 @@ rate_centers:
   closest_city:
     name: Troy
     distance_km: 9.62
+- country: US
+  region: IN
+  exchange: '361543'
+  name: ST MARY WD
+  full_name: Saint Mary Of The Woods
+  lata: '938'
+  ilec_name: FRONTIER NORTH, INC.. - IN
+  lat:
+  long:
+- country: US
+  region: IN
+  exchange: '316855'
+  name: ST MARYS
+  full_name: Saint Marys
+  lata: '332'
+  ilec_name: INDIANA BELL TEL CO INC
+  lat:
+  long:
 - country: US
   region: IN
   exchange: '060430'
@@ -11094,7 +11094,7 @@ rate_centers:
   name: STROH
   full_name: Stroh
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -11166,7 +11166,7 @@ rate_centers:
   name: SWAN
   full_name: Swan
   lata: '334'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -11226,7 +11226,7 @@ rate_centers:
   name: SYRACUSE
   full_name: Syracuse
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '41.427152'
   long: "-85.755038"
   closest_city:
@@ -11301,7 +11301,7 @@ rate_centers:
   name: TEEGARDEN
   full_name: Teegarden
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -11310,7 +11310,7 @@ rate_centers:
   name: TEFFT
   full_name: Tefft
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -11352,7 +11352,7 @@ rate_centers:
   name: TERRECOUPE
   full_name: Terre Coupee
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -11403,7 +11403,7 @@ rate_centers:
   name: TIMBERHRST
   full_name: Timberhurst
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -11445,21 +11445,12 @@ rate_centers:
   name: TOCSIN
   full_name: Tocsin
   lata: '334'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '40.834997'
   long: "-85.039644"
   closest_city:
     name: Preble
     distance_km: 2.12
-- country: US
-  region: IN
-  exchange: '316987'
-  name: TOOLGTHTS
-  full_name: Toll Gate Heights
-  lata: '334'
-  ilec_name: INDIANA BELL TEL CO INC
-  lat:
-  long:
 - country: US
   region: IN
   exchange: '320673'
@@ -11471,11 +11462,20 @@ rate_centers:
   long:
 - country: US
   region: IN
+  exchange: '316987'
+  name: TOOLGTHTS
+  full_name: Toll Gate Heights
+  lata: '334'
+  ilec_name: INDIANA BELL TEL CO INC
+  lat:
+  long:
+- country: US
+  region: IN
   exchange: '060610'
   name: TOPEKA
   full_name: Topeka
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '41.543377'
   long: "-85.541816"
   closest_city:
@@ -11496,7 +11496,7 @@ rate_centers:
   name: TRAFALGAR
   full_name: Trafalgar
   lata: '336'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '39.42629'
   long: "-86.152181"
   closest_city:
@@ -11535,7 +11535,7 @@ rate_centers:
   name: TRI LAKES
   full_name: Tri Lakes
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '41.24049'
   long: "-85.439969"
   closest_city:
@@ -11604,7 +11604,7 @@ rate_centers:
   name: TWELVEMILE
   full_name: Twelve Mile
   lata: '336'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '40.858457'
   long: "-86.222996"
   closest_city:
@@ -11616,7 +11616,7 @@ rate_centers:
   name: TYNER
   full_name: Tyner
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -11652,24 +11652,12 @@ rate_centers:
   name: UNION CITY
   full_name: Union City
   lata: '937'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '40.208549'
   long: "-84.808873"
   closest_city:
     name: Union City
     distance_km: 1.42
-- country: US
-  region: IN
-  exchange: '060670'
-  name: UNIONMILLS
-  full_name: Union Mills
-  lata: '332'
-  ilec_name: FRONTIER NORTH, INC.. - IN
-  lat: '41.492965'
-  long: "-86.774399"
-  closest_city:
-    name: Union Mills
-    distance_km: 0.26
 - country: US
   region: IN
   exchange: '060680'
@@ -11682,6 +11670,18 @@ rate_centers:
   closest_city:
     name: Uniondale
     distance_km: 0.38
+- country: US
+  region: IN
+  exchange: '060670'
+  name: UNIONMILLS
+  full_name: Union Mills
+  lata: '332'
+  ilec_name: FRONTIER NORTH, INC.. - IN
+  lat: '41.492965'
+  long: "-86.774399"
+  closest_city:
+    name: Union Mills
+    distance_km: 0.26
 - country: US
   region: IN
   exchange: '317563'
@@ -11727,7 +11727,7 @@ rate_centers:
   name: URBANA
   full_name: Urbana
   lata: '334'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '40.891927'
   long: "-85.789761"
   closest_city:
@@ -11787,7 +11787,7 @@ rate_centers:
   name: VAN BUREN
   full_name: Van Buren
   lata: '336'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '40.617848'
   long: "-85.507138"
   closest_city:
@@ -11799,7 +11799,7 @@ rate_centers:
   name: VAWTERPARK
   full_name: Vawter Park
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -11850,7 +11850,7 @@ rate_centers:
   name: VEVAY
   full_name: Vevay
   lata: '922'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '38.752311'
   long: "-85.067299"
   closest_city:
@@ -11888,6 +11888,48 @@ rate_centers:
   long:
 - country: US
   region: IN
+  exchange: '317572'
+  name: W BADEN SP
+  full_name: West Baden Springs
+  lata: '338'
+  ilec_name: SMITHVILLE COMM., INC DBA SMITHVILLE TELEPHONE CO.
+  lat:
+  long:
+- country: US
+  region: IN
+  exchange: '060920'
+  name: W HARRISON
+  full_name: West Harrison
+  lata: '922'
+  ilec_name: CINCINNATI BELL
+  lat: '39.255673'
+  long: "-84.815621"
+  closest_city:
+    name: West Harrison
+    distance_km: 0.65
+- country: US
+  region: IN
+  exchange: '060930'
+  name: W LEBANON
+  full_name: West Lebanon
+  lata: '336'
+  ilec_name: INDIANA BELL TEL CO INC
+  lat: '40.27718'
+  long: "-87.392116"
+  closest_city:
+    name: West Lebanon
+    distance_km: 0.73
+- country: US
+  region: IN
+  exchange: '317573'
+  name: W PETERSBG
+  full_name: West Petersburg
+  lata: '338'
+  ilec_name: FRONTIER NORTH, INC. - IN
+  lat:
+  long:
+- country: US
+  region: IN
   exchange: '060770'
   name: WABASH
   full_name: Wabash
@@ -11904,7 +11946,7 @@ rate_centers:
   name: WADENA
   full_name: Wadena
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -11949,7 +11991,7 @@ rate_centers:
   name: WALKERTON
   full_name: Walkerton
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '41.474527'
   long: "-86.474377"
   closest_city:
@@ -12024,7 +12066,7 @@ rate_centers:
   name: WARSAW
   full_name: Warsaw
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '41.242429'
   long: "-85.843529"
   closest_city:
@@ -12044,20 +12086,20 @@ rate_centers:
     distance_km: 1.54
 - country: US
   region: IN
-  exchange: '316882'
-  name: WATERFORD
-  full_name: Waterford
-  lata: '332'
-  ilec_name: INDIANA BELL TEL CO INC
-  lat:
-  long:
-- country: US
-  region: IN
   exchange: '316881'
   name: WATERFD ML
   full_name: Waterford Mills
   lata: '332'
   ilec_name: FRONTIER NORTH, INC.. - IN
+  lat:
+  long:
+- country: US
+  region: IN
+  exchange: '316882'
+  name: WATERFORD
+  full_name: Waterford
+  lata: '332'
+  ilec_name: INDIANA BELL TEL CO INC
   lat:
   long:
 - country: US
@@ -12129,7 +12171,7 @@ rate_centers:
   name: WAWASEE
   full_name: Wawasee
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -12153,6 +12195,18 @@ rate_centers:
   closest_city:
     name: Waynetown
     distance_km: 0.78
+- country: US
+  region: IN
+  exchange: '060910'
+  name: WCOLLGECOR
+  full_name: West College Corner
+  lata: '937'
+  ilec_name: FRONTIER NORTH, INC.. - IN
+  lat: '39.565314'
+  long: "-84.819554"
+  closest_city:
+    name: West College Corner
+    distance_km: 0.46
 - country: US
   region: IN
   exchange: '361478'
@@ -12182,90 +12236,6 @@ rate_centers:
   long:
 - country: US
   region: IN
-  exchange: '317572'
-  name: W BADEN SP
-  full_name: West Baden Springs
-  lata: '338'
-  ilec_name: SMITHVILLE COMM., INC DBA SMITHVILLE TELEPHONE CO.
-  lat:
-  long:
-- country: US
-  region: IN
-  exchange: '060910'
-  name: WCOLLGECOR
-  full_name: West College Corner
-  lata: '937'
-  ilec_name: FRONTIER NORTH, INC.. - IN
-  lat: '39.565314'
-  long: "-84.819554"
-  closest_city:
-    name: West College Corner
-    distance_km: 0.46
-- country: US
-  region: IN
-  exchange: '060920'
-  name: W HARRISON
-  full_name: West Harrison
-  lata: '922'
-  ilec_name: CINCINNATI BELL
-  lat: '39.255673'
-  long: "-84.815621"
-  closest_city:
-    name: West Harrison
-    distance_km: 0.65
-- country: US
-  region: IN
-  exchange: '317375'
-  name: WLAFAYETTE
-  full_name: West Lafayette
-  lata: '336'
-  ilec_name: FRONTIER NORTH, INC.. - IN
-  lat:
-  long:
-- country: US
-  region: IN
-  exchange: '060930'
-  name: W LEBANON
-  full_name: West Lebanon
-  lata: '336'
-  ilec_name: INDIANA BELL TEL CO INC
-  lat: '40.27718'
-  long: "-87.392116"
-  closest_city:
-    name: West Lebanon
-    distance_km: 0.73
-- country: US
-  region: IN
-  exchange: '317376'
-  name: WMIDDLETON
-  full_name: West Middleton
-  lata: '336'
-  ilec_name: INDIANA BELL TEL CO INC
-  lat:
-  long:
-- country: US
-  region: IN
-  exchange: '060940'
-  name: WESTNEWTON
-  full_name: West Newton
-  lata: '336'
-  ilec_name: INDIANA BELL TEL CO INC
-  lat: '39.656938'
-  long: "-86.272838"
-  closest_city:
-    name: Plainfield
-    distance_km: 9.47
-- country: US
-  region: IN
-  exchange: '317573'
-  name: W PETERSBG
-  full_name: West Petersburg
-  lata: '338'
-  ilec_name: FRONTIER NORTH, INC. - IN
-  lat:
-  long:
-- country: US
-  region: IN
   exchange: '060950'
   name: WEST POINT
   full_name: West Point
@@ -12278,15 +12248,6 @@ rate_centers:
     distance_km: 0.69
 - country: US
   region: IN
-  exchange: '361549'
-  name: WTRREHAUTE
-  full_name: West Terre Haute
-  lata: '938'
-  ilec_name: FRONTIER NORTH, INC.. - IN
-  lat:
-  long:
-- country: US
-  region: IN
   exchange: '317363'
   name: WEST UNION
   full_name: West Union
@@ -12294,18 +12255,6 @@ rate_centers:
   ilec_name: INDIANA BELL TEL CO INC
   lat:
   long:
-- country: US
-  region: IN
-  exchange: '060960'
-  name: WESTWABASH
-  full_name: West Wabash
-  lata: '326'
-  ilec_name: WABASH MUTUAL TEL. CO.
-  lat: '40.540989'
-  long: '84.815733'
-  closest_city:
-    name: Clear Lake
-    distance_km: 10806.76
 - country: US
   region: IN
   exchange: '060970'
@@ -12318,6 +12267,18 @@ rate_centers:
   closest_city:
     name: Westfield
     distance_km: 2.45
+- country: US
+  region: IN
+  exchange: '060940'
+  name: WESTNEWTON
+  full_name: West Newton
+  lata: '336'
+  ilec_name: INDIANA BELL TEL CO INC
+  lat: '39.656938'
+  long: "-86.272838"
+  closest_city:
+    name: Plainfield
+    distance_km: 9.47
 - country: US
   region: IN
   exchange: '317576'
@@ -12353,11 +12314,23 @@ rate_centers:
     distance_km: 1.12
 - country: US
   region: IN
+  exchange: '060960'
+  name: WESTWABASH
+  full_name: West Wabash
+  lata: '326'
+  ilec_name: WABASH MUTUAL TEL. CO.
+  lat: '40.540989'
+  long: '84.815733'
+  closest_city:
+    name: Clear Lake
+    distance_km: 10806.76
+- country: US
+  region: IN
   exchange: '061000'
   name: WHEATFIELD
   full_name: Wheatfield
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '41.194544'
   long: "-87.059017"
   closest_city:
@@ -12411,7 +12384,7 @@ rate_centers:
   name: WHITELAND
   full_name: Whiteland
   lata: '336'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '39.555909'
   long: "-86.073365"
   closest_city:
@@ -12477,7 +12450,7 @@ rate_centers:
   name: WILKINSON
   full_name: Wilkinson
   lata: '336'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '39.889045'
   long: "-85.60834"
   closest_city:
@@ -12494,20 +12467,20 @@ rate_centers:
   long:
 - country: US
   region: IN
-  exchange: '317370'
-  name: WILLIAMSCK
-  full_name: Williams Creek
-  lata: '336'
-  ilec_name: INDIANA BELL TEL CO INC
-  lat:
-  long:
-- country: US
-  region: IN
   exchange: '361480'
   name: WILLIAMSBG
   full_name: Williamsburg
   lata: '937'
   ilec_name: FRONTIER NORTH, INC.. - IN
+  lat:
+  long:
+- country: US
+  region: IN
+  exchange: '317370'
+  name: WILLIAMSCK
+  full_name: Williams Creek
+  lata: '336'
+  ilec_name: INDIANA BELL TEL CO INC
   lat:
   long:
 - country: US
@@ -12530,20 +12503,20 @@ rate_centers:
   long:
 - country: US
   region: IN
-  exchange: '317372'
-  name: WILLOWBRCH
-  full_name: Willow Branch
-  lata: '336'
-  ilec_name: HANCOCK RURAL TELEPHONE CORP. DBA NINESTAR CONNECT
-  lat:
-  long:
-- country: US
-  region: IN
   exchange: '316888'
   name: WILLOW CRK
   full_name: Willow Creek
   lata: '332'
   ilec_name: FRONTIER NORTH, INC.. - IN
+  lat:
+  long:
+- country: US
+  region: IN
+  exchange: '317372'
+  name: WILLOWBRCH
+  full_name: Willow Branch
+  lata: '336'
+  ilec_name: HANCOCK RURAL TELEPHONE CORP. DBA NINESTAR CONNECT
   lat:
   long:
 - country: US
@@ -12561,7 +12534,7 @@ rate_centers:
   name: WINAMAC
   full_name: Winamac
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '41.057021'
   long: "-86.597668"
   closest_city:
@@ -12618,7 +12591,7 @@ rate_centers:
   name: WINONALAKE
   full_name: Winona Lake
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -12632,11 +12605,29 @@ rate_centers:
   long:
 - country: US
   region: IN
+  exchange: '317375'
+  name: WLAFAYETTE
+  full_name: West Lafayette
+  lata: '336'
+  ilec_name: FRONTIER NORTH, INC.. - IN
+  lat:
+  long:
+- country: US
+  region: IN
+  exchange: '317376'
+  name: WMIDDLETON
+  full_name: West Middleton
+  lata: '336'
+  ilec_name: INDIANA BELL TEL CO INC
+  lat:
+  long:
+- country: US
+  region: IN
   exchange: '061120'
   name: WOLCOTT
   full_name: Wolcott
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '40.756615'
   long: "-87.040709"
   closest_city:
@@ -12648,7 +12639,7 @@ rate_centers:
   name: WOLCOTTVL
   full_name: Wolcottville
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat: '41.524745'
   long: "-85.373249"
   closest_city:
@@ -12669,7 +12660,7 @@ rate_centers:
   name: WOLFLAKE
   full_name: Wolflake
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -12699,7 +12690,7 @@ rate_centers:
   name: WOODLANDPK
   full_name: Woodland Park
   lata: '332'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US
@@ -12732,6 +12723,15 @@ rate_centers:
   closest_city:
     name: Worthington
     distance_km: 0.73
+- country: US
+  region: IN
+  exchange: '361549'
+  name: WTRREHAUTE
+  full_name: West Terre Haute
+  lata: '938'
+  ilec_name: FRONTIER NORTH, INC.. - IN
+  lat:
+  long:
 - country: US
   region: IN
   exchange: '061160'
@@ -12773,15 +12773,6 @@ rate_centers:
   long:
 - country: US
   region: IN
-  exchange: '316899'
-  name: YLLOWCRKLK
-  full_name: Yellow Creek Lake
-  lata: '332'
-  ilec_name: FRONTIER NORTH, INC.. - IN
-  lat:
-  long:
-- country: US
-  region: IN
   exchange: '061170'
   name: YEOMAN
   full_name: Yeoman
@@ -12792,6 +12783,15 @@ rate_centers:
   closest_city:
     name: Yeoman
     distance_km: 1.09
+- country: US
+  region: IN
+  exchange: '316899'
+  name: YLLOWCRKLK
+  full_name: Yellow Creek Lake
+  lata: '332'
+  ilec_name: FRONTIER NORTH, INC.. - IN
+  lat:
+  long:
 - country: US
   region: IN
   exchange: '316998'
@@ -12819,7 +12819,7 @@ rate_centers:
   name: YORKVILLE
   full_name: Yorkville
   lata: '922'
-  ilec_name: BRIGHTSPEED OF INDIANA, LLC
+  ilec_name: 'BRIGHTSPEED OF INDIANA, LLC                               '
   lat:
   long:
 - country: US

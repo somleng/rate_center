@@ -1004,18 +1004,6 @@ rate_centers:
     distance_km: 1.25
 - country: US
   region: OK
-  exchange: '146990'
-  name: BROKENARRW
-  full_name: Broken Arrow
-  lata: '538'
-  ilec_name: VALOR TELECOM TX.LP-OK DBA WINDSTREAM COMM SW
-  lat: '36.050241'
-  long: "-95.790388"
-  closest_city:
-    name: Broken Arrow
-    distance_km: 1.62
-- country: US
-  region: OK
   exchange: '147000'
   name: BROKEN BOW
   full_name: Broken Bow
@@ -1026,6 +1014,18 @@ rate_centers:
   closest_city:
     name: Broken Bow
     distance_km: 0.4
+- country: US
+  region: OK
+  exchange: '146990'
+  name: BROKENARRW
+  full_name: Broken Arrow
+  lata: '538'
+  ilec_name: VALOR TELECOM TX.LP-OK DBA WINDSTREAM COMM SW
+  lat: '36.050241'
+  long: "-95.790388"
+  closest_city:
+    name: Broken Arrow
+    distance_km: 1.62
 - country: US
   region: OK
   exchange: '147010'
@@ -1442,18 +1442,6 @@ rate_centers:
     distance_km: 2.33
 - country: US
   region: OK
-  exchange: '147310'
-  name: CEDARCREST
-  full_name: Cedar Crest
-  lata: '538'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF OKLAHOMA COMPANY
-  lat: '36.106208'
-  long: "-95.208328"
-  closest_city:
-    name: Cedar Crest
-    distance_km: 3.68
-- country: US
-  region: OK
   exchange: '147320'
   name: CEDAR LAKE
   full_name: Cedar Lake
@@ -1464,6 +1452,18 @@ rate_centers:
   closest_city:
     name: Cedar Lake
     distance_km: 2.06
+- country: US
+  region: OK
+  exchange: '147310'
+  name: CEDARCREST
+  full_name: Cedar Crest
+  lata: '538'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF OKLAHOMA COMPANY
+  lat: '36.106208'
+  long: "-95.208328"
+  closest_city:
+    name: Cedar Crest
+    distance_km: 3.68
 - country: US
   region: OK
   exchange: '148230'
@@ -1827,7 +1827,7 @@ rate_centers:
   name: COLCORD
   full_name: Colcord
   lata: '526'
-  ilec_name: BRIGHTSPEED OF NORTHWEST ARKANSAS, LLC
+  ilec_name: 'BRIGHTSPEED OF NORTHWEST ARKANSAS, LLC                    '
   lat: '36.257198'
   long: "-94.703167"
   closest_city:
@@ -3023,10 +3023,10 @@ rate_centers:
     distance_km: 0.89
 - country: US
   region: OK
-  exchange: '334390'
-  name: FT COFFEE
-  full_name: Fort Coffee
-  lata: '538'
+  exchange: '333971'
+  name: FORT SILL
+  full_name: Fort Sill
+  lata: '536'
   ilec_name: SOUTHWESTERN BELL
   lat:
   long:
@@ -3042,15 +3042,6 @@ rate_centers:
   closest_city:
     name: Fort Gibson
     distance_km: 2.65
-- country: US
-  region: OK
-  exchange: '333971'
-  name: FORT SILL
-  full_name: Fort Sill
-  lata: '536'
-  ilec_name: SOUTHWESTERN BELL
-  lat:
-  long:
 - country: US
   region: OK
   exchange: '148240'
@@ -3147,6 +3138,15 @@ rate_centers:
   closest_city:
     name: Freedom
     distance_km: 0.58
+- country: US
+  region: OK
+  exchange: '334390'
+  name: FT COFFEE
+  full_name: Fort Coffee
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
 - country: US
   region: OK
   exchange: '148290'
@@ -4559,15 +4559,6 @@ rate_centers:
     distance_km: 0.46
 - country: US
   region: OK
-  exchange: '334440'
-  name: LWRNCE CRK
-  full_name: Lawrence Creek
-  lata: '538'
-  ilec_name: CIMARRON TEL. CO.
-  lat:
-  long:
-- country: US
-  region: OK
   exchange: '149090'
   name: LAWTON
   full_name: Lawton
@@ -4854,6 +4845,15 @@ rate_centers:
   closest_city:
     name: Luther
     distance_km: 0.51
+- country: US
+  region: OK
+  exchange: '334440'
+  name: LWRNCE CRK
+  full_name: Lawrence Creek
+  lata: '538'
+  ilec_name: CIMARRON TEL. CO.
+  lat:
+  long:
 - country: US
   region: OK
   exchange: '334080'
@@ -5414,20 +5414,29 @@ rate_centers:
     distance_km: 0.57
 - country: US
   region: OK
-  exchange: '334116'
-  name: MT FORK
-  full_name: Mountain Fork
-  lata: '536'
-  ilec_name: PINE TEL. CO.
-  lat:
-  long:
-- country: US
-  region: OK
   exchange: '334114'
   name: MOUNTAINPK
   full_name: Mountain Park
   lata: '536'
   ilec_name: WINDSTREAM OKLAHOMA, INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334115'
+  name: MOYERS
+  full_name: Moyers
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334116'
+  name: MT FORK
+  full_name: Mountain Fork
+  lata: '536'
+  ilec_name: PINE TEL. CO.
   lat:
   long:
 - country: US
@@ -5442,15 +5451,6 @@ rate_centers:
   closest_city:
     name: Mountain View
     distance_km: 0.12
-- country: US
-  region: OK
-  exchange: '334115'
-  name: MOYERS
-  full_name: Moyers
-  lata: '536'
-  ilec_name: SOUTHWESTERN BELL
-  lat:
-  long:
 - country: US
   region: OK
   exchange: '149600'
@@ -5663,6 +5663,15 @@ rate_centers:
   long:
 - country: US
   region: OK
+  exchange: '334131'
+  name: NO ENID
+  full_name: North Enid
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
   exchange: '149730'
   name: NOBLE
   full_name: Noble
@@ -5694,15 +5703,6 @@ rate_centers:
   closest_city:
     name: Norman
     distance_km: 9.0
-- country: US
-  region: OK
-  exchange: '334131'
-  name: NO ENID
-  full_name: North Enid
-  lata: '536'
-  ilec_name: SOUTHWESTERN BELL
-  lat:
-  long:
 - country: US
   region: OK
   exchange: '149750'
@@ -6803,18 +6803,6 @@ rate_centers:
     distance_km: 1.87
 - country: US
   region: OK
-  exchange: '150401'
-  name: SALLISAW (DIAMONDNET)
-  full_name: Sallisaw (DiamondNet)
-  lata: '538'
-  ilec_name: VANTAGE TELECOM, LLC DBA NEWROADS TELECOM - OK
-  lat: '35.45481'
-  long: "-94.787873"
-  closest_city:
-    name: Sallisaw
-    distance_km: 1.87
-- country: US
-  region: OK
   exchange: '150410'
   name: SAND SPG
   full_name: Sand Springs
@@ -6837,6 +6825,18 @@ rate_centers:
   closest_city:
     name: Sapulpa
     distance_km: 1.5
+- country: US
+  region: OK
+  exchange: '150610'
+  name: SARKNSASCY
+  full_name: South Arkansas City
+  lata: '532'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.975015'
+  long: "-97.03377"
+  closest_city:
+    name: Newkirk
+    distance_km: 10.55
 - country: US
   region: OK
   exchange: '150430'
@@ -7142,28 +7142,76 @@ rate_centers:
     distance_km: 0.61
 - country: US
   region: OK
-  exchange: '150600'
-  name: SOPER
-  full_name: Soper
-  lata: '536'
-  ilec_name: SOUTHWESTERN BELL
-  lat: '34.033771'
-  long: "-95.696352"
-  closest_city:
-    name: Soper
-    distance_km: 0.19
-- country: US
-  region: OK
-  exchange: '150610'
-  name: SARKNSASCY
-  full_name: South Arkansas City
+  exchange: '150650'
+  name: SO CHETOPA
+  full_name: South Chetopa
   lata: '532'
   ilec_name: SOUTHWESTERN BELL
-  lat: '36.975015'
-  long: "-97.03377"
+  lat: '36.981881'
+  long: "-95.076005"
   closest_city:
-    name: Newkirk
-    distance_km: 10.55
+    name: Welch
+    distance_km: 12.08
+- country: US
+  region: OK
+  exchange: '150670'
+  name: SO COLDWTR
+  full_name: South Coldwater
+  lata: '532'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.983624'
+  long: "-99.31611"
+  closest_city:
+    name: Selman
+    distance_km: 25.46
+- country: US
+  region: OK
+  exchange: '150700'
+  name: SO ELKHART
+  full_name: South Elkhart
+  lata: '532'
+  ilec_name: ELKHART TEL. CO., INC.
+  lat: '36.993684'
+  long: "-101.892321"
+  closest_city:
+    name: Hough
+    distance_km: 31.31
+- country: US
+  region: OK
+  exchange: '150710'
+  name: SO ENGLEWD
+  full_name: South Englewood
+  lata: '532'
+  ilec_name: UNITED TEL. ASSN., INC.
+  lat: '36.990771'
+  long: "-100.003168"
+  closest_city:
+    name: Gate
+    distance_km: 16.14
+- country: US
+  region: OK
+  exchange: '150740'
+  name: SO HEWINS
+  full_name: South Hewins
+  lata: '532'
+  ilec_name: TOTAH COMMUNICATIONS, INC.
+  lat: '36.982042'
+  long: "-96.399316"
+  closest_city:
+    name: Foraker
+    distance_km: 19.39
+- country: US
+  region: OK
+  exchange: '150760'
+  name: SO WALDRON
+  full_name: South Waldron
+  lata: '536'
+  ilec_name: KANOKLA TEL ASSN
+  lat: '36.973782'
+  long: "-98.186455"
+  closest_city:
+    name: Amorita
+    distance_km: 11.01
 - country: US
   region: OK
   exchange: '150620'
@@ -7202,18 +7250,6 @@ rate_centers:
     distance_km: 7.86
 - country: US
   region: OK
-  exchange: '150650'
-  name: SO CHETOPA
-  full_name: South Chetopa
-  lata: '532'
-  ilec_name: SOUTHWESTERN BELL
-  lat: '36.981881'
-  long: "-95.076005"
-  closest_city:
-    name: Welch
-    distance_km: 12.08
-- country: US
-  region: OK
   exchange: '150660'
   name: SOCOFFEYVL
   full_name: South Coffeyville
@@ -7224,66 +7260,6 @@ rate_centers:
   closest_city:
     name: South Coffeyville
     distance_km: 0.29
-- country: US
-  region: OK
-  exchange: '150670'
-  name: SO COLDWTR
-  full_name: South Coldwater
-  lata: '532'
-  ilec_name: SOUTHWESTERN BELL
-  lat: '36.983624'
-  long: "-99.31611"
-  closest_city:
-    name: Selman
-    distance_km: 25.46
-- country: US
-  region: OK
-  exchange: '150680'
-  name: SOUTH EDNA
-  full_name: South Edna
-  lata: '532'
-  ilec_name: CRAW-KAN TEL. COOP.,INC. - KS
-  lat: '36.981703'
-  long: "-95.368809"
-  closest_city:
-    name: South Coffeyville
-    distance_km: 22.51
-- country: US
-  region: OK
-  exchange: '150690'
-  name: SOUTHELGIN
-  full_name: South Elgin
-  lata: '532'
-  ilec_name: TOTAH COMMUNICATIONS, INC.
-  lat: '36.981156'
-  long: "-96.275846"
-  closest_city:
-    name: Whippoorwill
-    distance_km: 15.15
-- country: US
-  region: OK
-  exchange: '150700'
-  name: SO ELKHART
-  full_name: South Elkhart
-  lata: '532'
-  ilec_name: ELKHART TEL. CO., INC.
-  lat: '36.993684'
-  long: "-101.892321"
-  closest_city:
-    name: Hough
-    distance_km: 31.31
-- country: US
-  region: OK
-  exchange: '150710'
-  name: SO ENGLEWD
-  full_name: South Englewood
-  lata: '532'
-  ilec_name: UNITED TEL. ASSN., INC.
-  lat: '36.990771'
-  long: "-100.003168"
-  closest_city:
-    name: Gate
-    distance_km: 16.14
 - country: US
   region: OK
   exchange: '150720'
@@ -7298,6 +7274,51 @@ rate_centers:
     distance_km: 8.84
 - country: US
   region: OK
+  exchange: '150600'
+  name: SOPER
+  full_name: Soper
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '34.033771'
+  long: "-95.696352"
+  closest_city:
+    name: Soper
+    distance_km: 0.19
+- country: US
+  region: OK
+  exchange: '150680'
+  name: SOUTH EDNA
+  full_name: South Edna
+  lata: '532'
+  ilec_name: CRAW-KAN TEL. COOP.,INC. - KS
+  lat: '36.981703'
+  long: "-95.368809"
+  closest_city:
+    name: South Coffeyville
+    distance_km: 22.51
+- country: US
+  region: OK
+  exchange: '334218'
+  name: SOUTHARD
+  full_name: Southard
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '150690'
+  name: SOUTHELGIN
+  full_name: South Elgin
+  lata: '532'
+  ilec_name: TOTAH COMMUNICATIONS, INC.
+  lat: '36.981156'
+  long: "-96.275846"
+  closest_city:
+    name: Whippoorwill
+    distance_km: 15.15
+- country: US
+  region: OK
   exchange: '150730'
   name: SOUTHHAVEN
   full_name: South Haven
@@ -7308,18 +7329,6 @@ rate_centers:
   closest_city:
     name: Braman
     distance_km: 10.36
-- country: US
-  region: OK
-  exchange: '150740'
-  name: SO HEWINS
-  full_name: South Hewins
-  lata: '532'
-  ilec_name: TOTAH COMMUNICATIONS, INC.
-  lat: '36.982042'
-  long: "-96.399316"
-  closest_city:
-    name: Foraker
-    distance_km: 19.39
 - country: US
   region: OK
   exchange: '150750'
@@ -7334,18 +7343,6 @@ rate_centers:
     distance_km: 18.9
 - country: US
   region: OK
-  exchange: '150760'
-  name: SO WALDRON
-  full_name: South Waldron
-  lata: '536'
-  ilec_name: KANOKLA TEL ASSN
-  lat: '36.973782'
-  long: "-98.186455"
-  closest_city:
-    name: Amorita
-    distance_km: 11.01
-- country: US
-  region: OK
   exchange: '150770'
   name: SOWESTCITY
   full_name: South West City
@@ -7356,15 +7353,6 @@ rate_centers:
   closest_city:
     name: Dodge
     distance_km: 7.48
-- country: US
-  region: OK
-  exchange: '334218'
-  name: SOUTHARD
-  full_name: Southard
-  lata: '536'
-  ilec_name: PIONEER TEL. COOP., INC.
-  lat:
-  long:
 - country: US
   region: OK
   exchange: '150780'
@@ -7445,15 +7433,6 @@ rate_centers:
     distance_km: 0.42
 - country: US
   region: OK
-  exchange: '334518'
-  name: SPTSMN AC
-  full_name: Sportsmen Acres
-  lata: '538'
-  ilec_name: SOUTHWESTERN BELL
-  lat:
-  long:
-- country: US
-  region: OK
   exchange: '150830'
   name: SPRINGER
   full_name: Springer
@@ -7464,6 +7443,15 @@ rate_centers:
   closest_city:
     name: Springer
     distance_km: 2.99
+- country: US
+  region: OK
+  exchange: '334518'
+  name: SPTSMN AC
+  full_name: Sportsmen Acres
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
 - country: US
   region: OK
   exchange: '150840'
@@ -7689,6 +7677,18 @@ rate_centers:
   ilec_name: SOUTHWESTERN BELL
   lat:
   long:
+- country: US
+  region: OK
+  exchange: '150401'
+  name: SALLISAW (DIAMONDNET)
+  full_name: Sallisaw (DiamondNet)
+  lata: '538'
+  ilec_name: VANTAGE TELECOM, LLC DBA NEWROADS TELECOM - OK
+  lat: '35.45481'
+  long: "-94.787873"
+  closest_city:
+    name: Sallisaw
+    distance_km: 1.87
 - country: US
   region: OK
   exchange: '334237'
@@ -8198,6 +8198,15 @@ rate_centers:
     distance_km: 23.94
 - country: US
   region: OK
+  exchange: '331508'
+  name: W SILOAMSP
+  full_name: West Siloam Springs
+  lata: '526'
+  ilec_name: 'BRIGHTSPEED OF NORTHWEST ARKANSAS, LLC                    '
+  lat:
+  long:
+- country: US
+  region: OK
   exchange: '334265'
   name: WADE
   full_name: Wade
@@ -8385,7 +8394,7 @@ rate_centers:
   name: WATTS
   full_name: Watts
   lata: '526'
-  ilec_name: BRIGHTSPEED OF NORTHWEST ARKANSAS, LLC
+  ilec_name: 'BRIGHTSPEED OF NORTHWEST ARKANSAS, LLC                    '
   lat: '36.105518'
   long: "-94.573656"
   closest_city:
@@ -8531,27 +8540,6 @@ rate_centers:
   long:
 - country: US
   region: OK
-  exchange: '148232'
-  name: WFORTSMITH
-  full_name: West Fort Smith
-  lata: '526'
-  ilec_name: SOUTHWESTERN BELL
-  lat:
-  long:
-- country: US
-  region: OK
-  exchange: '151490'
-  name: WMAYSVILLE
-  full_name: West Maysville
-  lata: '526'
-  ilec_name: BRIGHTSPEED OF NORTHWEST ARKANSAS, LLC
-  lat: '36.408948'
-  long: "-94.603849"
-  closest_city:
-    name: Sycamore
-    distance_km: 10.0
-- country: US
-  region: OK
   exchange: '151500'
   name: WESTSENECA
   full_name: West Seneca
@@ -8562,27 +8550,6 @@ rate_centers:
   closest_city:
     name: Peoria
     distance_km: 9.97
-- country: US
-  region: OK
-  exchange: '331508'
-  name: W SILOAMSP
-  full_name: West Siloam Springs
-  lata: '526'
-  ilec_name: BRIGHTSPEED OF NORTHWEST ARKANSAS, LLC
-  lat:
-  long:
-- country: US
-  region: OK
-  exchange: '151210'
-  name: WUNIONTOWN
-  full_name: West Uniontown
-  lata: '526'
-  ilec_name: SOUTHWESTERN BELL
-  lat: '35.585393'
-  long: "-94.474098"
-  closest_city:
-    name: Short
-    distance_km: 2.75
 - country: US
   region: OK
   exchange: '151510'
@@ -8619,6 +8586,15 @@ rate_centers:
   closest_city:
     name: Wewoka
     distance_km: 1.92
+- country: US
+  region: OK
+  exchange: '148232'
+  name: WFORTSMITH
+  full_name: West Fort Smith
+  lata: '526'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
 - country: US
   region: OK
   exchange: '151540'
@@ -8753,6 +8729,18 @@ rate_centers:
     distance_km: 0.36
 - country: US
   region: OK
+  exchange: '151490'
+  name: WMAYSVILLE
+  full_name: West Maysville
+  lata: '526'
+  ilec_name: 'BRIGHTSPEED OF NORTHWEST ARKANSAS, LLC                    '
+  lat: '36.408948'
+  long: "-94.603849"
+  closest_city:
+    name: Sycamore
+    distance_km: 10.0
+- country: US
+  region: OK
   exchange: '151590'
   name: WOODFORD
   full_name: Woodford
@@ -8805,6 +8793,18 @@ rate_centers:
   closest_city:
     name: Wright City
     distance_km: 1.87
+- country: US
+  region: OK
+  exchange: '151210'
+  name: WUNIONTOWN
+  full_name: West Uniontown
+  lata: '526'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.585393'
+  long: "-94.474098"
+  closest_city:
+    name: Short
+    distance_km: 2.75
 - country: US
   region: OK
   exchange: '151620'

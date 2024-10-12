@@ -537,7 +537,7 @@ rate_centers:
   name: APPLETON
   full_name: Appleton
   lata: '977'
-  ilec_name: BRIGHTSPEED OF ILLINOIS, LLC
+  ilec_name: 'BRIGHTSPEED OF ILLINOIS, LLC                              '
   lat:
   long:
 - country: US
@@ -627,7 +627,7 @@ rate_centers:
   name: ARGO FAY
   full_name: Argo Fay
   lata: '364'
-  ilec_name: BRIGHTSPEED OF ILLINOIS, LLC
+  ilec_name: 'BRIGHTSPEED OF ILLINOIS, LLC                              '
   lat:
   long:
 - country: US
@@ -650,15 +650,6 @@ rate_centers:
   long:
 - country: US
   region: IL
-  exchange: '321127'
-  name: ARLINGTON
-  full_name: Arlington
-  lata: '368'
-  ilec_name: FRONTIER NORTH, INC. - IL
-  lat:
-  long:
-- country: US
-  region: IL
   exchange: '046410'
   name: ARLIGTNHTS
   full_name: Arlington Heights
@@ -669,6 +660,15 @@ rate_centers:
   closest_city:
     name: Arlington Heights
     distance_km: 0.66
+- country: US
+  region: IL
+  exchange: '321127'
+  name: ARLINGTON
+  full_name: Arlington
+  lata: '368'
+  ilec_name: FRONTIER NORTH, INC. - IL
+  lat:
+  long:
 - country: US
   region: IL
   exchange: '321006'
@@ -996,7 +996,7 @@ rate_centers:
   name: AVON
   full_name: Avon
   lata: '977'
-  ilec_name: BRIGHTSPEED OF ILLINOIS, LLC
+  ilec_name: 'BRIGHTSPEED OF ILLINOIS, LLC                              '
   lat: '40.666338'
   long: "-90.43202"
   closest_city:
@@ -1127,6 +1127,15 @@ rate_centers:
   long:
 - country: US
   region: IL
+  exchange: '320084'
+  name: BARRGTN HL
+  full_name: Barrington Hills
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: IL
   exchange: '046640'
   name: BARRINGTON
   full_name: Barrington
@@ -1137,15 +1146,6 @@ rate_centers:
   closest_city:
     name: Barrington
     distance_km: 0.48
-- country: US
-  region: IL
-  exchange: '320084'
-  name: BARRGTN HL
-  full_name: Barrington Hills
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat:
-  long:
 - country: US
   region: IL
   exchange: '046641'
@@ -1445,18 +1445,6 @@ rate_centers:
   long:
 - country: US
   region: IL
-  exchange: '046790'
-  name: BELLEPRARI
-  full_name: Belle Prairie
-  lata: '978'
-  ilec_name: HAMILTON COUNTY TELEPHONE CO-OP
-  lat: '38.221334'
-  long: "-88.551593"
-  closest_city:
-    name: Belle Prairie City
-    distance_km: 0.42
-- country: US
-  region: IL
   exchange: '046800'
   name: BELLE RIVE
   full_name: Belle Rive
@@ -1469,21 +1457,21 @@ rate_centers:
     distance_km: 0.13
 - country: US
   region: IL
+  exchange: '046790'
+  name: BELLEPRARI
+  full_name: Belle Prairie
+  lata: '978'
+  ilec_name: HAMILTON COUNTY TELEPHONE CO-OP
+  lat: '38.221334'
+  long: "-88.551593"
+  closest_city:
+    name: Belle Prairie City
+    distance_km: 0.42
+- country: US
+  region: IL
   exchange: '046810'
   name: BELLEVILLE
   full_name: Belleville-Adams
-  lata: '520'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat: '38.515116'
-  long: "-89.973507"
-  closest_city:
-    name: Belleville
-    distance_km: 1.44
-- country: US
-  region: IL
-  exchange: '046811'
-  name: BELLEVILLE-PIONEER
-  full_name: Belleville-Pioneer
   lata: '520'
   ilec_name: ILLINOIS BELL TEL CO
   lat: '38.515116'
@@ -1833,7 +1821,7 @@ rate_centers:
   name: BISHOP
   full_name: Bishop
   lata: '368'
-  ilec_name: BRIGHTSPEED OF ILLINOIS, LLC
+  ilec_name: 'BRIGHTSPEED OF ILLINOIS, LLC                              '
   lat:
   long:
 - country: US
@@ -1964,18 +1952,6 @@ rate_centers:
     distance_km: 2.23
 - country: US
   region: IL
-  exchange: '047040'
-  name: BLUEISLAND
-  full_name: Blue Island
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat: '41.655195'
-  long: "-87.679509"
-  closest_city:
-    name: Blue Island
-    distance_km: 0.32
-- country: US
-  region: IL
   exchange: '047050'
   name: BLUE MOUND
   full_name: Blue Mound
@@ -1995,6 +1971,18 @@ rate_centers:
   ilec_name: FRONTIER NORTH, INC. - IL
   lat:
   long:
+- country: US
+  region: IL
+  exchange: '047040'
+  name: BLUEISLAND
+  full_name: Blue Island
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat: '41.655195'
+  long: "-87.679509"
+  closest_city:
+    name: Blue Island
+    distance_km: 0.32
 - country: US
   region: IL
   exchange: '321552'
@@ -2075,6 +2063,15 @@ rate_centers:
   long:
 - country: US
   region: IL
+  exchange: '320101'
+  name: BOLINGBRK
+  full_name: Bolingbrook
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: IL
   exchange: '051171'
   name: BOLINGBROK
   full_name: Bolingbrook
@@ -2085,15 +2082,6 @@ rate_centers:
   closest_city:
     name: Lemont
     distance_km: 0.44
-- country: US
-  region: IL
-  exchange: '320101'
-  name: BOLINGBRK
-  full_name: Bolingbrook
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat:
-  long:
 - country: US
   region: IL
   exchange: '321430'
@@ -2663,6 +2651,15 @@ rate_centers:
   long:
 - country: US
   region: IL
+  exchange: '321436'
+  name: BUFFALHART
+  full_name: Buffalo Hart
+  lata: '374'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: IL
   exchange: '047260'
   name: BUFFALO
   full_name: Buffalo
@@ -2679,15 +2676,6 @@ rate_centers:
   name: BUFFALOGRV
   full_name: Buffalo Grove
   lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: IL
-  exchange: '321436'
-  name: BUFFALHART
-  full_name: Buffalo Hart
-  lata: '374'
   ilec_name: ILLINOIS BELL TEL CO
   lat:
   long:
@@ -2831,20 +2819,20 @@ rate_centers:
     distance_km: 0.66
 - country: US
   region: IL
-  exchange: '321016'
-  name: BURTONVIEW
-  full_name: Burton View
-  lata: '366'
-  ilec_name: FRONTIER NORTH, INC. - IL
-  lat:
-  long:
-- country: US
-  region: IL
   exchange: '320120'
   name: BURTONSBDG
   full_name: Burtons Bridge
   lata: '358'
   ilec_name: ILLINOIS BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: IL
+  exchange: '321016'
+  name: BURTONVIEW
+  full_name: Burton View
+  lata: '366'
+  ilec_name: FRONTIER NORTH, INC. - IL
   lat:
   long:
 - country: US
@@ -2898,6 +2886,18 @@ rate_centers:
   closest_city:
     name: Byron
     distance_km: 1.12
+- country: US
+  region: IL
+  exchange: '046811'
+  name: BELLEVILLE-PIONEER
+  full_name: Belleville-Pioneer
+  lata: '520'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat: '38.515116'
+  long: "-89.973507"
+  closest_city:
+    name: Belleville
+    distance_km: 1.44
 - country: US
   region: IL
   exchange: '047330'
@@ -3045,7 +3045,7 @@ rate_centers:
   name: CAMERON
   full_name: Cameron
   lata: '977'
-  ilec_name: BRIGHTSPEED OF ILLINOIS, LLC
+  ilec_name: 'BRIGHTSPEED OF ILLINOIS, LLC                              '
   lat: '40.888963'
   long: "-90.517384"
   closest_city:
@@ -3152,15 +3152,6 @@ rate_centers:
   long:
 - country: US
   region: IL
-  exchange: '320124'
-  name: CARBONHILL
-  full_name: Carbon Hill
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: IL
   exchange: '047450'
   name: CARBONDALE
   full_name: Carbondale
@@ -3171,6 +3162,15 @@ rate_centers:
   closest_city:
     name: Carbondale
     distance_km: 0.91
+- country: US
+  region: IL
+  exchange: '320124'
+  name: CARBONHILL
+  full_name: Carbon Hill
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat:
+  long:
 - country: US
   region: IL
   exchange: '047460'
@@ -3770,15 +3770,6 @@ rate_centers:
     distance_km: 0.5
 - country: US
   region: IL
-  exchange: '329521'
-  name: CHESTERFLD
-  full_name: Chesterfield
-  lata: '520'
-  ilec_name: CITIZENS TELECOM CO ILLINOIS-FRONTIER CITIZENS -IL
-  lat:
-  long:
-- country: US
-  region: IL
   exchange: '047770'
   name: CHESTERBDG
   full_name: Chesterfield-Rockbridge
@@ -3789,6 +3780,15 @@ rate_centers:
   closest_city:
     name: Chesterfield
     distance_km: 0.48
+- country: US
+  region: IL
+  exchange: '329521'
+  name: CHESTERFLD
+  full_name: Chesterfield
+  lata: '520'
+  ilec_name: CITIZENS TELECOM CO ILLINOIS-FRONTIER CITIZENS -IL
+  lat:
+  long:
 - country: US
   region: IL
   exchange: '321443'
@@ -3830,51 +3830,6 @@ rate_centers:
   long:
 - country: US
   region: IL
-  exchange: '047790'
-  name: CHICAGOHTS
-  full_name: Chicago Heights
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat: '41.505751'
-  long: "-87.633046"
-  closest_city:
-    name: Chicago Heights
-    distance_km: 0.49
-- country: US
-  region: IL
-  exchange: '047791'
-  name: CHICGOHTSE
-  full_name: Chicago Heights East
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat: '41.505751'
-  long: "-87.633046"
-  closest_city:
-    name: Chicago Heights
-    distance_km: 0.49
-- country: US
-  region: IL
-  exchange: '320138'
-  name: CHICAGORDG
-  full_name: Chicago Ridge
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: IL
-  exchange: '047801'
-  name: CHICGOZN01
-  full_name: Chicago Zone 01-Calumet
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat: '41.883465'
-  long: "-87.635162"
-  closest_city:
-    name: Chicago
-    distance_km: 6.65
-- country: US
-  region: IL
   exchange: '047802'
   name: CHICAGO-CA
   full_name: Chicago Zone 01-Canal
@@ -3899,9 +3854,57 @@ rate_centers:
     distance_km: 6.65
 - country: US
   region: IL
+  exchange: '047863'
+  name: CHICAGO-HY
+  full_name: Chicago Zone 07-Hyde Park
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat: '41.883465'
+  long: "-87.635162"
+  closest_city:
+    name: Chicago
+    distance_km: 6.65
+- country: US
+  region: IL
   exchange: '047804'
   name: CHICAGO-IL
   full_name: Chicago Zone 01-Illinois Dearborn
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat: '41.883465'
+  long: "-87.635162"
+  closest_city:
+    name: Chicago
+    distance_km: 6.65
+- country: US
+  region: IL
+  exchange: '047812'
+  name: CHICAGO-IR
+  full_name: Chicago Zone 02-Irving
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat: '41.883465'
+  long: "-87.635162"
+  closest_city:
+    name: Chicago
+    distance_km: 6.65
+- country: US
+  region: IL
+  exchange: '047853'
+  name: CHICAGO-LD
+  full_name: Chicago Zone 06-Lawndale
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat: '41.883465'
+  long: "-87.635162"
+  closest_city:
+    name: Chicago
+    distance_km: 6.65
+- country: US
+  region: IL
+  exchange: '047852'
+  name: CHICAGO-LF
+  full_name: Chicago Zone 06-Lafayette
   lata: '358'
   ilec_name: ILLINOIS BELL TEL CO
   lat: '41.883465'
@@ -3923,9 +3926,105 @@ rate_centers:
     distance_km: 6.65
 - country: US
   region: IL
+  exchange: '047832'
+  name: CHICAGO-LV
+  full_name: Chicago Zone 04-Lakeview
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat: '41.883465'
+  long: "-87.635162"
+  closest_city:
+    name: Chicago
+    distance_km: 6.65
+- country: US
+  region: IL
+  exchange: '047842'
+  name: CHICAGO-ME
+  full_name: Chicago Zone 05-Merrimac
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat: '41.883465'
+  long: "-87.635162"
+  closest_city:
+    name: Chicago
+    distance_km: 6.65
+- country: US
+  region: IL
+  exchange: '047882'
+  name: CHICAGO-MI
+  full_name: Chicago Zone 09-Mitchell
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat: '41.883465'
+  long: "-87.635162"
+  closest_city:
+    name: Chicago
+    distance_km: 6.65
+- country: US
+  region: IL
   exchange: '047808'
   name: CHICAGO-MO
   full_name: Chicago Zone 01-Monroe
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat: '41.883465'
+  long: "-87.635162"
+  closest_city:
+    name: Chicago
+    distance_km: 6.65
+- country: US
+  region: IL
+  exchange: '047822'
+  name: CHICAGO-NE
+  full_name: Chicago Zone 03-Newcastle
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat: '41.883465'
+  long: "-87.635162"
+  closest_city:
+    name: Chicago
+    distance_km: 6.65
+- country: US
+  region: IL
+  exchange: '047862'
+  name: CHICAGO-OA
+  full_name: Chicago Zone 07-Oakland
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat: '41.883465'
+  long: "-87.635162"
+  closest_city:
+    name: Chicago
+    distance_km: 6.65
+- country: US
+  region: IL
+  exchange: '047872'
+  name: CHICAGO-PR
+  full_name: Chicago Zone 08-Prospect
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat: '41.883465'
+  long: "-87.635162"
+  closest_city:
+    name: Chicago
+    distance_km: 6.65
+- country: US
+  region: IL
+  exchange: '047892'
+  name: CHICAGO-PU
+  full_name: Chicago Zone 10-Pullman
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat: '41.883465'
+  long: "-87.635162"
+  closest_city:
+    name: Chicago
+    distance_km: 6.65
+- country: US
+  region: IL
+  exchange: '047813'
+  name: CHICAGO-RO
+  full_name: Chicago Zone 02-Rogers Park
   lata: '358'
   ilec_name: ILLINOIS BELL TEL CO
   lat: '41.883465'
@@ -3959,33 +4058,54 @@ rate_centers:
     distance_km: 6.65
 - country: US
   region: IL
+  exchange: '047790'
+  name: CHICAGOHTS
+  full_name: Chicago Heights
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat: '41.505751'
+  long: "-87.633046"
+  closest_city:
+    name: Chicago Heights
+    distance_km: 0.49
+- country: US
+  region: IL
+  exchange: '320138'
+  name: CHICAGORDG
+  full_name: Chicago Ridge
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: IL
+  exchange: '047791'
+  name: CHICGOHTSE
+  full_name: Chicago Heights East
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat: '41.505751'
+  long: "-87.633046"
+  closest_city:
+    name: Chicago Heights
+    distance_km: 0.49
+- country: US
+  region: IL
+  exchange: '047801'
+  name: CHICGOZN01
+  full_name: Chicago Zone 01-Calumet
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat: '41.883465'
+  long: "-87.635162"
+  closest_city:
+    name: Chicago
+    distance_km: 6.65
+- country: US
+  region: IL
   exchange: '047811'
   name: CHICGOZN02
   full_name: Chicago Zone 02-Edgewater
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat: '41.883465'
-  long: "-87.635162"
-  closest_city:
-    name: Chicago
-    distance_km: 6.65
-- country: US
-  region: IL
-  exchange: '047812'
-  name: CHICAGO-IR
-  full_name: Chicago Zone 02-Irving
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat: '41.883465'
-  long: "-87.635162"
-  closest_city:
-    name: Chicago
-    distance_km: 6.65
-- country: US
-  region: IL
-  exchange: '047813'
-  name: CHICAGO-RO
-  full_name: Chicago Zone 02-Rogers Park
   lata: '358'
   ilec_name: ILLINOIS BELL TEL CO
   lat: '41.883465'
@@ -4007,33 +4127,9 @@ rate_centers:
     distance_km: 6.65
 - country: US
   region: IL
-  exchange: '047822'
-  name: CHICAGO-NE
-  full_name: Chicago Zone 03-Newcastle
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat: '41.883465'
-  long: "-87.635162"
-  closest_city:
-    name: Chicago
-    distance_km: 6.65
-- country: US
-  region: IL
   exchange: '047831'
   name: CHICGOZN04
   full_name: Chicago Zone 04-Humboldt
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat: '41.883465'
-  long: "-87.635162"
-  closest_city:
-    name: Chicago
-    distance_km: 6.65
-- country: US
-  region: IL
-  exchange: '047832'
-  name: CHICAGO-LV
-  full_name: Chicago Zone 04-Lakeview
   lata: '358'
   ilec_name: ILLINOIS BELL TEL CO
   lat: '41.883465'
@@ -4055,69 +4151,9 @@ rate_centers:
     distance_km: 6.65
 - country: US
   region: IL
-  exchange: '047842'
-  name: CHICAGO-ME
-  full_name: Chicago Zone 05-Merrimac
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat: '41.883465'
-  long: "-87.635162"
-  closest_city:
-    name: Chicago
-    distance_km: 6.65
-- country: US
-  region: IL
   exchange: '047851'
   name: CHICGOZN06
   full_name: Chicago Zone 06-Kedzie
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat: '41.883465'
-  long: "-87.635162"
-  closest_city:
-    name: Chicago
-    distance_km: 6.65
-- country: US
-  region: IL
-  exchange: '047852'
-  name: CHICAGO-LF
-  full_name: Chicago Zone 06-Lafayette
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat: '41.883465'
-  long: "-87.635162"
-  closest_city:
-    name: Chicago
-    distance_km: 6.65
-- country: US
-  region: IL
-  exchange: '047853'
-  name: CHICAGO-LD
-  full_name: Chicago Zone 06-Lawndale
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat: '41.883465'
-  long: "-87.635162"
-  closest_city:
-    name: Chicago
-    distance_km: 6.65
-- country: US
-  region: IL
-  exchange: '047863'
-  name: CHICAGO-HY
-  full_name: Chicago Zone 07-Hyde Park
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat: '41.883465'
-  long: "-87.635162"
-  closest_city:
-    name: Chicago
-    distance_km: 6.65
-- country: US
-  region: IL
-  exchange: '047862'
-  name: CHICAGO-OA
-  full_name: Chicago Zone 07-Oakland
   lata: '358'
   ilec_name: ILLINOIS BELL TEL CO
   lat: '41.883465'
@@ -4151,30 +4187,6 @@ rate_centers:
     distance_km: 6.65
 - country: US
   region: IL
-  exchange: '047872'
-  name: CHICAGO-PR
-  full_name: Chicago Zone 08-Prospect
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat: '41.883465'
-  long: "-87.635162"
-  closest_city:
-    name: Chicago
-    distance_km: 6.65
-- country: US
-  region: IL
-  exchange: '047882'
-  name: CHICAGO-MI
-  full_name: Chicago Zone 09-Mitchell
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat: '41.883465'
-  long: "-87.635162"
-  closest_city:
-    name: Chicago
-    distance_km: 6.65
-- country: US
-  region: IL
   exchange: '047881'
   name: CHICGOZN09
   full_name: Chicago Zone 09-South Chicago
@@ -4190,18 +4202,6 @@ rate_centers:
   exchange: '047891'
   name: CHICGOZN10
   full_name: Chicago Zone 10-Beverly
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat: '41.883465'
-  long: "-87.635162"
-  closest_city:
-    name: Chicago
-    distance_km: 6.65
-- country: US
-  region: IL
-  exchange: '047892'
-  name: CHICAGO-PU
-  full_name: Chicago Zone 10-Pullman
   lata: '358'
   ilec_name: ILLINOIS BELL TEL CO
   lat: '41.883465'
@@ -4325,6 +4325,15 @@ rate_centers:
   long:
 - country: US
   region: IL
+  exchange: '320152'
+  name: CLAREDNHLS
+  full_name: Clarendon Hills
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: IL
   exchange: '047980'
   name: CLAREMONT
   full_name: Claremont
@@ -4342,15 +4351,6 @@ rate_centers:
   full_name: Clarence
   lata: '370'
   ilec_name: FRONTIER NORTH, INC. - IL
-  lat:
-  long:
-- country: US
-  region: IL
-  exchange: '320152'
-  name: CLAREDNHLS
-  full_name: Clarendon Hills
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
   lat:
   long:
 - country: US
@@ -4514,6 +4514,15 @@ rate_centers:
   long:
 - country: US
   region: IL
+  exchange: '320159'
+  name: CNRYCLBHLS
+  full_name: Country Club Hills
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: IL
   exchange: '048040'
   name: COAL CITY
   full_name: Coal City
@@ -4526,20 +4535,20 @@ rate_centers:
     distance_km: 0.92
 - country: US
   region: IL
-  exchange: '052061'
-  name: COALVALLEY
-  full_name: Coal Valley
-  lata: '634'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: IL
   exchange: '363059'
   name: COALTON
   full_name: Coalton
   lata: '976'
   ilec_name: ILLINOIS CONSOLIDATED TEL. CO.
+  lat:
+  long:
+- country: US
+  region: IL
+  exchange: '052061'
+  name: COALVALLEY
+  full_name: Coal Valley
+  lata: '634'
+  ilec_name: ILLINOIS BELL TEL CO
   lat:
   long:
 - country: US
@@ -4931,15 +4940,6 @@ rate_centers:
   long:
 - country: US
   region: IL
-  exchange: '320159'
-  name: CNRYCLBHLS
-  full_name: Country Club Hills
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: IL
   exchange: '320164'
   name: COUNTRYSD
   full_name: Countryside
@@ -5241,7 +5241,7 @@ rate_centers:
   name: DAGGETTS
   full_name: Daggetts
   lata: '364'
-  ilec_name: BRIGHTSPEED OF ILLINOIS, LLC
+  ilec_name: 'BRIGHTSPEED OF ILLINOIS, LLC                              '
   lat:
   long:
 - country: US
@@ -5675,6 +5675,15 @@ rate_centers:
     distance_km: 1.36
 - country: US
   region: IL
+  exchange: '320185'
+  name: DESELM
+  full_name: Deselm
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: IL
   exchange: '048520'
   name: DESPLAINES
   full_name: Des Plaines
@@ -5685,15 +5694,6 @@ rate_centers:
   closest_city:
     name: Des Plaines
     distance_km: 0.73
-- country: US
-  region: IL
-  exchange: '320185'
-  name: DESELM
-  full_name: Deselm
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat:
-  long:
 - country: US
   region: IL
   exchange: '321570'
@@ -5835,7 +5835,7 @@ rate_centers:
   name: DIXON
   full_name: Dixon
   lata: '364'
-  ilec_name: BRIGHTSPEED OF ILLINOIS, LLC
+  ilec_name: 'BRIGHTSPEED OF ILLINOIS, LLC                              '
   lat: '41.843241'
   long: "-89.498295"
   closest_city:
@@ -6062,19 +6062,19 @@ rate_centers:
     distance_km: 0.58
 - country: US
   region: IL
-  exchange: '321163'
-  name: DUCKISLAND
-  full_name: Duck Island
-  lata: '368'
+  exchange: '320197'
+  name: DUCK LAKE
+  full_name: Duck Lake
+  lata: '358'
   ilec_name: ILLINOIS BELL TEL CO
   lat:
   long:
 - country: US
   region: IL
-  exchange: '320197'
-  name: DUCK LAKE
-  full_name: Duck Lake
-  lata: '358'
+  exchange: '321163'
+  name: DUCKISLAND
+  full_name: Duck Island
+  lata: '368'
   ilec_name: ILLINOIS BELL TEL CO
   lat:
   long:
@@ -6197,6 +6197,48 @@ rate_centers:
     distance_km: 0.39
 - country: US
   region: IL
+  exchange: '320200'
+  name: E BROOKLYN
+  full_name: East Brooklyn
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: IL
+  exchange: '320921'
+  name: E CLINTON
+  full_name: East Clinton
+  lata: '364'
+  ilec_name: CITIZENS TELECOM CO ILLINOIS-FRONTIER CITIZENS -IL
+  lat:
+  long:
+- country: US
+  region: IL
+  exchange: '048740'
+  name: E DUBUQUE
+  full_name: East Dubuque
+  lata: '634'
+  ilec_name: CITIZENS TELECOM CO ILLINOIS-FRONTIER CITIZENS -IL
+  lat: '42.49552'
+  long: "-90.641416"
+  closest_city:
+    name: East Dubuque
+    distance_km: 1.34
+- country: US
+  region: IL
+  exchange: '048770'
+  name: E ST LOUIS
+  full_name: East St Louis
+  lata: '520'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat: '38.623948'
+  long: "-90.159944"
+  closest_city:
+    name: East St. Louis
+    distance_km: 2.73
+- country: US
+  region: IL
   exchange: '320922'
   name: EAGLEPOINT
   full_name: Eagle Point
@@ -6227,75 +6269,9 @@ rate_centers:
   long:
 - country: US
   region: IL
-  exchange: '320200'
-  name: E BROOKLYN
-  full_name: East Brooklyn
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: IL
-  exchange: '329540'
-  name: ECARONDLET
-  full_name: East Carondelet
-  lata: '520'
-  ilec_name: HARRISONVILLE TEL. CO.
-  lat:
-  long:
-- country: US
-  region: IL
-  exchange: '320921'
-  name: E CLINTON
-  full_name: East Clinton
-  lata: '364'
-  ilec_name: CITIZENS TELECOM CO ILLINOIS-FRONTIER CITIZENS -IL
-  lat:
-  long:
-- country: US
-  region: IL
-  exchange: '048740'
-  name: E DUBUQUE
-  full_name: East Dubuque
-  lata: '634'
-  ilec_name: CITIZENS TELECOM CO ILLINOIS-FRONTIER CITIZENS -IL
-  lat: '42.49552'
-  long: "-90.641416"
-  closest_city:
-    name: East Dubuque
-    distance_km: 1.34
-- country: US
-  region: IL
-  exchange: '320203'
-  name: EASTDUNDEE
-  full_name: East Dundee
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: IL
-  exchange: '363214'
-  name: EGALESBURG
-  full_name: East Galesburg
-  lata: '977'
-  ilec_name: BRIGHTSPEED OF ILLINOIS, LLC
-  lat:
-  long:
-- country: US
-  region: IL
   exchange: '320202'
   name: EAST GROVE
   full_name: East Grove
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: IL
-  exchange: '320204'
-  name: EHAZLCREST
-  full_name: East Hazel Crest
   lata: '358'
   ilec_name: ILLINOIS BELL TEL CO
   lat:
@@ -6314,6 +6290,15 @@ rate_centers:
     distance_km: 0.37
 - country: US
   region: IL
+  exchange: '320203'
+  name: EASTDUNDEE
+  full_name: East Dundee
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: IL
   exchange: '048760'
   name: EASTMOLINE
   full_name: East Moline
@@ -6326,27 +6311,6 @@ rate_centers:
     distance_km: 2.99
 - country: US
   region: IL
-  exchange: '321167'
-  name: EASTPEORIA
-  full_name: East Peoria
-  lata: '368'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: IL
-  exchange: '048770'
-  name: E ST LOUIS
-  full_name: East St Louis
-  lata: '520'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat: '38.623948'
-  long: "-90.159944"
-  closest_city:
-    name: East St. Louis
-    distance_km: 2.73
-- country: US
-  region: IL
   exchange: '048780'
   name: EASTON
   full_name: Easton
@@ -6357,6 +6321,15 @@ rate_centers:
   closest_city:
     name: Easton
     distance_km: 1.46
+- country: US
+  region: IL
+  exchange: '321167'
+  name: EASTPEORIA
+  full_name: East Peoria
+  lata: '368'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat:
+  long:
 - country: US
   region: IL
   exchange: '363071'
@@ -6372,7 +6345,16 @@ rate_centers:
   name: EBNER
   full_name: Ebner
   lata: '364'
-  ilec_name: BRIGHTSPEED OF ILLINOIS, LLC
+  ilec_name: 'BRIGHTSPEED OF ILLINOIS, LLC                              '
+  lat:
+  long:
+- country: US
+  region: IL
+  exchange: '329540'
+  name: ECARONDLET
+  full_name: East Carondelet
+  lata: '520'
+  ilec_name: HARRISONVILLE TEL. CO.
   lat:
   long:
 - country: US
@@ -6381,7 +6363,7 @@ rate_centers:
   name: ECKARD
   full_name: Eckard
   lata: '368'
-  ilec_name: BRIGHTSPEED OF ILLINOIS, LLC
+  ilec_name: 'BRIGHTSPEED OF ILLINOIS, LLC                              '
   lat:
   long:
 - country: US
@@ -6509,11 +6491,29 @@ rate_centers:
     distance_km: 0.2
 - country: US
   region: IL
+  exchange: '363214'
+  name: EGALESBURG
+  full_name: East Galesburg
+  lata: '977'
+  ilec_name: 'BRIGHTSPEED OF ILLINOIS, LLC                              '
+  lat:
+  long:
+- country: US
+  region: IL
   exchange: '320924'
   name: EGAN
   full_name: Egan
   lata: '364'
   ilec_name: LEAF RIVER TELEPHONE CO.
+  lat:
+  long:
+- country: US
+  region: IL
+  exchange: '320204'
+  name: EHAZLCREST
+  full_name: East Hazel Crest
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
   lat:
   long:
 - country: US
@@ -6573,7 +6573,7 @@ rate_centers:
   name: ELDENA
   full_name: Eldena
   lata: '364'
-  ilec_name: BRIGHTSPEED OF ILLINOIS, LLC
+  ilec_name: 'BRIGHTSPEED OF ILLINOIS, LLC                              '
   lat:
   long:
 - country: US
@@ -6957,7 +6957,7 @@ rate_centers:
   name: ENION
   full_name: Enion
   lata: '368'
-  ilec_name: BRIGHTSPEED OF ILLINOIS, LLC
+  ilec_name: 'BRIGHTSPEED OF ILLINOIS, LLC                              '
   lat:
   long:
 - country: US
@@ -7656,7 +7656,7 @@ rate_centers:
   name: FORESTCITY
   full_name: Forest City
   lata: '368'
-  ilec_name: BRIGHTSPEED OF ILLINOIS, LLC
+  ilec_name: 'BRIGHTSPEED OF ILLINOIS, LLC                              '
   lat: '40.368819'
   long: "-89.825112"
   closest_city:
@@ -7724,19 +7724,19 @@ rate_centers:
   long:
 - country: US
   region: IL
-  exchange: '320233'
-  name: FTSHERIDAN
-  full_name: Fort Sheridan
-  lata: '358'
+  exchange: '338613'
+  name: FOSTER
+  full_name: Foster
+  lata: '634'
   ilec_name: ILLINOIS BELL TEL CO
   lat:
   long:
 - country: US
   region: IL
-  exchange: '338613'
-  name: FOSTER
-  full_name: Foster
-  lata: '634'
+  exchange: '329556'
+  name: FOSTERBURG
+  full_name: Fosterburg
+  lata: '520'
   ilec_name: ILLINOIS BELL TEL CO
   lat:
   long:
@@ -7751,24 +7751,6 @@ rate_centers:
   long:
 - country: US
   region: IL
-  exchange: '329556'
-  name: FOSTERBURG
-  full_name: Fosterburg
-  lata: '520'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: IL
-  exchange: '321329'
-  name: FOUNTANCRK
-  full_name: Fountain Creek
-  lata: '370'
-  ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS, INC - IL
-  lat:
-  long:
-- country: US
-  region: IL
   exchange: '049440'
   name: FOUNTAGREN
   full_name: Fountain Green
@@ -7779,6 +7761,15 @@ rate_centers:
   closest_city:
     name: La Harpe
     distance_km: 12.11
+- country: US
+  region: IL
+  exchange: '321329'
+  name: FOUNTANCRK
+  full_name: Fountain Creek
+  lata: '370'
+  ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS, INC - IL
+  lat:
+  long:
 - country: US
   region: IL
   exchange: '049450'
@@ -7832,15 +7823,6 @@ rate_centers:
   long:
 - country: US
   region: IL
-  exchange: '320235'
-  name: FXRVVLGRNS
-  full_name: Fox River Valley Gardens
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: IL
   exchange: '049470'
   name: FRANKFORT
   full_name: Frankfort
@@ -7862,18 +7844,6 @@ rate_centers:
   long:
 - country: US
   region: IL
-  exchange: '049480'
-  name: FRANKLIN
-  full_name: Franklin
-  lata: '376'
-  ilec_name: FRONTIER NORTH, INC. - IL
-  lat: '39.616348'
-  long: "-90.04452"
-  closest_city:
-    name: Franklin
-    distance_km: 0.54
-- country: US
-  region: IL
   exchange: '049490'
   name: FRANKLIGRV
   full_name: Franklin Grove
@@ -7884,6 +7854,18 @@ rate_centers:
   closest_city:
     name: Franklin Grove
     distance_km: 0.49
+- country: US
+  region: IL
+  exchange: '049480'
+  name: FRANKLIN
+  full_name: Franklin
+  lata: '376'
+  ilec_name: FRONTIER NORTH, INC. - IL
+  lat: '39.616348'
+  long: "-90.04452"
+  closest_city:
+    name: Franklin
+    distance_km: 0.54
 - country: US
   region: IL
   exchange: '049501'
@@ -7964,6 +7946,15 @@ rate_centers:
   long:
 - country: US
   region: IL
+  exchange: '320233'
+  name: FTSHERIDAN
+  full_name: Fort Sheridan
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: IL
   exchange: '320234'
   name: FULLERSBG
   full_name: Fullersburg
@@ -8021,6 +8012,15 @@ rate_centers:
   long:
 - country: US
   region: IL
+  exchange: '320235'
+  name: FXRVVLGRNS
+  full_name: Fox River Valley Gardens
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: IL
   exchange: '320236'
   name: GAGES LAKE
   full_name: Gages Lake
@@ -8064,7 +8064,7 @@ rate_centers:
   name: GALESBURG
   full_name: Galesburg
   lata: '977'
-  ilec_name: BRIGHTSPEED OF ILLINOIS, LLC
+  ilec_name: 'BRIGHTSPEED OF ILLINOIS, LLC                              '
   lat: '40.951829'
   long: "-90.368659"
   closest_city:
@@ -8288,15 +8288,6 @@ rate_centers:
     distance_km: 1.53
 - country: US
   region: IL
-  exchange: '320808'
-  name: GNTCYSTTPK
-  full_name: Giant City State Park
-  lata: '362'
-  ilec_name: FRONTIER NORTH, INC. - IL
-  lat:
-  long:
-- country: US
-  region: IL
   exchange: '049680'
   name: GIBSONCITY
   full_name: Gibson City
@@ -8447,18 +8438,6 @@ rate_centers:
   long:
 - country: US
   region: IL
-  exchange: '049760'
-  name: GLENCARBON
-  full_name: Glen Carbon
-  lata: '520'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat: '38.748631'
-  long: "-89.976668"
-  closest_city:
-    name: Glen Carbon
-    distance_km: 1.15
-- country: US
-  region: IL
   exchange: '049770'
   name: GLEN ELLYN
   full_name: Glen Ellyn
@@ -8478,6 +8457,18 @@ rate_centers:
   ilec_name: FRONTIER NORTH, INC. - IL
   lat:
   long:
+- country: US
+  region: IL
+  exchange: '049760'
+  name: GLENCARBON
+  full_name: Glen Carbon
+  lata: '520'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat: '38.748631'
+  long: "-89.976668"
+  closest_city:
+    name: Glen Carbon
+    distance_km: 1.15
 - country: US
   region: IL
   exchange: '049780'
@@ -8548,6 +8539,15 @@ rate_centers:
   full_name: Glover
   lata: '370'
   ilec_name: ILLINOIS BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: IL
+  exchange: '320808'
+  name: GNTCYSTTPK
+  full_name: Giant City State Park
+  lata: '362'
+  ilec_name: FRONTIER NORTH, INC. - IL
   lat:
   long:
 - country: US
@@ -8748,7 +8748,7 @@ rate_centers:
   name: GRANDDTOUR
   full_name: Grand Detour
   lata: '364'
-  ilec_name: BRIGHTSPEED OF ILLINOIS, LLC
+  ilec_name: 'BRIGHTSPEED OF ILLINOIS, LLC                              '
   lat: '41.900825'
   long: "-89.417936"
   closest_city:
@@ -8900,18 +8900,6 @@ rate_centers:
   long:
 - country: US
   region: IL
-  exchange: '049970'
-  name: GREENRIVER
-  full_name: Green River
-  lata: '634'
-  ilec_name: GENESEO TEL. CO.
-  lat: '41.478916'
-  long: "-90.31641"
-  closest_city:
-    name: Colona
-    distance_km: 2.65
-- country: US
-  region: IL
   exchange: '048761'
   name: GREEN ROCK
   full_name: Green Rock
@@ -8925,7 +8913,7 @@ rate_centers:
   name: GREEN VLY
   full_name: Green Valley
   lata: '368'
-  ilec_name: BRIGHTSPEED OF ILLINOIS, LLC
+  ilec_name: 'BRIGHTSPEED OF ILLINOIS, LLC                              '
   lat: '40.408078'
   long: "-89.644759"
   closest_city:
@@ -8943,6 +8931,18 @@ rate_centers:
   closest_city:
     name: Greenfield
     distance_km: 0.6
+- country: US
+  region: IL
+  exchange: '049970'
+  name: GREENRIVER
+  full_name: Green River
+  lata: '634'
+  ilec_name: GENESEO TEL. CO.
+  lat: '41.478916'
+  long: "-90.31641"
+  closest_city:
+    name: Colona
+    distance_km: 2.65
 - country: US
   region: IL
   exchange: '050000'
@@ -9384,7 +9384,7 @@ rate_centers:
   name: HARMON
   full_name: Harmon
   lata: '364'
-  ilec_name: BRIGHTSPEED OF ILLINOIS, LLC
+  ilec_name: 'BRIGHTSPEED OF ILLINOIS, LLC                              '
   lat: '41.719468'
   long: "-89.554354"
   closest_city:
@@ -9576,7 +9576,7 @@ rate_centers:
   name: HAVANA
   full_name: Havana
   lata: '368'
-  ilec_name: BRIGHTSPEED OF ILLINOIS, LLC
+  ilec_name: 'BRIGHTSPEED OF ILLINOIS, LLC                              '
   lat: '40.298141'
   long: "-90.058962"
   closest_city:
@@ -9584,18 +9584,18 @@ rate_centers:
     distance_km: 0.4
 - country: US
   region: IL
-  exchange: '320276'
-  name: HAWTHRN WD
-  full_name: Hawthorn Woods
+  exchange: '320275'
+  name: HAWTHORNE
+  full_name: Hawthorne
   lata: '358'
   ilec_name: ILLINOIS BELL TEL CO
   lat:
   long:
 - country: US
   region: IL
-  exchange: '320275'
-  name: HAWTHORNE
-  full_name: Hawthorne
+  exchange: '320276'
+  name: HAWTHRN WD
+  full_name: Hawthorn Woods
   lata: '358'
   ilec_name: ILLINOIS BELL TEL CO
   lat:
@@ -9611,20 +9611,20 @@ rate_centers:
   long:
 - country: US
   region: IL
-  exchange: '320277'
-  name: HAZELCREST
-  full_name: Hazel Crest
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: IL
   exchange: '363093'
   name: HAZEL DELL
   full_name: Hazel Dell
   lata: '976'
   ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS, INC - IL
+  lat:
+  long:
+- country: US
+  region: IL
+  exchange: '320277'
+  name: HAZELCREST
+  full_name: Hazel Crest
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
   lat:
   long:
 - country: US
@@ -9711,7 +9711,7 @@ rate_centers:
   name: HENDERSON
   full_name: Henderson
   lata: '977'
-  ilec_name: BRIGHTSPEED OF ILLINOIS, LLC
+  ilec_name: 'BRIGHTSPEED OF ILLINOIS, LLC                              '
   lat:
   long:
 - country: US
@@ -10580,18 +10580,18 @@ rate_centers:
     distance_km: 0.21
 - country: US
   region: IL
-  exchange: '320301'
-  name: INDIAN CRK
-  full_name: Indian Creek
+  exchange: '320300'
+  name: IND HD PK
+  full_name: Indian Head Park
   lata: '358'
   ilec_name: ILLINOIS BELL TEL CO
   lat:
   long:
 - country: US
   region: IL
-  exchange: '320300'
-  name: IND HD PK
-  full_name: Indian Head Park
+  exchange: '320301'
+  name: INDIAN CRK
+  full_name: Indian Creek
   lata: '358'
   ilec_name: ILLINOIS BELL TEL CO
   lat:
@@ -11229,7 +11229,7 @@ rate_centers:
   name: KELSEY
   full_name: Kelsey
   lata: '368'
-  ilec_name: BRIGHTSPEED OF ILLINOIS, LLC
+  ilec_name: 'BRIGHTSPEED OF ILLINOIS, LLC                              '
   lat:
   long:
 - country: US
@@ -11469,7 +11469,7 @@ rate_centers:
   name: KNOXVILLE
   full_name: Knoxville
   lata: '977'
-  ilec_name: BRIGHTSPEED OF ILLINOIS, LLC
+  ilec_name: 'BRIGHTSPEED OF ILLINOIS, LLC                              '
   lat: '40.908867'
   long: "-90.281708"
   closest_city:
@@ -11491,15 +11491,6 @@ rate_centers:
   full_name: La Clede
   lata: '520'
   ilec_name: CITIZENS TELECOM CO ILLINOIS-FRONTIER CITIZENS -IL
-  lat:
-  long:
-- country: US
-  region: IL
-  exchange: '363236'
-  name: LACROSSE
-  full_name: La Crosse
-  lata: '977'
-  ilec_name: LAHARPE TEL. CO.
   lat:
   long:
 - country: US
@@ -11526,24 +11517,6 @@ rate_centers:
   closest_city:
     name: La Grange
     distance_km: 0.93
-- country: US
-  region: IL
-  exchange: '320326'
-  name: LAGRNGHGLD
-  full_name: La Grange Highlands
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: IL
-  exchange: '320325'
-  name: LAGRANGEPK
-  full_name: La Grange Park
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat:
-  long:
 - country: US
   region: IL
   exchange: '050980'
@@ -11628,12 +11601,21 @@ rate_centers:
   name: LACON
   full_name: Lacon
   lata: '368'
-  ilec_name: BRIGHTSPEED OF ILLINOIS, LLC
+  ilec_name: 'BRIGHTSPEED OF ILLINOIS, LLC                              '
   lat: '41.021068'
   long: "-89.407842"
   closest_city:
     name: Lacon
     distance_km: 0.24
+- country: US
+  region: IL
+  exchange: '363236'
+  name: LACROSSE
+  full_name: La Crosse
+  lata: '977'
+  ilec_name: LAHARPE TEL. CO.
+  lat:
+  long:
 - country: US
   region: IL
   exchange: '051040'
@@ -11657,9 +11639,18 @@ rate_centers:
   long:
 - country: US
   region: IL
-  exchange: '320354'
-  name: LK BRINGTN
-  full_name: Lake Barrington
+  exchange: '320325'
+  name: LAGRANGEPK
+  full_name: La Grange Park
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: IL
+  exchange: '320326'
+  name: LAGRNGHGLD
+  full_name: La Grange Highlands
   lata: '358'
   ilec_name: ILLINOIS BELL TEL CO
   lat:
@@ -11684,50 +11675,11 @@ rate_centers:
   long:
 - country: US
   region: IL
-  exchange: '320330'
-  name: LAKECORNER
-  full_name: Lake Corner
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: IL
-  exchange: '051050'
-  name: LAKEFOREST
-  full_name: Lake Forest
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat: '42.256437'
-  long: "-87.836506"
-  closest_city:
-    name: Lake Forest
-    distance_km: 2.8
-- country: US
-  region: IL
   exchange: '321471'
   name: LAKE FORK
   full_name: Lake Fork
   lata: '374'
   ilec_name: FRONTIER COMMUNICATIONS OF MT. PULASKI, INC.
-  lat:
-  long:
-- country: US
-  region: IL
-  exchange: '320355'
-  name: LKIN HILLS
-  full_name: Lake In The Hills
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: IL
-  exchange: '320356'
-  name: LKKATHARIN
-  full_name: Lake Katharin
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
   lat:
   long:
 - country: US
@@ -11753,16 +11705,25 @@ rate_centers:
     distance_km: 0.51
 - country: US
   region: IL
-  exchange: '051070'
-  name: LAKEZURICH
-  full_name: Lake Zurich
+  exchange: '320330'
+  name: LAKECORNER
+  full_name: Lake Corner
   lata: '358'
   ilec_name: ILLINOIS BELL TEL CO
-  lat: '42.196548'
-  long: "-88.095837"
+  lat:
+  long:
+- country: US
+  region: IL
+  exchange: '051050'
+  name: LAKEFOREST
+  full_name: Lake Forest
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat: '42.256437'
+  long: "-87.836506"
   closest_city:
-    name: Lake Zurich
-    distance_km: 0.74
+    name: Lake Forest
+    distance_km: 2.8
 - country: US
   region: IL
   exchange: '320332'
@@ -11781,6 +11742,18 @@ rate_centers:
   ilec_name: ILLINOIS CONSOLIDATED TEL. CO.
   lat:
   long:
+- country: US
+  region: IL
+  exchange: '051070'
+  name: LAKEZURICH
+  full_name: Lake Zurich
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat: '42.196548'
+  long: "-88.095837"
+  closest_city:
+    name: Lake Zurich
+    distance_km: 0.74
 - country: US
   region: IL
   exchange: '320334'
@@ -12227,15 +12200,6 @@ rate_centers:
     distance_km: 0.65
 - country: US
   region: IL
-  exchange: '321475'
-  name: LNLNSNWSLM
-  full_name: Lincolns New Salem
-  lata: '374'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: IL
   exchange: '320347'
   name: LINCOLNSHR
   full_name: Lincolnshire
@@ -12335,15 +12299,6 @@ rate_centers:
     distance_km: 0.17
 - country: US
   region: IL
-  exchange: '321479'
-  name: LTL INDIAN
-  full_name: Little Indian
-  lata: '374'
-  ilec_name: CASS TELEPHONE COMPANY
-  lat:
-  long:
-- country: US
-  region: IL
   exchange: '320353'
   name: LITTLEROCK
   full_name: Little Rock
@@ -12351,18 +12306,6 @@ rate_centers:
   ilec_name: ILLINOIS BELL TEL CO
   lat:
   long:
-- country: US
-  region: IL
-  exchange: '051290'
-  name: LITTLEYORK
-  full_name: Little York
-  lata: '634'
-  ilec_name: CITIZENS TELECOM CO ILLINOIS-FRONTIER CITIZENS -IL
-  lat: '41.011202'
-  long: "-90.749016"
-  closest_city:
-    name: Little York
-    distance_km: 0.16
 - country: US
   region: IL
   exchange: '051300'
@@ -12375,6 +12318,18 @@ rate_centers:
   closest_city:
     name: Littleton
     distance_km: 0.55
+- country: US
+  region: IL
+  exchange: '051290'
+  name: LITTLEYORK
+  full_name: Little York
+  lata: '634'
+  ilec_name: CITIZENS TELECOM CO ILLINOIS-FRONTIER CITIZENS -IL
+  lat: '41.011202'
+  long: "-90.749016"
+  closest_city:
+    name: Little York
+    distance_km: 0.16
 - country: US
   region: IL
   exchange: '321211'
@@ -12396,6 +12351,42 @@ rate_centers:
   closest_city:
     name: Livingston
     distance_km: 0.2
+- country: US
+  region: IL
+  exchange: '320354'
+  name: LK BRINGTN
+  full_name: Lake Barrington
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: IL
+  exchange: '320355'
+  name: LKIN HILLS
+  full_name: Lake In The Hills
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: IL
+  exchange: '320356'
+  name: LKKATHARIN
+  full_name: Lake Katharin
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: IL
+  exchange: '321475'
+  name: LNLNSNWSLM
+  full_name: Lincolns New Salem
+  lata: '374'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat:
+  long:
 - country: US
   region: IL
   exchange: '051320'
@@ -12506,15 +12497,6 @@ rate_centers:
   long:
 - country: US
   region: IL
-  exchange: '321212'
-  name: LONGBRANCH
-  full_name: Long Branch
-  lata: '368'
-  ilec_name: BRIGHTSPEED OF ILLINOIS, LLC
-  lat:
-  long:
-- country: US
-  region: IL
   exchange: '321477'
   name: LONG CREEK
   full_name: Long Creek
@@ -12552,6 +12534,15 @@ rate_centers:
   closest_city:
     name: Long Point
     distance_km: 0.34
+- country: US
+  region: IL
+  exchange: '321212'
+  name: LONGBRANCH
+  full_name: Long Branch
+  lata: '368'
+  ilec_name: 'BRIGHTSPEED OF ILLINOIS, LLC                              '
+  lat:
+  long:
 - country: US
   region: IL
   exchange: '321357'
@@ -12709,6 +12700,15 @@ rate_centers:
   full_name: Loxa
   lata: '976'
   ilec_name: ILLINOIS CONSOLIDATED TEL. CO.
+  lat:
+  long:
+- country: US
+  region: IL
+  exchange: '321479'
+  name: LTL INDIAN
+  full_name: Little Indian
+  lata: '374'
+  ilec_name: CASS TELEPHONE COMPANY
   lat:
   long:
 - country: US
@@ -12975,7 +12975,7 @@ rate_centers:
   name: MANITO
   full_name: Manito
   lata: '368'
-  ilec_name: BRIGHTSPEED OF ILLINOIS, LLC
+  ilec_name: 'BRIGHTSPEED OF ILLINOIS, LLC                              '
   lat: '40.42256'
   long: "-89.776546"
   closest_city:
@@ -13200,7 +13200,7 @@ rate_centers:
   name: MARQU HGT
   full_name: Marquette Heights
   lata: '368'
-  ilec_name: BRIGHTSPEED OF ILLINOIS, LLC
+  ilec_name: 'BRIGHTSPEED OF ILLINOIS, LLC                              '
   lat:
   long:
 - country: US
@@ -13329,7 +13329,7 @@ rate_centers:
   name: MATANZSBCH
   full_name: Matanzas Beach
   lata: '368'
-  ilec_name: BRIGHTSPEED OF ILLINOIS, LLC
+  ilec_name: 'BRIGHTSPEED OF ILLINOIS, LLC                              '
   lat:
   long:
 - country: US
@@ -13545,6 +13545,18 @@ rate_centers:
   ilec_name: FRONTIER NORTH, INC. - IL
   lat:
   long:
+- country: US
+  region: IL
+  exchange: '051940'
+  name: MDLTNNWHLD
+  full_name: Middletown-New Holland
+  lata: '366'
+  ilec_name: FRONTIER NORTH, INC. - IL
+  lat: '40.139479'
+  long: "-89.579062"
+  closest_city:
+    name: Middletown
+    distance_km: 4.56
 - country: US
   region: IL
   exchange: '320382'
@@ -13853,18 +13865,6 @@ rate_centers:
   long:
 - country: US
   region: IL
-  exchange: '051940'
-  name: MDLTNNWHLD
-  full_name: Middletown-New Holland
-  lata: '366'
-  ilec_name: FRONTIER NORTH, INC. - IL
-  lat: '40.139479'
-  long: "-89.579062"
-  closest_city:
-    name: Middletown
-    distance_km: 4.56
-- country: US
-  region: IL
   exchange: '321084'
   name: MIDLAND CY
   full_name: Midland City
@@ -13911,15 +13911,6 @@ rate_centers:
   closest_city:
     name: Milford
     distance_km: 0.45
-- country: US
-  region: IL
-  exchange: '363333'
-  name: MILLSHOALS
-  full_name: Mill Shoals
-  lata: '978'
-  ilec_name: FRONTIER NORTH, INC. - IL
-  lat:
-  long:
 - country: US
   region: IL
   exchange: '320391'
@@ -13984,6 +13975,15 @@ rate_centers:
   full_name: Millington
   lata: '358'
   ilec_name: ILLINOIS BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: IL
+  exchange: '363333'
+  name: MILLSHOALS
+  full_name: Mill Shoals
+  lata: '978'
+  ilec_name: FRONTIER NORTH, INC. - IL
   lat:
   long:
 - country: US
@@ -14381,6 +14381,63 @@ rate_centers:
     distance_km: 0.21
 - country: US
   region: IL
+  exchange: '052230'
+  name: MOUNT ERIE
+  full_name: Mount Erie
+  lata: '978'
+  ilec_name: WABASH TEL. COOP., INC.
+  lat: '38.51947'
+  long: "-88.237453"
+  closest_city:
+    name: Mount Erie
+    distance_km: 0.69
+- country: US
+  region: IL
+  exchange: '052290'
+  name: MOUNT ZION
+  full_name: Mount Zion
+  lata: '374'
+  ilec_name: FRONTIER NORTH, INC. - IL
+  lat: '39.770982'
+  long: "-88.877304"
+  closest_city:
+    name: Mount Zion
+    distance_km: 1.06
+- country: US
+  region: IL
+  exchange: '052250'
+  name: MOUNTOLIVE
+  full_name: Mount Olive
+  lata: '976'
+  ilec_name: CITIZENS TELECOM CO ILLINOIS-FRONTIER CITIZENS -IL
+  lat: '39.073471'
+  long: "-89.723969"
+  closest_city:
+    name: Mount Olive
+    distance_km: 0.34
+- country: US
+  region: IL
+  exchange: '052300'
+  name: MOWEAQUA
+  full_name: Moweaqua
+  lata: '374'
+  ilec_name: FRONTIER COMMUNICATIONS OF ILLINOIS, INC.
+  lat: '39.629388'
+  long: "-89.017764"
+  closest_city:
+    name: Moweaqua
+    distance_km: 0.33
+- country: US
+  region: IL
+  exchange: '329625'
+  name: MOZIER
+  full_name: Mozier
+  lata: '520'
+  ilec_name: CITIZENS TELECOM CO ILLINOIS-FRONTIER CITIZENS -IL
+  lat:
+  long:
+- country: US
+  region: IL
   exchange: '052200'
   name: MT AUBURN
   full_name: Mount Auburn
@@ -14409,24 +14466,12 @@ rate_centers:
   name: MT CARROLL
   full_name: Mount Carroll
   lata: '364'
-  ilec_name: BRIGHTSPEED OF ILLINOIS, LLC
+  ilec_name: 'BRIGHTSPEED OF ILLINOIS, LLC                              '
   lat: '42.095478'
   long: "-89.976054"
   closest_city:
     name: Mount Carroll
     distance_km: 0.11
-- country: US
-  region: IL
-  exchange: '052230'
-  name: MOUNT ERIE
-  full_name: Mount Erie
-  lata: '978'
-  ilec_name: WABASH TEL. COOP., INC.
-  lat: '38.51947'
-  long: "-88.237453"
-  closest_city:
-    name: Mount Erie
-    distance_km: 0.69
 - country: US
   region: IL
   exchange: '052240'
@@ -14441,16 +14486,28 @@ rate_centers:
     distance_km: 0.45
 - country: US
   region: IL
-  exchange: '052250'
-  name: MOUNTOLIVE
-  full_name: Mount Olive
-  lata: '976'
-  ilec_name: CITIZENS TELECOM CO ILLINOIS-FRONTIER CITIZENS -IL
-  lat: '39.073471'
-  long: "-89.723969"
+  exchange: '052260'
+  name: MT PULASKI
+  full_name: Mount Pulaski
+  lata: '374'
+  ilec_name: FRONTIER COMMUNICATIONS OF MT. PULASKI, INC.
+  lat: '40.010709'
+  long: "-89.288213"
   closest_city:
-    name: Mount Olive
-    distance_km: 0.34
+    name: Mount Pulaski
+    distance_km: 0.37
+- country: US
+  region: IL
+  exchange: '052280'
+  name: MT VERNON
+  full_name: Mount Vernon
+  lata: '520'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat: '38.312925'
+  long: "-88.905136"
+  closest_city:
+    name: Mount Vernon
+    distance_km: 1.08
 - country: US
   region: IL
   exchange: '320403'
@@ -14471,18 +14528,6 @@ rate_centers:
   long:
 - country: US
   region: IL
-  exchange: '052260'
-  name: MT PULASKI
-  full_name: Mount Pulaski
-  lata: '374'
-  ilec_name: FRONTIER COMMUNICATIONS OF MT. PULASKI, INC.
-  lat: '40.010709'
-  long: "-89.288213"
-  closest_city:
-    name: Mount Pulaski
-    distance_km: 0.37
-- country: US
-  region: IL
   exchange: '052270'
   name: MTSTERLING
   full_name: Mount Sterling
@@ -14493,51 +14538,6 @@ rate_centers:
   closest_city:
     name: Mount Sterling
     distance_km: 0.31
-- country: US
-  region: IL
-  exchange: '052280'
-  name: MT VERNON
-  full_name: Mount Vernon
-  lata: '520'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat: '38.312925'
-  long: "-88.905136"
-  closest_city:
-    name: Mount Vernon
-    distance_km: 1.08
-- country: US
-  region: IL
-  exchange: '052290'
-  name: MOUNT ZION
-  full_name: Mount Zion
-  lata: '374'
-  ilec_name: FRONTIER NORTH, INC. - IL
-  lat: '39.770982'
-  long: "-88.877304"
-  closest_city:
-    name: Mount Zion
-    distance_km: 1.06
-- country: US
-  region: IL
-  exchange: '052300'
-  name: MOWEAQUA
-  full_name: Moweaqua
-  lata: '374'
-  ilec_name: FRONTIER COMMUNICATIONS OF ILLINOIS, INC.
-  lat: '39.629388'
-  long: "-89.017764"
-  closest_city:
-    name: Moweaqua
-    distance_km: 0.33
-- country: US
-  region: IL
-  exchange: '329625'
-  name: MOZIER
-  full_name: Mozier
-  lata: '520'
-  ilec_name: CITIZENS TELECOM CO ILLINOIS-FRONTIER CITIZENS -IL
-  lat:
-  long:
 - country: US
   region: IL
   exchange: '320841'
@@ -14651,11 +14651,23 @@ rate_centers:
   long:
 - country: US
   region: IL
+  exchange: '055451'
+  name: N CHICAGO
+  full_name: North Chicago
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat: '42.363638'
+  long: "-87.829828"
+  closest_city:
+    name: Waukegan
+    distance_km: 3.5
+- country: US
+  region: IL
   exchange: '320967'
   name: NACHUSA
   full_name: Nachusa
   lata: '364'
-  ilec_name: BRIGHTSPEED OF ILLINOIS, LLC
+  ilec_name: 'BRIGHTSPEED OF ILLINOIS, LLC                              '
   lat:
   long:
 - country: US
@@ -14753,9 +14765,9 @@ rate_centers:
     distance_km: 0.63
 - country: US
   region: IL
-  exchange: '320428'
-  name: NVRSVAVNBS
-  full_name: Naval Reserve Aviation Base
+  exchange: '320409'
+  name: NBARRINGTN
+  full_name: North Barrington
   lata: '358'
   ilec_name: ILLINOIS BELL TEL CO
   lat:
@@ -14793,7 +14805,7 @@ rate_centers:
   name: NELSON
   full_name: Nelson
   lata: '364'
-  ilec_name: BRIGHTSPEED OF ILLINOIS, LLC
+  ilec_name: 'BRIGHTSPEED OF ILLINOIS, LLC                              '
   lat: '41.798024'
   long: "-89.597636"
   closest_city:
@@ -14867,15 +14879,6 @@ rate_centers:
     distance_km: 0.72
 - country: US
   region: IL
-  exchange: '321235'
-  name: NEWBEDFORD
-  full_name: New Bedford
-  lata: '368'
-  ilec_name: FRONTIER NORTH, INC. - IL
-  lat:
-  long:
-- country: US
-  region: IL
   exchange: '052430'
   name: NEW BERLIN
   full_name: New Berlin
@@ -14900,15 +14903,6 @@ rate_centers:
     distance_km: 0.13
 - country: US
   region: IL
-  exchange: '320844'
-  name: NEWBURNSID
-  full_name: New Burnside
-  lata: '362'
-  ilec_name: FRONTIER NORTH, INC. - IL
-  lat:
-  long:
-- country: US
-  region: IL
   exchange: '052450'
   name: NEW CANTON
   full_name: New Canton
@@ -14930,39 +14924,9 @@ rate_centers:
   long:
 - country: US
   region: IL
-  exchange: '320845'
-  name: NEWDENNISN
-  full_name: New Dennison
-  lata: '362'
-  ilec_name: FRONTIER NORTH, INC. - IL
-  lat:
-  long:
-- country: US
-  region: IL
   exchange: '329634'
   name: NEW DESIGN
   full_name: New Design
-  lata: '520'
-  ilec_name: HARRISONVILLE TEL. CO.
-  lat:
-  long:
-- country: US
-  region: IL
-  exchange: '052460'
-  name: NEWDOUGLAS
-  full_name: New Douglas
-  lata: '976'
-  ilec_name: CITIZENS TELECOM CO ILLINOIS-FRONTIER CITIZENS -IL
-  lat: '38.978451'
-  long: "-89.66616"
-  closest_city:
-    name: New Douglas
-    distance_km: 0.97
-- country: US
-  region: IL
-  exchange: '329636'
-  name: NEWHANOVER
-  full_name: New Hanover
   lata: '520'
   ilec_name: HARRISONVILLE TEL. CO.
   lat:
@@ -14990,6 +14954,126 @@ rate_centers:
     distance_km: 0.48
 - country: US
   region: IL
+  exchange: '052480'
+  name: NEW LENOX
+  full_name: New Lenox
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat: '41.517567'
+  long: "-87.963723"
+  closest_city:
+    name: New Lenox
+    distance_km: 1.05
+- country: US
+  region: IL
+  exchange: '052500'
+  name: NEW MINDEN
+  full_name: New Minden
+  lata: '520'
+  ilec_name: CITIZENS TELECOM CO ILLINOIS-FRONTIER CITIZENS -IL
+  lat: '38.436805'
+  long: "-89.369162"
+  closest_city:
+    name: New Minden
+    distance_km: 0.18
+- country: US
+  region: IL
+  exchange: '321617'
+  name: NEW SALEM
+  full_name: New Salem
+  lata: '376'
+  ilec_name: FRONTIER NORTH, INC. - IL
+  lat:
+  long:
+- country: US
+  region: IL
+  exchange: '320412'
+  name: NEW TRIER
+  full_name: New Trier
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: IL
+  exchange: '052520'
+  name: NEWARK
+  full_name: Newark
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat: '41.539961'
+  long: "-88.576111"
+  closest_city:
+    name: Newark
+    distance_km: 0.5
+- country: US
+  region: IL
+  exchange: '321235'
+  name: NEWBEDFORD
+  full_name: New Bedford
+  lata: '368'
+  ilec_name: FRONTIER NORTH, INC. - IL
+  lat:
+  long:
+- country: US
+  region: IL
+  exchange: '321494'
+  name: NEWBURG
+  full_name: Newburg
+  lata: '374'
+  ilec_name: FRONTIER NORTH, INC. - IL
+  lat:
+  long:
+- country: US
+  region: IL
+  exchange: '320844'
+  name: NEWBURNSID
+  full_name: New Burnside
+  lata: '362'
+  ilec_name: FRONTIER NORTH, INC. - IL
+  lat:
+  long:
+- country: US
+  region: IL
+  exchange: '320845'
+  name: NEWDENNISN
+  full_name: New Dennison
+  lata: '362'
+  ilec_name: FRONTIER NORTH, INC. - IL
+  lat:
+  long:
+- country: US
+  region: IL
+  exchange: '052460'
+  name: NEWDOUGLAS
+  full_name: New Douglas
+  lata: '976'
+  ilec_name: CITIZENS TELECOM CO ILLINOIS-FRONTIER CITIZENS -IL
+  lat: '38.978451'
+  long: "-89.66616"
+  closest_city:
+    name: New Douglas
+    distance_km: 0.97
+- country: US
+  region: IL
+  exchange: '321368'
+  name: NEWELL
+  full_name: Newell
+  lata: '370'
+  ilec_name: FRONTIER NORTH, INC. - IL
+  lat:
+  long:
+- country: US
+  region: IL
+  exchange: '329636'
+  name: NEWHANOVER
+  full_name: New Hanover
+  lata: '520'
+  ilec_name: HARRISONVILLE TEL. CO.
+  lat:
+  long:
+- country: US
+  region: IL
   exchange: '321088'
   name: NEWHOLLAND
   full_name: New Holland
@@ -15008,142 +15092,10 @@ rate_centers:
   long:
 - country: US
   region: IL
-  exchange: '052480'
-  name: NEW LENOX
-  full_name: New Lenox
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat: '41.517567'
-  long: "-87.963723"
-  closest_city:
-    name: New Lenox
-    distance_km: 1.05
-- country: US
-  region: IL
   exchange: '320846'
   name: NEWLIBERTY
   full_name: New Liberty
   lata: '362'
-  ilec_name: FRONTIER NORTH, INC. - IL
-  lat:
-  long:
-- country: US
-  region: IL
-  exchange: '329637'
-  name: NEWMEMPHIS
-  full_name: New Memphis
-  lata: '520'
-  ilec_name: FRONTIER NORTH, INC. - IL
-  lat:
-  long:
-- country: US
-  region: IL
-  exchange: '052490'
-  name: NEWMILFORD
-  full_name: New Milford
-  lata: '360'
-  ilec_name: FRONTIER NORTH, INC. - IL
-  lat: '42.188204'
-  long: "-89.069189"
-  closest_city:
-    name: New Milford
-    distance_km: 1.78
-- country: US
-  region: IL
-  exchange: '052500'
-  name: NEW MINDEN
-  full_name: New Minden
-  lata: '520'
-  ilec_name: CITIZENS TELECOM CO ILLINOIS-FRONTIER CITIZENS -IL
-  lat: '38.436805'
-  long: "-89.369162"
-  closest_city:
-    name: New Minden
-    distance_km: 0.18
-- country: US
-  region: IL
-  exchange: '320847'
-  name: NEWPALSTIN
-  full_name: New Palestine
-  lata: '362'
-  ilec_name: EGYPTIAN TEL. COOP. ASSN.
-  lat:
-  long:
-- country: US
-  region: IL
-  exchange: '363250'
-  name: NEWPHLDLPH
-  full_name: New Philadelphia
-  lata: '977'
-  ilec_name: MCDONOUGH TEL. COOP.
-  lat:
-  long:
-- country: US
-  region: IL
-  exchange: '321617'
-  name: NEW SALEM
-  full_name: New Salem
-  lata: '376'
-  ilec_name: FRONTIER NORTH, INC. - IL
-  lat:
-  long:
-- country: US
-  region: IL
-  exchange: '321498'
-  name: NWSLMSTTPK
-  full_name: New Salem State Park
-  lata: '374'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: IL
-  exchange: '320412'
-  name: NEW TRIER
-  full_name: New Trier
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: IL
-  exchange: '052510'
-  name: NEWWINDSOR
-  full_name: New Windsor
-  lata: '634'
-  ilec_name: NEW WINDSOR TEL. CO.
-  lat: '41.201417'
-  long: "-90.443361"
-  closest_city:
-    name: Alpha
-    distance_km: 5.37
-- country: US
-  region: IL
-  exchange: '052520'
-  name: NEWARK
-  full_name: Newark
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat: '41.539961'
-  long: "-88.576111"
-  closest_city:
-    name: Newark
-    distance_km: 0.5
-- country: US
-  region: IL
-  exchange: '321494'
-  name: NEWBURG
-  full_name: Newburg
-  lata: '374'
-  ilec_name: FRONTIER NORTH, INC. - IL
-  lat:
-  long:
-- country: US
-  region: IL
-  exchange: '321368'
-  name: NEWELL
-  full_name: Newell
-  lata: '370'
   ilec_name: FRONTIER NORTH, INC. - IL
   lat:
   long:
@@ -15170,6 +15122,45 @@ rate_centers:
   long:
 - country: US
   region: IL
+  exchange: '329637'
+  name: NEWMEMPHIS
+  full_name: New Memphis
+  lata: '520'
+  ilec_name: FRONTIER NORTH, INC. - IL
+  lat:
+  long:
+- country: US
+  region: IL
+  exchange: '052490'
+  name: NEWMILFORD
+  full_name: New Milford
+  lata: '360'
+  ilec_name: FRONTIER NORTH, INC. - IL
+  lat: '42.188204'
+  long: "-89.069189"
+  closest_city:
+    name: New Milford
+    distance_km: 1.78
+- country: US
+  region: IL
+  exchange: '320847'
+  name: NEWPALSTIN
+  full_name: New Palestine
+  lata: '362'
+  ilec_name: EGYPTIAN TEL. COOP. ASSN.
+  lat:
+  long:
+- country: US
+  region: IL
+  exchange: '363250'
+  name: NEWPHLDLPH
+  full_name: New Philadelphia
+  lata: '977'
+  ilec_name: MCDONOUGH TEL. COOP.
+  lat:
+  long:
+- country: US
+  region: IL
   exchange: '052540'
   name: NEWTON
   full_name: Newton
@@ -15180,6 +15171,18 @@ rate_centers:
   closest_city:
     name: Newton
     distance_km: 0.77
+- country: US
+  region: IL
+  exchange: '052510'
+  name: NEWWINDSOR
+  full_name: New Windsor
+  lata: '634'
+  ilec_name: NEW WINDSOR TEL. CO.
+  lat: '41.201417'
+  long: "-90.443361"
+  closest_city:
+    name: Alpha
+    distance_km: 5.37
 - country: US
   region: IL
   exchange: '052550'
@@ -15224,6 +15227,33 @@ rate_centers:
     distance_km: 0.43
 - country: US
   region: IL
+  exchange: '320415'
+  name: NO AURORA
+  full_name: North Aurora
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: IL
+  exchange: '320416'
+  name: NO CHICAGO
+  full_name: North Chicago
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: IL
+  exchange: '320417'
+  name: NO HARVEY
+  full_name: North Harvey
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: IL
   exchange: '052570'
   name: NOBLE
   full_name: Noble
@@ -15234,6 +15264,27 @@ rate_centers:
   closest_city:
     name: Noble
     distance_km: 0.4
+- country: US
+  region: IL
+  exchange: '321236'
+  name: NOCHILICTH
+  full_name: North Chillicothe
+  lata: '368'
+  ilec_name: FRONTIER NORTH, INC. - IL
+  lat:
+  long:
+- country: US
+  region: IL
+  exchange: '052600'
+  name: NOHENDERSN
+  full_name: North Henderson
+  lata: '634'
+  ilec_name: CITIZENS TELECOM CO ILLINOIS-FRONTIER CITIZENS -IL
+  lat: '41.089655'
+  long: "-90.475327"
+  closest_city:
+    name: North Henderson
+    distance_km: 0.09
 - country: US
   region: IL
   exchange: '052580'
@@ -15262,6 +15313,15 @@ rate_centers:
   full_name: Nora
   lata: '360'
   ilec_name: FRONTIER NORTH, INC. - IL
+  lat:
+  long:
+- country: US
+  region: IL
+  exchange: '320418'
+  name: NORIVERSID
+  full_name: North Riverside
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
   lat:
   long:
 - country: US
@@ -15323,99 +15383,9 @@ rate_centers:
     distance_km: 0.52
 - country: US
   region: IL
-  exchange: '320415'
-  name: NO AURORA
-  full_name: North Aurora
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: IL
-  exchange: '320409'
-  name: NBARRINGTN
-  full_name: North Barrington
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: IL
-  exchange: '055451'
-  name: N CHICAGO
-  full_name: North Chicago
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat: '42.363638'
-  long: "-87.829828"
-  closest_city:
-    name: Waukegan
-    distance_km: 3.5
-- country: US
-  region: IL
-  exchange: '320416'
-  name: NO CHICAGO
-  full_name: North Chicago
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: IL
-  exchange: '321236'
-  name: NOCHILICTH
-  full_name: North Chillicothe
-  lata: '368'
-  ilec_name: FRONTIER NORTH, INC. - IL
-  lat:
-  long:
-- country: US
-  region: IL
-  exchange: '320417'
-  name: NO HARVEY
-  full_name: North Harvey
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: IL
-  exchange: '052600'
-  name: NOHENDERSN
-  full_name: North Henderson
-  lata: '634'
-  ilec_name: CITIZENS TELECOM CO ILLINOIS-FRONTIER CITIZENS -IL
-  lat: '41.089655'
-  long: "-90.475327"
-  closest_city:
-    name: North Henderson
-    distance_km: 0.09
-- country: US
-  region: IL
-  exchange: '052610'
-  name: NORTHPEKIN
-  full_name: North Pekin
-  lata: '368'
-  ilec_name: BRIGHTSPEED OF ILLINOIS, LLC
-  lat: '40.620812'
-  long: "-89.619355"
-  closest_city:
-    name: North Pekin
-    distance_km: 1.08
-- country: US
-  region: IL
-  exchange: '320418'
-  name: NORIVERSID
-  full_name: North Riverside
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: IL
-  exchange: '052620'
-  name: NORTHBROOK
-  full_name: Northbrook
+  exchange: '052621'
+  name: NORTHBRK W
+  full_name: Northbrook West
   lata: '358'
   ilec_name: ILLINOIS BELL TEL CO
   lat: '42.128375'
@@ -15425,9 +15395,9 @@ rate_centers:
     distance_km: 0.43
 - country: US
   region: IL
-  exchange: '052621'
-  name: NORTHBRK W
-  full_name: Northbrook West
+  exchange: '052620'
+  name: NORTHBROOK
+  full_name: Northbrook
   lata: '358'
   ilec_name: ILLINOIS BELL TEL CO
   lat: '42.128375'
@@ -15453,6 +15423,18 @@ rate_centers:
   ilec_name: ILLINOIS BELL TEL CO
   lat:
   long:
+- country: US
+  region: IL
+  exchange: '052610'
+  name: NORTHPEKIN
+  full_name: North Pekin
+  lata: '368'
+  ilec_name: 'BRIGHTSPEED OF ILLINOIS, LLC                              '
+  lat: '40.620812'
+  long: "-89.619355"
+  closest_city:
+    name: North Pekin
+    distance_km: 1.08
 - country: US
   region: IL
   exchange: '320424'
@@ -15509,6 +15491,24 @@ rate_centers:
   long:
 - country: US
   region: IL
+  exchange: '320428'
+  name: NVRSVAVNBS
+  full_name: Naval Reserve Aviation Base
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: IL
+  exchange: '321498'
+  name: NWSLMSTTPK
+  full_name: New Salem State Park
+  lata: '374'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: IL
   exchange: '052630'
   name: O FALLON
   full_name: O'Fallon
@@ -15533,15 +15533,6 @@ rate_centers:
     distance_km: 0.92
 - country: US
   region: IL
-  exchange: '320431'
-  name: OAK FOREST
-  full_name: Oak Forest
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: IL
   exchange: '052640'
   name: OAK FOR SO
   full_name: Oak Forest South
@@ -15552,6 +15543,15 @@ rate_centers:
   closest_city:
     name: Midlothian
     distance_km: 1.49
+- country: US
+  region: IL
+  exchange: '320431'
+  name: OAK FOREST
+  full_name: Oak Forest
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat:
+  long:
 - country: US
   region: IL
   exchange: '338638'
@@ -15803,19 +15803,19 @@ rate_centers:
   long:
 - country: US
   region: IL
-  exchange: '320438'
-  name: OLDMLCREEK
-  full_name: Old Mill Creek
-  lata: '358'
+  exchange: '329644'
+  name: OLD RIPLEY
+  full_name: Old Ripley
+  lata: '520'
   ilec_name: ILLINOIS BELL TEL CO
   lat:
   long:
 - country: US
   region: IL
-  exchange: '329644'
-  name: OLD RIPLEY
-  full_name: Old Ripley
-  lata: '520'
+  exchange: '320438'
+  name: OLDMLCREEK
+  full_name: Old Mill Creek
+  lata: '358'
   ilec_name: ILLINOIS BELL TEL CO
   lat:
   long:
@@ -16265,15 +16265,6 @@ rate_centers:
   long:
 - country: US
   region: IL
-  exchange: '320451'
-  name: PALOSHILLS
-  full_name: Palos Hills
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: IL
   exchange: '052980'
   name: PALOS PARK
   full_name: Palos Park
@@ -16284,6 +16275,15 @@ rate_centers:
   closest_city:
     name: Palos Heights
     distance_km: 2.87
+- country: US
+  region: IL
+  exchange: '320451'
+  name: PALOSHILLS
+  full_name: Palos Hills
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat:
+  long:
 - country: US
   region: IL
   exchange: '052990'
@@ -16355,18 +16355,6 @@ rate_centers:
   long:
 - country: US
   region: IL
-  exchange: '047792'
-  name: PARKFOREST
-  full_name: Park Forest
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat: '41.505751'
-  long: "-87.633046"
-  closest_city:
-    name: Chicago Heights
-    distance_km: 0.49
-- country: US
-  region: IL
   exchange: '053010'
   name: PARK RIDGE
   full_name: Park Ridge
@@ -16391,11 +16379,23 @@ rate_centers:
     distance_km: 0.38
 - country: US
   region: IL
+  exchange: '047792'
+  name: PARKFOREST
+  full_name: Park Forest
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat: '41.505751'
+  long: "-87.633046"
+  closest_city:
+    name: Chicago Heights
+    distance_km: 0.49
+- country: US
+  region: IL
   exchange: '321244'
   name: PARKLAND
   full_name: Parkland
   lata: '368'
-  ilec_name: BRIGHTSPEED OF ILLINOIS, LLC
+  ilec_name: 'BRIGHTSPEED OF ILLINOIS, LLC                              '
   lat:
   long:
 - country: US
@@ -16560,7 +16560,7 @@ rate_centers:
   name: PEKIN
   full_name: Pekin
   lata: '368'
-  ilec_name: BRIGHTSPEED OF ILLINOIS, LLC
+  ilec_name: 'BRIGHTSPEED OF ILLINOIS, LLC                              '
   lat: '40.562999'
   long: "-89.643956"
   closest_city:
@@ -16619,6 +16619,15 @@ rate_centers:
     distance_km: 4.07
 - country: US
   region: IL
+  exchange: '321247'
+  name: PEORIA HTS
+  full_name: Peoria Heights
+  lata: '368'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: IL
   exchange: '053152'
   name: PEORIABLFS
   full_name: Peoria Bluffs
@@ -16631,15 +16640,6 @@ rate_centers:
   exchange: '053151'
   name: PEORIAEAST
   full_name: Peoria East
-  lata: '368'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: IL
-  exchange: '321247'
-  name: PEORIA HTS
-  full_name: Peoria Heights
   lata: '368'
   ilec_name: ILLINOIS BELL TEL CO
   lat:
@@ -16886,6 +16886,15 @@ rate_centers:
   long:
 - country: US
   region: IL
+  exchange: '320465'
+  name: PISTAKEELK
+  full_name: Pistakee Lake
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: IL
   exchange: '053240'
   name: PISTAKHLDS
   full_name: Pistakee Highlands
@@ -16896,15 +16905,6 @@ rate_centers:
   closest_city:
     name: Pistakee Highlands
     distance_km: 0.71
-- country: US
-  region: IL
-  exchange: '320465'
-  name: PISTAKEELK
-  full_name: Pistakee Lake
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat:
-  long:
 - country: US
   region: IL
   exchange: '053250'
@@ -17006,6 +17006,15 @@ rate_centers:
     distance_km: 0.33
 - country: US
   region: IL
+  exchange: '329652'
+  name: PLEASAMOND
+  full_name: Pleasant Mound
+  lata: '520'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: IL
   exchange: '053310'
   name: PLEASANTHL
   full_name: Pleasant Hill
@@ -17016,15 +17025,6 @@ rate_centers:
   closest_city:
     name: Pleasant Hill
     distance_km: 0.37
-- country: US
-  region: IL
-  exchange: '329652'
-  name: PLEASAMOND
-  full_name: Pleasant Mound
-  lata: '520'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat:
-  long:
 - country: US
   region: IL
   exchange: '053320'
@@ -17132,15 +17132,6 @@ rate_centers:
   long:
 - country: US
   region: IL
-  exchange: '321248'
-  name: POPLAR CTY
-  full_name: Poplar City
-  lata: '368'
-  ilec_name: CASS TELEPHONE COMPANY
-  lat:
-  long:
-- country: US
-  region: IL
   exchange: '048681'
   name: POPLAR CRE
   full_name: Poplar Creek
@@ -17153,6 +17144,15 @@ rate_centers:
     distance_km: 1.77
 - country: US
   region: IL
+  exchange: '321248'
+  name: POPLAR CTY
+  full_name: Poplar City
+  lata: '368'
+  ilec_name: CASS TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: IL
   exchange: '053370'
   name: POPLAR GRV
   full_name: Poplar Grove
@@ -17163,15 +17163,6 @@ rate_centers:
   closest_city:
     name: Poplar Grove
     distance_km: 2.23
-- country: US
-  region: IL
-  exchange: '320477'
-  name: PT BARRGTN
-  full_name: Port Barrington
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat:
-  long:
 - country: US
   region: IL
   exchange: '053380'
@@ -17243,15 +17234,6 @@ rate_centers:
   long:
 - country: US
   region: IL
-  exchange: '320474'
-  name: PRAIRIECTR
-  full_name: Prairie Center
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: IL
   exchange: '053400'
   name: PRAIRIE CY
   full_name: Prairie City
@@ -17273,16 +17255,13 @@ rate_centers:
   long:
 - country: US
   region: IL
-  exchange: '053410'
-  name: PRARIDRCHR
-  full_name: Prairie du Rocher
-  lata: '520'
-  ilec_name: HARRISONVILLE TEL. CO.
-  lat: '38.082665'
-  long: "-90.107661"
-  closest_city:
-    name: Prairie du Rocher
-    distance_km: 0.88
+  exchange: '320474'
+  name: PRAIRIECTR
+  full_name: Prairie Center
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat:
+  long:
 - country: US
   region: IL
   exchange: '053420'
@@ -17304,6 +17283,18 @@ rate_centers:
   ilec_name: ILLINOIS BELL TEL CO
   lat:
   long:
+- country: US
+  region: IL
+  exchange: '053410'
+  name: PRARIDRCHR
+  full_name: Prairie du Rocher
+  lata: '520'
+  ilec_name: HARRISONVILLE TEL. CO.
+  lat: '38.082665'
+  long: "-90.107661"
+  closest_city:
+    name: Prairie du Rocher
+    distance_km: 0.88
 - country: US
   region: IL
   exchange: '053430'
@@ -17408,6 +17399,15 @@ rate_centers:
   long:
 - country: US
   region: IL
+  exchange: '320477'
+  name: PT BARRGTN
+  full_name: Port Barrington
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: IL
   exchange: '320859'
   name: PULASKI
   full_name: Pulaski
@@ -17477,15 +17477,6 @@ rate_centers:
   long:
 - country: US
   region: IL
-  exchange: '320862'
-  name: RALEIGH
-  full_name: Raleigh
-  lata: '362'
-  ilec_name: FRONTIER NORTH, INC. - IL
-  lat:
-  long:
-- country: US
-  region: IL
   exchange: '053490'
   name: RALEGHGLTI
   full_name: Raleigh Galatia
@@ -17496,6 +17487,15 @@ rate_centers:
   closest_city:
     name: Raleigh
     distance_km: 0.3
+- country: US
+  region: IL
+  exchange: '320862'
+  name: RALEIGH
+  full_name: Raleigh
+  lata: '362'
+  ilec_name: FRONTIER NORTH, INC. - IL
+  lat:
+  long:
 - country: US
   region: IL
   exchange: '053500'
@@ -17945,18 +17945,6 @@ rate_centers:
   long:
 - country: US
   region: IL
-  exchange: '053670'
-  name: RIVERGROVE
-  full_name: River Grove
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat: '41.926197'
-  long: "-87.834546"
-  closest_city:
-    name: River Grove
-    distance_km: 0.35
-- country: US
-  region: IL
   exchange: '053680'
   name: RIVERDALE
   full_name: Riverdale
@@ -17967,6 +17955,18 @@ rate_centers:
   closest_city:
     name: Riverdale
     distance_km: 1.66
+- country: US
+  region: IL
+  exchange: '053670'
+  name: RIVERGROVE
+  full_name: River Grove
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat: '41.926197'
+  long: "-87.834546"
+  closest_city:
+    name: River Grove
+    distance_km: 0.35
 - country: US
   region: IL
   exchange: '053690'
@@ -18128,18 +18128,6 @@ rate_centers:
   long:
 - country: US
   region: IL
-  exchange: '053770'
-  name: ROCKISLAND
-  full_name: Rock Island
-  lata: '634'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat: '41.508432'
-  long: "-90.576358"
-  closest_city:
-    name: Rock Island Arsenal
-    distance_km: 3.1
-- country: US
-  region: IL
   exchange: '329669'
   name: ROCKBRIDGE
   full_name: Rockbridge
@@ -18168,6 +18156,18 @@ rate_centers:
   closest_city:
     name: Rockford
     distance_km: 2.93
+- country: US
+  region: IL
+  exchange: '053770'
+  name: ROCKISLAND
+  full_name: Rock Island
+  lata: '634'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat: '41.508432'
+  long: "-90.576358"
+  closest_city:
+    name: Rock Island Arsenal
+    distance_km: 3.1
 - country: US
   region: IL
   exchange: '053790'
@@ -18248,6 +18248,15 @@ rate_centers:
   long:
 - country: US
   region: IL
+  exchange: '320496'
+  name: ROMEOVILLE
+  full_name: Romeoville
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: IL
   exchange: '051331'
   name: ROMEOVLLE
   full_name: Romeoville
@@ -18258,15 +18267,6 @@ rate_centers:
   closest_city:
     name: Lockport
     distance_km: 1.88
-- country: US
-  region: IL
-  exchange: '320496'
-  name: ROMEOVILLE
-  full_name: Romeoville
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat:
-  long:
 - country: US
   region: IL
   exchange: '329670'
@@ -18425,15 +18425,6 @@ rate_centers:
     distance_km: 0.27
 - country: US
   region: IL
-  exchange: '320978'
-  name: ROUNDGROVE
-  full_name: Round Grove
-  lata: '364'
-  ilec_name: CITIZENS TELECOM CO ILLINOIS-FRONTIER CITIZENS -IL
-  lat:
-  long:
-- country: US
-  region: IL
   exchange: '320868'
   name: ROUND KNOB
   full_name: Round Knob
@@ -18455,6 +18446,24 @@ rate_centers:
     distance_km: 1.58
 - country: US
   region: IL
+  exchange: '320978'
+  name: ROUNDGROVE
+  full_name: Round Grove
+  lata: '364'
+  ilec_name: CITIZENS TELECOM CO ILLINOIS-FRONTIER CITIZENS -IL
+  lat:
+  long:
+- country: US
+  region: IL
+  exchange: '320501'
+  name: ROUNDLK PK
+  full_name: Round Lake Park
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: IL
   exchange: '320502'
   name: ROUNDLKBCH
   full_name: Round Lake Beach
@@ -18467,15 +18476,6 @@ rate_centers:
   exchange: '320503'
   name: ROUNDLKHTS
   full_name: Round Lake Heights
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: IL
-  exchange: '320501'
-  name: ROUNDLK PK
-  full_name: Round Lake Park
   lata: '358'
   ilec_name: ILLINOIS BELL TEL CO
   lat:
@@ -18662,51 +18662,6 @@ rate_centers:
     distance_km: 0.3
 - country: US
   region: IL
-  exchange: '363263'
-  name: ST AUGSTN
-  full_name: Saint Augustine
-  lata: '977'
-  ilec_name: CITIZENS TELECOM CO ILLINOIS-FRONTIER CITIZENS -IL
-  lat:
-  long:
-- country: US
-  region: IL
-  exchange: '320535'
-  name: ST GEORGE
-  full_name: Saint George
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: IL
-  exchange: '329693'
-  name: ST JAMES
-  full_name: Saint James
-  lata: '520'
-  ilec_name: CITIZENS TELECOM CO ILLINOIS-FRONTIER CITIZENS -IL
-  lat:
-  long:
-- country: US
-  region: IL
-  exchange: '329695'
-  name: ST PAUL
-  full_name: Saint Paul
-  lata: '520'
-  ilec_name: CITIZENS TELECOM CO ILLINOIS-FRONTIER CITIZENS -IL
-  lat:
-  long:
-- country: US
-  region: IL
-  exchange: '329697'
-  name: ST ROSE
-  full_name: Saint Rose
-  lata: '520'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: IL
   exchange: '053950'
   name: SALEM
   full_name: Salem
@@ -18852,7 +18807,7 @@ rate_centers:
   name: SAVANNA
   full_name: Savanna
   lata: '364'
-  ilec_name: BRIGHTSPEED OF ILLINOIS, LLC
+  ilec_name: 'BRIGHTSPEED OF ILLINOIS, LLC                              '
   lat: '42.090994'
   long: "-90.144415"
   closest_city:
@@ -18920,18 +18875,6 @@ rate_centers:
   long:
 - country: US
   region: IL
-  exchange: '053842'
-  name: SCHAUMBURG
-  full_name: Schaumburg
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat: '41.983819'
-  long: "-88.086059"
-  closest_city:
-    name: Roselle
-    distance_km: 0.32
-- country: US
-  region: IL
   exchange: '053843'
   name: SCHAUMBG N
   full_name: Schaumburg North
@@ -18944,11 +18887,32 @@ rate_centers:
     distance_km: 0.56
 - country: US
   region: IL
+  exchange: '053842'
+  name: SCHAUMBURG
+  full_name: Schaumburg
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat: '41.983819'
+  long: "-88.086059"
+  closest_city:
+    name: Roselle
+    distance_km: 0.32
+- country: US
+  region: IL
   exchange: '329680'
   name: SCHELLER
   full_name: Scheller
   lata: '520'
   ilec_name: CITIZENS TELECOM CO ILLINOIS-FRONTIER CITIZENS -IL
+  lat:
+  long:
+- country: US
+  region: IL
+  exchange: '320512'
+  name: SCHICGOHTS
+  full_name: South Chicago Heights
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
   lat:
   long:
 - country: US
@@ -19550,6 +19514,69 @@ rate_centers:
   long:
 - country: US
   region: IL
+  exchange: '320524'
+  name: SO BARRGTN
+  full_name: South Barrington
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: IL
+  exchange: '054350'
+  name: SO BELOIT
+  full_name: South Beloit
+  lata: '354'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat: '42.503874'
+  long: "-89.038746"
+  closest_city:
+    name: South Beloit
+    distance_km: 2.6
+- country: US
+  region: IL
+  exchange: '054360'
+  name: SO BERGEN
+  full_name: South Bergen
+  lata: '356'
+  ilec_name: BERGEN TEL. CO. - IL
+  lat: '42.492199'
+  long: "-88.858424"
+  closest_city:
+    name: South Beloit
+    distance_km: 13.78
+- country: US
+  region: IL
+  exchange: '320525'
+  name: SO HOLLAND
+  full_name: South Holland
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: IL
+  exchange: '329690'
+  name: SO ROXANA
+  full_name: South Roxana
+  lata: '520'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: IL
+  exchange: '054380'
+  name: SO SHARON
+  full_name: South Sharon
+  lata: '356'
+  ilec_name: SHARON TEL. CO. - IL
+  lat: '42.488983'
+  long: "-88.727956"
+  closest_city:
+    name: Lawrence
+    distance_km: 8.7
+- country: US
+  region: IL
   exchange: '320526'
   name: SOLLITT
   full_name: Sollitt
@@ -19592,44 +19619,11 @@ rate_centers:
     distance_km: 0.21
 - country: US
   region: IL
-  exchange: '320524'
-  name: SO BARRGTN
-  full_name: South Barrington
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: IL
-  exchange: '054350'
-  name: SO BELOIT
-  full_name: South Beloit
-  lata: '354'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat: '42.503874'
-  long: "-89.038746"
-  closest_city:
-    name: South Beloit
-    distance_km: 2.6
-- country: US
-  region: IL
-  exchange: '054360'
-  name: SO BERGEN
-  full_name: South Bergen
-  lata: '356'
-  ilec_name: BERGEN TEL. CO. - IL
-  lat: '42.492199'
-  long: "-88.858424"
-  closest_city:
-    name: South Beloit
-    distance_km: 13.78
-- country: US
-  region: IL
-  exchange: '320512'
-  name: SCHICGOHTS
-  full_name: South Chicago Heights
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
+  exchange: '363151'
+  name: SOSTANDARD
+  full_name: South Standard
+  lata: '976'
+  ilec_name: CITIZENS TELECOM CO ILLINOIS-FRONTIER CITIZENS -IL
   lat:
   long:
 - country: US
@@ -19643,10 +19637,10 @@ rate_centers:
   long:
 - country: US
   region: IL
-  exchange: '320525'
-  name: SO HOLLAND
-  full_name: South Holland
-  lata: '358'
+  exchange: '321519'
+  name: SOUTHERNVW
+  full_name: Southern View
+  lata: '374'
   ilec_name: ILLINOIS BELL TEL CO
   lat:
   long:
@@ -19656,7 +19650,7 @@ rate_centers:
   name: SOUTHPEKIN
   full_name: South Pekin
   lata: '368'
-  ilec_name: BRIGHTSPEED OF ILLINOIS, LLC
+  ilec_name: 'BRIGHTSPEED OF ILLINOIS, LLC                              '
   lat: '40.494842'
   long: "-89.65509"
   closest_city:
@@ -19664,49 +19658,10 @@ rate_centers:
     distance_km: 0.24
 - country: US
   region: IL
-  exchange: '329690'
-  name: SO ROXANA
-  full_name: South Roxana
-  lata: '520'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: IL
-  exchange: '054380'
-  name: SO SHARON
-  full_name: South Sharon
-  lata: '356'
-  ilec_name: SHARON TEL. CO. - IL
-  lat: '42.488983'
-  long: "-88.727956"
-  closest_city:
-    name: Lawrence
-    distance_km: 8.7
-- country: US
-  region: IL
-  exchange: '363151'
-  name: SOSTANDARD
-  full_name: South Standard
-  lata: '976'
-  ilec_name: CITIZENS TELECOM CO ILLINOIS-FRONTIER CITIZENS -IL
-  lat:
-  long:
-- country: US
-  region: IL
   exchange: '320530'
   name: SOWILMIGTN
   full_name: South Wilmington
   lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: IL
-  exchange: '321519'
-  name: SOUTHERNVW
-  full_name: Southern View
-  lata: '374'
   ilec_name: ILLINOIS BELL TEL CO
   lat:
   long:
@@ -19796,15 +19751,6 @@ rate_centers:
     distance_km: 1.62
 - country: US
   region: IL
-  exchange: '338653'
-  name: SPRINGHILL
-  full_name: Spring Hill
-  lata: '634'
-  ilec_name: CITIZENS TELECOM CO ILLINOIS-FRONTIER CITIZENS -IL
-  lat:
-  long:
-- country: US
-  region: IL
   exchange: '054430'
   name: SPRING VLY
   full_name: Spring Valley
@@ -19838,6 +19784,15 @@ rate_centers:
     distance_km: 3.14
 - country: US
   region: IL
+  exchange: '338653'
+  name: SPRINGHILL
+  full_name: Spring Hill
+  lata: '634'
+  ilec_name: CITIZENS TELECOM CO ILLINOIS-FRONTIER CITIZENS -IL
+  lat:
+  long:
+- country: US
+  region: IL
   exchange: '054450'
   name: ST ANNE
   full_name: St Anne
@@ -19848,6 +19803,15 @@ rate_centers:
   closest_city:
     name: St. Anne
     distance_km: 0.54
+- country: US
+  region: IL
+  exchange: '363263'
+  name: ST AUGSTN
+  full_name: Saint Augustine
+  lata: '977'
+  ilec_name: CITIZENS TELECOM CO ILLINOIS-FRONTIER CITIZENS -IL
+  lat:
+  long:
 - country: US
   region: IL
   exchange: '054460'
@@ -19883,16 +19847,13 @@ rate_centers:
     distance_km: 0.71
 - country: US
   region: IL
-  exchange: '054480'
-  name: STFRNCISVL
-  full_name: St Francisville
-  lata: '978'
-  ilec_name: FRONTIER NORTH, INC. - IL
-  lat: '38.595432'
-  long: "-87.65114"
-  closest_city:
-    name: St. Francisville
-    distance_km: 0.52
+  exchange: '320535'
+  name: ST GEORGE
+  full_name: Saint George
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat:
+  long:
 - country: US
   region: IL
   exchange: '054490'
@@ -19905,6 +19866,15 @@ rate_centers:
   closest_city:
     name: St. Jacob
     distance_km: 0.23
+- country: US
+  region: IL
+  exchange: '329693'
+  name: ST JAMES
+  full_name: Saint James
+  lata: '520'
+  ilec_name: CITIZENS TELECOM CO ILLINOIS-FRONTIER CITIZENS -IL
+  lat:
+  long:
 - country: US
   region: IL
   exchange: '054500'
@@ -19931,6 +19901,15 @@ rate_centers:
     distance_km: 0.39
 - country: US
   region: IL
+  exchange: '329695'
+  name: ST PAUL
+  full_name: Saint Paul
+  lata: '520'
+  ilec_name: CITIZENS TELECOM CO ILLINOIS-FRONTIER CITIZENS -IL
+  lat:
+  long:
+- country: US
+  region: IL
   exchange: '054520'
   name: ST PETER
   full_name: St Peter
@@ -19941,6 +19920,15 @@ rate_centers:
   closest_city:
     name: St. Peter
     distance_km: 0.26
+- country: US
+  region: IL
+  exchange: '329697'
+  name: ST ROSE
+  full_name: Saint Rose
+  lata: '520'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat:
+  long:
 - country: US
   region: IL
   exchange: '329698'
@@ -20108,11 +20096,32 @@ rate_centers:
     distance_km: 0.39
 - country: US
   region: IL
+  exchange: '054480'
+  name: STFRNCISVL
+  full_name: St Francisville
+  lata: '978'
+  ilec_name: FRONTIER NORTH, INC. - IL
+  lat: '38.595432'
+  long: "-87.65114"
+  closest_city:
+    name: St. Francisville
+    distance_km: 0.52
+- country: US
+  region: IL
   exchange: '320542'
   name: STICKNEY
   full_name: Stickney
   lata: '358'
   ilec_name: ILLINOIS BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: IL
+  exchange: '363264'
+  name: STILLWELL
+  full_name: Stillwell
+  lata: '977'
+  ilec_name: CITIZENS TELECOM CO ILLINOIS-FRONTIER CITIZENS -IL
   lat:
   long:
 - country: US
@@ -20127,15 +20136,6 @@ rate_centers:
   closest_city:
     name: Stillman Valley
     distance_km: 0.55
-- country: US
-  region: IL
-  exchange: '363264'
-  name: STILLWELL
-  full_name: Stillwell
-  lata: '977'
-  ilec_name: CITIZENS TELECOM CO ILLINOIS-FRONTIER CITIZENS -IL
-  lat:
-  long:
 - country: US
   region: IL
   exchange: '320543'
@@ -20342,15 +20342,6 @@ rate_centers:
     distance_km: 0.71
 - country: US
   region: IL
-  exchange: '321641'
-  name: SUMMERHILL
-  full_name: Summer Hill
-  lata: '376'
-  ilec_name: FRONTIER NORTH, INC. - IL
-  lat:
-  long:
-- country: US
-  region: IL
   exchange: '054720'
   name: SUMMERFLD
   full_name: Summerfield
@@ -20361,6 +20352,15 @@ rate_centers:
   closest_city:
     name: Summerfield
     distance_km: 0.3
+- country: US
+  region: IL
+  exchange: '321641'
+  name: SUMMERHILL
+  full_name: Summer Hill
+  lata: '376'
+  ilec_name: FRONTIER NORTH, INC. - IL
+  lat:
+  long:
 - country: US
   region: IL
   exchange: '054730'
@@ -20553,7 +20553,7 @@ rate_centers:
   name: TALBOTT
   full_name: Talbott
   lata: '368'
-  ilec_name: BRIGHTSPEED OF ILLINOIS, LLC
+  ilec_name: 'BRIGHTSPEED OF ILLINOIS, LLC                              '
   lat: '40.509317'
   long: "-89.787046"
   closest_city:
@@ -20832,12 +20832,21 @@ rate_centers:
   name: THOMSON
   full_name: Thomson
   lata: '364'
-  ilec_name: BRIGHTSPEED OF ILLINOIS, LLC
+  ilec_name: 'BRIGHTSPEED OF ILLINOIS, LLC                              '
   lat: '41.965123'
   long: "-90.097582"
   closest_city:
     name: Thomson
     distance_km: 1.62
+- country: US
+  region: IL
+  exchange: '320557'
+  name: THORNTNJCT
+  full_name: Thornton Junction
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat:
+  long:
 - country: US
   region: IL
   exchange: '054940'
@@ -20850,15 +20859,6 @@ rate_centers:
   closest_city:
     name: Thornton
     distance_km: 0.38
-- country: US
-  region: IL
-  exchange: '320557'
-  name: THORNTNJCT
-  full_name: Thornton Junction
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat:
-  long:
 - country: US
   region: IL
   exchange: '321526'
@@ -21039,7 +21039,7 @@ rate_centers:
   name: TOPEKA
   full_name: Topeka
   lata: '368'
-  ilec_name: BRIGHTSPEED OF ILLINOIS, LLC
+  ilec_name: 'BRIGHTSPEED OF ILLINOIS, LLC                              '
   lat: '40.32736'
   long: "-89.932697"
   closest_city:
@@ -21284,20 +21284,20 @@ rate_centers:
     distance_km: 0.44
 - country: US
   region: IL
-  exchange: '320993'
-  name: UNIONGROVE
-  full_name: Union Grove
-  lata: '364'
-  ilec_name: CITIZENS TELECOM CO ILLINOIS-FRONTIER CITIZENS -IL
-  lat:
-  long:
-- country: US
-  region: IL
   exchange: '320567'
   name: UNION HILL
   full_name: Union Hill
   lata: '358'
   ilec_name: ILLINOIS BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: IL
+  exchange: '320993'
+  name: UNIONGROVE
+  full_name: Union Grove
+  lata: '364'
+  ilec_name: CITIZENS TELECOM CO ILLINOIS-FRONTIER CITIZENS -IL
   lat:
   long:
 - country: US
@@ -21423,7 +21423,7 @@ rate_centers:
   name: VAN PETTEN
   full_name: Van Petten
   lata: '364'
-  ilec_name: BRIGHTSPEED OF ILLINOIS, LLC
+  ilec_name: 'BRIGHTSPEED OF ILLINOIS, LLC                              '
   lat:
   long:
 - country: US
@@ -21590,6 +21590,15 @@ rate_centers:
     distance_km: 1.21
 - country: US
   region: IL
+  exchange: '320573'
+  name: VILLA PARK
+  full_name: Villa Park
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: IL
   exchange: '055250'
   name: VILLAGROVE
   full_name: Villa Grove
@@ -21602,15 +21611,6 @@ rate_centers:
     distance_km: 1.65
 - country: US
   region: IL
-  exchange: '320573'
-  name: VILLA PARK
-  full_name: Villa Park
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: IL
   exchange: '055260'
   name: VILLARIDGE
   full_name: Villa Ridge
@@ -21621,15 +21621,6 @@ rate_centers:
   closest_city:
     name: Mounds
     distance_km: 5.06
-- country: US
-  region: IL
-  exchange: '320575'
-  name: VLG OF LKW
-  full_name: Village Of Lakewood
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat:
-  long:
 - country: US
   region: IL
   exchange: '055270'
@@ -21677,6 +21668,15 @@ rate_centers:
     distance_km: 0.44
 - country: US
   region: IL
+  exchange: '320575'
+  name: VLG OF LKW
+  full_name: Village Of Lakewood
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: IL
   exchange: '320576'
   name: VOLO
   full_name: Volo
@@ -21695,11 +21695,44 @@ rate_centers:
   long:
 - country: US
   region: IL
+  exchange: '055300'
+  name: W BROOKLYN
+  full_name: West Brooklyn
+  lata: '368'
+  ilec_name: FRONTIER NORTH, INC. - IL
+  lat: '41.695233'
+  long: "-89.15132"
+  closest_city:
+    name: West Brooklyn
+    distance_km: 0.42
+- country: US
+  region: IL
+  exchange: '055530'
+  name: W CHICAGO
+  full_name: West Chicago
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat: '41.878136'
+  long: "-88.202205"
+  closest_city:
+    name: West Chicago
+    distance_km: 2.76
+- country: US
+  region: IL
+  exchange: '363359'
+  name: W LIBERTY
+  full_name: West Liberty
+  lata: '978'
+  ilec_name: FRONTIER NORTH, INC. - IL
+  lat:
+  long:
+- country: US
+  region: IL
   exchange: '320997'
   name: WACKER
   full_name: Wacker
   lata: '364'
-  ilec_name: BRIGHTSPEED OF ILLINOIS, LLC
+  ilec_name: 'BRIGHTSPEED OF ILLINOIS, LLC                              '
   lat:
   long:
 - country: US
@@ -21932,6 +21965,15 @@ rate_centers:
     distance_km: 0.41
 - country: US
   region: IL
+  exchange: '329722'
+  name: WASHIGTNPK
+  full_name: Washington Park
+  lata: '520'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: IL
   exchange: '055380'
   name: WASHINGTON
   full_name: Washington
@@ -21944,20 +21986,11 @@ rate_centers:
     distance_km: 2.65
 - country: US
   region: IL
-  exchange: '329722'
-  name: WASHIGTNPK
-  full_name: Washington Park
-  lata: '520'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: IL
   exchange: '055390'
   name: WATAGA
   full_name: Wataga
   lata: '977'
-  ilec_name: BRIGHTSPEED OF ILLINOIS, LLC
+  ilec_name: 'BRIGHTSPEED OF ILLINOIS, LLC                              '
   lat: '41.024599'
   long: "-90.27398"
   closest_city:
@@ -22184,30 +22217,6 @@ rate_centers:
     distance_km: 0.65
 - country: US
   region: IL
-  exchange: '055300'
-  name: W BROOKLYN
-  full_name: West Brooklyn
-  lata: '368'
-  ilec_name: FRONTIER NORTH, INC. - IL
-  lat: '41.695233'
-  long: "-89.15132"
-  closest_city:
-    name: West Brooklyn
-    distance_km: 0.42
-- country: US
-  region: IL
-  exchange: '055530'
-  name: W CHICAGO
-  full_name: West Chicago
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat: '41.878136'
-  long: "-88.202205"
-  closest_city:
-    name: West Chicago
-    distance_km: 2.76
-- country: US
-  region: IL
   exchange: '320896'
   name: WEST CITY
   full_name: West City
@@ -22227,63 +22236,6 @@ rate_centers:
   closest_city:
     name: Chrisman
     distance_km: 11.95
-- country: US
-  region: IL
-  exchange: '320590'
-  name: WESTDUNDEE
-  full_name: West Dundee
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: IL
-  exchange: '055550'
-  name: WFRANKFORT
-  full_name: West Frankfort
-  lata: '362'
-  ilec_name: FRONTIER NORTH, INC. - IL
-  lat: '37.903988'
-  long: "-88.920328"
-  closest_city:
-    name: West Frankfort
-    distance_km: 0.98
-- country: US
-  region: IL
-  exchange: '363276'
-  name: WESTJERSEY
-  full_name: West Jersey
-  lata: '977'
-  ilec_name: MID CENTURY TEL. COOP., INC.
-  lat:
-  long:
-- country: US
-  region: IL
-  exchange: '363359'
-  name: W LIBERTY
-  full_name: West Liberty
-  lata: '978'
-  ilec_name: FRONTIER NORTH, INC. - IL
-  lat:
-  long:
-- country: US
-  region: IL
-  exchange: '321411'
-  name: WESTNEWELL
-  full_name: West Newell
-  lata: '370'
-  ilec_name: FRONTIER NORTH, INC. - IL
-  lat:
-  long:
-- country: US
-  region: IL
-  exchange: '321289'
-  name: WESTPEORIA
-  full_name: West Peoria
-  lata: '368'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat:
-  long:
 - country: US
   region: IL
   exchange: '363275'
@@ -22346,6 +22298,15 @@ rate_centers:
   long:
 - country: US
   region: IL
+  exchange: '320590'
+  name: WESTDUNDEE
+  full_name: West Dundee
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: IL
   exchange: '055580'
   name: WESTERNSPG
   full_name: Western Springs
@@ -22391,6 +22352,15 @@ rate_centers:
   long:
 - country: US
   region: IL
+  exchange: '363276'
+  name: WESTJERSEY
+  full_name: West Jersey
+  lata: '977'
+  ilec_name: MID CENTURY TEL. COOP., INC.
+  lat:
+  long:
+- country: US
+  region: IL
   exchange: '320593'
   name: WESTMONT
   full_name: Westmont
@@ -22400,11 +22370,29 @@ rate_centers:
   long:
 - country: US
   region: IL
+  exchange: '321411'
+  name: WESTNEWELL
+  full_name: West Newell
+  lata: '370'
+  ilec_name: FRONTIER NORTH, INC. - IL
+  lat:
+  long:
+- country: US
+  region: IL
   exchange: '321121'
   name: WESTON
   full_name: Weston
   lata: '366'
   ilec_name: FRONTIER NORTH, INC. - IL
+  lat:
+  long:
+- country: US
+  region: IL
+  exchange: '321289'
+  name: WESTPEORIA
+  full_name: West Peoria
+  lata: '368'
+  ilec_name: ILLINOIS BELL TEL CO
   lat:
   long:
 - country: US
@@ -22443,6 +22431,27 @@ rate_centers:
   closest_city:
     name: Westville
     distance_km: 0.26
+- country: US
+  region: IL
+  exchange: '055550'
+  name: WFRANKFORT
+  full_name: West Frankfort
+  lata: '362'
+  ilec_name: FRONTIER NORTH, INC. - IL
+  lat: '37.903988'
+  long: "-88.920328"
+  closest_city:
+    name: West Frankfort
+    distance_km: 0.98
+- country: US
+  region: IL
+  exchange: '321000'
+  name: WH PIGEON
+  full_name: White Pigeon
+  lata: '364'
+  ilec_name: CITIZENS TELECOM CO ILLINOIS-FRONTIER CITIZENS -IL
+  lat:
+  long:
 - country: US
   region: IL
   exchange: '055640'
@@ -22499,37 +22508,19 @@ rate_centers:
     distance_km: 0.04
 - country: US
   region: IL
-  exchange: '321413'
-  name: WHITEHEATH
-  full_name: White Heath
-  lata: '370'
+  exchange: '320898'
+  name: WHITEASH
+  full_name: Whiteash
+  lata: '362'
   ilec_name: FRONTIER NORTH, INC. - IL
   lat:
   long:
 - country: US
   region: IL
-  exchange: '321000'
-  name: WH PIGEON
-  full_name: White Pigeon
-  lata: '364'
-  ilec_name: CITIZENS TELECOM CO ILLINOIS-FRONTIER CITIZENS -IL
-  lat:
-  long:
-- country: US
-  region: IL
-  exchange: '321001'
-  name: WHPNSTATPK
-  full_name: White Pine State Park
-  lata: '364'
-  ilec_name: CITIZENS TELECOM CO ILLINOIS-FRONTIER CITIZENS -IL
-  lat:
-  long:
-- country: US
-  region: IL
-  exchange: '320898'
-  name: WHITEASH
-  full_name: Whiteash
-  lata: '362'
+  exchange: '321413'
+  name: WHITEHEATH
+  full_name: White Heath
+  lata: '370'
   ilec_name: FRONTIER NORTH, INC. - IL
   lat:
   long:
@@ -22540,6 +22531,15 @@ rate_centers:
   full_name: Whittington
   lata: '362'
   ilec_name: FRONTIER NORTH, INC. - IL
+  lat:
+  long:
+- country: US
+  region: IL
+  exchange: '321001'
+  name: WHPNSTATPK
+  full_name: White Pine State Park
+  lata: '364'
+  ilec_name: CITIZENS TELECOM CO ILLINOIS-FRONTIER CITIZENS -IL
   lat:
   long:
 - country: US
@@ -22589,15 +22589,6 @@ rate_centers:
   long:
 - country: US
   region: IL
-  exchange: '320599'
-  name: WILLIAMSPK
-  full_name: Williams Park
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: IL
   exchange: '321532'
   name: WILLIAMSBG
   full_name: Williamsburg
@@ -22607,23 +22598,20 @@ rate_centers:
   long:
 - country: US
   region: IL
-  exchange: '055670'
-  name: WILLIMSFLD
-  full_name: Williamsfield
-  lata: '977'
-  ilec_name: MID CENTURY TEL. COOP., INC.
-  lat: '40.920109'
-  long: "-90.010649"
-  closest_city:
-    name: Williamsfield
-    distance_km: 0.94
-- country: US
-  region: IL
   exchange: '329726'
   name: WILLIAMSON
   full_name: Williamson
   lata: '520'
   ilec_name: MADISON TEL. CO.
+  lat:
+  long:
+- country: US
+  region: IL
+  exchange: '320599'
+  name: WILLIAMSPK
+  full_name: Williams Park
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
   lat:
   long:
 - country: US
@@ -22640,6 +22628,18 @@ rate_centers:
     distance_km: 0.39
 - country: US
   region: IL
+  exchange: '055670'
+  name: WILLIMSFLD
+  full_name: Williamsfield
+  lata: '977'
+  ilec_name: MID CENTURY TEL. COOP., INC.
+  lat: '40.920109'
+  long: "-90.010649"
+  closest_city:
+    name: Williamsfield
+    distance_km: 0.94
+- country: US
+  region: IL
   exchange: '320901'
   name: WILLISVL
   full_name: Willisville
@@ -22649,16 +22649,16 @@ rate_centers:
   long:
 - country: US
   region: IL
-  exchange: '055690'
-  name: WILLOWHILL
-  full_name: Willow Hill
-  lata: '978'
-  ilec_name: FRONTIER NORTH, INC. - IL
-  lat: '38.993681'
-  long: "-88.021151"
+  exchange: '053841'
+  name: WILLOCREST
+  full_name: Willowcrest
+  lata: '358'
+  ilec_name: ILLINOIS BELL TEL CO
+  lat: '41.983819'
+  long: "-88.086059"
   closest_city:
-    name: Willow Hill
-    distance_km: 0.24
+    name: Roselle
+    distance_km: 0.32
 - country: US
   region: IL
   exchange: '055700'
@@ -22682,16 +22682,16 @@ rate_centers:
   long:
 - country: US
   region: IL
-  exchange: '053841'
-  name: WILLOCREST
-  full_name: Willowcrest
-  lata: '358'
-  ilec_name: ILLINOIS BELL TEL CO
-  lat: '41.983819'
-  long: "-88.086059"
+  exchange: '055690'
+  name: WILLOWHILL
+  full_name: Willow Hill
+  lata: '978'
+  ilec_name: FRONTIER NORTH, INC. - IL
+  lat: '38.993681'
+  long: "-88.021151"
   closest_city:
-    name: Roselle
-    distance_km: 0.32
+    name: Willow Hill
+    distance_km: 0.24
 - country: US
   region: IL
   exchange: '055710'

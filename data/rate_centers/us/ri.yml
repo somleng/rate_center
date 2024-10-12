@@ -113,6 +113,15 @@ rate_centers:
   long:
 - country: US
   region: RI
+  exchange: '302484'
+  name: BRISTOFRRY
+  full_name: Bristol Ferry
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
   exchange: '175880'
   name: BRISTOL
   full_name: Bristol
@@ -123,15 +132,6 @@ rate_centers:
   closest_city:
     name: Melville
     distance_km: 12.0
-- country: US
-  region: RI
-  exchange: '302484'
-  name: BRISTOFRRY
-  full_name: Bristol Ferry
-  lata: '130'
-  ilec_name: VERIZON NEW ENGLAND INC.
-  lat:
-  long:
 - country: US
   region: RI
   exchange: '302486'
@@ -281,27 +281,9 @@ rate_centers:
   long:
 - country: US
   region: RI
-  exchange: '302503'
-  name: EGREENWICH
-  full_name: East Greenwich
-  lata: '130'
-  ilec_name: VERIZON NEW ENGLAND INC.
-  lat:
-  long:
-- country: US
-  region: RI
   exchange: '302501'
   name: E MATUNUCK
   full_name: East Matunuck
-  lata: '130'
-  ilec_name: VERIZON NEW ENGLAND INC.
-  lat:
-  long:
-- country: US
-  region: RI
-  exchange: '176033'
-  name: EPROVIDNCE
-  full_name: East Providence
   lata: '130'
   ilec_name: VERIZON NEW ENGLAND INC.
   lat:
@@ -317,9 +299,27 @@ rate_centers:
   long:
 - country: US
   region: RI
+  exchange: '302503'
+  name: EGREENWICH
+  full_name: East Greenwich
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
   exchange: '302504'
   name: ELMWOOD
   full_name: Elmwood
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '176033'
+  name: EPROVIDNCE
+  full_name: East Providence
   lata: '130'
   ilec_name: VERIZON NEW ENGLAND INC.
   lat:
@@ -551,6 +551,15 @@ rate_centers:
   long:
 - country: US
   region: RI
+  exchange: '302530'
+  name: LONSDALE
+  full_name: Lonsdale
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
   exchange: '175960'
   name: LTLCOMPTON
   full_name: Little Compton
@@ -561,15 +570,6 @@ rate_centers:
   closest_city:
     name: Newport East
     distance_km: 8.61
-- country: US
-  region: RI
-  exchange: '302530'
-  name: LONSDALE
-  full_name: Lonsdale
-  lata: '130'
-  ilec_name: VERIZON NEW ENGLAND INC.
-  lat:
-  long:
 - country: US
   region: RI
   exchange: '302532'
@@ -674,15 +674,6 @@ rate_centers:
   long:
 - country: US
   region: RI
-  exchange: '302544'
-  name: NEWSHOREHM
-  full_name: New Shoreham
-  lata: '130'
-  ilec_name: VERIZON NEW ENGLAND INC.
-  lat:
-  long:
-- country: US
-  region: RI
   exchange: '175980'
   name: NEWPORT
   full_name: Newport
@@ -693,6 +684,15 @@ rate_centers:
   closest_city:
     name: Newport
     distance_km: 1.49
+- country: US
+  region: RI
+  exchange: '302544'
+  name: NEWSHOREHM
+  full_name: New Shoreham
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
 - country: US
   region: RI
   exchange: '175990'
@@ -707,8 +707,8 @@ rate_centers:
     distance_km: 12.24
 - country: US
   region: RI
-  exchange: '176032'
-  name: NOPRVDENCE
+  exchange: '302546'
+  name: NOPROVIDNC
   full_name: North Providence
   lata: '130'
   ilec_name: VERIZON NEW ENGLAND INC.
@@ -716,8 +716,8 @@ rate_centers:
   long:
 - country: US
   region: RI
-  exchange: '302546'
-  name: NOPROVIDNC
+  exchange: '176032'
+  name: NOPRVDENCE
   full_name: North Providence
   lata: '130'
   ilec_name: VERIZON NEW ENGLAND INC.
@@ -830,15 +830,6 @@ rate_centers:
   long:
 - country: US
   region: RI
-  exchange: '302561'
-  name: PT JUDITH
-  full_name: Point Judith
-  lata: '130'
-  ilec_name: VERIZON NEW ENGLAND INC.
-  lat:
-  long:
-- country: US
-  region: RI
   exchange: '176020'
   name: PORTSMOUTH
   full_name: Portsmouth
@@ -866,6 +857,15 @@ rate_centers:
   exchange: '302560'
   name: PRUDENCEIS
   full_name: Prudence Island
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302561'
+  name: PT JUDITH
+  full_name: Point Judith
   lata: '130'
   ilec_name: VERIZON NEW ENGLAND INC.
   lat:
@@ -1013,6 +1013,27 @@ rate_centers:
   long:
 - country: US
   region: RI
+  exchange: '302577'
+  name: W KINGSTON
+  full_name: West Kingston
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '176090'
+  name: W WARWICK
+  full_name: West Warwick
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.709501'
+  long: "-71.520318"
+  closest_city:
+    name: Cranston
+    distance_km: 6.88
+- country: US
+  region: RI
   exchange: '302579'
   name: WAKEFIELD
   full_name: Wakefield
@@ -1064,6 +1085,24 @@ rate_centers:
   long:
 - country: US
   region: RI
+  exchange: '302584'
+  name: WBARRINGTN
+  full_name: West Barrington
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302585'
+  name: WD RIV JCT
+  full_name: Wood River Junction
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
   exchange: '176102'
   name: WEEKAPAUG
   full_name: Weekapaug
@@ -1073,13 +1112,16 @@ rate_centers:
   long:
 - country: US
   region: RI
-  exchange: '302584'
-  name: WBARRINGTN
-  full_name: West Barrington
+  exchange: '176100'
+  name: WESTERLY
+  full_name: Westerly
   lata: '130'
   ilec_name: VERIZON NEW ENGLAND INC.
-  lat:
-  long:
+  lat: '41.376989'
+  long: "-71.832504"
+  closest_city:
+    name: Misquamicut
+    distance_km: 5.99
 - country: US
   region: RI
   exchange: '176080'
@@ -1103,51 +1145,9 @@ rate_centers:
   long:
 - country: US
   region: RI
-  exchange: '302577'
-  name: W KINGSTON
-  full_name: West Kingston
-  lata: '130'
-  ilec_name: VERIZON NEW ENGLAND INC.
-  lat:
-  long:
-- country: US
-  region: RI
-  exchange: '176090'
-  name: W WARWICK
-  full_name: West Warwick
-  lata: '130'
-  ilec_name: VERIZON NEW ENGLAND INC.
-  lat: '41.709501'
-  long: "-71.520318"
-  closest_city:
-    name: Cranston
-    distance_km: 6.88
-- country: US
-  region: RI
-  exchange: '176100'
-  name: WESTERLY
-  full_name: Westerly
-  lata: '130'
-  ilec_name: VERIZON NEW ENGLAND INC.
-  lat: '41.376989'
-  long: "-71.832504"
-  closest_city:
-    name: Misquamicut
-    distance_km: 5.99
-- country: US
-  region: RI
   exchange: '302590'
   name: WICKFORD
   full_name: Wickford
-  lata: '130'
-  ilec_name: VERIZON NEW ENGLAND INC.
-  lat:
-  long:
-- country: US
-  region: RI
-  exchange: '302585'
-  name: WD RIV JCT
-  full_name: Wood River Junction
   lata: '130'
   ilec_name: VERIZON NEW ENGLAND INC.
   lat:

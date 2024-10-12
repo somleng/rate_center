@@ -1262,15 +1262,6 @@ rate_centers:
     distance_km: 0.54
 - country: US
   region: NE
-  exchange: '362408'
-  name: CEDARCREEK
-  full_name: Cedar Creek
-  lata: '958'
-  ilec_name: WINDSTREAM NEBRASKA, INC.
-  lat:
-  long:
-- country: US
-  region: NE
   exchange: '117320'
   name: CEDAR RPDS
   full_name: Cedar Rapids
@@ -1281,6 +1272,15 @@ rate_centers:
   closest_city:
     name: Cedar Rapids
     distance_km: 0.34
+- country: US
+  region: NE
+  exchange: '362408'
+  name: CEDARCREEK
+  full_name: Cedar Creek
+  lata: '958'
+  ilec_name: WINDSTREAM NEBRASKA, INC.
+  lat:
+  long:
 - country: US
   region: NE
   exchange: '117330'
@@ -2573,27 +2573,6 @@ rate_centers:
   long:
 - country: US
   region: NE
-  exchange: '118180'
-  name: FT CALHOUN
-  full_name: Fort Calhoun
-  lata: '644'
-  ilec_name: BLAIR TEL. CO.
-  lat: '41.460369'
-  long: "-96.025076"
-  closest_city:
-    name: Fort Calhoun
-    distance_km: 0.47
-- country: US
-  region: NE
-  exchange: '340803'
-  name: FTROBINSON
-  full_name: Fort Robinson
-  lata: '646'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: NE
   exchange: '340580'
   name: FOSTER
   full_name: Foster
@@ -2637,6 +2616,27 @@ rate_centers:
   closest_city:
     name: Friend
     distance_km: 0.12
+- country: US
+  region: NE
+  exchange: '118180'
+  name: FT CALHOUN
+  full_name: Fort Calhoun
+  lata: '644'
+  ilec_name: BLAIR TEL. CO.
+  lat: '41.460369'
+  long: "-96.025076"
+  closest_city:
+    name: Fort Calhoun
+    distance_km: 0.47
+- country: US
+  region: NE
+  exchange: '340803'
+  name: FTROBINSON
+  full_name: Fort Robinson
+  lata: '646'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
 - country: US
   region: NE
   exchange: '118220'
@@ -3173,18 +3173,6 @@ rate_centers:
   long:
 - country: US
   region: NE
-  exchange: '118530'
-  name: HAYSPRINGS
-  full_name: Hay Springs
-  lata: '646'
-  ilec_name: GREAT PLAINS COMMUNICATIONS, INC.
-  lat: '42.684641'
-  long: "-102.688748"
-  closest_city:
-    name: Hay Springs
-    distance_km: 0.17
-- country: US
-  region: NE
   exchange: '118540'
   name: HAYES CTR
   full_name: Hayes Center
@@ -3195,6 +3183,18 @@ rate_centers:
   closest_city:
     name: Hayes Center
     distance_km: 0.39
+- country: US
+  region: NE
+  exchange: '118530'
+  name: HAYSPRINGS
+  full_name: Hay Springs
+  lata: '646'
+  ilec_name: GREAT PLAINS COMMUNICATIONS, INC.
+  lat: '42.684641'
+  long: "-102.688748"
+  closest_city:
+    name: Hay Springs
+    distance_km: 0.17
 - country: US
   region: NE
   exchange: '340826'
@@ -3503,15 +3503,6 @@ rate_centers:
     distance_km: 0.5
 - country: US
   region: NE
-  exchange: '340836'
-  name: HUNTLEY
-  full_name: Huntley
-  lata: '646'
-  ilec_name: GREAT PLAINS COMMUNICATIONS, INC.
-  lat:
-  long:
-- country: US
-  region: NE
   exchange: '118730'
   name: HUNTLERGAN
   full_name: Huntley-Ragan
@@ -3522,6 +3513,15 @@ rate_centers:
   closest_city:
     name: Ragan
     distance_km: 4.76
+- country: US
+  region: NE
+  exchange: '340836'
+  name: HUNTLEY
+  full_name: Huntley
+  lata: '646'
+  ilec_name: GREAT PLAINS COMMUNICATIONS, INC.
+  lat:
+  long:
 - country: US
   region: NE
   exchange: '362483'
@@ -3875,24 +3875,6 @@ rate_centers:
   long:
 - country: US
   region: NE
-  exchange: '118882'
-  name: LKMCCNAGHY
-  full_name: Lake McConaughy
-  lata: '646'
-  ilec_name: GLENWOOD NETWORK SERVICES, INC.
-  lat:
-  long:
-- country: US
-  region: NE
-  exchange: '119673'
-  name: LKMCCNAGHY
-  full_name: Lake McConaughy
-  lata: '646'
-  ilec_name: GLENWOOD NETWORK SERVICES, INC.
-  lat:
-  long:
-- country: US
-  region: NE
   exchange: '116594'
   name: LAKESIDE
   full_name: Lakeside
@@ -4064,18 +4046,6 @@ rate_centers:
   long:
 - country: US
   region: NE
-  exchange: '119010'
-  name: LNWDMRSBLF
-  full_name: Linwood-Morse Bluff
-  lata: '958'
-  ilec_name: NORTHEAST NEBRASKA TEL. CO.
-  lat: '41.397363'
-  long: "-96.805109"
-  closest_city:
-    name: Morse Bluff
-    distance_km: 4.93
-- country: US
-  region: NE
   exchange: '119751'
   name: LISCO
   full_name: Lisco
@@ -4095,6 +4065,36 @@ rate_centers:
   closest_city:
     name: Litchfield
     distance_km: 0.16
+- country: US
+  region: NE
+  exchange: '118882'
+  name: LKMCCNAGHY
+  full_name: Lake McConaughy
+  lata: '646'
+  ilec_name: GLENWOOD NETWORK SERVICES, INC.
+  lat:
+  long:
+- country: US
+  region: NE
+  exchange: '119673'
+  name: LKMCCNAGHY
+  full_name: Lake McConaughy
+  lata: '646'
+  ilec_name: GLENWOOD NETWORK SERVICES, INC.
+  lat:
+  long:
+- country: US
+  region: NE
+  exchange: '119010'
+  name: LNWDMRSBLF
+  full_name: Linwood-Morse Bluff
+  lata: '958'
+  ilec_name: NORTHEAST NEBRASKA TEL. CO.
+  lat: '41.397363'
+  long: "-96.805109"
+  closest_city:
+    name: Morse Bluff
+    distance_km: 4.93
 - country: US
   region: NE
   exchange: '119030'
@@ -4928,48 +4928,6 @@ rate_centers:
     distance_km: 0.98
 - country: US
   region: NE
-  exchange: '362523'
-  name: NORA
-  full_name: Nora
-  lata: '958'
-  ilec_name: WINDSTREAM NEBRASKA, INC.
-  lat:
-  long:
-- country: US
-  region: NE
-  exchange: '119500'
-  name: NORFOLK
-  full_name: Norfolk
-  lata: '644'
-  ilec_name: QWEST CORPORATION
-  lat: '42.025541'
-  long: "-97.414798"
-  closest_city:
-    name: Norfolk
-    distance_km: 0.95
-- country: US
-  region: NE
-  exchange: '362524'
-  name: NORMAN
-  full_name: Norman
-  lata: '958'
-  ilec_name: GLENWOOD TEL. MEMBERSHIP CORP.
-  lat:
-  long:
-- country: US
-  region: NE
-  exchange: '119510'
-  name: NORTH BEND
-  full_name: North Bend
-  lata: '644'
-  ilec_name: GREAT PLAINS COMMUNICATIONS, INC.
-  lat: '41.465165'
-  long: "-96.781889"
-  closest_city:
-    name: North Bend
-    distance_km: 0.47
-- country: US
-  region: NE
   exchange: '119490'
   name: NO BURWELL
   full_name: North Burwell
@@ -5018,18 +4976,6 @@ rate_centers:
     distance_km: 14.24
 - country: US
   region: NE
-  exchange: '119550'
-  name: NORTH LOUP
-  full_name: North Loup
-  lata: '646'
-  ilec_name: NEBRASKA CENTRAL TEL. CO.
-  lat: '41.499114'
-  long: "-98.773023"
-  closest_city:
-    name: North Loup
-    distance_km: 0.4
-- country: US
-  region: NE
   exchange: '119560'
   name: NO MAHASKA
   full_name: North Mahaska
@@ -5040,6 +4986,72 @@ rate_centers:
   closest_city:
     name: Reynolds
     distance_km: 5.9
+- country: US
+  region: NE
+  exchange: '119580'
+  name: NO PLATTE
+  full_name: North Platte
+  lata: '646'
+  ilec_name: QWEST CORPORATION
+  lat: '41.140806'
+  long: "-100.764593"
+  closest_city:
+    name: North Platte
+    distance_km: 1.61
+- country: US
+  region: NE
+  exchange: '362523'
+  name: NORA
+  full_name: Nora
+  lata: '958'
+  ilec_name: WINDSTREAM NEBRASKA, INC.
+  lat:
+  long:
+- country: US
+  region: NE
+  exchange: '119500'
+  name: NORFOLK
+  full_name: Norfolk
+  lata: '644'
+  ilec_name: QWEST CORPORATION
+  lat: '42.025541'
+  long: "-97.414798"
+  closest_city:
+    name: Norfolk
+    distance_km: 0.95
+- country: US
+  region: NE
+  exchange: '362524'
+  name: NORMAN
+  full_name: Norman
+  lata: '958'
+  ilec_name: GLENWOOD TEL. MEMBERSHIP CORP.
+  lat:
+  long:
+- country: US
+  region: NE
+  exchange: '119510'
+  name: NORTH BEND
+  full_name: North Bend
+  lata: '644'
+  ilec_name: GREAT PLAINS COMMUNICATIONS, INC.
+  lat: '41.465165'
+  long: "-96.781889"
+  closest_city:
+    name: North Bend
+    distance_km: 0.47
+- country: US
+  region: NE
+  exchange: '119550'
+  name: NORTH LOUP
+  full_name: North Loup
+  lata: '646'
+  ilec_name: NEBRASKA CENTRAL TEL. CO.
+  lat: '41.499114'
+  long: "-98.773023"
+  closest_city:
+    name: North Loup
+    distance_km: 0.4
 - country: US
   region: NE
   exchange: '119570'
@@ -5054,16 +5066,13 @@ rate_centers:
     distance_km: 7.95
 - country: US
   region: NE
-  exchange: '119580'
-  name: NO PLATTE
-  full_name: North Platte
+  exchange: '117092'
+  name: NORTHPORT
+  full_name: Northport
   lata: '646'
   ilec_name: QWEST CORPORATION
-  lat: '41.140806'
-  long: "-100.764593"
-  closest_city:
-    name: North Platte
-    distance_km: 1.61
+  lat:
+  long:
 - country: US
   region: NE
   exchange: '119590'
@@ -5088,15 +5097,6 @@ rate_centers:
   closest_city:
     name: Alma
     distance_km: 12.55
-- country: US
-  region: NE
-  exchange: '117092'
-  name: NORTHPORT
-  full_name: Northport
-  lata: '646'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
 - country: US
   region: NE
   exchange: '119610'
@@ -5888,20 +5888,20 @@ rate_centers:
   long:
 - country: US
   region: NE
-  exchange: '120181'
-  name: RICHLAND
-  full_name: Richland
-  lata: '644'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: NE
   exchange: '117491'
   name: RICHLAND
   full_name: Richland (Colfax)
   lata: '644'
   ilec_name: CITIZENS TELECOM OF NE LLC DBA FRONTIER COM OF NE
+  lat:
+  long:
+- country: US
+  region: NE
+  exchange: '120181'
+  name: RICHLAND
+  full_name: Richland
+  lata: '644'
+  ilec_name: QWEST CORPORATION
   lat:
   long:
 - country: US
@@ -6084,24 +6084,6 @@ rate_centers:
   closest_city:
     name: Ruskin
     distance_km: 0.45
-- country: US
-  region: NE
-  exchange: '340669'
-  name: ST HELENA
-  full_name: Saint Helena
-  lata: '644'
-  ilec_name: GREAT PLAINS COMMUNICATIONS, INC.
-  lat:
-  long:
-- country: US
-  region: NE
-  exchange: '362571'
-  name: ST MARY
-  full_name: Saint Mary
-  lata: '958'
-  ilec_name: WINDSTREAM NEBRASKA, INC.
-  lat:
-  long:
 - country: US
   region: NE
   exchange: '362561'
@@ -6341,18 +6323,6 @@ rate_centers:
     distance_km: 0.43
 - country: US
   region: NE
-  exchange: '120300'
-  name: SODTOWN
-  full_name: Sodtown
-  lata: '646'
-  ilec_name: SODTOWN COMMUNICATIONS, INC.
-  lat: '40.951225'
-  long: "-98.812826"
-  closest_city:
-    name: Ravenna
-    distance_km: 10.91
-- country: US
-  region: NE
   exchange: '120310'
   name: SO ARDMORE
   full_name: South Ardmore
@@ -6363,39 +6333,6 @@ rate_centers:
   closest_city:
     name: Harrison
     distance_km: 27.29
-- country: US
-  region: NE
-  exchange: '362569'
-  name: SOUTH BEND
-  full_name: South Bend
-  lata: '958'
-  ilec_name: WINDSTREAM NEBRASKA, INC.
-  lat:
-  long:
-- country: US
-  region: NE
-  exchange: '120320'
-  name: SOBONESTEL
-  full_name: South Bonesteel
-  lata: '640'
-  ilec_name: VIVIAN TEL CO DBA GOLDEN WEST TELECOMMUNICATIONS
-  lat: '42.934072'
-  long: "-98.931365"
-  closest_city:
-    name: Butte
-    distance_km: 7.21
-- country: US
-  region: NE
-  exchange: '120330'
-  name: SOUTHBURKE
-  full_name: South Burke
-  lata: '640'
-  ilec_name: VIVIAN TEL CO DBA GOLDEN WEST TELECOMMUNICATIONS
-  lat: '42.924793'
-  long: "-99.236464"
-  closest_city:
-    name: Naper
-    distance_km: 12.17
 - country: US
   region: NE
   exchange: '120340'
@@ -6410,6 +6347,42 @@ rate_centers:
     distance_km: 5.78
 - country: US
   region: NE
+  exchange: '120370'
+  name: SO YANKTON
+  full_name: South Yankton
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat: '42.800422'
+  long: "-97.374357"
+  closest_city:
+    name: Aten
+    distance_km: 6.77
+- country: US
+  region: NE
+  exchange: '120320'
+  name: SOBONESTEL
+  full_name: South Bonesteel
+  lata: '640'
+  ilec_name: VIVIAN TEL CO DBA GOLDEN WEST TELECOMMUNICATIONS
+  lat: '42.934072'
+  long: "-98.931365"
+  closest_city:
+    name: Butte
+    distance_km: 7.21
+- country: US
+  region: NE
+  exchange: '120300'
+  name: SODTOWN
+  full_name: Sodtown
+  lata: '646'
+  ilec_name: SODTOWN COMMUNICATIONS, INC.
+  lat: '40.951225'
+  long: "-98.812826"
+  closest_city:
+    name: Ravenna
+    distance_km: 10.91
+- country: US
+  region: NE
   exchange: '120350'
   name: SOOELRICHS
   full_name: South Oelrichs
@@ -6420,15 +6393,6 @@ rate_centers:
   closest_city:
     name: Whitney
     distance_km: 22.24
-- country: US
-  region: NE
-  exchange: '340662'
-  name: SOUTHOMAHA
-  full_name: South Omaha
-  lata: '644'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
 - country: US
   region: NE
   exchange: '120360'
@@ -6443,16 +6407,34 @@ rate_centers:
     distance_km: 0.6
 - country: US
   region: NE
-  exchange: '120370'
-  name: SO YANKTON
-  full_name: South Yankton
+  exchange: '362569'
+  name: SOUTH BEND
+  full_name: South Bend
+  lata: '958'
+  ilec_name: WINDSTREAM NEBRASKA, INC.
+  lat:
+  long:
+- country: US
+  region: NE
+  exchange: '120330'
+  name: SOUTHBURKE
+  full_name: South Burke
   lata: '640'
-  ilec_name: QWEST CORPORATION
-  lat: '42.800422'
-  long: "-97.374357"
+  ilec_name: VIVIAN TEL CO DBA GOLDEN WEST TELECOMMUNICATIONS
+  lat: '42.924793'
+  long: "-99.236464"
   closest_city:
-    name: Aten
-    distance_km: 6.77
+    name: Naper
+    distance_km: 12.17
+- country: US
+  region: NE
+  exchange: '340662'
+  name: SOUTHOMAHA
+  full_name: South Omaha
+  lata: '644'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
 - country: US
   region: NE
   exchange: '120380'
@@ -6551,6 +6533,15 @@ rate_centers:
     distance_km: 0.87
 - country: US
   region: NE
+  exchange: '340669'
+  name: ST HELENA
+  full_name: Saint Helena
+  lata: '644'
+  ilec_name: GREAT PLAINS COMMUNICATIONS, INC.
+  lat:
+  long:
+- country: US
+  region: NE
   exchange: '120430'
   name: ST LIBORY
   full_name: St Libory
@@ -6561,6 +6552,15 @@ rate_centers:
   closest_city:
     name: St. Libory
     distance_km: 0.14
+- country: US
+  region: NE
+  exchange: '362571'
+  name: ST MARY
+  full_name: Saint Mary
+  lata: '958'
+  ilec_name: WINDSTREAM NEBRASKA, INC.
+  lat:
+  long:
 - country: US
   region: NE
   exchange: '120440'
@@ -7253,6 +7253,18 @@ rate_centers:
     distance_km: 0.91
 - country: US
   region: NE
+  exchange: '121010'
+  name: W HAMBURG
+  full_name: West Hamburg
+  lata: '644'
+  ilec_name: QWEST CORPORATION
+  lat: '40.581759'
+  long: "-95.816894"
+  closest_city:
+    name: Julian
+    distance_km: 8.1
+- country: US
+  region: NE
   exchange: '362606'
   name: WABASH
   full_name: Wabash
@@ -7479,18 +7491,6 @@ rate_centers:
   closest_city:
     name: Wellfleet
     distance_km: 0.51
-- country: US
-  region: NE
-  exchange: '121010'
-  name: W HAMBURG
-  full_name: West Hamburg
-  lata: '644'
-  ilec_name: QWEST CORPORATION
-  lat: '40.581759'
-  long: "-95.816894"
-  closest_city:
-    name: Julian
-    distance_km: 8.1
 - country: US
   region: NE
   exchange: '121020'
@@ -7727,6 +7727,18 @@ rate_centers:
     distance_km: 0.76
 - country: US
   region: NE
+  exchange: '121180'
+  name: WYFRYCSTHL
+  full_name: Wynot-Fordyce-St Helena
+  lata: '644'
+  ilec_name: GREAT PLAINS COMMUNICATIONS, INC.
+  lat: '42.733602'
+  long: "-97.249308"
+  closest_city:
+    name: Bow Valley
+    distance_km: 2.04
+- country: US
+  region: NE
   exchange: '121170'
   name: WYMORE
   full_name: Wymore
@@ -7746,18 +7758,6 @@ rate_centers:
   ilec_name: GREAT PLAINS COMMUNICATIONS, INC.
   lat:
   long:
-- country: US
-  region: NE
-  exchange: '121180'
-  name: WYFRYCSTHL
-  full_name: Wynot-Fordyce-St Helena
-  lata: '644'
-  ilec_name: GREAT PLAINS COMMUNICATIONS, INC.
-  lat: '42.733602'
-  long: "-97.249308"
-  closest_city:
-    name: Bow Valley
-    distance_km: 2.04
 - country: US
   region: NE
   exchange: '362617'

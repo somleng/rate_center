@@ -2,6 +2,15 @@
 rate_centers:
 - country: US
   region: FL
+  exchange: '324260'
+  name: AAZY LAKE
+  full_name: Lazy Lake
+  lata: '460'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: FL
   exchange: '029420'
   name: ALACHUA
   full_name: Alachua
@@ -383,15 +392,6 @@ rate_centers:
   long:
 - country: US
   region: FL
-  exchange: '324264'
-  name: BHIAHONDKY
-  full_name: Bahia Honda Key
-  lata: '460'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: FL
   exchange: '029520'
   name: BAKER
   full_name: Baker
@@ -404,15 +404,6 @@ rate_centers:
     distance_km: 11.68
 - country: US
   region: FL
-  exchange: '324263'
-  name: BALHARBOUR
-  full_name: Bal Harbour
-  lata: '460'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: FL
   exchange: '029530'
   name: BALDWIN
   full_name: Baldwin
@@ -423,6 +414,15 @@ rate_centers:
   closest_city:
     name: Baldwin
     distance_km: 0.81
+- country: US
+  region: FL
+  exchange: '324263'
+  name: BALHARBOUR
+  full_name: Bal Harbour
+  lata: '460'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
 - country: US
   region: FL
   exchange: '362050'
@@ -500,15 +500,6 @@ rate_centers:
   long:
 - country: US
   region: FL
-  exchange: '324269'
-  name: BYHBISLNDS
-  full_name: Bay Harbor Islands
-  lata: '460'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: FL
   exchange: '324218'
   name: BAY LAKE
   full_name: Bay Lake
@@ -554,18 +545,18 @@ rate_centers:
   long:
 - country: US
   region: FL
-  exchange: '03191C'
-  name: BAYSHORE
-  full_name: Bayshore
+  exchange: '362054'
+  name: BAYSHOGDNS
+  full_name: Bayshore Gardens
   lata: '952'
   ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
   lat:
   long:
 - country: US
   region: FL
-  exchange: '362054'
-  name: BAYSHOGDNS
-  full_name: Bayshore Gardens
+  exchange: '03191C'
+  name: BAYSHORE
+  full_name: Bayshore
   lata: '952'
   ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
   lat:
@@ -608,18 +599,6 @@ rate_centers:
   long:
 - country: US
   region: FL
-  exchange: '029550'
-  name: BELLEGLADE
-  full_name: Belle Glade
-  lata: '460'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat: '26.682646'
-  long: "-80.672667"
-  closest_city:
-    name: Belle Glade
-    distance_km: 1.22
-- country: US
-  region: FL
   exchange: '324158'
   name: BELLE ISLE
   full_name: Belle Isle
@@ -632,15 +611,6 @@ rate_centers:
   exchange: '362055'
   name: BELLEAIR
   full_name: Belleair
-  lata: '952'
-  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '362058'
-  name: BELLEARBCH
-  full_name: Belleair Beach
   lata: '952'
   ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
   lat:
@@ -663,6 +633,27 @@ rate_centers:
   ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
   lat:
   long:
+- country: US
+  region: FL
+  exchange: '362058'
+  name: BELLEARBCH
+  full_name: Belleair Beach
+  lata: '952'
+  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '029550'
+  name: BELLEGLADE
+  full_name: Belle Glade
+  lata: '460'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat: '26.682646'
+  long: "-80.672667"
+  closest_city:
+    name: Belle Glade
+    distance_km: 1.22
 - country: US
   region: FL
   exchange: '029560'
@@ -705,6 +696,15 @@ rate_centers:
   closest_city:
     name: Beverly Hills
     distance_km: 1.16
+- country: US
+  region: FL
+  exchange: '324264'
+  name: BHIAHONDKY
+  full_name: Bahia Honda Key
+  lata: '460'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
 - country: US
   region: FL
   exchange: '029580'
@@ -776,18 +776,6 @@ rate_centers:
   long:
 - country: US
   region: FL
-  exchange: '029600'
-  name: BOCAGRANDE
-  full_name: Boca Grande
-  lata: '939'
-  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
-  lat: '26.739792'
-  long: "-82.259762"
-  closest_city:
-    name: Bokeelia
-    distance_km: 13.55
-- country: US
-  region: FL
   exchange: '029610'
   name: BOCA RATON
   full_name: Boca Raton
@@ -798,6 +786,18 @@ rate_centers:
   closest_city:
     name: Boca Raton
     distance_km: 3.41
+- country: US
+  region: FL
+  exchange: '029600'
+  name: BOCAGRANDE
+  full_name: Boca Grande
+  lata: '939'
+  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
+  lat: '26.739792'
+  long: "-82.259762"
+  closest_city:
+    name: Bokeelia
+    distance_km: 13.55
 - country: US
   region: FL
   exchange: '361581'
@@ -914,15 +914,6 @@ rate_centers:
     distance_km: 0.75
 - country: US
   region: FL
-  exchange: '029661'
-  name: BRDNTNBAY
-  full_name: Bradenton Bay
-  lata: '952'
-  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
-  lat:
-  long:
-- country: US
-  region: FL
   exchange: '362061'
   name: BRADETNBCH
   full_name: Bradenton Beach
@@ -963,6 +954,15 @@ rate_centers:
   closest_city:
     name: Branford
     distance_km: 0.51
+- country: US
+  region: FL
+  exchange: '029661'
+  name: BRDNTNBAY
+  full_name: Bradenton Bay
+  lata: '952'
+  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
+  lat:
+  long:
 - country: US
   region: FL
   exchange: '362063'
@@ -1127,6 +1127,15 @@ rate_centers:
     distance_km: 2.4
 - country: US
   region: FL
+  exchange: '324269'
+  name: BYHBISLNDS
+  full_name: Bay Harbor Islands
+  lata: '460'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: FL
   exchange: '029740'
   name: CALLAHAN
   full_name: Callahan
@@ -1196,15 +1205,6 @@ rate_centers:
     distance_km: 4.19
 - country: US
   region: FL
-  exchange: '324161'
-  name: CAPECNVRAL
-  full_name: Cape Canaveral
-  lata: '458'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: FL
   exchange: '029760'
   name: CAPE CORAL
   full_name: Cape Coral
@@ -1229,11 +1229,11 @@ rate_centers:
     distance_km: 3.25
 - country: US
   region: FL
-  exchange: '323851'
-  name: CP SANBLAS
-  full_name: Cape San Blas
-  lata: '450'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF FLORIDA COMPANY
+  exchange: '324161'
+  name: CAPECNVRAL
+  full_name: Cape Canaveral
+  lata: '458'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
   lat:
   long:
 - country: US
@@ -1331,15 +1331,6 @@ rate_centers:
   long:
 - country: US
   region: FL
-  exchange: '324055'
-  name: CEDARCREEK
-  full_name: Cedar Creek
-  lata: '454'
-  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
-  lat:
-  long:
-- country: US
-  region: FL
   exchange: '029790'
   name: CEDAR KEYS
   full_name: Cedar Key
@@ -1350,6 +1341,15 @@ rate_centers:
   closest_city:
     name: Cedar Key
     distance_km: 1.74
+- country: US
+  region: FL
+  exchange: '324055'
+  name: CEDARCREEK
+  full_name: Cedar Creek
+  lata: '454'
+  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
+  lat:
+  long:
 - country: US
   region: FL
   exchange: '029800'
@@ -1383,15 +1383,6 @@ rate_centers:
   closest_city:
     name: Century
     distance_km: 1.15
-- country: US
-  region: FL
-  exchange: '362065'
-  name: CHMPNS GT
-  full_name: Champions Gate
-  lata: '952'
-  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
-  lat:
-  long:
 - country: US
   region: FL
   exchange: '324057'
@@ -1460,6 +1451,15 @@ rate_centers:
     distance_km: 1.05
 - country: US
   region: FL
+  exchange: '362065'
+  name: CHMPNS GT
+  full_name: Champions Gate
+  lata: '952'
+  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
+  lat:
+  long:
+- country: US
+  region: FL
   exchange: '323796'
   name: CHOCTAW BC
   full_name: Choctaw Beach
@@ -1526,15 +1526,6 @@ rate_centers:
   long:
 - country: US
   region: FL
-  exchange: '362066'
-  name: CITRUSPARK
-  full_name: Citrus Park
-  lata: '952'
-  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
-  lat:
-  long:
-- country: US
-  region: FL
   exchange: '324398'
   name: CITRUS RDG
   full_name: Citrus Ridge
@@ -1553,20 +1544,20 @@ rate_centers:
   long:
 - country: US
   region: FL
+  exchange: '362066'
+  name: CITRUSPARK
+  full_name: Citrus Park
+  lata: '952'
+  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
+  lat:
+  long:
+- country: US
+  region: FL
   exchange: '324164'
   name: CITY POINT
   full_name: City Point
   lata: '458'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '362067'
-  name: CLARMELCTY
-  full_name: Clair Mel City
-  lata: '952'
-  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
   lat:
   long:
 - country: US
@@ -1585,6 +1576,15 @@ rate_centers:
   full_name: Clarksville
   lata: '450'
   ilec_name: CONSOLIDATED COMMUNICATIONS OF FLORIDA COMPANY
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '362067'
+  name: CLARMELCTY
+  full_name: Clair Mel City
+  lata: '952'
+  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
   lat:
   long:
 - country: US
@@ -1748,15 +1748,6 @@ rate_centers:
   long:
 - country: US
   region: FL
-  exchange: '324276'
-  name: CORALGABLS
-  full_name: Coral Gables
-  lata: '460'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: FL
   exchange: '029920'
   name: CORAL SPG
   full_name: Coral Springs
@@ -1767,6 +1758,15 @@ rate_centers:
   closest_city:
     name: Coral Springs
     distance_km: 1.59
+- country: US
+  region: FL
+  exchange: '324276'
+  name: CORALGABLS
+  full_name: Coral Gables
+  lata: '460'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
 - country: US
   region: FL
   exchange: '324132'
@@ -1782,6 +1782,15 @@ rate_centers:
   name: CORRYFIELD
   full_name: Corry Field
   lata: '448'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '323995'
+  name: CORSS CRK
+  full_name: Cross Creek
+  lata: '454'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
   lat:
   long:
@@ -1822,6 +1831,15 @@ rate_centers:
   full_name: Countryside
   lata: '952'
   ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '323851'
+  name: CP SANBLAS
+  full_name: Cape San Blas
+  lata: '450'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF FLORIDA COMPANY
   lat:
   long:
 - country: US
@@ -1883,10 +1901,10 @@ rate_centers:
     distance_km: 0.57
 - country: US
   region: FL
-  exchange: '323995'
-  name: CORSS CRK
-  full_name: Cross Creek
-  lata: '454'
+  exchange: '324277'
+  name: CRYSTAL LK
+  full_name: Crystal Lake
+  lata: '460'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
   lat:
   long:
@@ -1897,15 +1915,6 @@ rate_centers:
   full_name: Crystal Beach
   lata: '952'
   ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '324277'
-  name: CRYSTAL LK
-  full_name: Crystal Lake
-  lata: '460'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
   lat:
   long:
 - country: US
@@ -2057,24 +2066,6 @@ rate_centers:
     distance_km: 1.79
 - country: US
   region: FL
-  exchange: '324137'
-  name: DYT BCH SH
-  full_name: Daytona Beach Shores
-  lata: '456'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '361559'
-  name: DESOTOCITY
-  full_name: De Soto City
-  lata: '939'
-  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
-  lat:
-  long:
-- country: US
-  region: FL
   exchange: '030040'
   name: DEBARY
   full_name: DeBary
@@ -2085,42 +2076,6 @@ rate_centers:
   closest_city:
     name: DeBary
     distance_km: 2.41
-- country: US
-  region: FL
-  exchange: '030020'
-  name: DFUNIAKSPG
-  full_name: DeFuniak Springs
-  lata: '448'
-  ilec_name: CENTURYLINK OF FLORIDA, INC. (CENTRAL)
-  lat: '30.716691'
-  long: "-86.114704"
-  closest_city:
-    name: DeFuniak Springs
-    distance_km: 0.76
-- country: US
-  region: FL
-  exchange: '030060'
-  name: DELAND
-  full_name: DeLand
-  lata: '456'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat: '29.031926'
-  long: "-81.292343"
-  closest_city:
-    name: DeLand
-    distance_km: 1.15
-- country: US
-  region: FL
-  exchange: '030030'
-  name: DELEON SPG
-  full_name: DeLeon Springs
-  lata: '456'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat: '29.115022'
-  long: "-81.358167"
-  closest_city:
-    name: De Leon Springs
-    distance_km: 0.67
 - country: US
   region: FL
   exchange: '361594'
@@ -2153,6 +2108,18 @@ rate_centers:
     distance_km: 2.08
 - country: US
   region: FL
+  exchange: '030060'
+  name: DELAND
+  full_name: DeLand
+  lata: '456'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat: '29.031926'
+  long: "-81.292343"
+  closest_city:
+    name: DeLand
+    distance_km: 1.15
+- country: US
+  region: FL
   exchange: '324135'
   name: DELAND HGL
   full_name: Deland Highlands
@@ -2160,6 +2127,18 @@ rate_centers:
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
   lat:
   long:
+- country: US
+  region: FL
+  exchange: '030030'
+  name: DELEON SPG
+  full_name: DeLeon Springs
+  lata: '456'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat: '29.115022'
+  long: "-81.358167"
+  closest_city:
+    name: De Leon Springs
+    distance_km: 0.67
 - country: US
   region: FL
   exchange: '323878'
@@ -2210,6 +2189,15 @@ rate_centers:
   long:
 - country: US
   region: FL
+  exchange: '361559'
+  name: DESOTOCITY
+  full_name: De Soto City
+  lata: '939'
+  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
+  lat:
+  long:
+- country: US
+  region: FL
   exchange: '030080'
   name: DESTIN
   full_name: Destin
@@ -2220,6 +2208,18 @@ rate_centers:
   closest_city:
     name: Destin
     distance_km: 3.4
+- country: US
+  region: FL
+  exchange: '030020'
+  name: DFUNIAKSPG
+  full_name: DeFuniak Springs
+  lata: '448'
+  ilec_name: CENTURYLINK OF FLORIDA, INC. (CENTRAL)
+  lat: '30.716691'
+  long: "-86.114704"
+  closest_city:
+    name: DeFuniak Springs
+    distance_km: 0.76
 - country: US
   region: FL
   exchange: '323899'
@@ -2363,6 +2363,24 @@ rate_centers:
   long:
 - country: US
   region: FL
+  exchange: '324137'
+  name: DYT BCH SH
+  full_name: Daytona Beach Shores
+  lata: '456'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '323901'
+  name: E PALATKA
+  full_name: East Palatka
+  lata: '452'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: FL
   exchange: '362079'
   name: EAGLE LAKE
   full_name: Eagle Lake
@@ -2381,13 +2399,16 @@ rate_centers:
   long:
 - country: US
   region: FL
-  exchange: '324065'
-  name: ELAKE WEIR
-  full_name: East Lake Weir
-  lata: '454'
-  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
-  lat:
-  long:
+  exchange: '030120'
+  name: EAST POINT
+  full_name: Eastpoint
+  lata: '450'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF FLORIDA COMPANY
+  lat: '29.729352'
+  long: "-84.88536"
+  closest_city:
+    name: Eastpoint
+    distance_km: 3.17
 - country: US
   region: FL
   exchange: '030110'
@@ -2400,36 +2421,6 @@ rate_centers:
   closest_city:
     name: Christmas
     distance_km: 3.28
-- country: US
-  region: FL
-  exchange: '323901'
-  name: E PALATKA
-  full_name: East Palatka
-  lata: '452'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '324288'
-  name: ERCKLNDKEY
-  full_name: East Rockland Key
-  lata: '460'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '030120'
-  name: EAST POINT
-  full_name: Eastpoint
-  lata: '450'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF FLORIDA COMPANY
-  lat: '29.729352'
-  long: "-84.88536"
-  closest_city:
-    name: Eastpoint
-    distance_km: 3.17
 - country: US
   region: FL
   exchange: '324229'
@@ -2525,6 +2516,15 @@ rate_centers:
   long:
 - country: US
   region: FL
+  exchange: '324065'
+  name: ELAKE WEIR
+  full_name: East Lake Weir
+  lata: '454'
+  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
+  lat:
+  long:
+- country: US
+  region: FL
   exchange: '324402'
   name: ELDRED
   full_name: Eldred
@@ -2595,6 +2595,15 @@ rate_centers:
   name: ENTERPRISE
   full_name: Enterprise
   lata: '458'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '324288'
+  name: ERCKLNDKEY
+  full_name: East Rockland Key
+  lata: '460'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
   lat:
   long:
@@ -2732,15 +2741,6 @@ rate_centers:
   long:
 - country: US
   region: FL
-  exchange: '323904'
-  name: FERNANDINA
-  full_name: Fernandina
-  lata: '452'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: FL
   exchange: '030170'
   name: FERNADNBCH
   full_name: Fernandina Beach
@@ -2751,6 +2751,15 @@ rate_centers:
   closest_city:
     name: Fernandina Beach
     distance_km: 1.04
+- country: US
+  region: FL
+  exchange: '323904'
+  name: FERNANDINA
+  full_name: Fernandina
+  lata: '452'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
 - country: US
   region: FL
   exchange: '324231'
@@ -2774,15 +2783,6 @@ rate_centers:
     distance_km: 0.85
 - country: US
   region: FL
-  exchange: '324289'
-  name: FLMNGO LDG
-  full_name: Flamingo Lodge
-  lata: '460'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: FL
   exchange: '323905'
   name: FLEMING IS
   full_name: Fleming Island
@@ -2792,21 +2792,18 @@ rate_centers:
   long:
 - country: US
   region: FL
+  exchange: '324289'
+  name: FLMNGO LDG
+  full_name: Flamingo Lodge
+  lata: '460'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: FL
   exchange: '030190'
   name: FLORAHOME
   full_name: Florahome
-  lata: '452'
-  ilec_name: WINDSTREAM FLORIDA, INC.
-  lat: '29.72899'
-  long: "-81.885104"
-  closest_city:
-    name: Interlachen
-    distance_km: 12.13
-- country: US
-  region: FL
-  exchange: '030191'
-  name: FLORAHOME (CLAY)
-  full_name: Florahome (Clay)
   lata: '452'
   ilec_name: WINDSTREAM FLORIDA, INC.
   lat: '29.72899'
@@ -2885,36 +2882,6 @@ rate_centers:
   long:
 - country: US
   region: FL
-  exchange: '361601'
-  name: FORTDENAUD
-  full_name: Fort Denaud
-  lata: '939'
-  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '030631'
-  name: FORTGEORGE
-  full_name: Fort George
-  lata: '452'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '030220'
-  name: FTLAUDERDL
-  full_name: Fort Lauderdale
-  lata: '460'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat: '26.116924'
-  long: "-80.142417"
-  closest_city:
-    name: Fort Lauderdale
-    distance_km: 2.73
-- country: US
-  region: FL
   exchange: '324069'
   name: FORT MCCOY
   full_name: Fort McCoy
@@ -2948,23 +2915,41 @@ rate_centers:
     distance_km: 3.56
 - country: US
   region: FL
-  exchange: '030250'
-  name: FTMYERSBCH
-  full_name: Fort Myers Beach
-  lata: '939'
-  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
-  lat: '26.44781'
-  long: "-81.950422"
-  closest_city:
-    name: Fort Myers Beach
-    distance_km: 4.04
-- country: US
-  region: FL
   exchange: '361561'
   name: FORT OGDEN
   full_name: Fort Ogden
   lata: '939'
   ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '030280'
+  name: FORT WHITE
+  full_name: Fort White
+  lata: '452'
+  ilec_name: WINDSTREAM FLORIDA, INC.
+  lat: '29.916684'
+  long: "-82.70067"
+  closest_city:
+    name: Fort White
+    distance_km: 1.39
+- country: US
+  region: FL
+  exchange: '361601'
+  name: FORTDENAUD
+  full_name: Fort Denaud
+  lata: '939'
+  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '030631'
+  name: FORTGEORGE
+  full_name: Fort George
+  lata: '452'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
   lat:
   long:
 - country: US
@@ -2979,30 +2964,6 @@ rate_centers:
   closest_city:
     name: Fort Pierce
     distance_km: 2.18
-- country: US
-  region: FL
-  exchange: '030270'
-  name: FTWALTNBCH
-  full_name: Fort Walton Beach
-  lata: '448'
-  ilec_name: CENTURYLINK OF FLORIDA, INC. (CENTRAL)
-  lat: '30.41124'
-  long: "-86.602176"
-  closest_city:
-    name: Cinco Bayou
-    distance_km: 1.41
-- country: US
-  region: FL
-  exchange: '030280'
-  name: FORT WHITE
-  full_name: Fort White
-  lata: '452'
-  ilec_name: WINDSTREAM FLORIDA, INC.
-  lat: '29.916684'
-  long: "-82.70067"
-  closest_city:
-    name: Fort White
-    distance_km: 1.39
 - country: US
   region: FL
   exchange: '323819'
@@ -3065,6 +3026,42 @@ rate_centers:
   long:
 - country: US
   region: FL
+  exchange: '030220'
+  name: FTLAUDERDL
+  full_name: Fort Lauderdale
+  lata: '460'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat: '26.116924'
+  long: "-80.142417"
+  closest_city:
+    name: Fort Lauderdale
+    distance_km: 2.73
+- country: US
+  region: FL
+  exchange: '030250'
+  name: FTMYERSBCH
+  full_name: Fort Myers Beach
+  lata: '939'
+  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
+  lat: '26.44781'
+  long: "-81.950422"
+  closest_city:
+    name: Fort Myers Beach
+    distance_km: 4.04
+- country: US
+  region: FL
+  exchange: '030270'
+  name: FTWALTNBCH
+  full_name: Fort Walton Beach
+  lata: '448'
+  ilec_name: CENTURYLINK OF FLORIDA, INC. (CENTRAL)
+  lat: '30.41124'
+  long: "-86.602176"
+  closest_city:
+    name: Cinco Bayou
+    distance_km: 1.41
+- country: US
+  region: FL
   exchange: '324233'
   name: FULLERS
   full_name: Fullers
@@ -3072,6 +3069,18 @@ rate_centers:
   ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
   lat:
   long:
+- country: US
+  region: FL
+  exchange: '030191'
+  name: FLORAHOME (CLAY)
+  full_name: Florahome (Clay)
+  lata: '452'
+  ilec_name: WINDSTREAM FLORIDA, INC.
+  lat: '29.72899'
+  long: "-81.885104"
+  closest_city:
+    name: Interlachen
+    distance_km: 12.13
 - country: US
   region: FL
   exchange: '030310'
@@ -3170,15 +3179,6 @@ rate_centers:
   long:
 - country: US
   region: FL
-  exchange: '323910'
-  name: GLENSTMARY
-  full_name: Glen Saint Mary
-  lata: '452'
-  ilec_name: NORTHEAST FLORIDA TEL. CO., INC.
-  lat:
-  long:
-- country: US
-  region: FL
   exchange: '030330'
   name: GLENDALE
   full_name: Glendale
@@ -3189,6 +3189,15 @@ rate_centers:
   closest_city:
     name: DeFuniak Springs
     distance_km: 16.35
+- country: US
+  region: FL
+  exchange: '323910'
+  name: GLENSTMARY
+  full_name: Glen Saint Mary
+  lata: '452'
+  ilec_name: NORTHEAST FLORIDA TEL. CO., INC.
+  lat:
+  long:
 - country: US
   region: FL
   exchange: '324141'
@@ -3209,20 +3218,20 @@ rate_centers:
   long:
 - country: US
   region: FL
-  exchange: '031171'
-  name: GOLDENGATE
-  full_name: Golden Gate
-  lata: '939'
-  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
-  lat:
-  long:
-- country: US
-  region: FL
   exchange: '324174'
   name: GOLDEN OAK
   full_name: Golden Oak
   lata: '458'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '031171'
+  name: GOLDENGATE
+  full_name: Golden Gate
+  lata: '939'
+  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
   lat:
   long:
 - country: US
@@ -3329,18 +3338,6 @@ rate_centers:
   long:
 - country: US
   region: FL
-  exchange: '030350'
-  name: GRANDRIDGE
-  full_name: Grand Ridge
-  lata: '450'
-  ilec_name: CENTURYLINK OF FLORIDA, INC. (CENTRAL)
-  lat: '30.719322'
-  long: "-85.017313"
-  closest_city:
-    name: Grand Ridge
-    distance_km: 1.27
-- country: US
-  region: FL
   exchange: '323821'
   name: GRANDE PT
   full_name: Grande Pointe
@@ -3359,18 +3356,21 @@ rate_centers:
   long:
 - country: US
   region: FL
+  exchange: '030350'
+  name: GRANDRIDGE
+  full_name: Grand Ridge
+  lata: '450'
+  ilec_name: CENTURYLINK OF FLORIDA, INC. (CENTRAL)
+  lat: '30.719322'
+  long: "-85.017313"
+  closest_city:
+    name: Grand Ridge
+    distance_km: 1.27
+- country: US
+  region: FL
   exchange: '324176'
   name: GRANT
   full_name: Grant
-  lata: '458'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '324177'
-  name: GRNT VALKR
-  full_name: Grant Valkaria
   lata: '458'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
   lat:
@@ -3455,6 +3455,15 @@ rate_centers:
     distance_km: 3.63
 - country: US
   region: FL
+  exchange: '324177'
+  name: GRNT VALKR
+  full_name: Grant Valkaria
+  lata: '458'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: FL
   exchange: '361606'
   name: GROVE CITY
   full_name: Grove City
@@ -3506,15 +3515,6 @@ rate_centers:
   long:
 - country: US
   region: FL
-  exchange: '324410'
-  name: GULFSTREAM
-  full_name: Gulf Stream
-  lata: '460'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: FL
   exchange: '362090'
   name: GULFPORT
   full_name: Gulfport
@@ -3524,11 +3524,29 @@ rate_centers:
   long:
 - country: US
   region: FL
+  exchange: '324410'
+  name: GULFSTREAM
+  full_name: Gulf Stream
+  lata: '460'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: FL
   exchange: '323970'
   name: HAGUE
   full_name: Hague
   lata: '452'
   ilec_name: WINDSTREAM FLORIDA, INC.
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '324073'
+  name: HAINES CRK
+  full_name: Haines Creek
+  lata: '454'
+  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
   lat:
   long:
 - country: US
@@ -3543,15 +3561,6 @@ rate_centers:
   closest_city:
     name: Haines City
     distance_km: 0.06
-- country: US
-  region: FL
-  exchange: '324073'
-  name: HAINES CRK
-  full_name: Haines Creek
-  lata: '454'
-  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
-  lat:
-  long:
 - country: US
   region: FL
   exchange: '324074'
@@ -3671,15 +3680,6 @@ rate_centers:
   long:
 - country: US
   region: FL
-  exchange: '324011'
-  name: HRNNDO BCH
-  full_name: Hernando Beach
-  lata: '454'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: FL
   exchange: '031051'
   name: HIALEAH
   full_name: Hialeah
@@ -3737,15 +3737,6 @@ rate_centers:
   long:
 - country: US
   region: FL
-  exchange: '324413'
-  name: HIGHLD BCH
-  full_name: Highland Beach
-  lata: '460'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: FL
   exchange: '362092'
   name: HIGHLANDCY
   full_name: Highland City
@@ -3760,6 +3751,15 @@ rate_centers:
   full_name: Highlands
   lata: '952'
   ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '324413'
+  name: HIGHLD BCH
+  full_name: Highland Beach
+  lata: '460'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
   lat:
   long:
 - country: US
@@ -3893,6 +3893,15 @@ rate_centers:
   long:
 - country: US
   region: FL
+  exchange: '324302'
+  name: HOMESTD AF
+  full_name: Homestead AFB
+  lata: '460'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: FL
   exchange: '030520'
   name: HOMESTEAD
   full_name: Homestead
@@ -3903,15 +3912,6 @@ rate_centers:
   closest_city:
     name: Florida City
     distance_km: 3.38
-- country: US
-  region: FL
-  exchange: '324302'
-  name: HOMESTD AF
-  full_name: Homestead AFB
-  lata: '460'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
 - country: US
   region: FL
   exchange: '324076'
@@ -3966,6 +3966,15 @@ rate_centers:
   closest_city:
     name: Howey-in-the-Hills
     distance_km: 0.44
+- country: US
+  region: FL
+  exchange: '324011'
+  name: HRNNDO BCH
+  full_name: Hernando Beach
+  lata: '454'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
 - country: US
   region: FL
   exchange: '030560'
@@ -4037,15 +4046,6 @@ rate_centers:
     distance_km: 1.38
 - country: US
   region: FL
-  exchange: '324180'
-  name: INDIATLTIC
-  full_name: Indialantic
-  lata: '458'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: FL
   exchange: '324304'
   name: IND CRK VG
   full_name: Indian Creek Village
@@ -4055,11 +4055,20 @@ rate_centers:
   long:
 - country: US
   region: FL
-  exchange: '324181'
-  name: INDNHBRBCH
-  full_name: Indian Harbor Beach
-  lata: '458'
+  exchange: '324417'
+  name: IND RV SHS
+  full_name: Indian River Shores
+  lata: '460'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '362097'
+  name: IND SHORES
+  full_name: Indian Shores
+  lata: '952'
+  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
   lat:
   long:
 - country: US
@@ -4085,45 +4094,9 @@ rate_centers:
     distance_km: 2.54
 - country: US
   region: FL
-  exchange: '362100'
-  name: INDNLKESTS
-  full_name: Indian Lake Estates
-  lata: '952'
-  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '324417'
-  name: IND RV SHS
-  full_name: Indian River Shores
-  lata: '460'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: FL
   exchange: '029873'
   name: INDIANROCK
   full_name: Indian Rocks
-  lata: '952'
-  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '362099'
-  name: INDINRKBCH
-  full_name: Indian Rocks Beach
-  lata: '952'
-  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '362097'
-  name: IND SHORES
-  full_name: Indian Shores
   lata: '952'
   ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
   lat:
@@ -4140,6 +4113,42 @@ rate_centers:
   closest_city:
     name: Indiantown
     distance_km: 2.75
+- country: US
+  region: FL
+  exchange: '324180'
+  name: INDIATLTIC
+  full_name: Indialantic
+  lata: '458'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '362099'
+  name: INDINRKBCH
+  full_name: Indian Rocks Beach
+  lata: '952'
+  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '324181'
+  name: INDNHBRBCH
+  full_name: Indian Harbor Beach
+  lata: '458'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '362100'
+  name: INDNLKESTS
+  full_name: Indian Lake Estates
+  lata: '952'
+  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
+  lat:
+  long:
 - country: US
   region: FL
   exchange: '324419'
@@ -4268,18 +4277,6 @@ rate_centers:
   long:
 - country: US
   region: FL
-  exchange: '030630'
-  name: JACKSONVL
-  full_name: Jacksonville
-  lata: '452'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat: '30.324565'
-  long: "-81.666047"
-  closest_city:
-    name: Jacksonville
-    distance_km: 1.2
-- country: US
-  region: FL
   exchange: '030640'
   name: JACKSOLBCH
   full_name: Jacksonville Beach
@@ -4290,6 +4287,18 @@ rate_centers:
   closest_city:
     name: Jacksonville Beach
     distance_km: 1.27
+- country: US
+  region: FL
+  exchange: '030630'
+  name: JACKSONVL
+  full_name: Jacksonville
+  lata: '452'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat: '30.324565'
+  long: "-81.666047"
+  closest_city:
+    name: Jacksonville
+    distance_km: 1.2
 - country: US
   region: FL
   exchange: '323920'
@@ -4385,6 +4394,15 @@ rate_centers:
   long:
 - country: US
   region: FL
+  exchange: '324421'
+  name: JPTR IN CO
+  full_name: Jupiter Inlet Colony
+  lata: '460'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: FL
   exchange: '030690'
   name: JULINGTON
   full_name: Julington
@@ -4421,15 +4439,6 @@ rate_centers:
   exchange: '324424'
   name: JUPITER IN
   full_name: Jupiter Inlet
-  lata: '460'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '324421'
-  name: JPTR IN CO
-  full_name: Jupiter Inlet Colony
   lata: '460'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
   lat:
@@ -4487,15 +4496,6 @@ rate_centers:
   long:
 - country: US
   region: FL
-  exchange: '324182'
-  name: KNEDYSPCTR
-  full_name: Kennedy Space Center
-  lata: '458'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: FL
   exchange: '362104'
   name: KENNETH CY
   full_name: Kenneth City
@@ -4514,18 +4514,9 @@ rate_centers:
   long:
 - country: US
   region: FL
-  exchange: '031052'
-  name: KEYBISCAYN
-  full_name: Key Biscayne
-  lata: '460'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '324312'
-  name: KYCLONYBCH
-  full_name: Key Colony Beach
+  exchange: '324307'
+  name: KEWWESTNAS
+  full_name: Key West Naval Air Station
   lata: '460'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
   lat:
@@ -4556,9 +4547,9 @@ rate_centers:
     distance_km: 1.62
 - country: US
   region: FL
-  exchange: '324307'
-  name: KEWWESTNAS
-  full_name: Key West Naval Air Station
+  exchange: '031052'
+  name: KEYBISCAYN
+  full_name: Key Biscayne
   lata: '460'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
   lat:
@@ -4577,15 +4568,6 @@ rate_centers:
     distance_km: 5.15
 - country: US
   region: FL
-  exchange: '031951'
-  name: KEYSTONE
-  full_name: Keystone
-  lata: '952'
-  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
-  lat:
-  long:
-- country: US
-  region: FL
   exchange: '030750'
   name: KEYSTN HTS
   full_name: Keystone Heights
@@ -4596,6 +4578,15 @@ rate_centers:
   closest_city:
     name: Keystone Heights
     distance_km: 0.39
+- country: US
+  region: FL
+  exchange: '031951'
+  name: KEYSTONE
+  full_name: Keystone
+  lata: '952'
+  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
+  lat:
+  long:
 - country: US
   region: FL
   exchange: '362105'
@@ -4658,6 +4649,24 @@ rate_centers:
     distance_km: 1.66
 - country: US
   region: FL
+  exchange: '324182'
+  name: KNEDYSPCTR
+  full_name: Kennedy Space Center
+  lata: '458'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '324312'
+  name: KYCLONYBCH
+  full_name: Key Colony Beach
+  lata: '460'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: FL
   exchange: '030780'
   name: LABELLE
   full_name: LaBelle
@@ -4688,6 +4697,15 @@ rate_centers:
   long:
 - country: US
   region: FL
+  exchange: '324313'
+  name: LADRDLBYSE
+  full_name: Lauderdale by the Sea
+  lata: '460'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: FL
   exchange: '030790'
   name: LADY LAKE
   full_name: Lady Lake
@@ -4709,57 +4727,6 @@ rate_centers:
   long:
 - country: US
   region: FL
-  exchange: '032242'
-  name: LAKEALFRED
-  full_name: Lake Alfred
-  lata: '952'
-  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '032254'
-  name: LKBRANTLEY
-  full_name: Lake Brantley
-  lata: '458'
-  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '324086'
-  name: LAKEBRYANT
-  full_name: Lake Bryant
-  lata: '454'
-  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '030800'
-  name: LKBUNAVIST
-  full_name: Lake Buena Vista
-  lata: '458'
-  ilec_name: SMART CITY TELECOM LLC DBA SMART CITY TELECOM
-  lat: '28.391195'
-  long: "-81.532959"
-  closest_city:
-    name: Lake Buena Vista
-    distance_km: 1.51
-- country: US
-  region: FL
-  exchange: '030810'
-  name: LAKEBUTLER
-  full_name: Lake Butler
-  lata: '452'
-  ilec_name: WINDSTREAM FLORIDA, INC.
-  lat: '30.01443'
-  long: "-82.342414"
-  closest_city:
-    name: Raiford
-    distance_km: 11.36
-- country: US
-  region: FL
   exchange: '030820'
   name: LAKE CITY
   full_name: Lake City
@@ -4772,55 +4739,10 @@ rate_centers:
     distance_km: 1.2
 - country: US
   region: FL
-  exchange: '324429'
-  name: LK CLARKE
-  full_name: Lake Clarke
-  lata: '460'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '324430'
-  name: LKCLARKSHS
-  full_name: Lake Clarke Shores
-  lata: '460'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: FL
   exchange: '323925'
   name: LAKE COMO
   full_name: Lake Como
   lata: '452'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '362114'
-  name: LKGARFIELD
-  full_name: Lake Garfield
-  lata: '952'
-  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '362115'
-  name: LKHAMILTON
-  full_name: Lake Hamilton
-  lata: '952'
-  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '324427'
-  name: LAKEHARBOR
-  full_name: Lake Harbor
-  lata: '460'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
   lat:
   long:
@@ -4862,24 +4784,6 @@ rate_centers:
   long:
 - country: US
   region: FL
-  exchange: '324184'
-  name: LAKEMONROE
-  full_name: Lake Monroe
-  lata: '458'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '324089'
-  name: LKE PANFKE
-  full_name: Lake Panasoffkee
-  lata: '454'
-  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
-  lat:
-  long:
-- country: US
-  region: FL
   exchange: '324425'
   name: LAKE PARK
   full_name: Lake Park
@@ -4887,18 +4791,6 @@ rate_centers:
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
   lat:
   long:
-- country: US
-  region: FL
-  exchange: '030830'
-  name: LAKEPLACID
-  full_name: Lake Placid
-  lata: '939'
-  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
-  lat: '27.290129'
-  long: "-81.358512"
-  closest_city:
-    name: Lake Placid
-    distance_km: 1.95
 - country: US
   region: FL
   exchange: '361612'
@@ -4940,6 +4832,45 @@ rate_centers:
   long:
 - country: US
   region: FL
+  exchange: '032242'
+  name: LAKEALFRED
+  full_name: Lake Alfred
+  lata: '952'
+  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '324086'
+  name: LAKEBRYANT
+  full_name: Lake Bryant
+  lata: '454'
+  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '030810'
+  name: LAKEBUTLER
+  full_name: Lake Butler
+  lata: '452'
+  ilec_name: WINDSTREAM FLORIDA, INC.
+  lat: '30.01443'
+  long: "-82.342414"
+  closest_city:
+    name: Raiford
+    distance_km: 11.36
+- country: US
+  region: FL
+  exchange: '324427'
+  name: LAKEHARBOR
+  full_name: Lake Harbor
+  lata: '460'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: FL
   exchange: '030850'
   name: LAKELAND
   full_name: Lakeland
@@ -4952,6 +4883,15 @@ rate_centers:
     distance_km: 2.7
 - country: US
   region: FL
+  exchange: '324184'
+  name: LAKEMONROE
+  full_name: Lake Monroe
+  lata: '458'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: FL
   exchange: '361563'
   name: LAKEMONT
   full_name: Lakemont
@@ -4961,13 +4901,16 @@ rate_centers:
   long:
 - country: US
   region: FL
-  exchange: '324431'
-  name: LKWOOD PK
-  full_name: Lakewood Park
-  lata: '460'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
+  exchange: '030830'
+  name: LAKEPLACID
+  full_name: Lake Placid
+  lata: '939'
+  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
+  lat: '27.290129'
+  long: "-81.358512"
+  closest_city:
+    name: Lake Placid
+    distance_km: 1.95
 - country: US
   region: FL
   exchange: '362109'
@@ -5024,15 +4967,6 @@ rate_centers:
   long:
 - country: US
   region: FL
-  exchange: '324315'
-  name: LAUDBYSEA
-  full_name: Laud By Sea
-  lata: '460'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: FL
   exchange: '324314'
   name: LAUD LAKES
   full_name: Laud Lakes
@@ -5042,18 +4976,18 @@ rate_centers:
   long:
 - country: US
   region: FL
-  exchange: '324316'
-  name: LAUDEDLLKS
-  full_name: Lauderdale Lakes
+  exchange: '324315'
+  name: LAUDBYSEA
+  full_name: Laud By Sea
   lata: '460'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
   lat:
   long:
 - country: US
   region: FL
-  exchange: '324313'
-  name: LADRDLBYSE
-  full_name: Lauderdale by the Sea
+  exchange: '324316'
+  name: LAUDEDLLKS
+  full_name: Lauderdale Lakes
   lata: '460'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
   lat:
@@ -5100,15 +5034,6 @@ rate_centers:
   closest_city:
     name: Lawtey
     distance_km: 1.23
-- country: US
-  region: FL
-  exchange: '324260'
-  name: AAZY LAKE
-  full_name: Lazy Lake
-  lata: '460'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
 - country: US
   region: FL
   exchange: '031847'
@@ -5192,15 +5117,6 @@ rate_centers:
   long:
 - country: US
   region: FL
-  exchange: '324321'
-  name: LTLTRCHKEY
-  full_name: Little Torch Key
-  lata: '460'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: FL
   exchange: '030910'
   name: LIVE OAK
   full_name: Live Oak
@@ -5211,6 +5127,81 @@ rate_centers:
   closest_city:
     name: Live Oak
     distance_km: 0.76
+- country: US
+  region: FL
+  exchange: '324429'
+  name: LK CLARKE
+  full_name: Lake Clarke
+  lata: '460'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '032254'
+  name: LKBRANTLEY
+  full_name: Lake Brantley
+  lata: '458'
+  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '030800'
+  name: LKBUNAVIST
+  full_name: Lake Buena Vista
+  lata: '458'
+  ilec_name: SMART CITY TELECOM LLC DBA SMART CITY TELECOM
+  lat: '28.391195'
+  long: "-81.532959"
+  closest_city:
+    name: Lake Buena Vista
+    distance_km: 1.51
+- country: US
+  region: FL
+  exchange: '324430'
+  name: LKCLARKSHS
+  full_name: Lake Clarke Shores
+  lata: '460'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '324089'
+  name: LKE PANFKE
+  full_name: Lake Panasoffkee
+  lata: '454'
+  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '362114'
+  name: LKGARFIELD
+  full_name: Lake Garfield
+  lata: '952'
+  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '362115'
+  name: LKHAMILTON
+  full_name: Lake Hamilton
+  lata: '952'
+  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '324431'
+  name: LKWOOD PK
+  full_name: Lakewood Park
+  lata: '460'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
 - country: US
   region: FL
   exchange: '362222'
@@ -5321,9 +5312,9 @@ rate_centers:
   long:
 - country: US
   region: FL
-  exchange: '324322'
-  name: LWSGRLFKEY
-  full_name: Lower Sugarloaf Key
+  exchange: '324432'
+  name: LOXACHFARM
+  full_name: Loxahatchee Farm
   lata: '460'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
   lat:
@@ -5339,18 +5330,18 @@ rate_centers:
   long:
 - country: US
   region: FL
-  exchange: '324432'
-  name: LOXACHFARM
-  full_name: Loxahatchee Farm
+  exchange: '324434'
+  name: LOXAHTE GV
+  full_name: Loxahatchee Groves
   lata: '460'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
   lat:
   long:
 - country: US
   region: FL
-  exchange: '324434'
-  name: LOXAHTE GV
-  full_name: Loxahatchee Groves
+  exchange: '324321'
+  name: LTLTRCHKEY
+  full_name: Little Torch Key
   lata: '460'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
   lat:
@@ -5387,6 +5378,15 @@ rate_centers:
   long:
 - country: US
   region: FL
+  exchange: '324322'
+  name: LWSGRLFKEY
+  full_name: Lower Sugarloaf Key
+  lata: '460'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: FL
   exchange: '030930'
   name: LYNN HAVEN
   full_name: Lynn Haven
@@ -5399,15 +5399,6 @@ rate_centers:
     distance_km: 2.2
 - country: US
   region: FL
-  exchange: '362120'
-  name: MACDILLAFB
-  full_name: MacDill Air Force Base
-  lata: '952'
-  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
-  lat:
-  long:
-- country: US
-  region: FL
   exchange: '030940'
   name: MACCLENNY
   full_name: Macclenny
@@ -5418,6 +5409,15 @@ rate_centers:
   closest_city:
     name: Macclenny
     distance_km: 0.61
+- country: US
+  region: FL
+  exchange: '362120'
+  name: MACDILLAFB
+  full_name: MacDill Air Force Base
+  lata: '952'
+  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
+  lat:
+  long:
 - country: US
   region: FL
   exchange: '362121'
@@ -5525,6 +5525,15 @@ rate_centers:
   long:
 - country: US
   region: FL
+  exchange: '324323'
+  name: MARATHINSH
+  full_name: Marathon Shores
+  lata: '460'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: FL
   exchange: '030970'
   name: MARATHON
   full_name: Marathon
@@ -5535,15 +5544,6 @@ rate_centers:
   closest_city:
     name: Marathon
     distance_km: 5.15
-- country: US
-  region: FL
-  exchange: '324323'
-  name: MARATHINSH
-  full_name: Marathon Shores
-  lata: '460'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
 - country: US
   region: FL
   exchange: '030980'
@@ -5693,11 +5693,11 @@ rate_centers:
   long:
 - country: US
   region: FL
-  exchange: '323938'
-  name: MYUSNVARST
-  full_name: Mayport US Naval Air Station
-  lata: '452'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  exchange: '328030'
+  name: MC DAVID
+  full_name: McDavid
+  lata: '480'
+  ilec_name: FRONTIER COMMUNICATIONS OF THE SOUTH, LLC - FL
   lat:
   long:
 - country: US
@@ -5707,15 +5707,6 @@ rate_centers:
   full_name: McAlpin
   lata: '452'
   ilec_name: WINDSTREAM FLORIDA, INC.
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '328030'
-  name: MC DAVID
-  full_name: McDavid
-  lata: '480'
-  ilec_name: FRONTIER COMMUNICATIONS OF THE SOUTH, LLC - FL
   lat:
   long:
 - country: US
@@ -5741,10 +5732,28 @@ rate_centers:
   long:
 - country: US
   region: FL
+  exchange: '324327'
+  name: MDDLETRKEY
+  full_name: Middle Torch Key
+  lata: '460'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: FL
   exchange: '324328'
   name: MEDLEY
   full_name: Medley
   lata: '460'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '324187'
+  name: MELBORNBCH
+  full_name: Melbourne Beach
+  lata: '458'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
   lat:
   long:
@@ -5760,15 +5769,6 @@ rate_centers:
   closest_city:
     name: Indialantic
     distance_km: 3.97
-- country: US
-  region: FL
-  exchange: '324187'
-  name: MELBORNBCH
-  full_name: Melbourne Beach
-  lata: '458'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
 - country: US
   region: FL
   exchange: '324189'
@@ -5831,18 +5831,27 @@ rate_centers:
     distance_km: 2.24
 - country: US
   region: FL
-  exchange: '324332'
-  name: MIAMIBEACH
-  full_name: Miami Beach
+  exchange: '324330'
+  name: MIAMI GRDN
+  full_name: Miami Gardens
   lata: '460'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
   lat:
   long:
 - country: US
   region: FL
-  exchange: '324330'
-  name: MIAMI GRDN
-  full_name: Miami Gardens
+  exchange: '324331'
+  name: MIAMI SPG
+  full_name: Miami Springs
+  lata: '460'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '324332'
+  name: MIAMIBEACH
+  full_name: Miami Beach
   lata: '460'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
   lat:
@@ -5861,15 +5870,6 @@ rate_centers:
   exchange: '324334'
   name: MIAMISHORS
   full_name: Miami Shores
-  lata: '460'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '324331'
-  name: MIAMI SPG
-  full_name: Miami Springs
   lata: '460'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
   lat:
@@ -5902,15 +5902,6 @@ rate_centers:
   full_name: Miccosukee
   lata: '953'
   ilec_name: CENTURYLINK OF FLORIDA, INC. (CENTRAL)
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '324327'
-  name: MDDLETRKEY
-  full_name: Middle Torch Key
-  lata: '460'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
   lat:
   long:
 - country: US
@@ -6098,6 +6089,15 @@ rate_centers:
     distance_km: 1.17
 - country: US
   region: FL
+  exchange: '362125'
+  name: MOUNTAINLK
+  full_name: Mountain Lake
+  lata: '952'
+  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
+  lat:
+  long:
+- country: US
+  region: FL
   exchange: '323870'
   name: MTPLEASANT
   full_name: Mount Pleasant
@@ -6112,15 +6112,6 @@ rate_centers:
   full_name: Mount Plymouth
   lata: '454'
   ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '362125'
-  name: MOUNTAINLK
-  full_name: Mountain Lake
-  lata: '952'
-  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
   lat:
   long:
 - country: US
@@ -6197,6 +6188,33 @@ rate_centers:
   long:
 - country: US
   region: FL
+  exchange: '323938'
+  name: MYUSNVARST
+  full_name: Mayport US Naval Air Station
+  lata: '452'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '031844'
+  name: N GULF BCH
+  full_name: North Gulf Beach
+  lata: '952'
+  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '362129'
+  name: N RED BCH
+  full_name: North Redington Beach
+  lata: '952'
+  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
+  lat:
+  long:
+- country: US
+  region: FL
   exchange: '031170'
   name: NAPLES
   full_name: Naples
@@ -6227,6 +6245,18 @@ rate_centers:
   long:
 - country: US
   region: FL
+  exchange: '031210'
+  name: NCAPECORAL
+  full_name: North Cape Coral
+  lata: '939'
+  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
+  lat: '26.635001'
+  long: "-81.942917"
+  closest_city:
+    name: Lochmoor Waterway Estates
+    distance_km: 3.46
+- country: US
+  region: FL
   exchange: '323939'
   name: NEPTUNEBCH
   full_name: Neptune Beach
@@ -6236,18 +6266,6 @@ rate_centers:
   long:
 - country: US
   region: FL
-  exchange: '031180'
-  name: NWPTRICHEY
-  full_name: New Port Richey
-  lata: '952'
-  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
-  lat: '28.241827'
-  long: "-82.706396"
-  closest_city:
-    name: New Port Richey
-    distance_km: 1.18
-- country: US
-  region: FL
   exchange: '324143'
   name: NEW SMYRNA
   full_name: New Smyrna
@@ -6255,18 +6273,6 @@ rate_centers:
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
   lat:
   long:
-- country: US
-  region: FL
-  exchange: '031190'
-  name: NWSMYRNBCH
-  full_name: New Smyrna Beach
-  lata: '456'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat: '29.023408'
-  long: "-80.926187"
-  closest_city:
-    name: New Smyrna Beach
-    distance_km: 3.8
 - country: US
   region: FL
   exchange: '031200'
@@ -6317,6 +6323,45 @@ rate_centers:
   long:
 - country: US
   region: FL
+  exchange: '324337'
+  name: NO BAY VLG
+  full_name: North Bay Village
+  lata: '460'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '324338'
+  name: NO LAUDERD
+  full_name: North Lauderdale
+  lata: '460'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '031250'
+  name: NO NAPLES
+  full_name: North Naples
+  lata: '939'
+  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
+  lat: '26.26519'
+  long: "-81.807791"
+  closest_city:
+    name: Naples Park
+    distance_km: 0.26
+- country: US
+  region: FL
+  exchange: '362132'
+  name: NO VENICE
+  full_name: North Venice
+  lata: '952'
+  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
+  lat:
+  long:
+- country: US
+  region: FL
   exchange: '324027'
   name: NOBLETON
   full_name: Nobleton
@@ -6335,9 +6380,42 @@ rate_centers:
   long:
 - country: US
   region: FL
+  exchange: '031230'
+  name: NOFT MYERS
+  full_name: North Fort Myers
+  lata: '939'
+  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
+  lat: '26.666046'
+  long: "-81.881683"
+  closest_city:
+    name: Palmona Park
+    distance_km: 2.87
+- country: US
+  region: FL
+  exchange: '031240'
+  name: NOKEYLARGO
+  full_name: North Key Largo
+  lata: '460'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat: '25.318363'
+  long: "-80.282361"
+  closest_city:
+    name: North Key Largo
+    distance_km: 7.98
+- country: US
+  region: FL
   exchange: '362133'
   name: NOKOMIS
   full_name: Nokomis
+  lata: '952'
+  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '362134'
+  name: NOLAKELAND
+  full_name: North Lakeland
   lata: '952'
   ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
   lat:
@@ -6353,25 +6431,22 @@ rate_centers:
   long:
 - country: US
   region: FL
-  exchange: '324337'
-  name: NO BAY VLG
-  full_name: North Bay Village
+  exchange: '324340'
+  name: NOMIAMIBCH
+  full_name: North Miami Beach
   lata: '460'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
   lat:
   long:
 - country: US
   region: FL
-  exchange: '031210'
-  name: NCAPECORAL
-  full_name: North Cape Coral
-  lata: '939'
-  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
-  lat: '26.635001'
-  long: "-81.942917"
-  closest_city:
-    name: Lochmoor Waterway Estates
-    distance_km: 3.46
+  exchange: '324438'
+  name: NOPALM BCH
+  full_name: North Palm Beach
+  lata: '460'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
 - country: US
   region: FL
   exchange: '031220'
@@ -6386,53 +6461,23 @@ rate_centers:
     distance_km: 1.16
 - country: US
   region: FL
-  exchange: '031230'
-  name: NOFT MYERS
-  full_name: North Fort Myers
-  lata: '939'
-  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
-  lat: '26.666046'
-  long: "-81.881683"
-  closest_city:
-    name: Palmona Park
-    distance_km: 2.87
-- country: US
-  region: FL
-  exchange: '031844'
-  name: N GULF BCH
-  full_name: North Gulf Beach
+  exchange: '031260'
+  name: NORTH PORT
+  full_name: North Port
   lata: '952'
   ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '031240'
-  name: NOKEYLARGO
-  full_name: North Key Largo
-  lata: '460'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat: '25.318363'
-  long: "-80.282361"
+  lat: '27.047994'
+  long: "-82.240518"
   closest_city:
-    name: North Key Largo
-    distance_km: 7.98
+    name: Warm Mineral Springs
+    distance_km: 2.94
 - country: US
   region: FL
-  exchange: '362134'
-  name: NOLAKELAND
-  full_name: North Lakeland
+  exchange: '362136'
+  name: NORTHDALE
+  full_name: Northdale
   lata: '952'
   ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '324338'
-  name: NO LAUDERD
-  full_name: North Lauderdale
-  lata: '460'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
   lat:
   long:
 - country: US
@@ -6455,75 +6500,6 @@ rate_centers:
   long:
 - country: US
   region: FL
-  exchange: '324340'
-  name: NOMIAMIBCH
-  full_name: North Miami Beach
-  lata: '460'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '031250'
-  name: NO NAPLES
-  full_name: North Naples
-  lata: '939'
-  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
-  lat: '26.26519'
-  long: "-81.807791"
-  closest_city:
-    name: Naples Park
-    distance_km: 0.26
-- country: US
-  region: FL
-  exchange: '324438'
-  name: NOPALM BCH
-  full_name: North Palm Beach
-  lata: '460'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '031260'
-  name: NORTH PORT
-  full_name: North Port
-  lata: '952'
-  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
-  lat: '27.047994'
-  long: "-82.240518"
-  closest_city:
-    name: Warm Mineral Springs
-    distance_km: 2.94
-- country: US
-  region: FL
-  exchange: '362129'
-  name: N RED BCH
-  full_name: North Redington Beach
-  lata: '952'
-  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '362132'
-  name: NO VENICE
-  full_name: North Venice
-  lata: '952'
-  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '362136'
-  name: NORTHDALE
-  full_name: Northdale
-  lata: '952'
-  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
-  lat:
-  long:
-- country: US
-  region: FL
   exchange: '031713'
   name: NORTHSIDE
   full_name: Northside
@@ -6531,6 +6507,30 @@ rate_centers:
   ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
   lat:
   long:
+- country: US
+  region: FL
+  exchange: '031180'
+  name: NWPTRICHEY
+  full_name: New Port Richey
+  lata: '952'
+  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
+  lat: '28.241827'
+  long: "-82.706396"
+  closest_city:
+    name: New Port Richey
+    distance_km: 1.18
+- country: US
+  region: FL
+  exchange: '031190'
+  name: NWSMYRNBCH
+  full_name: New Smyrna Beach
+  lata: '456'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat: '29.023408'
+  long: "-80.926187"
+  closest_city:
+    name: New Smyrna Beach
+    distance_km: 3.8
 - country: US
   region: FL
   exchange: '323980'
@@ -6593,24 +6593,6 @@ rate_centers:
     distance_km: 2.1
 - country: US
   region: FL
-  exchange: '324097'
-  name: OCLNTINLFR
-  full_name: Ocala National Forest
-  lata: '454'
-  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '324440'
-  name: OCNBREZEPK
-  full_name: Ocean Breeze Park
-  lata: '460'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: FL
   exchange: '324439'
   name: OCEANRIDGE
   full_name: Ocean Ridge
@@ -6659,6 +6641,24 @@ rate_centers:
     distance_km: 0.47
 - country: US
   region: FL
+  exchange: '324097'
+  name: OCLNTINLFR
+  full_name: Ocala National Forest
+  lata: '454'
+  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '324440'
+  name: OCNBREZEPK
+  full_name: Ocean Breeze Park
+  lata: '460'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: FL
   exchange: '324246'
   name: OCOEE
   full_name: Ocoee
@@ -6695,15 +6695,6 @@ rate_centers:
   long:
 - country: US
   region: FL
-  exchange: '323806'
-  name: OKLALOO IS
-  full_name: Okaloosa Island
-  lata: '448'
-  ilec_name: CENTURYLINK OF FLORIDA, INC. (CENTRAL)
-  lat:
-  long:
-- country: US
-  region: FL
   exchange: '031300'
   name: OKEECHOBEE
   full_name: Okeechobee
@@ -6714,6 +6705,15 @@ rate_centers:
   closest_city:
     name: Okeechobee
     distance_km: 0.64
+- country: US
+  region: FL
+  exchange: '323806'
+  name: OKLALOO IS
+  full_name: Okaloosa Island
+  lata: '448'
+  ilec_name: CENTURYLINK OF FLORIDA, INC. (CENTRAL)
+  lat:
+  long:
 - country: US
   region: FL
   exchange: '031310'
@@ -6782,6 +6782,18 @@ rate_centers:
   long:
 - country: US
   region: FL
+  exchange: '031340'
+  name: ORANGE SPG
+  full_name: Orange Springs
+  lata: '454'
+  ilec_name: WINDSTREAM FLORIDA, INC.
+  lat: '29.510313'
+  long: "-81.946235"
+  closest_city:
+    name: Interlachen
+    distance_km: 13.15
+- country: US
+  region: FL
   exchange: '031320'
   name: ORANGECITY
   full_name: Orange City
@@ -6813,18 +6825,6 @@ rate_centers:
   closest_city:
     name: Orange Park
     distance_km: 0.64
-- country: US
-  region: FL
-  exchange: '031340'
-  name: ORANGE SPG
-  full_name: Orange Springs
-  lata: '454'
-  ilec_name: WINDSTREAM FLORIDA, INC.
-  lat: '29.510313'
-  long: "-81.946235"
-  closest_city:
-    name: Interlachen
-    distance_km: 13.15
 - country: US
   region: FL
   exchange: '324441'
@@ -6995,24 +6995,6 @@ rate_centers:
   long:
 - country: US
   region: FL
-  exchange: '032164'
-  name: PALMBCHGDN
-  full_name: Palm Beach Gardens
-  lata: '460'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '324447'
-  name: PALMBCHSHR
-  full_name: Palm Beach Shores
-  lata: '460'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: FL
   exchange: '324444'
   name: PALM CITY
   full_name: Palm City
@@ -7034,24 +7016,6 @@ rate_centers:
     distance_km: 5.49
 - country: US
   region: FL
-  exchange: '362147'
-  name: PALMHARBOR
-  full_name: Palm Harbor
-  lata: '952'
-  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '324197'
-  name: PALMSHORES
-  full_name: Palm Shores
-  lata: '458'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: FL
   exchange: '324445'
   name: PALM SPG
   full_name: Palm Springs
@@ -7061,11 +7025,11 @@ rate_centers:
   long:
 - country: US
   region: FL
-  exchange: '323944'
-  name: PALMVALLEY
-  full_name: Palm Valley
-  lata: '452'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  exchange: '029663'
+  name: PALMA SOLA
+  full_name: Palma Sola
+  lata: '952'
+  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
   lat:
   long:
 - country: US
@@ -7079,11 +7043,20 @@ rate_centers:
   long:
 - country: US
   region: FL
-  exchange: '029663'
-  name: PALMA SOLA
-  full_name: Palma Sola
-  lata: '952'
-  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
+  exchange: '032164'
+  name: PALMBCHGDN
+  full_name: Palm Beach Gardens
+  lata: '460'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '324447'
+  name: PALMBCHSHR
+  full_name: Palm Beach Shores
+  lata: '460'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
   lat:
   long:
 - country: US
@@ -7109,10 +7082,37 @@ rate_centers:
     distance_km: 1.3
 - country: US
   region: FL
+  exchange: '362147'
+  name: PALMHARBOR
+  full_name: Palm Harbor
+  lata: '952'
+  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '324197'
+  name: PALMSHORES
+  full_name: Palm Shores
+  lata: '458'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: FL
   exchange: '324347'
   name: PALMTTO BY
   full_name: Palmetto Bay
   lata: '460'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '323944'
+  name: PALMVALLEY
+  full_name: Palm Valley
+  lata: '452'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
   lat:
   long:
@@ -7140,18 +7140,6 @@ rate_centers:
   closest_city:
     name: Cedar Grove
     distance_km: 3.8
-- country: US
-  region: FL
-  exchange: '031440'
-  name: PNAMACYBCH
-  full_name: Panama City Beach
-  lata: '450'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat: '30.174421'
-  long: "-85.798554"
-  closest_city:
-    name: Lower Grand Lagoon
-    distance_km: 5.54
 - country: US
   region: FL
   exchange: '324198'
@@ -7199,18 +7187,18 @@ rate_centers:
   long:
 - country: US
   region: FL
-  exchange: '362150'
-  name: PASSAGRLBC
-  full_name: Pass A Grille Beach
+  exchange: '362149'
+  name: PASSAGRILL
+  full_name: Passagrille
   lata: '952'
   ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
   lat:
   long:
 - country: US
   region: FL
-  exchange: '362149'
-  name: PASSAGRILL
-  full_name: Passagrille
+  exchange: '362150'
+  name: PASSAGRLBC
+  full_name: Pass A Grille Beach
   lata: '952'
   ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
   lat:
@@ -7256,15 +7244,6 @@ rate_centers:
   long:
 - country: US
   region: FL
-  exchange: '030512'
-  name: PMBRKPINES
-  full_name: Pembroke Pines
-  lata: '460'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: FL
   exchange: '324350'
   name: PEMBROKEPN
   full_name: Pembroke Pines
@@ -7293,15 +7272,6 @@ rate_centers:
   closest_city:
     name: Goulding
     distance_km: 2.82
-- country: US
-  region: FL
-  exchange: '323774'
-  name: PNSCOLA BH
-  full_name: Pensacola Beach
-  lata: '448'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
 - country: US
   region: FL
   exchange: '323773'
@@ -7358,6 +7328,24 @@ rate_centers:
     distance_km: 1.49
 - country: US
   region: FL
+  exchange: '324200'
+  name: PINE HILLS
+  full_name: Pine Hills
+  lata: '458'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '324101'
+  name: PINE RIDGE
+  full_name: Pine Ridge
+  lata: '454'
+  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
+  lat:
+  long:
+- country: US
+  region: FL
   exchange: '324201'
   name: PINECASTLE
   full_name: Pine Castle
@@ -7367,10 +7355,10 @@ rate_centers:
   long:
 - country: US
   region: FL
-  exchange: '324200'
-  name: PINE HILLS
-  full_name: Pine Hills
-  lata: '458'
+  exchange: '324352'
+  name: PINECREST
+  full_name: Pinecrest
+  lata: '460'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
   lat:
   long:
@@ -7386,24 +7374,6 @@ rate_centers:
   closest_city:
     name: Pine Island Center
     distance_km: 2.67
-- country: US
-  region: FL
-  exchange: '324101'
-  name: PINE RIDGE
-  full_name: Pine Ridge
-  lata: '454'
-  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '324352'
-  name: PINECREST
-  full_name: Pinecrest
-  lata: '460'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
 - country: US
   region: FL
   exchange: '029872'
@@ -7463,18 +7433,18 @@ rate_centers:
     distance_km: 0.81
 - country: US
   region: FL
-  exchange: '030221'
-  name: PLANTATION
-  full_name: Plantation
+  exchange: '324354'
+  name: PLANTANKEY
+  full_name: Plantation Key
   lata: '460'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
   lat:
   long:
 - country: US
   region: FL
-  exchange: '324354'
-  name: PLANTANKEY
-  full_name: Plantation Key
+  exchange: '030221'
+  name: PLANTATION
+  full_name: Plantation
   lata: '460'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
   lat:
@@ -7490,6 +7460,48 @@ rate_centers:
   long:
 - country: US
   region: FL
+  exchange: '030512'
+  name: PMBRKPINES
+  full_name: Pembroke Pines
+  lata: '460'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '031440'
+  name: PNAMACYBCH
+  full_name: Panama City Beach
+  lata: '450'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat: '30.174421'
+  long: "-85.798554"
+  closest_city:
+    name: Lower Grand Lagoon
+    distance_km: 5.54
+- country: US
+  region: FL
+  exchange: '323774'
+  name: PNSCOLA BH
+  full_name: Pensacola Beach
+  lata: '448'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '031560'
+  name: PNTVDRABCH
+  full_name: Ponte Vedra Beach
+  lata: '452'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat: '30.232052'
+  long: "-81.377572"
+  closest_city:
+    name: Palm Valley
+    distance_km: 3.82
+- country: US
+  region: FL
   exchange: '030431'
   name: POINCIANA
   full_name: Poinciana
@@ -7500,15 +7512,6 @@ rate_centers:
   closest_city:
     name: Haines City
     distance_km: 0.06
-- country: US
-  region: FL
-  exchange: '323807'
-  name: PTWASHIGTN
-  full_name: Point Washington
-  lata: '448'
-  ilec_name: CENTURYLINK OF FLORIDA, INC. (CENTRAL)
-  lat:
-  long:
 - country: US
   region: FL
   exchange: '031520'
@@ -7547,15 +7550,6 @@ rate_centers:
     distance_km: 1.64
 - country: US
   region: FL
-  exchange: '324149'
-  name: PONCEINLET
-  full_name: Ponce Inlet
-  lata: '456'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: FL
   exchange: '031550'
   name: PONCE LEON
   full_name: Ponce de Leon
@@ -7568,6 +7562,15 @@ rate_centers:
     distance_km: 0.92
 - country: US
   region: FL
+  exchange: '324149'
+  name: PONCEINLET
+  full_name: Ponce Inlet
+  lata: '456'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: FL
   exchange: '323948'
   name: PONTEVEDRA
   full_name: Ponte Vedra
@@ -7577,44 +7580,11 @@ rate_centers:
   long:
 - country: US
   region: FL
-  exchange: '031560'
-  name: PNTVDRABCH
-  full_name: Ponte Vedra Beach
-  lata: '452'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat: '30.232052'
-  long: "-81.377572"
-  closest_city:
-    name: Palm Valley
-    distance_km: 3.82
-- country: US
-  region: FL
-  exchange: '324202'
-  name: PT CANAVRL
-  full_name: Port Canaveral
-  lata: '458'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '031570'
-  name: PTCHARLOTT
-  full_name: Port Charlotte
-  lata: '939'
-  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
-  lat: '26.965829'
-  long: "-82.115472"
-  closest_city:
-    name: Port Charlotte
-    distance_km: 2.89
-- country: US
-  region: FL
-  exchange: '324358'
-  name: PTEVERGLDS
-  full_name: Port Everglades
-  lata: '460'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  exchange: '362156'
+  name: PORT TAMPA
+  full_name: Port Tampa
+  lata: '952'
+  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
   lat:
   long:
 - country: US
@@ -7646,24 +7616,6 @@ rate_centers:
   long:
 - country: US
   region: FL
-  exchange: '324203'
-  name: PT ST JOHN
-  full_name: Port Saint John
-  lata: '458'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '324450'
-  name: PT SALERNO
-  full_name: Port Salerno
-  lata: '460'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: FL
   exchange: '324449'
   name: PORTSEWALL
   full_name: Port Sewall
@@ -7685,6 +7637,63 @@ rate_centers:
     distance_km: 2.26
 - country: US
   region: FL
+  exchange: '324357'
+  name: PRINCETON
+  full_name: Princeton
+  lata: '460'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '324202'
+  name: PT CANAVRL
+  full_name: Port Canaveral
+  lata: '458'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '324450'
+  name: PT SALERNO
+  full_name: Port Salerno
+  lata: '460'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '324203'
+  name: PT ST JOHN
+  full_name: Port Saint John
+  lata: '458'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '031570'
+  name: PTCHARLOTT
+  full_name: Port Charlotte
+  lata: '939'
+  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
+  lat: '26.965829'
+  long: "-82.115472"
+  closest_city:
+    name: Port Charlotte
+    distance_km: 2.89
+- country: US
+  region: FL
+  exchange: '324358'
+  name: PTEVERGLDS
+  full_name: Port Everglades
+  lata: '460'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: FL
   exchange: '031590'
   name: PTST LUCIE
   full_name: Port St Lucie
@@ -7697,20 +7706,11 @@ rate_centers:
     distance_km: 4.87
 - country: US
   region: FL
-  exchange: '362156'
-  name: PORT TAMPA
-  full_name: Port Tampa
-  lata: '952'
-  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '324357'
-  name: PRINCETON
-  full_name: Princeton
-  lata: '460'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  exchange: '323807'
+  name: PTWASHIGTN
+  full_name: Point Washington
+  lata: '448'
+  ilec_name: CENTURYLINK OF FLORIDA, INC. (CENTRAL)
   lat:
   long:
 - country: US
@@ -8009,101 +8009,20 @@ rate_centers:
   long:
 - country: US
   region: FL
+  exchange: '031845'
+  name: S GULF BCH
+  full_name: South Gulf Beach
+  lata: '952'
+  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
+  lat:
+  long:
+- country: US
+  region: FL
   exchange: '362164'
   name: SAFETY HBR
   full_name: Safety Harbor
   lata: '952'
   ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '323835'
-  name: ST ANDREW
-  full_name: Saint Andrew
-  lata: '450'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '323953'
-  name: STAGSTNBCH
-  full_name: Saint Augustine Beach
-  lata: '452'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '324112'
-  name: STCATHRINE
-  full_name: Saint Catherine
-  lata: '454'
-  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '323859'
-  name: STGEORGEIS
-  full_name: Saint George Island
-  lata: '450'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF FLORIDA COMPANY
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '361635'
-  name: STJAMES CY
-  full_name: Saint James City
-  lata: '939'
-  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '323860'
-  name: STJOEBEACH
-  full_name: Saint Joe Beach
-  lata: '450'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF FLORIDA COMPANY
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '324111'
-  name: ST LEO
-  full_name: Saint Leo
-  lata: '454'
-  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '324460'
-  name: ST LUCIE W
-  full_name: Saint Lucie West
-  lata: '460'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '362172'
-  name: STPTSBGBCH
-  full_name: Saint Petersburg Beach
-  lata: '952'
-  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '362237'
-  name: ST TERESA
-  full_name: Saint Teresa
-  lata: '953'
-  ilec_name: CENTURYLINK OF FLORIDA, INC. (CENTRAL)
   lat:
   long:
 - country: US
@@ -8138,6 +8057,15 @@ rate_centers:
   long:
 - country: US
   region: FL
+  exchange: '323949'
+  name: SAN MATEO
+  full_name: San Mateo
+  lata: '452'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: FL
   exchange: '031660'
   name: SANANTONIO
   full_name: San Antonio
@@ -8148,24 +8076,6 @@ rate_centers:
   closest_city:
     name: San Antonio
     distance_km: 0.92
-- country: US
-  region: FL
-  exchange: '030241'
-  name: SNCARLOSPK
-  full_name: San Carlos Park
-  lata: '939'
-  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '323949'
-  name: SAN MATEO
-  full_name: San Mateo
-  lata: '452'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
 - country: US
   region: FL
   exchange: '324205'
@@ -8210,27 +8120,6 @@ rate_centers:
     distance_km: 2.94
 - country: US
   region: FL
-  exchange: '031690'
-  name: SNCPVISNDS
-  full_name: Sanibel-Captiva Islands
-  lata: '939'
-  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
-  lat: '26.450595'
-  long: "-82.025241"
-  closest_city:
-    name: Punta Rassa
-    distance_km: 6.41
-- country: US
-  region: FL
-  exchange: '323982'
-  name: SANTA FE
-  full_name: Santa Fe
-  lata: '452'
-  ilec_name: WINDSTREAM FLORIDA, INC.
-  lat:
-  long:
-- country: US
-  region: FL
   exchange: '031700'
   name: SANROSABCH
   full_name: Santa Rosa Beach
@@ -8243,6 +8132,15 @@ rate_centers:
     distance_km: 9.91
 - country: US
   region: FL
+  exchange: '323982'
+  name: SANTA FE
+  full_name: Santa Fe
+  lata: '452'
+  ilec_name: WINDSTREAM FLORIDA, INC.
+  lat:
+  long:
+- country: US
+  region: FL
   exchange: '031710'
   name: SARASOTA
   full_name: Sarasota
@@ -8253,15 +8151,6 @@ rate_centers:
   closest_city:
     name: Sarasota
     distance_km: 0.95
-- country: US
-  region: FL
-  exchange: '031712'
-  name: SRASOTASPG
-  full_name: Sarasota Springs
-  lata: '952'
-  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
-  lat:
-  long:
 - country: US
   region: FL
   exchange: '324207'
@@ -8504,18 +8393,6 @@ rate_centers:
   long:
 - country: US
   region: FL
-  exchange: '031760'
-  name: SLRSPGSHRS
-  full_name: Silver Springs Shores
-  lata: '454'
-  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
-  lat: '29.093431'
-  long: "-82.004994"
-  closest_city:
-    name: Silver Springs Shores
-    distance_km: 2.34
-- country: US
-  region: FL
   exchange: '324457'
   name: SINGER IS
   full_name: Singer Island
@@ -8543,6 +8420,18 @@ rate_centers:
   long:
 - country: US
   region: FL
+  exchange: '031760'
+  name: SLRSPGSHRS
+  full_name: Silver Springs Shores
+  lata: '454'
+  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
+  lat: '29.093431'
+  long: "-82.004994"
+  closest_city:
+    name: Silver Springs Shores
+    distance_km: 2.34
+- country: US
+  region: FL
   exchange: '324364'
   name: SNAKECREEK
   full_name: Snake Creek
@@ -8550,6 +8439,27 @@ rate_centers:
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
   lat:
   long:
+- country: US
+  region: FL
+  exchange: '030241'
+  name: SNCARLOSPK
+  full_name: San Carlos Park
+  lata: '939'
+  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '031690'
+  name: SNCPVISNDS
+  full_name: Sanibel-Captiva Islands
+  lata: '939'
+  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
+  lat: '26.450595'
+  long: "-82.025241"
+  closest_city:
+    name: Punta Rassa
+    distance_km: 6.41
 - country: US
   region: FL
   exchange: '031770'
@@ -8562,6 +8472,42 @@ rate_centers:
   closest_city:
     name: Sneads
     distance_km: 0.27
+- country: US
+  region: FL
+  exchange: '323832'
+  name: SNNYSIDBCH
+  full_name: Sunny Side Beach
+  lata: '450'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '324153'
+  name: SO DAYTONA
+  full_name: South Daytona
+  lata: '456'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '362170'
+  name: SO PASADNA
+  full_name: South Pasadena
+  lata: '952'
+  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '324458'
+  name: SO PLM BCH
+  full_name: South Palm Beach
+  lata: '460'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
 - country: US
   region: FL
   exchange: '031780'
@@ -8594,47 +8540,11 @@ rate_centers:
   long:
 - country: US
   region: FL
-  exchange: '324153'
-  name: SO DAYTONA
-  full_name: South Daytona
-  lata: '456'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '031845'
-  name: S GULF BCH
-  full_name: South Gulf Beach
-  lata: '952'
-  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
-  lat:
-  long:
-- country: US
-  region: FL
   exchange: '324365'
   name: SOUTHMIAMI
   full_name: South Miami
   lata: '460'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '324458'
-  name: SO PLM BCH
-  full_name: South Palm Beach
-  lata: '460'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '362170'
-  name: SO PASADNA
-  full_name: South Pasadena
-  lata: '952'
-  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
   lat:
   long:
 - country: US
@@ -8657,20 +8567,20 @@ rate_centers:
   long:
 - country: US
   region: FL
-  exchange: '324374'
-  name: SW RANCHES
-  full_name: Southwest Ranches
-  lata: '460'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: FL
   exchange: '324110'
   name: SPARR
   full_name: Sparr
   lata: '454'
   ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '323834'
+  name: SPRINGFLD
+  full_name: Springfield
+  lata: '450'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
   lat:
   long:
 - country: US
@@ -8696,15 +8606,6 @@ rate_centers:
     distance_km: 11.43
 - country: US
   region: FL
-  exchange: '323834'
-  name: SPRINGFLD
-  full_name: Springfield
-  lata: '450'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: FL
   exchange: '324154'
   name: SPRUCE CRK
   full_name: Spruce Creek
@@ -8714,25 +8615,22 @@ rate_centers:
   long:
 - country: US
   region: FL
-  exchange: '031716'
-  name: STARMNDKEY
-  full_name: St Armands Key
+  exchange: '031712'
+  name: SRASOTASPG
+  full_name: Sarasota Springs
   lata: '952'
   ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
   lat:
   long:
 - country: US
   region: FL
-  exchange: '031800'
-  name: STAUGUSTIN
-  full_name: St Augustine
-  lata: '452'
+  exchange: '323835'
+  name: ST ANDREW
+  full_name: Saint Andrew
+  lata: '450'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat: '29.899688'
-  long: "-81.315469"
-  closest_city:
-    name: St. Augustine
-    distance_km: 0.58
+  lat:
+  long:
 - country: US
   region: FL
   exchange: '031810'
@@ -8768,6 +8666,24 @@ rate_centers:
     distance_km: 1.4
 - country: US
   region: FL
+  exchange: '324111'
+  name: ST LEO
+  full_name: Saint Leo
+  lata: '454'
+  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '324460'
+  name: ST LUCIE W
+  full_name: Saint Lucie West
+  lata: '460'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: FL
   exchange: '031830'
   name: ST MARKS
   full_name: St Marks
@@ -8780,16 +8696,22 @@ rate_centers:
     distance_km: 1.35
 - country: US
   region: FL
-  exchange: '031840'
-  name: STPETERSBG
-  full_name: St Petersburg
-  lata: '952'
-  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
-  lat: '27.773892'
-  long: "-82.642872"
-  closest_city:
-    name: St. Petersburg
-    distance_km: 3.06
+  exchange: '362237'
+  name: ST TERESA
+  full_name: Saint Teresa
+  lata: '953'
+  ilec_name: CENTURYLINK OF FLORIDA, INC. (CENTRAL)
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '323953'
+  name: STAGSTNBCH
+  full_name: Saint Augustine Beach
+  lata: '452'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
 - country: US
   region: FL
   exchange: '031850'
@@ -8804,6 +8726,36 @@ rate_centers:
     distance_km: 0.71
 - country: US
   region: FL
+  exchange: '031716'
+  name: STARMNDKEY
+  full_name: St Armands Key
+  lata: '952'
+  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '031800'
+  name: STAUGUSTIN
+  full_name: St Augustine
+  lata: '452'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat: '29.899688'
+  long: "-81.315469"
+  closest_city:
+    name: St. Augustine
+    distance_km: 0.58
+- country: US
+  region: FL
+  exchange: '324112'
+  name: STCATHRINE
+  full_name: Saint Catherine
+  lata: '454'
+  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
+  lat:
+  long:
+- country: US
+  region: FL
   exchange: '324038'
   name: STEINHACHE
   full_name: Steinhatchee
@@ -8813,11 +8765,59 @@ rate_centers:
   long:
 - country: US
   region: FL
+  exchange: '323859'
+  name: STGEORGEIS
+  full_name: Saint George Island
+  lata: '450'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF FLORIDA COMPANY
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '361635'
+  name: STJAMES CY
+  full_name: Saint James City
+  lata: '939'
+  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '323860'
+  name: STJOEBEACH
+  full_name: Saint Joe Beach
+  lata: '450'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF FLORIDA COMPANY
+  lat:
+  long:
+- country: US
+  region: FL
   exchange: '324366'
   name: STOCK ISL
   full_name: Stock Island
   lata: '460'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '031840'
+  name: STPETERSBG
+  full_name: St Petersburg
+  lata: '952'
+  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
+  lat: '27.773892'
+  long: "-82.642872"
+  closest_city:
+    name: St. Petersburg
+    distance_km: 3.06
+- country: US
+  region: FL
+  exchange: '362172'
+  name: STPTSBGBCH
+  full_name: Saint Petersburg Beach
+  lata: '952'
+  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
   lat:
   long:
 - country: US
@@ -8864,6 +8864,15 @@ rate_centers:
   long:
 - country: US
   region: FL
+  exchange: '324369'
+  name: SUMERLDKEY
+  full_name: Summerland Key
+  lata: '460'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: FL
   exchange: '323956'
   name: SUMMER HVN
   full_name: Summer Haven
@@ -8878,15 +8887,6 @@ rate_centers:
   full_name: Summerfield
   lata: '454'
   ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '324369'
-  name: SUMERLDKEY
-  full_name: Summerland Key
-  lata: '460'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
   lat:
   long:
 - country: US
@@ -8930,15 +8930,6 @@ rate_centers:
     distance_km: 9.32
 - country: US
   region: FL
-  exchange: '324371'
-  name: SUNNYISLES
-  full_name: Sunny Isles
-  lata: '460'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: FL
   exchange: '324370'
   name: SUNNYISBCH
   full_name: Sunny Isles Beach
@@ -8948,10 +8939,10 @@ rate_centers:
   long:
 - country: US
   region: FL
-  exchange: '323832'
-  name: SNNYSIDBCH
-  full_name: Sunny Side Beach
-  lata: '450'
+  exchange: '324371'
+  name: SUNNYISLES
+  full_name: Sunny Isles
+  lata: '460'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
   lat:
   long:
@@ -8979,6 +8970,15 @@ rate_centers:
   name: SUWANNEE
   full_name: Suwannee
   lata: '454'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '324374'
+  name: SW RANCHES
+  full_name: Southwest Ranches
+  lata: '460'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
   lat:
   long:
@@ -9161,6 +9161,15 @@ rate_centers:
   long:
 - country: US
   region: FL
+  exchange: '324117'
+  name: THE VLGS
+  full_name: The Villages
+  lata: '454'
+  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
+  lat:
+  long:
+- country: US
+  region: FL
   exchange: '031980'
   name: THEBEACHES
   full_name: The Beaches
@@ -9171,15 +9180,6 @@ rate_centers:
   closest_city:
     name: Mexico Beach
     distance_km: 0.8
-- country: US
-  region: FL
-  exchange: '324117'
-  name: THE VLGS
-  full_name: The Villages
-  lata: '454'
-  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
-  lat:
-  long:
 - country: US
   region: FL
   exchange: '031922'
@@ -9239,24 +9239,6 @@ rate_centers:
     distance_km: 5.01
 - country: US
   region: FL
-  exchange: '362195'
-  name: TWN N CTY
-  full_name: Town N Country
-  lata: '952'
-  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '323958'
-  name: TWN NOCATE
-  full_name: Town of Nocatee
-  lata: '452'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: FL
   exchange: '362192'
   name: TRAILEESTS
   full_name: Trailer Estates
@@ -9287,15 +9269,6 @@ rate_centers:
     distance_km: 0.91
 - country: US
   region: FL
-  exchange: '324119'
-  name: TRILBY
-  full_name: Trilby
-  lata: '454'
-  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
-  lat:
-  long:
-- country: US
-  region: FL
   exchange: '032010'
   name: TRILACOCHE
   full_name: Trillacoochee
@@ -9308,11 +9281,38 @@ rate_centers:
     distance_km: 1.23
 - country: US
   region: FL
+  exchange: '324119'
+  name: TRILBY
+  full_name: Trilby
+  lata: '454'
+  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
+  lat:
+  long:
+- country: US
+  region: FL
   exchange: '362194'
   name: TRINITY
   full_name: Trinity
   lata: '952'
   ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '362195'
+  name: TWN N CTY
+  full_name: Town N Country
+  lata: '952'
+  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '323958'
+  name: TWN NOCATE
+  full_name: Town of Nocatee
+  lata: '452'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
   lat:
   long:
 - country: US
@@ -9359,15 +9359,6 @@ rate_centers:
   long:
 - country: US
   region: FL
-  exchange: '031919'
-  name: UNIVERSITY
-  full_name: University
-  lata: '952'
-  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
-  lat:
-  long:
-- country: US
-  region: FL
   exchange: '362196'
   name: UNIV PARK
   full_name: University Park
@@ -9377,9 +9368,27 @@ rate_centers:
   long:
 - country: US
   region: FL
+  exchange: '031919'
+  name: UNIVERSITY
+  full_name: University
+  lata: '952'
+  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
+  lat:
+  long:
+- country: US
+  region: FL
   exchange: '324379'
   name: UPSUGLFKEY
   full_name: Upper Sugarloaf Key
+  lata: '460'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '324380'
+  name: VA GARDENS
+  full_name: Virginia Gardens
   lata: '460'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
   lat:
@@ -9416,15 +9425,6 @@ rate_centers:
   long:
 - country: US
   region: FL
-  exchange: '324381'
-  name: VENTNISLES
-  full_name: Venetian Isles
-  lata: '460'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: FL
   exchange: '032050'
   name: VENICE
   full_name: Venice
@@ -9435,6 +9435,15 @@ rate_centers:
   closest_city:
     name: Nokomis
     distance_km: 2.6
+- country: US
+  region: FL
+  exchange: '324381'
+  name: VENTNISLES
+  full_name: Venetian Isles
+  lata: '460'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
 - country: US
   region: FL
   exchange: '361574'
@@ -9488,15 +9497,6 @@ rate_centers:
   long:
 - country: US
   region: FL
-  exchange: '324465'
-  name: VLGOF GOLF
-  full_name: Village of Golf
-  lata: '460'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: FL
   exchange: '324382'
   name: VLG PMTOBY
   full_name: Village of Palmetto Bay
@@ -9515,10 +9515,37 @@ rate_centers:
   long:
 - country: US
   region: FL
-  exchange: '324380'
-  name: VA GARDENS
-  full_name: Virginia Gardens
+  exchange: '324465'
+  name: VLGOF GOLF
+  full_name: Village of Golf
   lata: '460'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '324466'
+  name: W DELRYBCH
+  full_name: West Delray Beach
+  lata: '460'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '324383'
+  name: W HOLLYWD
+  full_name: West Hollywood
+  lata: '460'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '324215'
+  name: W MELBORN
+  full_name: West Melbourne
+  lata: '458'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
   lat:
   long:
@@ -9609,15 +9636,6 @@ rate_centers:
   closest_city:
     name: Century
     distance_km: 25.06
-- country: US
-  region: FL
-  exchange: '362206'
-  name: WRMMNRLSPG
-  full_name: Warm Mineral Springs
-  lata: '952'
-  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
-  lat:
-  long:
 - country: US
   region: FL
   exchange: '323776'
@@ -9761,45 +9779,6 @@ rate_centers:
   long:
 - country: US
   region: FL
-  exchange: '324466'
-  name: W DELRYBCH
-  full_name: West Delray Beach
-  lata: '460'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '324383'
-  name: W HOLLYWD
-  full_name: West Hollywood
-  lata: '460'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: FL
-  exchange: '032150'
-  name: WKISSIMMEE
-  full_name: West Kissimmee
-  lata: '458'
-  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
-  lat: '28.346938'
-  long: "-81.489904"
-  closest_city:
-    name: Lake Buena Vista
-    distance_km: 5.03
-- country: US
-  region: FL
-  exchange: '324215'
-  name: W MELBORN
-  full_name: West Melbourne
-  lata: '458'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: FL
   exchange: '031055'
   name: WEST MIAMI
   full_name: West Miami
@@ -9807,18 +9786,6 @@ rate_centers:
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
   lat:
   long:
-- country: US
-  region: FL
-  exchange: '032160'
-  name: WPALMBEACH
-  full_name: West Palm Beach
-  lata: '460'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat: '26.69117'
-  long: "-80.058465"
-  closest_city:
-    name: Palm Beach
-    distance_km: 1.79
 - country: US
   region: FL
   exchange: '324385'
@@ -10010,18 +9977,6 @@ rate_centers:
   long:
 - country: US
   region: FL
-  exchange: '032230'
-  name: WINTERGRDN
-  full_name: Winter Garden
-  lata: '458'
-  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
-  lat: '28.56802'
-  long: "-81.584687"
-  closest_city:
-    name: Winter Garden
-    distance_km: 3.11
-- country: US
-  region: FL
   exchange: '032240'
   name: WINTER HVN
   full_name: Winter Haven
@@ -10032,6 +9987,27 @@ rate_centers:
   closest_city:
     name: Winter Haven
     distance_km: 3.55
+- country: US
+  region: FL
+  exchange: '324217'
+  name: WINTER SPG
+  full_name: Winter Springs
+  lata: '458'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '032230'
+  name: WINTERGRDN
+  full_name: Winter Garden
+  lata: '458'
+  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
+  lat: '28.56802'
+  long: "-81.584687"
+  closest_city:
+    name: Winter Garden
+    distance_km: 3.11
 - country: US
   region: FL
   exchange: '032250'
@@ -10046,13 +10022,16 @@ rate_centers:
     distance_km: 0.78
 - country: US
   region: FL
-  exchange: '324217'
-  name: WINTER SPG
-  full_name: Winter Springs
+  exchange: '032150'
+  name: WKISSIMMEE
+  full_name: West Kissimmee
   lata: '458'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
+  ilec_name: CENTURYLINK OF FLORIDA, INC. (UNITED)
+  lat: '28.346938'
+  long: "-81.489904"
+  closest_city:
+    name: Lake Buena Vista
+    distance_km: 5.03
 - country: US
   region: FL
   exchange: '362242'
@@ -10069,6 +10048,27 @@ rate_centers:
   full_name: Worthington Springs
   lata: '452'
   ilec_name: WINDSTREAM FLORIDA, INC.
+  lat:
+  long:
+- country: US
+  region: FL
+  exchange: '032160'
+  name: WPALMBEACH
+  full_name: West Palm Beach
+  lata: '460'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat: '26.69117'
+  long: "-80.058465"
+  closest_city:
+    name: Palm Beach
+    distance_km: 1.79
+- country: US
+  region: FL
+  exchange: '362206'
+  name: WRMMNRLSPG
+  full_name: Warm Mineral Springs
+  lata: '952'
+  ilec_name: FRONTIER FLORIDA LLC DBA FRONTIER COMM OF FLORIDA
   lat:
   long:
 - country: US
@@ -10121,15 +10121,6 @@ rate_centers:
   long:
 - country: US
   region: FL
-  exchange: '323841'
-  name: YOUNGSTOWN
-  full_name: Youngstown
-  lata: '450'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: FL
   exchange: '032270'
   name: YONGSTFNTN
   full_name: Youngstown-Fountain
@@ -10140,6 +10131,15 @@ rate_centers:
   closest_city:
     name: Lynn Haven
     distance_km: 23.73
+- country: US
+  region: FL
+  exchange: '323841'
+  name: YOUNGSTOWN
+  full_name: Youngstown
+  lata: '450'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
 - country: US
   region: FL
   exchange: '032280'

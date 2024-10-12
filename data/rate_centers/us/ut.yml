@@ -467,18 +467,18 @@ rate_centers:
     distance_km: 6.6
 - country: US
   region: UT
-  exchange: '342572'
-  name: BULLFROG
-  full_name: Bullfrog
+  exchange: '342571'
+  name: BULFROBSIN
+  full_name: Bullfrog Basin
   lata: '660'
   ilec_name: CITIZENS TELECOM-UTAH DBA FRONTIER COMM OF UT
   lat:
   long:
 - country: US
   region: UT
-  exchange: '342571'
-  name: BULFROBSIN
-  full_name: Bullfrog Basin
+  exchange: '342572'
+  name: BULLFROG
+  full_name: Bullfrog
   lata: '660'
   ilec_name: CITIZENS TELECOM-UTAH DBA FRONTIER COMM OF UT
   lat:
@@ -554,6 +554,15 @@ rate_centers:
   long:
 - country: US
   region: UT
+  exchange: '342580'
+  name: CASTLE VLY
+  full_name: Castle Valley
+  lata: '660'
+  ilec_name: CITIZENS TELECOM-UTAH DBA FRONTIER COMM OF UT
+  lat:
+  long:
+- country: US
+  region: UT
   exchange: '200270'
   name: CASTLEDALE
   full_name: Castle Dale
@@ -584,15 +593,6 @@ rate_centers:
   long:
 - country: US
   region: UT
-  exchange: '342580'
-  name: CASTLE VLY
-  full_name: Castle Valley
-  lata: '660'
-  ilec_name: CITIZENS TELECOM-UTAH DBA FRONTIER COMM OF UT
-  lat:
-  long:
-- country: US
-  region: UT
   exchange: '200280'
   name: CEDAR CITY
   full_name: Cedar City
@@ -614,6 +614,18 @@ rate_centers:
   long:
 - country: US
   region: UT
+  exchange: '200851'
+  name: CEDAR VLY
+  full_name: Cedar Valley
+  lata: '660'
+  ilec_name: DIRECT COMMUNICATIONS CEDAR VALLEY, LLC
+  lat: '40.385228'
+  long: "-111.847343"
+  closest_city:
+    name: Lehi
+    distance_km: 3.81
+- country: US
+  region: UT
   exchange: '342586'
   name: CEDARHGHLD
   full_name: Cedar Highland
@@ -630,18 +642,6 @@ rate_centers:
   ilec_name: QWEST CORPORATION
   lat:
   long:
-- country: US
-  region: UT
-  exchange: '200851'
-  name: CEDAR VLY
-  full_name: Cedar Valley
-  lata: '660'
-  ilec_name: DIRECT COMMUNICATIONS CEDAR VALLEY, LLC
-  lat: '40.385228'
-  long: "-111.847343"
-  closest_city:
-    name: Lehi
-    distance_km: 3.81
 - country: US
   region: UT
   exchange: '342588'
@@ -857,15 +857,6 @@ rate_centers:
   long:
 - country: US
   region: UT
-  exchange: '342613'
-  name: CTNWD HGTS
-  full_name: Cottonwood Heights
-  lata: '660'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: UT
   exchange: '342610'
   name: COVE
   full_name: Cove
@@ -893,6 +884,15 @@ rate_centers:
   long:
 - country: US
   region: UT
+  exchange: '342613'
+  name: CTNWD HGTS
+  full_name: Cottonwood Heights
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
   exchange: '342614'
   name: DAMERONVLY
   full_name: Dammeron Valley
@@ -900,18 +900,6 @@ rate_centers:
   ilec_name: QWEST CORPORATION
   lat:
   long:
-- country: US
-  region: UT
-  exchange: '200340'
-  name: DNGLNG RPE
-  full_name: Dangling Rope
-  lata: '660'
-  ilec_name: BEEHIVE TELEPHONE COMPANY, INC. (UTAH)
-  lat: '37.159481'
-  long: "-111.080165"
-  closest_city:
-    name: Navajo Mountain
-    distance_km: 28.61
 - country: US
   region: UT
   exchange: '342615'
@@ -923,20 +911,20 @@ rate_centers:
   long:
 - country: US
   region: UT
-  exchange: '342617'
-  name: DEERCRKDAM
-  full_name: Deer Creek Dam
-  lata: '660'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: UT
   exchange: '342616'
   name: DEER MTN
   full_name: Deer Mountain
   lata: '660'
   ilec_name: ALL WEST COMMUNICATIONS - UT
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342617'
+  name: DEERCRKDAM
+  full_name: Deer Creek Dam
+  lata: '660'
+  ilec_name: QWEST CORPORATION
   lat:
   long:
 - country: US
@@ -996,6 +984,18 @@ rate_centers:
   ilec_name: SKYLINE TELECOM
   lat:
   long:
+- country: US
+  region: UT
+  exchange: '200340'
+  name: DNGLNG RPE
+  full_name: Dangling Rope
+  lata: '660'
+  ilec_name: BEEHIVE TELEPHONE COMPANY, INC. (UTAH)
+  lat: '37.159481'
+  long: "-111.080165"
+  closest_city:
+    name: Navajo Mountain
+    distance_km: 28.61
 - country: US
   region: UT
   exchange: '342625'
@@ -1073,6 +1073,15 @@ rate_centers:
     distance_km: 0.99
 - country: US
   region: UT
+  exchange: '342632'
+  name: E LAYTON
+  full_name: East Layton
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
   exchange: '200852'
   name: EAGLE MTN
   full_name: Eagle Mountain
@@ -1085,6 +1094,15 @@ rate_centers:
     distance_km: 3.81
 - country: US
   region: UT
+  exchange: '200311'
+  name: EAST LAYTO
+  full_name: East Layton
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
   exchange: '200400'
   name: EASTCARBON
   full_name: East Carbon
@@ -1095,24 +1113,6 @@ rate_centers:
   closest_city:
     name: Wellington
     distance_km: 28.91
-- country: US
-  region: UT
-  exchange: '200311'
-  name: EAST LAYTO
-  full_name: East Layton
-  lata: '660'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: UT
-  exchange: '342632'
-  name: E LAYTON
-  full_name: East Layton
-  lata: '660'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
 - country: US
   region: UT
   exchange: '342635'
@@ -1364,15 +1364,6 @@ rate_centers:
   long:
 - country: US
   region: UT
-  exchange: '342665'
-  name: FT DUCHESN
-  full_name: Fort Duchesne
-  lata: '660'
-  ilec_name: UBTA-UBET COMMUNICATIONS, INC. DBA STRATA NETWORKS
-  lat:
-  long:
-- country: US
-  region: UT
   exchange: '200520'
   name: FOUNTAGREN
   full_name: Fountain Green
@@ -1424,6 +1415,15 @@ rate_centers:
     distance_km: 18.2
 - country: US
   region: UT
+  exchange: '342665'
+  name: FT DUCHESN
+  full_name: Fort Duchesne
+  lata: '660'
+  ilec_name: UBTA-UBET COMMUNICATIONS, INC. DBA STRATA NETWORKS
+  lat:
+  long:
+- country: US
+  region: UT
   exchange: '200540'
   name: GARDENCITY
   full_name: Garden City
@@ -1466,18 +1466,6 @@ rate_centers:
   long:
 - country: US
   region: UT
-  exchange: '200560'
-  name: GLNCNYONCY
-  full_name: Glen Canyon City
-  lata: '666'
-  ilec_name: QWEST CORPORATION
-  lat: '37.091627'
-  long: "-111.665059"
-  closest_city:
-    name: Big Water
-    distance_km: 2.12
-- country: US
-  region: UT
   exchange: '342670'
   name: GLENDALE
   full_name: Glendale
@@ -1494,6 +1482,18 @@ rate_centers:
   ilec_name: QWEST CORPORATION
   lat:
   long:
+- country: US
+  region: UT
+  exchange: '200560'
+  name: GLNCNYONCY
+  full_name: Glen Canyon City
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat: '37.091627'
+  long: "-111.665059"
+  closest_city:
+    name: Big Water
+    distance_km: 2.12
 - country: US
   region: UT
   exchange: '342672'
@@ -1544,18 +1544,6 @@ rate_centers:
   long:
 - country: US
   region: UT
-  exchange: '200580'
-  name: GREENRIVER
-  full_name: Green River
-  lata: '660'
-  ilec_name: EMERY TELEPHONE DBA EMERY TELCOM
-  lat: '38.989754'
-  long: "-110.157453"
-  closest_city:
-    name: Green River
-    distance_km: 1.35
-- country: US
-  region: UT
   exchange: '200590'
   name: GREENDALE
   full_name: Greendale
@@ -1575,6 +1563,18 @@ rate_centers:
   ilec_name: QWEST CORPORATION
   lat:
   long:
+- country: US
+  region: UT
+  exchange: '200580'
+  name: GREENRIVER
+  full_name: Green River
+  lata: '660'
+  ilec_name: EMERY TELEPHONE DBA EMERY TELCOM
+  lat: '38.989754'
+  long: "-110.157453"
+  closest_city:
+    name: Green River
+    distance_km: 1.35
 - country: US
   region: UT
   exchange: '342682'
@@ -1835,6 +1835,15 @@ rate_centers:
   long:
 - country: US
   region: UT
+  exchange: '342707'
+  name: HLDAYCTNWD
+  full_name: Holladay Cottonwood
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
   exchange: '200680'
   name: HOLDEN
   full_name: Holden
@@ -1857,15 +1866,6 @@ rate_centers:
   closest_city:
     name: Holladay
     distance_km: 1.55
-- country: US
-  region: UT
-  exchange: '342707'
-  name: HLDAYCTNWD
-  full_name: Holladay Cottonwood
-  lata: '660'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
 - country: US
   region: UT
   exchange: '342710'
@@ -2210,6 +2210,15 @@ rate_centers:
   long:
 - country: US
   region: UT
+  exchange: '342743'
+  name: LAKE SHORE
+  full_name: Lake Shore
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
   exchange: '200830'
   name: LAKEPOWELL
   full_name: Lake Powell
@@ -2220,15 +2229,6 @@ rate_centers:
   closest_city:
     name: Halls Crossing
     distance_km: 10.01
-- country: US
-  region: UT
-  exchange: '342743'
-  name: LAKE SHORE
-  full_name: Lake Shore
-  lata: '660'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
 - country: US
   region: UT
   exchange: '342745'
@@ -2501,18 +2501,18 @@ rate_centers:
   long:
 - country: US
   region: UT
-  exchange: '342773'
-  name: MARRIOTT
-  full_name: Marriott
+  exchange: '342772'
+  name: MAROTSLTVL
+  full_name: Marriott Slaterville
   lata: '660'
   ilec_name: QWEST CORPORATION
   lat:
   long:
 - country: US
   region: UT
-  exchange: '342772'
-  name: MAROTSLTVL
-  full_name: Marriott Slaterville
+  exchange: '342773'
+  name: MARRIOTT
+  full_name: Marriott
   lata: '660'
   ilec_name: QWEST CORPORATION
   lat:
@@ -2636,6 +2636,18 @@ rate_centers:
     distance_km: 3.41
 - country: US
   region: UT
+  exchange: '201000'
+  name: MNZMCRANTH
+  full_name: Montezuma Creek-Aneth
+  lata: '981'
+  ilec_name: NAVAJO COMM CO INC - UT DBA NAVAJO COMM UT
+  lat: '37.261186'
+  long: "-109.304645"
+  closest_city:
+    name: Montezuma Creek
+    distance_km: 0.56
+- country: US
+  region: UT
   exchange: '200980'
   name: MOAB
   full_name: Moab
@@ -2676,18 +2688,6 @@ rate_centers:
   closest_city:
     name: Monroe
     distance_km: 1.09
-- country: US
-  region: UT
-  exchange: '201000'
-  name: MNZMCRANTH
-  full_name: Montezuma Creek-Aneth
-  lata: '981'
-  ilec_name: NAVAJO COMM CO INC - UT DBA NAVAJO COMM UT
-  lat: '37.261186'
-  long: "-109.304645"
-  closest_city:
-    name: Montezuma Creek
-    distance_km: 0.56
 - country: US
   region: UT
   exchange: '201010'
@@ -2765,6 +2765,24 @@ rate_centers:
   long:
 - country: US
   region: UT
+  exchange: '201031'
+  name: MT GREEN
+  full_name: Mountain Green
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342796'
+  name: MT HOME
+  full_name: Mountain Home
+  lata: '660'
+  ilec_name: UBTA-UBET COMMUNICATIONS, INC. DBA STRATA NETWORKS
+  lat:
+  long:
+- country: US
+  region: UT
   exchange: '201050'
   name: MTPLEASANT
   full_name: Mount Pleasant
@@ -2786,24 +2804,6 @@ rate_centers:
   long:
 - country: US
   region: UT
-  exchange: '201031'
-  name: MT GREEN
-  full_name: Mountain Green
-  lata: '660'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: UT
-  exchange: '342796'
-  name: MT HOME
-  full_name: Mountain Home
-  lata: '660'
-  ilec_name: UBTA-UBET COMMUNICATIONS, INC. DBA STRATA NETWORKS
-  lat:
-  long:
-- country: US
-  region: UT
   exchange: '201060'
   name: MURRAY
   full_name: Murray
@@ -2821,6 +2821,15 @@ rate_centers:
   full_name: Myton
   lata: '660'
   ilec_name: UBTA-UBET COMMUNICATIONS, INC. DBA STRATA NETWORKS
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200211'
+  name: N SALTLAKE
+  full_name: North Salt Lake
+  lata: '660'
+  ilec_name: QWEST CORPORATION
   lat:
   long:
 - country: US
@@ -2918,15 +2927,6 @@ rate_centers:
   exchange: '342811'
   name: NORTHOGDEN
   full_name: North Ogden
-  lata: '660'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: UT
-  exchange: '200211'
-  name: N SALTLAKE
-  full_name: North Salt Lake
   lata: '660'
   ilec_name: QWEST CORPORATION
   lat:
@@ -3185,6 +3185,15 @@ rate_centers:
   long:
 - country: US
   region: UT
+  exchange: '342837'
+  name: PLEASANTVW
+  full_name: Pleasant View
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
   exchange: '201190'
   name: PLEASATGRV
   full_name: Pleasant Grove
@@ -3195,15 +3204,6 @@ rate_centers:
   closest_city:
     name: Pleasant Grove
     distance_km: 0.46
-- country: US
-  region: UT
-  exchange: '342837'
-  name: PLEASANTVW
-  full_name: Pleasant View
-  lata: '660'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
 - country: US
   region: UT
   exchange: '201200'
@@ -3282,6 +3282,15 @@ rate_centers:
   closest_city:
     name: Randolph
     distance_km: 0.43
+- country: US
+  region: UT
+  exchange: '342846'
+  name: RCKYRDGTWN
+  full_name: Rocky Ridge Town
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
 - country: US
   region: UT
   exchange: '342847'
@@ -3371,15 +3380,6 @@ rate_centers:
   long:
 - country: US
   region: UT
-  exchange: '342846'
-  name: RCKYRDGTWN
-  full_name: Rocky Ridge Town
-  lata: '660'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: UT
   exchange: '201270'
   name: ROOSEVELT
   full_name: Roosevelt
@@ -3422,9 +3422,9 @@ rate_centers:
     distance_km: 3.49
 - country: US
   region: UT
-  exchange: '342895'
-  name: ST JOHN
-  full_name: Saint John
+  exchange: '342860'
+  name: S SALTLAKE
+  full_name: South Salt Lake
   lata: '660'
   ilec_name: QWEST CORPORATION
   lat:
@@ -3620,6 +3620,15 @@ rate_centers:
   long:
 - country: US
   region: UT
+  exchange: '342880'
+  name: SO JORDAN
+  full_name: South Jordan
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
   exchange: '201350'
   name: SOLDER SMT
   full_name: Soldier Summit
@@ -3632,24 +3641,6 @@ rate_centers:
     distance_km: 25.78
 - country: US
   region: UT
-  exchange: '342880'
-  name: SO JORDAN
-  full_name: South Jordan
-  lata: '660'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: UT
-  exchange: '342883'
-  name: SOUTHOGDEN
-  full_name: South Ogden
-  lata: '660'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: UT
   exchange: '342882'
   name: SOUTH RIM
   full_name: South Rim
@@ -3659,9 +3650,9 @@ rate_centers:
   long:
 - country: US
   region: UT
-  exchange: '342860'
-  name: S SALTLAKE
-  full_name: South Salt Lake
+  exchange: '342883'
+  name: SOUTHOGDEN
+  full_name: South Ogden
   lata: '660'
   ilec_name: QWEST CORPORATION
   lat:
@@ -3698,6 +3689,15 @@ rate_centers:
     distance_km: 1.4
 - country: US
   region: UT
+  exchange: '342887'
+  name: SPG CANYON
+  full_name: Spring Canyon
+  lata: '660'
+  ilec_name: CARBON/EMERY TELCOM, INC. - UT
+  lat:
+  long:
+- country: US
+  region: UT
   exchange: '201370'
   name: SPNSFKCNYN
   full_name: Spanish Fork Canyon
@@ -3710,29 +3710,11 @@ rate_centers:
     distance_km: 12.01
 - country: US
   region: UT
-  exchange: '342887'
-  name: SPG CANYON
-  full_name: Spring Canyon
-  lata: '660'
-  ilec_name: CARBON/EMERY TELCOM, INC. - UT
-  lat:
-  long:
-- country: US
-  region: UT
   exchange: '342889'
   name: SPRINGCITY
   full_name: Spring City
   lata: '660'
   ilec_name: CENTRAL UTAH TEL., INC.
-  lat:
-  long:
-- country: US
-  region: UT
-  exchange: '342891'
-  name: SPRINGLAKE
-  full_name: Spring Lake
-  lata: '660'
-  ilec_name: QWEST CORPORATION
   lat:
   long:
 - country: US
@@ -3747,6 +3729,15 @@ rate_centers:
   closest_city:
     name: Springdale
     distance_km: 1.19
+- country: US
+  region: UT
+  exchange: '342891'
+  name: SPRINGLAKE
+  full_name: Spring Lake
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
 - country: US
   region: UT
   exchange: '201390'
@@ -3780,6 +3771,15 @@ rate_centers:
   closest_city:
     name: St. George
     distance_km: 3.83
+- country: US
+  region: UT
+  exchange: '342895'
+  name: ST JOHN
+  full_name: Saint John
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
 - country: US
   region: UT
   exchange: '342896'
@@ -4199,6 +4199,15 @@ rate_centers:
   long:
 - country: US
   region: UT
+  exchange: '342939'
+  name: W VLY CTY
+  full_name: West Valley City
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
   exchange: '342940'
   name: WALES
   full_name: Wales
@@ -4256,20 +4265,20 @@ rate_centers:
   long:
 - country: US
   region: UT
-  exchange: '342960'
-  name: WSHNGTNTER
-  full_name: Washington Terrace
-  lata: '660'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: UT
   exchange: '342945'
   name: WATTIS
   full_name: Wattis
   lata: '660'
   ilec_name: CARBON/EMERY TELCOM, INC. - UT
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342946'
+  name: WBOUNTIFUL
+  full_name: West Bountiful
+  lata: '660'
+  ilec_name: QWEST CORPORATION
   lat:
   long:
 - country: US
@@ -4304,27 +4313,9 @@ rate_centers:
     distance_km: 1.76
 - country: US
   region: UT
-  exchange: '342946'
-  name: WBOUNTIFUL
-  full_name: West Bountiful
-  lata: '660'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: UT
   exchange: '342950'
   name: WEST HAVEN
   full_name: West Haven
-  lata: '660'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: UT
-  exchange: '200953'
-  name: WESTJORDAN
-  full_name: West Jordan
   lata: '660'
   ilec_name: QWEST CORPORATION
   lat:
@@ -4340,9 +4331,9 @@ rate_centers:
   long:
 - country: US
   region: UT
-  exchange: '342939'
-  name: W VLY CTY
-  full_name: West Valley City
+  exchange: '200953'
+  name: WESTJORDAN
+  full_name: West Jordan
   lata: '660'
   ilec_name: QWEST CORPORATION
   lat:
@@ -4406,6 +4397,15 @@ rate_centers:
   exchange: '342959'
   name: WOODSCROSS
   full_name: Woods Cross
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342960'
+  name: WSHNGTNTER
+  full_name: Washington Terrace
   lata: '660'
   ilec_name: QWEST CORPORATION
   lat:

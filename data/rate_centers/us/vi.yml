@@ -20,15 +20,6 @@ rate_centers:
   long:
 - country: US
   region: VI
-  exchange: '205220'
-  name: CHTAMSTTHS
-  full_name: Charlotte Amalie (St Thomas)
-  lata: '822'
-  ilec_name: VIRGIN ISLANDS TEL. CORP. DBA INNOVATIVE TELEPHONE
-  lat: '18.349051'
-  long: "-64.941157"
-- country: US
-  region: VI
   exchange: '205230'
   name: CHNSTDSTCR
   full_name: Christiansted (St Croix)
@@ -36,6 +27,15 @@ rate_centers:
   ilec_name: VIRGIN ISLANDS TEL. CORP. DBA INNOVATIVE TELEPHONE
   lat: '17.746768'
   long: "-64.708233"
+- country: US
+  region: VI
+  exchange: '205220'
+  name: CHTAMSTTHS
+  full_name: Charlotte Amalie (St Thomas)
+  lata: '822'
+  ilec_name: VIRGIN ISLANDS TEL. CORP. DBA INNOVATIVE TELEPHONE
+  lat: '18.349051'
+  long: "-64.941157"
 - country: US
   region: VI
   exchange: '347383'
@@ -101,24 +101,6 @@ rate_centers:
   long:
 - country: US
   region: VI
-  exchange: '347389'
-  name: ST JOHN
-  full_name: Saint John
-  lata: '822'
-  ilec_name: VIRGIN ISLANDS TEL. CORP. DBA INNOVATIVE TELEPHONE
-  lat:
-  long:
-- country: US
-  region: VI
-  exchange: '347390'
-  name: ST THOMAS
-  full_name: Saint Thomas
-  lata: '822'
-  ilec_name: VIRGIN ISLANDS TEL. CORP. DBA INNOVATIVE TELEPHONE
-  lat:
-  long:
-- country: US
-  region: VI
   exchange: '205233'
   name: SOUTHGATE
   full_name: Southgate
@@ -135,6 +117,24 @@ rate_centers:
   ilec_name: VIRGIN ISLANDS TEL. CORP. DBA INNOVATIVE TELEPHONE
   lat: '17.746768'
   long: "-64.708233"
+- country: US
+  region: VI
+  exchange: '347389'
+  name: ST JOHN
+  full_name: Saint John
+  lata: '822'
+  ilec_name: VIRGIN ISLANDS TEL. CORP. DBA INNOVATIVE TELEPHONE
+  lat:
+  long:
+- country: US
+  region: VI
+  exchange: '347390'
+  name: ST THOMAS
+  full_name: Saint Thomas
+  lata: '822'
+  ilec_name: VIRGIN ISLANDS TEL. CORP. DBA INNOVATIVE TELEPHONE
+  lat:
+  long:
 - country: US
   region: VI
   exchange: '205223'

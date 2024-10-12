@@ -272,6 +272,15 @@ rate_centers:
   long:
 - country: US
   region: AK
+  exchange: '347658'
+  name: BARLETT CV
+  full_name: Bartlett Cove
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat:
+  long:
+- country: US
+  region: AK
   exchange: '003590'
   name: BARROW
   full_name: Barrow
@@ -289,15 +298,6 @@ rate_centers:
   full_name: Barter Island
   lata: '832'
   ilec_name: ARCTIC SLOPE TEL. ASSN. COOP., INC.
-  lat:
-  long:
-- country: US
-  region: AK
-  exchange: '347658'
-  name: BARLETT CV
-  full_name: Bartlett Cove
-  lata: '832'
-  ilec_name: ACS OF THE NORTHLAND, INC.
   lat:
   long:
 - country: US
@@ -368,6 +368,15 @@ rate_centers:
   long:
 - country: US
   region: AK
+  exchange: '347667'
+  name: BIRCH LAKE
+  full_name: Birch Lake
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat:
+  long:
+- country: US
+  region: AK
   exchange: '003650'
   name: BIRCHCREEK
   full_name: Birch Creek
@@ -378,15 +387,6 @@ rate_centers:
   closest_city:
     name: Birch Creek
     distance_km: 3.08
-- country: US
-  region: AK
-  exchange: '347667'
-  name: BIRCH LAKE
-  full_name: Birch Lake
-  lata: '832'
-  ilec_name: ACS OF THE NORTHLAND, INC.
-  lat:
-  long:
 - country: US
   region: AK
   exchange: '347670'
@@ -464,18 +464,6 @@ rate_centers:
     distance_km: 4.19
 - country: US
   region: AK
-  exchange: '003720'
-  name: CPNEWENAFS
-  full_name: Cape Newenham AFS
-  lata: '832'
-  ilec_name: ALASCOM, INC. DBA AT&T ALASKA
-  lat: '58.65832'
-  long: "-162.075019"
-  closest_city:
-    name: Platinum
-    distance_km: 41.05
-- country: US
-  region: AK
   exchange: '347677'
   name: CARLO
   full_name: Carlo
@@ -530,18 +518,6 @@ rate_centers:
     distance_km: 1.26
 - country: US
   region: AK
-  exchange: '003800'
-  name: CHNAHOTSPG
-  full_name: Chena Hot Springs
-  lata: '832'
-  ilec_name: SUMMIT TEL
-  lat: '65.054038'
-  long: "-146.049442"
-  closest_city:
-    name: Pleasant Valley
-    distance_km: 44.12
-- country: US
-  region: AK
   exchange: '003810'
   name: CHENEGABAY
   full_name: Chenega Bay
@@ -587,18 +563,6 @@ rate_centers:
     distance_km: 0.82
 - country: US
   region: AK
-  exchange: '003840'
-  name: CHIGNILGON
-  full_name: Chignik Lagoon
-  lata: '832'
-  ilec_name: ACS OF THE NORTHLAND, INC.
-  lat: '56.313094'
-  long: "-158.521911"
-  closest_city:
-    name: Chignik Lagoon
-    distance_km: 1.66
-- country: US
-  region: AK
   exchange: '003850'
   name: CHIGNIK LK
   full_name: Chignik Lake
@@ -609,6 +573,18 @@ rate_centers:
   closest_city:
     name: Chignik Lake
     distance_km: 2.71
+- country: US
+  region: AK
+  exchange: '003840'
+  name: CHIGNILGON
+  full_name: Chignik Lagoon
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '56.313094'
+  long: "-158.521911"
+  closest_city:
+    name: Chignik Lagoon
+    distance_km: 1.66
 - country: US
   region: AK
   exchange: '347688'
@@ -651,6 +627,18 @@ rate_centers:
   closest_city:
     name: Chitina
     distance_km: 7.23
+- country: US
+  region: AK
+  exchange: '003800'
+  name: CHNAHOTSPG
+  full_name: Chena Hot Springs
+  lata: '832'
+  ilec_name: SUMMIT TEL
+  lat: '65.054038'
+  long: "-146.049442"
+  closest_city:
+    name: Pleasant Valley
+    distance_km: 44.12
 - country: US
   region: AK
   exchange: '003780'
@@ -864,6 +852,18 @@ rate_centers:
   closest_city:
     name: White Mountain
     distance_km: 26.85
+- country: US
+  region: AK
+  exchange: '003720'
+  name: CPNEWENAFS
+  full_name: Cape Newenham AFS
+  lata: '832'
+  ilec_name: ALASCOM, INC. DBA AT&T ALASKA
+  lat: '58.65832'
+  long: "-162.075019"
+  closest_city:
+    name: Platinum
+    distance_km: 41.05
 - country: US
   region: AK
   exchange: '003980'
@@ -1274,6 +1274,18 @@ rate_centers:
   long:
 - country: US
   region: AK
+  exchange: '004280'
+  name: FORT YUKON
+  full_name: Fort Yukon
+  lata: '832'
+  ilec_name: INTERIOR TEL. CO., INC.
+  lat: '66.575452'
+  long: "-145.284447"
+  closest_city:
+    name: Fort Yukon
+    distance_km: 1.98
+- country: US
+  region: AK
   exchange: '004250'
   name: FORTGREELY
   full_name: Fort Greely
@@ -1284,6 +1296,24 @@ rate_centers:
   closest_city:
     name: Fort Greely
     distance_km: 1.49
+- country: US
+  region: AK
+  exchange: '347756'
+  name: FOX
+  full_name: Fox
+  lata: '832'
+  ilec_name: ACS OF FAIRBANKS, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '347757'
+  name: FRITZCREEK
+  full_name: Fritz Creek
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat:
+  long:
 - country: US
   region: AK
   exchange: '004260'
@@ -1308,36 +1338,6 @@ rate_centers:
   closest_city:
     name: Fairbanks
     distance_km: 2.95
-- country: US
-  region: AK
-  exchange: '004280'
-  name: FORT YUKON
-  full_name: Fort Yukon
-  lata: '832'
-  ilec_name: INTERIOR TEL. CO., INC.
-  lat: '66.575452'
-  long: "-145.284447"
-  closest_city:
-    name: Fort Yukon
-    distance_km: 1.98
-- country: US
-  region: AK
-  exchange: '347756'
-  name: FOX
-  full_name: Fox
-  lata: '832'
-  ilec_name: ACS OF FAIRBANKS, INC.
-  lat:
-  long:
-- country: US
-  region: AK
-  exchange: '347757'
-  name: FRITZCREEK
-  full_name: Fritz Creek
-  lata: '832'
-  ilec_name: ACS OF THE NORTHLAND, INC.
-  lat:
-  long:
 - country: US
   region: AK
   exchange: '347760'
@@ -1817,6 +1817,18 @@ rate_centers:
     distance_km: 0.97
 - country: US
   region: AK
+  exchange: '004830'
+  name: KAKHONAK
+  full_name: Kokhanok
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '59.443296'
+  long: "-154.748102"
+  closest_city:
+    name: Kokhanok
+    distance_km: 3.06
+- country: US
+  region: AK
   exchange: '004610'
   name: KAKTOVIK
   full_name: Kaktovik
@@ -1988,18 +2000,6 @@ rate_centers:
     distance_km: 11.48
 - country: US
   region: AK
-  exchange: '004750'
-  name: KNGSLMNAFS
-  full_name: King Salmon AFS
-  lata: '832'
-  ilec_name: ALASCOM, INC. DBA AT&T ALASKA
-  lat: '58.688072'
-  long: "-156.66061"
-  closest_city:
-    name: King Salmon
-    distance_km: 11.48
-- country: US
-  region: AK
   exchange: '004760'
   name: KIPNUK
   full_name: Kipnuk
@@ -2048,6 +2048,18 @@ rate_centers:
     distance_km: 0.59
 - country: US
   region: AK
+  exchange: '004750'
+  name: KNGSLMNAFS
+  full_name: King Salmon AFS
+  lata: '832'
+  ilec_name: ALASCOM, INC. DBA AT&T ALASKA
+  lat: '58.688072'
+  long: "-156.66061"
+  closest_city:
+    name: King Salmon
+    distance_km: 11.48
+- country: US
+  region: AK
   exchange: '004800'
   name: KOBUK
   full_name: Kobuk
@@ -2079,18 +2091,6 @@ rate_centers:
   ilec_name: ACS OF THE NORTHLAND, INC.
   lat:
   long:
-- country: US
-  region: AK
-  exchange: '004830'
-  name: KAKHONAK
-  full_name: Kokhanok
-  lata: '832'
-  ilec_name: ACS OF THE NORTHLAND, INC.
-  lat: '59.443296'
-  long: "-154.748102"
-  closest_city:
-    name: Kokhanok
-    distance_km: 3.06
 - country: US
   region: AK
   exchange: '004840'
@@ -2252,16 +2252,16 @@ rate_centers:
     distance_km: 6.93
 - country: US
   region: AK
-  exchange: '004960'
-  name: LTLDIOMEDE
-  full_name: Little Diomede
+  exchange: '004970'
+  name: LIVENGOOD
+  full_name: Livengood
   lata: '832'
-  ilec_name: MUKLUK TEL. CO., INC.
-  lat: '65.761183'
-  long: "-168.929455"
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '65.473365'
+  long: "-148.669015"
   closest_city:
-    name: Diomede
-    distance_km: 0.91
+    name: Livengood
+    distance_km: 11.66
 - country: US
   region: AK
   exchange: '347844'
@@ -2273,16 +2273,16 @@ rate_centers:
   long:
 - country: US
   region: AK
-  exchange: '004970'
-  name: LIVENGOOD
-  full_name: Livengood
+  exchange: '004960'
+  name: LTLDIOMEDE
+  full_name: Little Diomede
   lata: '832'
-  ilec_name: UNITED UTILITIES, INC.
-  lat: '65.473365'
-  long: "-148.669015"
+  ilec_name: MUKLUK TEL. CO., INC.
+  lat: '65.761183'
+  long: "-168.929455"
   closest_city:
-    name: Livengood
-    distance_km: 11.66
+    name: Diomede
+    distance_km: 0.91
 - country: US
   region: AK
   exchange: '004980'
@@ -2480,15 +2480,6 @@ rate_centers:
     distance_km: 5.1
 - country: US
   region: AK
-  exchange: '347866'
-  name: MTEDGECUMB
-  full_name: Mount Edgecombe
-  lata: '832'
-  ilec_name: ACS OF THE NORTHLAND, INC.
-  lat:
-  long:
-- country: US
-  region: AK
   exchange: '347864'
   name: MOUNTAINPT
   full_name: Mountain Point
@@ -2508,6 +2499,15 @@ rate_centers:
   closest_city:
     name: Mountain Village
     distance_km: 0.26
+- country: US
+  region: AK
+  exchange: '347866'
+  name: MTEDGECUMB
+  full_name: Mount Edgecombe
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat:
+  long:
 - country: US
   region: AK
   exchange: '347867'
@@ -2609,6 +2609,15 @@ rate_centers:
     distance_km: 1.96
 - country: US
   region: AK
+  exchange: '347876'
+  name: NEWHALEN
+  full_name: Newhalen
+  lata: '832'
+  ilec_name: INTERIOR TEL. CO., INC.
+  lat:
+  long:
+- country: US
+  region: AK
   exchange: '005160'
   name: NEWSTUYHOK
   full_name: New Stuyahok
@@ -2619,15 +2628,6 @@ rate_centers:
   closest_city:
     name: New Stuyahok
     distance_km: 3.27
-- country: US
-  region: AK
-  exchange: '347876'
-  name: NEWHALEN
-  full_name: Newhalen
-  lata: '832'
-  ilec_name: INTERIOR TEL. CO., INC.
-  lat:
-  long:
 - country: US
   region: AK
   exchange: '005170'
@@ -2765,18 +2765,6 @@ rate_centers:
     distance_km: 1.19
 - country: US
   region: AK
-  exchange: '005260'
-  name: NORTHKENAI
-  full_name: North Kenai
-  lata: '832'
-  ilec_name: ACS OF THE NORTHLAND, INC.
-  lat: '60.722386'
-  long: "-151.352174"
-  closest_city:
-    name: Nikiski
-    distance_km: 6.6
-- country: US
-  region: AK
   exchange: '005270'
   name: NORTH POLE
   full_name: North Pole
@@ -2787,6 +2775,18 @@ rate_centers:
   closest_city:
     name: North Pole
     distance_km: 0.42
+- country: US
+  region: AK
+  exchange: '005260'
+  name: NORTHKENAI
+  full_name: North Kenai
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '60.722386'
+  long: "-151.352174"
+  closest_city:
+    name: Nikiski
+    distance_km: 6.6
 - country: US
   region: AK
   exchange: '005280'
@@ -2930,18 +2930,6 @@ rate_centers:
     distance_km: 2.47
 - country: US
   region: AK
-  exchange: '005400'
-  name: PILOTPOINT
-  full_name: Pilot Point
-  lata: '832'
-  ilec_name: ACS OF THE NORTHLAND, INC.
-  lat: '57.56628'
-  long: "-157.573917"
-  closest_city:
-    name: Pilot Point
-    distance_km: 6.37
-- country: US
-  region: AK
   exchange: '005410'
   name: PILOT STA
   full_name: Pilot Station
@@ -2952,6 +2940,18 @@ rate_centers:
   closest_city:
     name: Pilot Station
     distance_km: 0.34
+- country: US
+  region: AK
+  exchange: '005400'
+  name: PILOTPOINT
+  full_name: Pilot Point
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '57.56628'
+  long: "-157.573917"
+  closest_city:
+    name: Pilot Point
+    distance_km: 6.37
 - country: US
   region: AK
   exchange: '347906'
@@ -2973,18 +2973,6 @@ rate_centers:
   closest_city:
     name: Platinum
     distance_km: 6.8
-- country: US
-  region: AK
-  exchange: '005430'
-  name: POINTBAKER
-  full_name: Point Baker
-  lata: '832'
-  ilec_name: ACS OF THE NORTHLAND, INC.
-  lat: '56.354473'
-  long: "-133.612812"
-  closest_city:
-    name: Point Baker
-    distance_km: 0.72
 - country: US
   region: AK
   exchange: '005440'
@@ -3009,6 +2997,60 @@ rate_centers:
   closest_city:
     name: Point Lay
     distance_km: 5.14
+- country: US
+  region: AK
+  exchange: '005430'
+  name: POINTBAKER
+  full_name: Point Baker
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '56.354473'
+  long: "-133.612812"
+  closest_city:
+    name: Point Baker
+    distance_km: 0.72
+- country: US
+  region: AK
+  exchange: '005500'
+  name: PORT LIONS
+  full_name: Port Lions
+  lata: '832'
+  ilec_name: INTERIOR TEL. CO., INC.
+  lat: '57.865604'
+  long: "-152.869819"
+  closest_city:
+    name: Port Lions
+    distance_km: 1.16
+- country: US
+  region: AK
+  exchange: '347912'
+  name: PORTAGE
+  full_name: Portage
+  lata: '832'
+  ilec_name: ACS OF ANCHORAGE, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '005490'
+  name: PORTGRAHAM
+  full_name: Port Graham
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '59.353902'
+  long: "-151.830252"
+  closest_city:
+    name: Port Graham
+    distance_km: 1.8
+- country: US
+  region: AK
+  exchange: '347914'
+  name: PT WAKEFLD
+  full_name: Port Wakefield
+  lata: '832'
+  ilec_name: INTERIOR TEL. CO., INC.
+  lat:
+  long:
 - country: US
   region: AK
   exchange: '005460'
@@ -3044,30 +3086,6 @@ rate_centers:
   long:
 - country: US
   region: AK
-  exchange: '005490'
-  name: PORTGRAHAM
-  full_name: Port Graham
-  lata: '832'
-  ilec_name: ACS OF THE NORTHLAND, INC.
-  lat: '59.353902'
-  long: "-151.830252"
-  closest_city:
-    name: Port Graham
-    distance_km: 1.8
-- country: US
-  region: AK
-  exchange: '005500'
-  name: PORT LIONS
-  full_name: Port Lions
-  lata: '832'
-  ilec_name: INTERIOR TEL. CO., INC.
-  lat: '57.865604'
-  long: "-152.869819"
-  closest_city:
-    name: Port Lions
-    distance_km: 1.16
-- country: US
-  region: AK
   exchange: '005520'
   name: PTPROTECTN
   full_name: Port Protection
@@ -3078,24 +3096,6 @@ rate_centers:
   closest_city:
     name: Port Protection
     distance_km: 0.81
-- country: US
-  region: AK
-  exchange: '347914'
-  name: PT WAKEFLD
-  full_name: Port Wakefield
-  lata: '832'
-  ilec_name: INTERIOR TEL. CO., INC.
-  lat:
-  long:
-- country: US
-  region: AK
-  exchange: '347912'
-  name: PORTAGE
-  full_name: Portage
-  lata: '832'
-  ilec_name: ACS OF ANCHORAGE, INC.
-  lat:
-  long:
 - country: US
   region: AK
   exchange: '005600'
@@ -3458,6 +3458,15 @@ rate_centers:
   long:
 - country: US
   region: AK
+  exchange: '347952'
+  name: SO NAKNEK
+  full_name: South Naknek
+  lata: '832'
+  ilec_name: BRISTOL BAY TEL. COOP., INC.
+  lat:
+  long:
+- country: US
+  region: AK
   exchange: '005820'
   name: SOLDOTNA
   full_name: Soldotna
@@ -3468,15 +3477,6 @@ rate_centers:
   closest_city:
     name: Ridgeway
     distance_km: 2.34
-- country: US
-  region: AK
-  exchange: '347952'
-  name: SO NAKNEK
-  full_name: South Naknek
-  lata: '832'
-  ilec_name: BRISTOL BAY TEL. COOP., INC.
-  lat:
-  long:
 - country: US
   region: AK
   exchange: '005830'

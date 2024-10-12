@@ -257,18 +257,6 @@ rate_centers:
     distance_km: 0.31
 - country: US
   region: NV
-  exchange: '130770'
-  name: CARSONCITY
-  full_name: Carson City
-  lata: '720'
-  ilec_name: NEVADA BELL
-  lat: '39.177083'
-  long: "-119.765442"
-  closest_city:
-    name: Carson City
-    distance_km: 3.27
-- country: US
-  region: NV
   exchange: '130780'
   name: CARSON PL
   full_name: Carson Plains
@@ -279,6 +267,18 @@ rate_centers:
   closest_city:
     name: Dayton
     distance_km: 6.25
+- country: US
+  region: NV
+  exchange: '130770'
+  name: CARSONCITY
+  full_name: Carson City
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat: '39.177083'
+  long: "-119.765442"
+  closest_city:
+    name: Carson City
+    distance_km: 3.27
 - country: US
   region: NV
   exchange: '345085'
@@ -371,15 +371,6 @@ rate_centers:
   long:
 - country: US
   region: NV
-  exchange: '345261'
-  name: COTTONWDCV
-  full_name: Cottonwood Cove
-  lata: '721'
-  ilec_name: CENTRAL TEL. CO. - NEVADA DBA CENTURYLINK
-  lat:
-  long:
-- country: US
-  region: NV
   exchange: '130800'
   name: COTNWD CRK
   full_name: Cottonwood Creek
@@ -390,6 +381,15 @@ rate_centers:
   closest_city:
     name: Spanish Springs
     distance_km: 13.25
+- country: US
+  region: NV
+  exchange: '345261'
+  name: COTTONWDCV
+  full_name: Cottonwood Cove
+  lata: '721'
+  ilec_name: CENTRAL TEL. CO. - NEVADA DBA CENTURYLINK
+  lat:
+  long:
 - country: US
   region: NV
   exchange: '345093'
@@ -455,16 +455,16 @@ rate_centers:
   long:
 - country: US
   region: NV
-  exchange: '130771'
-  name: DAYTON
-  full_name: Dayton
+  exchange: '130850'
+  name: DCKWTRCRNT
+  full_name: Duckwater-Currant-Nyala
   lata: '720'
   ilec_name: NEVADA BELL
-  lat: '39.177083'
-  long: "-119.765442"
+  lat: '38.899534'
+  long: "-115.68982"
   closest_city:
-    name: Carson City
-    distance_km: 3.27
+    name: Preston
+    distance_km: 54.2
 - country: US
   region: NV
   exchange: '345100'
@@ -536,18 +536,6 @@ rate_centers:
   long:
 - country: US
   region: NV
-  exchange: '130850'
-  name: DCKWTRCRNT
-  full_name: Duckwater-Currant-Nyala
-  lata: '720'
-  ilec_name: NEVADA BELL
-  lat: '38.899534'
-  long: "-115.68982"
-  closest_city:
-    name: Preston
-    distance_km: 54.2
-- country: US
-  region: NV
   exchange: '345107'
   name: DUTCH FLAT
   full_name: Dutch Flat
@@ -564,6 +552,18 @@ rate_centers:
   ilec_name: NEVADA BELL
   lat:
   long:
+- country: US
+  region: NV
+  exchange: '130771'
+  name: DAYTON
+  full_name: Dayton
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat: '39.177083'
+  long: "-119.765442"
+  closest_city:
+    name: Carson City
+    distance_km: 3.27
 - country: US
   region: NV
   exchange: '345109'
@@ -638,15 +638,6 @@ rate_centers:
   long:
 - country: US
   region: NV
-  exchange: '345116'
-  name: EUREKAARPT
-  full_name: Eureka Airport
-  lata: '720'
-  ilec_name: NEVADA BELL
-  lat:
-  long:
-- country: US
-  region: NV
   exchange: '130890'
   name: EUREKA
   full_name: Eureka-Diamond Valley
@@ -657,6 +648,15 @@ rate_centers:
   closest_city:
     name: Eureka
     distance_km: 0.94
+- country: US
+  region: NV
+  exchange: '345116'
+  name: EUREKAARPT
+  full_name: Eureka Airport
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat:
+  long:
 - country: US
   region: NV
   exchange: '345117'
@@ -744,15 +744,6 @@ rate_centers:
   closest_city:
     name: Minden
     distance_km: 1.41
-- country: US
-  region: NV
-  exchange: '130941'
-  name: GRDNVL RS
-  full_name: Gardnerville Ranchos
-  lata: '720'
-  ilec_name: FRONTIER COMMUNICATIONS OF THE SOUTHWEST INC. - NV
-  lat:
-  long:
 - country: US
   region: NV
   exchange: '345125'
@@ -846,6 +837,15 @@ rate_centers:
   closest_city:
     name: West Wendover
     distance_km: 80.53
+- country: US
+  region: NV
+  exchange: '130941'
+  name: GRDNVL RS
+  full_name: Gardnerville Ranchos
+  lata: '720'
+  ilec_name: FRONTIER COMMUNICATIONS OF THE SOUTHWEST INC. - NV
+  lat:
+  long:
 - country: US
   region: NV
   exchange: '345133'
@@ -1430,18 +1430,6 @@ rate_centers:
   long:
 - country: US
   region: NV
-  exchange: '131240'
-  name: MTCHARLETN
-  full_name: Mount Charleston
-  lata: '721'
-  ilec_name: CENTRAL TEL. CO. - NEVADA DBA CENTURYLINK
-  lat: '36.257523'
-  long: "-115.651904"
-  closest_city:
-    name: Mount Charleston
-    distance_km: 3.46
-- country: US
-  region: NV
   exchange: '131250'
   name: MOUNTAINCY
   full_name: Mountain City
@@ -1457,6 +1445,27 @@ rate_centers:
   exchange: '345278'
   name: MOUNTN SPG
   full_name: Mountain Springs
+  lata: '721'
+  ilec_name: CENTRAL TEL. CO. - NEVADA DBA CENTURYLINK
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '131240'
+  name: MTCHARLETN
+  full_name: Mount Charleston
+  lata: '721'
+  ilec_name: CENTRAL TEL. CO. - NEVADA DBA CENTURYLINK
+  lat: '36.257523'
+  long: "-115.651904"
+  closest_city:
+    name: Mount Charleston
+    distance_km: 3.46
+- country: US
+  region: NV
+  exchange: '345280'
+  name: N LASVEGAS
+  full_name: North Las Vegas
   lata: '721'
   ilec_name: CENTRAL TEL. CO. - NEVADA DBA CENTURYLINK
   lat:
@@ -1506,15 +1515,6 @@ rate_centers:
   closest_city:
     name: Mountain City
     distance_km: 25.76
-- country: US
-  region: NV
-  exchange: '345280'
-  name: N LASVEGAS
-  full_name: North Las Vegas
-  lata: '721'
-  ilec_name: CENTRAL TEL. CO. - NEVADA DBA CENTURYLINK
-  lat:
-  long:
 - country: US
   region: NV
   exchange: '345177'
@@ -1742,15 +1742,6 @@ rate_centers:
   long:
 - country: US
   region: NV
-  exchange: '345196'
-  name: REDHSRANCH
-  full_name: Red House Ranch
-  lata: '720'
-  ilec_name: HUMBOLDT TELEPHONE COMPANY
-  lat:
-  long:
-- country: US
-  region: NV
   exchange: '131380'
   name: RED ROCK
   full_name: Red Rock
@@ -1761,6 +1752,15 @@ rate_centers:
   closest_city:
     name: Cold Springs
     distance_km: 19.39
+- country: US
+  region: NV
+  exchange: '345196'
+  name: REDHSRANCH
+  full_name: Red House Ranch
+  lata: '720'
+  ilec_name: HUMBOLDT TELEPHONE COMPANY
+  lat:
+  long:
 - country: US
   region: NV
   exchange: '131390'
@@ -1874,6 +1874,18 @@ rate_centers:
   long:
 - country: US
   region: NV
+  exchange: '131470'
+  name: SILVER SPG
+  full_name: Silver Springs
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat: '39.408324'
+  long: "-119.224374"
+  closest_city:
+    name: Silver Springs
+    distance_km: 2.98
+- country: US
+  region: NV
   exchange: '345206'
   name: SILVERCITY
   full_name: Silver City
@@ -1895,16 +1907,13 @@ rate_centers:
     distance_km: 0.67
 - country: US
   region: NV
-  exchange: '131470'
-  name: SILVER SPG
-  full_name: Silver Springs
-  lata: '720'
-  ilec_name: NEVADA BELL
-  lat: '39.408324'
-  long: "-119.224374"
-  closest_city:
-    name: Silver Springs
-    distance_km: 2.98
+  exchange: '345287'
+  name: SLOAN
+  full_name: Sloan
+  lata: '721'
+  ilec_name: CENTRAL TEL. CO. - NEVADA DBA CENTURYLINK
+  lat:
+  long:
 - country: US
   region: NV
   exchange: '345208'
@@ -1912,15 +1921,6 @@ rate_centers:
   full_name: Silver State Valley
   lata: '720'
   ilec_name: HUMBOLDT TELEPHONE COMPANY
-  lat:
-  long:
-- country: US
-  region: NV
-  exchange: '345287'
-  name: SLOAN
-  full_name: Sloan
-  lata: '721'
-  ilec_name: CENTRAL TEL. CO. - NEVADA DBA CENTURYLINK
   lat:
   long:
 - country: US
@@ -2264,6 +2264,18 @@ rate_centers:
   long:
 - country: US
   region: NV
+  exchange: '131620'
+  name: W WENDOVER
+  full_name: Western Wendover
+  lata: '720'
+  ilec_name: BEEHIVE TELEPHONE CO., INC. -  NEVADA
+  lat: '41.034117'
+  long: "-114.484738"
+  closest_city:
+    name: Oasis
+    distance_km: 0.94
+- country: US
+  region: NV
   exchange: '345237'
   name: WABUSKA
   full_name: Wabuska
@@ -2345,18 +2357,6 @@ rate_centers:
     distance_km: 4.56
 - country: US
   region: NV
-  exchange: '131620'
-  name: W WENDOVER
-  full_name: Western Wendover
-  lata: '720'
-  ilec_name: BEEHIVE TELEPHONE CO., INC. -  NEVADA
-  lat: '41.034117'
-  long: "-114.484738"
-  closest_city:
-    name: Oasis
-    distance_km: 0.94
-- country: US
-  region: NV
   exchange: '345244'
   name: WHITERIVER
   full_name: White River
@@ -2399,18 +2399,18 @@ rate_centers:
     distance_km: 5.05
 - country: US
   region: NV
-  exchange: '345249'
-  name: ZEPHYRCOVE
-  full_name: Zephyr Cove
+  exchange: '345248'
+  name: ZEPHYR PT
+  full_name: Zephyr Point
   lata: '720'
   ilec_name: FRONTIER COMMUNICATIONS OF THE SOUTHWEST INC. - NV
   lat:
   long:
 - country: US
   region: NV
-  exchange: '345248'
-  name: ZEPHYR PT
-  full_name: Zephyr Point
+  exchange: '345249'
+  name: ZEPHYRCOVE
+  full_name: Zephyr Cove
   lata: '720'
   ilec_name: FRONTIER COMMUNICATIONS OF THE SOUTHWEST INC. - NV
   lat:

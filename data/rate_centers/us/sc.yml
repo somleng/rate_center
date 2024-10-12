@@ -242,15 +242,6 @@ rate_centers:
     distance_km: 1.7
 - country: US
   region: SC
-  exchange: '322578'
-  name: BTSBGLESVL
-  full_name: Batesburg-Leesville
-  lata: '434'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: SC
   exchange: '322323'
   name: BATESVILLE
   full_name: Batesville
@@ -276,7 +267,7 @@ rate_centers:
   name: BEAUFORT
   full_name: Beaufort
   lata: '436'
-  ilec_name: BRIGHTSPEED OF SOUTH CAROLINA, LLC
+  ilec_name: 'BRIGHTSPEED OF SOUTH CAROLINA, LLC                        '
   lat: '32.434478'
   long: "-80.666355"
   closest_city:
@@ -534,7 +525,7 @@ rate_centers:
   name: BRADLEY
   full_name: Bradley
   lata: '430'
-  ilec_name: BRIGHTSPEED OF SOUTH CAROLINA, LLC
+  ilec_name: 'BRIGHTSPEED OF SOUTH CAROLINA, LLC                        '
   lat:
   long:
 - country: US
@@ -543,7 +534,7 @@ rate_centers:
   name: BRANCHVL
   full_name: Branchville
   lata: '434'
-  ilec_name: BRIGHTSPEED OF SOUTH CAROLINA, LLC
+  ilec_name: 'BRIGHTSPEED OF SOUTH CAROLINA, LLC                        '
   lat: '33.250416'
   long: "-80.81546"
   closest_city:
@@ -555,7 +546,7 @@ rate_centers:
   name: BRIGHTON
   full_name: Brighton
   lata: '434'
-  ilec_name: BRIGHTSPEED OF SOUTH CAROLINA, LLC
+  ilec_name: 'BRIGHTSPEED OF SOUTH CAROLINA, LLC                        '
   lat:
   long:
 - country: US
@@ -596,6 +587,15 @@ rate_centers:
   long:
 - country: US
   region: SC
+  exchange: '322578'
+  name: BTSBGLESVL
+  full_name: Batesburg-Leesville
+  lata: '434'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: SC
   exchange: '322467'
   name: BUCKSPORT
   full_name: Bucksport
@@ -627,7 +627,7 @@ rate_centers:
   name: BURTON
   full_name: Burton
   lata: '436'
-  ilec_name: BRIGHTSPEED OF SOUTH CAROLINA, LLC
+  ilec_name: 'BRIGHTSPEED OF SOUTH CAROLINA, LLC                        '
   lat:
   long:
 - country: US
@@ -800,35 +800,11 @@ rate_centers:
   long:
 - country: US
   region: SC
-  exchange: '176500'
-  name: CHPNLTLMTN
-  full_name: Chapin-Little Mountain North
-  lata: '434'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat: '34.163386'
-  long: "-81.354948"
-  closest_city:
-    name: Chapin
-    distance_km: 0.97
-- country: US
-  region: SC
-  exchange: '176510'
-  name: CHPNLTLMTS
-  full_name: Chapin-Little Mountain South
-  lata: '434'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat: '34.167302'
-  long: "-81.352076"
-  closest_city:
-    name: Chapin
-    distance_km: 0.73
-- country: US
-  region: SC
   exchange: '176520'
   name: CHAPPELLS
   full_name: Chappells
   lata: '430'
-  ilec_name: BRIGHTSPEED OF SOUTH CAROLINA, LLC
+  ilec_name: 'BRIGHTSPEED OF SOUTH CAROLINA, LLC                        '
   lat: '34.18088'
   long: "-81.866822"
   closest_city:
@@ -878,15 +854,6 @@ rate_centers:
   long:
 - country: US
   region: SC
-  exchange: '322473'
-  name: CHRYGRVBCH
-  full_name: Cherry Grove Beach
-  lata: '432'
-  ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - SC
-  lat:
-  long:
-- country: US
-  region: SC
   exchange: '176550'
   name: CHESNEE
   full_name: Chesnee
@@ -921,6 +888,39 @@ rate_centers:
   closest_city:
     name: Chesterfield
     distance_km: 0.6
+- country: US
+  region: SC
+  exchange: '176500'
+  name: CHPNLTLMTN
+  full_name: Chapin-Little Mountain North
+  lata: '434'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat: '34.163386'
+  long: "-81.354948"
+  closest_city:
+    name: Chapin
+    distance_km: 0.97
+- country: US
+  region: SC
+  exchange: '176510'
+  name: CHPNLTLMTS
+  full_name: Chapin-Little Mountain South
+  lata: '434'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat: '34.167302'
+  long: "-81.352076"
+  closest_city:
+    name: Chapin
+    distance_km: 0.73
+- country: US
+  region: SC
+  exchange: '322473'
+  name: CHRYGRVBCH
+  full_name: Cherry Grove Beach
+  lata: '432'
+  ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - SC
+  lat:
+  long:
 - country: US
   region: SC
   exchange: '176580'
@@ -1077,7 +1077,7 @@ rate_centers:
   name: COOSAWHTCH
   full_name: Coosawhatchie
   lata: '436'
-  ilec_name: BRIGHTSPEED OF SOUTH CAROLINA, LLC
+  ilec_name: 'BRIGHTSPEED OF SOUTH CAROLINA, LLC                        '
   lat:
   long:
 - country: US
@@ -1167,7 +1167,7 @@ rate_centers:
   name: CROCKETVL
   full_name: Crocketville
   lata: '434'
-  ilec_name: BRIGHTSPEED OF SOUTH CAROLINA, LLC
+  ilec_name: 'BRIGHTSPEED OF SOUTH CAROLINA, LLC                        '
   lat:
   long:
 - country: US
@@ -1188,7 +1188,7 @@ rate_centers:
   name: CROSS HILL
   full_name: Cross Hill
   lata: '430'
-  ilec_name: BRIGHTSPEED OF SOUTH CAROLINA, LLC
+  ilec_name: 'BRIGHTSPEED OF SOUTH CAROLINA, LLC                        '
   lat: '34.308277'
   long: "-81.98162"
   closest_city:
@@ -1209,7 +1209,7 @@ rate_centers:
   name: DALE
   full_name: Dale
   lata: '436'
-  ilec_name: BRIGHTSPEED OF SOUTH CAROLINA, LLC
+  ilec_name: 'BRIGHTSPEED OF SOUTH CAROLINA, LLC                        '
   lat:
   long:
 - country: US
@@ -1356,7 +1356,7 @@ rate_centers:
   name: EARLYBRNCH
   full_name: Early Branch
   lata: '434'
-  ilec_name: BRIGHTSPEED OF SOUTH CAROLINA, LLC
+  ilec_name: 'BRIGHTSPEED OF SOUTH CAROLINA, LLC                        '
   lat:
   long:
 - country: US
@@ -1383,27 +1383,6 @@ rate_centers:
   closest_city:
     name: Red Hill
     distance_km: 2.21
-- country: US
-  region: SC
-  exchange: '322356'
-  name: ESPARTANBG
-  full_name: East Spartanburg
-  lata: '430'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: SC
-  exchange: '176770'
-  name: ESUMTER
-  full_name: East Sumter
-  lata: '434'
-  ilec_name: FARMERS TEL. COOP., INC.
-  lat: '33.900076'
-  long: "-80.250208"
-  closest_city:
-    name: East Sumter
-    distance_km: 5.05
 - country: US
   region: SC
   exchange: '176780'
@@ -1532,11 +1511,20 @@ rate_centers:
     distance_km: 0.2
 - country: US
   region: SC
+  exchange: '322356'
+  name: ESPARTANBG
+  full_name: East Spartanburg
+  lata: '430'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: SC
   exchange: '176840'
   name: ESTILL
   full_name: Estill
   lata: '434'
-  ilec_name: BRIGHTSPEED OF SOUTH CAROLINA, LLC
+  ilec_name: 'BRIGHTSPEED OF SOUTH CAROLINA, LLC                        '
   lat: '32.756868'
   long: "-81.243443"
   closest_city:
@@ -1544,11 +1532,23 @@ rate_centers:
     distance_km: 0.4
 - country: US
   region: SC
+  exchange: '176770'
+  name: ESUMTER
+  full_name: East Sumter
+  lata: '434'
+  ilec_name: FARMERS TEL. COOP., INC.
+  lat: '33.900076'
+  long: "-80.250208"
+  closest_city:
+    name: East Sumter
+    distance_km: 5.05
+- country: US
+  region: SC
   exchange: '176850'
   name: EUTAWVILLE
   full_name: Eutawville
   lata: '434'
-  ilec_name: BRIGHTSPEED OF SOUTH CAROLINA, LLC
+  ilec_name: 'BRIGHTSPEED OF SOUTH CAROLINA, LLC                        '
   lat: '33.402407'
   long: "-80.342323"
   closest_city:
@@ -1694,15 +1694,6 @@ rate_centers:
   long:
 - country: US
   region: SC
-  exchange: '322610'
-  name: FT JACKSON
-  full_name: Fort Jackson
-  lata: '434'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: SC
   exchange: '176900'
   name: FORT LAWN
   full_name: Fort Lawn
@@ -1766,11 +1757,20 @@ rate_centers:
   long:
 - country: US
   region: SC
+  exchange: '322610'
+  name: FT JACKSON
+  full_name: Fort Jackson
+  lata: '434'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: SC
   exchange: '322611'
   name: FURMAN
   full_name: Furman
   lata: '434'
-  ilec_name: BRIGHTSPEED OF SOUTH CAROLINA, LLC
+  ilec_name: 'BRIGHTSPEED OF SOUTH CAROLINA, LLC                        '
   lat:
   long:
 - country: US
@@ -1827,7 +1827,7 @@ rate_centers:
   name: GARNETT
   full_name: Garnett
   lata: '434'
-  ilec_name: BRIGHTSPEED OF SOUTH CAROLINA, LLC
+  ilec_name: 'BRIGHTSPEED OF SOUTH CAROLINA, LLC                        '
   lat:
   long:
 - country: US
@@ -1857,7 +1857,7 @@ rate_centers:
   name: GIFFORD
   full_name: Gifford
   lata: '434'
-  ilec_name: BRIGHTSPEED OF SOUTH CAROLINA, LLC
+  ilec_name: 'BRIGHTSPEED OF SOUTH CAROLINA, LLC                        '
   lat:
   long:
 - country: US
@@ -1914,7 +1914,7 @@ rate_centers:
   name: GODSEY
   full_name: Godsey
   lata: '430'
-  ilec_name: BRIGHTSPEED OF SOUTH CAROLINA, LLC
+  ilec_name: 'BRIGHTSPEED OF SOUTH CAROLINA, LLC                        '
   lat:
   long:
 - country: US
@@ -2019,7 +2019,7 @@ rate_centers:
   name: GREENWOOD
   full_name: Greenwood
   lata: '430'
-  ilec_name: BRIGHTSPEED OF SOUTH CAROLINA, LLC
+  ilec_name: 'BRIGHTSPEED OF SOUTH CAROLINA, LLC                        '
   lat: '34.203009'
   long: "-82.167449"
   closest_city:
@@ -2097,7 +2097,7 @@ rate_centers:
   name: HAMPTON
   full_name: Hampton
   lata: '434'
-  ilec_name: BRIGHTSPEED OF SOUTH CAROLINA, LLC
+  ilec_name: 'BRIGHTSPEED OF SOUTH CAROLINA, LLC                        '
   lat: '32.864418'
   long: "-81.108629"
   closest_city:
@@ -2235,7 +2235,7 @@ rate_centers:
   name: HODGES
   full_name: Hodges
   lata: '430'
-  ilec_name: BRIGHTSPEED OF SOUTH CAROLINA, LLC
+  ilec_name: 'BRIGHTSPEED OF SOUTH CAROLINA, LLC                        '
   lat: '34.293032'
   long: "-82.251262"
   closest_city:
@@ -2247,7 +2247,7 @@ rate_centers:
   name: HOLLY HILL
   full_name: Holly Hill
   lata: '434'
-  ilec_name: BRIGHTSPEED OF SOUTH CAROLINA, LLC
+  ilec_name: 'BRIGHTSPEED OF SOUTH CAROLINA, LLC                        '
   lat: '33.323173'
   long: "-80.40747"
   closest_city:
@@ -2628,7 +2628,7 @@ rate_centers:
   name: LADYS ISL
   full_name: Ladys Island
   lata: '436'
-  ilec_name: BRIGHTSPEED OF SOUTH CAROLINA, LLC
+  ilec_name: 'BRIGHTSPEED OF SOUTH CAROLINA, LLC                        '
   lat:
   long:
 - country: US
@@ -2660,18 +2660,6 @@ rate_centers:
   exchange: '177320'
   name: LAKE WYLIE
   full_name: Lake Wylie
-  lata: '422'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat: '35.104381'
-  long: "-81.055318"
-  closest_city:
-    name: Lake Wylie
-    distance_km: 1.25
-- country: US
-  region: SC
-  exchange: '177330'
-  name: LK WYLIE W
-  full_name: Lake Wylie West
   lata: '422'
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
   lat: '35.104381'
@@ -2775,7 +2763,7 @@ rate_centers:
   name: LAUREL BAY
   full_name: Laurel Bay
   lata: '436'
-  ilec_name: BRIGHTSPEED OF SOUTH CAROLINA, LLC
+  ilec_name: 'BRIGHTSPEED OF SOUTH CAROLINA, LLC                        '
   lat: '32.456572'
   long: "-80.790546"
   closest_city:
@@ -2972,11 +2960,23 @@ rate_centers:
   long:
 - country: US
   region: SC
+  exchange: '177330'
+  name: LK WYLIE W
+  full_name: Lake Wylie West
+  lata: '422'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat: '35.104381'
+  long: "-81.055318"
+  closest_city:
+    name: Lake Wylie
+    distance_km: 1.25
+- country: US
+  region: SC
   exchange: '322765'
   name: LOBECO
   full_name: Lobeco
   lata: '436'
-  ilec_name: BRIGHTSPEED OF SOUTH CAROLINA, LLC
+  ilec_name: 'BRIGHTSPEED OF SOUTH CAROLINA, LLC                        '
   lat:
   long:
 - country: US
@@ -3048,7 +3048,7 @@ rate_centers:
   name: LOWCOUNTRY
   full_name: Low Country
   lata: '436'
-  ilec_name: BRIGHTSPEED OF SOUTH CAROLINA, LLC
+  ilec_name: 'BRIGHTSPEED OF SOUTH CAROLINA, LLC                        '
   lat: '32.363743'
   long: "-80.870167"
   closest_city:
@@ -3087,7 +3087,7 @@ rate_centers:
   name: LURAY
   full_name: Luray
   lata: '434'
-  ilec_name: BRIGHTSPEED OF SOUTH CAROLINA, LLC
+  ilec_name: 'BRIGHTSPEED OF SOUTH CAROLINA, LLC                        '
   lat:
   long:
 - country: US
@@ -3248,18 +3248,6 @@ rate_centers:
     distance_km: 0.31
 - country: US
   region: SC
-  exchange: '177580'
-  name: MCLELLANVL
-  full_name: McClellanville
-  lata: '436'
-  ilec_name: MCCLELLANVILLE TEL. CO., INC.
-  lat: '33.091593'
-  long: "-79.461365"
-  closest_city:
-    name: McClellanville
-    distance_km: 0.84
-- country: US
-  region: SC
   exchange: '177590'
   name: MCCOLL
   full_name: McColl
@@ -3293,6 +3281,18 @@ rate_centers:
     distance_km: 0.38
 - country: US
   region: SC
+  exchange: '177580'
+  name: MCLELLANVL
+  full_name: McClellanville
+  lata: '436'
+  ilec_name: MCCLELLANVILLE TEL. CO., INC.
+  lat: '33.091593'
+  long: "-79.461365"
+  closest_city:
+    name: McClellanville
+    distance_km: 0.84
+- country: US
+  region: SC
   exchange: '322771'
   name: MEGGETT
   full_name: Meggett
@@ -3306,7 +3306,7 @@ rate_centers:
   name: MILEY
   full_name: Miley
   lata: '434'
-  ilec_name: BRIGHTSPEED OF SOUTH CAROLINA, LLC
+  ilec_name: 'BRIGHTSPEED OF SOUTH CAROLINA, LLC                        '
   lat:
   long:
 - country: US
@@ -3389,6 +3389,36 @@ rate_centers:
   long:
 - country: US
   region: SC
+  exchange: '322773'
+  name: MOUNTHOLLY
+  full_name: Mount Holly
+  lata: '436'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: SC
+  exchange: '322400'
+  name: MOUNTN RST
+  full_name: Mountain Rest
+  lata: '430'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: SC
+  exchange: '177650'
+  name: MOUNTVILLE
+  full_name: Mountville
+  lata: '430'
+  ilec_name: 'BRIGHTSPEED OF SOUTH CAROLINA, LLC                        '
+  lat: '34.358697'
+  long: "-81.964531"
+  closest_city:
+    name: Mountville
+    distance_km: 1.34
+- country: US
+  region: SC
   exchange: '177630'
   name: MT CARMEL
   full_name: Mount Carmel
@@ -3410,15 +3440,6 @@ rate_centers:
   long:
 - country: US
   region: SC
-  exchange: '322773'
-  name: MOUNTHOLLY
-  full_name: Mount Holly
-  lata: '436'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: SC
   exchange: '177640'
   name: MTPLEASANT
   full_name: Mount Pleasant
@@ -3429,27 +3450,6 @@ rate_centers:
   closest_city:
     name: Sullivan's Island
     distance_km: 3.33
-- country: US
-  region: SC
-  exchange: '322400'
-  name: MOUNTN RST
-  full_name: Mountain Rest
-  lata: '430'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: SC
-  exchange: '177650'
-  name: MOUNTVILLE
-  full_name: Mountville
-  lata: '430'
-  ilec_name: BRIGHTSPEED OF SOUTH CAROLINA, LLC
-  lat: '34.358697'
-  long: "-81.964531"
-  closest_city:
-    name: Mountville
-    distance_km: 1.34
 - country: US
   region: SC
   exchange: '177660'
@@ -3506,18 +3506,6 @@ rate_centers:
   long:
 - country: US
   region: SC
-  exchange: '177690'
-  name: NEWELLENTN
-  full_name: New Ellenton
-  lata: '442'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat: '33.425457'
-  long: "-81.709656"
-  closest_city:
-    name: New Ellenton
-    distance_km: 2.59
-- country: US
-  region: SC
   exchange: '322524'
   name: NEW ZION
   full_name: New Zion
@@ -3537,6 +3525,18 @@ rate_centers:
   closest_city:
     name: Newberry
     distance_km: 1.64
+- country: US
+  region: SC
+  exchange: '177690'
+  name: NEWELLENTN
+  full_name: New Ellenton
+  lata: '442'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat: '33.425457'
+  long: "-81.709656"
+  closest_city:
+    name: New Ellenton
+    distance_km: 2.59
 - country: US
   region: SC
   exchange: '321988'
@@ -3585,12 +3585,93 @@ rate_centers:
   name: NINETY SIX
   full_name: Ninety Six
   lata: '430'
-  ilec_name: BRIGHTSPEED OF SOUTH CAROLINA, LLC
+  ilec_name: 'BRIGHTSPEED OF SOUTH CAROLINA, LLC                        '
   lat: '34.175112'
   long: "-82.026102"
   closest_city:
     name: Ninety Six
     distance_km: 0.65
+- country: US
+  region: SC
+  exchange: '177790'
+  name: NMYRTLEBCH
+  full_name: North Myrtle Beach
+  lata: '432'
+  ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - SC
+  lat: '33.81747'
+  long: "-78.690162"
+  closest_city:
+    name: North Myrtle Beach
+    distance_km: 1.78
+- country: US
+  region: SC
+  exchange: '177750'
+  name: NO AUGUSTA
+  full_name: North Augusta
+  lata: '442'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat: '33.500541'
+  long: "-81.963468"
+  closest_city:
+    name: North Augusta
+    distance_km: 2.46
+- country: US
+  region: SC
+  exchange: '177760'
+  name: NO CONWAY
+  full_name: North Conway
+  lata: '432'
+  ilec_name: HORRY TEL. COOP., INC.
+  lat: '33.894607'
+  long: "-79.044445"
+  closest_city:
+    name: Homewood
+    distance_km: 0.71
+- country: US
+  region: SC
+  exchange: '177780'
+  name: NO MANNING
+  full_name: North Manning
+  lata: '434'
+  ilec_name: FARMERS TEL. COOP., INC.
+  lat: '33.693116'
+  long: "-80.216551"
+  closest_city:
+    name: Manning
+    distance_km: 0.02
+- country: US
+  region: SC
+  exchange: '177810'
+  name: NO SUMTER
+  full_name: North Sumter
+  lata: '434'
+  ilec_name: FARMERS TEL. COOP., INC.
+  lat: '33.959819'
+  long: "-80.374785"
+  closest_city:
+    name: Sumter
+    distance_km: 2.84
+- country: US
+  region: SC
+  exchange: '322775'
+  name: NOCHARLETN
+  full_name: North Charleston
+  lata: '436'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: SC
+  exchange: '177770'
+  name: NOKINGSTRE
+  full_name: North Kingstree
+  lata: '432'
+  ilec_name: FARMERS TEL. COOP., INC.
+  lat: '33.667634'
+  long: "-79.819399"
+  closest_city:
+    name: Kingstree
+    distance_km: 0.92
 - country: US
   region: SC
   exchange: '322405'
@@ -3614,39 +3695,6 @@ rate_centers:
     distance_km: 0.46
 - country: US
   region: SC
-  exchange: '177750'
-  name: NO AUGUSTA
-  full_name: North Augusta
-  lata: '442'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat: '33.500541'
-  long: "-81.963468"
-  closest_city:
-    name: North Augusta
-    distance_km: 2.46
-- country: US
-  region: SC
-  exchange: '322775'
-  name: NOCHARLETN
-  full_name: North Charleston
-  lata: '436'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: SC
-  exchange: '177760'
-  name: NO CONWAY
-  full_name: North Conway
-  lata: '432'
-  ilec_name: HORRY TEL. COOP., INC.
-  lat: '33.894607'
-  long: "-79.044445"
-  closest_city:
-    name: Homewood
-    distance_km: 0.71
-- country: US
-  region: SC
   exchange: '322529'
   name: NORTH IS
   full_name: North Island
@@ -3656,40 +3704,16 @@ rate_centers:
   long:
 - country: US
   region: SC
-  exchange: '177770'
-  name: NOKINGSTRE
-  full_name: North Kingstree
-  lata: '432'
-  ilec_name: FARMERS TEL. COOP., INC.
-  lat: '33.667634'
-  long: "-79.819399"
-  closest_city:
-    name: Kingstree
-    distance_km: 0.92
-- country: US
-  region: SC
-  exchange: '177780'
-  name: NO MANNING
-  full_name: North Manning
+  exchange: '177830'
+  name: NORWAY
+  full_name: Norway
   lata: '434'
-  ilec_name: FARMERS TEL. COOP., INC.
-  lat: '33.693116'
-  long: "-80.216551"
+  ilec_name: NORWAY TEL. CO., INC.
+  lat: '33.449455'
+  long: "-81.127079"
   closest_city:
-    name: Manning
-    distance_km: 0.02
-- country: US
-  region: SC
-  exchange: '177790'
-  name: NMYRTLEBCH
-  full_name: North Myrtle Beach
-  lata: '432'
-  ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - SC
-  lat: '33.81747'
-  long: "-78.690162"
-  closest_city:
-    name: North Myrtle Beach
-    distance_km: 1.78
+    name: Norway
+    distance_km: 0.1
 - country: US
   region: SC
   exchange: '177800'
@@ -3704,18 +3728,6 @@ rate_centers:
     distance_km: 2.33
 - country: US
   region: SC
-  exchange: '177810'
-  name: NO SUMTER
-  full_name: North Sumter
-  lata: '434'
-  ilec_name: FARMERS TEL. COOP., INC.
-  lat: '33.959819'
-  long: "-80.374785"
-  closest_city:
-    name: Sumter
-    distance_km: 2.84
-- country: US
-  region: SC
   exchange: '177820'
   name: NWALTERBOR
   full_name: North Walterboro
@@ -3726,18 +3738,6 @@ rate_centers:
   closest_city:
     name: Walterboro
     distance_km: 5.97
-- country: US
-  region: SC
-  exchange: '177830'
-  name: NORWAY
-  full_name: Norway
-  lata: '434'
-  ilec_name: NORWAY TEL. CO., INC.
-  lat: '33.449455'
-  long: "-81.127079"
-  closest_city:
-    name: Norway
-    distance_km: 0.1
 - country: US
   region: SC
   exchange: '177840'
@@ -3900,7 +3900,7 @@ rate_centers:
   name: PARRIS IS
   full_name: Parris Island
   lata: '436'
-  ilec_name: BRIGHTSPEED OF SOUTH CAROLINA, LLC
+  ilec_name: 'BRIGHTSPEED OF SOUTH CAROLINA, LLC                        '
   lat:
   long:
 - country: US
@@ -4056,7 +4056,7 @@ rate_centers:
   name: PINELAND
   full_name: Pineland
   lata: '436'
-  ilec_name: BRIGHTSPEED OF SOUTH CAROLINA, LLC
+  ilec_name: 'BRIGHTSPEED OF SOUTH CAROLINA, LLC                        '
   lat:
   long:
 - country: US
@@ -4152,7 +4152,7 @@ rate_centers:
   name: PORT ROYAL
   full_name: Port Royal
   lata: '436'
-  ilec_name: BRIGHTSPEED OF SOUTH CAROLINA, LLC
+  ilec_name: 'BRIGHTSPEED OF SOUTH CAROLINA, LLC                        '
   lat:
   long:
 - country: US
@@ -4305,7 +4305,7 @@ rate_centers:
   name: RIDGELAND
   full_name: Ridgeland
   lata: '436'
-  ilec_name: BRIGHTSPEED OF SOUTH CAROLINA, LLC
+  ilec_name: 'BRIGHTSPEED OF SOUTH CAROLINA, LLC                        '
   lat: '32.481635'
   long: "-80.982574"
   closest_city:
@@ -4460,15 +4460,6 @@ rate_centers:
   long:
 - country: US
   region: SC
-  exchange: '322688'
-  name: ST CHARLES
-  full_name: Saint Charles
-  lata: '434'
-  ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - SC
-  lat:
-  long:
-- country: US
-  region: SC
   exchange: '178110'
   name: SALEM
   full_name: Salem
@@ -4503,7 +4494,7 @@ rate_centers:
   name: SALUDA
   full_name: Saluda
   lata: '430'
-  ilec_name: BRIGHTSPEED OF SOUTH CAROLINA, LLC
+  ilec_name: 'BRIGHTSPEED OF SOUTH CAROLINA, LLC                        '
   lat: '34.000615'
   long: "-81.764729"
   closest_city:
@@ -4550,15 +4541,6 @@ rate_centers:
   long:
 - country: US
   region: SC
-  exchange: '323493'
-  name: SVNHRVPLNT
-  full_name: Savannah River Plant
-  lata: '442'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat:
-  long:
-- country: US
-  region: SC
   exchange: '176311'
   name: SAVANNAHRS
   full_name: Savannah River Site
@@ -4575,7 +4557,7 @@ rate_centers:
   name: SCOTIA
   full_name: Scotia
   lata: '434'
-  ilec_name: BRIGHTSPEED OF SOUTH CAROLINA, LLC
+  ilec_name: 'BRIGHTSPEED OF SOUTH CAROLINA, LLC                        '
   lat:
   long:
 - country: US
@@ -4596,7 +4578,7 @@ rate_centers:
   name: SEABROOK
   full_name: Seabrook
   lata: '436'
-  ilec_name: BRIGHTSPEED OF SOUTH CAROLINA, LLC
+  ilec_name: 'BRIGHTSPEED OF SOUTH CAROLINA, LLC                        '
   lat:
   long:
 - country: US
@@ -4643,6 +4625,15 @@ rate_centers:
     distance_km: 0.81
 - country: US
   region: SC
+  exchange: '322683'
+  name: SHAW AFB
+  full_name: Shaw Air Force Base
+  lata: '434'
+  ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - SC
+  lat:
+  long:
+- country: US
+  region: SC
   exchange: '178170'
   name: SHAWAFBHTS
   full_name: Shaw AFB Heights
@@ -4655,20 +4646,11 @@ rate_centers:
     distance_km: 1.06
 - country: US
   region: SC
-  exchange: '322683'
-  name: SHAW AFB
-  full_name: Shaw Air Force Base
-  lata: '434'
-  ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - SC
-  lat:
-  long:
-- country: US
-  region: SC
   exchange: '322793'
   name: SHELDON
   full_name: Sheldon
   lata: '436'
-  ilec_name: BRIGHTSPEED OF SOUTH CAROLINA, LLC
+  ilec_name: 'BRIGHTSPEED OF SOUTH CAROLINA, LLC                        '
   lat:
   long:
 - country: US
@@ -4742,18 +4724,6 @@ rate_centers:
   long:
 - country: US
   region: SC
-  exchange: '178200'
-  name: SOCIETY HL
-  full_name: Society Hill
-  lata: '432'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat: '34.517693'
-  long: "-79.847688"
-  closest_city:
-    name: Society Hill
-    distance_km: 1.05
-- country: US
-  region: SC
   exchange: '178210'
   name: SO CONWAY
   full_name: South Conway
@@ -4766,6 +4736,18 @@ rate_centers:
     distance_km: 8.51
 - country: US
   region: SC
+  exchange: '178200'
+  name: SOCIETY HL
+  full_name: Society Hill
+  lata: '432'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat: '34.517693'
+  long: "-79.847688"
+  closest_city:
+    name: Society Hill
+    distance_km: 1.05
+- country: US
+  region: SC
   exchange: '322546'
   name: SOUTH IS
   full_name: South Island
@@ -4773,18 +4755,6 @@ rate_centers:
   ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - SC
   lat:
   long:
-- country: US
-  region: SC
-  exchange: '178220'
-  name: SWALTERBOR
-  full_name: South Walterboro
-  lata: '436'
-  ilec_name: PALMETTO RURAL TEL. COOP., INC.
-  lat: '32.850958'
-  long: "-80.587247"
-  closest_city:
-    name: Walterboro
-    distance_km: 9.98
 - country: US
   region: SC
   exchange: '178230'
@@ -4820,6 +4790,15 @@ rate_centers:
     distance_km: 0.51
 - country: US
   region: SC
+  exchange: '322688'
+  name: ST CHARLES
+  full_name: Saint Charles
+  lata: '434'
+  ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - SC
+  lat:
+  long:
+- country: US
+  region: SC
   exchange: '178250'
   name: ST GEORGE
   full_name: St George
@@ -4836,24 +4815,12 @@ rate_centers:
   name: ST HELENA
   full_name: St Helena Island
   lata: '436'
-  ilec_name: BRIGHTSPEED OF SOUTH CAROLINA, LLC
+  ilec_name: 'BRIGHTSPEED OF SOUTH CAROLINA, LLC                        '
   lat: '32.402478'
   long: "-80.574816"
   closest_city:
     name: Fripp Island
     distance_km: 12.61
-- country: US
-  region: SC
-  exchange: '178270'
-  name: STMATTHEWS
-  full_name: St Matthews
-  lata: '434'
-  ilec_name: WINDSTREAM SOUTH CAROLINA, INC.
-  lat: '33.665914'
-  long: "-80.774868"
-  closest_city:
-    name: St. Matthews
-    distance_km: 0.36
 - country: US
   region: SC
   exchange: '178280'
@@ -4908,6 +4875,18 @@ rate_centers:
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
   lat:
   long:
+- country: US
+  region: SC
+  exchange: '178270'
+  name: STMATTHEWS
+  full_name: St Matthews
+  lata: '434'
+  ilec_name: WINDSTREAM SOUTH CAROLINA, INC.
+  lat: '33.665914'
+  long: "-80.774868"
+  closest_city:
+    name: St. Matthews
+    distance_km: 0.36
 - country: US
   region: SC
   exchange: '322798'
@@ -5003,6 +4982,27 @@ rate_centers:
   long:
 - country: US
   region: SC
+  exchange: '323493'
+  name: SVNHRVPLNT
+  full_name: Savannah River Plant
+  lata: '442'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat:
+  long:
+- country: US
+  region: SC
+  exchange: '178220'
+  name: SWALTERBOR
+  full_name: South Walterboro
+  lata: '436'
+  ilec_name: PALMETTO RURAL TEL. COOP., INC.
+  lat: '32.850958'
+  long: "-80.587247"
+  closest_city:
+    name: Walterboro
+    distance_km: 9.98
+- country: US
+  region: SC
   exchange: '178350'
   name: SWANSEA
   full_name: Swansea
@@ -5028,7 +5028,7 @@ rate_centers:
   name: SWITZERLD
   full_name: Switzerland
   lata: '436'
-  ilec_name: BRIGHTSPEED OF SOUTH CAROLINA, LLC
+  ilec_name: 'BRIGHTSPEED OF SOUTH CAROLINA, LLC                        '
   lat:
   long:
 - country: US
@@ -5091,7 +5091,7 @@ rate_centers:
   name: TILLMAN
   full_name: Tillman
   lata: '436'
-  ilec_name: BRIGHTSPEED OF SOUTH CAROLINA, LLC
+  ilec_name: 'BRIGHTSPEED OF SOUTH CAROLINA, LLC                        '
   lat:
   long:
 - country: US
@@ -5169,7 +5169,7 @@ rate_centers:
   name: TROY
   full_name: Troy
   lata: '430'
-  ilec_name: BRIGHTSPEED OF SOUTH CAROLINA, LLC
+  ilec_name: 'BRIGHTSPEED OF SOUTH CAROLINA, LLC                        '
   lat: '33.984571'
   long: "-82.298199"
   closest_city:
@@ -5232,7 +5232,7 @@ rate_centers:
   name: VANCE
   full_name: Vance
   lata: '434'
-  ilec_name: BRIGHTSPEED OF SOUTH CAROLINA, LLC
+  ilec_name: 'BRIGHTSPEED OF SOUTH CAROLINA, LLC                        '
   lat:
   long:
 - country: US
@@ -5241,7 +5241,7 @@ rate_centers:
   name: VARNVILLE
   full_name: Varnville
   lata: '434'
-  ilec_name: BRIGHTSPEED OF SOUTH CAROLINA, LLC
+  ilec_name: 'BRIGHTSPEED OF SOUTH CAROLINA, LLC                        '
   lat:
   long:
 - country: US
@@ -5253,6 +5253,42 @@ rate_centers:
   ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
   lat:
   long:
+- country: US
+  region: SC
+  exchange: '178480'
+  name: W ANDREWS
+  full_name: West Andrews
+  lata: '432'
+  ilec_name: FARMERS TEL. COOP., INC.
+  lat: '33.496499'
+  long: "-79.538592"
+  closest_city:
+    name: Andrews
+    distance_km: 5.82
+- country: US
+  region: SC
+  exchange: '176641'
+  name: W COLUMBIA
+  full_name: West Columbia
+  lata: '434'
+  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
+  lat: '34.009577'
+  long: "-81.033355"
+  closest_city:
+    name: Olympia
+    distance_km: 3.65
+- country: US
+  region: SC
+  exchange: '178470'
+  name: WABBEVILLE
+  full_name: West Abbeville
+  lata: '430'
+  ilec_name: WEST CAROLINA RURAL TEL. COOP., INC.
+  lat: '34.177852'
+  long: "-82.385438"
+  closest_city:
+    name: Abbeville
+    distance_km: 0.75
 - country: US
   region: SC
   exchange: '322805'
@@ -5343,7 +5379,7 @@ rate_centers:
   name: WARESHOALS
   full_name: Ware Shoals
   lata: '430'
-  ilec_name: BRIGHTSPEED OF SOUTH CAROLINA, LLC
+  ilec_name: 'BRIGHTSPEED OF SOUTH CAROLINA, LLC                        '
   lat: '34.399523'
   long: "-82.239293"
   closest_city:
@@ -5399,42 +5435,6 @@ rate_centers:
   long:
 - country: US
   region: SC
-  exchange: '178470'
-  name: WABBEVILLE
-  full_name: West Abbeville
-  lata: '430'
-  ilec_name: WEST CAROLINA RURAL TEL. COOP., INC.
-  lat: '34.177852'
-  long: "-82.385438"
-  closest_city:
-    name: Abbeville
-    distance_km: 0.75
-- country: US
-  region: SC
-  exchange: '178480'
-  name: W ANDREWS
-  full_name: West Andrews
-  lata: '432'
-  ilec_name: FARMERS TEL. COOP., INC.
-  lat: '33.496499'
-  long: "-79.538592"
-  closest_city:
-    name: Andrews
-    distance_km: 5.82
-- country: US
-  region: SC
-  exchange: '176641'
-  name: W COLUMBIA
-  full_name: West Columbia
-  lata: '434'
-  ilec_name: BELLSOUTH TELECOMM INC DBA SOUTHERN BELL TEL & TEL
-  lat: '34.009577'
-  long: "-81.033355"
-  closest_city:
-    name: Olympia
-    distance_km: 3.65
-- country: US
-  region: SC
   exchange: '178490'
   name: WEST END
   full_name: West End
@@ -5445,18 +5445,6 @@ rate_centers:
   closest_city:
     name: Ware Shoals
     distance_km: 4.43
-- country: US
-  region: SC
-  exchange: '178500'
-  name: WMYRTLEBCH
-  full_name: West Myrtle Beach
-  lata: '432'
-  ilec_name: HORRY TEL. COOP., INC.
-  lat: '33.720058'
-  long: "-78.942953"
-  closest_city:
-    name: Forestbrook
-    distance_km: 2.33
 - country: US
   region: SC
   exchange: '322452'
@@ -5628,6 +5616,18 @@ rate_centers:
   ilec_name: FRONTIER COMMUNICATIONS OF THE CAROLINAS INC. - SC
   lat:
   long:
+- country: US
+  region: SC
+  exchange: '178500'
+  name: WMYRTLEBCH
+  full_name: West Myrtle Beach
+  lata: '432'
+  ilec_name: HORRY TEL. COOP., INC.
+  lat: '33.720058'
+  long: "-78.942953"
+  closest_city:
+    name: Forestbrook
+    distance_km: 2.33
 - country: US
   region: SC
   exchange: '322713'

@@ -1703,6 +1703,15 @@ rate_centers:
     distance_km: 1.09
 - country: US
   region: ND
+  exchange: '339289'
+  name: EASTEDGE
+  full_name: Eastedge
+  lata: '636'
+  ilec_name: INTER-COMMUNITY TELEPHONE COMPANY, LLC
+  lat:
+  long:
+- country: US
+  region: ND
   exchange: '114140'
   name: EASTSIDNEY
   full_name: East Sidney
@@ -1725,15 +1734,6 @@ rate_centers:
   closest_city:
     name: Fortuna
     distance_km: 19.72
-- country: US
-  region: ND
-  exchange: '339289'
-  name: EASTEDGE
-  full_name: Eastedge
-  lata: '636'
-  ilec_name: INTER-COMMUNITY TELEPHONE COMPANY, LLC
-  lat:
-  long:
 - country: US
   region: ND
   exchange: '339290'
@@ -2132,18 +2132,6 @@ rate_centers:
   long:
 - country: US
   region: ND
-  exchange: '114370'
-  name: FORTRANSOM
-  full_name: Fort Ransom
-  lata: '636'
-  ilec_name: DICKEY RURAL TEL. COOP.
-  lat: '46.516051'
-  long: "-97.925084"
-  closest_city:
-    name: Fort Ransom
-    distance_km: 1.03
-- country: US
-  region: ND
   exchange: '339629'
   name: FORT RICE
   full_name: Fort Rice
@@ -2151,18 +2139,6 @@ rate_centers:
   ilec_name: QWEST CORPORATION
   lat:
   long:
-- country: US
-  region: ND
-  exchange: '114380'
-  name: FORTTOTTEN
-  full_name: Fort Totten
-  lata: '636'
-  ilec_name: NORTH DAKOTA TELEPHONE CO.
-  lat: '47.97851'
-  long: "-98.988866"
-  closest_city:
-    name: Fort Totten
-    distance_km: 0.98
 - country: US
   region: ND
   exchange: '114390'
@@ -2175,6 +2151,30 @@ rate_centers:
   closest_city:
     name: Fort Yates
     distance_km: 0.59
+- country: US
+  region: ND
+  exchange: '114370'
+  name: FORTRANSOM
+  full_name: Fort Ransom
+  lata: '636'
+  ilec_name: DICKEY RURAL TEL. COOP.
+  lat: '46.516051'
+  long: "-97.925084"
+  closest_city:
+    name: Fort Ransom
+    distance_km: 1.03
+- country: US
+  region: ND
+  exchange: '114380'
+  name: FORTTOTTEN
+  full_name: Fort Totten
+  lata: '636'
+  ilec_name: NORTH DAKOTA TELEPHONE CO.
+  lat: '47.97851'
+  long: "-98.988866"
+  closest_city:
+    name: Fort Totten
+    distance_km: 0.98
 - country: US
   region: ND
   exchange: '114400'
@@ -2480,27 +2480,6 @@ rate_centers:
     distance_km: 0.94
 - country: US
   region: ND
-  exchange: '114540'
-  name: GRANDFORKS
-  full_name: Grand Forks
-  lata: '636'
-  ilec_name: QWEST CORPORATION
-  lat: '47.91575'
-  long: "-97.037393"
-  closest_city:
-    name: Grand Forks
-    distance_km: 3.85
-- country: US
-  region: ND
-  exchange: '339334'
-  name: GRDFRKSAFB
-  full_name: Grand Forks Air Force Base
-  lata: '636'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: ND
   exchange: '339330'
   name: GRAND HBR
   full_name: Grand Harbor
@@ -2517,6 +2496,18 @@ rate_centers:
   ilec_name: DICKEY RURAL TEL. COOP.
   lat:
   long:
+- country: US
+  region: ND
+  exchange: '114540'
+  name: GRANDFORKS
+  full_name: Grand Forks
+  lata: '636'
+  ilec_name: QWEST CORPORATION
+  lat: '47.91575'
+  long: "-97.037393"
+  closest_city:
+    name: Grand Forks
+    distance_km: 3.85
 - country: US
   region: ND
   exchange: '339333'
@@ -2547,6 +2538,15 @@ rate_centers:
   closest_city:
     name: Killdeer
     distance_km: 38.04
+- country: US
+  region: ND
+  exchange: '339334'
+  name: GRDFRKSAFB
+  full_name: Grand Forks Air Force Base
+  lata: '636'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
 - country: US
   region: ND
   exchange: '114560'
@@ -2939,18 +2939,6 @@ rate_centers:
     distance_km: 0.64
 - country: US
   region: ND
-  exchange: '116000'
-  name: SQUAW GAP
-  full_name: Homesteaders Gap
-  lata: '638'
-  ilec_name: RESERVATION TEL. COOP.
-  lat: '47.483622'
-  long: "-103.927164"
-  closest_city:
-    name: East Fairview
-    distance_km: 42.16
-- country: US
-  region: ND
   exchange: '339353'
   name: HONEYFORD
   full_name: Honeyford
@@ -3323,18 +3311,6 @@ rate_centers:
     distance_km: 0.28
 - country: US
   region: ND
-  exchange: '114880'
-  name: LAMOURE
-  full_name: La Moure
-  lata: '636'
-  ilec_name: DICKEY RURAL TEL. COOP.
-  lat: '46.356946'
-  long: "-98.290868"
-  closest_city:
-    name: LaMoure
-    distance_km: 0.44
-- country: US
-  region: ND
   exchange: '114890'
   name: LADD
   full_name: Ladd
@@ -3347,15 +3323,6 @@ rate_centers:
     distance_km: 19.08
 - country: US
   region: ND
-  exchange: '339694'
-  name: LKWILLIAMS
-  full_name: Lake Williams
-  lata: '638'
-  ilec_name: BEK COMMUNICATIONS COOPERATIVE
-  lat:
-  long:
-- country: US
-  region: ND
   exchange: '114900'
   name: LAKOTA
   full_name: Lakota
@@ -3366,6 +3333,18 @@ rate_centers:
   closest_city:
     name: Lakota
     distance_km: 0.21
+- country: US
+  region: ND
+  exchange: '114880'
+  name: LAMOURE
+  full_name: La Moure
+  lata: '636'
+  ilec_name: DICKEY RURAL TEL. COOP.
+  lat: '46.356946'
+  long: "-98.290868"
+  closest_city:
+    name: LaMoure
+    distance_km: 0.44
 - country: US
   region: ND
   exchange: '114910'
@@ -3612,6 +3591,15 @@ rate_centers:
   closest_city:
     name: Litchville
     distance_km: 0.85
+- country: US
+  region: ND
+  exchange: '339694'
+  name: LKWILLIAMS
+  full_name: Lake Williams
+  lata: '638'
+  ilec_name: BEK COMMUNICATIONS COOPERATIVE
+  lat:
+  long:
 - country: US
   region: ND
   exchange: '339391'
@@ -4076,18 +4064,6 @@ rate_centers:
     distance_km: 18.28
 - country: US
   region: ND
-  exchange: '115241'
-  name: METIGOSHE CELLULAR
-  full_name: Metigoshe Cellular
-  lata: '638'
-  ilec_name: CELLCO PARTNERSHIP DBA VERIZON WIRELESS - ND
-  lat: '48.973781'
-  long: "-100.336876"
-  closest_city:
-    name: Bottineau
-    distance_km: 18.28
-- country: US
-  region: ND
   exchange: '115250'
   name: MICHIGAN
   full_name: Michigan
@@ -4262,20 +4238,20 @@ rate_centers:
     distance_km: 0.55
 - country: US
   region: ND
-  exchange: '339423'
-  name: MT CARMEL
-  full_name: Mount Carmel
-  lata: '636'
-  ilec_name: UNITED TEL. MUTUAL AID CORP.
-  lat:
-  long:
-- country: US
-  region: ND
   exchange: '339422'
   name: MOUNTAIN
   full_name: Mountain
   lata: '636'
   ilec_name: POLAR COMMUN MUTUAL AID CORP.
+  lat:
+  long:
+- country: US
+  region: ND
+  exchange: '339423'
+  name: MT CARMEL
+  full_name: Mount Carmel
+  lata: '636'
+  ilec_name: UNITED TEL. MUTUAL AID CORP.
   lat:
   long:
 - country: US
@@ -4308,6 +4284,18 @@ rate_centers:
   ilec_name: TURTLE MOUNTAIN COMMUN., INC.
   lat:
   long:
+- country: US
+  region: ND
+  exchange: '115241'
+  name: METIGOSHE CELLULAR
+  full_name: Metigoshe Cellular
+  lata: '638'
+  ilec_name: CELLCO PARTNERSHIP DBA VERIZON WIRELESS - ND
+  lat: '48.973781'
+  long: "-100.336876"
+  closest_city:
+    name: Bottineau
+    distance_km: 18.28
 - country: US
   region: ND
   exchange: '339724'
@@ -4376,32 +4364,11 @@ rate_centers:
     distance_km: 16.16
 - country: US
   region: ND
-  exchange: '115400'
-  name: NEWENGLAND
-  full_name: New England
-  lata: '638'
-  ilec_name: CONSOLIDATED TELCOM
-  lat: '46.540728'
-  long: "-102.868417"
-  closest_city:
-    name: New England
-    distance_km: 0.12
-- country: US
-  region: ND
   exchange: '339727'
   name: NEW HRADEC
   full_name: New Hradec
   lata: '638'
   ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: ND
-  exchange: '339732'
-  name: NEWLEIPZIG
-  full_name: New Leipzig
-  lata: '638'
-  ilec_name: WEST RIVER TELECOMMUNICATIONS COOP. - ND
   lat:
   long:
 - country: US
@@ -4454,6 +4421,27 @@ rate_centers:
     distance_km: 0.66
 - country: US
   region: ND
+  exchange: '115400'
+  name: NEWENGLAND
+  full_name: New England
+  lata: '638'
+  ilec_name: CONSOLIDATED TELCOM
+  lat: '46.540728'
+  long: "-102.868417"
+  closest_city:
+    name: New England
+    distance_km: 0.12
+- country: US
+  region: ND
+  exchange: '339732'
+  name: NEWLEIPZIG
+  full_name: New Leipzig
+  lata: '638'
+  ilec_name: WEST RIVER TELECOMMUNICATIONS COOP. - ND
+  lat:
+  long:
+- country: US
+  region: ND
   exchange: '115450'
   name: NIAGARA
   full_name: Niagara
@@ -4484,40 +4472,16 @@ rate_centers:
   long:
 - country: US
   region: ND
-  exchange: '115460'
-  name: NOME
-  full_name: Nome
-  lata: '636'
-  ilec_name: INTER-COMMUNITY TELEPHONE COMPANY, LLC
-  lat: '46.683255'
-  long: "-97.809504"
+  exchange: '115550'
+  name: NNWEFFNGTN
+  full_name: North New Effington
+  lata: '640'
+  ilec_name: RC TECHNOLOGIES
+  lat: '45.939791'
+  long: "-96.924229"
   closest_city:
-    name: Nome
-    distance_km: 0.97
-- country: US
-  region: ND
-  exchange: '115470'
-  name: NOONAN
-  full_name: Noonan
-  lata: '638'
-  ilec_name: NORTHWEST COMMUNICATIONS COOP.
-  lat: '48.886191'
-  long: "-103.01869"
-  closest_city:
-    name: Noonan
-    distance_km: 0.75
-- country: US
-  region: ND
-  exchange: '115480'
-  name: NORMA
-  full_name: Norma
-  lata: '638'
-  ilec_name: RESERVATION TEL. COOP.
-  lat: '48.725968'
-  long: "-101.974951"
-  closest_city:
-    name: Kenmare
-    distance_km: 9.25
+    name: Hankinson
+    distance_km: 15.07
 - country: US
   region: ND
   exchange: '115490'
@@ -4532,18 +4496,6 @@ rate_centers:
     distance_km: 10.71
 - country: US
   region: ND
-  exchange: '115500'
-  name: NORTHHECLA
-  full_name: North Hecla
-  lata: '640'
-  ilec_name: JAMES VALLEY COOPERATIVE TELEPHONE COMPANY
-  lat: '45.94268'
-  long: "-98.151887"
-  closest_city:
-    name: Ludden
-    distance_km: 7.57
-- country: US
-  region: ND
   exchange: '115510'
   name: NO LEMMON
   full_name: North Lemmon
@@ -4554,6 +4506,18 @@ rate_centers:
   closest_city:
     name: Haynes
     distance_km: 23.86
+- country: US
+  region: ND
+  exchange: '115560'
+  name: NO VEBLEN
+  full_name: North Veblen
+  lata: '640'
+  ilec_name: RC TECHNOLOGIES
+  lat: '45.943327'
+  long: "-97.290313"
+  closest_city:
+    name: Cayuga
+    distance_km: 16.46
 - country: US
   region: ND
   exchange: '115520'
@@ -4580,6 +4544,18 @@ rate_centers:
     distance_km: 12.96
 - country: US
   region: ND
+  exchange: '115460'
+  name: NOME
+  full_name: Nome
+  lata: '636'
+  ilec_name: INTER-COMMUNITY TELEPHONE COMPANY, LLC
+  lat: '46.683255'
+  long: "-97.809504"
+  closest_city:
+    name: Nome
+    distance_km: 0.97
+- country: US
+  region: ND
   exchange: '115540'
   name: NOMORRISTN
   full_name: North Morristown
@@ -4592,37 +4568,28 @@ rate_centers:
     distance_km: 46.37
 - country: US
   region: ND
-  exchange: '115550'
-  name: NNWEFFNGTN
-  full_name: North New Effington
-  lata: '640'
-  ilec_name: RC TECHNOLOGIES
-  lat: '45.939791'
-  long: "-96.924229"
+  exchange: '115470'
+  name: NOONAN
+  full_name: Noonan
+  lata: '638'
+  ilec_name: NORTHWEST COMMUNICATIONS COOP.
+  lat: '48.886191'
+  long: "-103.01869"
   closest_city:
-    name: Hankinson
-    distance_km: 15.07
+    name: Noonan
+    distance_km: 0.75
 - country: US
   region: ND
-  exchange: '339432'
-  name: NORTHRIVER
-  full_name: North River
-  lata: '636'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: ND
-  exchange: '115560'
-  name: NO VEBLEN
-  full_name: North Veblen
-  lata: '640'
-  ilec_name: RC TECHNOLOGIES
-  lat: '45.943327'
-  long: "-97.290313"
+  exchange: '115480'
+  name: NORMA
+  full_name: Norma
+  lata: '638'
+  ilec_name: RESERVATION TEL. COOP.
+  lat: '48.725968'
+  long: "-101.974951"
   closest_city:
-    name: Cayuga
-    distance_km: 16.46
+    name: Kenmare
+    distance_km: 9.25
 - country: US
   region: ND
   exchange: '339737'
@@ -4630,6 +4597,27 @@ rate_centers:
   full_name: Northgate
   lata: '638'
   ilec_name: NORTHWEST COMMUNICATIONS COOP.
+  lat:
+  long:
+- country: US
+  region: ND
+  exchange: '115500'
+  name: NORTHHECLA
+  full_name: North Hecla
+  lata: '640'
+  ilec_name: JAMES VALLEY COOPERATIVE TELEPHONE COMPANY
+  lat: '45.94268'
+  long: "-98.151887"
+  closest_city:
+    name: Ludden
+    distance_km: 7.57
+- country: US
+  region: ND
+  exchange: '339432'
+  name: NORTHRIVER
+  full_name: North River
+  lata: '636'
+  ilec_name: QWEST CORPORATION
   lat:
   long:
 - country: US
@@ -5348,24 +5336,6 @@ rate_centers:
     distance_km: 0.59
 - country: US
   region: ND
-  exchange: '339479'
-  name: ST JOE
-  full_name: Saint Joe
-  lata: '636'
-  ilec_name: NORTH DAKOTA TELEPHONE CO.
-  lat:
-  long:
-- country: US
-  region: ND
-  exchange: '339793'
-  name: ST JOHN
-  full_name: Saint John
-  lata: '638'
-  ilec_name: TURTLE MOUNTAIN COMMUN., INC.
-  lat:
-  long:
-- country: US
-  region: ND
   exchange: '339773'
   name: SAN HAVEN
   full_name: San Haven
@@ -5570,6 +5540,18 @@ rate_centers:
   long:
 - country: US
   region: ND
+  exchange: '115980'
+  name: SO PRAIRIE
+  full_name: South Prairie
+  lata: '638'
+  ilec_name: SRT COMMUNICATIONS, INC.
+  lat: '48.033889'
+  long: "-101.271291"
+  closest_city:
+    name: Logan
+    distance_km: 15.63
+- country: US
+  region: ND
   exchange: '339786'
   name: SOLEN
   full_name: Solen
@@ -5600,6 +5582,15 @@ rate_centers:
     distance_km: 0.25
 - country: US
   region: ND
+  exchange: '339476'
+  name: SOUTHAM
+  full_name: Southam
+  lata: '636'
+  ilec_name: NORTH DAKOTA TELEPHONE CO.
+  lat:
+  long:
+- country: US
+  region: ND
   exchange: '115970'
   name: SOUTHHEART
   full_name: South Heart
@@ -5610,27 +5601,6 @@ rate_centers:
   closest_city:
     name: South Heart
     distance_km: 0.56
-- country: US
-  region: ND
-  exchange: '115980'
-  name: SO PRAIRIE
-  full_name: South Prairie
-  lata: '638'
-  ilec_name: SRT COMMUNICATIONS, INC.
-  lat: '48.033889'
-  long: "-101.271291"
-  closest_city:
-    name: Logan
-    distance_km: 15.63
-- country: US
-  region: ND
-  exchange: '339476'
-  name: SOUTHAM
-  full_name: Southam
-  lata: '636'
-  ilec_name: NORTH DAKOTA TELEPHONE CO.
-  lat:
-  long:
 - country: US
   region: ND
   exchange: '115990'
@@ -5672,6 +5642,18 @@ rate_centers:
   long:
 - country: US
   region: ND
+  exchange: '116000'
+  name: SQUAW GAP
+  full_name: Homesteaders Gap
+  lata: '638'
+  ilec_name: RESERVATION TEL. COOP.
+  lat: '47.483622'
+  long: "-103.927164"
+  closest_city:
+    name: East Fairview
+    distance_km: 42.16
+- country: US
+  region: ND
   exchange: '116010'
   name: ST ANTHONY
   full_name: St Anthony
@@ -5682,6 +5664,24 @@ rate_centers:
   closest_city:
     name: Mandan
     distance_km: 23.39
+- country: US
+  region: ND
+  exchange: '339479'
+  name: ST JOE
+  full_name: Saint Joe
+  lata: '636'
+  ilec_name: NORTH DAKOTA TELEPHONE CO.
+  lat:
+  long:
+- country: US
+  region: ND
+  exchange: '339793'
+  name: ST JOHN
+  full_name: Saint John
+  lata: '638'
+  ilec_name: TURTLE MOUNTAIN COMMUN., INC.
+  lat:
+  long:
 - country: US
   region: ND
   exchange: '116020'
@@ -6197,6 +6197,30 @@ rate_centers:
   long:
 - country: US
   region: ND
+  exchange: '116350'
+  name: W HALSTAD
+  full_name: West Halstad
+  lata: '636'
+  ilec_name: HALSTAD TEL. CO.
+  lat: '47.349072'
+  long: "-96.862329"
+  closest_city:
+    name: Caledonia
+    distance_km: 12.25
+- country: US
+  region: ND
+  exchange: '116360'
+  name: W NIELSVL
+  full_name: West Nielsville
+  lata: '636'
+  ilec_name: HALSTAD TEL. CO.
+  lat: '47.52675'
+  long: "-96.873496"
+  closest_city:
+    name: Caledonia
+    distance_km: 7.77
+- country: US
+  region: ND
   exchange: '339821'
   name: WABEK
   full_name: Wabek
@@ -6338,18 +6362,6 @@ rate_centers:
   long:
 - country: US
   region: ND
-  exchange: '116340'
-  name: WESTCLIMAX
-  full_name: West Climax
-  lata: '636'
-  ilec_name: HALSTAD TEL. CO.
-  lat: '47.609984'
-  long: "-96.867834"
-  closest_city:
-    name: Caledonia
-    distance_km: 17.01
-- country: US
-  region: ND
   exchange: '114291'
   name: WEST FARGO
   full_name: West Fargo
@@ -6357,30 +6369,6 @@ rate_centers:
   ilec_name: QWEST CORPORATION
   lat:
   long:
-- country: US
-  region: ND
-  exchange: '116350'
-  name: W HALSTAD
-  full_name: West Halstad
-  lata: '636'
-  ilec_name: HALSTAD TEL. CO.
-  lat: '47.349072'
-  long: "-96.862329"
-  closest_city:
-    name: Caledonia
-    distance_km: 12.25
-- country: US
-  region: ND
-  exchange: '116360'
-  name: W NIELSVL
-  full_name: West Nielsville
-  lata: '636'
-  ilec_name: HALSTAD TEL. CO.
-  lat: '47.52675'
-  long: "-96.873496"
-  closest_city:
-    name: Caledonia
-    distance_km: 7.77
 - country: US
   region: ND
   exchange: '116370'
@@ -6393,6 +6381,39 @@ rate_centers:
   closest_city:
     name: Manvel
     distance_km: 13.61
+- country: US
+  region: ND
+  exchange: '116340'
+  name: WESTCLIMAX
+  full_name: West Climax
+  lata: '636'
+  ilec_name: HALSTAD TEL. CO.
+  lat: '47.609984'
+  long: "-96.867834"
+  closest_city:
+    name: Caledonia
+    distance_km: 17.01
+- country: US
+  region: ND
+  exchange: '339826'
+  name: WESTFIELD
+  full_name: Westfield
+  lata: '638'
+  ilec_name: BEK COMMUNICATIONS COOPERATIVE
+  lat:
+  long:
+- country: US
+  region: ND
+  exchange: '116400'
+  name: WESTHOPE
+  full_name: Westhope
+  lata: '638'
+  ilec_name: SRT COMMUNICATIONS, INC.
+  lat: '48.914242'
+  long: "-101.023126"
+  closest_city:
+    name: Westhope
+    distance_km: 0.53
 - country: US
   region: ND
   exchange: '116380'
@@ -6417,27 +6438,6 @@ rate_centers:
   closest_city:
     name: Caledonia
     distance_km: 1.99
-- country: US
-  region: ND
-  exchange: '339826'
-  name: WESTFIELD
-  full_name: Westfield
-  lata: '638'
-  ilec_name: BEK COMMUNICATIONS COOPERATIVE
-  lat:
-  long:
-- country: US
-  region: ND
-  exchange: '116400'
-  name: WESTHOPE
-  full_name: Westhope
-  lata: '638'
-  ilec_name: SRT COMMUNICATIONS, INC.
-  lat: '48.914242'
-  long: "-101.023126"
-  closest_city:
-    name: Westhope
-    distance_km: 0.53
 - country: US
   region: ND
   exchange: '339518'

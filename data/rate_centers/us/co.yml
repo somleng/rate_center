@@ -59,18 +59,6 @@ rate_centers:
     distance_km: 1.24
 - country: US
   region: CO
-  exchange: '025660'
-  name: ALLNSPKLYN
-  full_name: Allens Park-Lyons
-  lata: '656'
-  ilec_name: QWEST CORPORATION
-  lat: '40.216891'
-  long: "-105.336429"
-  closest_city:
-    name: Lyons
-    distance_km: 5.75
-- country: US
-  region: CO
   exchange: '025680'
   name: ALLISON
   full_name: Allison
@@ -81,6 +69,18 @@ rate_centers:
   closest_city:
     name: Arboles
     distance_km: 5.44
+- country: US
+  region: CO
+  exchange: '025660'
+  name: ALLNSPKLYN
+  full_name: Allens Park-Lyons
+  lata: '656'
+  ilec_name: QWEST CORPORATION
+  lat: '40.216891'
+  long: "-105.336429"
+  closest_city:
+    name: Lyons
+    distance_km: 5.75
 - country: US
   region: CO
   exchange: '342329'
@@ -560,15 +560,6 @@ rate_centers:
     distance_km: 2.14
 - country: US
   region: CO
-  exchange: '342346'
-  name: BRISTOL
-  full_name: Bristol
-  lata: '658'
-  ilec_name: CENTURYTEL OF EAGLE, INC. DBA CENTURYLINK
-  lat:
-  long:
-- country: US
-  region: CO
   exchange: '025840'
   name: BRISTOGRND
   full_name: Bristol-Granada
@@ -579,6 +570,15 @@ rate_centers:
   closest_city:
     name: Granada
     distance_km: 0.32
+- country: US
+  region: CO
+  exchange: '342346'
+  name: BRISTOL
+  full_name: Bristol
+  lata: '658'
+  ilec_name: CENTURYTEL OF EAGLE, INC. DBA CENTURYLINK
+  lat:
+  long:
 - country: US
   region: CO
   exchange: '342347'
@@ -921,24 +921,6 @@ rate_centers:
     distance_km: 0.72
 - country: US
   region: CO
-  exchange: '342005'
-  name: CHRY HL VL
-  full_name: Cherry Hills Village
-  lata: '656'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: CO
-  exchange: '342378'
-  name: CY MT AFB
-  full_name: Cheyenne Mountain AFB
-  lata: '658'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: CO
   exchange: '025960'
   name: CHEYENWLLS
   full_name: Cheyenne Wells
@@ -987,6 +969,15 @@ rate_centers:
   long:
 - country: US
   region: CO
+  exchange: '342005'
+  name: CHRY HL VL
+  full_name: Cherry Hills Village
+  lata: '656'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: CO
   exchange: '025970'
   name: CIMARRON
   full_name: Cimarron
@@ -1002,6 +993,15 @@ rate_centers:
   exchange: '342007'
   name: CLARK
   full_name: Clark
+  lata: '656'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: CO
+  exchange: '026156'
+  name: CLCRKCNYON
+  full_name: Coal Creek Canyon
   lata: '656'
   ilec_name: QWEST CORPORATION
   lat:
@@ -1030,15 +1030,6 @@ rate_centers:
   name: COALCREEK
   full_name: Coal Creek
   lata: '658'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: CO
-  exchange: '026156'
-  name: CLCRKCNYON
-  full_name: Coal Creek Canyon
-  lata: '656'
   ilec_name: QWEST CORPORATION
   lat:
   long:
@@ -1083,6 +1074,15 @@ rate_centers:
     distance_km: 0.68
 - country: US
   region: CO
+  exchange: '342012'
+  name: COLMB VLY
+  full_name: Columbine Valley
+  lata: '656'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: CO
   exchange: '025990'
   name: COLORADOCY
   full_name: Colorado City
@@ -1095,78 +1095,6 @@ rate_centers:
     distance_km: 1.08
 - country: US
   region: CO
-  exchange: '026001'
-  name: COLORADO SPRINGS-AIR FORCE ACADEMY
-  full_name: Colorado Springs-Air Force Academy
-  lata: '658'
-  ilec_name: QWEST CORPORATION
-  lat: '38.840471'
-  long: "-104.817061"
-  closest_city:
-    name: Colorado Springs
-    distance_km: 5.74
-- country: US
-  region: CO
-  exchange: '026002'
-  name: COLORADO SPRINGS-BLACK FOREST
-  full_name: Colorado Springs-Black Forest
-  lata: '658'
-  ilec_name: QWEST CORPORATION
-  lat: '38.840471'
-  long: "-104.817061"
-  closest_city:
-    name: Colorado Springs
-    distance_km: 5.74
-- country: US
-  region: CO
-  exchange: '026003'
-  name: COLORADO SPRINGS-EAST
-  full_name: Colorado Springs-East
-  lata: '658'
-  ilec_name: QWEST CORPORATION
-  lat: '38.840471'
-  long: "-104.817061"
-  closest_city:
-    name: Colorado Springs
-    distance_km: 5.74
-- country: US
-  region: CO
-  exchange: 02600A
-  name: COLORADO SPRINGS-FOUNTAIN
-  full_name: Colorado Springs-Fountain
-  lata: '658'
-  ilec_name: QWEST CORPORATION
-  lat: '38.840471'
-  long: "-104.817061"
-  closest_city:
-    name: Colorado Springs
-    distance_km: 5.74
-- country: US
-  region: CO
-  exchange: '026004'
-  name: COLORADO SPRINGS-GATEHOUSE
-  full_name: Colorado Springs-Gatehouse
-  lata: '658'
-  ilec_name: QWEST CORPORATION
-  lat: '38.840471'
-  long: "-104.817061"
-  closest_city:
-    name: Colorado Springs
-    distance_km: 5.74
-- country: US
-  region: CO
-  exchange: '026005'
-  name: COLORADO SPRINGS-GREEN MOUNTAIN FALLS
-  full_name: Colorado Springs-Green Mountain Falls
-  lata: '658'
-  ilec_name: QWEST CORPORATION
-  lat: '38.840471'
-  long: "-104.817061"
-  closest_city:
-    name: Colorado Springs
-    distance_km: 5.74
-- country: US
-  region: CO
   exchange: '026000'
   name: COLORDOSPG
   full_name: Colorado Springs-Main
@@ -1177,87 +1105,6 @@ rate_centers:
   closest_city:
     name: Colorado Springs
     distance_km: 5.74
-- country: US
-  region: CO
-  exchange: '026006'
-  name: COLORADO SPRINGS-MANITOU SPRINGS
-  full_name: Colorado Springs-Manitou Springs
-  lata: '658'
-  ilec_name: QWEST CORPORATION
-  lat: '38.840471'
-  long: "-104.817061"
-  closest_city:
-    name: Colorado Springs
-    distance_km: 5.74
-- country: US
-  region: CO
-  exchange: 02600B
-  name: COLORADO SPRINGS-MONUMENT
-  full_name: Colorado Springs-Monument
-  lata: '658'
-  ilec_name: QWEST CORPORATION
-  lat: '38.840471'
-  long: "-104.817061"
-  closest_city:
-    name: Colorado Springs
-    distance_km: 5.74
-- country: US
-  region: CO
-  exchange: '026007'
-  name: COLORADO SPRINGS-PIKEVIEW
-  full_name: Colorado Springs-Pikeview
-  lata: '658'
-  ilec_name: QWEST CORPORATION
-  lat: '38.840471'
-  long: "-104.817061"
-  closest_city:
-    name: Colorado Springs
-    distance_km: 5.74
-- country: US
-  region: CO
-  exchange: '026008'
-  name: COLORADO SPRINGS-SECURITY
-  full_name: Colorado Springs-Security
-  lata: '658'
-  ilec_name: QWEST CORPORATION
-  lat: '38.840471'
-  long: "-104.817061"
-  closest_city:
-    name: Colorado Springs
-    distance_km: 5.74
-- country: US
-  region: CO
-  exchange: 02600C
-  name: COLORADO SPRINGS-STRATMOOR
-  full_name: Colorado Springs-Stratmoor
-  lata: '658'
-  ilec_name: QWEST CORPORATION
-  lat: '38.840471'
-  long: "-104.817061"
-  closest_city:
-    name: Colorado Springs
-    distance_km: 5.74
-- country: US
-  region: CO
-  exchange: '026009'
-  name: COLORADO SPRINGS-WOODLAND PARK
-  full_name: Colorado Springs-Woodland Park
-  lata: '658'
-  ilec_name: QWEST CORPORATION
-  lat: '38.840471'
-  long: "-104.817061"
-  closest_city:
-    name: Colorado Springs
-    distance_km: 5.74
-- country: US
-  region: CO
-  exchange: '342012'
-  name: COLMB VLY
-  full_name: Columbine Valley
-  lata: '656'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
 - country: US
   region: CO
   exchange: '342013'
@@ -1476,6 +1323,159 @@ rate_centers:
   long:
 - country: US
   region: CO
+  exchange: '342378'
+  name: CY MT AFB
+  full_name: Cheyenne Mountain AFB
+  lata: '658'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: CO
+  exchange: '026001'
+  name: COLORADO SPRINGS-AIR FORCE ACADEMY
+  full_name: Colorado Springs-Air Force Academy
+  lata: '658'
+  ilec_name: QWEST CORPORATION
+  lat: '38.840471'
+  long: "-104.817061"
+  closest_city:
+    name: Colorado Springs
+    distance_km: 5.74
+- country: US
+  region: CO
+  exchange: '026002'
+  name: COLORADO SPRINGS-BLACK FOREST
+  full_name: Colorado Springs-Black Forest
+  lata: '658'
+  ilec_name: QWEST CORPORATION
+  lat: '38.840471'
+  long: "-104.817061"
+  closest_city:
+    name: Colorado Springs
+    distance_km: 5.74
+- country: US
+  region: CO
+  exchange: '026003'
+  name: COLORADO SPRINGS-EAST
+  full_name: Colorado Springs-East
+  lata: '658'
+  ilec_name: QWEST CORPORATION
+  lat: '38.840471'
+  long: "-104.817061"
+  closest_city:
+    name: Colorado Springs
+    distance_km: 5.74
+- country: US
+  region: CO
+  exchange: 02600A
+  name: COLORADO SPRINGS-FOUNTAIN
+  full_name: Colorado Springs-Fountain
+  lata: '658'
+  ilec_name: QWEST CORPORATION
+  lat: '38.840471'
+  long: "-104.817061"
+  closest_city:
+    name: Colorado Springs
+    distance_km: 5.74
+- country: US
+  region: CO
+  exchange: '026004'
+  name: COLORADO SPRINGS-GATEHOUSE
+  full_name: Colorado Springs-Gatehouse
+  lata: '658'
+  ilec_name: QWEST CORPORATION
+  lat: '38.840471'
+  long: "-104.817061"
+  closest_city:
+    name: Colorado Springs
+    distance_km: 5.74
+- country: US
+  region: CO
+  exchange: '026005'
+  name: COLORADO SPRINGS-GREEN MOUNTAIN FALLS
+  full_name: Colorado Springs-Green Mountain Falls
+  lata: '658'
+  ilec_name: QWEST CORPORATION
+  lat: '38.840471'
+  long: "-104.817061"
+  closest_city:
+    name: Colorado Springs
+    distance_km: 5.74
+- country: US
+  region: CO
+  exchange: '026006'
+  name: COLORADO SPRINGS-MANITOU SPRINGS
+  full_name: Colorado Springs-Manitou Springs
+  lata: '658'
+  ilec_name: QWEST CORPORATION
+  lat: '38.840471'
+  long: "-104.817061"
+  closest_city:
+    name: Colorado Springs
+    distance_km: 5.74
+- country: US
+  region: CO
+  exchange: 02600B
+  name: COLORADO SPRINGS-MONUMENT
+  full_name: Colorado Springs-Monument
+  lata: '658'
+  ilec_name: QWEST CORPORATION
+  lat: '38.840471'
+  long: "-104.817061"
+  closest_city:
+    name: Colorado Springs
+    distance_km: 5.74
+- country: US
+  region: CO
+  exchange: '026007'
+  name: COLORADO SPRINGS-PIKEVIEW
+  full_name: Colorado Springs-Pikeview
+  lata: '658'
+  ilec_name: QWEST CORPORATION
+  lat: '38.840471'
+  long: "-104.817061"
+  closest_city:
+    name: Colorado Springs
+    distance_km: 5.74
+- country: US
+  region: CO
+  exchange: '026008'
+  name: COLORADO SPRINGS-SECURITY
+  full_name: Colorado Springs-Security
+  lata: '658'
+  ilec_name: QWEST CORPORATION
+  lat: '38.840471'
+  long: "-104.817061"
+  closest_city:
+    name: Colorado Springs
+    distance_km: 5.74
+- country: US
+  region: CO
+  exchange: 02600C
+  name: COLORADO SPRINGS-STRATMOOR
+  full_name: Colorado Springs-Stratmoor
+  lata: '658'
+  ilec_name: QWEST CORPORATION
+  lat: '38.840471'
+  long: "-104.817061"
+  closest_city:
+    name: Colorado Springs
+    distance_km: 5.74
+- country: US
+  region: CO
+  exchange: '026009'
+  name: COLORADO SPRINGS-WOODLAND PARK
+  full_name: Colorado Springs-Woodland Park
+  lata: '658'
+  ilec_name: QWEST CORPORATION
+  lat: '38.840471'
+  long: "-104.817061"
+  closest_city:
+    name: Colorado Springs
+    distance_km: 5.74
+- country: US
+  region: CO
   exchange: '342026'
   name: DACONO
   full_name: Dacono
@@ -1593,15 +1593,6 @@ rate_centers:
   long:
 - country: US
   region: CO
-  exchange: '342038'
-  name: DENVERSWST
-  full_name: Denver Southwest
-  lata: '656'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: CO
   exchange: '026160'
   name: DENVERSLVN
   full_name: Denver Sullivan
@@ -1612,6 +1603,15 @@ rate_centers:
   closest_city:
     name: Four Square Mile
     distance_km: 1.84
+- country: US
+  region: CO
+  exchange: '342038'
+  name: DENVERSWST
+  full_name: Denver Southwest
+  lata: '656'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
 - country: US
   region: CO
   exchange: '342381'
@@ -2061,32 +2061,20 @@ rate_centers:
   long:
 - country: US
   region: CO
+  exchange: '342391'
+  name: FORT LYON
+  full_name: Fort Lyon
+  lata: '658'
+  ilec_name: CENTURYTEL OF EAGLE, INC. DBA CENTURYLINK
+  lat:
+  long:
+- country: US
+  region: CO
   exchange: '342392'
   name: FORTCARSON
   full_name: Fort Carson
   lata: '658'
   ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: CO
-  exchange: '026340'
-  name: FT COLLINS
-  full_name: Fort Collins
-  lata: '656'
-  ilec_name: QWEST CORPORATION
-  lat: '40.582566'
-  long: "-105.080894"
-  closest_city:
-    name: Fort Collins
-    distance_km: 4.09
-- country: US
-  region: CO
-  exchange: '342395'
-  name: FT GARLAND
-  full_name: Fort Garland
-  lata: '658'
-  ilec_name: BLANCA TEL. CO.
   lat:
   long:
 - country: US
@@ -2101,15 +2089,6 @@ rate_centers:
   closest_city:
     name: Fort Lupton
     distance_km: 0.2
-- country: US
-  region: CO
-  exchange: '342391'
-  name: FORT LYON
-  full_name: Fort Lyon
-  lata: '658'
-  ilec_name: CENTURYTEL OF EAGLE, INC. DBA CENTURYLINK
-  lat:
-  long:
 - country: US
   region: CO
   exchange: '026360'
@@ -2219,6 +2198,27 @@ rate_centers:
   full_name: Fruitvale
   lata: '656'
   ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: CO
+  exchange: '026340'
+  name: FT COLLINS
+  full_name: Fort Collins
+  lata: '656'
+  ilec_name: QWEST CORPORATION
+  lat: '40.582566'
+  long: "-105.080894"
+  closest_city:
+    name: Fort Collins
+    distance_km: 4.09
+- country: US
+  region: CO
+  exchange: '342395'
+  name: FT GARLAND
+  full_name: Fort Garland
+  lata: '658'
+  ilec_name: BLANCA TEL. CO.
   lat:
   long:
 - country: US
@@ -2496,19 +2496,19 @@ rate_centers:
     distance_km: 3.74
 - country: US
   region: CO
-  exchange: '342402'
-  name: GREENMTFLS
-  full_name: Green Mountain Falls
-  lata: '658'
+  exchange: '342105'
+  name: GREENLAND
+  full_name: Greenland
+  lata: '656'
   ilec_name: QWEST CORPORATION
   lat:
   long:
 - country: US
   region: CO
-  exchange: '342105'
-  name: GREENLAND
-  full_name: Greenland
-  lata: '656'
+  exchange: '342402'
+  name: GREENMTFLS
+  full_name: Green Mountain Falls
+  lata: '658'
   ilec_name: QWEST CORPORATION
   lat:
   long:
@@ -2544,15 +2544,6 @@ rate_centers:
     distance_km: 0.68
 - country: US
   region: CO
-  exchange: '026632'
-  name: GUFFEY
-  full_name: Guffey
-  lata: '658'
-  ilec_name: CENTURYTEL OF EAGLE, INC. DBA CENTURYLINK
-  lat:
-  long:
-- country: US
-  region: CO
   exchange: '407939'
   name: GUFFEY
   full_name: Guffey
@@ -2584,6 +2575,15 @@ rate_centers:
   closest_city:
     name: Gypsum
     distance_km: 2.0
+- country: US
+  region: CO
+  exchange: '026632'
+  name: GUFFEY
+  full_name: Guffey
+  lata: '658'
+  ilec_name: CENTURYTEL OF EAGLE, INC. DBA CENTURYLINK
+  lat:
+  long:
 - country: US
   region: CO
   exchange: '342110'
@@ -2799,18 +2799,6 @@ rate_centers:
   long:
 - country: US
   region: CO
-  exchange: '026610'
-  name: HTSLPHRSPG
-  full_name: Hot Sulphur Springs
-  lata: '656'
-  ilec_name: QWEST CORPORATION
-  lat: '40.073446'
-  long: "-106.108852"
-  closest_city:
-    name: Hot Sulphur Springs
-    distance_km: 0.5
-- country: US
-  region: CO
   exchange: '026620'
   name: HOTCHKISS
   full_name: Hotchkiss
@@ -2845,6 +2833,18 @@ rate_centers:
   closest_city:
     name: Wiggins
     distance_km: 23.69
+- country: US
+  region: CO
+  exchange: '026610'
+  name: HTSLPHRSPG
+  full_name: Hot Sulphur Springs
+  lata: '656'
+  ilec_name: QWEST CORPORATION
+  lat: '40.073446'
+  long: "-106.108852"
+  closest_city:
+    name: Hot Sulphur Springs
+    distance_km: 0.5
 - country: US
   region: CO
   exchange: '026650'
@@ -2997,15 +2997,6 @@ rate_centers:
     distance_km: 0.57
 - country: US
   region: CO
-  exchange: '342137'
-  name: JOHNSTOWN
-  full_name: Johnstown
-  lata: '656'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: CO
   exchange: '026700'
   name: JOHNSTMLKN
   full_name: Johnstown-Milliken
@@ -3016,6 +3007,15 @@ rate_centers:
   closest_city:
     name: Johnstown
     distance_km: 3.78
+- country: US
+  region: CO
+  exchange: '342137'
+  name: JOHNSTOWN
+  full_name: Johnstown
+  lata: '656'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
 - country: US
   region: CO
   exchange: '026710'
@@ -3318,15 +3318,6 @@ rate_centers:
     distance_km: 0.88
 - country: US
   region: CO
-  exchange: '342173'
-  name: LST CHANCE
-  full_name: Last Chance
-  lata: '656'
-  ilec_name: EASTERN SLOPE RURAL TEL. ASSN., INC.
-  lat:
-  long:
-- country: US
-  region: CO
   exchange: '342155'
   name: LAWSON
   full_name: Lawson
@@ -3509,6 +3500,15 @@ rate_centers:
   full_name: Lowry
   lata: '656'
   ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: CO
+  exchange: '342173'
+  name: LST CHANCE
+  full_name: Last Chance
+  lata: '656'
+  ilec_name: EASTERN SLOPE RURAL TEL. ASSN., INC.
   lat:
   long:
 - country: US
@@ -3765,15 +3765,6 @@ rate_centers:
   long:
 - country: US
   region: CO
-  exchange: '342201'
-  name: MSVRNTNLPK
-  full_name: Mesa Verde National Park
-  lata: '656'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: CO
   exchange: '342437'
   name: MESITA
   full_name: Mesita
@@ -3961,6 +3952,15 @@ rate_centers:
   closest_city:
     name: Hooper
     distance_km: 0.43
+- country: US
+  region: CO
+  exchange: '342201'
+  name: MSVRNTNLPK
+  full_name: Mesa Verde National Park
+  lata: '656'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
 - country: US
   region: CO
   exchange: '342202'
@@ -4551,18 +4551,6 @@ rate_centers:
   long:
 - country: US
   region: CO
-  exchange: '027251'
-  name: PUEBLO-AVONDALE
-  full_name: Pueblo-Avondale
-  lata: '658'
-  ilec_name: QWEST CORPORATION
-  lat: '38.267236'
-  long: "-104.605968"
-  closest_city:
-    name: Pueblo
-    distance_km: 0.57
-- country: US
-  region: CO
   exchange: '027250'
   name: PUEBLO
   full_name: Pueblo-Main
@@ -4573,24 +4561,6 @@ rate_centers:
   closest_city:
     name: Pueblo
     distance_km: 0.57
-- country: US
-  region: CO
-  exchange: '027252'
-  name: PUEBLO-SUNSET
-  full_name: Pueblo-Sunset
-  lata: '658'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: CO
-  exchange: '027253'
-  name: PUEBLO-VINELAND
-  full_name: Pueblo-Vineland
-  lata: '658'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
 - country: US
   region: CO
   exchange: '027254'
@@ -4615,6 +4585,36 @@ rate_centers:
   name: PURCELL
   full_name: Purcell
   lata: '656'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: CO
+  exchange: '027251'
+  name: PUEBLO-AVONDALE
+  full_name: Pueblo-Avondale
+  lata: '658'
+  ilec_name: QWEST CORPORATION
+  lat: '38.267236'
+  long: "-104.605968"
+  closest_city:
+    name: Pueblo
+    distance_km: 0.57
+- country: US
+  region: CO
+  exchange: '027252'
+  name: PUEBLO-SUNSET
+  full_name: Pueblo-Sunset
+  lata: '658'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: CO
+  exchange: '027253'
+  name: PUEBLO-VINELAND
+  full_name: Pueblo-Vineland
+  lata: '658'
   ilec_name: QWEST CORPORATION
   lat:
   long:
@@ -4650,15 +4650,6 @@ rate_centers:
     distance_km: 0.92
 - country: US
   region: CO
-  exchange: '342250'
-  name: RED CLIFF
-  full_name: Red Cliff
-  lata: '656'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: CO
   exchange: '027270'
   name: RDFTHERLKS
   full_name: Red Feather Lakes
@@ -4669,6 +4660,15 @@ rate_centers:
   closest_city:
     name: Red Feather Lakes
     distance_km: 1.53
+- country: US
+  region: CO
+  exchange: '342250'
+  name: RED CLIFF
+  full_name: Red Cliff
+  lata: '656'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
 - country: US
   region: CO
   exchange: '342251'
@@ -4818,6 +4818,15 @@ rate_centers:
     distance_km: 0.87
 - country: US
   region: CO
+  exchange: '117391'
+  name: S CHAPPELL
+  full_name: South Chappell
+  lata: '646'
+  ilec_name: UNITED TEL CO OF THE WEST DBA CENTURYLINK - NE
+  lat:
+  long:
+- country: US
+  region: CO
   exchange: '027350'
   name: SAGUACHE
   full_name: Saguache
@@ -4886,15 +4895,6 @@ rate_centers:
   full_name: Sanford
   lata: '658'
   ilec_name: CENTURYTEL OF EAGLE, INC. DBA CENTURYLINK
-  lat:
-  long:
-- country: US
-  region: CO
-  exchange: '342482'
-  name: SNGR D CRT
-  full_name: Sangre de Cristo Ranches
-  lata: '658'
-  ilec_name: BLANCA TEL. CO.
   lat:
   long:
 - country: US
@@ -5091,6 +5091,15 @@ rate_centers:
   long:
 - country: US
   region: CO
+  exchange: '342482'
+  name: SNGR D CRT
+  full_name: Sangre de Cristo Ranches
+  lata: '658'
+  ilec_name: BLANCA TEL. CO.
+  lat:
+  long:
+- country: US
+  region: CO
   exchange: '025721'
   name: SNOWMASS
   full_name: Snowmass
@@ -5127,39 +5136,6 @@ rate_centers:
   long:
 - country: US
   region: CO
-  exchange: '027420'
-  name: SOMERSET
-  full_name: Somerset
-  lata: '656'
-  ilec_name: DELTA COUNTY TELE-COMM, INC.
-  lat: '38.926052'
-  long: "-107.467166"
-  closest_city:
-    name: Somerset
-    distance_km: 0.47
-- country: US
-  region: CO
-  exchange: '342483'
-  name: SOPRIS
-  full_name: Sopris
-  lata: '658'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: CO
-  exchange: '027430'
-  name: SOUTHBAGGS
-  full_name: South Baggs
-  lata: '654'
-  ilec_name: DUBOIS TEL. EXCH., INC.
-  lat: '40.992202'
-  long: "-107.63185"
-  closest_city:
-    name: Craig
-    distance_km: 53.22
-- country: US
-  region: CO
   exchange: '027440'
   name: SO BIG SPG
   full_name: South Big Springs
@@ -5170,36 +5146,6 @@ rate_centers:
   closest_city:
     name: Julesburg
     distance_km: 15.93
-- country: US
-  region: CO
-  exchange: '117391'
-  name: S CHAPPELL
-  full_name: South Chappell
-  lata: '646'
-  ilec_name: UNITED TEL CO OF THE WEST DBA CENTURYLINK - NE
-  lat:
-  long:
-- country: US
-  region: CO
-  exchange: '027450'
-  name: SOCHEYENNE
-  full_name: South Cheyenne
-  lata: '654'
-  ilec_name: QWEST CORPORATION
-  lat: '40.999708'
-  long: "-104.776672"
-  closest_city:
-    name: Nunn
-    distance_km: 31.82
-- country: US
-  region: CO
-  exchange: '026131'
-  name: SOUTHFORK
-  full_name: South Fork
-  lata: '658'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
 - country: US
   region: CO
   exchange: '027460'
@@ -5240,6 +5186,60 @@ rate_centers:
   full_name: Southern Ute Indian Reservat
   lata: '656'
   ilec_name: CENTURYTEL OF EAGLE, INC. DBA CENTURYLINK
+  lat:
+  long:
+- country: US
+  region: CO
+  exchange: '027450'
+  name: SOCHEYENNE
+  full_name: South Cheyenne
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat: '40.999708'
+  long: "-104.776672"
+  closest_city:
+    name: Nunn
+    distance_km: 31.82
+- country: US
+  region: CO
+  exchange: '027420'
+  name: SOMERSET
+  full_name: Somerset
+  lata: '656'
+  ilec_name: DELTA COUNTY TELE-COMM, INC.
+  lat: '38.926052'
+  long: "-107.467166"
+  closest_city:
+    name: Somerset
+    distance_km: 0.47
+- country: US
+  region: CO
+  exchange: '342483'
+  name: SOPRIS
+  full_name: Sopris
+  lata: '658'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: CO
+  exchange: '027430'
+  name: SOUTHBAGGS
+  full_name: South Baggs
+  lata: '654'
+  ilec_name: DUBOIS TEL. EXCH., INC.
+  lat: '40.992202'
+  long: "-107.63185"
+  closest_city:
+    name: Craig
+    distance_km: 53.22
+- country: US
+  region: CO
+  exchange: '026131'
+  name: SOUTHFORK
+  full_name: South Fork
+  lata: '658'
+  ilec_name: QWEST CORPORATION
   lat:
   long:
 - country: US
@@ -5667,6 +5667,30 @@ rate_centers:
     distance_km: 4.46
 - country: US
   region: CO
+  exchange: '027640'
+  name: W KANORADO
+  full_name: West Kanorado
+  lata: '534'
+  ilec_name: S & T TEL. COOP. ASSN.
+  lat: '39.351244'
+  long: "-102.059245"
+  closest_city:
+    name: Burlington
+    distance_km: 18.97
+- country: US
+  region: CO
+  exchange: '027660'
+  name: W VENANGO
+  full_name: West Venango
+  lata: '646'
+  ilec_name: GREAT PLAINS COMMUNICATIONS, INC.
+  lat: '40.747933'
+  long: "-102.04002"
+  closest_city:
+    name: Amherst
+    distance_km: 13.29
+- country: US
+  region: CO
   exchange: '027600'
   name: WALDEN
   full_name: Walden
@@ -5760,42 +5784,6 @@ rate_centers:
   long:
 - country: US
   region: CO
-  exchange: '027640'
-  name: W KANORADO
-  full_name: West Kanorado
-  lata: '534'
-  ilec_name: S & T TEL. COOP. ASSN.
-  lat: '39.351244'
-  long: "-102.059245"
-  closest_city:
-    name: Burlington
-    distance_km: 18.97
-- country: US
-  region: CO
-  exchange: '027650'
-  name: WESTMANTER
-  full_name: West Manter
-  lata: '532'
-  ilec_name: PIONEER TEL. ASSN., INC.
-  lat: '37.515399'
-  long: "-102.065166"
-  closest_city:
-    name: Walsh
-    distance_km: 23.81
-- country: US
-  region: CO
-  exchange: '027660'
-  name: W VENANGO
-  full_name: West Venango
-  lata: '646'
-  ilec_name: GREAT PLAINS COMMUNICATIONS, INC.
-  lat: '40.747933'
-  long: "-102.04002"
-  closest_city:
-    name: Amherst
-    distance_km: 13.29
-- country: US
-  region: CO
   exchange: '027670'
   name: WESTCLIFFE
   full_name: Westcliffe
@@ -5815,6 +5803,18 @@ rate_centers:
   ilec_name: QWEST CORPORATION
   lat:
   long:
+- country: US
+  region: CO
+  exchange: '027650'
+  name: WESTMANTER
+  full_name: West Manter
+  lata: '532'
+  ilec_name: PIONEER TEL. ASSN., INC.
+  lat: '37.515399'
+  long: "-102.065166"
+  closest_city:
+    name: Walsh
+    distance_km: 23.81
 - country: US
   region: CO
   exchange: 02615O

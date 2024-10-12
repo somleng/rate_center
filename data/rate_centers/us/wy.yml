@@ -389,19 +389,19 @@ rate_centers:
   long:
 - country: US
   region: WY
-  exchange: '341704'
+  exchange: '341423'
   name: CANYON
-  full_name: Canyon Thomas Fork (Lincoln)
-  lata: '652'
+  full_name: Canyon-Yellowstone National Park (Teton)
+  lata: '650'
   ilec_name: QWEST CORPORATION
   lat:
   long:
 - country: US
   region: WY
-  exchange: '341423'
+  exchange: '341704'
   name: CANYON
-  full_name: Canyon-Yellowstone National Park (Teton)
-  lata: '650'
+  full_name: Canyon Thomas Fork (Lincoln)
+  lata: '652'
   ilec_name: QWEST CORPORATION
   lat:
   long:
@@ -599,18 +599,6 @@ rate_centers:
   long:
 - country: US
   region: WY
-  exchange: '218361'
-  name: DYTNRNCHTR
-  full_name: Dayton-Ranchester
-  lata: '654'
-  ilec_name: QWEST CORPORATION
-  lat: '45.010643'
-  long: "-107.294186"
-  closest_city:
-    name: Parkman
-    distance_km: 6.96
-- country: US
-  region: WY
   exchange: '341775'
   name: DEAVER
   full_name: Deaver
@@ -681,6 +669,18 @@ rate_centers:
   closest_city:
     name: Dubois
     distance_km: 1.14
+- country: US
+  region: WY
+  exchange: '218361'
+  name: DYTNRNCHTR
+  full_name: Dayton-Ranchester
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat: '45.010643'
+  long: "-107.294186"
+  closest_city:
+    name: Parkman
+    distance_km: 6.96
 - country: US
   region: WY
   exchange: '341782'
@@ -818,6 +818,66 @@ rate_centers:
   long:
 - country: US
   region: WY
+  exchange: '341796'
+  name: FORTSTEELE
+  full_name: Fort Steele
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341797'
+  name: FOUR CNRS
+  full_name: Four Corners
+  lata: '654'
+  ilec_name: RT COMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341798'
+  name: FOXPARK
+  full_name: Foxpark
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '217910'
+  name: FRANNIE
+  full_name: Frannie
+  lata: '654'
+  ilec_name: TRI-COUNTY TEL. ASSN., INC.
+  lat: '44.966696'
+  long: "-108.619856"
+  closest_city:
+    name: Frannie
+    distance_km: 0.48
+- country: US
+  region: WY
+  exchange: '341800'
+  name: FRCSEWRAFB
+  full_name: Francis E Warren Air Force Base
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '217920'
+  name: FREEDOM
+  full_name: Freedom
+  lata: '654'
+  ilec_name: SILVER STAR TEL CO INC
+  lat: '42.980087'
+  long: "-111.025977"
+  closest_city:
+    name: Freedom
+    distance_km: 0.66
+- country: US
+  region: WY
   exchange: '218252'
   name: FT BRIDGER
   full_name: Fort Bridger
@@ -845,15 +905,6 @@ rate_centers:
   long:
 - country: US
   region: WY
-  exchange: '341796'
-  name: FORTSTEELE
-  full_name: Fort Steele
-  lata: '654'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: WY
   exchange: '341803'
   name: FTWASHAKIE
   full_name: Fort Washakie
@@ -861,57 +912,6 @@ rate_centers:
   ilec_name: QWEST CORPORATION
   lat:
   long:
-- country: US
-  region: WY
-  exchange: '341797'
-  name: FOUR CNRS
-  full_name: Four Corners
-  lata: '654'
-  ilec_name: RT COMMUNICATIONS
-  lat:
-  long:
-- country: US
-  region: WY
-  exchange: '341798'
-  name: FOXPARK
-  full_name: Foxpark
-  lata: '654'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: WY
-  exchange: '341800'
-  name: FRCSEWRAFB
-  full_name: Francis E Warren Air Force Base
-  lata: '654'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: WY
-  exchange: '217910'
-  name: FRANNIE
-  full_name: Frannie
-  lata: '654'
-  ilec_name: TRI-COUNTY TEL. ASSN., INC.
-  lat: '44.966696'
-  long: "-108.619856"
-  closest_city:
-    name: Frannie
-    distance_km: 0.48
-- country: US
-  region: WY
-  exchange: '217920'
-  name: FREEDOM
-  full_name: Freedom
-  lata: '654'
-  ilec_name: SILVER STAR TEL CO INC
-  lat: '42.980087'
-  long: "-111.025977"
-  closest_city:
-    name: Freedom
-    distance_km: 0.66
 - country: US
   region: WY
   exchange: '341804'
@@ -1466,15 +1466,6 @@ rate_centers:
     distance_km: 0.98
 - country: US
   region: WY
-  exchange: '341849'
-  name: LTLAMERICA
-  full_name: Little America
-  lata: '654'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: WY
   exchange: '341845'
   name: LONETREE
   full_name: Lonetree
@@ -1512,6 +1503,15 @@ rate_centers:
   closest_city:
     name: Lovell
     distance_km: 0.46
+- country: US
+  region: WY
+  exchange: '341849'
+  name: LTLAMERICA
+  full_name: Little America
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
 - country: US
   region: WY
   exchange: '341850'
@@ -1566,15 +1566,6 @@ rate_centers:
   closest_city:
     name: Mammoth
     distance_km: 1.6
-- country: US
-  region: WY
-  exchange: '341427'
-  name: MMMTHHTSPG
-  full_name: Mammoth Hot Springs (Yellowstone Natl Pk) (Park)
-  lata: '650'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
 - country: US
   region: WY
   exchange: '341854'
@@ -1715,6 +1706,15 @@ rate_centers:
   long:
 - country: US
   region: WY
+  exchange: '341427'
+  name: MMMTHHTSPG
+  full_name: Mammoth Hot Springs (Yellowstone Natl Pk) (Park)
+  lata: '650'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
   exchange: '341868'
   name: MONETA
   full_name: Moneta
@@ -1766,15 +1766,6 @@ rate_centers:
   long:
 - country: US
   region: WY
-  exchange: '341874'
-  name: MTN HOME
-  full_name: Mountain Home
-  lata: '654'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: WY
   exchange: '218250'
   name: MT VIEW
   full_name: Mountain View
@@ -1785,6 +1776,15 @@ rate_centers:
   closest_city:
     name: Mountain View
     distance_km: 0.32
+- country: US
+  region: WY
+  exchange: '341874'
+  name: MTN HOME
+  full_name: Mountain Home
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
 - country: US
   region: WY
   exchange: '341875'
@@ -1937,6 +1937,15 @@ rate_centers:
   long:
 - country: US
   region: WY
+  exchange: '341889'
+  name: PINE HAVEN
+  full_name: Pine Haven
+  lata: '654'
+  ilec_name: RT COMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: WY
   exchange: '218280'
   name: PINEBLUFFS
   full_name: Pine Bluffs
@@ -1947,15 +1956,6 @@ rate_centers:
   closest_city:
     name: Pine Bluffs
     distance_km: 0.66
-- country: US
-  region: WY
-  exchange: '341889'
-  name: PINE HAVEN
-  full_name: Pine Haven
-  lata: '654'
-  ilec_name: RT COMMUNICATIONS
-  lat:
-  long:
 - country: US
   region: WY
   exchange: '218290'
@@ -2288,6 +2288,18 @@ rate_centers:
     distance_km: 38.29
 - country: US
   region: WY
+  exchange: '218410'
+  name: SOUTHESRDN
+  full_name: Southeast Sheridan
+  lata: '654'
+  ilec_name: RANGE TEL COOP INC
+  lat: '44.834586'
+  long: "-106.87864"
+  closest_city:
+    name: Sheridan
+    distance_km: 7.99
+- country: US
+  region: WY
   exchange: '341922'
   name: SOUTHPSCTY
   full_name: South Pass City
@@ -2307,18 +2319,6 @@ rate_centers:
   closest_city:
     name: Parkman
     distance_km: 9.5
-- country: US
-  region: WY
-  exchange: '218410'
-  name: SOUTHESRDN
-  full_name: Southeast Sheridan
-  lata: '654'
-  ilec_name: RANGE TEL COOP INC
-  lat: '44.834586'
-  long: "-106.87864"
-  closest_city:
-    name: Sheridan
-    distance_km: 7.99
 - country: US
   region: WY
   exchange: '341923'
@@ -2510,6 +2510,18 @@ rate_centers:
   long:
 - country: US
   region: WY
+  exchange: '218490'
+  name: W EDGEMONT
+  full_name: West Edgemont
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat: '43.299072'
+  long: "-104.058605"
+  closest_city:
+    name: Lance Creek
+    distance_km: 56.77
+- country: US
+  region: WY
   exchange: '341939'
   name: WAMSUTTER
   full_name: Wamsutter
@@ -2531,18 +2543,6 @@ rate_centers:
     distance_km: 14.24
 - country: US
   region: WY
-  exchange: '218490'
-  name: W EDGEMONT
-  full_name: West Edgemont
-  lata: '640'
-  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
-  lat: '43.299072'
-  long: "-104.058605"
-  closest_city:
-    name: Lance Creek
-    distance_km: 56.77
-- country: US
-  region: WY
   exchange: '218500'
   name: WEST LYMAN
   full_name: West Lyman
@@ -2553,18 +2553,6 @@ rate_centers:
   closest_city:
     name: Huntley
     distance_km: 8.85
-- country: US
-  region: WY
-  exchange: '218510'
-  name: WSPEARFISH
-  full_name: West Spearfish
-  lata: '640'
-  ilec_name: QWEST CORPORATION
-  lat: '44.490858'
-  long: "-104.069906"
-  closest_city:
-    name: Beulah
-    distance_km: 6.22
 - country: US
   region: WY
   exchange: '341940'
@@ -2646,6 +2634,18 @@ rate_centers:
   closest_city:
     name: Wright
     distance_km: 1.32
+- country: US
+  region: WY
+  exchange: '218510'
+  name: WSPEARFISH
+  full_name: West Spearfish
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat: '44.490858'
+  long: "-104.069906"
+  closest_city:
+    name: Beulah
+    distance_km: 6.22
 - country: US
   region: WY
   exchange: '341431'

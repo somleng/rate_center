@@ -416,6 +416,15 @@ rate_centers:
   long:
 - country: US
   region: VT
+  exchange: '301343'
+  name: BRIDGERCOR
+  full_name: Bridgewater Corners
+  lata: '124'
+  ilec_name: VERMONT TELEPHONE CO., INC.
+  lat:
+  long:
+- country: US
+  region: VT
   exchange: '205410'
   name: BRIDGEWTR
   full_name: Bridgewater
@@ -426,15 +435,6 @@ rate_centers:
   closest_city:
     name: West Woodstock
     distance_km: 6.54
-- country: US
-  region: VT
-  exchange: '301343'
-  name: BRIDGERCOR
-  full_name: Bridgewater Corners
-  lata: '124'
-  ilec_name: VERMONT TELEPHONE CO., INC.
-  lat:
-  long:
 - country: US
   region: VT
   exchange: '205420'
@@ -611,15 +611,6 @@ rate_centers:
   long:
 - country: US
   region: VT
-  exchange: '301377'
-  name: CTRRUTLAND
-  full_name: Center Rutland
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
-- country: US
-  region: VT
   exchange: '205490'
   name: CHARLOTTE
   full_name: Charlotte
@@ -674,18 +665,18 @@ rate_centers:
   long:
 - country: US
   region: VT
-  exchange: '301368'
-  name: CLARENDON
-  full_name: Clarendon
+  exchange: '301367'
+  name: CLAREDNSPG
+  full_name: Clarendon Springs
   lata: '124'
   ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
   lat:
   long:
 - country: US
   region: VT
-  exchange: '301367'
-  name: CLAREDNSPG
-  full_name: Clarendon Springs
+  exchange: '301368'
+  name: CLARENDON
+  full_name: Clarendon
   lata: '124'
   ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
   lat:
@@ -767,6 +758,15 @@ rate_centers:
   exchange: '301376'
   name: CRFTBRY CM
   full_name: Craftsbury Common
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat:
+  long:
+- country: US
+  region: VT
+  exchange: '301377'
+  name: CTRRUTLAND
+  full_name: Center Rutland
   lata: '124'
   ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
   lat:
@@ -863,84 +863,9 @@ rate_centers:
   long:
 - country: US
   region: VT
-  exchange: '301404'
-  name: EARLINGTON
-  full_name: East Arlington
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
-- country: US
-  region: VT
   exchange: '301386'
   name: E BARNARD
   full_name: East Barnard
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
-- country: US
-  region: VT
-  exchange: '301409'
-  name: EASTBARNET
-  full_name: East Barnet
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
-- country: US
-  region: VT
-  exchange: '301405'
-  name: EAST BARRE
-  full_name: East Barre
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
-- country: US
-  region: VT
-  exchange: '301415'
-  name: EBERKSHIRE
-  full_name: East Berkshire
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
-- country: US
-  region: VT
-  exchange: '301410'
-  name: EASTBETHEL
-  full_name: East Bethel
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
-- country: US
-  region: VT
-  exchange: '301406'
-  name: EAST BURKE
-  full_name: East Burke
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
-- country: US
-  region: VT
-  exchange: '205610'
-  name: EASTCALAIS
-  full_name: East Calais
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat: '44.364546'
-  long: "-72.434533"
-  closest_city:
-    name: Montpelier
-    distance_km: 15.47
-- country: US
-  region: VT
-  exchange: '301416'
-  name: ECHARLESTN
-  full_name: East Charleston
   lata: '124'
   ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
   lat:
@@ -977,36 +902,6 @@ rate_centers:
   long:
 - country: US
   region: VT
-  exchange: '301412'
-  name: EASTDORSET
-  full_name: East Dorset
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
-- country: US
-  region: VT
-  exchange: '301407'
-  name: EAST DOVER
-  full_name: East Dover
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
-- country: US
-  region: VT
-  exchange: '205630'
-  name: EFAIRFIELD
-  full_name: East Fairfield
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat: '44.784301'
-  long: "-72.861905"
-  closest_city:
-    name: Bakersfield
-    distance_km: 4.64
-- country: US
-  region: VT
   exchange: '301390'
   name: E FLETCHER
   full_name: East Fletcher
@@ -1034,27 +929,9 @@ rate_centers:
   long:
 - country: US
   region: VT
-  exchange: '301420'
-  name: EGRANVILLE
-  full_name: East Granville
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
-- country: US
-  region: VT
   exchange: '301393'
   name: E HARDWICK
   full_name: East Hardwick
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
-- country: US
-  region: VT
-  exchange: '301408'
-  name: EAST HAVEN
-  full_name: East Haven
   lata: '124'
   ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
   lat:
@@ -1088,15 +965,6 @@ rate_centers:
   long:
 - country: US
   region: VT
-  exchange: '301423'
-  name: EMONTPELIR
-  full_name: East Montpelier
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
-- country: US
-  region: VT
   exchange: '301397'
   name: E MOUNTAIN
   full_name: East Mountain
@@ -1106,27 +974,9 @@ rate_centers:
   long:
 - country: US
   region: VT
-  exchange: '301413'
-  name: EASTORANGE
-  full_name: East Orange
-  lata: '124'
-  ilec_name: TOPSHAM TEL. CO.
-  lat:
-  long:
-- country: US
-  region: VT
   exchange: '301398'
   name: E PEACHAM
   full_name: East Peacham
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
-- country: US
-  region: VT
-  exchange: '301425'
-  name: EPITTSFORD
-  full_name: East Pittsford
   lata: '124'
   ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
   lat:
@@ -1151,27 +1001,9 @@ rate_centers:
   long:
 - country: US
   region: VT
-  exchange: '301414'
-  name: EASTRUPERT
-  full_name: East Rupert
-  lata: '124'
-  ilec_name: VERMONT TELEPHONE CO., INC.
-  lat:
-  long:
-- country: US
-  region: VT
   exchange: '301401'
   name: E RYEGATE
   full_name: East Ryegate
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
-- country: US
-  region: VT
-  exchange: '301427'
-  name: ESTJOHNSBY
-  full_name: East Saint Johnsbury
   lata: '124'
   ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
   lat:
@@ -1196,11 +1028,122 @@ rate_centers:
   long:
 - country: US
   region: VT
-  exchange: '301429'
-  name: EWALLINGFD
-  full_name: East Wallingford
+  exchange: '301404'
+  name: EARLINGTON
+  full_name: East Arlington
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat:
+  long:
+- country: US
+  region: VT
+  exchange: '301405'
+  name: EAST BARRE
+  full_name: East Barre
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat:
+  long:
+- country: US
+  region: VT
+  exchange: '301406'
+  name: EAST BURKE
+  full_name: East Burke
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat:
+  long:
+- country: US
+  region: VT
+  exchange: '301407'
+  name: EAST DOVER
+  full_name: East Dover
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat:
+  long:
+- country: US
+  region: VT
+  exchange: '301408'
+  name: EAST HAVEN
+  full_name: East Haven
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat:
+  long:
+- country: US
+  region: VT
+  exchange: '301409'
+  name: EASTBARNET
+  full_name: East Barnet
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat:
+  long:
+- country: US
+  region: VT
+  exchange: '301410'
+  name: EASTBETHEL
+  full_name: East Bethel
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat:
+  long:
+- country: US
+  region: VT
+  exchange: '205610'
+  name: EASTCALAIS
+  full_name: East Calais
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat: '44.364546'
+  long: "-72.434533"
+  closest_city:
+    name: Montpelier
+    distance_km: 15.47
+- country: US
+  region: VT
+  exchange: '301412'
+  name: EASTDORSET
+  full_name: East Dorset
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat:
+  long:
+- country: US
+  region: VT
+  exchange: '301413'
+  name: EASTORANGE
+  full_name: East Orange
+  lata: '124'
+  ilec_name: TOPSHAM TEL. CO.
+  lat:
+  long:
+- country: US
+  region: VT
+  exchange: '301414'
+  name: EASTRUPERT
+  full_name: East Rupert
   lata: '124'
   ilec_name: VERMONT TELEPHONE CO., INC.
+  lat:
+  long:
+- country: US
+  region: VT
+  exchange: '301415'
+  name: EBERKSHIRE
+  full_name: East Berkshire
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat:
+  long:
+- country: US
+  region: VT
+  exchange: '301416'
+  name: ECHARLESTN
+  full_name: East Charleston
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
   lat:
   long:
 - country: US
@@ -1217,6 +1160,27 @@ rate_centers:
   exchange: '301418'
   name: EDEN MILLS
   full_name: Eden Mills
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat:
+  long:
+- country: US
+  region: VT
+  exchange: '205630'
+  name: EFAIRFIELD
+  full_name: East Fairfield
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat: '44.784301'
+  long: "-72.861905"
+  closest_city:
+    name: Bakersfield
+    distance_km: 4.64
+- country: US
+  region: VT
+  exchange: '301420'
+  name: EGRANVILLE
+  full_name: East Granville
   lata: '124'
   ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
   lat:
@@ -1241,6 +1205,15 @@ rate_centers:
   long:
 - country: US
   region: VT
+  exchange: '301423'
+  name: EMONTPELIR
+  full_name: East Montpelier
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat:
+  long:
+- country: US
+  region: VT
   exchange: '205640'
   name: ENOSBG FLS
   full_name: Enosburg Falls
@@ -1251,6 +1224,15 @@ rate_centers:
   closest_city:
     name: Enosburg Falls
     distance_km: 0.51
+- country: US
+  region: VT
+  exchange: '301425'
+  name: EPITTSFORD
+  full_name: East Pittsford
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat:
+  long:
 - country: US
   region: VT
   exchange: '205650'
@@ -1265,11 +1247,29 @@ rate_centers:
     distance_km: 0.49
 - country: US
   region: VT
+  exchange: '301427'
+  name: ESTJOHNSBY
+  full_name: East Saint Johnsbury
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat:
+  long:
+- country: US
+  region: VT
   exchange: '301428'
   name: EVANSVILLE
   full_name: Evansville
   lata: '124'
   ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat:
+  long:
+- country: US
+  region: VT
+  exchange: '301429'
+  name: EWALLINGFD
+  full_name: East Wallingford
+  lata: '124'
+  ilec_name: VERMONT TELEPHONE CO., INC.
   lat:
   long:
 - country: US
@@ -1853,27 +1853,9 @@ rate_centers:
   long:
 - country: US
   region: VT
-  exchange: '301495'
-  name: LK DUNMORE
-  full_name: Lake Dunmore
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
-- country: US
-  region: VT
   exchange: '301488'
   name: LAKE MOREY
   full_name: Lake Morey
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
-- country: US
-  region: VT
-  exchange: '301496'
-  name: LKSTCTHRIN
-  full_name: Lake St Catherine
   lata: '124'
   ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
   lat:
@@ -1933,6 +1915,24 @@ rate_centers:
   full_name: Lincoln
   lata: '124'
   ilec_name: WAITSFIELD-FAYSTON TELEPHONE CO., INC.
+  lat:
+  long:
+- country: US
+  region: VT
+  exchange: '301495'
+  name: LK DUNMORE
+  full_name: Lake Dunmore
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat:
+  long:
+- country: US
+  region: VT
+  exchange: '301496'
+  name: LKSTCTHRIN
+  full_name: Lake St Catherine
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
   lat:
   long:
 - country: US
@@ -2102,15 +2102,6 @@ rate_centers:
   long:
 - country: US
   region: VT
-  exchange: '301514'
-  name: MIDLSEXCTR
-  full_name: Middlesex Center
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
-- country: US
-  region: VT
   exchange: '205930'
   name: MIDLETNSPG
   full_name: Middletown Springs
@@ -2121,6 +2112,15 @@ rate_centers:
   closest_city:
     name: Middletown Springs
     distance_km: 0.43
+- country: US
+  region: VT
+  exchange: '301514'
+  name: MIDLSEXCTR
+  full_name: Middlesex Center
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat:
+  long:
 - country: US
   region: VT
   exchange: '301515'
@@ -2144,6 +2144,15 @@ rate_centers:
     distance_km: 8.39
 - country: US
   region: VT
+  exchange: '301517'
+  name: MNTGMRYCTR
+  full_name: Montgomery Center
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF NORTHLAND COMPANY
+  lat:
+  long:
+- country: US
+  region: VT
   exchange: '301518'
   name: MONKTON
   full_name: Monkton
@@ -2163,15 +2172,6 @@ rate_centers:
   closest_city:
     name: Enosburg Falls
     distance_km: 15.62
-- country: US
-  region: VT
-  exchange: '301517'
-  name: MNTGMRYCTR
-  full_name: Montgomery Center
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF NORTHLAND COMPANY
-  lat:
-  long:
 - country: US
   region: VT
   exchange: '205960'
@@ -2246,6 +2246,15 @@ rate_centers:
   long:
 - country: US
   region: VT
+  exchange: '301527'
+  name: MOUNT SNOW
+  full_name: Mount Snow
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat:
+  long:
+- country: US
+  region: VT
   exchange: '205990'
   name: MOUNTHOLLY
   full_name: Mount Holly
@@ -2258,20 +2267,20 @@ rate_centers:
     distance_km: 15.28
 - country: US
   region: VT
-  exchange: '301527'
-  name: MOUNT SNOW
-  full_name: Mount Snow
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
-- country: US
-  region: VT
   exchange: '301529'
   name: MOUNTTABOR
   full_name: Mount Tabor
   lata: '124'
   ilec_name: VERMONT TELEPHONE CO., INC.
+  lat:
+  long:
+- country: US
+  region: VT
+  exchange: '301530'
+  name: N CHITTDEN
+  full_name: North Chittenden
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
   lat:
   long:
 - country: US
@@ -2339,9 +2348,9 @@ rate_centers:
   long:
 - country: US
   region: VT
-  exchange: '301546'
-  name: NOBENINGTN
-  full_name: North Bennington
+  exchange: '301537'
+  name: NMIDDLESEX
+  full_name: North Middlesex
   lata: '124'
   ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
   lat:
@@ -2366,24 +2375,6 @@ rate_centers:
   long:
 - country: US
   region: VT
-  exchange: '301530'
-  name: N CHITTDEN
-  full_name: North Chittenden
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
-- country: US
-  region: VT
-  exchange: '301547'
-  name: NOCLARENDN
-  full_name: North Clarendon
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
-- country: US
-  region: VT
   exchange: '301540'
   name: NO CONCORD
   full_name: North Concord
@@ -2393,81 +2384,9 @@ rate_centers:
   long:
 - country: US
   region: VT
-  exchange: '301548'
-  name: NODANVILLE
-  full_name: North Danville
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
-- country: US
-  region: VT
-  exchange: '301555'
-  name: NORTHDERBY
-  full_name: North Derby
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
-- country: US
-  region: VT
   exchange: '301541'
   name: NO FAIRFAX
   full_name: North Fairfax
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
-- country: US
-  region: VT
-  exchange: '301549'
-  name: NOFERRISBG
-  full_name: North Ferrisburg
-  lata: '124'
-  ilec_name: WAITSFIELD-FAYSTON TELEPHONE CO., INC.
-  lat:
-  long:
-- country: US
-  region: VT
-  exchange: '301550'
-  name: NOHARTLAND
-  full_name: North Hartland
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
-- country: US
-  region: VT
-  exchange: '301553'
-  name: NORTH HERO
-  full_name: North Hero
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
-- country: US
-  region: VT
-  exchange: '301551'
-  name: NOHYDEPARK
-  full_name: North Hyde Park
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
-- country: US
-  region: VT
-  exchange: '301537'
-  name: NMIDDLESEX
-  full_name: North Middlesex
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
-- country: US
-  region: VT
-  exchange: '301552'
-  name: NOMONTPELR
-  full_name: North Montpelier
   lata: '124'
   ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
   lat:
@@ -2510,36 +2429,72 @@ rate_centers:
   long:
 - country: US
   region: VT
-  exchange: '301560'
-  name: NOSHERBURN
-  full_name: North Sherburne
+  exchange: '301546'
+  name: NOBENINGTN
+  full_name: North Bennington
   lata: '124'
-  ilec_name: VERMONT TELEPHONE CO., INC.
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
   lat:
   long:
 - country: US
   region: VT
-  exchange: '301561'
-  name: NOSHREWSBY
-  full_name: North Shrewsbury
+  exchange: '301547'
+  name: NOCLARENDN
+  full_name: North Clarendon
   lata: '124'
-  ilec_name: VERMONT TELEPHONE CO., INC.
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
   lat:
   long:
 - country: US
   region: VT
-  exchange: '206361'
-  name: NORTHSGFLD
-  full_name: North Springfield
+  exchange: '301548'
+  name: NODANVILLE
+  full_name: North Danville
   lata: '124'
-  ilec_name: VERMONT TELEPHONE CO., INC.
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
   lat:
   long:
 - country: US
   region: VT
-  exchange: '301562'
-  name: NOTHETFORD
-  full_name: North Thetford
+  exchange: '301549'
+  name: NOFERRISBG
+  full_name: North Ferrisburg
+  lata: '124'
+  ilec_name: WAITSFIELD-FAYSTON TELEPHONE CO., INC.
+  lat:
+  long:
+- country: US
+  region: VT
+  exchange: '301550'
+  name: NOHARTLAND
+  full_name: North Hartland
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat:
+  long:
+- country: US
+  region: VT
+  exchange: '301551'
+  name: NOHYDEPARK
+  full_name: North Hyde Park
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat:
+  long:
+- country: US
+  region: VT
+  exchange: '301552'
+  name: NOMONTPELR
+  full_name: North Montpelier
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat:
+  long:
+- country: US
+  region: VT
+  exchange: '301553'
+  name: NORTH HERO
+  full_name: North Hero
   lata: '124'
   ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
   lat:
@@ -2558,9 +2513,9 @@ rate_centers:
     distance_km: 0.23
 - country: US
   region: VT
-  exchange: '301563'
-  name: NOWESTMITR
-  full_name: North Westminster
+  exchange: '301555'
+  name: NORTHDERBY
+  full_name: North Derby
   lata: '124'
   ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
   lat:
@@ -2577,6 +2532,15 @@ rate_centers:
   closest_city:
     name: South Barre
     distance_km: 12.64
+- country: US
+  region: VT
+  exchange: '206361'
+  name: NORTHSGFLD
+  full_name: North Springfield
+  lata: '124'
+  ilec_name: VERMONT TELEPHONE CO., INC.
+  lat:
+  long:
 - country: US
   region: VT
   exchange: '206050'
@@ -2601,6 +2565,42 @@ rate_centers:
   closest_city:
     name: Wilder
     distance_km: 4.06
+- country: US
+  region: VT
+  exchange: '301560'
+  name: NOSHERBURN
+  full_name: North Sherburne
+  lata: '124'
+  ilec_name: VERMONT TELEPHONE CO., INC.
+  lat:
+  long:
+- country: US
+  region: VT
+  exchange: '301561'
+  name: NOSHREWSBY
+  full_name: North Shrewsbury
+  lata: '124'
+  ilec_name: VERMONT TELEPHONE CO., INC.
+  lat:
+  long:
+- country: US
+  region: VT
+  exchange: '301562'
+  name: NOTHETFORD
+  full_name: North Thetford
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat:
+  long:
+- country: US
+  region: VT
+  exchange: '301563'
+  name: NOWESTMITR
+  full_name: North Westminster
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat:
+  long:
 - country: US
   region: VT
   exchange: '301564'
@@ -2834,6 +2834,15 @@ rate_centers:
   long:
 - country: US
   region: VT
+  exchange: '301585'
+  name: RANDLPH CT
+  full_name: Randolph Center
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat:
+  long:
+- country: US
+  region: VT
   exchange: '206210'
   name: RANDOLPH
   full_name: Randolph
@@ -2844,15 +2853,6 @@ rate_centers:
   closest_city:
     name: South Royalton
     distance_km: 16.94
-- country: US
-  region: VT
-  exchange: '301585'
-  name: RANDLPH CT
-  full_name: Randolph Center
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
 - country: US
   region: VT
   exchange: '206220'
@@ -3002,24 +3002,6 @@ rate_centers:
   long:
 - country: US
   region: VT
-  exchange: '301641'
-  name: STALBANSBY
-  full_name: Saint Albans Bay
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
-- country: US
-  region: VT
-  exchange: '301639'
-  name: ST GEORGE
-  full_name: Saint George
-  lata: '124'
-  ilec_name: WAITSFIELD-FAYSTON TELEPHONE CO., INC.
-  lat:
-  long:
-- country: US
-  region: VT
   exchange: '206290'
   name: SALISBURY
   full_name: Salisbury
@@ -3051,6 +3033,15 @@ rate_centers:
   closest_city:
     name: Saxtons River
     distance_km: 0.37
+- country: US
+  region: VT
+  exchange: '301604'
+  name: SCHITENDEN
+  full_name: South Chittenden
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat:
+  long:
 - country: US
   region: VT
   exchange: '301605'
@@ -3167,33 +3158,6 @@ rate_centers:
   long:
 - country: US
   region: VT
-  exchange: '301633'
-  name: SOUTHBARRE
-  full_name: South Barre
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
-- country: US
-  region: VT
-  exchange: '301627'
-  name: SOBURLIGTN
-  full_name: South Burlington
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
-- country: US
-  region: VT
-  exchange: '301604'
-  name: SCHITENDEN
-  full_name: South Chittenden
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
-- country: US
-  region: VT
   exchange: '301617'
   name: SO DORSET
   full_name: South Dorset
@@ -3210,36 +3174,6 @@ rate_centers:
   ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
   lat:
   long:
-- country: US
-  region: VT
-  exchange: '301628'
-  name: SOFRANKLIN
-  full_name: South Franklin
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
-- country: US
-  region: VT
-  exchange: '301632'
-  name: SOUTH HERO
-  full_name: South Hero
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
-- country: US
-  region: VT
-  exchange: '206330'
-  name: SOLONDODRY
-  full_name: South Londonderry
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat: '43.18801'
-  long: "-72.818346"
-  closest_city:
-    name: South Londonderry
-    distance_km: 0.59
 - country: US
   region: VT
   exchange: '301619'
@@ -3287,32 +3221,11 @@ rate_centers:
   long:
 - country: US
   region: VT
-  exchange: '206340'
-  name: SOROYALTON
-  full_name: South Royalton
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat: '43.824721'
-  long: "-72.519201"
-  closest_city:
-    name: South Royalton
-    distance_km: 1.41
-- country: US
-  region: VT
   exchange: '301624'
   name: SO RYEGATE
   full_name: South Ryegate
   lata: '124'
   ilec_name: CONSOLIDATED COMMUNICATIONS OF NORTHLAND COMPANY
-  lat:
-  long:
-- country: US
-  region: VT
-  exchange: '301631'
-  name: SOSHAFTSBY
-  full_name: South Shaftsbury
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
   lat:
   long:
 - country: US
@@ -3329,20 +3242,89 @@ rate_centers:
     distance_km: 12.21
 - country: US
   region: VT
-  exchange: '301634'
-  name: SOWALINGFD
-  full_name: South Wallingford
-  lata: '124'
-  ilec_name: VERMONT TELEPHONE CO., INC.
-  lat:
-  long:
-- country: US
-  region: VT
   exchange: '301626'
   name: SO WINDHAM
   full_name: South Windham
   lata: '124'
   ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat:
+  long:
+- country: US
+  region: VT
+  exchange: '301627'
+  name: SOBURLIGTN
+  full_name: South Burlington
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat:
+  long:
+- country: US
+  region: VT
+  exchange: '301628'
+  name: SOFRANKLIN
+  full_name: South Franklin
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat:
+  long:
+- country: US
+  region: VT
+  exchange: '206330'
+  name: SOLONDODRY
+  full_name: South Londonderry
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat: '43.18801'
+  long: "-72.818346"
+  closest_city:
+    name: South Londonderry
+    distance_km: 0.59
+- country: US
+  region: VT
+  exchange: '206340'
+  name: SOROYALTON
+  full_name: South Royalton
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat: '43.824721'
+  long: "-72.519201"
+  closest_city:
+    name: South Royalton
+    distance_km: 1.41
+- country: US
+  region: VT
+  exchange: '301631'
+  name: SOSHAFTSBY
+  full_name: South Shaftsbury
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat:
+  long:
+- country: US
+  region: VT
+  exchange: '301632'
+  name: SOUTH HERO
+  full_name: South Hero
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat:
+  long:
+- country: US
+  region: VT
+  exchange: '301633'
+  name: SOUTHBARRE
+  full_name: South Barre
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat:
+  long:
+- country: US
+  region: VT
+  exchange: '301634'
+  name: SOWALINGFD
+  full_name: South Wallingford
+  lata: '124'
+  ilec_name: VERMONT TELEPHONE CO., INC.
   lat:
   long:
 - country: US
@@ -3389,6 +3371,15 @@ rate_centers:
     distance_km: 0.27
 - country: US
   region: VT
+  exchange: '301639'
+  name: ST GEORGE
+  full_name: Saint George
+  lata: '124'
+  ilec_name: WAITSFIELD-FAYSTON TELEPHONE CO., INC.
+  lat:
+  long:
+- country: US
+  region: VT
   exchange: '206380'
   name: ST JOHNSBY
   full_name: St Johnsbury
@@ -3399,6 +3390,15 @@ rate_centers:
   closest_city:
     name: Lyndon
     distance_km: 10.97
+- country: US
+  region: VT
+  exchange: '301641'
+  name: STALBANSBY
+  full_name: Saint Albans Bay
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat:
+  long:
 - country: US
   region: VT
   exchange: '206390'
@@ -3461,18 +3461,18 @@ rate_centers:
   long:
 - country: US
   region: VT
-  exchange: '301649'
-  name: STRATTON
-  full_name: Stratton
+  exchange: '206331'
+  name: STRATTNMTN
+  full_name: Stratton Mountain
   lata: '124'
   ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
   lat:
   long:
 - country: US
   region: VT
-  exchange: '206331'
-  name: STRATTNMTN
-  full_name: Stratton Mountain
+  exchange: '301649'
+  name: STRATTON
+  full_name: Stratton
   lata: '124'
   ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
   lat:
@@ -3536,6 +3536,15 @@ rate_centers:
   long:
 - country: US
   region: VT
+  exchange: '301656'
+  name: THETFD CTR
+  full_name: Thetford Center
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat:
+  long:
+- country: US
+  region: VT
   exchange: '206420'
   name: THETFORD
   full_name: Thetford
@@ -3546,15 +3555,6 @@ rate_centers:
   closest_city:
     name: Wilder
     distance_km: 17.82
-- country: US
-  region: VT
-  exchange: '301656'
-  name: THETFD CTR
-  full_name: Thetford Center
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
 - country: US
   region: VT
   exchange: '301658'
@@ -3668,11 +3668,125 @@ rate_centers:
   long:
 - country: US
   region: VT
-  exchange: '301683'
-  name: WAITSRIVER
-  full_name: Waits River
+  exchange: '301669'
+  name: W ARLINGTN
+  full_name: West Arlington
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat:
+  long:
+- country: US
+  region: VT
+  exchange: '301670'
+  name: W BRAINTRE
+  full_name: West Braintree
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat:
+  long:
+- country: US
+  region: VT
+  exchange: '301671'
+  name: W BROOKFLD
+  full_name: West Brookfield
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat:
+  long:
+- country: US
+  region: VT
+  exchange: '301672'
+  name: W CORNWALL
+  full_name: West Cornwall
+  lata: '124'
+  ilec_name: SHOREHAM TELEPHONE LLC
+  lat:
+  long:
+- country: US
+  region: VT
+  exchange: '301673'
+  name: W DANVILLE
+  full_name: West Danville
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat:
+  long:
+- country: US
+  region: VT
+  exchange: '301674'
+  name: W FAIRLEE
+  full_name: West Fairlee
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat:
+  long:
+- country: US
+  region: VT
+  exchange: '301675'
+  name: W HALIFAX
+  full_name: West Halifax
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat:
+  long:
+- country: US
+  region: VT
+  exchange: '301676'
+  name: W HARTFORD
+  full_name: West Hartford
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat:
+  long:
+- country: US
+  region: VT
+  exchange: '301677'
+  name: W MARLBORO
+  full_name: West Marlboro
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat:
+  long:
+- country: US
+  region: VT
+  exchange: '206560'
+  name: W NEWBURY
+  full_name: West Newbury
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF NORTHLAND COMPANY
+  lat: '44.093113'
+  long: "-72.120488"
+  closest_city:
+    name: Wells River
+    distance_km: 8.23
+- country: US
+  region: VT
+  exchange: '206570'
+  name: W RUTLAND
+  full_name: West Rutland
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat: '43.597374'
+  long: "-73.05173"
+  closest_city:
+    name: Rutland
+    distance_km: 6.06
+- country: US
+  region: VT
+  exchange: '301680'
+  name: W TOPSHAM
+  full_name: West Topsham
   lata: '124'
   ilec_name: TOPSHAM TEL. CO.
+  lat:
+  long:
+- country: US
+  region: VT
+  exchange: '301681'
+  name: W WINDSOR
+  full_name: West Windsor
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
   lat:
   long:
 - country: US
@@ -3687,6 +3801,15 @@ rate_centers:
   closest_city:
     name: Hanksville
     distance_km: 12.83
+- country: US
+  region: VT
+  exchange: '301683'
+  name: WAITSRIVER
+  full_name: Waits River
+  lata: '124'
+  ilec_name: TOPSHAM TEL. CO.
+  lat:
+  long:
 - country: US
   region: VT
   exchange: '301684'
@@ -3764,15 +3887,6 @@ rate_centers:
     distance_km: 4.92
 - country: US
   region: VT
-  exchange: '301693'
-  name: WATRBRYCTR
-  full_name: Waterbury Center
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
-- country: US
-  region: VT
   exchange: '301691'
   name: WATERFORD
   full_name: Waterford
@@ -3791,6 +3905,69 @@ rate_centers:
   long:
 - country: US
   region: VT
+  exchange: '301693'
+  name: WATRBRYCTR
+  full_name: Waterbury Center
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat:
+  long:
+- country: US
+  region: VT
+  exchange: '301694'
+  name: WBERKSHIRE
+  full_name: West Berkshire
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat:
+  long:
+- country: US
+  region: VT
+  exchange: '301695'
+  name: WBRATTLEBO
+  full_name: West Brattleboro
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat:
+  long:
+- country: US
+  region: VT
+  exchange: '301696'
+  name: WBRIDGEWTR
+  full_name: West Bridgewater
+  lata: '124'
+  ilec_name: VERMONT TELEPHONE CO., INC.
+  lat:
+  long:
+- country: US
+  region: VT
+  exchange: '301697'
+  name: WCASTLETON
+  full_name: West Castleton
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat:
+  long:
+- country: US
+  region: VT
+  exchange: '301698'
+  name: WCHARLESTN
+  full_name: West Charleston
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat:
+  long:
+- country: US
+  region: VT
+  exchange: '301699'
+  name: WEATHEDCTR
+  full_name: Weathersfield Center
+  lata: '124'
+  ilec_name: PERKINSVILLE TEL. CO.
+  lat:
+  long:
+- country: US
+  region: VT
   exchange: '206520'
   name: WEATHESFLD
   full_name: Weathersfield
@@ -3801,15 +3978,6 @@ rate_centers:
   closest_city:
     name: Ascutney
     distance_km: 6.11
-- country: US
-  region: VT
-  exchange: '301699'
-  name: WEATHEDCTR
-  full_name: Weathersfield Center
-  lata: '124'
-  ilec_name: PERKINSVILLE TEL. CO.
-  lat:
-  long:
 - country: US
   region: VT
   exchange: '301701'
@@ -3845,78 +4013,6 @@ rate_centers:
     distance_km: 1.68
 - country: US
   region: VT
-  exchange: '301669'
-  name: W ARLINGTN
-  full_name: West Arlington
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
-- country: US
-  region: VT
-  exchange: '301707'
-  name: WESTBARNET
-  full_name: West Barnet
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
-- country: US
-  region: VT
-  exchange: '301694'
-  name: WBERKSHIRE
-  full_name: West Berkshire
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
-- country: US
-  region: VT
-  exchange: '301708'
-  name: WESTBERLIN
-  full_name: West Berlin
-  lata: '124'
-  ilec_name: NORTHFIELD TEL. CO.
-  lat:
-  long:
-- country: US
-  region: VT
-  exchange: '301670'
-  name: W BRAINTRE
-  full_name: West Braintree
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
-- country: US
-  region: VT
-  exchange: '301695'
-  name: WBRATTLEBO
-  full_name: West Brattleboro
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
-- country: US
-  region: VT
-  exchange: '301696'
-  name: WBRIDGEWTR
-  full_name: West Bridgewater
-  lata: '124'
-  ilec_name: VERMONT TELEPHONE CO., INC.
-  lat:
-  long:
-- country: US
-  region: VT
-  exchange: '301671'
-  name: W BROOKFLD
-  full_name: West Brookfield
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
-- country: US
-  region: VT
   exchange: '206550'
   name: WEST BURKE
   full_name: West Burke
@@ -3929,81 +4025,9 @@ rate_centers:
     distance_km: 0.6
 - country: US
   region: VT
-  exchange: '301697'
-  name: WCASTLETON
-  full_name: West Castleton
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
-- country: US
-  region: VT
-  exchange: '301698'
-  name: WCHARLESTN
-  full_name: West Charleston
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
-- country: US
-  region: VT
-  exchange: '301672'
-  name: W CORNWALL
-  full_name: West Cornwall
-  lata: '124'
-  ilec_name: SHOREHAM TELEPHONE LLC
-  lat:
-  long:
-- country: US
-  region: VT
-  exchange: '301673'
-  name: W DANVILLE
-  full_name: West Danville
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
-- country: US
-  region: VT
   exchange: '301705'
   name: WEST DOVER
   full_name: West Dover
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
-- country: US
-  region: VT
-  exchange: '301674'
-  name: W FAIRLEE
-  full_name: West Fairlee
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
-- country: US
-  region: VT
-  exchange: '301711'
-  name: WESTGLOVER
-  full_name: West Glover
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
-- country: US
-  region: VT
-  exchange: '301675'
-  name: W HALIFAX
-  full_name: West Halifax
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
-- country: US
-  region: VT
-  exchange: '301676'
-  name: W HARTFORD
-  full_name: West Hartford
   lata: '124'
   ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
   lat:
@@ -4019,98 +4043,20 @@ rate_centers:
   long:
 - country: US
   region: VT
-  exchange: '301677'
-  name: W MARLBORO
-  full_name: West Marlboro
+  exchange: '301707'
+  name: WESTBARNET
+  full_name: West Barnet
   lata: '124'
   ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
   lat:
   long:
 - country: US
   region: VT
-  exchange: '206560'
-  name: W NEWBURY
-  full_name: West Newbury
+  exchange: '301708'
+  name: WESTBERLIN
+  full_name: West Berlin
   lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF NORTHLAND COMPANY
-  lat: '44.093113'
-  long: "-72.120488"
-  closest_city:
-    name: Wells River
-    distance_km: 8.23
-- country: US
-  region: VT
-  exchange: '301716'
-  name: WESTPAWLET
-  full_name: West Pawlet
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
-- country: US
-  region: VT
-  exchange: '301717'
-  name: WESTRUPERT
-  full_name: West Rupert
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
-- country: US
-  region: VT
-  exchange: '206570'
-  name: W RUTLAND
-  full_name: West Rutland
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat: '43.597374'
-  long: "-73.05173"
-  closest_city:
-    name: Rutland
-    distance_km: 6.06
-- country: US
-  region: VT
-  exchange: '301680'
-  name: W TOPSHAM
-  full_name: West Topsham
-  lata: '124'
-  ilec_name: TOPSHAM TEL. CO.
-  lat:
-  long:
-- country: US
-  region: VT
-  exchange: '301739'
-  name: WTOWNSHEND
-  full_name: West Townshend
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
-- country: US
-  region: VT
-  exchange: '301740'
-  name: WWARDSBORO
-  full_name: West Wardsboro
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
-- country: US
-  region: VT
-  exchange: '301681'
-  name: W WINDSOR
-  full_name: West Windsor
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
-- country: US
-  region: VT
-  exchange: '301741'
-  name: WWOODSTOCK
-  full_name: West Woodstock
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  ilec_name: NORTHFIELD TEL. CO.
   lat:
   long:
 - country: US
@@ -4127,6 +4073,15 @@ rate_centers:
   exchange: '301710'
   name: WESTFORD
   full_name: Westford
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat:
+  long:
+- country: US
+  region: VT
+  exchange: '301711'
+  name: WESTGLOVER
+  full_name: West Glover
   lata: '124'
   ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
   lat:
@@ -4172,6 +4127,24 @@ rate_centers:
   long:
 - country: US
   region: VT
+  exchange: '301716'
+  name: WESTPAWLET
+  full_name: West Pawlet
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat:
+  long:
+- country: US
+  region: VT
+  exchange: '301717'
+  name: WESTRUPERT
+  full_name: West Rupert
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat:
+  long:
+- country: US
+  region: VT
   exchange: '206590'
   name: WEYBRIDGE
   full_name: Weybridge
@@ -4184,15 +4157,6 @@ rate_centers:
     distance_km: 8.59
 - country: US
   region: VT
-  exchange: '301720'
-  name: WHEELOCK
-  full_name: Wheelock
-  lata: '124'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
-  lat:
-  long:
-- country: US
-  region: VT
   exchange: '206600'
   name: WH RIV JCT
   full_name: White River Junction
@@ -4203,6 +4167,15 @@ rate_centers:
   closest_city:
     name: White River Junction
     distance_km: 0.75
+- country: US
+  region: VT
+  exchange: '301720'
+  name: WHEELOCK
+  full_name: Wheelock
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat:
+  long:
 - country: US
   region: VT
   exchange: '206610'
@@ -4379,6 +4352,33 @@ rate_centers:
   exchange: '301738'
   name: WRIGHTSVL
   full_name: Wrightsville
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat:
+  long:
+- country: US
+  region: VT
+  exchange: '301739'
+  name: WTOWNSHEND
+  full_name: West Townshend
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat:
+  long:
+- country: US
+  region: VT
+  exchange: '301740'
+  name: WWARDSBORO
+  full_name: West Wardsboro
+  lata: '124'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
+  lat:
+  long:
+- country: US
+  region: VT
+  exchange: '301741'
+  name: WWOODSTOCK
+  full_name: West Woodstock
   lata: '124'
   ilec_name: CONSOLIDATED COMMUNICATIONS OF VERMONT COMPANY
   lat:

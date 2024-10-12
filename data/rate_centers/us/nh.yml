@@ -392,15 +392,6 @@ rate_centers:
   long:
 - country: US
   region: NH
-  exchange: '300938'
-  name: CMPHEDDING
-  full_name: Camp Hedding
-  lata: '122'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
-  lat:
-  long:
-- country: US
-  region: NH
   exchange: '123530'
   name: CAMPTON
   full_name: Campton
@@ -485,27 +476,6 @@ rate_centers:
   long:
 - country: US
   region: NH
-  exchange: '123570'
-  name: CTRBARNSTE
-  full_name: Center Barnstead
-  lata: '122'
-  ilec_name: UNION TEL. CO.
-  lat: '43.337793'
-  long: "-71.259595"
-  closest_city:
-    name: Rochester
-    distance_km: 23.13
-- country: US
-  region: NH
-  exchange: '300947'
-  name: CTR CONWAY
-  full_name: Center Conway
-  lata: '122'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
-  lat:
-  long:
-- country: US
-  region: NH
   exchange: '123580'
   name: CENTER HBR
   full_name: Center Harbor
@@ -516,57 +486,6 @@ rate_centers:
   closest_city:
     name: Suissevale
     distance_km: 8.29
-- country: US
-  region: NH
-  exchange: '300948'
-  name: CTR HARBOR
-  full_name: Center Harbor
-  lata: '122'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
-  lat:
-  long:
-- country: US
-  region: NH
-  exchange: '123590'
-  name: CTROSSIPEE
-  full_name: Center Ossipee
-  lata: '122'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
-  lat: '43.757532'
-  long: "-71.154496"
-  closest_city:
-    name: Center Ossipee
-    distance_km: 0.47
-- country: US
-  region: NH
-  exchange: '123600'
-  name: CTRSANDWIH
-  full_name: Center Sandwich
-  lata: '122'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
-  lat: '43.807272'
-  long: "-71.441057"
-  closest_city:
-    name: Center Sandwich
-    distance_km: 0.19
-- country: US
-  region: NH
-  exchange: '300952'
-  name: CTRSTRAFFD
-  full_name: Center Strafford
-  lata: '122'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
-  lat:
-  long:
-- country: US
-  region: NH
-  exchange: '300953'
-  name: CTRTUFTONB
-  full_name: Center Tuftonboro
-  lata: '122'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
-  lat:
-  long:
 - country: US
   region: NH
   exchange: '123610'
@@ -656,6 +575,15 @@ rate_centers:
   long:
 - country: US
   region: NH
+  exchange: '300938'
+  name: CMPHEDDING
+  full_name: Camp Hedding
+  lata: '122'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
+  lat:
+  long:
+- country: US
+  region: NH
   exchange: '123660'
   name: COLEBROOK
   full_name: Colebrook
@@ -704,18 +632,18 @@ rate_centers:
     distance_km: 6.98
 - country: US
   region: NH
-  exchange: '300944'
-  name: CORNISH
-  full_name: Cornish
+  exchange: '300943'
+  name: CORNIHFLAT
+  full_name: Cornish Flat
   lata: '122'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
   lat:
   long:
 - country: US
   region: NH
-  exchange: '300943'
-  name: CORNIHFLAT
-  full_name: Cornish Flat
+  exchange: '300944'
+  name: CORNISH
+  full_name: Cornish
   lata: '122'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
   lat:
@@ -734,6 +662,78 @@ rate_centers:
   exchange: '300946'
   name: CRYSTAL
   full_name: Crystal
+  lata: '122'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
+  lat:
+  long:
+- country: US
+  region: NH
+  exchange: '300947'
+  name: CTR CONWAY
+  full_name: Center Conway
+  lata: '122'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
+  lat:
+  long:
+- country: US
+  region: NH
+  exchange: '300948'
+  name: CTR HARBOR
+  full_name: Center Harbor
+  lata: '122'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
+  lat:
+  long:
+- country: US
+  region: NH
+  exchange: '123570'
+  name: CTRBARNSTE
+  full_name: Center Barnstead
+  lata: '122'
+  ilec_name: UNION TEL. CO.
+  lat: '43.337793'
+  long: "-71.259595"
+  closest_city:
+    name: Rochester
+    distance_km: 23.13
+- country: US
+  region: NH
+  exchange: '123590'
+  name: CTROSSIPEE
+  full_name: Center Ossipee
+  lata: '122'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
+  lat: '43.757532'
+  long: "-71.154496"
+  closest_city:
+    name: Center Ossipee
+    distance_km: 0.47
+- country: US
+  region: NH
+  exchange: '123600'
+  name: CTRSANDWIH
+  full_name: Center Sandwich
+  lata: '122'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
+  lat: '43.807272'
+  long: "-71.441057"
+  closest_city:
+    name: Center Sandwich
+    distance_km: 0.19
+- country: US
+  region: NH
+  exchange: '300952'
+  name: CTRSTRAFFD
+  full_name: Center Strafford
+  lata: '122'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
+  lat:
+  long:
+- country: US
+  region: NH
+  exchange: '300953'
+  name: CTRTUFTONB
+  full_name: Center Tuftonboro
   lata: '122'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
   lat:
@@ -896,38 +896,11 @@ rate_centers:
   long:
 - country: US
   region: NH
-  exchange: '300979'
-  name: EAST ALTON
-  full_name: East Alton
-  lata: '122'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
-  lat:
-  long:
-- country: US
-  region: NH
   exchange: '300970'
   name: E ANDOVER
   full_name: East Andover
   lata: '122'
   ilec_name: KEARSARGE TEL. CO.
-  lat:
-  long:
-- country: US
-  region: NH
-  exchange: '300988'
-  name: EBARRINGTN
-  full_name: East Barrington
-  lata: '122'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
-  lat:
-  long:
-- country: US
-  region: NH
-  exchange: '300982'
-  name: EASTCANDIA
-  full_name: East Candia
-  lata: '122'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
   lat:
   long:
 - country: US
@@ -941,50 +914,11 @@ rate_centers:
   long:
 - country: US
   region: NH
-  exchange: '123780'
-  name: EASTCONWAY
-  full_name: East Conway
-  lata: '122'
-  ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
-  lat: '44.022422'
-  long: "-71.004123"
-  closest_city:
-    name: North Conway
-    distance_km: 9.69
-- country: US
-  region: NH
   exchange: '300972'
   name: E DEERING
   full_name: East Deering
   lata: '122'
   ilec_name: GRANITE STATE TEL., INC.
-  lat:
-  long:
-- country: US
-  region: NH
-  exchange: '300980'
-  name: EAST DERRY
-  full_name: East Derry
-  lata: '122'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
-  lat:
-  long:
-- country: US
-  region: NH
-  exchange: '300990'
-  name: EHAMPSTEAD
-  full_name: East Hampstead
-  lata: '122'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
-  lat:
-  long:
-- country: US
-  region: NH
-  exchange: '300984'
-  name: EASTHEBRON
-  full_name: East Hebron
-  lata: '122'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
   lat:
   long:
 - country: US
@@ -1025,15 +959,6 @@ rate_centers:
   long:
 - country: US
   region: NH
-  exchange: '300997'
-  name: EROCHESTER
-  full_name: East Rochester
-  lata: '122'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
-  lat:
-  long:
-- country: US
-  region: NH
   exchange: '300977'
   name: E SULLIVAN
   full_name: East Sullivan
@@ -1052,9 +977,18 @@ rate_centers:
   long:
 - country: US
   region: NH
-  exchange: '300986'
-  name: EASTTILTON
-  full_name: East Tilton
+  exchange: '300979'
+  name: EAST ALTON
+  full_name: East Alton
+  lata: '122'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
+  lat:
+  long:
+- country: US
+  region: NH
+  exchange: '300980'
+  name: EAST DERRY
+  full_name: East Derry
   lata: '122'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
   lat:
@@ -1070,27 +1004,30 @@ rate_centers:
   long:
 - country: US
   region: NH
-  exchange: '301000'
-  name: EWAKEFIELD
-  full_name: East Wakefield
+  exchange: '300982'
+  name: EASTCANDIA
+  full_name: East Candia
   lata: '122'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
   lat:
   long:
 - country: US
   region: NH
-  exchange: '301001'
-  name: EWESTMORLD
-  full_name: East Westmoreland
+  exchange: '123780'
+  name: EASTCONWAY
+  full_name: East Conway
   lata: '122'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
-  lat:
-  long:
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF MAINE COMPANY
+  lat: '44.022422'
+  long: "-71.004123"
+  closest_city:
+    name: North Conway
+    distance_km: 9.69
 - country: US
   region: NH
-  exchange: '301002'
-  name: EWOLFEBORO
-  full_name: East Wolfeboro
+  exchange: '300984'
+  name: EASTHEBRON
+  full_name: East Hebron
   lata: '122'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
   lat:
@@ -1106,6 +1043,15 @@ rate_centers:
   long:
 - country: US
   region: NH
+  exchange: '300986'
+  name: EASTTILTON
+  full_name: East Tilton
+  lata: '122'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
+  lat:
+  long:
+- country: US
+  region: NH
   exchange: '300987'
   name: EATON CTR
   full_name: Eaton Center
@@ -1115,9 +1061,27 @@ rate_centers:
   long:
 - country: US
   region: NH
+  exchange: '300988'
+  name: EBARRINGTN
+  full_name: East Barrington
+  lata: '122'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
+  lat:
+  long:
+- country: US
+  region: NH
   exchange: '300989'
   name: EFFINGHAM
   full_name: Effingham
+  lata: '122'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
+  lat:
+  long:
+- country: US
+  region: NH
+  exchange: '300990'
+  name: EHAMPSTEAD
+  full_name: East Hampstead
   lata: '122'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
   lat:
@@ -1187,6 +1151,15 @@ rate_centers:
     distance_km: 12.92
 - country: US
   region: NH
+  exchange: '300997'
+  name: EROCHESTER
+  full_name: East Rochester
+  lata: '122'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
+  lat:
+  long:
+- country: US
+  region: NH
   exchange: '123820'
   name: ERROL
   full_name: Errol
@@ -1202,6 +1175,33 @@ rate_centers:
   exchange: '300999'
   name: ETNA
   full_name: Etna
+  lata: '122'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
+  lat:
+  long:
+- country: US
+  region: NH
+  exchange: '301000'
+  name: EWAKEFIELD
+  full_name: East Wakefield
+  lata: '122'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
+  lat:
+  long:
+- country: US
+  region: NH
+  exchange: '301001'
+  name: EWESTMORLD
+  full_name: East Westmoreland
+  lata: '122'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
+  lat:
+  long:
+- country: US
+  region: NH
+  exchange: '301002'
+  name: EWOLFEBORO
+  full_name: East Wolfeboro
   lata: '122'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
   lat:
@@ -1340,18 +1340,6 @@ rate_centers:
   long:
 - country: US
   region: NH
-  exchange: '123880'
-  name: GLNTNIRWRS
-  full_name: Gilmanton Iron Works
-  lata: '122'
-  ilec_name: UNION TEL. CO.
-  lat: '43.418681'
-  long: "-71.297567"
-  closest_city:
-    name: Laconia
-    distance_km: 22.43
-- country: US
-  region: NH
   exchange: '301016'
   name: GILSUM
   full_name: Gilsum
@@ -1386,6 +1374,18 @@ rate_centers:
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
   lat:
   long:
+- country: US
+  region: NH
+  exchange: '123880'
+  name: GLNTNIRWRS
+  full_name: Gilmanton Iron Works
+  lata: '122'
+  ilec_name: UNION TEL. CO.
+  lat: '43.418681'
+  long: "-71.297567"
+  closest_city:
+    name: Laconia
+    distance_km: 22.43
 - country: US
   region: NH
   exchange: '301021'
@@ -1694,18 +1694,6 @@ rate_centers:
     distance_km: 15.7
 - country: US
   region: NH
-  exchange: '124010'
-  name: HLLSBUPVLG
-  full_name: Hillsboro Upper Village
-  lata: '122'
-  ilec_name: GRANITE STATE TEL., INC.
-  lat: '43.130384'
-  long: "-71.977236"
-  closest_city:
-    name: Francestown
-    distance_km: 20.52
-- country: US
-  region: NH
   exchange: '124020'
   name: HINSDALE
   full_name: Hinsdale
@@ -1716,6 +1704,18 @@ rate_centers:
   closest_city:
     name: West Swanzey
     distance_km: 16.44
+- country: US
+  region: NH
+  exchange: '124010'
+  name: HLLSBUPVLG
+  full_name: Hillsboro Upper Village
+  lata: '122'
+  ilec_name: GRANITE STATE TEL., INC.
+  lat: '43.130384'
+  long: "-71.977236"
+  closest_city:
+    name: Francestown
+    distance_km: 20.52
 - country: US
   region: NH
   exchange: '301053'
@@ -2315,18 +2315,18 @@ rate_centers:
   long:
 - country: US
   region: NH
-  exchange: '123601'
-  name: MOULTONBO
-  full_name: Moultonboro
+  exchange: '301111'
+  name: MOULTNBORO
+  full_name: Moultonborough
   lata: '122'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
   lat:
   long:
 - country: US
   region: NH
-  exchange: '301111'
-  name: MOULTNBORO
-  full_name: Moultonborough
+  exchange: '123601'
+  name: MOULTONBO
+  full_name: Moultonboro
   lata: '122'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
   lat:
@@ -2432,24 +2432,6 @@ rate_centers:
     distance_km: 13.73
 - country: US
   region: NH
-  exchange: '301126'
-  name: NEWHAMPTON
-  full_name: New Hampton
-  lata: '122'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
-  lat:
-  long:
-- country: US
-  region: NH
-  exchange: '301129'
-  name: NEWIPSWICH
-  full_name: New Ipswich
-  lata: '122'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
-  lat:
-  long:
-- country: US
-  region: NH
   exchange: '124310'
   name: NEW LONDON
   full_name: New London
@@ -2480,9 +2462,27 @@ rate_centers:
   long:
 - country: US
   region: NH
+  exchange: '301126'
+  name: NEWHAMPTON
+  full_name: New Hampton
+  lata: '122'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
+  lat:
+  long:
+- country: US
+  region: NH
   exchange: '301127'
   name: NEWINGTON
   full_name: Newington
+  lata: '122'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
+  lat:
+  long:
+- country: US
+  region: NH
+  exchange: '301129'
+  name: NEWIPSWICH
+  full_name: New Ipswich
   lata: '122'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
   lat:
@@ -2531,24 +2531,6 @@ rate_centers:
   long:
 - country: US
   region: NH
-  exchange: '301144'
-  name: NOCHARLETN
-  full_name: North Charlestown
-  lata: '122'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
-  lat:
-  long:
-- country: US
-  region: NH
-  exchange: '301145'
-  name: NOCHICHETR
-  full_name: North Chichester
-  lata: '122'
-  ilec_name: KEARSARGE TEL. CO.
-  lat:
-  long:
-- country: US
-  region: NH
   exchange: '124340'
   name: NO CONWAY
   full_name: North Conway
@@ -2559,15 +2541,6 @@ rate_centers:
   closest_city:
     name: North Conway
     distance_km: 1.24
-- country: US
-  region: NH
-  exchange: '301146'
-  name: NODANVILLE
-  full_name: North Danville
-  lata: '122'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
-  lat:
-  long:
 - country: US
   region: NH
   exchange: '301135'
@@ -2588,15 +2561,6 @@ rate_centers:
   long:
 - country: US
   region: NH
-  exchange: '301147'
-  name: NOHINSDALE
-  full_name: North Hinsdale
-  lata: '122'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
-  lat:
-  long:
-- country: US
-  region: NH
   exchange: '301137'
   name: NO NEWPORT
   full_name: North Newport
@@ -2609,42 +2573,6 @@ rate_centers:
   exchange: '301138'
   name: NO PELHAM
   full_name: North Pelham
-  lata: '122'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
-  lat:
-  long:
-- country: US
-  region: NH
-  exchange: '301148'
-  name: NOPEMBROKE
-  full_name: North Pembroke
-  lata: '122'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
-  lat:
-  long:
-- country: US
-  region: NH
-  exchange: '301149'
-  name: NOROCHESTR
-  full_name: North Rochester
-  lata: '122'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
-  lat:
-  long:
-- country: US
-  region: NH
-  exchange: '301151'
-  name: NORTHSALEM
-  full_name: North Salem
-  lata: '122'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
-  lat:
-  long:
-- country: US
-  region: NH
-  exchange: '301158'
-  name: NOSANDWICH
-  full_name: North Sandwich
   lata: '122'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
   lat:
@@ -2693,15 +2621,6 @@ rate_centers:
     distance_km: 1.13
 - country: US
   region: NH
-  exchange: '301155'
-  name: NORTHWEARE
-  full_name: North Weare
-  lata: '122'
-  ilec_name: GRANITE STATE TEL., INC.
-  lat:
-  long:
-- country: US
-  region: NH
   exchange: '301143'
   name: NO WILMOT
   full_name: North Wilmot
@@ -2711,16 +2630,58 @@ rate_centers:
   long:
 - country: US
   region: NH
-  exchange: '124370'
-  name: NOWOODSTOK
-  full_name: North Woodstock
+  exchange: '301144'
+  name: NOCHARLETN
+  full_name: North Charlestown
   lata: '122'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
-  lat: '44.03329'
-  long: "-71.689852"
-  closest_city:
-    name: North Woodstock
-    distance_km: 0.65
+  lat:
+  long:
+- country: US
+  region: NH
+  exchange: '301145'
+  name: NOCHICHETR
+  full_name: North Chichester
+  lata: '122'
+  ilec_name: KEARSARGE TEL. CO.
+  lat:
+  long:
+- country: US
+  region: NH
+  exchange: '301146'
+  name: NODANVILLE
+  full_name: North Danville
+  lata: '122'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
+  lat:
+  long:
+- country: US
+  region: NH
+  exchange: '301147'
+  name: NOHINSDALE
+  full_name: North Hinsdale
+  lata: '122'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
+  lat:
+  long:
+- country: US
+  region: NH
+  exchange: '301148'
+  name: NOPEMBROKE
+  full_name: North Pembroke
+  lata: '122'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
+  lat:
+  long:
+- country: US
+  region: NH
+  exchange: '301149'
+  name: NOROCHESTR
+  full_name: North Rochester
+  lata: '122'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
+  lat:
+  long:
 - country: US
   region: NH
   exchange: '301150'
@@ -2732,9 +2693,54 @@ rate_centers:
   long:
 - country: US
   region: NH
+  exchange: '301151'
+  name: NORTHSALEM
+  full_name: North Salem
+  lata: '122'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
+  lat:
+  long:
+- country: US
+  region: NH
   exchange: '301152'
   name: NORTHUBRLD
   full_name: Northumberland
+  lata: '122'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
+  lat:
+  long:
+- country: US
+  region: NH
+  exchange: '301153'
+  name: NORTHWDCTR
+  full_name: Northwood Center
+  lata: '122'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
+  lat:
+  long:
+- country: US
+  region: NH
+  exchange: '301154'
+  name: NORTHWDRDG
+  full_name: Northwood Ridge
+  lata: '122'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
+  lat:
+  long:
+- country: US
+  region: NH
+  exchange: '301155'
+  name: NORTHWEARE
+  full_name: North Weare
+  lata: '122'
+  ilec_name: GRANITE STATE TEL., INC.
+  lat:
+  long:
+- country: US
+  region: NH
+  exchange: '301156'
+  name: NORTHWNRWS
+  full_name: Northwood Narrows
   lata: '122'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
   lat:
@@ -2753,27 +2759,9 @@ rate_centers:
     distance_km: 20.55
 - country: US
   region: NH
-  exchange: '301153'
-  name: NORTHWDCTR
-  full_name: Northwood Center
-  lata: '122'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
-  lat:
-  long:
-- country: US
-  region: NH
-  exchange: '301156'
-  name: NORTHWNRWS
-  full_name: Northwood Narrows
-  lata: '122'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
-  lat:
-  long:
-- country: US
-  region: NH
-  exchange: '301154'
-  name: NORTHWDRDG
-  full_name: Northwood Ridge
+  exchange: '301158'
+  name: NOSANDWICH
+  full_name: North Sandwich
   lata: '122'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
   lat:
@@ -2787,6 +2775,18 @@ rate_centers:
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
   lat:
   long:
+- country: US
+  region: NH
+  exchange: '124370'
+  name: NOWOODSTOK
+  full_name: North Woodstock
+  lata: '122'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
+  lat: '44.03329'
+  long: "-71.689852"
+  closest_city:
+    name: North Woodstock
+    distance_km: 0.65
 - country: US
   region: NH
   exchange: '301161'
@@ -3293,39 +3293,9 @@ rate_centers:
   long:
 - country: US
   region: NH
-  exchange: '124600'
-  name: SOMERSWTH
-  full_name: Somersworth
-  lata: '122'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
-  lat: '43.263553'
-  long: "-70.864699"
-  closest_city:
-    name: Somersworth
-    distance_km: 2.03
-- country: US
-  region: NH
   exchange: '301210'
   name: SO ACWORTH
   full_name: South Acworth
-  lata: '122'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
-  lat:
-  long:
-- country: US
-  region: NH
-  exchange: '301226'
-  name: SOUTHALTON
-  full_name: South Alton
-  lata: '122'
-  ilec_name: UNION TEL. CO.
-  lat:
-  long:
-- country: US
-  region: NH
-  exchange: '301219'
-  name: SOCHARLETN
-  full_name: South Charlestown
   lata: '122'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
   lat:
@@ -3359,27 +3329,9 @@ rate_centers:
   long:
 - country: US
   region: NH
-  exchange: '301220'
-  name: SODANVILLE
-  full_name: South Danville
-  lata: '122'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
-  lat:
-  long:
-- country: US
-  region: NH
   exchange: '301214'
   name: SO DEERFLD
   full_name: South Deerfield
-  lata: '122'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
-  lat:
-  long:
-- country: US
-  region: NH
-  exchange: '301221'
-  name: SOEFFINGHM
-  full_name: South Effingham
   lata: '122'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
   lat:
@@ -3398,29 +3350,11 @@ rate_centers:
     distance_km: 8.76
 - country: US
   region: NH
-  exchange: '301225'
-  name: SOUTH LEE
-  full_name: South Lee
-  lata: '122'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
-  lat:
-  long:
-- country: US
-  region: NH
   exchange: '301216'
   name: SO LYNDEBO
   full_name: South Lyndeboro
   lata: '122'
   ilec_name: WILTON TEL. CO.
-  lat:
-  long:
-- country: US
-  region: NH
-  exchange: '301222'
-  name: SOMERRIMCK
-  full_name: South Merrimack
-  lata: '122'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
   lat:
   long:
 - country: US
@@ -3443,11 +3377,77 @@ rate_centers:
   long:
 - country: US
   region: NH
+  exchange: '301219'
+  name: SOCHARLETN
+  full_name: South Charlestown
+  lata: '122'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
+  lat:
+  long:
+- country: US
+  region: NH
+  exchange: '301220'
+  name: SODANVILLE
+  full_name: South Danville
+  lata: '122'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
+  lat:
+  long:
+- country: US
+  region: NH
+  exchange: '301221'
+  name: SOEFFINGHM
+  full_name: South Effingham
+  lata: '122'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
+  lat:
+  long:
+- country: US
+  region: NH
+  exchange: '301222'
+  name: SOMERRIMCK
+  full_name: South Merrimack
+  lata: '122'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
+  lat:
+  long:
+- country: US
+  region: NH
+  exchange: '124600'
+  name: SOMERSWTH
+  full_name: Somersworth
+  lata: '122'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
+  lat: '43.263553'
+  long: "-70.864699"
+  closest_city:
+    name: Somersworth
+    distance_km: 2.03
+- country: US
+  region: NH
   exchange: '301224'
   name: SOTAMWORTH
   full_name: South Tamworth
   lata: '122'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
+  lat:
+  long:
+- country: US
+  region: NH
+  exchange: '301225'
+  name: SOUTH LEE
+  full_name: South Lee
+  lata: '122'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
+  lat:
+  long:
+- country: US
+  region: NH
+  exchange: '301226'
+  name: SOUTHALTON
+  full_name: South Alton
+  lata: '122'
+  ilec_name: UNION TEL. CO.
   lat:
   long:
 - country: US
@@ -3722,6 +3722,63 @@ rate_centers:
   long:
 - country: US
   region: NH
+  exchange: '301254'
+  name: W CAMPTON
+  full_name: West Campton
+  lata: '122'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
+  lat:
+  long:
+- country: US
+  region: NH
+  exchange: '124770'
+  name: W LEBANON
+  full_name: West Lebanon
+  lata: '122'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
+  lat: '43.648358'
+  long: "-72.31132"
+  closest_city:
+    name: Lebanon
+    distance_km: 4.9
+- country: US
+  region: NH
+  exchange: '301256'
+  name: W OSSIPEE
+  full_name: West Ossipee
+  lata: '122'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
+  lat:
+  long:
+- country: US
+  region: NH
+  exchange: '301257'
+  name: W SWANZEY
+  full_name: West Swanzey
+  lata: '122'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
+  lat:
+  long:
+- country: US
+  region: NH
+  exchange: '301258'
+  name: W THORNTON
+  full_name: West Thornton
+  lata: '122'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
+  lat:
+  long:
+- country: US
+  region: NH
+  exchange: '301259'
+  name: W WINDHAM
+  full_name: West Windham
+  lata: '122'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
+  lat:
+  long:
+- country: US
+  region: NH
   exchange: '301260'
   name: WAKEFIELD
   full_name: Wakefield
@@ -3788,6 +3845,36 @@ rate_centers:
   long:
 - country: US
   region: NH
+  exchange: '301266'
+  name: WBARRINGTN
+  full_name: West Barrington
+  lata: '122'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
+  lat:
+  long:
+- country: US
+  region: NH
+  exchange: '124760'
+  name: WCHESTEFLD
+  full_name: West Chesterfield
+  lata: '122'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
+  lat: '42.907222'
+  long: "-72.518644"
+  closest_city:
+    name: West Swanzey
+    distance_km: 16.49
+- country: US
+  region: NH
+  exchange: '301268'
+  name: WCTRHARBOR
+  full_name: West Center Harbor
+  lata: '122'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
+  lat:
+  long:
+- country: US
+  region: NH
   exchange: '124750'
   name: WEARE
   full_name: Weare
@@ -3836,18 +3923,18 @@ rate_centers:
   long:
 - country: US
   region: NH
-  exchange: '301274'
-  name: WENTWORTH
-  full_name: Wentworth
+  exchange: '301273'
+  name: WENTWOLCTN
+  full_name: Wentworths Location
   lata: '122'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
   lat:
   long:
 - country: US
   region: NH
-  exchange: '301273'
-  name: WENTWOLCTN
-  full_name: Wentworths Location
+  exchange: '301274'
+  name: WENTWORTH
+  full_name: Wentworth
   lata: '122'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
   lat:
@@ -3863,132 +3950,9 @@ rate_centers:
   long:
 - country: US
   region: NH
-  exchange: '301266'
-  name: WBARRINGTN
-  full_name: West Barrington
-  lata: '122'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
-  lat:
-  long:
-- country: US
-  region: NH
-  exchange: '301254'
-  name: W CAMPTON
-  full_name: West Campton
-  lata: '122'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
-  lat:
-  long:
-- country: US
-  region: NH
-  exchange: '301278'
-  name: WESTCANAAN
-  full_name: West Canaan
-  lata: '122'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
-  lat:
-  long:
-- country: US
-  region: NH
-  exchange: '301268'
-  name: WCTRHARBOR
-  full_name: West Center Harbor
-  lata: '122'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
-  lat:
-  long:
-- country: US
-  region: NH
-  exchange: '124760'
-  name: WCHESTEFLD
-  full_name: West Chesterfield
-  lata: '122'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
-  lat: '42.907222'
-  long: "-72.518644"
-  closest_city:
-    name: West Swanzey
-    distance_km: 16.49
-- country: US
-  region: NH
-  exchange: '301283'
-  name: WHAMPSTEAD
-  full_name: West Hampstead
-  lata: '122'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
-  lat:
-  long:
-- country: US
-  region: NH
-  exchange: '301279'
-  name: WESTHOLLIS
-  full_name: West Hollis
-  lata: '122'
-  ilec_name: HOLLIS TELEPHONE COMPANY, INC.
-  lat:
-  long:
-- country: US
-  region: NH
-  exchange: '301285'
-  name: WHOPKINTON
-  full_name: West Hopkinton
-  lata: '122'
-  ilec_name: MERRIMACK COUNTY TEL. CO.
-  lat:
-  long:
-- country: US
-  region: NH
-  exchange: '124770'
-  name: W LEBANON
-  full_name: West Lebanon
-  lata: '122'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
-  lat: '43.648358'
-  long: "-72.31132"
-  closest_city:
-    name: Lebanon
-    distance_km: 4.9
-- country: US
-  region: NH
   exchange: '301276'
   name: WEST MILAN
   full_name: West Milan
-  lata: '122'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
-  lat:
-  long:
-- country: US
-  region: NH
-  exchange: '301293'
-  name: WNOTTIGHAM
-  full_name: West Nottingham
-  lata: '122'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
-  lat:
-  long:
-- country: US
-  region: NH
-  exchange: '301256'
-  name: W OSSIPEE
-  full_name: West Ossipee
-  lata: '122'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
-  lat:
-  long:
-- country: US
-  region: NH
-  exchange: '301299'
-  name: WPETERBRGH
-  full_name: West Peterborough
-  lata: '122'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
-  lat:
-  long:
-- country: US
-  region: NH
-  exchange: '301281'
-  name: WESTRUMNEY
-  full_name: West Rumney
   lata: '122'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
   lat:
@@ -4004,50 +3968,20 @@ rate_centers:
   long:
 - country: US
   region: NH
-  exchange: '301300'
-  name: WSPRINGFLD
-  full_name: West Springfield
+  exchange: '301278'
+  name: WESTCANAAN
+  full_name: West Canaan
   lata: '122'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
   lat:
   long:
 - country: US
   region: NH
-  exchange: '124780'
-  name: WSTEWATSTN
-  full_name: West Stewartstown
+  exchange: '301279'
+  name: WESTHOLLIS
+  full_name: West Hollis
   lata: '122'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
-  lat: '44.994865'
-  long: "-71.535403"
-  closest_city:
-    name: West Stewartstown
-    distance_km: 0.57
-- country: US
-  region: NH
-  exchange: '301257'
-  name: W SWANZEY
-  full_name: West Swanzey
-  lata: '122'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
-  lat:
-  long:
-- country: US
-  region: NH
-  exchange: '301258'
-  name: W THORNTON
-  full_name: West Thornton
-  lata: '122'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
-  lat:
-  long:
-- country: US
-  region: NH
-  exchange: '301259'
-  name: W WINDHAM
-  full_name: West Windham
-  lata: '122'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
+  ilec_name: HOLLIS TELEPHONE COMPANY, INC.
   lat:
   long:
 - country: US
@@ -4064,9 +3998,27 @@ rate_centers:
     distance_km: 11.71
 - country: US
   region: NH
+  exchange: '301281'
+  name: WESTRUMNEY
+  full_name: West Rumney
+  lata: '122'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
+  lat:
+  long:
+- country: US
+  region: NH
   exchange: '301282'
   name: WESTVILLE
   full_name: Westville
+  lata: '122'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
+  lat:
+  long:
+- country: US
+  region: NH
+  exchange: '301283'
+  name: WHAMPSTEAD
+  full_name: West Hampstead
   lata: '122'
   ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
   lat:
@@ -4083,6 +4035,15 @@ rate_centers:
   closest_city:
     name: Groveton
     distance_km: 27.08
+- country: US
+  region: NH
+  exchange: '301285'
+  name: WHOPKINTON
+  full_name: West Hopkinton
+  lata: '122'
+  ilec_name: MERRIMACK COUNTY TEL. CO.
+  lat:
+  long:
 - country: US
   region: NH
   exchange: '301286'
@@ -4154,6 +4115,24 @@ rate_centers:
   long:
 - country: US
   region: NH
+  exchange: '301293'
+  name: WNOTTIGHAM
+  full_name: West Nottingham
+  lata: '122'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
+  lat:
+  long:
+- country: US
+  region: NH
+  exchange: '301294'
+  name: WOLFEBOFLS
+  full_name: Wolfeboro Falls
+  lata: '122'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
+  lat:
+  long:
+- country: US
+  region: NH
   exchange: '124830'
   name: WOLFEBORO
   full_name: Wolfeboro
@@ -4164,15 +4143,6 @@ rate_centers:
   closest_city:
     name: Melvin Village
     distance_km: 13.78
-- country: US
-  region: NH
-  exchange: '301294'
-  name: WOLFEBOFLS
-  full_name: Wolfeboro Falls
-  lata: '122'
-  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
-  lat:
-  long:
 - country: US
   region: NH
   exchange: '301296'
@@ -4203,3 +4173,33 @@ rate_centers:
   closest_city:
     name: Woodsville
     distance_km: 0.92
+- country: US
+  region: NH
+  exchange: '301299'
+  name: WPETERBRGH
+  full_name: West Peterborough
+  lata: '122'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
+  lat:
+  long:
+- country: US
+  region: NH
+  exchange: '301300'
+  name: WSPRINGFLD
+  full_name: West Springfield
+  lata: '122'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
+  lat:
+  long:
+- country: US
+  region: NH
+  exchange: '124780'
+  name: WSTEWATSTN
+  full_name: West Stewartstown
+  lata: '122'
+  ilec_name: CONSOLIDATED COMM OF NO. NEW ENGLAND-NH
+  lat: '44.994865'
+  long: "-71.535403"
+  closest_city:
+    name: West Stewartstown
+    distance_km: 0.57

@@ -467,15 +467,6 @@ rate_centers:
     distance_km: 0.95
 - country: US
   region: OR
-  exchange: '343725'
-  name: BLKNPHTSPG
-  full_name: Belknap Hot Springs
-  lata: '670'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: OR
   exchange: '343947'
   name: BELLEVUE
   full_name: Bellevue
@@ -536,6 +527,15 @@ rate_centers:
   long:
 - country: US
   region: OR
+  exchange: '343724'
+  name: BLACK CAP
+  full_name: Black Cap
+  lata: '670'
+  ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
+  lat:
+  long:
+- country: US
+  region: OR
   exchange: '159190'
   name: BLACKBUTTE
   full_name: Black Butte
@@ -548,11 +548,11 @@ rate_centers:
     distance_km: 2.13
 - country: US
   region: OR
-  exchange: '343724'
-  name: BLACK CAP
-  full_name: Black Cap
+  exchange: '343725'
+  name: BLKNPHTSPG
+  full_name: Belknap Hot Springs
   lata: '670'
-  ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
+  ilec_name: QWEST CORPORATION
   lat:
   long:
 - country: US
@@ -870,15 +870,6 @@ rate_centers:
   closest_city:
     name: Black Butte Ranch
     distance_km: 2.13
-- country: US
-  region: OR
-  exchange: '343991'
-  name: CP SHERMAN
-  full_name: Camp Sherman
-  lata: '672'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
 - country: US
   region: OR
   exchange: '343969'
@@ -1292,6 +1283,15 @@ rate_centers:
     distance_km: 0.66
 - country: US
   region: OR
+  exchange: '343991'
+  name: CP SHERMAN
+  full_name: Camp Sherman
+  lata: '672'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: OR
   exchange: '343992'
   name: CRANE
   full_name: Crane
@@ -1343,18 +1343,18 @@ rate_centers:
     distance_km: 0.33
 - country: US
   region: OR
-  exchange: '343995'
-  name: CROOKEDRIV
-  full_name: Crooked River
+  exchange: '343994'
+  name: CRKDRIVRAN
+  full_name: Crooked River Ranch
   lata: '672'
   ilec_name: QWEST CORPORATION
   lat:
   long:
 - country: US
   region: OR
-  exchange: '343994'
-  name: CRKDRIVRAN
-  full_name: Crooked River Ranch
+  exchange: '343995'
+  name: CROOKEDRIV
+  full_name: Crooked River
   lata: '672'
   ilec_name: QWEST CORPORATION
   lat:
@@ -1952,18 +1952,6 @@ rate_centers:
     distance_km: 1.14
 - country: US
   region: OR
-  exchange: '159600'
-  name: FT KLAMATH
-  full_name: Fort Klamath
-  lata: '670'
-  ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
-  lat: '42.699131'
-  long: "-121.992202"
-  closest_city:
-    name: Fort Klamath
-    distance_km: 0.65
-- country: US
-  region: OR
   exchange: '344026'
   name: FORT ROCK
   full_name: Fort Rock
@@ -2037,6 +2025,18 @@ rate_centers:
   ilec_name: QWEST CORPORATION
   lat:
   long:
+- country: US
+  region: OR
+  exchange: '159600'
+  name: FT KLAMATH
+  full_name: Fort Klamath
+  lata: '670'
+  ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
+  lat: '42.699131'
+  long: "-121.992202"
+  closest_city:
+    name: Fort Klamath
+    distance_km: 0.65
 - country: US
   region: OR
   exchange: '344032'
@@ -2483,15 +2483,6 @@ rate_centers:
     distance_km: 0.62
 - country: US
   region: OR
-  exchange: '344060'
-  name: HEREFORD
-  full_name: Hereford
-  lata: '672'
-  ilec_name: OREGON TEL. CORP.
-  lat:
-  long:
-- country: US
-  region: OR
   exchange: '219180'
   name: HEREFDUNTY
   full_name: Hereford-Unity
@@ -2502,6 +2493,15 @@ rate_centers:
   closest_city:
     name: Unity
     distance_km: 1.04
+- country: US
+  region: OR
+  exchange: '344060'
+  name: HEREFORD
+  full_name: Hereford
+  lata: '672'
+  ilec_name: OREGON TEL. CORP.
+  lat:
+  long:
 - country: US
   region: OR
   exchange: '159710'
@@ -2678,18 +2678,18 @@ rate_centers:
   long:
 - country: US
   region: OR
-  exchange: '344073'
-  name: INDEPNDNCE
-  full_name: Independence
+  exchange: '218970'
+  name: INDEPENDEN
+  full_name: Independence-Monmouth
   lata: '672'
   ilec_name: QWEST CORPORATION
   lat:
   long:
 - country: US
   region: OR
-  exchange: '218970'
-  name: INDEPENDEN
-  full_name: Independence-Monmouth
+  exchange: '344073'
+  name: INDEPNDNCE
+  full_name: Independence
   lata: '672'
   ilec_name: QWEST CORPORATION
   lat:
@@ -3179,15 +3179,6 @@ rate_centers:
   long:
 - country: US
   region: OR
-  exchange: '344104'
-  name: LINCOLNBCH
-  full_name: Lincoln Beach
-  lata: '672'
-  ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
-  lat:
-  long:
-- country: US
-  region: OR
   exchange: '219000'
   name: LINCOLN CY
   full_name: Lincoln City
@@ -3198,6 +3189,15 @@ rate_centers:
   closest_city:
     name: Lincoln City
     distance_km: 2.02
+- country: US
+  region: OR
+  exchange: '344104'
+  name: LINCOLNBCH
+  full_name: Lincoln Beach
+  lata: '672'
+  ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
+  lat:
+  long:
 - country: US
   region: OR
   exchange: '344105'
@@ -3752,6 +3752,18 @@ rate_centers:
     distance_km: 0.51
 - country: US
   region: OR
+  exchange: '219270'
+  name: MT VERNON
+  full_name: Mount Vernon
+  lata: '672'
+  ilec_name: OREGON TEL. CORP.
+  lat: '44.417783'
+  long: "-119.108245"
+  closest_city:
+    name: Mount Vernon
+    distance_km: 0.41
+- country: US
+  region: OR
   exchange: '218871'
   name: MTHOOD MDW
   full_name: Mount Hood Meadows
@@ -3768,18 +3780,6 @@ rate_centers:
   ilec_name: UNITED TELEPHONE - NORTHWEST DBA CENTURYLINK - OR
   lat:
   long:
-- country: US
-  region: OR
-  exchange: '219270'
-  name: MT VERNON
-  full_name: Mount Vernon
-  lata: '672'
-  ilec_name: OREGON TEL. CORP.
-  lat: '44.417783'
-  long: "-119.108245"
-  closest_city:
-    name: Mount Vernon
-    distance_km: 0.41
 - country: US
   region: OR
   exchange: '344145'
@@ -3926,15 +3926,6 @@ rate_centers:
   long:
 - country: US
   region: OR
-  exchange: '343839'
-  name: NEWPINECRK
-  full_name: New Pine Creek
-  lata: '670'
-  ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
-  lat:
-  long:
-- country: US
-  region: OR
   exchange: '160040'
   name: NEWBERG
   full_name: Newberg
@@ -3945,6 +3936,15 @@ rate_centers:
   closest_city:
     name: Newberg
     distance_km: 1.46
+- country: US
+  region: OR
+  exchange: '343839'
+  name: NEWPINECRK
+  full_name: New Pine Creek
+  lata: '670'
+  ilec_name: CENTURYTEL OF OREGON, INC. DBA CENTURYLINK
+  lat:
+  long:
 - country: US
   region: OR
   exchange: '160050'
@@ -3968,15 +3968,6 @@ rate_centers:
   long:
 - country: US
   region: OR
-  exchange: '159392'
-  name: NORTH BEND
-  full_name: North Bend
-  lata: '670'
-  ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
-  lat:
-  long:
-- country: US
-  region: OR
   exchange: '219220'
   name: NO HARNEY
   full_name: North Harney
@@ -3987,18 +3978,6 @@ rate_centers:
   closest_city:
     name: Crane
     distance_km: 6.44
-- country: US
-  region: OR
-  exchange: '160060'
-  name: NORTH PL
-  full_name: North Plains
-  lata: '672'
-  ilec_name: QWEST CORPORATION
-  lat: '45.599428'
-  long: "-122.989727"
-  closest_city:
-    name: North Plains
-    distance_km: 0.45
 - country: US
   region: OR
   exchange: '219260'
@@ -4023,6 +4002,27 @@ rate_centers:
   closest_city:
     name: Glide
     distance_km: 37.86
+- country: US
+  region: OR
+  exchange: '159392'
+  name: NORTH BEND
+  full_name: North Bend
+  lata: '670'
+  ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
+  lat:
+  long:
+- country: US
+  region: OR
+  exchange: '160060'
+  name: NORTH PL
+  full_name: North Plains
+  lata: '672'
+  ilec_name: QWEST CORPORATION
+  lat: '45.599428'
+  long: "-122.989727"
+  closest_city:
+    name: North Plains
+    distance_km: 0.45
 - country: US
   region: OR
   exchange: '343843'
@@ -4085,15 +4085,6 @@ rate_centers:
   long:
 - country: US
   region: OR
-  exchange: '344162'
-  name: OKGRVMLWKI
-  full_name: Oak Grove Milwaukie
-  lata: '672'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: OR
   exchange: '160100'
   name: OAKGRVMLWK
   full_name: Oak Grove-Milwaukie
@@ -4137,6 +4128,15 @@ rate_centers:
   closest_city:
     name: Odell
     distance_km: 1.2
+- country: US
+  region: OR
+  exchange: '344162'
+  name: OKGRVMLWKI
+  full_name: Oak Grove Milwaukie
+  lata: '672'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
 - country: US
   region: OR
   exchange: '343849'
@@ -4439,18 +4439,6 @@ rate_centers:
   long:
 - country: US
   region: OR
-  exchange: '160200'
-  name: PORTORFORD
-  full_name: Port Orford
-  lata: '670'
-  ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
-  lat: '42.740906'
-  long: "-124.494606"
-  closest_city:
-    name: Port Orford
-    distance_km: 1.0
-- country: US
-  region: OR
   exchange: '160210'
   name: PORTLAND
   full_name: Portland
@@ -4461,6 +4449,18 @@ rate_centers:
   closest_city:
     name: Cedar Mill
     distance_km: 6.74
+- country: US
+  region: OR
+  exchange: '160200'
+  name: PORTORFORD
+  full_name: Port Orford
+  lata: '670'
+  ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
+  lat: '42.740906'
+  long: "-124.494606"
+  closest_city:
+    name: Port Orford
+    distance_km: 1.0
 - country: US
   region: OR
   exchange: '344183'
@@ -4973,15 +4973,6 @@ rate_centers:
     distance_km: 18.56
 - country: US
   region: OR
-  exchange: '343873'
-  name: SELINCAVES
-  full_name: Sea Lion Caves
-  lata: '670'
-  ilec_name: PIONEER TEL. COOPERATIVE
-  lat:
-  long:
-- country: US
-  region: OR
   exchange: '343872'
   name: SEAL ROCK
   full_name: Seal Rock
@@ -5001,6 +4992,15 @@ rate_centers:
   closest_city:
     name: Seaside
     distance_km: 0.72
+- country: US
+  region: OR
+  exchange: '343873'
+  name: SELINCAVES
+  full_name: Sea Lion Caves
+  lata: '670'
+  ilec_name: PIONEER TEL. COOPERATIVE
+  lat:
+  long:
 - country: US
   region: OR
   exchange: '160450'
@@ -5168,27 +5168,6 @@ rate_centers:
   long:
 - country: US
   region: OR
-  exchange: '219363'
-  name: SOMERSET W
-  full_name: Somerset West
-  lata: '672'
-  ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
-  lat:
-  long:
-- country: US
-  region: OR
-  exchange: '160550'
-  name: SOUTHBEACH
-  full_name: South Beach
-  lata: '670'
-  ilec_name: PIONEER TEL. COOPERATIVE
-  lat: '44.606061'
-  long: "-124.030334"
-  closest_city:
-    name: Newport
-    distance_km: 2.61
-- country: US
-  region: OR
   exchange: '160560'
   name: SO HARNEY
   full_name: South Harney
@@ -5208,6 +5187,27 @@ rate_centers:
   ilec_name: OREGON TEL. CORP.
   lat:
   long:
+- country: US
+  region: OR
+  exchange: '219363'
+  name: SOMERSET W
+  full_name: Somerset West
+  lata: '672'
+  ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
+  lat:
+  long:
+- country: US
+  region: OR
+  exchange: '160550'
+  name: SOUTHBEACH
+  full_name: South Beach
+  lata: '670'
+  ilec_name: PIONEER TEL. COOPERATIVE
+  lat: '44.606061'
+  long: "-124.030334"
+  closest_city:
+    name: Newport
+    distance_km: 2.61
 - country: US
   region: OR
   exchange: '160570'
@@ -5234,15 +5234,6 @@ rate_centers:
     distance_km: 0.98
 - country: US
   region: OR
-  exchange: '159181'
-  name: SPRNGRVRRD
-  full_name: Spring River Road
-  lata: '672'
-  ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: OR
   exchange: '344229'
   name: SPRINGBRK
   full_name: Springbrook
@@ -5265,6 +5256,15 @@ rate_centers:
   name: SPRINGFLD
   full_name: Springfield
   lata: '670'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: OR
+  exchange: '159181'
+  name: SPRNGRVRRD
+  full_name: Spring River Road
+  lata: '672'
   ilec_name: QWEST CORPORATION
   lat:
   long:
@@ -5301,18 +5301,6 @@ rate_centers:
   ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
   lat:
   long:
-- country: US
-  region: OR
-  exchange: '160610'
-  name: STFRD-SNDY
-  full_name: Stafford-Sandy
-  lata: '672'
-  ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
-  lat: '45.343814'
-  long: "-122.7147"
-  closest_city:
-    name: Stafford
-    distance_km: 4.63
 - country: US
   region: OR
   exchange: '160620'
@@ -5358,6 +5346,18 @@ rate_centers:
   closest_city:
     name: Stayton
     distance_km: 0.81
+- country: US
+  region: OR
+  exchange: '160610'
+  name: STFRD-SNDY
+  full_name: Stafford-Sandy
+  lata: '672'
+  ilec_name: ZIPLY FIBER NORTHWEST, LLC DBA ZIPLY FIBER
+  lat: '45.343814'
+  long: "-122.7147"
+  closest_city:
+    name: Stafford
+    distance_km: 4.63
 - country: US
   region: OR
   exchange: '344238'
@@ -5873,6 +5873,15 @@ rate_centers:
   long:
 - country: US
   region: OR
+  exchange: '344268'
+  name: W STAYTON
+  full_name: West Stayton
+  lata: '672'
+  ilec_name: STAYTON COOP. TEL. CO.
+  lat:
+  long:
+- country: US
+  region: OR
   exchange: '344269'
   name: WACONDA
   full_name: Waconda
@@ -6064,15 +6073,6 @@ rate_centers:
   full_name: West Linn
   lata: '672'
   ilec_name: QWEST CORPORATION
-  lat:
-  long:
-- country: US
-  region: OR
-  exchange: '344268'
-  name: W STAYTON
-  full_name: West Stayton
-  lata: '672'
-  ilec_name: STAYTON COOP. TEL. CO.
   lat:
   long:
 - country: US

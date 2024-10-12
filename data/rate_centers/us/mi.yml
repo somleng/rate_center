@@ -126,7 +126,7 @@ rate_centers:
   name: ALANSON
   full_name: Alanson
   lata: '348'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
   lat: '45.440821'
   long: "-84.789081"
   closest_city:
@@ -539,20 +539,20 @@ rate_centers:
     distance_km: 0.24
 - country: US
   region: MI
+  exchange: '317595'
+  name: ATLAS
+  full_name: Atlas
+  lata: '340'
+  ilec_name: 'BRIGHTSPEED OF CENTRAL MICHIGAN, INC                      '
+  lat:
+  long:
+- country: US
+  region: MI
   exchange: '317913'
   name: ATLATCMINE
   full_name: Atlantic Mine
   lata: '342'
   ilec_name: MICHIGAN BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: MI
-  exchange: '317595'
-  name: ATLAS
-  full_name: Atlas
-  lata: '340'
-  ilec_name: BRIGHTSPEED OF CENTRAL MICHIGAN, INC
   lat:
   long:
 - country: US
@@ -579,7 +579,7 @@ rate_centers:
   name: AU GRES
   full_name: Au Gres
   lata: '344'
-  ilec_name: BRIGHTSPEED OF CENTRAL MICHIGAN, INC
+  ilec_name: 'BRIGHTSPEED OF CENTRAL MICHIGAN, INC                      '
   lat: '44.048059'
   long: "-83.691291"
   closest_city:
@@ -620,6 +620,15 @@ rate_centers:
     distance_km: 0.67
 - country: US
   region: MI
+  exchange: '317597'
+  name: AUBURN HL
+  full_name: Auburn Hills
+  lata: '340'
+  ilec_name: MICHIGAN BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: MI
   exchange: '083550'
   name: AUBURN HTS
   full_name: Auburn Heights
@@ -630,15 +639,6 @@ rate_centers:
   closest_city:
     name: Auburn Hills
     distance_km: 4.7
-- country: US
-  region: MI
-  exchange: '317597'
-  name: AUBURN HL
-  full_name: Auburn Hills
-  lata: '340'
-  ilec_name: MICHIGAN BELL TEL CO
-  lat:
-  long:
 - country: US
   region: MI
   exchange: '083560'
@@ -1059,7 +1059,7 @@ rate_centers:
   name: BEAR LAKE
   full_name: Bear Lake
   lata: '348'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
   lat: '44.414849'
   long: "-86.151043"
   closest_city:
@@ -1179,7 +1179,7 @@ rate_centers:
   name: BENDON
   full_name: Bendon
   lata: '348'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
   lat:
   long:
 - country: US
@@ -1197,7 +1197,7 @@ rate_centers:
   name: BENTLEY
   full_name: Bentley
   lata: '344'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
   lat:
   long:
 - country: US
@@ -1334,6 +1334,15 @@ rate_centers:
   long:
 - country: US
   region: MI
+  exchange: '318560'
+  name: BGPINEISLK
+  full_name: Big Pine Island Lake
+  lata: '348'
+  ilec_name: MICHIGAN BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: MI
   exchange: '083830'
   name: BIG BAY
   full_name: Big Bay
@@ -1344,15 +1353,6 @@ rate_centers:
   closest_city:
     name: Big Bay
     distance_km: 2.46
-- country: US
-  region: MI
-  exchange: '318560'
-  name: BGPINEISLK
-  full_name: Big Pine Island Lake
-  lata: '348'
-  ilec_name: MICHIGAN BELL TEL CO
-  lat:
-  long:
 - country: US
   region: MI
   exchange: '083840'
@@ -1385,15 +1385,6 @@ rate_centers:
   long:
 - country: US
   region: MI
-  exchange: '317927'
-  name: BIRCHCREEK
-  full_name: Birch Creek
-  lata: '342'
-  ilec_name: MICHIGAN BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: MI
   exchange: '083850'
   name: BIRCH RUN
   full_name: Birch Run
@@ -1404,6 +1395,15 @@ rate_centers:
   closest_city:
     name: Birch Run
     distance_km: 0.17
+- country: US
+  region: MI
+  exchange: '317927'
+  name: BIRCHCREEK
+  full_name: Birch Creek
+  lata: '342'
+  ilec_name: MICHIGAN BELL TEL CO
+  lat:
+  long:
 - country: US
   region: MI
   exchange: '083860'
@@ -1461,7 +1461,7 @@ rate_centers:
   name: BLISS
   full_name: Bliss
   lata: '348'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
   lat:
   long:
 - country: US
@@ -1478,24 +1478,6 @@ rate_centers:
     distance_km: 0.71
 - country: US
   region: MI
-  exchange: '317612'
-  name: BLOOMFIELD
-  full_name: Bloomfield
-  lata: '340'
-  ilec_name: MICHIGAN BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: MI
-  exchange: '317613'
-  name: BLOOMFLHLS
-  full_name: Bloomfield Hills
-  lata: '340'
-  ilec_name: MICHIGAN BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: MI
   exchange: '317610'
   name: BLMFLD TW
   full_name: Bloomfield Township
@@ -1508,6 +1490,24 @@ rate_centers:
   exchange: '317611'
   name: BLMFLD VL
   full_name: Bloomfield Village
+  lata: '340'
+  ilec_name: MICHIGAN BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: MI
+  exchange: '317612'
+  name: BLOOMFIELD
+  full_name: Bloomfield
+  lata: '340'
+  ilec_name: MICHIGAN BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: MI
+  exchange: '317613'
+  name: BLOOMFLHLS
+  full_name: Bloomfield Hills
   lata: '340'
   ilec_name: MICHIGAN BELL TEL CO
   lat:
@@ -1560,7 +1560,7 @@ rate_centers:
   name: BORCULO
   full_name: Borculo
   lata: '348'
-  ilec_name: BRIGHTSPEED OF CENTRAL MICHIGAN, INC
+  ilec_name: 'BRIGHTSPEED OF CENTRAL MICHIGAN, INC                      '
   lat: '42.873784'
   long: "-86.015704"
   closest_city:
@@ -1593,7 +1593,7 @@ rate_centers:
   name: BOYNEFALLS
   full_name: Boyne Falls
   lata: '348'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
   lat: '45.167814'
   long: "-84.917151"
   closest_city:
@@ -1632,7 +1632,7 @@ rate_centers:
   name: BRANT
   full_name: Brant
   lata: '344'
-  ilec_name: BRIGHTSPEED OF CENTRAL MICHIGAN, INC
+  ilec_name: 'BRIGHTSPEED OF CENTRAL MICHIGAN, INC                      '
   lat: '43.258357'
   long: "-84.235183"
   closest_city:
@@ -1823,18 +1823,18 @@ rate_centers:
   long:
 - country: US
   region: MI
-  exchange: '317622'
-  name: BRWNSTN TW
-  full_name: Brownstown Township
+  exchange: '317620'
+  name: BRUCE
+  full_name: Bruce
   lata: '340'
   ilec_name: MICHIGAN BELL TEL CO
   lat:
   long:
 - country: US
   region: MI
-  exchange: '317620'
-  name: BRUCE
-  full_name: Bruce
+  exchange: '317621'
+  name: BRUCE TW
+  full_name: Bruce Township
   lata: '340'
   ilec_name: MICHIGAN BELL TEL CO
   lat:
@@ -1853,15 +1853,6 @@ rate_centers:
     distance_km: 0.92
 - country: US
   region: MI
-  exchange: '317621'
-  name: BRUCE TW
-  full_name: Bruce Township
-  lata: '340'
-  ilec_name: MICHIGAN BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: MI
   exchange: '318578'
   name: BRUNSWICK
   full_name: Brunswick
@@ -1875,12 +1866,21 @@ rate_centers:
   name: BRUTUS
   full_name: Brutus
   lata: '348'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
   lat: '45.492167'
   long: "-84.784083"
   closest_city:
     name: Brutus
     distance_km: 0.29
+- country: US
+  region: MI
+  exchange: '317622'
+  name: BRWNSTN TW
+  full_name: Brownstown Township
+  lata: '340'
+  ilec_name: MICHIGAN BELL TEL CO
+  lat:
+  long:
 - country: US
   region: MI
   exchange: '084070'
@@ -1932,7 +1932,7 @@ rate_centers:
   name: BURDICKVL
   full_name: Burdickville
   lata: '348'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
   lat:
   long:
 - country: US
@@ -1983,7 +1983,7 @@ rate_centers:
   name: BURT LAKE
   full_name: Burt Lake
   lata: '348'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
   lat:
   long:
 - country: US
@@ -2010,7 +2010,7 @@ rate_centers:
   name: BUTTERNUT
   full_name: Butternut
   lata: '344'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
   lat:
   long:
 - country: US
@@ -2117,20 +2117,20 @@ rate_centers:
   long:
 - country: US
   region: MI
-  exchange: '318590'
-  name: CANDIAN LK
-  full_name: Canadian Lakes
-  lata: '348'
-  ilec_name: BRIGHTSPEED OF CENTRAL MICHIGAN, INC
-  lat:
-  long:
-- country: US
-  region: MI
   exchange: '317628'
   name: CANANDAGUA
   full_name: Canandaigua
   lata: '340'
   ilec_name: FRONTIER MIDSTATES, INC. - MI
+  lat:
+  long:
+- country: US
+  region: MI
+  exchange: '318590'
+  name: CANDIAN LK
+  full_name: Canadian Lakes
+  lata: '348'
+  ilec_name: 'BRIGHTSPEED OF CENTRAL MICHIGAN, INC                      '
   lat:
   long:
 - country: US
@@ -2211,7 +2211,7 @@ rate_centers:
   name: CARO
   full_name: Caro
   lata: '344'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
   lat: '43.492076'
   long: "-83.400206"
   closest_city:
@@ -2223,7 +2223,7 @@ rate_centers:
   name: CARP LAKE
   full_name: Carp Lake
   lata: '348'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
   lat:
   long:
 - country: US
@@ -2379,7 +2379,7 @@ rate_centers:
   name: CEDAR
   full_name: Cedar
   lata: '348'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
   lat:
   long:
 - country: US
@@ -2393,20 +2393,11 @@ rate_centers:
   long:
 - country: US
   region: MI
-  exchange: '317937'
-  name: CEDARRIVER
-  full_name: Cedar River
-  lata: '342'
-  ilec_name: MICHIGAN BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: MI
   exchange: '318599'
   name: CEDAR RUN
   full_name: Cedar Run
   lata: '348'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
   lat:
   long:
 - country: US
@@ -2423,11 +2414,20 @@ rate_centers:
     distance_km: 0.81
 - country: US
   region: MI
+  exchange: '317937'
+  name: CEDARRIVER
+  full_name: Cedar River
+  lata: '342'
+  ilec_name: MICHIGAN BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: MI
   exchange: '084310'
   name: CEDARVILLE
   full_name: Cedarville
   lata: '342'
-  ilec_name: BRIGHTSPEED OF UPPER MICHIGAN, INC.
+  ilec_name: 'BRIGHTSPEED OF UPPER MICHIGAN, INC.                       '
   lat: '46.001047'
   long: "-84.356011"
   closest_city:
@@ -2625,7 +2625,7 @@ rate_centers:
   name: CHESANING
   full_name: Chesaning
   lata: '344'
-  ilec_name: BRIGHTSPEED OF CENTRAL MICHIGAN, INC
+  ilec_name: 'BRIGHTSPEED OF CENTRAL MICHIGAN, INC                      '
   lat: '43.180434'
   long: "-84.116066"
   closest_city:
@@ -2676,7 +2676,7 @@ rate_centers:
   name: CHIPPEWALK
   full_name: Chippewa Lake
   lata: '348'
-  ilec_name: BRIGHTSPEED OF CENTRAL MICHIGAN, INC
+  ilec_name: 'BRIGHTSPEED OF CENTRAL MICHIGAN, INC                      '
   lat: '43.741203'
   long: "-85.292079"
   closest_city:
@@ -2825,6 +2825,18 @@ rate_centers:
     distance_km: 0.34
 - country: US
   region: MI
+  exchange: '084550'
+  name: CLIMTMORRS
+  full_name: Clio-Mount Morris
+  lata: '340'
+  ilec_name: MICHIGAN BELL TEL CO
+  lat: '43.140366'
+  long: "-83.689553"
+  closest_city:
+    name: Mount Morris
+    distance_km: 2.64
+- country: US
+  region: MI
   exchange: '084540'
   name: CLINTON
   full_name: Clinton
@@ -2853,18 +2865,6 @@ rate_centers:
   ilec_name: MICHIGAN BELL TEL CO
   lat:
   long:
-- country: US
-  region: MI
-  exchange: '084550'
-  name: CLIMTMORRS
-  full_name: Clio-Mount Morris
-  lata: '340'
-  ilec_name: MICHIGAN BELL TEL CO
-  lat: '43.140366'
-  long: "-83.689553"
-  closest_city:
-    name: Mount Morris
-    distance_km: 2.64
 - country: US
   region: MI
   exchange: '318614'
@@ -2984,6 +2984,15 @@ rate_centers:
   long:
 - country: US
   region: MI
+  exchange: '317650'
+  name: COMERCE TW
+  full_name: Commerce Township
+  lata: '340'
+  ilec_name: MICHIGAN BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: MI
   exchange: '318197'
   name: COMINS
   full_name: Comins
@@ -3003,15 +3012,6 @@ rate_centers:
   closest_city:
     name: Wolverine Lake
     distance_km: 4.05
-- country: US
-  region: MI
-  exchange: '317650'
-  name: COMERCE TW
-  full_name: Commerce Township
-  lata: '340'
-  ilec_name: MICHIGAN BELL TEL CO
-  lat:
-  long:
 - country: US
   region: MI
   exchange: '318619'
@@ -3081,7 +3081,7 @@ rate_centers:
   name: COOKS
   full_name: Cooks
   lata: '342'
-  ilec_name: BRIGHTSPEED OF UPPER MICHIGAN, INC.
+  ilec_name: 'BRIGHTSPEED OF UPPER MICHIGAN, INC.                       '
   lat:
   long:
 - country: US
@@ -3128,18 +3128,18 @@ rate_centers:
     distance_km: 0.49
 - country: US
   region: MI
-  exchange: '317947'
-  name: COPPERCITY
-  full_name: Copper City
+  exchange: '317946'
+  name: COPPER HBR
+  full_name: Copper Harbor
   lata: '342'
   ilec_name: MICHIGAN BELL TEL CO
   lat:
   long:
 - country: US
   region: MI
-  exchange: '317946'
-  name: COPPER HBR
-  full_name: Copper Harbor
+  exchange: '317947'
+  name: COPPERCITY
+  full_name: Copper City
   lata: '342'
   ilec_name: MICHIGAN BELL TEL CO
   lat:
@@ -3201,7 +3201,7 @@ rate_centers:
   name: CORYELL IS
   full_name: Coryell Island
   lata: '342'
-  ilec_name: BRIGHTSPEED OF UPPER MICHIGAN, INC.
+  ilec_name: 'BRIGHTSPEED OF UPPER MICHIGAN, INC.                       '
   lat:
   long:
 - country: US
@@ -3279,12 +3279,21 @@ rate_centers:
   name: CRYSTAL
   full_name: Crystal
   lata: '344'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
   lat: '43.266234'
   long: "-84.9191"
   closest_city:
     name: Crystal
     distance_km: 0.72
+- country: US
+  region: MI
+  exchange: '318202'
+  name: CRYSTAL LK
+  full_name: Crystal Lake
+  lata: '344'
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
+  lat:
+  long:
 - country: US
   region: MI
   exchange: '084730'
@@ -3297,15 +3306,6 @@ rate_centers:
   closest_city:
     name: Crystal Falls
     distance_km: 0.98
-- country: US
-  region: MI
-  exchange: '318202'
-  name: CRYSTAL LK
-  full_name: Crystal Lake
-  lata: '344'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
-  lat:
-  long:
 - country: US
   region: MI
   exchange: '318633'
@@ -3321,7 +3321,7 @@ rate_centers:
   name: CURRAN
   full_name: Curran
   lata: '344'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
   lat:
   long:
 - country: US
@@ -3342,7 +3342,7 @@ rate_centers:
   name: CURTISVL
   full_name: Curtisville
   lata: '344'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
   lat:
   long:
 - country: US
@@ -3429,7 +3429,7 @@ rate_centers:
   name: DE TOUR
   full_name: De Tour
   lata: '342'
-  ilec_name: BRIGHTSPEED OF UPPER MICHIGAN, INC.
+  ilec_name: 'BRIGHTSPEED OF UPPER MICHIGAN, INC.                       '
   lat: '45.989357'
   long: "-83.899875"
   closest_city:
@@ -3816,7 +3816,7 @@ rate_centers:
   name: DRYBURG
   full_name: Dryburg
   lata: '342'
-  ilec_name: BRIGHTSPEED OF UPPER MICHIGAN, INC.
+  ilec_name: 'BRIGHTSPEED OF UPPER MICHIGAN, INC.                       '
   lat:
   long:
 - country: US
@@ -3908,6 +3908,24 @@ rate_centers:
     distance_km: 4.84
 - country: US
   region: MI
+  exchange: '317672'
+  name: E DETROIT
+  full_name: East Detroit
+  lata: '340'
+  ilec_name: MICHIGAN BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: MI
+  exchange: '318434'
+  name: E LANSING
+  full_name: East Lansing
+  lata: '346'
+  ilec_name: MICHIGAN BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: MI
   exchange: '318435'
   name: EAGLE
   full_name: Eagle
@@ -3944,58 +3962,10 @@ rate_centers:
   long:
 - country: US
   region: MI
-  exchange: '318209'
-  name: EASTDAYTON
-  full_name: East Dayton
-  lata: '344'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
-  lat:
-  long:
-- country: US
-  region: MI
-  exchange: '317672'
-  name: E DETROIT
-  full_name: East Detroit
-  lata: '340'
-  ilec_name: MICHIGAN BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: MI
-  exchange: '318656'
-  name: EGRAND RPD
-  full_name: East Grand Rapids
-  lata: '348'
-  ilec_name: MICHIGAN BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: MI
-  exchange: '085040'
-  name: EASTJORDAN
-  full_name: East Jordan
-  lata: '348'
-  ilec_name: MICHIGAN BELL TEL CO
-  lat: '45.149862'
-  long: "-85.133888"
-  closest_city:
-    name: East Jordan
-    distance_km: 0.62
-- country: US
-  region: MI
   exchange: '318647'
   name: EAST LAKE
   full_name: East Lake
   lata: '348'
-  ilec_name: MICHIGAN BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: MI
-  exchange: '318434'
-  name: E LANSING
-  full_name: East Lansing
-  lata: '346'
   ilec_name: MICHIGAN BELL TEL CO
   lat:
   long:
@@ -4029,6 +3999,27 @@ rate_centers:
   closest_city:
     name: East Tawas
     distance_km: 0.75
+- country: US
+  region: MI
+  exchange: '318209'
+  name: EASTDAYTON
+  full_name: East Dayton
+  lata: '344'
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
+  lat:
+  long:
+- country: US
+  region: MI
+  exchange: '085040'
+  name: EASTJORDAN
+  full_name: East Jordan
+  lata: '348'
+  ilec_name: MICHIGAN BELL TEL CO
+  lat: '45.149862'
+  long: "-85.133888"
+  closest_city:
+    name: East Jordan
+    distance_km: 0.62
 - country: US
   region: MI
   exchange: '318651'
@@ -4119,7 +4110,7 @@ rate_centers:
   name: EDENVILLE
   full_name: Edenville
   lata: '344'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
   lat:
   long:
 - country: US
@@ -4155,6 +4146,15 @@ rate_centers:
   closest_city:
     name: Edwardsburg
     distance_km: 0.11
+- country: US
+  region: MI
+  exchange: '318656'
+  name: EGRAND RPD
+  full_name: East Grand Rapids
+  lata: '348'
+  ilec_name: MICHIGAN BELL TEL CO
+  lat:
+  long:
 - country: US
   region: MI
   exchange: '317676'
@@ -4242,7 +4242,7 @@ rate_centers:
   name: ELMIRA
   full_name: Elmira
   lata: '348'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
   lat: '45.066044'
   long: "-84.851207"
   closest_city:
@@ -4296,7 +4296,7 @@ rate_centers:
   name: EMPIRE
   full_name: Empire
   lata: '348'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
   lat:
   long:
 - country: US
@@ -4424,15 +4424,6 @@ rate_centers:
   long:
 - country: US
   region: MI
-  exchange: '318668'
-  name: FAIRPLAIN
-  full_name: Fair Plain
-  lata: '348'
-  ilec_name: MICHIGAN BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: MI
   exchange: '317681'
   name: FAIRFIELD
   full_name: Fairfield
@@ -4452,6 +4443,15 @@ rate_centers:
   closest_city:
     name: Fairgrove
     distance_km: 0.93
+- country: US
+  region: MI
+  exchange: '318668'
+  name: FAIRPLAIN
+  full_name: Fair Plain
+  lata: '348'
+  ilec_name: MICHIGAN BELL TEL CO
+  lat:
+  long:
 - country: US
   region: MI
   exchange: '085240'
@@ -4482,7 +4482,7 @@ rate_centers:
   name: FALMOUTH
   full_name: Falmouth
   lata: '348'
-  ilec_name: BRIGHTSPEED OF NORTHERN MICHIGAN, INC
+  ilec_name: 'BRIGHTSPEED OF NORTHERN MICHIGAN, INC                     '
   lat: '44.240396'
   long: "-85.084659"
   closest_city:
@@ -4623,7 +4623,7 @@ rate_centers:
   name: FIBRE
   full_name: Fibre
   lata: '342'
-  ilec_name: BRIGHTSPEED OF UPPER MICHIGAN, INC.
+  ilec_name: 'BRIGHTSPEED OF UPPER MICHIGAN, INC.                       '
   lat:
   long:
 - country: US
@@ -4769,15 +4769,6 @@ rate_centers:
   long:
 - country: US
   region: MI
-  exchange: '317693'
-  name: FT GRATIOT
-  full_name: Fort Gratiot
-  lata: '340'
-  ilec_name: MICHIGAN BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: MI
   exchange: '317980'
   name: FOSTERCITY
   full_name: Foster City
@@ -4886,15 +4877,6 @@ rate_centers:
   long:
 - country: US
   region: MI
-  exchange: '317983'
-  name: FRNKLIMINE
-  full_name: Franklin Mine
-  lata: '342'
-  ilec_name: MICHIGAN BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: MI
   exchange: '317691'
   name: FRASER
   full_name: Fraser
@@ -4979,6 +4961,15 @@ rate_centers:
   long:
 - country: US
   region: MI
+  exchange: '317983'
+  name: FRNKLIMINE
+  full_name: Franklin Mine
+  lata: '342'
+  ilec_name: MICHIGAN BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: MI
   exchange: '085490'
   name: FRONTIER
   full_name: Frontier
@@ -5001,6 +4992,15 @@ rate_centers:
   closest_city:
     name: Fruitport
     distance_km: 0.47
+- country: US
+  region: MI
+  exchange: '317693'
+  name: FT GRATIOT
+  full_name: Fort Gratiot
+  lata: '340'
+  ilec_name: MICHIGAN BELL TEL CO
+  lat:
+  long:
 - country: US
   region: MI
   exchange: '085510'
@@ -5088,7 +5088,7 @@ rate_centers:
   name: GARDEN
   full_name: Garden
   lata: '342'
-  ilec_name: BRIGHTSPEED OF UPPER MICHIGAN, INC.
+  ilec_name: 'BRIGHTSPEED OF UPPER MICHIGAN, INC.                       '
   lat: '45.777702'
   long: "-86.550168"
   closest_city:
@@ -5226,7 +5226,7 @@ rate_centers:
   name: GLEN ARBOR
   full_name: Glen Arbor
   lata: '348'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
   lat:
   long:
 - country: US
@@ -5235,7 +5235,7 @@ rate_centers:
   name: GLEN HAVEN
   full_name: Glen Haven
   lata: '348'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
   lat:
   long:
 - country: US
@@ -5244,7 +5244,7 @@ rate_centers:
   name: GLEN LAKE
   full_name: Glen Lake
   lata: '348'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
   lat: '44.847663'
   long: "-85.949847"
   closest_city:
@@ -5252,20 +5252,11 @@ rate_centers:
     distance_km: 6.23
 - country: US
   region: MI
-  exchange: '318693'
-  name: GLENLORD
-  full_name: Glen Lord
-  lata: '348'
-  ilec_name: MICHIGAN BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: MI
   exchange: '318236'
   name: GLENCOE
   full_name: Glencoe
   lata: '344'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
   lat:
   long:
 - country: US
@@ -5275,6 +5266,15 @@ rate_centers:
   full_name: Glendora
   lata: '348'
   ilec_name: FRONTIER MIDSTATES, INC. - MI
+  lat:
+  long:
+- country: US
+  region: MI
+  exchange: '318693'
+  name: GLENLORD
+  full_name: Glen Lord
+  lata: '348'
+  ilec_name: MICHIGAN BELL TEL CO
   lat:
   long:
 - country: US
@@ -5295,7 +5295,7 @@ rate_centers:
   name: GLENNIE
   full_name: Glennie
   lata: '344'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
   lat: '44.559676'
   long: "-83.732345"
   closest_city:
@@ -5319,7 +5319,7 @@ rate_centers:
   name: GOETZVILLE
   full_name: Goetzville
   lata: '342'
-  ilec_name: BRIGHTSPEED OF UPPER MICHIGAN, INC.
+  ilec_name: 'BRIGHTSPEED OF UPPER MICHIGAN, INC.                       '
   lat:
   long:
 - country: US
@@ -5336,15 +5336,6 @@ rate_centers:
     distance_km: 21.24
 - country: US
   region: MI
-  exchange: '318696'
-  name: GOODHART
-  full_name: Good Hart
-  lata: '348'
-  ilec_name: MICHIGAN BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: MI
   exchange: '085660'
   name: GOODELLS
   full_name: Goodells
@@ -5355,6 +5346,15 @@ rate_centers:
   closest_city:
     name: Ruby
     distance_km: 6.91
+- country: US
+  region: MI
+  exchange: '318696'
+  name: GOODHART
+  full_name: Good Hart
+  lata: '348'
+  ilec_name: MICHIGAN BELL TEL CO
+  lat:
+  long:
 - country: US
   region: MI
   exchange: '317699'
@@ -5370,7 +5370,7 @@ rate_centers:
   name: GOODRICH
   full_name: Goodrich
   lata: '340'
-  ilec_name: BRIGHTSPEED OF CENTRAL MICHIGAN, INC
+  ilec_name: 'BRIGHTSPEED OF CENTRAL MICHIGAN, INC                      '
   lat: '42.91623'
   long: "-83.508308"
   closest_city:
@@ -5417,6 +5417,30 @@ rate_centers:
     distance_km: 23.8
 - country: US
   region: MI
+  exchange: '085710'
+  name: GRAND JCT
+  full_name: Grand Junction
+  lata: '348'
+  ilec_name: FRONTIER NORTH, INC. - MI
+  lat: '42.401205'
+  long: "-86.074559"
+  closest_city:
+    name: Breedsville
+    distance_km: 5.82
+- country: US
+  region: MI
+  exchange: '085740'
+  name: GRAND RPDS
+  full_name: Grand Rapids
+  lata: '348'
+  ilec_name: MICHIGAN BELL TEL CO
+  lat: '42.96707'
+  long: "-85.664843"
+  closest_city:
+    name: Grand Rapids
+    distance_km: 0.91
+- country: US
+  region: MI
   exchange: '318701'
   name: GRANDBEACH
   full_name: Grand Beach
@@ -5450,18 +5474,6 @@ rate_centers:
     distance_km: 1.34
 - country: US
   region: MI
-  exchange: '085710'
-  name: GRAND JCT
-  full_name: Grand Junction
-  lata: '348'
-  ilec_name: FRONTIER NORTH, INC. - MI
-  lat: '42.401205'
-  long: "-86.074559"
-  closest_city:
-    name: Breedsville
-    distance_km: 5.82
-- country: US
-  region: MI
   exchange: '085720'
   name: GRANDLEDGE
   full_name: Grand Ledge
@@ -5484,18 +5496,6 @@ rate_centers:
   closest_city:
     name: Grand Marais
     distance_km: 0.45
-- country: US
-  region: MI
-  exchange: '085740'
-  name: GRAND RPDS
-  full_name: Grand Rapids
-  lata: '348'
-  ilec_name: MICHIGAN BELL TEL CO
-  lat: '42.96707'
-  long: "-85.664843"
-  closest_city:
-    name: Grand Rapids
-    distance_km: 0.91
 - country: US
   region: MI
   exchange: '318703'
@@ -5673,7 +5673,7 @@ rate_centers:
   name: GRINDSTNCY
   full_name: Grind Stone City
   lata: '344'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
   lat:
   long:
 - country: US
@@ -5682,33 +5682,6 @@ rate_centers:
   name: GROOS
   full_name: Groos
   lata: '342'
-  ilec_name: MICHIGAN BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: MI
-  exchange: '317709'
-  name: GROSSE ILE
-  full_name: Grosse Ile
-  lata: '340'
-  ilec_name: MICHIGAN BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: MI
-  exchange: '317710'
-  name: GROSSE PT
-  full_name: Grosse Pointe
-  lata: '340'
-  ilec_name: MICHIGAN BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: MI
-  exchange: '317711'
-  name: GROSSPTFMS
-  full_name: Grosse Pointe Farms
-  lata: '340'
   ilec_name: MICHIGAN BELL TEL CO
   lat:
   long:
@@ -5741,6 +5714,33 @@ rate_centers:
   long:
 - country: US
   region: MI
+  exchange: '317709'
+  name: GROSSE ILE
+  full_name: Grosse Ile
+  lata: '340'
+  ilec_name: MICHIGAN BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: MI
+  exchange: '317710'
+  name: GROSSE PT
+  full_name: Grosse Pointe
+  lata: '340'
+  ilec_name: MICHIGAN BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: MI
+  exchange: '317711'
+  name: GROSSPTFMS
+  full_name: Grosse Pointe Farms
+  lata: '340'
+  ilec_name: MICHIGAN BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: MI
   exchange: '318710'
   name: GULL LAKE
   full_name: Gull Lake
@@ -5754,7 +5754,7 @@ rate_centers:
   name: GULLIVER
   full_name: Gulliver
   lata: '342'
-  ilec_name: BRIGHTSPEED OF UPPER MICHIGAN, INC.
+  ilec_name: 'BRIGHTSPEED OF UPPER MICHIGAN, INC.                       '
   lat: '46.000466'
   long: "-86.010405"
   closest_city:
@@ -5787,7 +5787,7 @@ rate_centers:
   name: HADLEY
   full_name: Hadley
   lata: '340'
-  ilec_name: BRIGHTSPEED OF CENTRAL MICHIGAN, INC
+  ilec_name: 'BRIGHTSPEED OF CENTRAL MICHIGAN, INC                      '
   lat: '42.949597'
   long: "-83.400906"
   closest_city:
@@ -5799,7 +5799,7 @@ rate_centers:
   name: HALE
   full_name: Hale
   lata: '344'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
   lat: '44.375678'
   long: "-83.804385"
   closest_city:
@@ -5975,6 +5975,15 @@ rate_centers:
   long:
 - country: US
   region: MI
+  exchange: '317716'
+  name: HARRISN TW
+  full_name: Harrison Township
+  lata: '340'
+  ilec_name: MICHIGAN BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: MI
   exchange: '085900'
   name: HARRISON
   full_name: Harrison
@@ -5985,15 +5994,6 @@ rate_centers:
   closest_city:
     name: Harrison
     distance_km: 0.5
-- country: US
-  region: MI
-  exchange: '317716'
-  name: HARRISN TW
-  full_name: Harrison Township
-  lata: '340'
-  ilec_name: MICHIGAN BELL TEL CO
-  lat:
-  long:
 - country: US
   region: MI
   exchange: '085910'
@@ -6204,7 +6204,7 @@ rate_centers:
   name: HESSEL
   full_name: Hessel
   lata: '342'
-  ilec_name: BRIGHTSPEED OF UPPER MICHIGAN, INC.
+  ilec_name: 'BRIGHTSPEED OF UPPER MICHIGAN, INC.                       '
   lat:
   long:
 - country: US
@@ -6369,7 +6369,7 @@ rate_centers:
   name: HONOR
   full_name: Honor
   lata: '348'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
   lat: '44.666626'
   long: "-86.026701"
   closest_city:
@@ -6390,7 +6390,7 @@ rate_centers:
   name: HOPE
   full_name: Hope
   lata: '344'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
   lat: '43.766386'
   long: "-84.335734"
   closest_city:
@@ -6588,7 +6588,7 @@ rate_centers:
   name: HURON CITY
   full_name: Huron City
   lata: '344'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
   lat:
   long:
 - country: US
@@ -6644,15 +6644,6 @@ rate_centers:
   long:
 - country: US
   region: MI
-  exchange: '318740'
-  name: INDIANLAKE
-  full_name: Indian Lake
-  lata: '348'
-  ilec_name: MICHIGAN BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: MI
   exchange: '086240'
   name: INDIAN RIV
   full_name: Indian River
@@ -6663,6 +6654,15 @@ rate_centers:
   closest_city:
     name: Indian River
     distance_km: 1.11
+- country: US
+  region: MI
+  exchange: '318740'
+  name: INDIANLAKE
+  full_name: Indian Lake
+  lata: '348'
+  ilec_name: MICHIGAN BELL TEL CO
+  lat:
+  long:
 - country: US
   region: MI
   exchange: '318011'
@@ -6768,7 +6768,7 @@ rate_centers:
   name: ISABELLA
   full_name: Isabella
   lata: '342'
-  ilec_name: BRIGHTSPEED OF UPPER MICHIGAN, INC.
+  ilec_name: 'BRIGHTSPEED OF UPPER MICHIGAN, INC.                       '
   lat:
   long:
 - country: US
@@ -6807,7 +6807,7 @@ rate_centers:
   name: ISLINGTON
   full_name: Islington Bay
   lata: '342'
-  ilec_name: BRIGHTSPEED OF UPPER MICHIGAN, INC.
+  ilec_name: 'BRIGHTSPEED OF UPPER MICHIGAN, INC.                       '
   lat:
   long:
 - country: US
@@ -6966,7 +6966,7 @@ rate_centers:
   name: KARLIN
   full_name: Karlin
   lata: '348'
-  ilec_name: BRIGHTSPEED OF NORTHERN MICHIGAN, INC
+  ilec_name: 'BRIGHTSPEED OF NORTHERN MICHIGAN, INC                     '
   lat:
   long:
 - country: US
@@ -7002,7 +7002,7 @@ rate_centers:
   name: KELDEN
   full_name: Kelden
   lata: '342'
-  ilec_name: BRIGHTSPEED OF UPPER MICHIGAN, INC.
+  ilec_name: 'BRIGHTSPEED OF UPPER MICHIGAN, INC.                       '
   lat:
   long:
 - country: US
@@ -7089,7 +7089,7 @@ rate_centers:
   name: KINCHELOE
   full_name: Kincheloe
   lata: '342'
-  ilec_name: BRIGHTSPEED OF UPPER MICHIGAN, INC.
+  ilec_name: 'BRIGHTSPEED OF UPPER MICHIGAN, INC.                       '
   lat:
   long:
 - country: US
@@ -7098,7 +7098,7 @@ rate_centers:
   name: KINDE
   full_name: Kinde
   lata: '344'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
   lat: '43.94356'
   long: "-82.992543"
   closest_city:
@@ -7119,7 +7119,7 @@ rate_centers:
   name: KINGSLEY
   full_name: Kingsley
   lata: '348'
-  ilec_name: BRIGHTSPEED OF NORTHERN MICHIGAN, INC
+  ilec_name: 'BRIGHTSPEED OF NORTHERN MICHIGAN, INC                     '
   lat: '44.583516'
   long: "-85.532167"
   closest_city:
@@ -7143,7 +7143,7 @@ rate_centers:
   name: KINROSS
   full_name: Kinross
   lata: '342'
-  ilec_name: BRIGHTSPEED OF UPPER MICHIGAN, INC.
+  ilec_name: 'BRIGHTSPEED OF UPPER MICHIGAN, INC.                       '
   lat: '46.275934'
   long: "-84.504163"
   closest_city:
@@ -7247,20 +7247,11 @@ rate_centers:
   long:
 - country: US
   region: MI
-  exchange: '317756'
-  name: LK ANGELUS
-  full_name: Lake Angelus
-  lata: '340'
-  ilec_name: MICHIGAN BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: MI
   exchange: '086510'
   name: LAKE ANN
   full_name: Lake Ann
   lata: '348'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
   lat: '44.724371'
   long: "-85.840823"
   closest_city:
@@ -7272,66 +7263,12 @@ rate_centers:
   name: LAKE CITY
   full_name: Lake City
   lata: '348'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
   lat: '44.334017'
   long: "-85.208324"
   closest_city:
     name: Lake City
     distance_km: 0.48
-- country: US
-  region: MI
-  exchange: '318267'
-  name: LAKEGEORGE
-  full_name: Lake George
-  lata: '344'
-  ilec_name: MICHIGAN BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: MI
-  exchange: '086530'
-  name: LK GOGEBIC
-  full_name: Lake Gogebic
-  lata: '342'
-  ilec_name: UPPER PENINSULA TEL. CO.
-  lat: '46.409521'
-  long: "-89.548917"
-  closest_city:
-    name: Marenisco
-    distance_km: 13.13
-- country: US
-  region: MI
-  exchange: '318275'
-  name: LK ISABELA
-  full_name: Lake Isabella
-  lata: '344'
-  ilec_name: FRONTIER NORTH, INC. - MI
-  lat:
-  long:
-- country: US
-  region: MI
-  exchange: '086540'
-  name: LKLEELANAU
-  full_name: Lake Leelanau
-  lata: '348'
-  ilec_name: MICHIGAN BELL TEL CO
-  lat: '44.982009'
-  long: "-85.716728"
-  closest_city:
-    name: Lake Leelanau
-    distance_km: 0.18
-- country: US
-  region: MI
-  exchange: '086550'
-  name: LAKELINDEN
-  full_name: Lake Linden
-  lata: '342'
-  ilec_name: MICHIGAN BELL TEL CO
-  lat: '47.189887'
-  long: "-88.410475"
-  closest_city:
-    name: Lake Linden
-    distance_km: 0.59
 - country: US
   region: MI
   exchange: '318030'
@@ -7343,16 +7280,16 @@ rate_centers:
   long:
 - country: US
   region: MI
-  exchange: '086560'
-  name: LAKEODESSA
-  full_name: Lake Odessa
+  exchange: '086570'
+  name: LAKE NORTH
+  full_name: Lakes of the North
   lata: '348'
-  ilec_name: MICHIGAN BELL TEL CO
-  lat: '42.784286'
-  long: "-85.138772"
+  ilec_name: PIGEON TEL. CO.
+  lat: '44.909675'
+  long: "-84.860123"
   closest_city:
-    name: Lake Odessa
-    distance_km: 0.24
+    name: Lakes of the North
+    distance_km: 3.51
 - country: US
   region: MI
   exchange: '086580'
@@ -7367,18 +7304,9 @@ rate_centers:
     distance_km: 0.44
 - country: US
   region: MI
-  exchange: '318032'
-  name: LAKEROLAND
-  full_name: Lake Roland
-  lata: '342'
-  ilec_name: UPPER PENINSULA TEL. CO.
-  lat:
-  long:
-- country: US
-  region: MI
-  exchange: '318276'
-  name: LK STATION
-  full_name: Lake Station
+  exchange: '318267'
+  name: LAKEGEORGE
+  full_name: Lake George
   lata: '344'
   ilec_name: MICHIGAN BELL TEL CO
   lat:
@@ -7394,6 +7322,30 @@ rate_centers:
   long:
 - country: US
   region: MI
+  exchange: '086550'
+  name: LAKELINDEN
+  full_name: Lake Linden
+  lata: '342'
+  ilec_name: MICHIGAN BELL TEL CO
+  lat: '47.189887'
+  long: "-88.410475"
+  closest_city:
+    name: Lake Linden
+    distance_km: 0.59
+- country: US
+  region: MI
+  exchange: '086560'
+  name: LAKEODESSA
+  full_name: Lake Odessa
+  lata: '348'
+  ilec_name: MICHIGAN BELL TEL CO
+  lat: '42.784286'
+  long: "-85.138772"
+  closest_city:
+    name: Lake Odessa
+    distance_km: 0.24
+- country: US
+  region: MI
   exchange: '317742'
   name: LAKEPORT
   full_name: Lakeport
@@ -7403,16 +7355,13 @@ rate_centers:
   long:
 - country: US
   region: MI
-  exchange: '086570'
-  name: LAKE NORTH
-  full_name: Lakes of the North
-  lata: '348'
-  ilec_name: PIGEON TEL. CO.
-  lat: '44.909675'
-  long: "-84.860123"
-  closest_city:
-    name: Lakes of the North
-    distance_km: 3.51
+  exchange: '318032'
+  name: LAKEROLAND
+  full_name: Lake Roland
+  lata: '342'
+  ilec_name: UPPER PENINSULA TEL. CO.
+  lat:
+  long:
 - country: US
   region: MI
   exchange: '318761'
@@ -7671,7 +7620,7 @@ rate_centers:
   name: LEVERING
   full_name: Levering
   lata: '348'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
   lat: '45.634878'
   long: "-84.793553"
   closest_city:
@@ -7779,7 +7728,7 @@ rate_centers:
   name: LITCHFIELD
   full_name: Litchfield
   lata: '346'
-  ilec_name: BRIGHTSPEED OF CENTRAL MICHIGAN, INC
+  ilec_name: 'BRIGHTSPEED OF CENTRAL MICHIGAN, INC                      '
   lat: '42.042372'
   long: "-84.757872"
   closest_city:
@@ -7796,24 +7745,6 @@ rate_centers:
   long:
 - country: US
   region: MI
-  exchange: '318774'
-  name: LTLLONG LK
-  full_name: Little Long Lake
-  lata: '348'
-  ilec_name: BARRY COUNTY TEL. CO.
-  lat:
-  long:
-- country: US
-  region: MI
-  exchange: '318775'
-  name: LTLPTSABLE
-  full_name: Little Point Sable
-  lata: '348'
-  ilec_name: FRONTIER NORTH, INC. - MI
-  lat:
-  long:
-- country: US
-  region: MI
   exchange: '086750'
   name: LIVONIA
   full_name: Livonia
@@ -7824,6 +7755,57 @@ rate_centers:
   closest_city:
     name: Garden City
     distance_km: 3.63
+- country: US
+  region: MI
+  exchange: '317756'
+  name: LK ANGELUS
+  full_name: Lake Angelus
+  lata: '340'
+  ilec_name: MICHIGAN BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: MI
+  exchange: '086530'
+  name: LK GOGEBIC
+  full_name: Lake Gogebic
+  lata: '342'
+  ilec_name: UPPER PENINSULA TEL. CO.
+  lat: '46.409521'
+  long: "-89.548917"
+  closest_city:
+    name: Marenisco
+    distance_km: 13.13
+- country: US
+  region: MI
+  exchange: '318275'
+  name: LK ISABELA
+  full_name: Lake Isabella
+  lata: '344'
+  ilec_name: FRONTIER NORTH, INC. - MI
+  lat:
+  long:
+- country: US
+  region: MI
+  exchange: '318276'
+  name: LK STATION
+  full_name: Lake Station
+  lata: '344'
+  ilec_name: MICHIGAN BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: MI
+  exchange: '086540'
+  name: LKLEELANAU
+  full_name: Lake Leelanau
+  lata: '348'
+  ilec_name: MICHIGAN BELL TEL CO
+  lat: '44.982009'
+  long: "-85.716728"
+  closest_city:
+    name: Lake Leelanau
+    distance_km: 0.18
 - country: US
   region: MI
   exchange: '086760'
@@ -7878,6 +7860,24 @@ rate_centers:
   closest_city:
     name: Lowell
     distance_km: 1.01
+- country: US
+  region: MI
+  exchange: '318774'
+  name: LTLLONG LK
+  full_name: Little Long Lake
+  lata: '348'
+  ilec_name: BARRY COUNTY TEL. CO.
+  lat:
+  long:
+- country: US
+  region: MI
+  exchange: '318775'
+  name: LTLPTSABLE
+  full_name: Little Point Sable
+  lata: '348'
+  ilec_name: FRONTIER NORTH, INC. - MI
+  lat:
+  long:
 - country: US
   region: MI
   exchange: '318776'
@@ -8072,18 +8072,6 @@ rate_centers:
     distance_km: 0.24
 - country: US
   region: MI
-  exchange: '086860'
-  name: MANISTEE
-  full_name: Manistee
-  lata: '348'
-  ilec_name: MICHIGAN BELL TEL CO
-  lat: '44.249189'
-  long: "-86.331315"
-  closest_city:
-    name: Manistee
-    distance_km: 0.82
-- country: US
-  region: MI
   exchange: '086870'
   name: MANISTE RV
   full_name: Manistee River
@@ -8096,11 +8084,23 @@ rate_centers:
     distance_km: 11.6
 - country: US
   region: MI
+  exchange: '086860'
+  name: MANISTEE
+  full_name: Manistee
+  lata: '348'
+  ilec_name: MICHIGAN BELL TEL CO
+  lat: '44.249189'
+  long: "-86.331315"
+  closest_city:
+    name: Manistee
+    distance_km: 0.82
+- country: US
+  region: MI
   exchange: '086880'
   name: MANISTIQUE
   full_name: Manistique
   lata: '342'
-  ilec_name: BRIGHTSPEED OF UPPER MICHIGAN, INC.
+  ilec_name: 'BRIGHTSPEED OF UPPER MICHIGAN, INC.                       '
   lat: '45.956496'
   long: "-86.249411"
   closest_city:
@@ -8142,7 +8142,7 @@ rate_centers:
   name: MAPLE CITY
   full_name: Maple City
   lata: '348'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
   lat:
   long:
 - country: US
@@ -8159,20 +8159,20 @@ rate_centers:
     distance_km: 0.9
 - country: US
   region: MI
-  exchange: '318286'
-  name: MAPLERIDGE
-  full_name: Maple Ridge
-  lata: '344'
-  ilec_name: FRONTIER MIDSTATES, INC. - MI
-  lat:
-  long:
-- country: US
-  region: MI
   exchange: '318462'
   name: MAPLEGROVE
   full_name: Maplegrove
   lata: '346'
   ilec_name: MICHIGAN BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: MI
+  exchange: '318286'
+  name: MAPLERIDGE
+  full_name: Maple Ridge
+  lata: '344'
+  ilec_name: FRONTIER MIDSTATES, INC. - MI
   lat:
   long:
 - country: US
@@ -8247,7 +8247,7 @@ rate_centers:
   name: MARION SPG
   full_name: Marion Springs
   lata: '344'
-  ilec_name: BRIGHTSPEED OF CENTRAL MICHIGAN, INC
+  ilec_name: 'BRIGHTSPEED OF CENTRAL MICHIGAN, INC                      '
   lat:
   long:
 - country: US
@@ -8256,7 +8256,7 @@ rate_centers:
   name: MARLETTE
   full_name: Marlette
   lata: '344'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
   lat: '43.325767'
   long: "-83.082682"
   closest_city:
@@ -8400,7 +8400,7 @@ rate_centers:
   name: MAYFIELD
   full_name: Mayfield
   lata: '348'
-  ilec_name: BRIGHTSPEED OF NORTHERN MICHIGAN, INC
+  ilec_name: 'BRIGHTSPEED OF NORTHERN MICHIGAN, INC                     '
   lat:
   long:
 - country: US
@@ -8481,7 +8481,7 @@ rate_centers:
   name: MECOSTA
   full_name: Mecosta
   lata: '348'
-  ilec_name: BRIGHTSPEED OF CENTRAL MICHIGAN, INC
+  ilec_name: 'BRIGHTSPEED OF CENTRAL MICHIGAN, INC                      '
   lat: '43.616815'
   long: "-85.222899"
   closest_city:
@@ -8586,7 +8586,7 @@ rate_centers:
   name: MERRITT
   full_name: Merritt
   lata: '348'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
   lat: '44.335595'
   long: "-84.941614"
   closest_city:
@@ -8753,15 +8753,6 @@ rate_centers:
     distance_km: 0.11
 - country: US
   region: MI
-  exchange: '317779'
-  name: MILFORD
-  full_name: Milford
-  lata: '340'
-  ilec_name: FRONTIER NORTH, INC. - MI
-  lat:
-  long:
-- country: US
-  region: MI
   exchange: '087210'
   name: MILFDWH LK
   full_name: Milford-White Lake
@@ -8772,6 +8763,15 @@ rate_centers:
   closest_city:
     name: Milford
     distance_km: 1.1
+- country: US
+  region: MI
+  exchange: '317779'
+  name: MILFORD
+  full_name: Milford
+  lata: '340'
+  ilec_name: FRONTIER NORTH, INC. - MI
+  lat:
+  long:
 - country: US
   region: MI
   exchange: '318298'
@@ -8931,7 +8931,7 @@ rate_centers:
   name: MONTROSE
   full_name: Montrose
   lata: '340'
-  ilec_name: BRIGHTSPEED OF CENTRAL MICHIGAN, INC
+  ilec_name: 'BRIGHTSPEED OF CENTRAL MICHIGAN, INC                      '
   lat: '43.175628'
   long: "-83.89417"
   closest_city:
@@ -8943,7 +8943,7 @@ rate_centers:
   name: MOORESTOWN
   full_name: Moorestown
   lata: '348'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
   lat: '44.464134'
   long: "-85.007578"
   closest_city:
@@ -9033,7 +9033,7 @@ rate_centers:
   name: MOSHERVL
   full_name: Mosherville
   lata: '346'
-  ilec_name: BRIGHTSPEED OF CENTRAL MICHIGAN, INC
+  ilec_name: 'BRIGHTSPEED OF CENTRAL MICHIGAN, INC                      '
   lat: '42.058727'
   long: "-84.659768"
   closest_city:
@@ -9050,6 +9050,15 @@ rate_centers:
   long:
 - country: US
   region: MI
+  exchange: '318303'
+  name: MOUNT FOR
+  full_name: Mount Forest
+  lata: '344'
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
+  lat:
+  long:
+- country: US
+  region: MI
   exchange: '087330'
   name: MT CLEMENS
   full_name: Mount Clemens
@@ -9060,15 +9069,6 @@ rate_centers:
   closest_city:
     name: Mount Clemens
     distance_km: 0.86
-- country: US
-  region: MI
-  exchange: '318303'
-  name: MOUNT FOR
-  full_name: Mount Forest
-  lata: '344'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
-  lat:
-  long:
 - country: US
   region: MI
   exchange: '317784'
@@ -9174,7 +9174,16 @@ rate_centers:
   name: MUNUSCONG
   full_name: Munuscong
   lata: '342'
-  ilec_name: BRIGHTSPEED OF UPPER MICHIGAN, INC.
+  ilec_name: 'BRIGHTSPEED OF UPPER MICHIGAN, INC.                       '
+  lat:
+  long:
+- country: US
+  region: MI
+  exchange: '318816'
+  name: MUSKEGNHTS
+  full_name: Muskegon Heights
+  lata: '348'
+  ilec_name: FRONTIER NORTH, INC. - MI
   lat:
   long:
 - country: US
@@ -9191,20 +9200,20 @@ rate_centers:
     distance_km: 1.45
 - country: US
   region: MI
-  exchange: '318816'
-  name: MUSKEGNHTS
-  full_name: Muskegon Heights
-  lata: '348'
-  ilec_name: FRONTIER NORTH, INC. - MI
-  lat:
-  long:
-- country: US
-  region: MI
   exchange: '317785'
   name: MUSSEY
   full_name: Mussey
   lata: '340'
   ilec_name: FRONTIER NORTH, INC. - MI
+  lat:
+  long:
+- country: US
+  region: MI
+  exchange: '317786'
+  name: N LAKEPORT
+  full_name: North Lakeport
+  lata: '340'
+  ilec_name: MICHIGAN BELL TEL CO
   lat:
   long:
 - country: US
@@ -9222,7 +9231,7 @@ rate_centers:
   name: NAHMA
   full_name: Nahma
   lata: '342'
-  ilec_name: BRIGHTSPEED OF UPPER MICHIGAN, INC.
+  ilec_name: 'BRIGHTSPEED OF UPPER MICHIGAN, INC.                       '
   lat:
   long:
 - country: US
@@ -9260,20 +9269,20 @@ rate_centers:
   long:
 - country: US
   region: MI
-  exchange: '318307'
-  name: NATIONALCY
-  full_name: National City
-  lata: '344'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
-  lat:
-  long:
-- country: US
-  region: MI
   exchange: '318060'
   name: NATINLMINE
   full_name: National Mine
   lata: '342'
   ilec_name: MICHIGAN BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: MI
+  exchange: '318307'
+  name: NATIONALCY
+  full_name: National City
+  lata: '344'
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
   lat:
   long:
 - country: US
@@ -9326,18 +9335,6 @@ rate_centers:
   long:
 - country: US
   region: MI
-  exchange: '087440'
-  name: NEWBALTIMR
-  full_name: New Baltimore
-  lata: '340'
-  ilec_name: MICHIGAN BELL TEL CO
-  lat: '42.684102'
-  long: "-82.730883"
-  closest_city:
-    name: New Baltimore
-    distance_km: 1.01
-- country: US
-  region: MI
   exchange: '087450'
   name: NEW BOSTON
   full_name: New Boston
@@ -9348,18 +9345,6 @@ rate_centers:
   closest_city:
     name: Romulus
     distance_km: 7.07
-- country: US
-  region: MI
-  exchange: '087460'
-  name: NEWBUFFALO
-  full_name: New Buffalo
-  lata: '348'
-  ilec_name: MICHIGAN BELL TEL CO
-  lat: '41.789199'
-  long: "-86.739996"
-  closest_city:
-    name: New Buffalo
-    distance_km: 0.39
 - country: US
   region: MI
   exchange: '318820'
@@ -9383,15 +9368,6 @@ rate_centers:
     distance_km: 0.46
 - country: US
   region: MI
-  exchange: '318824'
-  name: NEWHOLLAND
-  full_name: New Holland
-  lata: '348'
-  ilec_name: MICHIGAN BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: MI
   exchange: '317789'
   name: NEW HUDSON
   full_name: New Hudson
@@ -9399,18 +9375,6 @@ rate_centers:
   ilec_name: MICHIGAN BELL TEL CO
   lat:
   long:
-- country: US
-  region: MI
-  exchange: '087480'
-  name: NEWLOTHROP
-  full_name: New Lothrop
-  lata: '340'
-  ilec_name: BRIGHTSPEED OF CENTRAL MICHIGAN, INC
-  lat: '43.115239'
-  long: "-83.96501"
-  closest_city:
-    name: New Lothrop
-    distance_km: 0.39
 - country: US
   region: MI
   exchange: '318064'
@@ -9443,6 +9407,18 @@ rate_centers:
     distance_km: 0.19
 - country: US
   region: MI
+  exchange: '087440'
+  name: NEWBALTIMR
+  full_name: New Baltimore
+  lata: '340'
+  ilec_name: MICHIGAN BELL TEL CO
+  lat: '42.684102'
+  long: "-82.730883"
+  closest_city:
+    name: New Baltimore
+    distance_km: 1.01
+- country: US
+  region: MI
   exchange: '087500'
   name: NEWBERRY
   full_name: Newberry
@@ -9455,11 +9431,44 @@ rate_centers:
     distance_km: 0.42
 - country: US
   region: MI
+  exchange: '087460'
+  name: NEWBUFFALO
+  full_name: New Buffalo
+  lata: '348'
+  ilec_name: MICHIGAN BELL TEL CO
+  lat: '41.789199'
+  long: "-86.739996"
+  closest_city:
+    name: New Buffalo
+    distance_km: 0.39
+- country: US
+  region: MI
+  exchange: '318824'
+  name: NEWHOLLAND
+  full_name: New Holland
+  lata: '348'
+  ilec_name: MICHIGAN BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: MI
+  exchange: '087480'
+  name: NEWLOTHROP
+  full_name: New Lothrop
+  lata: '340'
+  ilec_name: 'BRIGHTSPEED OF CENTRAL MICHIGAN, INC                      '
+  lat: '43.115239'
+  long: "-83.96501"
+  closest_city:
+    name: New Lothrop
+    distance_km: 0.39
+- country: US
+  region: MI
   exchange: '087510'
   name: NEWPORT
   full_name: Newport
   lata: '340'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
   lat: '42.001148'
   long: "-83.297008"
   closest_city:
@@ -9488,16 +9497,13 @@ rate_centers:
   long:
 - country: US
   region: MI
-  exchange: '087530'
-  name: NORTHADAMS
-  full_name: North Adams
-  lata: '346'
-  ilec_name: FRONTIER COMMUNICATIONS OF MICHIGAN, INC.
-  lat: '41.968101'
-  long: "-84.523947"
-  closest_city:
-    name: North Adams
-    distance_km: 0.3
+  exchange: '318826'
+  name: NMANITOUIS
+  full_name: North Manitou Island
+  lata: '348'
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
+  lat:
+  long:
 - country: US
   region: MI
   exchange: '318308'
@@ -9505,6 +9511,45 @@ rate_centers:
   full_name: North Bradley
   lata: '344'
   ilec_name: MICHIGAN BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: MI
+  exchange: '317793'
+  name: NO MORENCI
+  full_name: North Morenci
+  lata: '340'
+  ilec_name: FRONTIER MIDSTATES, INC. - MI
+  lat:
+  long:
+- country: US
+  region: MI
+  exchange: '317794'
+  name: NO STREET
+  full_name: North Street
+  lata: '340'
+  ilec_name: MICHIGAN BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: MI
+  exchange: '087550'
+  name: NOLANDOLKS
+  full_name: North Land O'Lakes
+  lata: '342'
+  ilec_name: UPPER PENINSULA TEL. CO.
+  lat: '46.199341'
+  long: "-89.206936"
+  closest_city:
+    name: Watersmeet
+    distance_km: 9.82
+- country: US
+  region: MI
+  exchange: '318827'
+  name: NOMUSKEGON
+  full_name: North Muskegon
+  lata: '348'
+  ilec_name: FRONTIER NORTH, INC. - MI
   lat:
   long:
 - country: US
@@ -9530,73 +9575,16 @@ rate_centers:
   long:
 - country: US
   region: MI
-  exchange: '317786'
-  name: N LAKEPORT
-  full_name: North Lakeport
-  lata: '340'
-  ilec_name: MICHIGAN BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: MI
-  exchange: '087550'
-  name: NOLANDOLKS
-  full_name: North Land O'Lakes
-  lata: '342'
-  ilec_name: UPPER PENINSULA TEL. CO.
-  lat: '46.199341'
-  long: "-89.206936"
+  exchange: '087530'
+  name: NORTHADAMS
+  full_name: North Adams
+  lata: '346'
+  ilec_name: FRONTIER COMMUNICATIONS OF MICHIGAN, INC.
+  lat: '41.968101'
+  long: "-84.523947"
   closest_city:
-    name: Watersmeet
-    distance_km: 9.82
-- country: US
-  region: MI
-  exchange: '318826'
-  name: NMANITOUIS
-  full_name: North Manitou Island
-  lata: '348'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
-  lat:
-  long:
-- country: US
-  region: MI
-  exchange: '317793'
-  name: NO MORENCI
-  full_name: North Morenci
-  lata: '340'
-  ilec_name: FRONTIER MIDSTATES, INC. - MI
-  lat:
-  long:
-- country: US
-  region: MI
-  exchange: '318827'
-  name: NOMUSKEGON
-  full_name: North Muskegon
-  lata: '348'
-  ilec_name: FRONTIER NORTH, INC. - MI
-  lat:
-  long:
-- country: US
-  region: MI
-  exchange: '317794'
-  name: NO STREET
-  full_name: North Street
-  lata: '340'
-  ilec_name: MICHIGAN BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: MI
-  exchange: '087560'
-  name: NOSYLVANIA
-  full_name: North Sylvania
-  lata: '326'
-  ilec_name: FRONTIER NORTH, INC. - OH
-  lat: '41.724378'
-  long: "-83.711525"
-  closest_city:
-    name: Lambertville
-    distance_km: 7.71
+    name: North Adams
+    distance_km: 0.3
 - country: US
   region: MI
   exchange: '087570'
@@ -9698,6 +9686,18 @@ rate_centers:
   long:
 - country: US
   region: MI
+  exchange: '087560'
+  name: NOSYLVANIA
+  full_name: North Sylvania
+  lata: '326'
+  ilec_name: FRONTIER NORTH, INC. - OH
+  lat: '41.724378'
+  long: "-83.711525"
+  closest_city:
+    name: Lambertville
+    distance_km: 7.71
+- country: US
+  region: MI
   exchange: '318835'
   name: NOTTAWA
   full_name: Nottawa
@@ -9765,7 +9765,7 @@ rate_centers:
   name: OAKLEY
   full_name: Oakley
   lata: '344'
-  ilec_name: BRIGHTSPEED OF CENTRAL MICHIGAN, INC
+  ilec_name: 'BRIGHTSPEED OF CENTRAL MICHIGAN, INC                      '
   lat:
   long:
 - country: US
@@ -9809,6 +9809,15 @@ rate_centers:
   long:
 - country: US
   region: MI
+  exchange: '317804'
+  name: OLD PORT
+  full_name: Old Port
+  lata: '340'
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
+  lat:
+  long:
+- country: US
+  region: MI
   exchange: '087610'
   name: OLDMISSION
   full_name: Old Mission
@@ -9819,15 +9828,6 @@ rate_centers:
   closest_city:
     name: Elk Rapids
     distance_km: 8.72
-- country: US
-  region: MI
-  exchange: '317804'
-  name: OLD PORT
-  full_name: Old Port
-  lata: '340'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
-  lat:
-  long:
 - country: US
   region: MI
   exchange: '087620'
@@ -9864,7 +9864,7 @@ rate_centers:
   name: OMER
   full_name: Omer
   lata: '344'
-  ilec_name: BRIGHTSPEED OF CENTRAL MICHIGAN, INC
+  ilec_name: 'BRIGHTSPEED OF CENTRAL MICHIGAN, INC                      '
   lat: '44.05214'
   long: "-83.85078"
   closest_city:
@@ -9972,7 +9972,7 @@ rate_centers:
   name: ORLEANS
   full_name: Orleans
   lata: '348'
-  ilec_name: BRIGHTSPEED OF CENTRAL MICHIGAN, INC
+  ilec_name: 'BRIGHTSPEED OF CENTRAL MICHIGAN, INC                      '
   lat: '43.068692'
   long: "-85.13251"
   closest_city:
@@ -10446,7 +10446,7 @@ rate_centers:
   name: PESHWBSTWN
   full_name: Peshawbestown
   lata: '348'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
   lat:
   long:
 - country: US
@@ -10497,7 +10497,7 @@ rate_centers:
   name: PICKFORD
   full_name: Pickford
   lata: '342'
-  ilec_name: BRIGHTSPEED OF UPPER MICHIGAN, INC.
+  ilec_name: 'BRIGHTSPEED OF UPPER MICHIGAN, INC.                       '
   lat: '46.157967'
   long: "-84.359802"
   closest_city:
@@ -10560,7 +10560,7 @@ rate_centers:
   name: PINCONNING
   full_name: Pinconning
   lata: '344'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
   lat: '43.849617'
   long: "-83.966212"
   closest_city:
@@ -10598,6 +10598,15 @@ rate_centers:
   long:
 - country: US
   region: MI
+  exchange: '318329'
+  name: PINNEBOG
+  full_name: Pinnebog
+  lata: '344'
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
+  lat:
+  long:
+- country: US
+  region: MI
   exchange: '318080'
   name: PINSTMPJCT
   full_name: Pine Stump Junction
@@ -10607,20 +10616,11 @@ rate_centers:
   long:
 - country: US
   region: MI
-  exchange: '318329'
-  name: PINNEBOG
-  full_name: Pinnebog
-  lata: '344'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
-  lat:
-  long:
-- country: US
-  region: MI
   exchange: '318866'
   name: PIONEER
   full_name: Pioneer
   lata: '348'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
   lat:
   long:
 - country: US
@@ -10694,42 +10694,6 @@ rate_centers:
     distance_km: 0.66
 - country: US
   region: MI
-  exchange: '318339'
-  name: PT AU GRES
-  full_name: Point Au Gres
-  lata: '344'
-  ilec_name: BRIGHTSPEED OF CENTRAL MICHIGAN, INC
-  lat:
-  long:
-- country: US
-  region: MI
-  exchange: '318340'
-  name: PT LOOKOUT
-  full_name: Point Lookout
-  lata: '344'
-  ilec_name: BRIGHTSPEED OF CENTRAL MICHIGAN, INC
-  lat:
-  long:
-- country: US
-  region: MI
-  exchange: '318341'
-  name: PTAXBARQUS
-  full_name: Pointe Aux Barques
-  lata: '344'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
-  lat:
-  long:
-- country: US
-  region: MI
-  exchange: '318872'
-  name: PTAUX PINS
-  full_name: Pointe Aux Pins
-  lata: '348'
-  ilec_name: ISLAND TEL. CO.
-  lat:
-  long:
-- country: US
-  region: MI
   exchange: '318868'
   name: POKAGON
   full_name: Pokagon
@@ -10763,18 +10727,6 @@ rate_centers:
     distance_km: 1.1
 - country: US
   region: MI
-  exchange: '088000'
-  name: PORTAUSTIN
-  full_name: Port Austin
-  lata: '344'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
-  lat: '44.042878'
-  long: "-82.997674"
-  closest_city:
-    name: Port Austin
-    distance_km: 0.25
-- country: US
-  region: MI
   exchange: '318332'
   name: PORT ELIZB
   full_name: Port Elizabeth
@@ -10788,7 +10740,7 @@ rate_centers:
   name: PORT HOPE
   full_name: Port Hope
   lata: '344'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
   lat: '43.943333'
   long: "-82.710081"
   closest_city:
@@ -10808,30 +10760,9 @@ rate_centers:
     distance_km: 2.24
 - country: US
   region: MI
-  exchange: '088030'
-  name: PT SANILAC
-  full_name: Port Sanilac
-  lata: '340'
-  ilec_name: MICHIGAN BELL TEL CO
-  lat: '43.431855'
-  long: "-82.544003"
-  closest_city:
-    name: Port Sanilac
-    distance_km: 0.49
-- country: US
-  region: MI
   exchange: '318869'
   name: PORTAGE
   full_name: Portage
-  lata: '348'
-  ilec_name: MICHIGAN BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: MI
-  exchange: '086372'
-  name: PORTAGE LAKE
-  full_name: Portage Lake
   lata: '348'
   ilec_name: MICHIGAN BELL TEL CO
   lat:
@@ -10845,6 +10776,18 @@ rate_centers:
   ilec_name: MICHIGAN BELL TEL CO
   lat:
   long:
+- country: US
+  region: MI
+  exchange: '088000'
+  name: PORTAUSTIN
+  full_name: Port Austin
+  lata: '344'
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
+  lat: '44.042878'
+  long: "-82.997674"
+  closest_city:
+    name: Port Austin
+    distance_km: 0.25
 - country: US
   region: MI
   exchange: '088040'
@@ -10950,7 +10893,7 @@ rate_centers:
   name: PROSPER
   full_name: Prosper
   lata: '348'
-  ilec_name: BRIGHTSPEED OF NORTHERN MICHIGAN, INC
+  ilec_name: 'BRIGHTSPEED OF NORTHERN MICHIGAN, INC                     '
   lat:
   long:
 - country: US
@@ -10960,6 +10903,54 @@ rate_centers:
   full_name: Prudenville
   lata: '344'
   ilec_name: FRONTIER NORTH, INC. - MI
+  lat:
+  long:
+- country: US
+  region: MI
+  exchange: '318339'
+  name: PT AU GRES
+  full_name: Point Au Gres
+  lata: '344'
+  ilec_name: 'BRIGHTSPEED OF CENTRAL MICHIGAN, INC                      '
+  lat:
+  long:
+- country: US
+  region: MI
+  exchange: '318340'
+  name: PT LOOKOUT
+  full_name: Point Lookout
+  lata: '344'
+  ilec_name: 'BRIGHTSPEED OF CENTRAL MICHIGAN, INC                      '
+  lat:
+  long:
+- country: US
+  region: MI
+  exchange: '088030'
+  name: PT SANILAC
+  full_name: Port Sanilac
+  lata: '340'
+  ilec_name: MICHIGAN BELL TEL CO
+  lat: '43.431855'
+  long: "-82.544003"
+  closest_city:
+    name: Port Sanilac
+    distance_km: 0.49
+- country: US
+  region: MI
+  exchange: '318872'
+  name: PTAUX PINS
+  full_name: Pointe Aux Pins
+  lata: '348'
+  ilec_name: ISLAND TEL. CO.
+  lat:
+  long:
+- country: US
+  region: MI
+  exchange: '318341'
+  name: PTAXBARQUS
+  full_name: Pointe Aux Barques
+  lata: '344'
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
   lat:
   long:
 - country: US
@@ -10983,6 +10974,15 @@ rate_centers:
   closest_city:
     name: Fennville
     distance_km: 12.56
+- country: US
+  region: MI
+  exchange: '086372'
+  name: PORTAGE LAKE
+  full_name: Portage Lake
+  lata: '348'
+  ilec_name: MICHIGAN BELL TEL CO
+  lat:
+  long:
 - country: US
   region: MI
   exchange: '318342'
@@ -11028,7 +11028,7 @@ rate_centers:
   name: RABER
   full_name: Raber
   lata: '342'
-  ilec_name: BRIGHTSPEED OF UPPER MICHIGAN, INC.
+  ilec_name: 'BRIGHTSPEED OF UPPER MICHIGAN, INC.                       '
   lat:
   long:
 - country: US
@@ -11169,7 +11169,7 @@ rate_centers:
   name: REDMAN
   full_name: Redman
   lata: '344'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
   lat:
   long:
 - country: US
@@ -11256,7 +11256,7 @@ rate_centers:
   name: RHODES
   full_name: Rhodes
   lata: '344'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
   lat:
   long:
 - country: US
@@ -11330,15 +11330,6 @@ rate_centers:
   long:
 - country: US
   region: MI
-  exchange: '317834'
-  name: RIVERROUGE
-  full_name: River Rouge
-  lata: '340'
-  ilec_name: MICHIGAN BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: MI
   exchange: '088240'
   name: RIVERDALE
   full_name: Riverdale
@@ -11349,6 +11340,15 @@ rate_centers:
   closest_city:
     name: Riverdale
     distance_km: 0.55
+- country: US
+  region: MI
+  exchange: '317834'
+  name: RIVERROUGE
+  full_name: River Rouge
+  lata: '340'
+  ilec_name: MICHIGAN BELL TEL CO
+  lat:
+  long:
 - country: US
   region: MI
   exchange: '318882'
@@ -11466,7 +11466,7 @@ rate_centers:
   name: RODNEY
   full_name: Rodney
   lata: '348'
-  ilec_name: BRIGHTSPEED OF CENTRAL MICHIGAN, INC
+  ilec_name: 'BRIGHTSPEED OF CENTRAL MICHIGAN, INC                      '
   lat:
   long:
 - country: US
@@ -11634,7 +11634,7 @@ rate_centers:
   name: RUDYARD
   full_name: Rudyard
   lata: '342'
-  ilec_name: BRIGHTSPEED OF UPPER MICHIGAN, INC.
+  ilec_name: 'BRIGHTSPEED OF UPPER MICHIGAN, INC.                       '
   lat: '46.234863'
   long: "-84.600349"
   closest_city:
@@ -11699,15 +11699,6 @@ rate_centers:
   long:
 - country: US
   region: MI
-  exchange: '317863'
-  name: STCLRSHORS
-  full_name: Saint Clair Shores
-  lata: '340'
-  ilec_name: MICHIGAN BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: MI
   exchange: '317845'
   name: SALEM
   full_name: Salem
@@ -11727,6 +11718,18 @@ rate_centers:
   closest_city:
     name: Saline
     distance_km: 0.78
+- country: US
+  region: MI
+  exchange: '088500'
+  name: SALTSTMARI
+  full_name: Sault Ste Marie
+  lata: '342'
+  ilec_name: MICHIGAN BELL TEL CO
+  lat: '46.501892'
+  long: "-84.349057"
+  closest_city:
+    name: Sault Ste. Marie
+    distance_km: 2.86
 - country: US
   region: MI
   exchange: '317847'
@@ -11762,18 +11765,6 @@ rate_centers:
     distance_km: 4.12
 - country: US
   region: MI
-  exchange: '088440'
-  name: SANDLK HTS
-  full_name: Sand Lake Heights
-  lata: '344'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
-  lat: '44.325673'
-  long: "-83.674986"
-  closest_city:
-    name: Sand Lake
-    distance_km: 0.38
-- country: US
-  region: MI
   exchange: '318358'
   name: SAND POINT
   full_name: Sand Point
@@ -11793,6 +11784,18 @@ rate_centers:
   closest_city:
     name: Harvey
     distance_km: 19.96
+- country: US
+  region: MI
+  exchange: '088440'
+  name: SANDLK HTS
+  full_name: Sand Lake Heights
+  lata: '344'
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
+  lat: '44.325673'
+  long: "-83.674986"
+  closest_city:
+    name: Sand Lake
+    distance_km: 0.38
 - country: US
   region: MI
   exchange: '088460'
@@ -11852,18 +11855,6 @@ rate_centers:
     distance_km: 1.2
 - country: US
   region: MI
-  exchange: '088500'
-  name: SALTSTMARI
-  full_name: Sault Ste Marie
-  lata: '342'
-  ilec_name: MICHIGAN BELL TEL CO
-  lat: '46.501892'
-  long: "-84.349057"
-  closest_city:
-    name: Sault Ste. Marie
-    distance_km: 2.86
-- country: US
-  region: MI
   exchange: '088510'
   name: SAWYER
   full_name: Sawyer
@@ -11889,7 +11880,7 @@ rate_centers:
   name: SCHOMBERG
   full_name: Schomberg
   lata: '348'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
   lat:
   long:
 - country: US
@@ -12173,20 +12164,20 @@ rate_centers:
     distance_km: 6.53
 - country: US
   region: MI
-  exchange: '318108'
-  name: SILVERCITY
-  full_name: Silver City
-  lata: '342'
-  ilec_name: ONTONAGON COUNTY TEL. CO.
-  lat:
-  long:
-- country: US
-  region: MI
   exchange: '318903'
   name: SILVER LK
   full_name: Silver Lake
   lata: '348'
   ilec_name: FRONTIER NORTH, INC. - MI
+  lat:
+  long:
+- country: US
+  region: MI
+  exchange: '318108'
+  name: SILVERCITY
+  full_name: Silver City
+  lata: '342'
+  ilec_name: ONTONAGON COUNTY TEL. CO.
   lat:
   long:
 - country: US
@@ -12237,7 +12228,7 @@ rate_centers:
   name: SIXTYLAKES
   full_name: Sixty Lakes
   lata: '344'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
   lat: '44.425912'
   long: "-83.859241"
   closest_city:
@@ -12329,6 +12320,18 @@ rate_centers:
     distance_km: 0.47
 - country: US
   region: MI
+  exchange: '088710'
+  name: SOBOARDMAN
+  full_name: South Boardman
+  lata: '348'
+  ilec_name: ACE TEL. CO. OF MICHIGAN, INC.
+  lat: '44.642278'
+  long: "-85.285441"
+  closest_city:
+    name: South Boardman
+    distance_km: 0.26
+- country: US
+  region: MI
   exchange: '318909'
   name: SODUS
   full_name: Sodus
@@ -12342,7 +12345,7 @@ rate_centers:
   name: SOLON
   full_name: Solon
   lata: '348'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
   lat:
   long:
 - country: US
@@ -12365,37 +12368,22 @@ rate_centers:
   long:
 - country: US
   region: MI
-  exchange: '088710'
-  name: SOBOARDMAN
-  full_name: South Boardman
-  lata: '348'
-  ilec_name: ACE TEL. CO. OF MICHIGAN, INC.
-  lat: '44.642278'
-  long: "-85.285441"
-  closest_city:
-    name: South Boardman
-    distance_km: 0.26
+  exchange: '317856'
+  name: SOROCKWOOD
+  full_name: South Rockwood
+  lata: '340'
+  ilec_name: MICHIGAN BELL TEL CO
+  lat:
+  long:
 - country: US
   region: MI
   exchange: '318371'
   name: SOUTH BRCH
   full_name: South Branch
   lata: '344'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
   lat:
   long:
-- country: US
-  region: MI
-  exchange: '088720'
-  name: SOUTHHAVEN
-  full_name: South Haven
-  lata: '348'
-  ilec_name: FRONTIER NORTH, INC. - MI
-  lat: '42.400974'
-  long: "-86.266127"
-  closest_city:
-    name: South Haven
-    distance_km: 0.13
 - country: US
   region: MI
   exchange: '088730'
@@ -12408,24 +12396,6 @@ rate_centers:
   closest_city:
     name: South Lyon
     distance_km: 0.54
-- country: US
-  region: MI
-  exchange: '318112'
-  name: SOUTHRANGE
-  full_name: South Range
-  lata: '342'
-  ilec_name: MICHIGAN BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: MI
-  exchange: '317856'
-  name: SOROCKWOOD
-  full_name: South Rockwood
-  lata: '340'
-  ilec_name: MICHIGAN BELL TEL CO
-  lat:
-  long:
 - country: US
   region: MI
   exchange: '088740'
@@ -12444,6 +12414,27 @@ rate_centers:
   name: SOUTHGATE
   full_name: Southgate
   lata: '340'
+  ilec_name: MICHIGAN BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: MI
+  exchange: '088720'
+  name: SOUTHHAVEN
+  full_name: South Haven
+  lata: '348'
+  ilec_name: FRONTIER NORTH, INC. - MI
+  lat: '42.400974'
+  long: "-86.266127"
+  closest_city:
+    name: South Haven
+    distance_km: 0.13
+- country: US
+  region: MI
+  exchange: '318112'
+  name: SOUTHRANGE
+  full_name: South Range
+  lata: '342'
   ilec_name: MICHIGAN BELL TEL CO
   lat:
   long:
@@ -12479,15 +12470,6 @@ rate_centers:
   long:
 - country: US
   region: MI
-  exchange: '318914'
-  name: SPRINGLAKE
-  full_name: Spring Lake
-  lata: '348'
-  ilec_name: MICHIGAN BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: MI
   exchange: '318913'
   name: SPRINGFLD
   full_name: Springfield
@@ -12497,10 +12479,10 @@ rate_centers:
   long:
 - country: US
   region: MI
-  exchange: '317861'
-  name: SPRNGFD TW
-  full_name: Springfield Township
-  lata: '340'
+  exchange: '318914'
+  name: SPRINGLAKE
+  full_name: Spring Lake
+  lata: '348'
   ilec_name: MICHIGAN BELL TEL CO
   lat:
   long:
@@ -12523,6 +12505,15 @@ rate_centers:
   full_name: Springville
   lata: '340'
   ilec_name: FRONTIER COMMUNICATIONS OF MICHIGAN, INC.
+  lat:
+  long:
+- country: US
+  region: MI
+  exchange: '317861'
+  name: SPRNGFD TW
+  full_name: Springfield Township
+  lata: '340'
+  ilec_name: MICHIGAN BELL TEL CO
   lat:
   long:
 - country: US
@@ -12636,7 +12627,7 @@ rate_centers:
   name: STALWART
   full_name: Stalwart
   lata: '342'
-  ilec_name: BRIGHTSPEED OF UPPER MICHIGAN, INC.
+  ilec_name: 'BRIGHTSPEED OF UPPER MICHIGAN, INC.                       '
   lat:
   long:
 - country: US
@@ -12684,6 +12675,15 @@ rate_centers:
   closest_city:
     name: Stanwood
     distance_km: 0.81
+- country: US
+  region: MI
+  exchange: '317863'
+  name: STCLRSHORS
+  full_name: Saint Clair Shores
+  lata: '340'
+  ilec_name: MICHIGAN BELL TEL CO
+  lat:
+  long:
 - country: US
   region: MI
   exchange: '317864'
@@ -12749,20 +12749,20 @@ rate_centers:
     distance_km: 0.45
 - country: US
   region: MI
-  exchange: '317866'
-  name: STONYCREEK
-  full_name: Stony Creek
-  lata: '340'
-  ilec_name: MICHIGAN BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: MI
   exchange: '318919'
   name: STONY LAKE
   full_name: Stony Lake
   lata: '348'
   ilec_name: FRONTIER NORTH, INC. - MI
+  lat:
+  long:
+- country: US
+  region: MI
+  exchange: '317866'
+  name: STONYCREEK
+  full_name: Stony Creek
+  lata: '340'
+  ilec_name: MICHIGAN BELL TEL CO
   lat:
   long:
 - country: US
@@ -12810,7 +12810,7 @@ rate_centers:
   name: SUMMITCITY
   full_name: Summit City
   lata: '348'
-  ilec_name: BRIGHTSPEED OF NORTHERN MICHIGAN, INC
+  ilec_name: 'BRIGHTSPEED OF NORTHERN MICHIGAN, INC                     '
   lat:
   long:
 - country: US
@@ -12846,7 +12846,7 @@ rate_centers:
   name: SUNFIELD
   full_name: Sunfield
   lata: '346'
-  ilec_name: BRIGHTSPEED OF CENTRAL MICHIGAN, INC
+  ilec_name: 'BRIGHTSPEED OF CENTRAL MICHIGAN, INC                      '
   lat: '42.759799'
   long: "-84.99267"
   closest_city:
@@ -12867,7 +12867,7 @@ rate_centers:
   name: SUTTONSBAY
   full_name: Suttons Bay
   lata: '348'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
   lat: '44.973693'
   long: "-85.65657"
   closest_city:
@@ -12975,7 +12975,7 @@ rate_centers:
   name: THOMPSON
   full_name: Thompson
   lata: '342'
-  ilec_name: BRIGHTSPEED OF UPPER MICHIGAN, INC.
+  ilec_name: 'BRIGHTSPEED OF UPPER MICHIGAN, INC.                       '
   lat:
   long:
 - country: US
@@ -13043,18 +13043,6 @@ rate_centers:
   long:
 - country: US
   region: MI
-  exchange: '089020'
-  name: TRCHRIVBDG
-  full_name: Torch River Bridge
-  lata: '348'
-  ilec_name: FRONTIER NORTH, INC. - MI
-  lat: '44.850065'
-  long: "-85.325401"
-  closest_city:
-    name: Rapid City
-    distance_km: 3.37
-- country: US
-  region: MI
   exchange: '318382'
   name: TOWER
   full_name: Tower
@@ -13083,6 +13071,18 @@ rate_centers:
   closest_city:
     name: Traverse City
     distance_km: 1.48
+- country: US
+  region: MI
+  exchange: '089020'
+  name: TRCHRIVBDG
+  full_name: Torch River Bridge
+  lata: '348'
+  ilec_name: FRONTIER NORTH, INC. - MI
+  lat: '44.850065'
+  long: "-85.325401"
+  closest_city:
+    name: Rapid City
+    distance_km: 3.37
 - country: US
   region: MI
   exchange: '318383'
@@ -13127,18 +13127,6 @@ rate_centers:
   long:
 - country: US
   region: MI
-  exchange: '089060'
-  name: TROUTCREEK
-  full_name: Trout Creek
-  lata: '342'
-  ilec_name: MIDWAY TEL. CO.
-  lat: '46.48261'
-  long: "-89.010409"
-  closest_city:
-    name: Bruce Crossing
-    distance_km: 14.29
-- country: US
-  region: MI
   exchange: '089070'
   name: TROUT LAKE
   full_name: Trout Lake
@@ -13149,6 +13137,18 @@ rate_centers:
   closest_city:
     name: Naubinway
     distance_km: 35.12
+- country: US
+  region: MI
+  exchange: '089060'
+  name: TROUTCREEK
+  full_name: Trout Creek
+  lata: '342'
+  ilec_name: MIDWAY TEL. CO.
+  lat: '46.48261'
+  long: "-89.010409"
+  closest_city:
+    name: Bruce Crossing
+    distance_km: 14.29
 - country: US
   region: MI
   exchange: '089080'
@@ -13434,7 +13434,7 @@ rate_centers:
   name: VICKERYVL
   full_name: Vickeryville
   lata: '344'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
   lat: '43.189764'
   long: "-84.965043"
   closest_city:
@@ -13481,6 +13481,18 @@ rate_centers:
   long:
 - country: US
   region: MI
+  exchange: '089410'
+  name: W BLOOMFLD
+  full_name: West Bloomfield
+  lata: '340'
+  ilec_name: MICHIGAN BELL TEL CO
+  lat: '42.530947'
+  long: "-83.365195"
+  closest_city:
+    name: Farmington Hills
+    distance_km: 5.09
+- country: US
+  region: MI
   exchange: '318943'
   name: WABANINGO
   full_name: Wabaningo
@@ -13512,7 +13524,7 @@ rate_centers:
   name: WAHJAMEGA
   full_name: Wahjamega
   lata: '344'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
   lat:
   long:
 - country: US
@@ -13652,6 +13664,15 @@ rate_centers:
     distance_km: 3.96
 - country: US
   region: MI
+  exchange: '317884'
+  name: WASH TWSP
+  full_name: Washington Township
+  lata: '340'
+  ilec_name: MICHIGAN BELL TEL CO
+  lat:
+  long:
+- country: US
+  region: MI
   exchange: '089310'
   name: WASHINGTON
   full_name: Washington
@@ -13664,9 +13685,9 @@ rate_centers:
     distance_km: 8.08
 - country: US
   region: MI
-  exchange: '317884'
-  name: WASH TWSP
-  full_name: Washington Township
+  exchange: '317886'
+  name: WATERFD TW
+  full_name: Waterford Township
   lata: '340'
   ilec_name: MICHIGAN BELL TEL CO
   lat:
@@ -13676,15 +13697,6 @@ rate_centers:
   exchange: '317887'
   name: WATERFORD
   full_name: Waterford
-  lata: '340'
-  ilec_name: MICHIGAN BELL TEL CO
-  lat:
-  long:
-- country: US
-  region: MI
-  exchange: '317886'
-  name: WATERFD TW
-  full_name: Waterford Township
   lata: '340'
   ilec_name: MICHIGAN BELL TEL CO
   lat:
@@ -13826,16 +13838,13 @@ rate_centers:
   long:
 - country: US
   region: MI
-  exchange: '089410'
-  name: W BLOOMFLD
-  full_name: West Bloomfield
-  lata: '340'
+  exchange: '318954'
+  name: WEST OLIVE
+  full_name: West Olive
+  lata: '348'
   ilec_name: MICHIGAN BELL TEL CO
-  lat: '42.530947'
-  long: "-83.365195"
-  closest_city:
-    name: Farmington Hills
-    distance_km: 5.09
+  lat:
+  long:
 - country: US
   region: MI
   exchange: '089420'
@@ -13848,15 +13857,6 @@ rate_centers:
   closest_city:
     name: West Branch
     distance_km: 0.64
-- country: US
-  region: MI
-  exchange: '318954'
-  name: WEST OLIVE
-  full_name: West Olive
-  lata: '348'
-  ilec_name: MICHIGAN BELL TEL CO
-  lat:
-  long:
 - country: US
   region: MI
   exchange: '317889'
@@ -13898,36 +13898,6 @@ rate_centers:
   long:
 - country: US
   region: MI
-  exchange: '318402'
-  name: WHEELER
-  full_name: Wheeler
-  lata: '344'
-  ilec_name: FRONTIER NORTH, INC. - MI
-  lat:
-  long:
-- country: US
-  region: MI
-  exchange: '089440'
-  name: WHITECLOUD
-  full_name: White Cloud
-  lata: '348'
-  ilec_name: MICHIGAN BELL TEL CO
-  lat: '43.548573'
-  long: "-85.777268"
-  closest_city:
-    name: White Cloud
-    distance_km: 0.75
-- country: US
-  region: MI
-  exchange: '317891'
-  name: WHITE LAKE
-  full_name: White Lake
-  lata: '340'
-  ilec_name: FRONTIER NORTH, INC. - MI
-  lat:
-  long:
-- country: US
-  region: MI
   exchange: '089450'
   name: WH PIGEON
   full_name: White Pigeon
@@ -13938,6 +13908,24 @@ rate_centers:
   closest_city:
     name: White Pigeon
     distance_km: 0.32
+- country: US
+  region: MI
+  exchange: '318402'
+  name: WHEELER
+  full_name: Wheeler
+  lata: '344'
+  ilec_name: FRONTIER NORTH, INC. - MI
+  lat:
+  long:
+- country: US
+  region: MI
+  exchange: '317891'
+  name: WHITE LAKE
+  full_name: White Lake
+  lata: '340'
+  ilec_name: FRONTIER NORTH, INC. - MI
+  lat:
+  long:
 - country: US
   region: MI
   exchange: '089460'
@@ -13961,11 +13949,23 @@ rate_centers:
   long:
 - country: US
   region: MI
-  exchange: '318405'
-  name: WHSTONE PT
-  full_name: White Stone Point
-  lata: '344'
-  ilec_name: BRIGHTSPEED OF CENTRAL MICHIGAN, INC
+  exchange: '089440'
+  name: WHITECLOUD
+  full_name: White Cloud
+  lata: '348'
+  ilec_name: MICHIGAN BELL TEL CO
+  lat: '43.548573'
+  long: "-85.777268"
+  closest_city:
+    name: White Cloud
+    distance_km: 0.75
+- country: US
+  region: MI
+  exchange: '317892'
+  name: WHITEFDCTR
+  full_name: Whiteford Center
+  lata: '340'
+  ilec_name: FRONTIER MIDSTATES, INC. - MI
   lat:
   long:
 - country: US
@@ -13984,15 +13984,6 @@ rate_centers:
   full_name: Whitefish Point
   lata: '342'
   ilec_name: HIAWATHA TEL. CO.
-  lat:
-  long:
-- country: US
-  region: MI
-  exchange: '317892'
-  name: WHITEFDCTR
-  full_name: Whiteford Center
-  lata: '340'
-  ilec_name: FRONTIER MIDSTATES, INC. - MI
   lat:
   long:
 - country: US
@@ -14025,12 +14016,21 @@ rate_centers:
   name: WHITTEMORE
   full_name: Whittemore
   lata: '344'
-  ilec_name: BRIGHTSPEED OF MICHIGAN, LLC
+  ilec_name: 'BRIGHTSPEED OF MICHIGAN, LLC                              '
   lat: '44.233703'
   long: "-83.811221"
   closest_city:
     name: Whittemore
     distance_km: 0.63
+- country: US
+  region: MI
+  exchange: '318405'
+  name: WHSTONE PT
+  full_name: White Stone Point
+  lata: '344'
+  ilec_name: 'BRIGHTSPEED OF CENTRAL MICHIGAN, INC                      '
+  lat:
+  long:
 - country: US
   region: MI
   exchange: '318959'

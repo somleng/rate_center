@@ -50,8 +50,8 @@ rate_centers:
     distance_km: 0.59
 - country: US
   region: CT
-  exchange: '028524'
-  name: ASHFORD2
+  exchange: '028541'
+  name: ASHFORD
   full_name: Ashford
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
@@ -59,8 +59,8 @@ rate_centers:
   long:
 - country: US
   region: CT
-  exchange: '028541'
-  name: ASHFORD
+  exchange: '028524'
+  name: ASHFORD2
   full_name: Ashford
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
@@ -305,8 +305,8 @@ rate_centers:
   long:
 - country: US
   region: CT
-  exchange: '027821'
-  name: BURLINGTON
+  exchange: '028013'
+  name: BURLINGTN2
   full_name: Burlington
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
@@ -314,8 +314,8 @@ rate_centers:
   long:
 - country: US
   region: CT
-  exchange: '028013'
-  name: BURLINGTN2
+  exchange: '027821'
+  name: BURLINGTON
   full_name: Burlington
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
@@ -689,60 +689,6 @@ rate_centers:
   long:
 - country: US
   region: CT
-  exchange: '028542'
-  name: EAGLEVILLE
-  full_name: Eagleville
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
-- country: US
-  region: CT
-  exchange: '028272'
-  name: EASTBERLIN
-  full_name: East Berlin
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
-- country: US
-  region: CT
-  exchange: '027841'
-  name: EASTCANAAN
-  full_name: East Canaan
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
-- country: US
-  region: CT
-  exchange: '028031'
-  name: EGLASTONBY
-  full_name: East Glastonbury
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
-- country: US
-  region: CT
-  exchange: '028503'
-  name: EASTGRANBY
-  full_name: East Granby
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
-- country: US
-  region: CT
-  exchange: '028241'
-  name: EASTHADDAM
-  full_name: East Haddam
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
-- country: US
-  region: CT
   exchange: '027970'
   name: E HAMPTON
   full_name: East Hampton
@@ -773,18 +719,36 @@ rate_centers:
   long:
 - country: US
   region: CT
-  exchange: '028294'
-  name: EAST HAVEN
-  full_name: East Haven
+  exchange: '028673'
+  name: E WINDSOR
+  full_name: East Windsor
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
   lat:
   long:
 - country: US
   region: CT
-  exchange: '027945'
-  name: EKILLINGLY
-  full_name: East Killingly
+  exchange: '028087'
+  name: E WNDSR HL
+  full_name: East Windsor Hill
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
+- country: US
+  region: CT
+  exchange: '028542'
+  name: EAGLEVILLE
+  full_name: Eagleville
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
+- country: US
+  region: CT
+  exchange: '028294'
+  name: EAST HAVEN
+  full_name: East Haven
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
   lat:
@@ -812,27 +776,18 @@ rate_centers:
     distance_km: 0.43
 - country: US
   region: CT
-  exchange: '028673'
-  name: E WINDSOR
-  full_name: East Windsor
+  exchange: '028272'
+  name: EASTBERLIN
+  full_name: East Berlin
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
   lat:
   long:
 - country: US
   region: CT
-  exchange: '028087'
-  name: E WNDSR HL
-  full_name: East Windsor Hill
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
-- country: US
-  region: CT
-  exchange: '028444'
-  name: EWOODSTOCK
-  full_name: East Woodstock
+  exchange: '027841'
+  name: EASTCANAAN
+  full_name: East Canaan
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
   lat:
@@ -848,9 +803,18 @@ rate_centers:
   long:
 - country: US
   region: CT
-  exchange: '027812'
-  name: EASTON2
-  full_name: Easton
+  exchange: '028503'
+  name: EASTGRANBY
+  full_name: East Granby
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
+- country: US
+  region: CT
+  exchange: '028241'
+  name: EASTHADDAM
+  full_name: East Haddam
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
   lat:
@@ -860,6 +824,33 @@ rate_centers:
   exchange: '028581'
   name: EASTON
   full_name: Easton
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
+- country: US
+  region: CT
+  exchange: '027812'
+  name: EASTON2
+  full_name: Easton
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
+- country: US
+  region: CT
+  exchange: '028031'
+  name: EGLASTONBY
+  full_name: East Glastonbury
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
+- country: US
+  region: CT
+  exchange: '027945'
+  name: EKILLINGLY
+  full_name: East Killingly
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
   lat:
@@ -917,6 +908,15 @@ rate_centers:
     distance_km: 0.97
 - country: US
   region: CT
+  exchange: '028444'
+  name: EWOODSTOCK
+  full_name: East Woodstock
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
+- country: US
+  region: CT
   exchange: '028445'
   name: FABYAN
   full_name: Fabyan
@@ -935,15 +935,6 @@ rate_centers:
   long:
 - country: US
   region: CT
-  exchange: '027811'
-  name: FAIRFLD2
-  full_name: Fairfield
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
-- country: US
-  region: CT
   exchange: '028000'
   name: FAIRFIELD
   full_name: Fairfield
@@ -954,6 +945,15 @@ rate_centers:
   closest_city:
     name: Mill Plain
     distance_km: 2.38
+- country: US
+  region: CT
+  exchange: '027811'
+  name: FAIRFLD2
+  full_name: Fairfield
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
 - country: US
   region: CT
   exchange: '027842'
@@ -1004,18 +1004,18 @@ rate_centers:
   long:
 - country: US
   region: CT
-  exchange: '028302'
-  name: FTTRUMBULL
-  full_name: Fort Trumbull
+  exchange: '028151'
+  name: FRANKLIN
+  full_name: Franklin
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
   lat:
   long:
 - country: US
   region: CT
-  exchange: '028151'
-  name: FRANKLIN
-  full_name: Franklin
+  exchange: '028302'
+  name: FTTRUMBULL
+  full_name: Fort Trumbull
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
   lat:
@@ -1145,15 +1145,6 @@ rate_centers:
   long:
 - country: US
   region: CT
-  exchange: '027831'
-  name: GREENWICH2
-  full_name: Greenwich
-  lata: '132'
-  ilec_name: VERIZON NEW YORK, INC.
-  lat:
-  long:
-- country: US
-  region: CT
   exchange: '028050'
   name: GREENWICH
   full_name: Greenwich
@@ -1166,11 +1157,11 @@ rate_centers:
     distance_km: 1.75
 - country: US
   region: CT
-  exchange: '028391'
-  name: GRNWICH3
+  exchange: '027831'
+  name: GREENWICH2
   full_name: Greenwich
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lata: '132'
+  ilec_name: VERIZON NEW YORK, INC.
   lat:
   long:
 - country: US
@@ -1178,6 +1169,15 @@ rate_centers:
   exchange: '028112'
   name: GRISWOLD
   full_name: Griswold
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
+- country: US
+  region: CT
+  exchange: '028391'
+  name: GRNWICH3
+  full_name: Greenwich
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
   lat:
@@ -1331,8 +1331,8 @@ rate_centers:
   long:
 - country: US
   region: CT
-  exchange: '027901'
-  name: HEBRON2
+  exchange: '028644'
+  name: HEBRON
   full_name: Hebron
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
@@ -1340,8 +1340,8 @@ rate_centers:
   long:
 - country: US
   region: CT
-  exchange: '028644'
-  name: HEBRON
+  exchange: '027901'
+  name: HEBRON2
   full_name: Hebron
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
@@ -1589,18 +1589,18 @@ rate_centers:
     distance_km: 10.4
 - country: US
   region: CT
-  exchange: '028543'
-  name: MANSFIELD
-  full_name: Mansfield
+  exchange: '028645'
+  name: MANFLD CTR
+  full_name: Mansfield Center
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
   lat:
   long:
 - country: US
   region: CT
-  exchange: '028645'
-  name: MANFLD CTR
-  full_name: Mansfield Center
+  exchange: '028543'
+  name: MANSFIELD
+  full_name: Mansfield
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
   lat:
@@ -1691,15 +1691,6 @@ rate_centers:
   long:
 - country: US
   region: CT
-  exchange: '027974'
-  name: MIDDLEHDDM
-  full_name: Middle Haddam
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
-- country: US
-  region: CT
   exchange: '028612'
   name: MIDDLEBURY
   full_name: Middlebury
@@ -1712,6 +1703,15 @@ rate_centers:
   exchange: '028224'
   name: MIDDLEFLD
   full_name: Middlefield
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
+- country: US
+  region: CT
+  exchange: '027974'
+  name: MIDDLEHDDM
+  full_name: Middle Haddam
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
   lat:
@@ -1841,18 +1841,6 @@ rate_centers:
     distance_km: 0.46
 - country: US
   region: CT
-  exchange: '028270'
-  name: NEWBRITAIN
-  full_name: New Britain
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat: '41.667188'
-  long: "-72.785486"
-  closest_city:
-    name: New Britain
-    distance_km: 0.97
-- country: US
-  region: CT
   exchange: '028280'
   name: NEW CANAAN
   full_name: New Canaan
@@ -1863,33 +1851,6 @@ rate_centers:
   closest_city:
     name: New Canaan
     distance_km: 0.74
-- country: US
-  region: CT
-  exchange: '027931'
-  name: NEWFAIRFLD
-  full_name: New Fairfield
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
-- country: US
-  region: CT
-  exchange: '027864'
-  name: NEWHARTFD2
-  full_name: New Hartford
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
-- country: US
-  region: CT
-  exchange: '028572'
-  name: NEWHARTFD3
-  full_name: New Hartford
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
 - country: US
   region: CT
   exchange: '028683'
@@ -1925,6 +1886,57 @@ rate_centers:
     distance_km: 0.53
 - country: US
   region: CT
+  exchange: '028270'
+  name: NEWBRITAIN
+  full_name: New Britain
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat: '41.667188'
+  long: "-72.785486"
+  closest_city:
+    name: New Britain
+    distance_km: 0.97
+- country: US
+  region: CT
+  exchange: '027931'
+  name: NEWFAIRFLD
+  full_name: New Fairfield
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
+- country: US
+  region: CT
+  exchange: '027864'
+  name: NEWHARTFD2
+  full_name: New Hartford
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
+- country: US
+  region: CT
+  exchange: '028572'
+  name: NEWHARTFD3
+  full_name: New Hartford
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
+- country: US
+  region: CT
+  exchange: '028320'
+  name: NEWINGTON
+  full_name: Newington
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat: '41.689107'
+  long: "-72.723509"
+  closest_city:
+    name: New Britain
+    distance_km: 5.41
+- country: US
+  region: CT
   exchange: '028310'
   name: NEWMILFORD
   full_name: New Milford
@@ -1944,18 +1956,6 @@ rate_centers:
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
   lat:
   long:
-- country: US
-  region: CT
-  exchange: '028320'
-  name: NEWINGTON
-  full_name: Newington
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat: '41.689107'
-  long: "-72.723509"
-  closest_city:
-    name: New Britain
-    distance_km: 5.41
 - country: US
   region: CT
   exchange: '028330'
@@ -1982,9 +1982,72 @@ rate_centers:
     distance_km: 0.7
 - country: US
   region: CT
+  exchange: '027843'
+  name: NO CANAAN
+  full_name: North Canaan
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
+- country: US
+  region: CT
+  exchange: '027863'
+  name: NO CANTON
+  full_name: North Canton
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
+- country: US
+  region: CT
+  exchange: '028504'
+  name: NO GRANBY
+  full_name: North Granby
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
+- country: US
+  region: CT
+  exchange: '028646'
+  name: NO WINDHAM
+  full_name: North Windham
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
+- country: US
+  region: CT
   exchange: '028252'
   name: NOANK
   full_name: Noank
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
+- country: US
+  region: CT
+  exchange: '027801'
+  name: NOBRANFORD
+  full_name: North Branford
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
+- country: US
+  region: CT
+  exchange: '028152'
+  name: NOFRANKLIN
+  full_name: North Franklin
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
+- country: US
+  region: CT
+  exchange: '028448'
+  name: NOGROSVEDL
+  full_name: North Grosvenor Dale
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
   lat:
@@ -2021,135 +2084,6 @@ rate_centers:
   long:
 - country: US
   region: CT
-  exchange: '027801'
-  name: NOBRANFORD
-  full_name: North Branford
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
-- country: US
-  region: CT
-  exchange: '027843'
-  name: NO CANAAN
-  full_name: North Canaan
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
-- country: US
-  region: CT
-  exchange: '027863'
-  name: NO CANTON
-  full_name: North Canton
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
-- country: US
-  region: CT
-  exchange: '028152'
-  name: NOFRANKLIN
-  full_name: North Franklin
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
-- country: US
-  region: CT
-  exchange: '028504'
-  name: NO GRANBY
-  full_name: North Granby
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
-- country: US
-  region: CT
-  exchange: '028448'
-  name: NOGROSVEDL
-  full_name: North Grosvenor Dale
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
-- country: US
-  region: CT
-  exchange: '028296'
-  name: NORTHHAVEN
-  full_name: North Haven
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
-- country: US
-  region: CT
-  exchange: '028253'
-  name: NOSTONIGTN
-  full_name: North Stonington
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
-- country: US
-  region: CT
-  exchange: '028413'
-  name: NOSTONIGT2
-  full_name: North Stonington
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
-- country: US
-  region: CT
-  exchange: '028360'
-  name: NOTHOMPSON
-  full_name: North Thompson
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat: '42.022225'
-  long: "-71.952299"
-  closest_city:
-    name: Quinebaug
-    distance_km: 1.8
-- country: US
-  region: CT
-  exchange: '027975'
-  name: NOWESTCHER
-  full_name: North Westchester
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
-- country: US
-  region: CT
-  exchange: '028646'
-  name: NO WINDHAM
-  full_name: North Windham
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
-- country: US
-  region: CT
-  exchange: '028703'
-  name: NOWOODBURY
-  full_name: North Woodbury
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
-- country: US
-  region: CT
-  exchange: '028449'
-  name: NOWOODSTOK
-  full_name: North Woodstock
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
-- country: US
-  region: CT
   exchange: '028561'
   name: NORTHFIELD
   full_name: Northfield
@@ -2162,6 +2096,15 @@ rate_centers:
   exchange: '027802'
   name: NORTHFORD
   full_name: Northford
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
+- country: US
+  region: CT
+  exchange: '028296'
+  name: NORTHHAVEN
+  full_name: North Haven
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
   lat:
@@ -2201,6 +2144,63 @@ rate_centers:
   long:
 - country: US
   region: CT
+  exchange: '028413'
+  name: NOSTONIGT2
+  full_name: North Stonington
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
+- country: US
+  region: CT
+  exchange: '028253'
+  name: NOSTONIGTN
+  full_name: North Stonington
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
+- country: US
+  region: CT
+  exchange: '028360'
+  name: NOTHOMPSON
+  full_name: North Thompson
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat: '42.022225'
+  long: "-71.952299"
+  closest_city:
+    name: Quinebaug
+    distance_km: 1.8
+- country: US
+  region: CT
+  exchange: '027975'
+  name: NOWESTCHER
+  full_name: North Westchester
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
+- country: US
+  region: CT
+  exchange: '028703'
+  name: NOWOODBURY
+  full_name: North Woodbury
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
+- country: US
+  region: CT
+  exchange: '028449'
+  name: NOWOODSTOK
+  full_name: North Woodstock
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
+- country: US
+  region: CT
   exchange: '028389'
   name: OAKDALE
   full_name: Oakdale
@@ -2226,18 +2226,6 @@ rate_centers:
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
   lat:
   long:
-- country: US
-  region: CT
-  exchange: '028390'
-  name: OLDGRNWICH
-  full_name: Old Greenwich
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat: '41.030282'
-  long: "-73.568162"
-  closest_city:
-    name: Old Greenwich
-    distance_km: 0.55
 - country: US
   region: CT
   exchange: '028182'
@@ -2268,6 +2256,18 @@ rate_centers:
   closest_city:
     name: Old Saybrook Center
     distance_km: 0.61
+- country: US
+  region: CT
+  exchange: '028390'
+  name: OLDGRNWICH
+  full_name: Old Greenwich
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat: '41.030282'
+  long: "-73.568162"
+  closest_city:
+    name: Old Greenwich
+    distance_km: 0.55
 - country: US
   region: CT
   exchange: '028423'
@@ -2327,18 +2327,18 @@ rate_centers:
   long:
 - country: US
   region: CT
-  exchange: '028684'
-  name: PINEMEADOW
-  full_name: Pine Meadow
+  exchange: '027803'
+  name: PINE ORCH
+  full_name: Pine Orchard
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
   lat:
   long:
 - country: US
   region: CT
-  exchange: '027803'
-  name: PINE ORCH
-  full_name: Pine Orchard
+  exchange: '028684'
+  name: PINEMEADOW
+  full_name: Pine Meadow
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
   lat:
@@ -2396,15 +2396,6 @@ rate_centers:
   long:
 - country: US
   region: CT
-  exchange: '027825'
-  name: PLYMOUTH2
-  full_name: Plymouth
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
-- country: US
-  region: CT
   exchange: '028562'
   name: PLYMOUTH
   full_name: Plymouth
@@ -2414,9 +2405,9 @@ rate_centers:
   long:
 - country: US
   region: CT
-  exchange: '028183'
-  name: PT O WOODS
-  full_name: Point O'Woods
+  exchange: '027825'
+  name: PLYMOUTH2
+  full_name: Plymouth
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
   lat:
@@ -2489,6 +2480,15 @@ rate_centers:
   long:
 - country: US
   region: CT
+  exchange: '028183'
+  name: PT O WOODS
+  full_name: Point O'Woods
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
+- country: US
+  region: CT
   exchange: '028440'
   name: PUTNAM
   full_name: Putnam
@@ -2528,15 +2528,6 @@ rate_centers:
   long:
 - country: US
   region: CT
-  exchange: '028023'
-  name: REDDING2
-  full_name: Redding
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
-- country: US
-  region: CT
   exchange: '028450'
   name: REDDING
   full_name: Redding
@@ -2547,6 +2538,15 @@ rate_centers:
   closest_city:
     name: Redding Center
     distance_km: 2.62
+- country: US
+  region: CT
+  exchange: '028023'
+  name: REDDING2
+  full_name: Redding
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
 - country: US
   region: CT
   exchange: '028451'
@@ -2567,13 +2567,16 @@ rate_centers:
   long:
 - country: US
   region: CT
-  exchange: '027935'
-  name: RIDGEFLD3
+  exchange: '028460'
+  name: RIDGEFIELD
   full_name: Ridgefield
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
+  lat: '41.283734'
+  long: "-73.50047"
+  closest_city:
+    name: West Mountain
+    distance_km: 3.6
 - country: US
   region: CT
   exchange: '028021'
@@ -2585,16 +2588,13 @@ rate_centers:
   long:
 - country: US
   region: CT
-  exchange: '028460'
-  name: RIDGEFIELD
+  exchange: '027935'
+  name: RIDGEFLD3
   full_name: Ridgefield
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat: '41.283734'
-  long: "-73.50047"
-  closest_city:
-    name: West Mountain
-    distance_km: 3.6
+  lat:
+  long:
 - country: US
   region: CT
   exchange: '028533'
@@ -2735,15 +2735,6 @@ rate_centers:
   long:
 - country: US
   region: CT
-  exchange: '027783'
-  name: SEYMOUR2
-  full_name: Seymour
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
-- country: US
-  region: CT
   exchange: '028480'
   name: SEYMOUR
   full_name: Seymour
@@ -2754,6 +2745,15 @@ rate_centers:
   closest_city:
     name: Ansonia
     distance_km: 5.87
+- country: US
+  region: CT
+  exchange: '027783'
+  name: SEYMOUR2
+  full_name: Seymour
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
 - country: US
   region: CT
   exchange: '028074'
@@ -2825,54 +2825,9 @@ rate_centers:
     distance_km: 1.17
 - country: US
   region: CT
-  exchange: '027982'
-  name: SOMERS
-  full_name: Somers
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
-- country: US
-  region: CT
-  exchange: '027983'
-  name: SOMERSVL
-  full_name: Somersville
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
-- country: US
-  region: CT
   exchange: '028704'
   name: SO BRITAIN
   full_name: South Britain
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
-- country: US
-  region: CT
-  exchange: '028032'
-  name: SOGLASTOBY
-  full_name: South Glastonbury
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
-- country: US
-  region: CT
-  exchange: '028121'
-  name: SOUTH KENT
-  full_name: South Kent
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
-- country: US
-  region: CT
-  exchange: '028184'
-  name: SOUTH LYME
-  full_name: South Lyme
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
   lat:
@@ -2891,15 +2846,6 @@ rate_centers:
   exchange: '028372'
   name: SO NORWALK
   full_name: South Norwalk
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
-- country: US
-  region: CT
-  exchange: '028546'
-  name: SOWILINGTN
-  full_name: South Willington
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
   lat:
@@ -2933,9 +2879,45 @@ rate_centers:
   long:
 - country: US
   region: CT
-  exchange: '02844D'
-  name: SOWOODSTOK
-  full_name: South Woodstock
+  exchange: '028032'
+  name: SOGLASTOBY
+  full_name: South Glastonbury
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
+- country: US
+  region: CT
+  exchange: '027982'
+  name: SOMERS
+  full_name: Somers
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
+- country: US
+  region: CT
+  exchange: '027983'
+  name: SOMERSVL
+  full_name: Somersville
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
+- country: US
+  region: CT
+  exchange: '028121'
+  name: SOUTH KENT
+  full_name: South Kent
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
+- country: US
+  region: CT
+  exchange: '028184'
+  name: SOUTH LYME
+  full_name: South Lyme
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
   lat:
@@ -2945,15 +2927,6 @@ rate_centers:
   exchange: '028701'
   name: SOUTHBURY
   full_name: Southbury
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
-- country: US
-  region: CT
-  exchange: '028431'
-  name: SOUTHNGTN2
-  full_name: Southington
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
   lat:
@@ -2972,9 +2945,36 @@ rate_centers:
     distance_km: 2.16
 - country: US
   region: CT
+  exchange: '028431'
+  name: SOUTHNGTN2
+  full_name: Southington
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
+- country: US
+  region: CT
   exchange: '028003'
   name: SOUTHPORT
   full_name: Southport
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
+- country: US
+  region: CT
+  exchange: '028546'
+  name: SOWILINGTN
+  full_name: South Willington
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
+- country: US
+  region: CT
+  exchange: '02844D'
+  name: SOWOODSTOK
+  full_name: South Woodstock
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
   lat:
@@ -2999,15 +2999,6 @@ rate_centers:
   long:
 - country: US
   region: CT
-  exchange: '028521'
-  name: STAFFORD
-  full_name: Stafford
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
-- country: US
-  region: CT
   exchange: '028520'
   name: STAFFD SPG
   full_name: Stafford Springs
@@ -3018,6 +3009,15 @@ rate_centers:
   closest_city:
     name: Stafford Springs
     distance_km: 0.76
+- country: US
+  region: CT
+  exchange: '028521'
+  name: STAFFORD
+  full_name: Stafford
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
 - country: US
   region: CT
   exchange: '028522'
@@ -3194,8 +3194,8 @@ rate_centers:
     distance_km: 5.74
 - country: US
   region: CT
-  exchange: '028361'
-  name: THOMPSON2
+  exchange: '02844E'
+  name: THOMPSON
   full_name: Thompson
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
@@ -3203,8 +3203,8 @@ rate_centers:
   long:
 - country: US
   region: CT
-  exchange: '02844E'
-  name: THOMPSON
+  exchange: '028361'
+  name: THOMPSON2
   full_name: Thompson
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
@@ -3251,15 +3251,6 @@ rate_centers:
   long:
 - country: US
   region: CT
-  exchange: '027813'
-  name: TRUMBULL2
-  full_name: Trumbull
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
-- country: US
-  region: CT
   exchange: '028580'
   name: TRUMBULL
   full_name: Trumbull
@@ -3270,6 +3261,15 @@ rate_centers:
   closest_city:
     name: Long Hill
     distance_km: 0.64
+- country: US
+  region: CT
+  exchange: '027813'
+  name: TRUMBULL2
+  full_name: Trumbull
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
 - country: US
   region: CT
   exchange: '028075'
@@ -3290,15 +3290,6 @@ rate_centers:
   long:
 - country: US
   region: CT
-  exchange: '02844G'
-  name: UNION2
-  full_name: Union
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
-- country: US
-  region: CT
   exchange: '028523'
   name: UNION
   full_name: Union
@@ -3311,6 +3302,15 @@ rate_centers:
   exchange: '028262'
   name: UNION CITY
   full_name: Union City
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
+- country: US
+  region: CT
+  exchange: '02844G'
+  name: UNION2
+  full_name: Union
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
   lat:
@@ -3347,6 +3347,69 @@ rate_centers:
   exchange: '028115'
   name: VOLUNTOWN
   full_name: Voluntown
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
+- country: US
+  region: CT
+  exchange: '027871'
+  name: W CHESHIRE
+  full_name: West Cheshire
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
+- country: US
+  region: CT
+  exchange: '027912'
+  name: W CORNWALL
+  full_name: West Cornwall
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
+- country: US
+  region: CT
+  exchange: '028081'
+  name: W HARTFORD
+  full_name: West Hartford
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
+- country: US
+  region: CT
+  exchange: '028687'
+  name: W HARTLAND
+  full_name: West Hartland
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
+- country: US
+  region: CT
+  exchange: '028453'
+  name: W REDDING
+  full_name: West Redding
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
+- country: US
+  region: CT
+  exchange: '028506'
+  name: W SIMSBURY
+  full_name: West Simsbury
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
+- country: US
+  region: CT
+  exchange: '028675'
+  name: W SUFFIELD
+  full_name: West Suffield
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
   lat:
@@ -3401,6 +3464,15 @@ rate_centers:
   long:
 - country: US
   region: CT
+  exchange: '028604'
+  name: WASHINDPOT
+  full_name: Washington Depot
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
+- country: US
+  region: CT
   exchange: '028600'
   name: WASHINGTON
   full_name: Washington
@@ -3411,15 +3483,6 @@ rate_centers:
   closest_city:
     name: New Preston
     distance_km: 5.0
-- country: US
-  region: CT
-  exchange: '028604'
-  name: WASHINDPOT
-  full_name: Washington Depot
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
 - country: US
   region: CT
   exchange: '028610'
@@ -3482,99 +3545,9 @@ rate_centers:
   long:
 - country: US
   region: CT
-  exchange: '027871'
-  name: W CHESHIRE
-  full_name: West Cheshire
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
-- country: US
-  region: CT
-  exchange: '027912'
-  name: W CORNWALL
-  full_name: West Cornwall
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
-- country: US
-  region: CT
-  exchange: '028508'
-  name: WESTGRANBY
-  full_name: West Granby
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
-- country: US
-  region: CT
-  exchange: '028081'
-  name: W HARTFORD
-  full_name: West Hartford
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
-- country: US
-  region: CT
-  exchange: '028687'
-  name: W HARTLAND
-  full_name: West Hartland
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
-- country: US
-  region: CT
   exchange: '028295'
   name: WEST HAVEN
   full_name: West Haven
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
-- country: US
-  region: CT
-  exchange: '028255'
-  name: WESTMYSTIC
-  full_name: West Mystic
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
-- country: US
-  region: CT
-  exchange: '028453'
-  name: W REDDING
-  full_name: West Redding
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
-- country: US
-  region: CT
-  exchange: '028506'
-  name: W SIMSBURY
-  full_name: West Simsbury
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
-- country: US
-  region: CT
-  exchange: '028675'
-  name: W SUFFIELD
-  full_name: West Suffield
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
-- country: US
-  region: CT
-  exchange: '02854A'
-  name: WWILLINGTN
-  full_name: West Willington
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
   lat:
@@ -3608,9 +3581,18 @@ rate_centers:
   long:
 - country: US
   region: CT
-  exchange: '028022'
-  name: WESTON2
-  full_name: Weston
+  exchange: '028508'
+  name: WESTGRANBY
+  full_name: West Granby
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
+- country: US
+  region: CT
+  exchange: '028255'
+  name: WESTMYSTIC
+  full_name: West Mystic
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
   lat:
@@ -3626,9 +3608,9 @@ rate_centers:
   long:
 - country: US
   region: CT
-  exchange: '028001'
-  name: WESTPORT2
-  full_name: Westport
+  exchange: '028022'
+  name: WESTON2
+  full_name: Weston
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
   lat:
@@ -3645,6 +3627,15 @@ rate_centers:
   closest_city:
     name: Westport Village
     distance_km: 0.5
+- country: US
+  region: CT
+  exchange: '028001'
+  name: WESTPORT2
+  full_name: Westport
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
 - country: US
   region: CT
   exchange: '028292'
@@ -3713,15 +3704,6 @@ rate_centers:
   long:
 - country: US
   region: CT
-  exchange: '028024'
-  name: WILTON2
-  full_name: Wilton
-  lata: '920'
-  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
-  lat:
-  long:
-- country: US
-  region: CT
   exchange: '028650'
   name: WILTON
   full_name: Wilton
@@ -3734,9 +3716,9 @@ rate_centers:
     distance_km: 0.55
 - country: US
   region: CT
-  exchange: '028689'
-  name: WINCHESTER
-  full_name: Winchester
+  exchange: '028024'
+  name: WILTON2
+  full_name: Wilton
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
   lat:
@@ -3752,18 +3734,18 @@ rate_centers:
   long:
 - country: US
   region: CT
-  exchange: '028649'
-  name: WINDHAM
-  full_name: Windham
+  exchange: '028689'
+  name: WINCHESTER
+  full_name: Winchester
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
   lat:
   long:
 - country: US
   region: CT
-  exchange: '02808C'
-  name: WINDSOR2
-  full_name: Windsor
+  exchange: '028649'
+  name: WINDHAM
+  full_name: Windham
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
   lat:
@@ -3780,6 +3762,15 @@ rate_centers:
   closest_city:
     name: Blue Hills
     distance_km: 5.46
+- country: US
+  region: CT
+  exchange: '02808C'
+  name: WINDSOR2
+  full_name: Windsor
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
 - country: US
   region: CT
   exchange: '028670'
@@ -3857,6 +3848,15 @@ rate_centers:
   long:
 - country: US
   region: CT
+  exchange: '02844F'
+  name: WOODSTKVLY
+  full_name: Woodstock Valley
+  lata: '920'
+  ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
+  lat:
+  long:
+- country: US
+  region: CT
   exchange: '028441'
   name: WOODSTOCK
   full_name: Woodstock
@@ -3866,9 +3866,9 @@ rate_centers:
   long:
 - country: US
   region: CT
-  exchange: '02844F'
-  name: WOODSTKVLY
-  full_name: Woodstock Valley
+  exchange: '02854A'
+  name: WWILLINGTN
+  full_name: West Willington
   lata: '920'
   ilec_name: SOUTHERN NEW ENGLAND TELCO DBA FRONTIER COMM OF CT
   lat:
