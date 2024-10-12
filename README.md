@@ -81,7 +81,7 @@ end
 
 ### Not using Ruby?
 
-The [data](https://github.com/somleng/rate_center/tree/main/data) directory contains all the data in JSON files.
+The [data](https://github.com/somleng/rate_center/tree/main/data) directory contains all the data as JSON files.
 
 ## Updating Data
 
