@@ -57,6 +57,7 @@ RateCenter.load(:cities, only: { us: [:ny, :ca] }) # Loads cities in New York an
 city = RateCenter::City.find_by!(country: "US", region: "NY", name: "New York")
 city.lat # "40.6943"
 city.log # "-73.9249"
+city.county # Queens
 city.nearby_rate_centers.each do |rate_center|
   puts "Rate Center: #{rate_center.name}, Distance: #{rate_center.distance_km} km"
 end
@@ -77,6 +78,10 @@ end
 # Rate Center: NASSAUZN02, Distance: 18.96 km
 # Rate Center: NASSAUZN03, Distance: 20.16 km
 ```
+
+### Not using Ruby?
+
+The [data](https://github.com/somleng/rate_center/tree/main/data) directory contains all the data in JSON files.
 
 ## Updating Data
 

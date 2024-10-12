@@ -1,5 +1,5 @@
-require "yaml"
 require "geocoder"
+require "json"
 
 module RateCenter
   class DataPrep
@@ -91,8 +91,8 @@ module RateCenter
 
     def write_data(type, country, data)
       data.each do |state, state_data|
-        state_file = data_directory.join(type, country, "#{state.downcase}.yml")
-        state_file.write({ type => state_data }.to_yaml)
+        state_file = data_directory.join(type, country, "#{state.downcase}.json")
+        state_file.write(JSON.pretty_generate(type => state_data))
       end
     end
 
@@ -105,9 +105,9 @@ module RateCenter
     end
 
     def load_data(type, country)
-      data_directory.join(type, country).glob("**/*.yml").each_with_object({}) do |state_file, result|
-        data = YAML.load(state_file.read)
-        state = state_file.basename(".yml").to_s
+      data_directory.join(type, country).glob("**/*.json").each_with_object({}) do |state_file, result|
+        data = JSON.parse(state_file.read)
+        state = state_file.basename(".json").to_s
         result[state.upcase] = data.fetch(type.to_s)
       end
     end
