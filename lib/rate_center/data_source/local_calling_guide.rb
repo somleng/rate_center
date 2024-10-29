@@ -96,8 +96,7 @@ module RateCenter
           next if rate_centers.empty?
 
           data = rate_centers.sort_by { |rc| [ (rc.rcshort || rc.rc), rc.exch ] }.map do |rate_center|
-            related_exchange = rate_centers.find { |rc| rc.exch == rate_center.see_exch } unless rate_center.see_exch.nil?
-            related_exchange = nil
+            related_rate_center = rate_centers.find { |rc| rc.exch == rate_center.see_exch } unless rate_center.see_exch.nil?
 
             {
               "country" => "US",
@@ -107,8 +106,8 @@ module RateCenter
               "full_name" => rate_center.rc,
               "lata" => rate_center.lata.slice(0, 3),
               "ilec_name" => rate_center.ilec_name,
-              "lat" => rate_center.rc_lat || related_exchange&.rc_lat,
-              "long" => rate_center.rc_lon || related_exchange&.rc_lon
+              "lat" => rate_center.rc_lat || related_rate_center&.rc_lat,
+              "long" => rate_center.rc_lon || related_rate_center&.rc_lon
             }
           end
 
