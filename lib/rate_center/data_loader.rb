@@ -2,7 +2,7 @@ require "json"
 
 module RateCenter
   class DataLoader
-    attr_reader :data_directory, :cities, :rate_centers
+    attr_reader :data_directory, :cities, :rate_centers, :lata
 
     def initialize(**options)
       @data_directory = options.fetch(:data_directory) { Pathname(File.expand_path("../../data/", __dir__)) }
@@ -17,6 +17,8 @@ module RateCenter
         @cities = load_data("cities", ...)
       when :rate_centers
         @rate_centers = load_data("rate_centers", ...)
+      when :lata
+        @lata = load_data("lata", ...)
       else
         raise ArgumentError, "Invalid type: #{type}"
       end

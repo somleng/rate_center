@@ -12,6 +12,7 @@ module RateCenter
     def call
       update_rate_centers_with_closest_city
       update_cities_with_nearby_rate_centers
+      export_lata_data
     end
 
     private
@@ -72,6 +73,24 @@ module RateCenter
       write_data("cities", "us", city_data)
     end
 
+    def export_lata_data
+      lata_data = rate_center_data.each_with_object(Hash.new { |h, k| h[k] = [] }) do |(region, rate_centers), result|
+        rate_centers.each do |rate_center|
+          next if result[region].find { |lata| lata.fetch("code") == rate_center.fetch("lata") }
+
+          result[region] << {
+            "country" => rate_center.fetch("country"),
+            "region" => rate_center.fetch("region"),
+            "code" => rate_center.fetch("lata")
+          }
+        end
+
+        result[region].sort_by! { |lata| lata.fetch("code") }
+      end
+
+      write_data("lata", "us", lata_data)
+    end
+
     def find_closest(lat:, long:, data:, key:)
       distance_to = Struct.new(:name, :distance, keyword_init: true)
 
@@ -90,6 +109,8 @@ module RateCenter
     end
 
     def write_data(type, country, data)
+      FileUtils.mkdir_p(data_directory.join(type, country))
+
       data.each do |state, state_data|
         state_file = data_directory.join(type, country, "#{state.downcase}.json")
         state_file.write(JSON.pretty_generate(type => state_data))
