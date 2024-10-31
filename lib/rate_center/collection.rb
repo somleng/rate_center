@@ -15,14 +15,14 @@ module RateCenter
     end
 
     def where(attributes)
-      collection.select do |region|
-        attributes.all? { |key, value| region[key] == value }
+      collection.select do |element|
+        attributes.all? { |key, value| element[key] == value }
       end
     end
 
     def find_by(attributes)
-      collection.find do |region|
-        attributes.all? { |key, value| region[key] == value }
+      collection.find do |element|
+        attributes.all? { |key, value| element[key] == value }
       end
     end
 

@@ -12,6 +12,8 @@ module RateCenter
         OpenStruct.new(code: "45010", region: "GA", country: "US")
       ].freeze
 
+      COUNTRIES = [ :us, :ca ].freeze
+
       attr_reader :client, :data_directory
 
       def initialize(**options)
@@ -80,38 +82,41 @@ module RateCenter
       end
 
       def load_data!(**options)
-        data_directory = options.fetch(:data_directory)
-        FileUtils.mkdir_p(data_directory)
         ::RateCenter.load(:lata, :all)
 
-        us_regions = Array(regions_for("US"))
+        COUNTRIES.each do |country|
+          data_directory = options.fetch(:data_directory).join(country.to_s)
+          FileUtils.mkdir_p(data_directory)
 
-        Array(us_regions).each do |region, _|
-          data_file = data_directory.join("#{region.downcase}.json")
+          regions = Array(regions_for(country))
 
-          rate_centers = fetch_rate_centers_for(region)
-          SPECIAL_CASE_LATAS.select { |lata| lata.region == region }.each do |lata|
-            rate_centers.concat(client.fetch_rate_center_data(region:, lata: lata.code).data)
+          Array(regions).each do |region, _|
+            data_file = data_directory.join("#{region.downcase}.json")
+
+            rate_centers = fetch_rate_centers_for(region)
+            SPECIAL_CASE_LATAS.select { |lata| lata.region == region }.each do |lata|
+              rate_centers.concat(client.fetch_rate_center_data(region:, lata: lata.code).data)
+            end
+            next if rate_centers.empty?
+
+            data = rate_centers.sort_by { |rc| [ (rc.rcshort || rc.rc), rc.exch ] }.map do |rate_center|
+              related_rate_center = rate_centers.find { |rc| rc.exch == rate_center.see_exch } unless rate_center.see_exch.nil?
+
+              {
+                "country" => country.to_s.upcase,
+                "region" => region,
+                "exchange" => rate_center.exch,
+                "name" => (rate_center.rcshort || rate_center.rc).strip.upcase,
+                "full_name" => rate_center.rc,
+                "lata" => rate_center.lata.slice(0, 3),
+                "ilec_name" => rate_center.ilec_name,
+                "lat" => rate_center.rc_lat || related_rate_center&.rc_lat,
+                "long" => rate_center.rc_lon || related_rate_center&.rc_lon
+              }
+            end
+
+            data_file.write(JSON.pretty_generate("rate_centers" => data))
           end
-          next if rate_centers.empty?
-
-          data = rate_centers.sort_by { |rc| [ (rc.rcshort || rc.rc), rc.exch ] }.map do |rate_center|
-            related_rate_center = rate_centers.find { |rc| rc.exch == rate_center.see_exch } unless rate_center.see_exch.nil?
-
-            {
-              "country" => "US",
-              "region" => region,
-              "exchange" => rate_center.exch,
-              "name" => (rate_center.rcshort || rate_center.rc).strip.upcase,
-              "full_name" => rate_center.rc,
-              "lata" => rate_center.lata.slice(0, 3),
-              "ilec_name" => rate_center.ilec_name,
-              "lat" => rate_center.rc_lat || related_rate_center&.rc_lat,
-              "long" => rate_center.rc_lon || related_rate_center&.rc_lon
-            }
-          end
-
-          data_file.write(JSON.pretty_generate("rate_centers" => data))
         end
       end
 
@@ -121,14 +126,14 @@ module RateCenter
         ISO3166::Country.new(country_code).subdivisions
       end
 
-      def lata_codes_for(country_code, region)
-        ::RateCenter::Lata.where(country: country_code, region: region)
+      def lata_codes_for(region)
+        ::RateCenter::Lata.where(region: region)
       end
 
       def fetch_rate_centers_for(region)
         client.fetch_rate_center_data(region:).data
       rescue ResponseParser::ParseError
-        lata_codes = lata_codes_for("US", region)
+        lata_codes = lata_codes_for(region)
         lata_codes.each_with_object([]) do |lata, result|
           result.concat(client.fetch_rate_center_data(region:, lata: lata.code).data)
         end

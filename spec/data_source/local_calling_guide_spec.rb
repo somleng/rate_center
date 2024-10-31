@@ -10,7 +10,7 @@ module RateCenter
         data_source = LocalCallingGuide.new
 
         data_source.load_data!(
-          data_directory: Pathname(File.expand_path("../../tmp/rate_centers/us", __dir__))
+          data_directory: Pathname(File.expand_path("../../tmp/rate_centers", __dir__))
         )
       end
     end

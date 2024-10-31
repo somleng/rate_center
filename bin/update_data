@@ -15,8 +15,8 @@ data_directory = Pathname(File.expand_path("../data/", __dir__))
 logger = Logger.new(STDOUT)
 
 logger.info("Fetching city data from SimpleMaps")
-RateCenter::DataSource::SimpleMaps.new.load_data!(data_directory: data_directory.join("cities/us"))
+RateCenter::DataSource::SimpleMaps.new.load_data!(data_directory: data_directory.join("cities"))
 logger.info("Fetching rate center data from LocalCallingGuide")
-RateCenter::DataSource::LocalCallingGuide.new.load_data!(data_directory: data_directory.join("rate_centers/us"))
+RateCenter::DataSource::LocalCallingGuide.new.load_data!(data_directory: data_directory.join("rate_centers"))
 logger.info("Prepping data")
 RateCenter::DataPrep.new(data_directory:).call
