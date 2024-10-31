@@ -101,5 +101,13 @@ module RateCenter
         "name" => "LSAN DA 01"
       )
     end
+
+    it "loads lata data" do
+      data_loader = DataLoader.new
+
+      data_loader.load(:lata, :all)
+
+      expect(data_loader.lata.size).to be_positive
+    end
   end
 end

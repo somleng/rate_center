@@ -4,7 +4,7 @@
 
 A collection of useful data about [NANPA Rate Centers](https://en.wikipedia.org/wiki/Rate_center).
 
-Data is currently sourced from [Simple Maps](https://simplemaps.com/data/us-cities) and [Local Calling Guide](https://localcallingguide.com/).
+Data is currently sourced from [Simple Maps](https://simplemaps.com/) and [Local Calling Guide](https://localcallingguide.com/).
 
 ## Installation
 
@@ -26,9 +26,10 @@ gem install rate_centers
 
 ```rb
 # Load rate centers
-RateCenter.load(:rate_centers, only: { us: [:ny, :ca] }) # Loads rate centers in New York and California
+RateCenter.load(:rate_centers, only: { us: [:ny, :ca], ca: [:on] }) # Loads rate centers in New York, California and Ontario, Canada
 # RateCenter.load(:rate_centers, only: { us: { ny: [ "NWYRCYZN01" ], ca: [ "LSAN DA 01"]  } }) # Loads only specific rate centers
 # RateCenter.load(:rate_centers, only: { [ :us ] }) # Load all rate centers in US
+# RateCenter.load(:rate_centers, only: { [ :ca ] }) # Load all rate centers in Canada
 # RateCenter.load(:rate_centers, :all) # Load all rate centers
 
 # RateCenter::RateCenter.all # returns all rate centers loaded
@@ -47,9 +48,10 @@ rate_center.closest_city.distance_km # 5.33
 
 ```rb
 # Load cities
-RateCenter.load(:cities, only: { us: [:ny, :ca] }) # Loads cities in New York and California
+RateCenter.load(:cities, only: { us: [:ny, :ca], ca: [:on] }) # # Loads cities in New York, California and Ontario, Canada
 # RateCenter.load(:cities, only: { us: { ny: [ "New York" ], ca: [ "Los Angeles"]  } }) # Loads only specific cities
 # RateCenter.load(:cities, only: { [ :us ] }) # Load all cities in US
+# RateCenter.load(:rate_centers, only: { [ :ca ] }) # Load all rate centers in Canada
 # RateCenter.load(:cities, :all) # Load all cities
 
 # RateCenter::City.all # returns all cities loaded
@@ -58,25 +60,19 @@ city = RateCenter::City.find_by!(country: "US", region: "NY", name: "New York")
 city.lat # "40.6943"
 city.log # "-73.9249"
 city.county # Queens
-city.nearby_rate_centers.each do |rate_center|
+city.nearby_rate_centers.first(10).each do |rate_center|
   puts "Rate Center: #{rate_center.name}, Distance: #{rate_center.distance_km} km"
 end
-# Rate Center: NWYRCYZN01, Distance: 7.5 km
-# Rate Center: NWYRCYZN03, Distance: 7.5 km
-# Rate Center: NWYRCYZN04, Distance: 7.5 km
-# Rate Center: NWYRCYZN05, Distance: 7.5 km
-# Rate Center: NWYRCYZN06, Distance: 7.5 km
-# Rate Center: NWYRCYZN07, Distance: 7.5 km
-# Rate Center: NWYRCYZN08, Distance: 7.5 km
-# Rate Center: NWYRCYZN09, Distance: 7.5 km
-# Rate Center: NWYRCYZN10, Distance: 7.5 km
-# Rate Center: NWYRCYZN11, Distance: 7.5 km
-# Rate Center: NWYRCYZN12, Distance: 7.5 km
-# Rate Center: NWYRCYZN13, Distance: 7.5 km
-# Rate Center: NWYRCYZN14, Distance: 7.5 km
-# Rate Center: NWYRCYZN15, Distance: 7.5 km
-# Rate Center: NASSAUZN02, Distance: 18.96 km
-# Rate Center: NASSAUZN03, Distance: 20.16 km
+# Rate Center: ADDISLEHPK, Distance: 7.5 km
+# Rate Center: ALBEKEN TR, Distance: 7.5 km
+# Rate Center: ANNADALE, Distance: 7.5 km
+# Rate Center: ARDEN HTS, Distance: 7.5 km
+# Rate Center: ARLINGTON, Distance: 7.5 km
+# Rate Center: ARROCHAR, Distance: 7.5 km
+# Rate Center: ARVERNE, Distance: 7.5 km
+# Rate Center: ASTORIA, Distance: 7.5 km
+# Rate Center: BATH BEACH, Distance: 7.5 km
+# Rate Center: BAY RIDGE, Distance: 7.5 km
 ```
 
 ### Not using Ruby?

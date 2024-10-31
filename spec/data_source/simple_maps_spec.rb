@@ -10,7 +10,7 @@ module RateCenter
         data_source = SimpleMaps.new
 
         data_source.load_data!(
-          data_directory: Pathname(File.expand_path("../../tmp/cities/us", __dir__))
+          data_directory: Pathname(File.expand_path("../../tmp/cities", __dir__))
         )
       end
     end

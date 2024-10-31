@@ -17,5 +17,6 @@ end
 require_relative "rate_center/errors"
 require_relative "rate_center/data_loader"
 require_relative "rate_center/city"
+require_relative "rate_center/lata"
 require_relative "rate_center/rate_center"
 require_relative "rate_center/version"
