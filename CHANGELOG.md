@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/somleng/rate_center/compare/v0.2.0...v0.3.0) (2024-10-31)
+
+
+### Features
+
+* Support Canadian Rate Centers ([#34](https://github.com/somleng/rate_center/issues/34)) ([a05c004](https://github.com/somleng/rate_center/commit/a05c004c4ed841d31cff4d77c4278a289832cced))
+
 ## [0.2.0](https://github.com/somleng/rate_center/compare/v0.1.7...v0.2.0) (2024-10-12)
 
 
