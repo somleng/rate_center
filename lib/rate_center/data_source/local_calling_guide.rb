@@ -97,6 +97,8 @@ module RateCenter
             SPECIAL_CASE_LATAS.select { |lata| lata.region == region }.each do |lata|
               rate_centers.concat(client.fetch_rate_center_data(region:, lata: lata.code).data)
             end
+            rate_centers.uniq!(&:exch)
+
             next if rate_centers.empty?
 
             data = rate_centers.sort_by { |rc| [ (rc.rcshort || rc.rc), rc.exch ] }.map do |rate_center|
