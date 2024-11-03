@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.1](https://github.com/somleng/rate_center/compare/v0.3.0...v0.3.1) (2024-11-03)
+
+
+### Bug Fixes
+
+* Don't allow duplicate rate centers ([#36](https://github.com/somleng/rate_center/issues/36)) ([999ded0](https://github.com/somleng/rate_center/commit/999ded0ed2e077e21b1c2d721dc2634c74e0041d))
+
 ## [0.3.0](https://github.com/somleng/rate_center/compare/v0.2.0...v0.3.0) (2024-10-31)
 
 
